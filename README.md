@@ -4,17 +4,17 @@ A static website and the transparent Python model behind it: a Monte Carlo analy
 
 > A simplified, transparent scenario model built by Grok Bot. **Not a professional forecast.**
 
-## Headline results (100,000 simulations per scenario)
+## Headline results (model v2, 100,000 simulations per scenario)
 
 | Scenario | P(D Senate) | P(R Senate) | Senate D+I seats (mean, 80% range) | P(D House) | House D seats (median, 80% range) |
 |---|---|---|---|---|---|
-| (i) Polls unbiased | 67.9% | 31.1% | 51.7 (48–55) | 93.0% | 234 (219–252) |
-| (ii) Polls overstate Dems by 3 (2016/2020/2024 pattern) | 34.5% | 64.6% | 49.3 (46–53) | 70.2% | 223 (210–238) |
-| (iii) Polls overstate Reps by 6 (2025 pattern) | 98.7% | 1.2% | 55.6 (53–58) | >99.9% | 263 (242–287) |
+| (i) Polls unbiased (2018/2022 midterm record) | 68.6% | 30.5% | 51.6 (48–55) | 92.5% | 235 (220–254) |
+| (ii) Polls overstate Dems by 3 (2016/2020/2024 pattern) | 35.2% | 64.0% | 49.5 (46–53) | 70.7% | 224 (209–240) |
+| (iii) Polls overstate Reps by 6 (2025 pattern, tail case) | 98.0% | 1.9% | 55.1 (53–57) | 99.7% | 264 (243–291) |
 
-**Bottom line:** if the polls are unbiased, Democrats are favored in both chambers. Republicans' realistic path to holding both requires the polls to be understating Republicans, and even then Democrats still win the House about 70% of the time. Senate tipping-point races: Alaska, Texas, Ohio, then Maine and Iowa.
+**Bottom line:** if the polls are unbiased, Democrats are favored in both chambers. Republicans' realistic path to holding both requires the polls to be understating Republicans, and even then Democrats still win the House about 70% of the time. Senate tipping-point races: Ohio, Texas, Alaska and Iowa. Model v2 added eight factors (herding-aware poll weighting, demographic/regional error, expert House ratings, candidate quality, poll cleanup, incumbency reweight, fat tails, election mechanics); they largely offset, moving every headline number by under one point. See the before/after table in [model/output/REPORT.md](model/output/REPORT.md).
 
-Baselines: Senate 53R / 45D / 2I with 35 seats up; House 218R / 214D; generic ballot D+8.4 (Oct 9, 2026).
+Baselines: Senate 53R / 45D / 2I with 35 seats up; House 218R / 214D; generic ballot D+8.4 (Oct 9, 2026), D+8.8 after the likely-voter adjustment.
 
 ## Repository layout
 
@@ -38,10 +38,11 @@ Baselines: Senate 53R / 45D / 2I with 35 seats up; House 218R / 214D; generic ba
 
 ## The model in brief
 
-- **Senate:** each race's estimate blends its polling average with a fundamentals estimate (2 × Cook PVI + generic ballot + incumbency + candidate adjustments).
-- **House:** all 435 districts (2026 maps) from fundamentals only: PVI + generic ballot + incumbency.
-- **Correlated error:** every simulation draws one national polling-error term that shifts all races together, plus independent race-level noise.
-- **Scenarios** shift the mean of that national error: 0 (unbiased), +3 toward Republicans (polls overstate Dems), or −6 toward Democrats (polls overstate Reps), each with sd 3.
+- **Senate:** each race's estimate blends its polling average with a fundamentals estimate (2 × Cook PVI + generic ballot + incumbency + candidate adjustments + candidate quality). Poll weight is discounted for stale, partisan-sponsored, or herding-suspect polls.
+- **House:** all 435 districts (2026 maps): fundamentals (PVI + generic ballot + 1.8-pt incumbency) blended with expert race ratings.
+- **Correlated error:** every simulation draws a fat-tailed national polling-error term that shifts all races together, plus state, Census-region and Hispanic-voter error layers and independent race-level noise. AK/ME ranked-choice and the Montana three-way race get extra uncertainty.
+- **Scenarios** shift the mean of the national error: 0 (unbiased), +3 toward Republicans (polls overstate Dems), or −6 toward Democrats (polls overstate Reps), each with sd 3.
+- Every coefficient is our assumption and lives in `model/config.yaml`; each v2 factor can be switched off under `factors:`. `python scripts/factor_attribution.py` measures each factor's marginal effect.
 
 Full details: [model/METHODOLOGY.md](model/METHODOLOGY.md). Full results: [model/output/REPORT.md](model/output/REPORT.md).
 

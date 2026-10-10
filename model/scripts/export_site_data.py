@@ -10,11 +10,32 @@ MODEL = os.path.dirname(HERE)
 ROOT = os.path.dirname(MODEL)
 OUT = os.path.join(MODEL, "output")
 
-KEYS = [("unbiased", "i", "Polls unbiased", "Polling error centered on zero (mean 0, sd 3 pts)."),
+KEYS = [("unbiased", "i", "Polls unbiased",
+         "Polling error centered on zero (mean 0, sd 3 pts, fat-tailed), matching the 2018/2022 midterm record."),
         ("pres_style_D_overstatement", "ii", "Polls overstate Dems +3",
-         "Like 2016/2020/2024: polls overstate Democrats by 3 pts on average (sd 3)."),
+         "Like 2016/2020/2024: polls overstate Democrats by 3 pts on average (sd 3, fat-tailed). The presidential-year average was 3.8."),
         ("r_overstatement_2025", "iii", "Polls overstate Reps +6",
-         "Like the 2025 off-year elections: polls overstate Republicans by 6 pts on average (sd 3).")]
+         "Like the 2025 off-year elections: polls overstate Republicans by 6 pts on average (sd 3). A tail case: the Trump-era off-year average was only 1.3.")]
+
+# v2 factors shown on the site (coefficients mirror model/config.yaml; all are our assumptions)
+FACTORS = [
+    ("herding", "Herding-aware poll weighting",
+     "When a Senate poll average sits far from fundamentals, its weight shrinks: x max(0.5, 1 - 0.04 x (gap - 1 pt)), and race uncertainty widens 0.1 pt per gap point. Party-neutral."),
+    ("demographic_regional", "Demographic + regional error",
+     "A shared Hispanic-voter polling miss (sd 6 pts, scaled by each state's 2020 Census Hispanic share) plus a Census-region error (sd 1.5) on top of national, state and race error."),
+    ("expert_ratings", "Expert ratings in the House",
+     "Cook/Sabato/Inside-style ratings converted to margins (Toss-up 0, Tilt 2, Lean 4.5, Likely 9, Safe 16) and blended at 30% weight in rated seats, 15% in unrated (safe) seats."),
+    ("candidate_quality", "Candidate quality",
+     "Fundamentals-only adjustments: Paxton (TX) +2.0 toward D; Brown (OH) +1.5 D; Cooper (NC) +1.5 D; Sununu (NH) 1.5 toward R. On top of the existing Collins, Osborn and Peltola terms."),
+    ("poll_cleanup", "Poll cleanup",
+     "Generic ballot nudged D+8.4 to D+8.8 for likely voters; Democratic-sponsored polls (LA, MS) shifted 4 pts toward R at half weight; stale polls lose half their weight every 45 days after 2 weeks (VA's June poll now barely counts)."),
+    ("incumbency_reweight", "Incumbency reweight",
+     "House incumbency edge cut from 3.0 to 1.8 pts; appointed senators (Husted, Moody, Graham) treated as open seats (was 1.5)."),
+    ("fat_tails", "Fat tails",
+     "National and race errors drawn from Student-t distributions (df 6 and 8) with the same sd, so blowouts are more likely than under a normal curve."),
+    ("election_mechanics", "Election mechanics",
+     "Ranked-choice transfer uncertainty in Alaska (+2.0 sd) and Maine (+1.5 sd); Montana three-way split (runner-up gets 75% of the anti-R vote); Louisiana Dec 12 House runoffs noted; independents caucus D 60% of the time."),
+]
 
 STATES = {"AL":"Alabama","AK":"Alaska","AR":"Arkansas","CO":"Colorado","DE":"Delaware","FL":"Florida","GA":"Georgia",
  "ID":"Idaho","IL":"Illinois","IA":"Iowa","KS":"Kansas","KY":"Kentucky","LA":"Louisiana","ME":"Maine","MA":"Massachusetts",
@@ -60,6 +81,39 @@ def main():
                       "hist": histogram(dist[key]["house"])},
         })
 
+    v1p = os.path.join(OUT, "summary_v1.json")
+    comparison = []
+    if os.path.exists(v1p):
+        v1 = json.load(open(v1p))
+        for key, short, label, desc in KEYS:
+            a, b = v1[key], summ[key]
+            comparison.append({"key": key, "label": label,
+                               "v1": {"senate_p_D": a["senate_p_D"], "senate_p_R": a["senate_p_R"], "senate_D_mean": a["senate_D_mean"],
+                                      "house_p_D": a["house_p_D"], "house_D_median": a["house_D_median"]},
+                               "v2": {"senate_p_D": b["senate_p_D"], "senate_p_R": b["senate_p_R"], "senate_D_mean": b["senate_D_mean"],
+                                      "house_p_D": b["house_p_D"], "house_D_median": b["house_D_median"]}})
+    attribution = {}
+    ap = os.path.join(OUT, "factor_attribution.json")
+    if os.path.exists(ap):
+        aj = json.load(open(ap))
+        for key in aj:
+            full = aj[key]["v2_all_on"]
+            attribution[key] = {f: {"senate_p_D": round(full["senate_p_D"] - d["senate_p_D"], 4),
+                                    "senate_D_mean": round(full["senate_D_mean"] - d["senate_D_mean"], 3),
+                                    "house_p_D": round(full["house_p_D"] - d["house_p_D"], 4),
+                                    "house_D_mean": round(full["house_D_mean"] - d["house_D_mean"], 2)}
+                                for f, d in aj[key]["drop_one"].items()}
+            base = aj[key]["v1_all_off"]
+            attribution[key + "__alone"] = {f: {"senate_p_D": round(d["senate_p_D"] - base["senate_p_D"], 4),
+                                               "senate_D_mean": round(d["senate_D_mean"] - base["senate_D_mean"], 3),
+                                               "house_p_D": round(d["house_p_D"] - base["house_p_D"], 4),
+                                               "house_D_mean": round(d["house_D_mean"] - base["house_D_mean"], 2)}
+                                           for f, d in aj[key]["add_one"].items()}
+    factors = [{"key": k, "title": t, "detail": d,
+                "effect": {sc: attribution[sc][k] for sc in attribution if "__" not in sc and k in attribution[sc]},
+                "effect_alone": {sc.split("__")[0]: attribution[sc][k] for sc in attribution if sc.endswith("__alone") and k in attribution[sc]}}
+               for k, t, d in FACTORS]
+
     races = {}
     with open(os.path.join(OUT, "senate_race_probabilities_all_scenarios.csv")) as f:
         for r in csv.DictReader(f):
@@ -70,17 +124,24 @@ def main():
                             "dem_side_candidate": r["dem_side_candidate"], "dem_side_party": r["dem_side_party"],
                             "rep_candidate": r["rep_candidate"], "pvi_d": num(r["pvi_d"]),
                             "poll_margin_d": num(r["poll_margin_d"]), "poll_sources": int(float(r["poll_sources"] or 0)),
-                            "est_margin": num(r["est_margin"]), "tipping_freq": num(r["tipping_freq"]), "p_dem": {}}
+                            "est_margin": num(r["est_margin"]), "tipping_freq": num(r["tipping_freq"]),
+                            "poll_weight": num(r.get("poll_weight")), "fundamentals_margin": num(r.get("fundamentals_margin")),
+                            "candidate_quality_adj": num(r.get("candidate_quality_adj")), "mechanics_note": r.get("mechanics_note") or "",
+                            "p_dem": {}}
             races[k]["p_dem"][r["scenario"]] = num(r["p_dem_side"])
     race_list = sorted(races.values(), key=lambda x: -x["p_dem"]["unbiased"])
 
     out = {
         "title": "Apple Lamps Grok Bot Election Analysis and Prediction",
         "as_of": "2026-10-10",
-        "generic_ballot_d": 8.4, "generic_ballot_as_of": "2026-10-09",
+        "model_version": "v2 (eight additional factors)",
+        "generic_ballot_d": 8.8, "generic_ballot_raw_d": 8.4, "generic_ballot_as_of": "2026-10-09",
+        "generic_ballot_note": "D+8.4 polling average, +0.4 likely-voter adjustment (Silver Bulletin LV vs RV gap)",
         "baseline": {"senate": {"R": 53, "D": 45, "I": 2, "up": len(race_list)}, "house": {"R": 218, "D": 214}},
         "scenarios": scenarios,
         "senate_races": race_list,
+        "factors": factors,
+        "comparison": comparison,
     }
     os.makedirs(os.path.join(ROOT, "data"), exist_ok=True)
     path = os.path.join(ROOT, "data", "results.json")

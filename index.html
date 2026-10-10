@@ -19,6 +19,7 @@
         <a href="#scenarios">Scenarios</a>
         <a href="#charts">Seat charts</a>
         <a href="#races">Senate races</a>
+        <a href="#v2">What's new</a>
         <a href="#method">Methodology</a>
       </nav>
     </div>
@@ -36,7 +37,7 @@
             <p>
               If the polls are roughly right, Democrats are favored to win <strong>both</strong> chambers:
               about a <strong class="d" data-field="hero-senate-pD">68%</strong> chance of a Senate majority and <strong class="d" data-field="hero-house-pD">93%</strong> for the House,
-              riding a generic-ballot lead of <span data-field="generic-ballot">D+8.4</span>. Republicans' realistic path to holding both chambers requires the polls to be
+              riding a likely-voter generic-ballot lead of <span data-field="generic-ballot">D+8.8</span>. Republicans' realistic path to holding both chambers requires the polls to be
               <em>understating</em> Republicans, as they did in 2016, 2020 and 2024. In that scenario, Republicans become
               Senate favorites (about <strong class="r" data-field="hero-miss-senate-pR">65%</strong>), but Democrats still win the House roughly
               <strong class="d" data-field="hero-miss-house-pD">70%</strong> of the time. If polls instead miss in Democrats' favor, as in the 2025 off-year
@@ -65,7 +66,7 @@
           <div><dt>Senate today</dt><dd><span class="r">53 R</span> &middot; <span class="d">45 D</span> &middot; <span class="i">2 I</span></dd></div>
           <div><dt>Senate seats up</dt><dd>35</dd></div>
           <div><dt>House today</dt><dd><span class="r">218 R</span> &middot; <span class="d">214 D</span></dd></div>
-          <div><dt>Generic ballot (Oct 9)</dt><dd class="d" data-field="generic-ballot">D+8.4</dd></div>
+          <div><dt>Generic ballot (Oct 9, LV-adj.)</dt><dd class="d" data-field="generic-ballot">D+8.4</dd></div>
           <div><dt>Simulations per scenario</dt><dd id="sims">100,000</dd></div>
         </dl>
       </div>
@@ -91,7 +92,7 @@
         <p class="scenario-desc" id="scenario-desc" aria-live="polite"></p>
         <details class="why-asym">
           <summary>Why +3 one way and +6 the other?</summary>
-          <p>Each scenario copies the size of a real, recent polling miss rather than mirroring the other. In presidential years polls overstated Democrats by about 3 points (2016: 3.0, 2020: 4.7, 2024: 2.9). In the 2025 off-year elections they overstated Republicans by about 6. Recent midterms were close to even (2018: R+0.5, 2022: D+0.8), which is the &ldquo;unbiased&rdquo; case. Every scenario also keeps a &plusmn;3-point standard deviation around its average miss.</p>
+          <p>Each scenario copies the size of a real, recent polling miss rather than mirroring the other. In presidential years polls overstated Democrats by about 3 points (2016: 3.0, 2020: 4.7, 2024: 2.9). In the 2025 off-year elections they overstated Republicans by about 6. Recent midterms were close to even (2018: R+0.5, 2022: D+0.8), which is the &ldquo;unbiased&rdquo; case. Averaged over all three Trump presidential years the miss was 3.8 points, while Trump-era off-year and special elections averaged only 1.3 points toward Republicans, so the 6-point scenario is best read as a <strong>tail case</strong>. Every scenario keeps a &plusmn;3-point, fat-tailed spread around its average miss, plus separate regional and Hispanic-voter error layers.</p>
         </details>
 
         <div class="cards" id="scenario-panel" role="tabpanel" aria-labelledby="tab-pres_style_D_overstatement">
@@ -210,18 +211,35 @@
             <tbody></tbody>
           </table>
         </div>
-        <p class="footnote"><strong>Poll avg / Model margin:</strong> Democratic margin in points (D+ / R+); the number in parentheses is how many polls went into the average. <strong>&ldquo;No polls&rdquo;</strong> means no public polling was found for that race (mostly safe seats), so the model margin there comes from fundamentals alone. <strong>Model margin</strong> blends the polling average with fundamentals (partisan lean, generic ballot, incumbency) before polling error is simulated. <strong>Tipping %:</strong> how often the race delivers the decisive 51st Democratic seat; values under 0.1% are shown as &ldquo;&lt;0.1%&rdquo;. On small screens the table scrolls sideways.</p>
+        <p class="footnote"><strong>Poll avg / Model margin:</strong> Democratic margin in points (D+ / R+); the number in parentheses is how many polls went into the average. <strong>&ldquo;No polls&rdquo;</strong> means no public polling was found for that race (mostly safe seats), so the model margin there comes from fundamentals alone. <strong>Model margin</strong> blends the polling average with fundamentals (partisan lean, generic ballot, incumbency, candidate quality) before polling error is simulated. Poll weight shrinks when a poll average is stale, partisan-sponsored, or far from fundamentals (possible herding). <strong>Tipping %:</strong> how often the race delivers the decisive 51st Democratic seat; values under 0.1% are shown as &ldquo;&lt;0.1%&rdquo;. On small screens the table scrolls sideways.</p>
+      </div>
+    </section>
+
+    <!-- v2 factors -->
+    <section id="v2" class="section alt">
+      <div class="wrap">
+        <h2 class="section-title">What's new in v2: eight more factors</h2>
+        <p class="section-lede">We added eight factors that most often trip up polling-based forecasts. They largely cancel each other out. Herding-aware weighting (on its own) and expert House ratings pull Democrats down, while the likely-voter adjustment, a smaller incumbency edge, treating appointed senators as open seats, and candidate quality push Democrats up. Net, the headline odds moved by less than a point.</p>
+        <div class="table-scroll">
+          <table class="compare-table v2-compare">
+            <caption class="sr-only">Headline numbers before (v1) and after (v2) adding the eight factors</caption>
+            <thead><tr><th scope="col">Scenario</th><th scope="col" class="num">Senate P(D)</th><th scope="col" class="num">Senate P(R)</th><th scope="col" class="num">Senate D+I seats (avg)</th><th scope="col" class="num">House P(D)</th><th scope="col" class="num">House D seats (median)</th></tr></thead>
+            <tbody id="v2-compare-body"><tr><td colspan="6">Loading&hellip;</td></tr></tbody>
+          </table>
+        </div>
+        <p class="footnote">Each cell shows v1 &rarr; v2. Below, &ldquo;effect&rdquo; is how much each factor moves the result in the <strong data-field="v2-effect-scenario">Polls overstate Dems by 3</strong> scenario: &ldquo;In full v2&rdquo; is the full model minus a run with only that factor switched off; &ldquo;Alone on v1&rdquo; is the old model plus only that factor. The two differ because factors interact (for example, candidate quality and open-seat treatment shrink the poll-vs-fundamentals gaps that herding reacts to). 40,000 simulations each, so differences under ~1 point are mostly noise.</p>
+        <ol class="factor-list" id="factor-list"></ol>
       </div>
     </section>
 
     <!-- Methodology + limitations -->
-    <section id="method" class="section alt">
+    <section id="method" class="section">
       <div class="wrap two-col">
         <div>
           <h2 class="section-title">How the model works</h2>
           <ol class="method-list">
-            <li><strong>Estimate each race.</strong> Senate: a weighted blend of the race's polling average and a fundamentals estimate (Cook PVI &times; 2 + the D+8.4 generic ballot + incumbency + candidate adjustments). House: fundamentals only (PVI + generic ballot + incumbency), across all 435 districts on the 2026 maps.</li>
-            <li><strong>Add correlated polling error.</strong> In every simulation, one national polling-error term shifts every race the same direction, on top of independent race-level noise. That is why polling misses tend to sweep the board instead of cancelling out.</li>
+            <li><strong>Estimate each race.</strong> Senate: a weighted blend of the race's polling average and a fundamentals estimate (Cook PVI &times; 2 + the D+8.8 likely-voter generic ballot + incumbency + candidate adjustments). Poll weight is cut for stale, partisan-sponsored, or herding-suspect polls. House: fundamentals (PVI + generic ballot + a 1.8-pt incumbency edge) blended with expert race ratings, across all 435 districts on the 2026 maps.</li>
+            <li><strong>Add correlated polling error.</strong> In every simulation, a fat-tailed national polling-error term shifts every race the same direction, plus shared errors by state, by Census region, and among Hispanic voters, on top of independent race-level noise. That is why polling misses tend to sweep the board instead of cancelling out.</li>
             <li><strong>Simulate <span data-field="sims">100,000</span> elections</strong> per scenario and count who controls each chamber, including how independents caucus.</li>
             <li><strong>Vary the polling-error assumption</strong>: centered at zero, a 3-point pro-Democratic polling miss (the 2016/2020/2024 pattern), or a 6-point pro-Republican miss (the 2025 pattern).</li>
           </ol>
@@ -238,8 +256,9 @@
           <h2 id="limits-title"><span class="limits-icon" aria-hidden="true">!</span>Honest limitations</h2>
           <ul>
             <li><strong>Snapshot as of October 10, 2026.</strong> Polls, candidates and ratings change; nothing here updates automatically.</li>
-            <li><strong>The House model is crude.</strong> It uses only partisan lean, the generic ballot and incumbency, with no district polls, candidate quality or fundraising. It likely <strong>over-credits the Democratic wave by roughly 10 seats</strong>.</li>
-            <li><strong>Simplified, not a professional forecast.</strong> Scenario parameters are judgment calls, and several Senate races have little or no public polling.</li>
+            <li><strong>The House model is still simple.</strong> It now blends in expert ratings, but has no district polls, district-level candidate data or fundraising, and uses each state's Hispanic share as a stand-in for district demographics on the new maps. It still sits a few seats above the pros' 224&ndash;234 range in the unbiased case.</li>
+            <li><strong>Every coefficient is our assumption.</strong> The herding, demographic, candidate-quality, incumbency and ranked-choice settings are judgment calls informed by published research, not values fitted to past elections. The herding evidence comes from one source and is not proof.</li>
+            <li><strong>Simplified, not a professional forecast.</strong> Several Senate races have little or no public polling.</li>
             <li>The scenarios are &ldquo;what if&rdquo; lenses, not predictions of which polling miss will happen.</li>
           </ul>
         </aside>

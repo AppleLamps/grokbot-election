@@ -10,6 +10,8 @@ python run.py --scenario ii               # one scenario (i | ii | iii or full n
 python run.py --scenario custom --bias 1.5 --bias-sd 2.5
 python run.py --scenario all --generic-ballot 5 --sims 20000
 python scripts/build_data.py              # rebuild data/house_districts.csv from data/raw/
+python scripts/factor_attribution.py      # marginal effect of each v2 factor (add-one / drop-one)
+python scripts/export_site_data.py        # rebuild ../data/results.json
 ```
 
 Layout:
@@ -17,6 +19,8 @@ Layout:
 - `data/senate_races.csv` – 35 Senate races: PVI, polls, sources, notes, candidate adjustments
 - `data/house_districts.csv` – 435 districts (2026 maps): PVI, incumbent party, running/open, consensus rating score
 - `data/house_district_polls.csv` – optional district polls (empty by default)
+- `data/state_demographics.csv` – Census region + 2020 Census Hispanic share for all 50 states (v2 demographic/regional error)
+- `reports/additional_factors.md` – research behind the eight v2 factors
 - `data/raw/` – raw source snapshots (Wikipedia wikitext, pulled 2026-10-10)
 - `model.py` – estimates + correlated Monte Carlo engine
 - `run.py` – CLI, CSV/JSON outputs, charts, report

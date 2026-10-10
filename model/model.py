@@ -24,43 +24,144 @@ def _lookup(table: dict, n: int):
     return float(table[k] if k in table else table[str(k)])
 
 
+def factor_on(cfg, name: str) -> bool:
+    return bool((cfg.get("factors") or {}).get(name, False))
+
+
+def generic_ballot(cfg) -> float:
+    gb = float(cfg["generic_ballot_margin"])
+    if factor_on(cfg, "poll_cleanup"):
+        gb += float(cfg.get("generic_ballot_lv_adjustment", 0.0))
+    return gb
+
+
+def load_demographics():
+    d = pd.read_csv(os.path.join(HERE, "data", "state_demographics.csv"))
+    return d.set_index("state")
+
+
+def _interp_margin(score, table: dict):
+    xs = sorted(float(k) for k in table)
+    ys = [float(table[k] if k in table else table[str(k)]) for k in sorted(table, key=float)]
+    return np.sign(score) * np.interp(np.abs(score), xs, ys)
+
+
 # --------------------------------------------------------------------------- Senate
 def senate_estimates(cfg) -> pd.DataFrame:
     s = cfg["senate"]
-    gb = cfg["generic_ballot_margin"]
+    gb = generic_ballot(cfg)
     ev = cfg.get("early_vote_adjustment", {}) or {}
+    demo = load_demographics()
     df = pd.read_csv(os.path.join(HERE, "data", "senate_races.csv"))
     df["poll_sources"] = df["poll_sources"].fillna(0).astype(int)
+    df["census_region"] = df["state"].map(demo["census_region"])
+    df["hispanic_share"] = df["state"].map(demo["hispanic_share_2020"])
     sign = np.where(df["holder"] == "D", 1.0, -1.0)
+    appointed = s["appointed_incumbency_bonus_v2"] if factor_on(cfg, "incumbency_reweight") else s["appointed_incumbency_bonus"]
     inc = np.select([df["inc_status"] == "running", df["inc_status"] == "appointed"],
-                    [s["incumbency_bonus"], s["appointed_incumbency_bonus"]], 0.0) * sign
+                    [s["incumbency_bonus"], appointed], 0.0) * sign
     cand = df["candidate_adj"].fillna(0.0) if s.get("use_candidate_adjustments", True) else 0.0
-    df["fundamentals_margin"] = s["pvi_multiplier"] * df["pvi_d"] + gb + inc + cand
-    df["poll_weight"] = [(_lookup(s["poll_weight_by_sources"], n) if pd.notna(p) else 0.0)
-                         for n, p in zip(df["poll_sources"], df["poll_margin_d"])]
-    df["race_sd"] = [_lookup(s["race_sd_by_sources"], n if pd.notna(p) else 0)
-                     for n, p in zip(df["poll_sources"], df["poll_margin_d"])]
-    poll = df["poll_margin_d"].fillna(0.0)
+    cq = df["state"].map(lambda x: float((s.get("candidate_quality") or {}).get(x, 0.0))) \
+        if factor_on(cfg, "candidate_quality") else 0.0
+    df["candidate_quality_adj"] = cq
+    df["incumbency_adj"] = inc
+    fund = s["pvi_multiplier"] * df["pvi_d"] + gb + inc + cand + cq
+    # Factor 8: three-way races - runner-up only gets part of the anti-R vote
+    df["mechanics_extra_sd"] = 0.0
+    df["mechanics_note"] = ""
+    if factor_on(cfg, "election_mechanics"):
+        for st, tw in (s.get("three_way") or {}).items():
+            m = df["state"] == st
+            c = float(tw["runner_up_share_of_anti_r"])
+            anti_r, rep = 50 + fund[m] / 2, 50 - fund[m] / 2
+            fund[m] = c * anti_r - rep
+            df.loc[m, "mechanics_extra_sd"] += float(tw.get("extra_sd", 0.0))
+            df.loc[m, "mechanics_note"] = f"three-way: runner-up gets {c:.0%} of anti-R vote"
+        for st, rc in (s.get("rcv") or {}).items():
+            m = df["state"] == st
+            fund[m] = fund[m] + float(rc.get("mean_shift", 0.0))
+            df.loc[m, "mechanics_extra_sd"] += float(rc.get("extra_sd", 0.0))
+            df.loc[m, "mechanics_note"] = "ranked-choice transfer uncertainty"
+    df["fundamentals_margin"] = fund
+
+    has_poll = df["poll_margin_d"].notna()
+    base_w = np.array([(_lookup(s["poll_weight_by_sources"], n) if hp else 0.0)
+                       for n, hp in zip(df["poll_sources"], has_poll)])
+    df["race_sd_base"] = [_lookup(s["race_sd_by_sources"], n if hp else 0) for n, hp in zip(df["poll_sources"], has_poll)]
+    poll = df["poll_margin_d"].copy()
+    # Factor 5b: partisan-sponsor shift + weight discount, staleness discount
+    df["poll_weight_mult_cleanup"] = 1.0
+    if factor_on(cfg, "poll_cleanup"):
+        pc = s["poll_cleanup"]
+        spons = df["poll_sponsor_partisan"].fillna("")
+        shift = np.select([spons == "D", spons == "R"], [-pc["partisan_poll_shift"], pc["partisan_poll_shift"]], 0.0)
+        poll = poll + shift
+        mult = np.where(spons.isin(["D", "R"]), pc["partisan_poll_weight_mult"], 1.0)
+        asof = pd.Timestamp(cfg.get("as_of", "2026-10-10"))
+        days = (asof - pd.to_datetime(df["poll_end_date"])).dt.days.fillna(0).clip(lower=0)
+        stale = 0.5 ** (np.clip(days - pc["stale_grace_days"], 0, None) / pc["stale_half_life_days"])
+        df["poll_age_days"] = days
+        df["poll_weight_mult_cleanup"] = mult * stale
+    df["poll_margin_adj"] = poll
+    # Factor 1: herding-aware weighting
+    gap = (poll - df["fundamentals_margin"]).abs().fillna(0.0)
+    df["poll_fund_gap"] = (poll - df["fundamentals_margin"])
+    df["poll_weight_mult_herding"] = 1.0
+    herd_sd = 0.0
+    if factor_on(cfg, "herding"):
+        hz = s["herding"]
+        excess = np.clip(gap - hz["threshold"], 0, None)
+        df["poll_weight_mult_herding"] = np.maximum(hz["floor"], 1 - hz["sensitivity"] * excess)
+        herd_sd = hz["sd_per_gap_pt"] * excess * has_poll
+    df["poll_weight_base"] = base_w
+    df["poll_weight"] = base_w * df["poll_weight_mult_cleanup"] * df["poll_weight_mult_herding"]
+    df["race_sd"] = np.sqrt((df["race_sd_base"] + herd_sd) ** 2 + df["mechanics_extra_sd"] ** 2)
     df["early_vote_adj"] = df["state"].map(lambda x: float(ev.get(x, 0.0)))
-    df["est_margin"] = df["poll_weight"] * poll + (1 - df["poll_weight"]) * df["fundamentals_margin"] + df["early_vote_adj"]
+    df["est_margin"] = df["poll_weight"] * poll.fillna(0.0) + (1 - df["poll_weight"]) * df["fundamentals_margin"] + df["early_vote_adj"]
     return df
 
 
 # --------------------------------------------------------------------------- House
 def house_estimates(cfg) -> pd.DataFrame:
     h = cfg["house"]
-    gb = cfg["generic_ballot_margin"]
+    gb = generic_ballot(cfg)
     ev = cfg.get("early_vote_adjustment", {}) or {}
+    demo = load_demographics()
     df = pd.read_csv(os.path.join(HERE, "data", "house_districts.csv"))
+    df["census_region"] = df["state"].map(demo["census_region"])
+    df["hispanic_share"] = df["state"].map(demo["hispanic_share_2020"]) if \
+        (cfg.get("demographic_regional") or {}).get("house_use_state_hispanic_share", True) else 0.0
     sign = df["inc_party"].map({"D": 1.0, "R": -1.0, "I": -1.0}).fillna(0.0)  # Kiley (I) treated as R-aligned incumbent
-    inc = h["incumbency_bonus"] * sign * df["inc_running"]
+    if factor_on(cfg, "incumbency_reweight"):
+        bonus = h["incumbency_bonus_v2"] * np.where(df["state"].isin(h.get("redrawn_states", [])),
+                                                    h.get("redrawn_incumbency_mult", 1.0), 1.0)
+    else:
+        bonus = h["incumbency_bonus"]
+    inc = bonus * sign * df["inc_running"]
     df["fundamentals_margin"] = h["pvi_multiplier"] * df["pvi_d"] + gb + inc + h.get("seat_bias", 0.0) \
         + df["state"].map(lambda x: float(ev.get(x, 0.0)))
     polls = pd.read_csv(os.path.join(HERE, "data", "house_district_polls.csv"))
     df = df.merge(polls[["district", "poll_margin_d"]], on="district", how="left")
-    w = np.where(df["poll_margin_d"].notna(), h["district_poll_weight"], 0.0)
-    df["est_margin"] = w * df["poll_margin_d"].fillna(0) + (1 - w) * df["fundamentals_margin"]
-    df["race_sd"] = np.where(df["poll_margin_d"].notna(), h["district_sd_with_poll"], h["district_sd"])
+    has_poll = df["poll_margin_d"].notna()
+    # Factor 3: expert ratings
+    df["rating_margin"] = np.nan
+    df["rating_weight"] = 0.0
+    if factor_on(cfg, "expert_ratings"):
+        er = h["expert_ratings"]
+        score = df["consensus_rating_score"].copy()
+        rated = score.notna()
+        if er.get("unrated_as_safe", True):
+            score = score.where(rated, np.sign(df["pvi_d"]) * 3.0)
+            score = score.where(~(~rated & (df["pvi_d"] == 0)), np.nan)
+        df["rating_margin"] = _interp_margin(score, er["score_to_margin"]) + er.get("env_shift", 0.0)
+        w_r = np.where(has_poll, er["weight_polled"], er["weight_unpolled"])
+        w_r = np.where(rated, w_r, er["weight_unrated_safe"])
+        df["rating_weight"] = np.where(df["rating_margin"].notna(), w_r, 0.0)
+    w_p = np.where(has_poll, h["district_poll_weight"], 0.0)
+    w_r = df["rating_weight"].to_numpy()
+    w_f = 1 - w_p - w_r
+    df["est_margin"] = w_p * df["poll_margin_d"].fillna(0) + w_r * df["rating_margin"].fillna(0) + w_f * df["fundamentals_margin"]
+    df["race_sd"] = np.where(has_poll, h["district_sd_with_poll"], h["district_sd"])
     return df
 
 
@@ -96,14 +197,39 @@ def simulate(cfg, bias_mean: float, bias_sd: float, n: int | None = None, seed: 
     states = sorted(set(sen["state"]) | set(hou["state"]))
     sidx = {s: i for i, s in enumerate(states)}
     # Correlated components ------------------------------------------------
-    national = rng.normal(bias_mean, bias_sd, size=n).astype(np.float32)          # polls overstate D by this much
+    fat = factor_on(cfg, "fat_tails")
+    em = cfg.get("error_model") or {}
+    if not fat:
+        bias_sd = float(cfg.get("legacy_poll_bias_sd", bias_sd))
+
+    def draw(shape, df_t):
+        """Unit-variance noise: Student-t (rescaled) when fat tails are on, else normal."""
+        if fat and df_t:
+            return (rng.standard_t(df_t, size=shape) * np.sqrt((df_t - 2) / df_t)).astype(np.float32)
+        return rng.standard_normal(shape).astype(np.float32)
+
+    national = (bias_mean + bias_sd * draw(n, em.get("national_t_df"))).astype(np.float32)  # polls overstate D by this much
     state_err = rng.normal(0, cfg["state_error_sd"], size=(n, len(states))).astype(np.float32)
+    # Factor 2: demographic (Hispanic) + regional shared shocks
+    dr = cfg.get("demographic_regional") or {}
+    regions = ["Northeast", "Midwest", "South", "West"]
+    ridx = {r: i for i, r in enumerate(regions)}
+    if factor_on(cfg, "demographic_regional"):
+        hisp_shock = rng.normal(0, dr.get("hispanic_error_sd", 0.0), size=n).astype(np.float32)
+        reg_err = rng.normal(0, dr.get("regional_error_sd", 0.0), size=(n, len(regions))).astype(np.float32)
+    else:
+        hisp_shock = np.zeros(n, np.float32)
+        reg_err = np.zeros((n, len(regions)), np.float32)
+    race_df = em.get("race_t_df")
 
     # ---------------- Senate
     s_est = sen["est_margin"].to_numpy(np.float32)
     s_sd = sen["race_sd"].to_numpy(np.float32)
     s_st = np.array([sidx[x] for x in sen["state"]])
-    s_m = s_est[None, :] - national[:, None] + state_err[:, s_st] + rng.normal(0, 1, (n, len(sen))).astype(np.float32) * s_sd
+    s_rg = np.array([ridx[x] for x in sen["census_region"]])
+    s_h = sen["hispanic_share"].to_numpy(np.float32)
+    s_m = s_est[None, :] - national[:, None] + state_err[:, s_st] + reg_err[:, s_rg] + hisp_shock[:, None] * s_h[None, :] \
+        + draw((n, len(sen)), race_df) * s_sd
     dside_win = s_m > 0
     is_ind = (sen["dem_side_party"] == "I").to_numpy()
     scfg = cfg["senate"]
@@ -135,6 +261,8 @@ def simulate(cfg, bias_mean: float, bias_sd: float, n: int | None = None, seed: 
     h_est = hou["est_margin"].to_numpy(np.float32)
     h_sd = hou["race_sd"].to_numpy(np.float32)
     h_st = np.array([sidx[x] for x in hou["state"]])
+    h_rg = np.array([ridx[x] for x in hou["census_region"]])
+    h_h = hou["hispanic_share"].to_numpy(np.float32)
     hcfg = cfg["house"]
     maj = hcfg["majority"]
     d_house = np.empty(n, dtype=np.int32)
@@ -144,8 +272,8 @@ def simulate(cfg, bias_mean: float, bias_sd: float, n: int | None = None, seed: 
     chunk = 5000
     for a in range(0, n, chunk):
         b = min(n, a + chunk)
-        m = h_est[None, :] - national[a:b, None] + state_err[a:b][:, h_st] \
-            + rng.normal(0, 1, (b - a, len(hou))).astype(np.float32) * h_sd
+        m = h_est[None, :] - national[a:b, None] + state_err[a:b][:, h_st] + reg_err[a:b][:, h_rg] \
+            + hisp_shock[a:b, None] * h_h[None, :] + draw((b - a, len(hou)), race_df) * h_sd
         w = m > 0
         d_house[a:b] = w.sum(1)
         p_d += w.sum(0); msum += m.sum(0)

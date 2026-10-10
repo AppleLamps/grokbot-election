@@ -1,0 +1,452 @@
+{
+  "unbiased": {
+    "v1_all_off": {
+      "senate_p_D": 0.679075,
+      "senate_p_R": 0.3116,
+      "senate_D_mean": 51.727425,
+      "house_p_D": 0.93055,
+      "house_D_median": 234.0,
+      "house_D_mean": 235.0675
+    },
+    "v2_all_on": {
+      "senate_p_D": 0.687475,
+      "senate_p_R": 0.30375,
+      "senate_D_mean": 51.6233,
+      "house_p_D": 0.926275,
+      "house_D_median": 235.0,
+      "house_D_mean": 236.31195
+    },
+    "add_one": {
+      "herding": {
+        "senate_p_D": 0.632725,
+        "senate_p_R": 0.35705,
+        "senate_D_mean": 51.319525,
+        "house_p_D": 0.930075,
+        "house_D_median": 234.0,
+        "house_D_mean": 235.0351
+      },
+      "demographic_regional": {
+        "senate_p_D": 0.6689,
+        "senate_p_R": 0.322375,
+        "senate_D_mean": 51.675025,
+        "house_p_D": 0.9156,
+        "house_D_median": 234.0,
+        "house_D_mean": 235.4836
+      },
+      "expert_ratings": {
+        "senate_p_D": 0.679075,
+        "senate_p_R": 0.3116,
+        "senate_D_mean": 51.727425,
+        "house_p_D": 0.9139,
+        "house_D_median": 232.0,
+        "house_D_mean": 233.447825
+      },
+      "candidate_quality": {
+        "senate_p_D": 0.684375,
+        "senate_p_R": 0.3064,
+        "senate_D_mean": 51.7598,
+        "house_p_D": 0.93055,
+        "house_D_median": 234.0,
+        "house_D_mean": 235.0675
+      },
+      "poll_cleanup": {
+        "senate_p_D": 0.68195,
+        "senate_p_R": 0.307875,
+        "senate_D_mean": 51.730975,
+        "house_p_D": 0.945275,
+        "house_D_median": 236.0,
+        "house_D_mean": 236.72215
+      },
+      "incumbency_reweight": {
+        "senate_p_D": 0.68375,
+        "senate_p_R": 0.307125,
+        "senate_D_mean": 51.767475,
+        "house_p_D": 0.937075,
+        "house_D_median": 236.0,
+        "house_D_mean": 237.22555
+      },
+      "fat_tails": {
+        "senate_p_D": 0.697825,
+        "senate_p_R": 0.2919,
+        "senate_D_mean": 51.761775,
+        "house_p_D": 0.93945,
+        "house_D_median": 234.0,
+        "house_D_mean": 234.854875
+      },
+      "election_mechanics": {
+        "senate_p_D": 0.677375,
+        "senate_p_R": 0.3127,
+        "senate_D_mean": 51.713075,
+        "house_p_D": 0.929275,
+        "house_D_median": 234.0,
+        "house_D_mean": 235.062375
+      }
+    },
+    "drop_one": {
+      "herding": {
+        "senate_p_D": 0.69705,
+        "senate_p_R": 0.294125,
+        "senate_D_mean": 51.787275,
+        "house_p_D": 0.925975,
+        "house_D_median": 235.0,
+        "house_D_mean": 236.31435
+      },
+      "demographic_regional": {
+        "senate_p_D": 0.6968,
+        "senate_p_R": 0.293075,
+        "senate_D_mean": 51.65145,
+        "house_p_D": 0.941075,
+        "house_D_median": 235.0,
+        "house_D_mean": 235.889525
+      },
+      "expert_ratings": {
+        "senate_p_D": 0.687475,
+        "senate_p_R": 0.30375,
+        "senate_D_mean": 51.6233,
+        "house_p_D": 0.943325,
+        "house_D_median": 238.0,
+        "house_D_mean": 239.198425
+      },
+      "candidate_quality": {
+        "senate_p_D": 0.670175,
+        "senate_p_R": 0.320075,
+        "senate_D_mean": 51.5256,
+        "house_p_D": 0.926275,
+        "house_D_median": 235.0,
+        "house_D_mean": 236.31195
+      },
+      "poll_cleanup": {
+        "senate_p_D": 0.673,
+        "senate_p_R": 0.3177,
+        "senate_D_mean": 51.535825,
+        "house_p_D": 0.91425,
+        "house_D_median": 234.0,
+        "house_D_mean": 235.0898
+      },
+      "incumbency_reweight": {
+        "senate_p_D": 0.672325,
+        "senate_p_R": 0.31775,
+        "senate_D_mean": 51.510425,
+        "house_p_D": 0.9211,
+        "house_D_median": 234.0,
+        "house_D_mean": 234.8537
+      },
+      "fat_tails": {
+        "senate_p_D": 0.672125,
+        "senate_p_R": 0.31945,
+        "senate_D_mean": 51.592325,
+        "house_p_D": 0.9165,
+        "house_D_median": 235.0,
+        "house_D_mean": 236.506525
+      },
+      "election_mechanics": {
+        "senate_p_D": 0.68835,
+        "senate_p_R": 0.30215,
+        "senate_D_mean": 51.63955,
+        "house_p_D": 0.9274,
+        "house_D_median": 235.0,
+        "house_D_mean": 236.299975
+      }
+    }
+  },
+  "pres_style_D_overstatement": {
+    "v1_all_off": {
+      "senate_p_D": 0.344575,
+      "senate_p_R": 0.647075,
+      "senate_D_mean": 49.294275,
+      "house_p_D": 0.703375,
+      "house_D_median": 223.0,
+      "house_D_mean": 223.7647
+    },
+    "v2_all_on": {
+      "senate_p_D": 0.351775,
+      "senate_p_R": 0.640325,
+      "senate_D_mean": 49.51555,
+      "house_p_D": 0.7135,
+      "house_D_median": 224.0,
+      "house_D_mean": 224.34165
+    },
+    "add_one": {
+      "herding": {
+        "senate_p_D": 0.307475,
+        "senate_p_R": 0.68295,
+        "senate_D_mean": 49.207225,
+        "house_p_D": 0.7033,
+        "house_D_median": 223.0,
+        "house_D_mean": 223.789875
+      },
+      "demographic_regional": {
+        "senate_p_D": 0.348575,
+        "senate_p_R": 0.64195,
+        "senate_D_mean": 49.302825,
+        "house_p_D": 0.691925,
+        "house_D_median": 223.0,
+        "house_D_mean": 224.056025
+      },
+      "expert_ratings": {
+        "senate_p_D": 0.344575,
+        "senate_p_R": 0.647075,
+        "senate_D_mean": 49.294275,
+        "house_p_D": 0.664875,
+        "house_D_median": 222.0,
+        "house_D_mean": 222.438075
+      },
+      "candidate_quality": {
+        "senate_p_D": 0.350025,
+        "senate_p_R": 0.64165,
+        "senate_D_mean": 49.33,
+        "house_p_D": 0.703375,
+        "house_D_median": 223.0,
+        "house_D_mean": 223.7647
+      },
+      "poll_cleanup": {
+        "senate_p_D": 0.347825,
+        "senate_p_R": 0.642525,
+        "senate_D_mean": 49.33005,
+        "house_p_D": 0.744075,
+        "house_D_median": 224.0,
+        "house_D_mean": 225.198625
+      },
+      "incumbency_reweight": {
+        "senate_p_D": 0.349375,
+        "senate_p_R": 0.6425,
+        "senate_D_mean": 49.324775,
+        "house_p_D": 0.720175,
+        "house_D_median": 224.0,
+        "house_D_mean": 224.876775
+      },
+      "fat_tails": {
+        "senate_p_D": 0.32945,
+        "senate_p_R": 0.662225,
+        "senate_D_mean": 49.2837,
+        "house_p_D": 0.72005,
+        "house_D_median": 223.0,
+        "house_D_mean": 223.664425
+      },
+      "election_mechanics": {
+        "senate_p_D": 0.344,
+        "senate_p_R": 0.647475,
+        "senate_D_mean": 49.299575,
+        "house_p_D": 0.702925,
+        "house_D_median": 223.0,
+        "house_D_mean": 223.788875
+      }
+    },
+    "drop_one": {
+      "herding": {
+        "senate_p_D": 0.351375,
+        "senate_p_R": 0.64,
+        "senate_D_mean": 49.410575,
+        "house_p_D": 0.71195,
+        "house_D_median": 224.0,
+        "house_D_mean": 224.33665
+      },
+      "demographic_regional": {
+        "senate_p_D": 0.34425,
+        "senate_p_R": 0.64755,
+        "senate_D_mean": 49.506025,
+        "house_p_D": 0.727975,
+        "house_D_median": 223.0,
+        "house_D_mean": 224.10685
+      },
+      "expert_ratings": {
+        "senate_p_D": 0.351775,
+        "senate_p_R": 0.640325,
+        "senate_D_mean": 49.51555,
+        "house_p_D": 0.7652,
+        "house_D_median": 226.0,
+        "house_D_mean": 226.613625
+      },
+      "candidate_quality": {
+        "senate_p_D": 0.3345,
+        "senate_p_R": 0.65715,
+        "senate_D_mean": 49.4264,
+        "house_p_D": 0.7135,
+        "house_D_median": 224.0,
+        "house_D_mean": 224.34165
+      },
+      "poll_cleanup": {
+        "senate_p_D": 0.335775,
+        "senate_p_R": 0.655725,
+        "senate_D_mean": 49.411375,
+        "house_p_D": 0.68025,
+        "house_D_median": 223.0,
+        "house_D_mean": 223.263075
+      },
+      "incumbency_reweight": {
+        "senate_p_D": 0.3377,
+        "senate_p_R": 0.653975,
+        "senate_D_mean": 49.432725,
+        "house_p_D": 0.69935,
+        "house_D_median": 223.0,
+        "house_D_mean": 223.616625
+      },
+      "fat_tails": {
+        "senate_p_D": 0.359325,
+        "senate_p_R": 0.63135,
+        "senate_D_mean": 49.504925,
+        "house_p_D": 0.691625,
+        "house_D_median": 224.0,
+        "house_D_mean": 224.32635
+      },
+      "election_mechanics": {
+        "senate_p_D": 0.35155,
+        "senate_p_R": 0.639825,
+        "senate_D_mean": 49.51175,
+        "house_p_D": 0.71215,
+        "house_D_median": 224.0,
+        "house_D_mean": 224.33905
+      }
+    }
+  },
+  "r_overstatement_2025": {
+    "v1_all_off": {
+      "senate_p_D": 0.986725,
+      "senate_p_R": 0.0123,
+      "senate_D_mean": 55.58255,
+      "house_p_D": 0.999625,
+      "house_D_median": 262.0,
+      "house_D_mean": 263.601575
+    },
+    "v2_all_on": {
+      "senate_p_D": 0.980975,
+      "senate_p_R": 0.018075,
+      "senate_D_mean": 55.127175,
+      "house_p_D": 0.9965,
+      "house_D_median": 264.0,
+      "house_D_mean": 266.107
+    },
+    "add_one": {
+      "herding": {
+        "senate_p_D": 0.97825,
+        "senate_p_R": 0.01965,
+        "senate_D_mean": 55.0152,
+        "house_p_D": 0.99965,
+        "house_D_median": 262.0,
+        "house_D_mean": 263.578025
+      },
+      "demographic_regional": {
+        "senate_p_D": 0.98225,
+        "senate_p_R": 0.01625,
+        "senate_D_mean": 55.509725,
+        "house_p_D": 0.9989,
+        "house_D_median": 263.0,
+        "house_D_mean": 264.116475
+      },
+      "expert_ratings": {
+        "senate_p_D": 0.986725,
+        "senate_p_R": 0.0123,
+        "senate_D_mean": 55.58255,
+        "house_p_D": 0.99935,
+        "house_D_median": 260.0,
+        "house_D_mean": 261.185175
+      },
+      "candidate_quality": {
+        "senate_p_D": 0.987,
+        "senate_p_R": 0.012,
+        "senate_D_mean": 55.592825,
+        "house_p_D": 0.999625,
+        "house_D_median": 262.0,
+        "house_D_mean": 263.601575
+      },
+      "poll_cleanup": {
+        "senate_p_D": 0.986875,
+        "senate_p_R": 0.012,
+        "senate_D_mean": 55.473375,
+        "house_p_D": 0.999825,
+        "house_D_median": 265.0,
+        "house_D_mean": 265.806225
+      },
+      "incumbency_reweight": {
+        "senate_p_D": 0.987125,
+        "senate_p_R": 0.011925,
+        "senate_D_mean": 55.6181,
+        "house_p_D": 0.999775,
+        "house_D_median": 267.0,
+        "house_D_mean": 267.818175
+      },
+      "fat_tails": {
+        "senate_p_D": 0.9845,
+        "senate_p_R": 0.01455,
+        "senate_D_mean": 55.60495,
+        "house_p_D": 0.997325,
+        "house_D_median": 262.0,
+        "house_D_mean": 263.313775
+      },
+      "election_mechanics": {
+        "senate_p_D": 0.986525,
+        "senate_p_R": 0.0125,
+        "senate_D_mean": 55.55385,
+        "house_p_D": 0.999725,
+        "house_D_median": 263.0,
+        "house_D_mean": 263.59075
+      }
+    },
+    "drop_one": {
+      "herding": {
+        "senate_p_D": 0.983125,
+        "senate_p_R": 0.016075,
+        "senate_D_mean": 55.459875,
+        "house_p_D": 0.9968,
+        "house_D_median": 264.0,
+        "house_D_mean": 266.089325
+      },
+      "demographic_regional": {
+        "senate_p_D": 0.983075,
+        "senate_p_R": 0.015875,
+        "senate_D_mean": 55.169875,
+        "house_p_D": 0.99745,
+        "house_D_median": 264.0,
+        "house_D_mean": 265.44705
+      },
+      "expert_ratings": {
+        "senate_p_D": 0.980975,
+        "senate_p_R": 0.018075,
+        "senate_D_mean": 55.127175,
+        "house_p_D": 0.997175,
+        "house_D_median": 269.0,
+        "house_D_mean": 270.3976
+      },
+      "candidate_quality": {
+        "senate_p_D": 0.979425,
+        "senate_p_R": 0.01955,
+        "senate_D_mean": 55.078925,
+        "house_p_D": 0.9965,
+        "house_D_median": 264.0,
+        "house_D_mean": 266.107
+      },
+      "poll_cleanup": {
+        "senate_p_D": 0.979325,
+        "senate_p_R": 0.0195,
+        "senate_D_mean": 55.1268,
+        "house_p_D": 0.9963,
+        "house_D_median": 263.0,
+        "house_D_mean": 264.460125
+      },
+      "incumbency_reweight": {
+        "senate_p_D": 0.978975,
+        "senate_p_R": 0.019825,
+        "senate_D_mean": 55.015925,
+        "house_p_D": 0.996525,
+        "house_D_median": 261.0,
+        "house_D_mean": 263.042225
+      },
+      "fat_tails": {
+        "senate_p_D": 0.981025,
+        "senate_p_R": 0.017375,
+        "senate_D_mean": 55.084475,
+        "house_p_D": 0.999125,
+        "house_D_median": 265.0,
+        "house_D_mean": 266.44045
+      },
+      "election_mechanics": {
+        "senate_p_D": 0.9814,
+        "senate_p_R": 0.017725,
+        "senate_D_mean": 55.17065,
+        "house_p_D": 0.996575,
+        "house_D_median": 264.0,
+        "house_D_mean": 266.108475
+      }
+    }
+  }
+}

@@ -1,106 +1,106 @@
-state,seat,holder,dem_side_candidate,dem_side_party,rep_candidate,pvi_d,poll_margin_d,poll_sources,poll_weight,fundamentals_margin,est_margin,sim_p10,sim_p90,p_dem_side,tipping_freq,p_rep,scenario
-MA,regular,D,Ed Markey,D,John Deaton,14,,0,0.0,39.4,39.4,29.245403,49.49018,1.0,0.0,0.0,unbiased
-OR,regular,D,Jeff Merkley,D,David Brock Smith,8,,0,0.0,27.4,27.4,17.317575,37.57267,0.99981,0.00011,0.00019000000000002348,unbiased
-RI,regular,D,Jack Reed,D,Raymond McKay,8,,0,0.0,27.4,27.4,17.254692,37.50321,0.99975,0.00013,0.00024999999999997247,unbiased
-DE,regular,D,Chris Coons,D,Michael Katz,8,,0,0.0,27.4,27.4,17.335566,37.55267,0.99972,9e-05,0.00027999999999994696,unbiased
-CO,regular,D,John Hickenlooper,D,Mark Baisley,6,,0,0.0,23.4,23.4,13.299928,33.51473,0.99857,0.0006,0.0014300000000000423,unbiased
-NM,regular,D,Ben Ray Lujan,D,Larry Marker,4,16.5,2,0.6,19.4,17.66,9.764946,25.53722,0.99814,0.00114,0.0018599999999999728,unbiased
-IL,regular,D,Juliana Stratton,D,Don Tracy,6,,0,0.0,20.4,20.4,10.342445,30.489174,0.99513,0.00231,0.004870000000000041,unbiased
-VA,regular,D,Mark Warner,D,Bert Mizusawa,3,18.0,1,0.35,17.4,17.61,8.618753,26.571766,0.99408,0.00302,0.005920000000000036,unbiased
-NJ,regular,D,Cory Booker,D,Justin Murphy,4,,0,0.0,19.4,19.4,9.278516,29.485191,0.99303,0.00298,0.006970000000000032,unbiased
-NC,regular,R,Roy Cooper,D,Michael Whatley,-1,9.2,5,0.85,6.4,8.78,1.83663,15.730434,0.94776,0.02693,0.05223999999999995,unbiased
-GA,regular,D,Jon Ossoff,D,Mike Collins,-1,8.3,5,0.85,9.4,8.465000000000002,1.5562842,15.361561,0.94289,0.03042,0.057109999999999994,unbiased
-NH,regular,D,Chris Pappas,D,John E. Sununu,2,6.5,5,0.85,12.4,7.385,0.4700362,14.310171,0.91474,0.04172,0.08526,unbiased
-MN,regular,D,Peggy Flanagan,D,Michele Tafoya,3,2.9,5,0.85,14.4,4.625,-2.2725928,11.512885,0.80516,0.07775,0.19484,unbiased
-MI,regular,D,Abdul El-Sayed,D,Mike Rogers,0,3.3,5,0.85,8.4,4.0649999999999995,-2.8553278,10.970191,0.77358,0.08562,0.22641999999999995,unbiased
-ME,regular,R,Troy Jackson,D,Susan Collins,4,2.0,5,0.85,5.999999999999998,2.5999999999999996,-4.2940903,9.477021,0.68667,0.09584,0.31333,unbiased
-OH,special,R,Sherrod Brown,D,Jon Husted,-5,3.5,5,0.85,-3.0999999999999996,2.5100000000000002,-4.4017057,9.386126,0.68032,0.09757,0.31967999999999996,unbiased
-TX,regular,R,James Talarico,D,Ken Paxton,-6,3.3,6,0.85,-3.5999999999999996,2.2649999999999997,-4.6289024,9.201646,0.66267,0.09889,0.33733,unbiased
-AK,regular,R,Mary Peltola,D,Dan Sullivan,-6,2.4,4,0.85,-1.3999999999999995,1.83,-5.059959,8.765982,0.63238,0.10153,0.36761999999999995,unbiased
-IA,regular,R,Josh Turek,D,Ashley Hinson,-6,1.1,5,0.85,-3.5999999999999996,0.395,-6.5139217,7.26617,0.52754,0.09576,0.47246,unbiased
-KS,regular,R,Adam Hamilton,D,Roger Marshall,-8,0.6,5,0.85,-10.6,-1.08,-7.9522047,5.8012996,0.41943,0.07959,0.58057,unbiased
-NE,regular,R,Dan Osborn,I,Pete Ricketts,-10,-0.9,3,0.75,-7.699999999999999,-2.5999999999999996,-10.020089,4.77213,0.32727,0.05983,0.67273,unbiased
-SC,regular,R,Annie Andrews,D,Darline Graham,-8,-1.6,5,0.85,-9.1,-2.7250000000000005,-9.621702,4.1474032,0.30694,0.05862,0.69306,unbiased
-FL,special,R,Angie Nixon,D,Ashley Moody,-5,-6.1,5,0.85,-3.0999999999999996,-5.6499999999999995,-12.539361,1.2897897,0.14839,0.02437,0.85161,unbiased
-LA,regular,R,Jamie Davis,D,Julia Letlow,-11,-5.8,1,0.35,-13.6,-10.87,-19.898073,-1.8968649,0.06147,0.0092,0.93853,unbiased
-MS,regular,R,Scott Colom,D,Cindy Hyde-Smith,-11,-6.0,1,0.35,-16.6,-12.89,-21.887333,-3.895057,0.03264,0.00446,0.96736,unbiased
-KY,regular,R,Charles Booker,D,Andy Barr,-15,,0,0.0,-21.6,-21.6,-31.658556,-11.508628,0.00339,0.00042,0.99661,unbiased
-AL,regular,R,Everett Wess,D,Barry Moore,-15,,0,0.0,-21.6,-21.6,-31.728104,-11.524408,0.00309,0.00034,0.99691,unbiased
-MT,regular,R,Seth Bodnar / Alani Bankhead,I,Kurt Alme,-10,-15.7,4,0.85,-11.6,-15.084999999999999,-21.979425,-8.210326,0.00238,0.0002,0.99762,unbiased
-TN,regular,R,Marquita Bradshaw,D,Bill Hagerty,-14,,0,0.0,-22.6,-22.6,-32.68062,-12.504546,0.00187,0.00019,0.99813,unbiased
-SD,regular,R,Brian Bengs,I,Mike Rounds,-15,,0,0.0,-24.6,-24.6,-34.716946,-14.465005,0.00094,0.00014,0.99906,unbiased
-AR,regular,R,Hallie Shoffner,D,Tom Cotton,-15,,0,0.0,-24.6,-24.6,-34.74649,-14.516882,0.00092,0.00017,0.99908,unbiased
-OK,regular,R,N'Kiyla Jasmine Thomas,D,Kevin Hern,-17,,0,0.0,-25.6,-25.6,-35.80674,-15.479957,0.00052,6e-05,0.99948,unbiased
-ID,regular,R,Todd Achilles,I,Jim Risch,-18,,0,0.0,-30.6,-30.6,-40.6443,-20.537788,4e-05,0.0,0.99996,unbiased
-WV,regular,R,Rachel Fetty Anderson,D,Shelley Moore Capito,-21,,0,0.0,-36.6,-36.6,-46.674934,-26.568195,0.0,0.0,1.0,unbiased
-WY,regular,R,James W. Byrd,D,Harriet Hageman,-23,,0,0.0,-37.6,-37.6,-47.720997,-27.56391,0.0,0.0,1.0,unbiased
-MA,regular,D,Ed Markey,D,John Deaton,14,,0,0.0,39.4,39.4,26.245403,46.49018,1.0,0.0,0.0,pres_style_D_overstatement
-DE,regular,D,Chris Coons,D,Michael Katz,8,,0,0.0,27.4,27.4,14.335566,34.55267,0.99907,9e-05,0.0009299999999999864,pres_style_D_overstatement
-OR,regular,D,Jeff Merkley,D,David Brock Smith,8,,0,0.0,27.4,27.4,14.317575,34.57267,0.99907,0.00011,0.0009299999999999864,pres_style_D_overstatement
-RI,regular,D,Jack Reed,D,Raymond McKay,8,,0,0.0,27.4,27.4,14.254691,34.503212,0.99891,0.00013,0.0010900000000000354,pres_style_D_overstatement
-CO,regular,D,John Hickenlooper,D,Mark Baisley,6,,0,0.0,23.4,23.4,10.299928,30.514727,0.99546,0.0006,0.0045399999999999885,pres_style_D_overstatement
-NM,regular,D,Ben Ray Lujan,D,Larry Marker,4,16.5,2,0.6,19.4,17.66,6.764946,22.53722,0.99102,0.00114,0.008979999999999988,pres_style_D_overstatement
-IL,regular,D,Juliana Stratton,D,Don Tracy,6,,0,0.0,20.4,20.4,7.3424463,27.489174,0.98632,0.00231,0.013680000000000025,pres_style_D_overstatement
-NJ,regular,D,Cory Booker,D,Justin Murphy,4,,0,0.0,19.4,19.4,6.278516,26.485191,0.98187,0.00298,0.01812999999999998,pres_style_D_overstatement
-VA,regular,D,Mark Warner,D,Bert Mizusawa,3,18.0,1,0.35,17.4,17.61,5.618753,23.571766,0.98186,0.00302,0.018140000000000045,pres_style_D_overstatement
-NC,regular,R,Roy Cooper,D,Michael Whatley,-1,9.2,5,0.85,6.4,8.78,-1.16337,12.730434,0.85642,0.02693,0.14358000000000004,pres_style_D_overstatement
-GA,regular,D,Jon Ossoff,D,Mike Collins,-1,8.3,5,0.85,9.4,8.465000000000002,-1.4437158,12.361561,0.84347,0.03042,0.15652999999999995,pres_style_D_overstatement
-NH,regular,D,Chris Pappas,D,John E. Sununu,2,6.5,5,0.85,12.4,7.385,-2.5299637,11.310171,0.79229,0.04172,0.20770999999999995,pres_style_D_overstatement
-MN,regular,D,Peggy Flanagan,D,Michele Tafoya,3,2.9,5,0.85,14.4,4.625,-5.2725925,8.512885,0.619,0.07775,0.381,pres_style_D_overstatement
-MI,regular,D,Abdul El-Sayed,D,Mike Rogers,0,3.3,5,0.85,8.4,4.0649999999999995,-5.8553276,7.970192,0.57833,0.08562,0.42167,pres_style_D_overstatement
-ME,regular,R,Troy Jackson,D,Susan Collins,4,2.0,5,0.85,5.999999999999998,2.5999999999999996,-7.2940903,6.4770207,0.46997,0.09584,0.53003,pres_style_D_overstatement
-OH,special,R,Sherrod Brown,D,Jon Husted,-5,3.5,5,0.85,-3.0999999999999996,2.5100000000000002,-7.4017057,6.3861246,0.46536,0.09757,0.53464,pres_style_D_overstatement
-TX,regular,R,James Talarico,D,Ken Paxton,-6,3.3,6,0.85,-3.5999999999999996,2.2649999999999997,-7.628903,6.201646,0.44568,0.09889,0.5543199999999999,pres_style_D_overstatement
-AK,regular,R,Mary Peltola,D,Dan Sullivan,-6,2.4,4,0.85,-1.3999999999999995,1.83,-8.059959,5.7659817,0.41251,0.10153,0.5874900000000001,pres_style_D_overstatement
-IA,regular,R,Josh Turek,D,Ashley Hinson,-6,1.1,5,0.85,-3.5999999999999996,0.395,-9.513921,4.26617,0.31264,0.09576,0.68736,pres_style_D_overstatement
-KS,regular,R,Adam Hamilton,D,Roger Marshall,-8,0.6,5,0.85,-10.6,-1.08,-10.952205,2.8012998,0.22494,0.07959,0.77506,pres_style_D_overstatement
-NE,regular,R,Dan Osborn,I,Pete Ricketts,-10,-0.9,3,0.75,-7.699999999999999,-2.5999999999999996,-13.020089,1.7721299,0.16449,0.05983,0.83551,pres_style_D_overstatement
-SC,regular,R,Annie Andrews,D,Darline Graham,-8,-1.6,5,0.85,-9.1,-2.7250000000000005,-12.621702,1.1474032,0.14361,0.05862,0.85639,pres_style_D_overstatement
-FL,special,R,Angie Nixon,D,Ashley Moody,-5,-6.1,5,0.85,-3.0999999999999996,-5.6499999999999995,-15.539361,-1.7102103,0.05455,0.02437,0.94545,pres_style_D_overstatement
-LA,regular,R,Jamie Davis,D,Julia Letlow,-11,-5.8,1,0.35,-13.6,-10.87,-22.898073,-4.896865,0.02439,0.0092,0.97561,pres_style_D_overstatement
-MS,regular,R,Scott Colom,D,Cindy Hyde-Smith,-11,-6.0,1,0.35,-16.6,-12.89,-24.887333,-6.8950567,0.01157,0.00446,0.98843,pres_style_D_overstatement
-AL,regular,R,Everett Wess,D,Barry Moore,-15,,0,0.0,-21.6,-21.6,-34.728104,-14.524406,0.00108,0.00034,0.99892,pres_style_D_overstatement
-KY,regular,R,Charles Booker,D,Andy Barr,-15,,0,0.0,-21.6,-21.6,-34.658554,-14.508628,0.00094,0.00042,0.99906,pres_style_D_overstatement
-TN,regular,R,Marquita Bradshaw,D,Bill Hagerty,-14,,0,0.0,-22.6,-22.6,-35.68062,-15.504546,0.00045,0.00019,0.99955,pres_style_D_overstatement
-SD,regular,R,Brian Bengs,I,Mike Rounds,-15,,0,0.0,-24.6,-24.6,-37.716946,-17.465004,0.00029,0.00014,0.99971,pres_style_D_overstatement
-MT,regular,R,Seth Bodnar / Alani Bankhead,I,Kurt Alme,-10,-15.7,4,0.85,-11.6,-15.084999999999999,-24.979425,-11.210325,0.00029,0.0002,0.99971,pres_style_D_overstatement
-AR,regular,R,Hallie Shoffner,D,Tom Cotton,-15,,0,0.0,-24.6,-24.6,-37.74649,-17.516882,0.00021,0.00017,0.99979,pres_style_D_overstatement
-OK,regular,R,N'Kiyla Jasmine Thomas,D,Kevin Hern,-17,,0,0.0,-25.6,-25.6,-38.80674,-18.479956,6e-05,6e-05,0.99994,pres_style_D_overstatement
-ID,regular,R,Todd Achilles,I,Jim Risch,-18,,0,0.0,-30.6,-30.6,-43.6443,-23.537786,0.0,0.0,1.0,pres_style_D_overstatement
-WV,regular,R,Rachel Fetty Anderson,D,Shelley Moore Capito,-21,,0,0.0,-36.6,-36.6,-49.674934,-29.568195,0.0,0.0,1.0,pres_style_D_overstatement
-WY,regular,R,James W. Byrd,D,Harriet Hageman,-23,,0,0.0,-37.6,-37.6,-50.720997,-30.56391,0.0,0.0,1.0,pres_style_D_overstatement
-MA,regular,D,Ed Markey,D,John Deaton,14,,0,0.0,39.4,39.4,35.245403,55.49018,1.0,0.0,0.0,r_overstatement_2025
-OR,regular,D,Jeff Merkley,D,David Brock Smith,8,,0,0.0,27.4,27.4,23.317575,43.57267,0.99999,0.00011,9.99999999995449e-06,r_overstatement_2025
-RI,regular,D,Jack Reed,D,Raymond McKay,8,,0,0.0,27.4,27.4,23.254692,43.50321,0.99998,0.00013,2.0000000000020002e-05,r_overstatement_2025
-DE,regular,D,Chris Coons,D,Michael Katz,8,,0,0.0,27.4,27.4,23.335567,43.552673,0.99998,9e-05,2.0000000000020002e-05,r_overstatement_2025
-NM,regular,D,Ben Ray Lujan,D,Larry Marker,4,16.5,2,0.6,19.4,17.66,15.764946,31.53722,0.99996,0.00114,4.0000000000040004e-05,r_overstatement_2025
-CO,regular,D,John Hickenlooper,D,Mark Baisley,6,,0,0.0,23.4,23.4,19.299929,39.51473,0.99985,0.0006,0.00014999999999998348,r_overstatement_2025
-VA,regular,D,Mark Warner,D,Bert Mizusawa,3,18.0,1,0.35,17.4,17.61,14.618753,32.571766,0.99968,0.00302,0.00031999999999998696,r_overstatement_2025
-IL,regular,D,Juliana Stratton,D,Don Tracy,6,,0,0.0,20.4,20.4,16.342445,36.489174,0.99957,0.00231,0.00043000000000004146,r_overstatement_2025
-NJ,regular,D,Cory Booker,D,Justin Murphy,4,,0,0.0,19.4,19.4,15.278516,35.48519,0.99939,0.00298,0.0006099999999999994,r_overstatement_2025
-NC,regular,R,Roy Cooper,D,Michael Whatley,-1,9.2,5,0.85,6.4,8.78,7.8366303,21.730434,0.99689,0.02693,0.003109999999999946,r_overstatement_2025
-GA,regular,D,Jon Ossoff,D,Mike Collins,-1,8.3,5,0.85,9.4,8.465000000000002,7.556285,21.36156,0.99636,0.03042,0.0036399999999999766,r_overstatement_2025
-NH,regular,D,Chris Pappas,D,John E. Sununu,2,6.5,5,0.85,12.4,7.385,6.4700365,20.310173,0.99424,0.04172,0.005759999999999987,r_overstatement_2025
-MN,regular,D,Peggy Flanagan,D,Michele Tafoya,3,2.9,5,0.85,14.4,4.625,3.7274072,17.512886,0.97638,0.07775,0.023619999999999974,r_overstatement_2025
-MI,regular,D,Abdul El-Sayed,D,Mike Rogers,0,3.3,5,0.85,8.4,4.0649999999999995,3.1446722,16.970192,0.96897,0.08562,0.031030000000000002,r_overstatement_2025
-ME,regular,R,Troy Jackson,D,Susan Collins,4,2.0,5,0.85,5.999999999999998,2.5999999999999996,1.7059097,15.477022,0.94596,0.09584,0.05403999999999998,r_overstatement_2025
-OH,special,R,Sherrod Brown,D,Jon Husted,-5,3.5,5,0.85,-3.0999999999999996,2.5100000000000002,1.5982946,15.386126,0.9433,0.09757,0.05669999999999997,r_overstatement_2025
-TX,regular,R,James Talarico,D,Ken Paxton,-6,3.3,6,0.85,-3.5999999999999996,2.2649999999999997,1.3710972,15.201646,0.9381,0.09889,0.061899999999999955,r_overstatement_2025
-AK,regular,R,Mary Peltola,D,Dan Sullivan,-6,2.4,4,0.85,-1.3999999999999995,1.83,0.9400407,14.765982,0.9273,0.10153,0.07269999999999999,r_overstatement_2025
-IA,regular,R,Josh Turek,D,Ashley Hinson,-6,1.1,5,0.85,-3.5999999999999996,0.395,-0.5139214,13.2661705,0.8831,0.09576,0.1169,r_overstatement_2025
-KS,regular,R,Adam Hamilton,D,Roger Marshall,-8,0.6,5,0.85,-10.6,-1.08,-1.9522048,11.8013,0.81974,0.07959,0.18025999999999998,r_overstatement_2025
-SC,regular,R,Annie Andrews,D,Darline Graham,-8,-1.6,5,0.85,-9.1,-2.7250000000000005,-3.6217012,10.147404,0.72858,0.05862,0.27142,r_overstatement_2025
-NE,regular,R,Dan Osborn,I,Pete Ricketts,-10,-0.9,3,0.75,-7.699999999999999,-2.5999999999999996,-4.020089,10.77213,0.722,0.05983,0.278,r_overstatement_2025
-FL,special,R,Angie Nixon,D,Ashley Moody,-5,-6.1,5,0.85,-3.0999999999999996,-5.6499999999999995,-6.539361,7.2897897,0.52501,0.02437,0.47499,r_overstatement_2025
-LA,regular,R,Jamie Davis,D,Julia Letlow,-11,-5.8,1,0.35,-13.6,-10.87,-13.898074,4.103134,0.24354,0.0092,0.75646,r_overstatement_2025
-MS,regular,R,Scott Colom,D,Cindy Hyde-Smith,-11,-6.0,1,0.35,-16.6,-12.89,-15.887333,2.1049428,0.16239,0.00446,0.83761,r_overstatement_2025
-MT,regular,R,Seth Bodnar / Alani Bankhead,I,Kurt Alme,-10,-15.7,4,0.85,-11.6,-15.084999999999999,-15.979426,-2.2103255,0.04513,0.0002,0.95487,r_overstatement_2025
-AL,regular,R,Everett Wess,D,Barry Moore,-15,,0,0.0,-21.6,-21.6,-25.728104,-5.5244074,0.02393,0.00034,0.97607,r_overstatement_2025
-KY,regular,R,Charles Booker,D,Andy Barr,-15,,0,0.0,-21.6,-21.6,-25.658556,-5.508627,0.02308,0.00042,0.97692,r_overstatement_2025
-TN,regular,R,Marquita Bradshaw,D,Bill Hagerty,-14,,0,0.0,-22.6,-22.6,-26.680618,-6.5045447,0.01781,0.00019,0.98219,r_overstatement_2025
-SD,regular,R,Brian Bengs,I,Mike Rounds,-15,,0,0.0,-24.6,-24.6,-28.716946,-8.465005,0.00933,0.00014,0.99067,r_overstatement_2025
-AR,regular,R,Hallie Shoffner,D,Tom Cotton,-15,,0,0.0,-24.6,-24.6,-28.74649,-8.516882,0.00897,0.00017,0.99103,r_overstatement_2025
-OK,regular,R,N'Kiyla Jasmine Thomas,D,Kevin Hern,-17,,0,0.0,-25.6,-25.6,-29.806742,-9.479957,0.0068,6e-05,0.9932,r_overstatement_2025
-ID,regular,R,Todd Achilles,I,Jim Risch,-18,,0,0.0,-30.6,-30.6,-34.6443,-14.537787,0.00098,0.0,0.99902,r_overstatement_2025
-WV,regular,R,Rachel Fetty Anderson,D,Shelley Moore Capito,-21,,0,0.0,-36.6,-36.6,-40.674934,-20.568197,5e-05,0.0,0.99995,r_overstatement_2025
-WY,regular,R,James W. Byrd,D,Harriet Hageman,-23,,0,0.0,-37.6,-37.6,-41.720997,-21.56391,2e-05,0.0,0.99998,r_overstatement_2025
+state,seat,holder,dem_side_candidate,dem_side_party,rep_candidate,pvi_d,poll_margin_d,poll_margin_adj,poll_sources,poll_weight_base,poll_weight,candidate_quality_adj,fundamentals_margin,poll_fund_gap,est_margin,race_sd,census_region,hispanic_share,mechanics_note,sim_p10,sim_p90,p_dem_side,tipping_freq,p_rep,scenario
+MA,regular,D,Ed Markey,D,John Deaton,14,,,0,0.0,0.0,0.0,39.8,,39.8,7.0,Northeast,0.126,,29.88625,49.779655,0.99994,2e-05,5.999999999994898e-05,unbiased
+RI,regular,D,Jack Reed,D,Raymond McKay,8,,,0,0.0,0.0,0.0,27.8,,27.8,7.0,Northeast,0.166,,17.8106,37.81178,0.99876,0.00039,0.0012400000000000189,unbiased
+DE,regular,D,Chris Coons,D,Michael Katz,8,,,0,0.0,0.0,0.0,27.8,,27.8,7.0,South,0.105,,17.809814,37.68017,0.99851,0.00051,0.0014899999999999913,unbiased
+OR,regular,D,Jeff Merkley,D,David Brock Smith,8,,,0,0.0,0.0,0.0,27.8,,27.8,7.0,West,0.139,,17.801405,37.768276,0.99849,0.0005,0.0015100000000000113,unbiased
+CO,regular,D,John Hickenlooper,D,Mark Baisley,6,,,0,0.0,0.0,0.0,23.8,,23.8,7.0,West,0.219,,13.745287,33.7831,0.99625,0.0013,0.003750000000000031,unbiased
+IL,regular,D,Juliana Stratton,D,Don Tracy,6,,,0,0.0,0.0,0.0,20.8,,20.8,7.0,Midwest,0.182,,10.859084,30.817019,0.99236,0.00238,0.00763999999999998,unbiased
+NM,regular,D,Ben Ray Lujan,D,Larry Marker,4,16.5,16.5,2,0.6,0.5448,0.0,19.8,-3.3000000000000007,18.00216,5.23,West,0.477,,9.0725,26.939512,0.99199,0.0031,0.008009999999999962,unbiased
+VA,regular,D,Mark Warner,D,Bert Mizusawa,3,18.0,18.0,1,0.35,0.07273331591249392,0.0,17.8,0.1999999999999993,17.8145466631825,6.0,South,0.105,,8.853857,26.718405,0.99084,0.00384,0.009159999999999946,unbiased
+NJ,regular,D,Cory Booker,D,Justin Murphy,4,,,0,0.0,0.0,0.0,19.8,,19.8,7.0,Northeast,0.216,,9.675432,29.808737,0.98979,0.00385,0.010210000000000052,unbiased
+NC,regular,R,Roy Cooper,D,Michael Whatley,-1,9.2,9.2,5,0.85,0.85,1.5,8.3,0.8999999999999986,9.065,4.0,South,0.107,,2.0543227,16.134285,0.94892,0.03022,0.051080000000000014,unbiased
+GA,regular,D,Jon Ossoff,D,Mike Collins,-1,8.3,8.3,5,0.85,0.833,0.0,9.8,-1.5,8.5505,4.05,South,0.105,,1.4875606,15.628485,0.93777,0.03519,0.06223000000000001,unbiased
+MN,regular,D,Peggy Flanagan,D,Michele Tafoya,3,2.9,2.9,5,0.85,0.47940000000000005,0.0,14.8,-11.9,9.095139999999999,5.09,Midwest,0.061,,1.0888672,17.062979,0.92587,0.03284,0.07413000000000003,unbiased
+NH,regular,D,Chris Pappas,D,John E. Sununu,2,6.5,6.5,5,0.85,0.7208,-1.5,11.3,-4.800000000000001,7.840160000000001,4.38,Northeast,0.043,,0.5008719,15.1903105,0.91367,0.04441,0.08633000000000002,unbiased
+MI,regular,D,Abdul El-Sayed,D,Mike Rogers,0,3.3,3.3,5,0.85,0.697,0.0,8.8,-5.500000000000001,4.9665,4.45,Midwest,0.056,,-2.3600974,12.39306,0.81126,0.0868,0.18874000000000002,unbiased
+ME,regular,R,Troy Jackson,D,Susan Collins,4,2.0,2.0,5,0.85,0.7343999999999999,0.0,6.4,-4.4,3.1686400000000003,4.59190592238125,Northeast,0.02,ranked-choice transfer uncertainty,-4.35748,10.701032,0.70807,0.1028,0.29193,unbiased
+OH,special,R,Sherrod Brown,D,Jon Husted,-5,3.5,3.5,5,0.85,0.7752,1.5,0.3000000000000007,3.1999999999999993,2.78064,4.22,Midwest,0.044,,-4.3463416,9.942696,0.69542,0.11546,0.30457999999999996,unbiased
+TX,regular,R,James Talarico,D,Ken Paxton,-6,3.3,3.3,6,0.85,0.7310000000000001,2.0,-1.1999999999999993,4.499999999999999,2.0895000000000006,4.35,South,0.393,,-5.7737207,9.96678,0.63584,0.10834,0.36416000000000004,unbiased
+AK,regular,R,Mary Peltola,D,Dan Sullivan,-6,2.4,2.4,4,0.85,0.7684,0.0,-0.9999999999999991,3.399999999999999,1.61256,4.688027303674756,West,0.068,ranked-choice transfer uncertainty,-6.0093937,9.235664,0.61154,0.10682,0.38846,unbiased
+IA,regular,R,Josh Turek,D,Ashley Hinson,-6,1.1,1.1,5,0.85,0.7378000000000001,0.0,-3.1999999999999993,4.299999999999999,-0.027459999999999263,4.33,Midwest,0.068,,-7.31051,7.2973895,0.49974,0.10668,0.5002599999999999,unbiased
+NE,regular,R,Dan Osborn,I,Pete Ricketts,-10,-0.9,-0.9,3,0.75,0.5880000000000001,0.0,-7.299999999999999,6.399999999999999,-3.5367999999999995,5.04,Midwest,0.12,,-11.510683,4.4420033,0.28273,0.05624,0.7172700000000001,unbiased
+SC,regular,R,Annie Andrews,D,Darline Graham,-8,-1.6,-1.6,5,0.85,0.6936,0.0,-7.199999999999999,5.6,-3.31584,4.46,South,0.069,,-10.736875,4.144355,0.28061,0.05924,0.71939,unbiased
+KS,regular,R,Adam Hamilton,D,Roger Marshall,-8,0.6,0.6,5,0.85,0.5168,0.0,-10.2,10.799999999999999,-4.6185599999999996,4.98,Midwest,0.13,,-12.504092,3.2874656,0.2238,0.04357,0.7762,unbiased
+FL,special,R,Angie Nixon,D,Ashley Moody,-5,-6.1,-6.1,5,0.85,0.7173999999999999,0.0,-1.1999999999999993,-4.9,-4.715259999999999,4.39,South,0.265,,-12.281765,2.9574955,0.2105,0.04166,0.7895,unbiased
+LA,regular,R,Jamie Davis,D,Julia Letlow,-11,-5.8,-9.8,1,0.35,0.1420298377573414,0.0,-13.2,3.3999999999999986,-12.717098551625037,6.24,South,0.062,,-21.831997,-3.5335305,0.0424,0.0067,0.9576,unbiased
+MS,regular,R,Scott Colom,D,Cindy Hyde-Smith,-11,-6.0,-10.0,1,0.35,0.07257748271146944,0.0,-16.2,6.199999999999999,-15.750019607188888,6.52,South,0.036,,-25.134514,-6.3876467,0.02081,0.00269,0.97919,unbiased
+AL,regular,R,Everett Wess,D,Barry Moore,-15,,,0,0.0,0.0,0.0,-21.2,,-21.2,7.0,South,0.053,,-31.14994,-11.336018,0.0071,0.00106,0.9929,unbiased
+KY,regular,R,Charles Booker,D,Andy Barr,-15,,,0,0.0,0.0,0.0,-21.2,,-21.2,7.0,South,0.046,,-31.039188,-11.191448,0.00679,0.00102,0.99321,unbiased
+TN,regular,R,Marquita Bradshaw,D,Bill Hagerty,-14,,,0,0.0,0.0,0.0,-22.2,,-22.2,7.0,South,0.069,,-32.10532,-12.35301,0.0048,0.00064,0.9952,unbiased
+MT,regular,R,Seth Bodnar / Alani Bankhead,I,Kurt Alme,-10,-15.7,-15.7,4,0.85,0.6201866666512321,0.0,-22.300000000000004,6.600000000000005,-18.206768000101867,4.97931722227054,West,0.042,three-way: runner-up gets 75% of anti-R vote,-26.119663,-10.305037,0.00395,0.00041,0.99605,unbiased
+AR,regular,R,Hallie Shoffner,D,Tom Cotton,-15,,,0,0.0,0.0,0.0,-24.2,,-24.2,7.0,South,0.085,,-34.02329,-14.208382,0.00332,0.00032,0.99668,unbiased
+SD,regular,R,Brian Bengs,I,Mike Rounds,-15,,,0,0.0,0.0,0.0,-24.2,,-24.2,7.0,Midwest,0.044,,-34.03373,-14.275672,0.00315,0.00045,0.99685,unbiased
+OK,regular,R,N'Kiyla Jasmine Thomas,D,Kevin Hern,-17,,,0,0.0,0.0,0.0,-25.2,,-25.2,7.0,South,0.119,,-35.093555,-15.235008,0.00258,0.00038,0.99742,unbiased
+ID,regular,R,Todd Achilles,I,Jim Risch,-18,,,0,0.0,0.0,0.0,-30.2,,-30.2,7.0,West,0.13,,-40.068916,-20.246447,0.00084,0.00015,0.99916,unbiased
+WV,regular,R,Rachel Fetty Anderson,D,Shelley Moore Capito,-21,,,0,0.0,0.0,0.0,-36.2,,-36.2,7.0,South,0.019,,-46.070988,-26.333784,0.00018,2e-05,0.99982,unbiased
+WY,regular,R,James W. Byrd,D,Harriet Hageman,-23,,,0,0.0,0.0,0.0,-37.2,,-37.2,7.0,West,0.102,,-47.10757,-27.265776,0.00016,0.0,0.99984,unbiased
+MA,regular,D,Ed Markey,D,John Deaton,14,,,0,0.0,0.0,0.0,39.8,,39.8,7.0,Northeast,0.126,,26.886251,46.779655,0.99987,2e-05,0.00012999999999996348,pres_style_D_overstatement
+RI,regular,D,Jack Reed,D,Raymond McKay,8,,,0,0.0,0.0,0.0,27.8,,27.8,7.0,Northeast,0.166,,14.8106,34.81178,0.99725,0.00039,0.00275000000000003,pres_style_D_overstatement
+DE,regular,D,Chris Coons,D,Michael Katz,8,,,0,0.0,0.0,0.0,27.8,,27.8,7.0,South,0.105,,14.8098135,34.68017,0.99714,0.00051,0.0028599999999999737,pres_style_D_overstatement
+OR,regular,D,Jeff Merkley,D,David Brock Smith,8,,,0,0.0,0.0,0.0,27.8,,27.8,7.0,West,0.139,,14.801405,34.768276,0.99688,0.0005,0.0031200000000000117,pres_style_D_overstatement
+CO,regular,D,John Hickenlooper,D,Mark Baisley,6,,,0,0.0,0.0,0.0,23.8,,23.8,7.0,West,0.219,,10.745287,30.783098,0.99211,0.0013,0.007889999999999953,pres_style_D_overstatement
+IL,regular,D,Juliana Stratton,D,Don Tracy,6,,,0,0.0,0.0,0.0,20.8,,20.8,7.0,Midwest,0.182,,7.8590846,27.817019,0.984,0.00238,0.016000000000000014,pres_style_D_overstatement
+NM,regular,D,Ben Ray Lujan,D,Larry Marker,4,16.5,16.5,2,0.6,0.5448,0.0,19.8,-3.3000000000000007,18.00216,5.23,West,0.477,,6.072501,23.939512,0.98081,0.0031,0.01919000000000004,pres_style_D_overstatement
+VA,regular,D,Mark Warner,D,Bert Mizusawa,3,18.0,18.0,1,0.35,0.07273331591249392,0.0,17.8,0.1999999999999993,17.8145466631825,6.0,South,0.105,,5.8538575,23.718403,0.97855,0.00384,0.02144999999999997,pres_style_D_overstatement
+NJ,regular,D,Cory Booker,D,Justin Murphy,4,,,0,0.0,0.0,0.0,19.8,,19.8,7.0,Northeast,0.216,,6.675432,26.808737,0.97788,0.00385,0.02212000000000003,pres_style_D_overstatement
+NC,regular,R,Roy Cooper,D,Michael Whatley,-1,9.2,9.2,5,0.85,0.85,1.5,8.3,0.8999999999999986,9.065,4.0,South,0.107,,-0.94567704,13.134284,0.86758,0.03022,0.13241999999999998,pres_style_D_overstatement
+GA,regular,D,Jon Ossoff,D,Mike Collins,-1,8.3,8.3,5,0.85,0.833,0.0,9.8,-1.5,8.5505,4.05,South,0.105,,-1.5124391,12.628485,0.84555,0.03519,0.15444999999999998,pres_style_D_overstatement
+MN,regular,D,Peggy Flanagan,D,Michele Tafoya,3,2.9,2.9,5,0.85,0.47940000000000005,0.0,14.8,-11.9,9.095139999999999,5.09,Midwest,0.061,,-1.9111329,14.062979,0.83894,0.03284,0.16105999999999998,pres_style_D_overstatement
+NH,regular,D,Chris Pappas,D,John E. Sununu,2,6.5,6.5,5,0.85,0.7208,-1.5,11.3,-4.800000000000001,7.840160000000001,4.38,Northeast,0.043,,-2.499128,12.1903105,0.80428,0.04441,0.19572,pres_style_D_overstatement
+MI,regular,D,Abdul El-Sayed,D,Mike Rogers,0,3.3,3.3,5,0.85,0.697,0.0,8.8,-5.500000000000001,4.9665,4.45,Midwest,0.056,,-5.360097,9.39306,0.63909,0.0868,0.36090999999999995,pres_style_D_overstatement
+ME,regular,R,Troy Jackson,D,Susan Collins,4,2.0,2.0,5,0.85,0.7343999999999999,0.0,6.4,-4.4,3.1686400000000003,4.59190592238125,Northeast,0.02,ranked-choice transfer uncertainty,-7.35748,7.701032,0.51132,0.1028,0.48868,pres_style_D_overstatement
+OH,special,R,Sherrod Brown,D,Jon Husted,-5,3.5,3.5,5,0.85,0.7752,1.5,0.3000000000000007,3.1999999999999993,2.78064,4.22,Midwest,0.044,,-7.3463416,6.942696,0.48448,0.11546,0.51552,pres_style_D_overstatement
+TX,regular,R,James Talarico,D,Ken Paxton,-6,3.3,3.3,6,0.85,0.7310000000000001,2.0,-1.1999999999999993,4.499999999999999,2.0895000000000006,4.35,South,0.393,,-8.773721,6.966779,0.43774,0.10834,0.56226,pres_style_D_overstatement
+AK,regular,R,Mary Peltola,D,Dan Sullivan,-6,2.4,2.4,4,0.85,0.7684,0.0,-0.9999999999999991,3.399999999999999,1.61256,4.688027303674756,West,0.068,ranked-choice transfer uncertainty,-9.009394,6.2356653,0.40546,0.10682,0.5945400000000001,pres_style_D_overstatement
+IA,regular,R,Josh Turek,D,Ashley Hinson,-6,1.1,1.1,5,0.85,0.7378000000000001,0.0,-3.1999999999999993,4.299999999999999,-0.027459999999999263,4.33,Midwest,0.068,,-10.310509,4.297389,0.2944,0.10668,0.7056,pres_style_D_overstatement
+NE,regular,R,Dan Osborn,I,Pete Ricketts,-10,-0.9,-0.9,3,0.75,0.5880000000000001,0.0,-7.299999999999999,6.399999999999999,-3.5367999999999995,5.04,Midwest,0.12,,-14.510683,1.4420035,0.14543,0.05624,0.85457,pres_style_D_overstatement
+SC,regular,R,Annie Andrews,D,Darline Graham,-8,-1.6,-1.6,5,0.85,0.6936,0.0,-7.199999999999999,5.6,-3.31584,4.46,South,0.069,,-13.736875,1.144355,0.13786,0.05924,0.86214,pres_style_D_overstatement
+KS,regular,R,Adam Hamilton,D,Roger Marshall,-8,0.6,0.6,5,0.85,0.5168,0.0,-10.2,10.799999999999999,-4.6185599999999996,4.98,Midwest,0.13,,-15.504092,0.2874665,0.10839,0.04357,0.89161,pres_style_D_overstatement
+FL,special,R,Angie Nixon,D,Ashley Moody,-5,-6.1,-6.1,5,0.85,0.7173999999999999,0.0,-1.1999999999999993,-4.9,-4.715259999999999,4.39,South,0.265,,-15.281764,-0.042504646,0.09876,0.04166,0.90124,pres_style_D_overstatement
+LA,regular,R,Jamie Davis,D,Julia Letlow,-11,-5.8,-9.8,1,0.35,0.1420298377573414,0.0,-13.2,3.3999999999999986,-12.717098551625037,6.24,South,0.062,,-24.831997,-6.533531,0.01935,0.0067,0.98065,pres_style_D_overstatement
+MS,regular,R,Scott Colom,D,Cindy Hyde-Smith,-11,-6.0,-10.0,1,0.35,0.07257748271146944,0.0,-16.2,6.199999999999999,-15.750019607188888,6.52,South,0.036,,-28.134516,-9.387645,0.00955,0.00269,0.99045,pres_style_D_overstatement
+AL,regular,R,Everett Wess,D,Barry Moore,-15,,,0,0.0,0.0,0.0,-21.2,,-21.2,7.0,South,0.053,,-34.14994,-14.336018,0.00332,0.00106,0.99668,pres_style_D_overstatement
+KY,regular,R,Charles Booker,D,Andy Barr,-15,,,0,0.0,0.0,0.0,-21.2,,-21.2,7.0,South,0.046,,-34.03919,-14.191448,0.00319,0.00102,0.99681,pres_style_D_overstatement
+TN,regular,R,Marquita Bradshaw,D,Bill Hagerty,-14,,,0,0.0,0.0,0.0,-22.2,,-22.2,7.0,South,0.069,,-35.10532,-15.35301,0.00234,0.00064,0.99766,pres_style_D_overstatement
+AR,regular,R,Hallie Shoffner,D,Tom Cotton,-15,,,0,0.0,0.0,0.0,-24.2,,-24.2,7.0,South,0.085,,-37.02329,-17.208382,0.00174,0.00032,0.99826,pres_style_D_overstatement
+SD,regular,R,Brian Bengs,I,Mike Rounds,-15,,,0,0.0,0.0,0.0,-24.2,,-24.2,7.0,Midwest,0.044,,-37.03373,-17.275671,0.00159,0.00045,0.99841,pres_style_D_overstatement
+MT,regular,R,Seth Bodnar / Alani Bankhead,I,Kurt Alme,-10,-15.7,-15.7,4,0.85,0.6201866666512321,0.0,-22.300000000000004,6.600000000000005,-18.206768000101867,4.97931722227054,West,0.042,three-way: runner-up gets 75% of anti-R vote,-29.119663,-13.305035,0.00148,0.00041,0.99852,pres_style_D_overstatement
+OK,regular,R,N'Kiyla Jasmine Thomas,D,Kevin Hern,-17,,,0,0.0,0.0,0.0,-25.2,,-25.2,7.0,South,0.119,,-38.093555,-18.235008,0.00123,0.00038,0.99877,pres_style_D_overstatement
+ID,regular,R,Todd Achilles,I,Jim Risch,-18,,,0,0.0,0.0,0.0,-30.2,,-30.2,7.0,West,0.13,,-43.06892,-23.246447,0.00042,0.00015,0.99958,pres_style_D_overstatement
+WV,regular,R,Rachel Fetty Anderson,D,Shelley Moore Capito,-21,,,0,0.0,0.0,0.0,-36.2,,-36.2,7.0,South,0.019,,-49.070988,-29.333786,9e-05,2e-05,0.99991,pres_style_D_overstatement
+WY,regular,R,James W. Byrd,D,Harriet Hageman,-23,,,0,0.0,0.0,0.0,-37.2,,-37.2,7.0,West,0.102,,-50.10757,-30.265776,8e-05,0.0,0.99992,pres_style_D_overstatement
+MA,regular,D,Ed Markey,D,John Deaton,14,,,0,0.0,0.0,0.0,39.8,,39.8,7.0,Northeast,0.126,,35.88625,55.779655,0.99997,2e-05,2.999999999997449e-05,r_overstatement_2025
+OR,regular,D,Jeff Merkley,D,David Brock Smith,8,,,0,0.0,0.0,0.0,27.8,,27.8,7.0,West,0.139,,23.801405,43.768276,0.99961,0.0005,0.00039000000000000146,r_overstatement_2025
+RI,regular,D,Jack Reed,D,Raymond McKay,8,,,0,0.0,0.0,0.0,27.8,,27.8,7.0,Northeast,0.166,,23.8106,43.81178,0.9996,0.00039,0.00039999999999995595,r_overstatement_2025
+DE,regular,D,Chris Coons,D,Michael Katz,8,,,0,0.0,0.0,0.0,27.8,,27.8,7.0,South,0.105,,23.809814,43.68017,0.99956,0.00051,0.00043999999999999595,r_overstatement_2025
+CO,regular,D,John Hickenlooper,D,Mark Baisley,6,,,0,0.0,0.0,0.0,23.8,,23.8,7.0,West,0.219,,19.745287,39.783096,0.99917,0.0013,0.0008299999999999974,r_overstatement_2025
+NM,regular,D,Ben Ray Lujan,D,Larry Marker,4,16.5,16.5,2,0.6,0.5448,0.0,19.8,-3.3000000000000007,18.00216,5.23,West,0.477,,15.0725,32.93951,0.99882,0.0031,0.0011799999999999589,r_overstatement_2025
+IL,regular,D,Juliana Stratton,D,Don Tracy,6,,,0,0.0,0.0,0.0,20.8,,20.8,7.0,Midwest,0.182,,16.859083,36.81702,0.99841,0.00238,0.0015899999999999803,r_overstatement_2025
+VA,regular,D,Mark Warner,D,Bert Mizusawa,3,18.0,18.0,1,0.35,0.07273331591249392,0.0,17.8,0.1999999999999993,17.8145466631825,6.0,South,0.105,,14.853857,32.7184,0.99825,0.00384,0.0017500000000000293,r_overstatement_2025
+NJ,regular,D,Cory Booker,D,Justin Murphy,4,,,0,0.0,0.0,0.0,19.8,,19.8,7.0,Northeast,0.216,,15.675432,35.808735,0.99783,0.00385,0.0021700000000000053,r_overstatement_2025
+NC,regular,R,Roy Cooper,D,Michael Whatley,-1,9.2,9.2,5,0.85,0.85,1.5,8.3,0.8999999999999986,9.065,4.0,South,0.107,,8.054322,22.134283,0.99447,0.03022,0.005530000000000035,r_overstatement_2025
+GA,regular,D,Jon Ossoff,D,Mike Collins,-1,8.3,8.3,5,0.85,0.833,0.0,9.8,-1.5,8.5505,4.05,South,0.105,,7.4875607,21.628485,0.99306,0.03519,0.006939999999999946,r_overstatement_2025
+MN,regular,D,Peggy Flanagan,D,Michele Tafoya,3,2.9,2.9,5,0.85,0.47940000000000005,0.0,14.8,-11.9,9.095139999999999,5.09,Midwest,0.061,,7.0888677,23.062979,0.98839,0.03284,0.01161000000000001,r_overstatement_2025
+NH,regular,D,Chris Pappas,D,John E. Sununu,2,6.5,6.5,5,0.85,0.7208,-1.5,11.3,-4.800000000000001,7.840160000000001,4.38,Northeast,0.043,,6.5008726,21.190313,0.98836,0.04441,0.011639999999999984,r_overstatement_2025
+MI,regular,D,Abdul El-Sayed,D,Mike Rogers,0,3.3,3.3,5,0.85,0.697,0.0,8.8,-5.500000000000001,4.9665,4.45,Midwest,0.056,,3.6399024,18.393059,0.96888,0.0868,0.031120000000000037,r_overstatement_2025
+OH,special,R,Sherrod Brown,D,Jon Husted,-5,3.5,3.5,5,0.85,0.7752,1.5,0.3000000000000007,3.1999999999999993,2.78064,4.22,Midwest,0.044,,1.6536579,15.942697,0.93976,0.11546,0.06023999999999996,r_overstatement_2025
+ME,regular,R,Troy Jackson,D,Susan Collins,4,2.0,2.0,5,0.85,0.7343999999999999,0.0,6.4,-4.4,3.1686400000000003,4.59190592238125,Northeast,0.02,ranked-choice transfer uncertainty,1.6425195,16.70103,0.93849,0.1028,0.061509999999999954,r_overstatement_2025
+TX,regular,R,James Talarico,D,Ken Paxton,-6,3.3,3.3,6,0.85,0.7310000000000001,2.0,-1.1999999999999993,4.499999999999999,2.0895000000000006,4.35,South,0.393,,0.2262793,15.96678,0.90594,0.10834,0.09406000000000003,r_overstatement_2025
+AK,regular,R,Mary Peltola,D,Dan Sullivan,-6,2.4,2.4,4,0.85,0.7684,0.0,-0.9999999999999991,3.399999999999999,1.61256,4.688027303674756,West,0.068,ranked-choice transfer uncertainty,-0.009393859,15.235665,0.89977,0.10682,0.10023000000000004,r_overstatement_2025
+IA,regular,R,Josh Turek,D,Ashley Hinson,-6,1.1,1.1,5,0.85,0.7378000000000001,0.0,-3.1999999999999993,4.299999999999999,-0.027459999999999263,4.33,Midwest,0.068,,-1.31051,13.297388,0.85413,0.10668,0.14587000000000006,r_overstatement_2025
+SC,regular,R,Annie Andrews,D,Darline Graham,-8,-1.6,-1.6,5,0.85,0.6936,0.0,-7.199999999999999,5.6,-3.31584,4.46,South,0.069,,-4.7368736,10.144355,0.6834,0.05924,0.3166,r_overstatement_2025
+NE,regular,R,Dan Osborn,I,Pete Ricketts,-10,-0.9,-0.9,3,0.75,0.5880000000000001,0.0,-7.299999999999999,6.399999999999999,-3.5367999999999995,5.04,Midwest,0.12,,-5.510683,10.442003,0.65876,0.05624,0.34124,r_overstatement_2025
+KS,regular,R,Adam Hamilton,D,Roger Marshall,-8,0.6,0.6,5,0.85,0.5168,0.0,-10.2,10.799999999999999,-4.6185599999999996,4.98,Midwest,0.13,,-6.504092,9.287466,0.59056,0.04357,0.40944,r_overstatement_2025
+FL,special,R,Angie Nixon,D,Ashley Moody,-5,-6.1,-6.1,5,0.85,0.7173999999999999,0.0,-1.1999999999999993,-4.9,-4.715259999999999,4.39,South,0.265,,-6.2817645,8.957496,0.59009,0.04166,0.40991,r_overstatement_2025
+LA,regular,R,Jamie Davis,D,Julia Letlow,-11,-5.8,-9.8,1,0.35,0.1420298377573414,0.0,-13.2,3.3999999999999986,-12.717098551625037,6.24,South,0.062,,-15.831996,2.4664693,0.16979,0.0067,0.83021,r_overstatement_2025
+MS,regular,R,Scott Colom,D,Cindy Hyde-Smith,-11,-6.0,-10.0,1,0.35,0.07257748271146944,0.0,-16.2,6.199999999999999,-15.750019607188888,6.52,South,0.036,,-19.134514,-0.38764596,0.09128,0.00269,0.90872,r_overstatement_2025
+AL,regular,R,Everett Wess,D,Barry Moore,-15,,,0,0.0,0.0,0.0,-21.2,,-21.2,7.0,South,0.053,,-25.14994,-5.336018,0.0306,0.00106,0.9694,r_overstatement_2025
+KY,regular,R,Charles Booker,D,Andy Barr,-15,,,0,0.0,0.0,0.0,-21.2,,-21.2,7.0,South,0.046,,-25.039188,-5.1914487,0.03028,0.00102,0.96972,r_overstatement_2025
+MT,regular,R,Seth Bodnar / Alani Bankhead,I,Kurt Alme,-10,-15.7,-15.7,4,0.85,0.6201866666512321,0.0,-22.300000000000004,6.600000000000005,-18.206768000101867,4.97931722227054,West,0.042,three-way: runner-up gets 75% of anti-R vote,-20.119663,-4.305036,0.02769,0.00041,0.97231,r_overstatement_2025
+TN,regular,R,Marquita Bradshaw,D,Bill Hagerty,-14,,,0,0.0,0.0,0.0,-22.2,,-22.2,7.0,South,0.069,,-26.10532,-6.353008,0.02323,0.00064,0.97677,r_overstatement_2025
+AR,regular,R,Hallie Shoffner,D,Tom Cotton,-15,,,0,0.0,0.0,0.0,-24.2,,-24.2,7.0,South,0.085,,-28.023289,-8.208381,0.01504,0.00032,0.98496,r_overstatement_2025
+SD,regular,R,Brian Bengs,I,Mike Rounds,-15,,,0,0.0,0.0,0.0,-24.2,,-24.2,7.0,Midwest,0.044,,-28.03373,-8.275672,0.0144,0.00045,0.9856,r_overstatement_2025
+OK,regular,R,N'Kiyla Jasmine Thomas,D,Kevin Hern,-17,,,0,0.0,0.0,0.0,-25.2,,-25.2,7.0,South,0.119,,-29.093555,-9.235008,0.01119,0.00038,0.98881,r_overstatement_2025
+ID,regular,R,Todd Achilles,I,Jim Risch,-18,,,0,0.0,0.0,0.0,-30.2,,-30.2,7.0,West,0.13,,-34.068916,-14.246446,0.00364,0.00015,0.99636,r_overstatement_2025
+WV,regular,R,Rachel Fetty Anderson,D,Shelley Moore Capito,-21,,,0,0.0,0.0,0.0,-36.2,,-36.2,7.0,South,0.019,,-40.070988,-20.333784,0.00066,2e-05,0.99934,r_overstatement_2025
+WY,regular,R,James W. Byrd,D,Harriet Hageman,-23,,,0,0.0,0.0,0.0,-37.2,,-37.2,7.0,West,0.102,,-41.107574,-21.265776,0.00062,0.0,0.99938,r_overstatement_2025

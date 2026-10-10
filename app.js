@@ -476,6 +476,7 @@
     if (state.scenario === key) return;
     state.scenario = key;
     renderScenario();
+    renderV2();
   }
   function bindEvents() {
     var buttons = $all(".scenario-tabs [role=tab]");
@@ -511,6 +512,46 @@
       clearTimeout(t);
       t = setTimeout(function () { renderSeatCharts(); renderRaceChart(); }, 120);
     });
+  }
+
+
+  // ---------- v2: before/after + factor list ----------
+  function signed(x, digits, unit) {
+    var v = x.toFixed(digits);
+    if (Math.abs(x) < Math.pow(10, -digits) / 2) v = (0).toFixed(digits);
+    return (parseFloat(v) > 0 ? "+" : parseFloat(v) < 0 ? "\u2212" : "\u00b1") + Math.abs(parseFloat(v)).toFixed(digits) + unit;
+  }
+  function renderV2() {
+    var d = state.data, body = $("#v2-compare-body"), list = $("#factor-list");
+    if (!body || !list) return;
+    if (!d.comparison || !d.comparison.length) { var sec = $("#v2"); if (sec) sec.hidden = true; return; }
+    body.innerHTML = d.comparison.map(function (c) {
+      function cell(a, b, kind) {
+        var txt = kind === "p" ? pct(a) + '<span class="arrow">&rarr;</span><strong>' + pct(b) + "</strong>"
+                : kind === "m" ? a.toFixed(1) + '<span class="arrow">&rarr;</span><strong>' + b.toFixed(1) + "</strong>"
+                : a + '<span class="arrow">&rarr;</span><strong>' + b + "</strong>";
+        var dl = kind === "p" ? signed(100 * (b - a), 1, " pts") : kind === "m" ? signed(b - a, 2, " seats") : signed(b - a, 0, " seats");
+        return '<td class="num mono">' + txt + '<span class="delta">' + dl + "</span></td>";
+      }
+      var active = c.key === state.scenario ? ' class="active"' : "";
+      return "<tr" + active + '><th scope="row"><span class="sc-title">' + esc(c.label) + "</span></th>" +
+        cell(c.v1.senate_p_D, c.v2.senate_p_D, "p") + cell(c.v1.senate_p_R, c.v2.senate_p_R, "p") +
+        cell(c.v1.senate_D_mean, c.v2.senate_D_mean, "m") + cell(c.v1.house_p_D, c.v2.house_p_D, "p") +
+        cell(c.v1.house_D_median, c.v2.house_D_median, "s") + "</tr>";
+    }).join("");
+    var key = state.scenario;
+    var sc = scenarioByKey(key);
+    setField("v2-effect-scenario", sc && SHORT[key] ? SHORT[key].title : key);
+    list.innerHTML = (d.factors || []).map(function (f) {
+      function chipRow(e, lab) {
+        if (!e) return "";
+        var sp = 100 * e.senate_p_D, hs = e.house_D_mean;
+        return '<div class="effect"><span class="chip-lab">' + lab + '</span><span class="chip ' + (sp >= 0.5 ? "d" : sp <= -0.5 ? "r" : "") + '">Sen P(D) ' + signed(sp, 1, "") + "</span>" +
+          '<span class="chip ' + (hs >= 0.5 ? "d" : hs <= -0.5 ? "r" : "") + '">House ' + signed(hs, 1, " seats") + "</span></div>";
+      }
+      var chips = chipRow(f.effect && f.effect[key], "In full v2") + chipRow(f.effect_alone && f.effect_alone[key], "Alone on v1");
+      return "<li><h3>" + esc(f.title) + "</h3><p>" + esc(f.detail) + "</p>" + chips + "</li>";
+    }).join("");
   }
 
   function applyBaseline(d) {
@@ -553,6 +594,7 @@
         renderPillLegend();
         renderCompare();
         renderScenario();
+        renderV2();
         document.documentElement.classList.add("loaded");
       })
       .catch(showError);

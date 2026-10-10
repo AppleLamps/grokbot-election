@@ -1,0 +1,51 @@
+state,state_name,census_region,hispanic_share_2020
+AK,Alaska,West,0.068
+AL,Alabama,South,0.053
+AR,Arkansas,South,0.085
+AZ,Arizona,West,0.307
+CA,California,West,0.394
+CO,Colorado,West,0.219
+CT,Connecticut,Northeast,0.173
+DE,Delaware,South,0.105
+FL,Florida,South,0.265
+GA,Georgia,South,0.105
+HI,Hawaii,West,0.095
+IA,Iowa,Midwest,0.068
+ID,Idaho,West,0.13
+IL,Illinois,Midwest,0.182
+IN,Indiana,Midwest,0.082
+KS,Kansas,Midwest,0.13
+KY,Kentucky,South,0.046
+LA,Louisiana,South,0.062
+MA,Massachusetts,Northeast,0.126
+MD,Maryland,South,0.118
+ME,Maine,Northeast,0.02
+MI,Michigan,Midwest,0.056
+MN,Minnesota,Midwest,0.061
+MO,Missouri,Midwest,0.049
+MS,Mississippi,South,0.036
+MT,Montana,West,0.042
+NC,North Carolina,South,0.107
+ND,North Dakota,Midwest,0.043
+NE,Nebraska,Midwest,0.12
+NH,New Hampshire,Northeast,0.043
+NJ,New Jersey,Northeast,0.216
+NM,New Mexico,West,0.477
+NV,Nevada,West,0.287
+NY,New York,Northeast,0.195
+OH,Ohio,Midwest,0.044
+OK,Oklahoma,South,0.119
+OR,Oregon,West,0.139
+PA,Pennsylvania,Northeast,0.081
+RI,Rhode Island,Northeast,0.166
+SC,South Carolina,South,0.069
+SD,South Dakota,Midwest,0.044
+TN,Tennessee,South,0.069
+TX,Texas,South,0.393
+UT,Utah,West,0.151
+VA,Virginia,South,0.105
+VT,Vermont,Northeast,0.024
+WA,Washington,West,0.137
+WI,Wisconsin,Midwest,0.076
+WV,West Virginia,South,0.019
+WY,Wyoming,West,0.102

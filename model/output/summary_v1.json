@@ -1,0 +1,203 @@
+{
+  "unbiased": {
+    "scenario": "unbiased",
+    "label": "(i) Polls unbiased",
+    "bias_mean": 0.0,
+    "bias_sd": 3.0,
+    "sims": 100000,
+    "senate_p_R": 0.31126,
+    "senate_p_D": 0.67941,
+    "senate_p_none": 0.00933000000000006,
+    "senate_D_mean": 51.72789,
+    "senate_D_p10": 48,
+    "senate_D_p90": 55,
+    "senate_R_mean": 48.13877,
+    "senate_R_p10": 45,
+    "senate_R_p90": 52,
+    "senate_I_mean": 0.33063,
+    "house_p_D": 0.92974,
+    "house_p_R": 0.07025999999999999,
+    "house_D_mean": 235.08217,
+    "house_D_median": 234,
+    "house_D_p10": 219,
+    "house_D_p90": 252,
+    "senate_tipping": [
+      [
+        "AK",
+        0.102
+      ],
+      [
+        "TX",
+        0.099
+      ],
+      [
+        "OH",
+        0.098
+      ],
+      [
+        "ME",
+        0.096
+      ],
+      [
+        "IA",
+        0.096
+      ]
+    ],
+    "house_tipping": [
+      [
+        "CO-8",
+        0.021
+      ],
+      [
+        "NJ-7",
+        0.021
+      ],
+      [
+        "AZ-6",
+        0.021
+      ],
+      [
+        "MI-7",
+        0.02
+      ],
+      [
+        "PA-7",
+        0.02
+      ]
+    ]
+  },
+  "pres_style_D_overstatement": {
+    "scenario": "pres_style_D_overstatement",
+    "label": "(ii) Presidential-style miss: polls overstate D by 3",
+    "bias_mean": 3.0,
+    "bias_sd": 3.0,
+    "sims": 100000,
+    "senate_p_R": 0.64591,
+    "senate_p_D": 0.34545,
+    "senate_p_none": 0.008640000000000037,
+    "senate_D_mean": 49.28961,
+    "senate_D_p10": 46,
+    "senate_D_p90": 53,
+    "senate_R_mean": 50.64388,
+    "senate_R_p10": 47,
+    "senate_R_p90": 54,
+    "senate_I_mean": 0.16507,
+    "house_p_D": 0.70151,
+    "house_p_R": 0.29849000000000003,
+    "house_D_mean": 223.772,
+    "house_D_median": 223,
+    "house_D_p10": 210,
+    "house_D_p90": 238,
+    "senate_tipping": [
+      [
+        "AK",
+        0.102
+      ],
+      [
+        "TX",
+        0.099
+      ],
+      [
+        "OH",
+        0.098
+      ],
+      [
+        "ME",
+        0.096
+      ],
+      [
+        "IA",
+        0.096
+      ]
+    ],
+    "house_tipping": [
+      [
+        "TX-28",
+        0.021
+      ],
+      [
+        "PA-7",
+        0.02
+      ],
+      [
+        "TX-34",
+        0.02
+      ],
+      [
+        "FL-25",
+        0.02
+      ],
+      [
+        "CO-8",
+        0.02
+      ]
+    ]
+  },
+  "r_overstatement_2025": {
+    "scenario": "r_overstatement_2025",
+    "label": "(iii) 2025-style miss: polls overstate R by 6",
+    "bias_mean": -6.0,
+    "bias_sd": 3.0,
+    "sims": 100000,
+    "senate_p_R": 0.0123,
+    "senate_p_D": 0.98661,
+    "senate_p_none": 0.0010900000000000354,
+    "senate_D_mean": 55.59297,
+    "senate_D_p10": 53,
+    "senate_D_p90": 58,
+    "senate_R_mean": 44.09364,
+    "senate_R_p10": 42,
+    "senate_R_p90": 47,
+    "senate_I_mean": 0.77744,
+    "house_p_D": 0.99962,
+    "house_p_R": 0.00038000000000004697,
+    "house_D_mean": 263.62829,
+    "house_D_median": 263,
+    "house_D_p10": 242,
+    "house_D_p90": 287,
+    "senate_tipping": [
+      [
+        "AK",
+        0.102
+      ],
+      [
+        "TX",
+        0.099
+      ],
+      [
+        "OH",
+        0.098
+      ],
+      [
+        "ME",
+        0.096
+      ],
+      [
+        "IA",
+        0.096
+      ]
+    ],
+    "house_tipping": [
+      [
+        "FL-14",
+        0.021
+      ],
+      [
+        "NJ-7",
+        0.021
+      ],
+      [
+        "FL-25",
+        0.02
+      ],
+      [
+        "TX-28",
+        0.02
+      ],
+      [
+        "CO-8",
+        0.02
+      ]
+    ]
+  }
+}

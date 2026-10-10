@@ -1,6 +1,8 @@
 # Methodology: 2026 Midterm Model (simplified, transparent)
 
-**What this is:** an original, deliberately simple Monte Carlo model built on 2026-10-10 for scenario analysis. Every assumption is a number in `config.yaml` or a row in `data/*.csv`, so you can change it and re-run. **It is not a professional forecast.** It has no fundraising data, no economic model, no house effects per pollster, no time-decay of polls, and only light candidate-quality adjustments.
+**What this is:** an original, deliberately simple Monte Carlo model built on 2026-10-10 for scenario analysis. Every assumption is a number in `config.yaml` or a row in `data/*.csv`, so you can change it and re-run. **It is not a professional forecast.** It has no fundraising data, no economic model and no per-pollster house effects.
+
+**Model v2 (2026-10-10):** eight additional factors were added: herding-aware poll weighting, demographic + regional error, expert ratings in the House, candidate quality, poll cleanup, incumbency reweight, fat tails, and election mechanics. Section 8 documents each one: coefficient, source, and measured effect. **Every v2 coefficient is our own assumption** informed by the cited research (`reports/additional_factors.md`), not a value fitted to past elections. Each factor has an on/off switch under `factors:` in `config.yaml`; with all eight off, the model reproduces v1 exactly (same seed, identical output).
 
 Sign convention everywhere: **margin = Democratic % minus Republican %** (positive = Dem ahead). For races where the main non-Republican is an independent (NE Osborn, MT Bodnar, ID Achilles, SD Bengs), "D side" means that independent.
 
@@ -19,9 +21,12 @@ Sign convention everywhere: **margin = Democratic % minus Republican %** (positi
 | Senate candidates | General-election nominees | Wikipedia "Elections leading to the next Congress" table |
 | Current House | 218 R, 214 D, 1 I (Kevin Kiley, CA), 2 vacant (FL-20, TX-23) | House Press Gallery party breakdown; Clerk vacancies page |
 | District list, incumbents, retirements, PVIs | All 435 districts on the **2026 maps** (incl. mid-decade redistricting in TX, CA, NC, OH, UT, etc.), Cook **2026** PVI (Missouri uses 2025 PVI because its new map was struck down) | Wikipedia "2026 United States House of Representatives elections" (state tables), parsed by `scripts/build_data.py` |
-| House consensus ratings (comparison only, not a model input) | Avg of Cook/IE/Sabato/Economist/Split Ticket/DDHQ/FPO/Fox/Silver/RCP for 146 listed districts | Wikipedia "2026 United States House of Representatives election ratings" |
-| Generic ballot | **D+8.4** | Wikipedia aggregate (DDHQ D+8.5, FiftyPlusOne D+7.8, NBC D+9.0, RCP D+7.9, Silver Bulletin D+9.0), updated Oct 9 2026. Cross-checked: Vugol D+7.5, TrackTheVote D+8.8, USPollingData D+7.4, PollingSource D+7.9 |
+| House consensus ratings (**v2: model input**, factor 3) | Avg of Cook/IE/Sabato/Economist/Split Ticket/DDHQ/FPO/Fox/Silver/RCP for 146 listed districts | Wikipedia "2026 United States House of Representatives election ratings" |
+| Generic ballot | **D+8.4** raw, **D+8.8** after the v2 likely-voter adjustment (+0.4; Silver Bulletin LV D+8.8 vs RV D+8.1, Sep 23) | Wikipedia aggregate (DDHQ D+8.5, FiftyPlusOne D+7.8, NBC D+9.0, RCP D+7.9, Silver Bulletin D+9.0), updated Oct 9 2026. Cross-checked: Vugol D+7.5, TrackTheVote D+8.8, USPollingData D+7.4, PollingSource D+7.9 |
 | Polling-error history (for scenarios) | Polls overstated D: 2016 +3.0, 2020 +4.7, 2024 +2.9; midterms ~even (2018 R+0.5, 2022 D+0.8); 2025 off-year overstated R by ~6 | Silver Bulletin (from earlier research this session) |
+| Hispanic share by state (v2) | 2020 Census, % of population Hispanic or Latino, all 50 states (`data/state_demographics.csv`) | Wikipedia "List of U.S. states by Hispanic and Latino population" (Census 2020 table), snapshot in `data/raw/hispanic_by_state_2020census.wiki`. The Census API now requires a key, so the ACS route was not used |
+| Census regions (v2) | Northeast / Midwest / South / West | U.S. Census Bureau regional definitions |
+| Poll end dates and sponsors (v2) | `poll_end_date`, `poll_sponsor_partisan` columns in `senate_races.csv` | Read from the existing `poll_note` text (LA and MS are Democratic-sponsored) |
 | Candidate-adjustment history | ME 2020: Collins won by 8.6 while Biden won ME by 9.1. NE 2024: Fischer 53.2–Osborn 46.5 (R+6.7) while Trump won NE by ~20.4. AK 2024: Begich beat Peltola ~51.3–48.7 while Trump won AK by ~13.1 | Public results (NE verified via uselectionatlas/Ballotpedia; ME/AK from public results, approximate) |
 
 Raw snapshots are saved in `data/raw/` so the inputs are auditable. **No poll numbers were invented.** Races with no public general-election polls use fundamentals only and say so in `data/senate_races.csv` (`poll_note`).
@@ -34,20 +39,25 @@ For each of the 35 races:
 
 **Fundamentals**
 ```
-fundamentals = 2 × PVI  +  GB  +  incumbency  +  candidate_adj
+fundamentals = 2 × PVI  +  GB  +  incumbency  +  candidate_adj  +  candidate_quality (v2)
 ```
 - `2 × PVI`: Cook PVI is expressed in two-party vote-share points relative to the nation; a margin is roughly twice that (`senate.pvi_multiplier`).
-- `GB`: generic-ballot margin (D+8.4), the national environment.
-- `incumbency`: +3.0 toward the holder's party if an elected incumbent is running, +1.5 if the incumbent was appointed (Moody FL, Husted OH, Darline Graham SC), 0 for open seats.
+- `GB`: generic-ballot margin, the national environment: D+8.4 polling average + 0.4 likely-voter adjustment = **D+8.8** (v2).
+- `incumbency`: +3.0 toward the holder's party if an elected incumbent is running; **0 for appointed incumbents in v2** (Moody FL, Husted OH, Darline Graham SC; v1 gave them +1.5); 0 for open seats.
+- `candidate_quality` (v2, factor 4): small fundamentals-only terms for TX, OH, NC and NH. See section 8.
+- Montana (v2, factor 8): fundamentals are converted to a three-way runner-up margin (section 8).
 - `candidate_adj` (only 3 races, can be switched off with `use_candidate_adjustments: false`): half of the candidate's documented over-performance versus the presidential margin in their last race. ME Collins −7.4, NE Osborn +6.9, AK Peltola +5.2. These fix cases where a pure PVI model is clearly wrong because of a candidate's personal vote. Half, because past over-performance only partly carries forward.
 
 **Blend with polls**
 ```
 estimate = w × poll_average + (1 − w) × fundamentals   (+ optional early_vote_adjustment)
 ```
-`w` depends on how many independent aggregators/polls exist: 0 sources → 0; 1 → 0.35; 2 → 0.60; 3 → 0.75; 4+ → 0.85. Polls get most of the weight where they're plentiful (3–4 weeks out), and fundamentals fill in elsewhere.
+`w` starts from how many independent aggregators/polls exist: 0 sources → 0; 1 → 0.35; 2 → 0.60; 3 → 0.75; 4+ → 0.85. In v2 it is then multiplied by:
+- a **partisan-sponsor** factor (0.5 for D- or R-sponsored polls, which are also shifted 4 pts toward the other party),
+- a **staleness** factor `0.5^(max(0, age_days − 14) / 45)`,
+- a **herding** factor `max(0.5, 1 − 0.04 × (|poll − fundamentals| − 1))`.
 
-**Per-race uncertainty (idiosyncratic sd):** 4.0 (4+ sources), 4.5 (3), 5.0 (2), 6.0 (1), 7.0 (no polls).
+**Per-race uncertainty (idiosyncratic sd):** 4.0 (4+ sources), 4.5 (3), 5.0 (2), 6.0 (1), 7.0 (no polls). v2 adds 0.1 × (|gap| − 1) for poll/fundamentals disagreement, and an RCV/three-way term (combined in quadrature) for AK, ME and MT.
 
 **Majority math.** D seats = 34 not up + D wins. R seats = 31 not up + R wins. Each independent winner joins the Democratic caucus with probability 0.6, the Republican caucus with 0.0, and neither with 0.4 (`independent_caucus`). R controls with ≥50 (VP Vance breaks ties); D needs ≥51. If neither side gets there (for example R 49, D 50, Osborn with neither caucus), we report "no clear majority."
 
@@ -55,23 +65,28 @@ estimate = w × poll_average + (1 − w) × fundamentals   (+ optional early_vot
 
 For all 435 districts:
 ```
-estimate = 2 × PVI_2026  +  GB  +  3.0 × (incumbent running: +1 D, −1 R)  +  seat_bias
+fundamentals = 2 × PVI_2026  +  GB (D+8.8)  +  1.8 × (incumbent running: +1 D, −1 R)  +  seat_bias
+estimate     = w_r × rating_margin  +  (1 − w_r) × fundamentals        (v2, factor 3)
 ```
+- v2 incumbency edge is 1.8 (v1: 3.0). See section 8.
+- `rating_margin` comes from the consensus expert rating (factor 3). `w_r` = 0.30 for the 146 rated districts and 0.15 for unrated districts, which are treated as Safe for the PVI-favored party (PVI 0 → no rating).
 - Open seats, new seats and vacancies get no incumbency term. Kevin Kiley (CA-6, independent, ex-Republican) is treated as an R-aligned incumbent and counts toward the R side.
-- District polls: `data/house_district_polls.csv` is supported (blended at 0.5 weight, lower sd), but **it is empty**. I did not collect district polls (they're sparse and mostly partisan internals), so the House runs purely on PVI, generic ballot and incumbency.
+- District polls: `data/house_district_polls.csv` is supported (blended at 0.5 weight, lower sd), but **it is empty**. I did not collect district polls (they're sparse and mostly partisan internals), so the House runs on PVI, generic ballot, incumbency and (v2) expert ratings.
 - Idiosyncratic district sd = 6.0 points.
 - D controls with ≥218 seats.
 
-**Sanity check vs. professional ratings (unbiased scenario).** Mean P(D win) by consensus rating category: Safe R 6%, Likely R 18%, Lean R 37%, Toss-up 42%, Lean D 69%, Likely D 97%, Safe D 98%. Our ordering matches the pros. Our median (234 D) runs about 10 seats more Democratic than a ratings-implied count (~223), and our P(D House) of ~93% is close to Silver Bulletin's ~94%. Uniform-swing PVI models tend to over-credit the wave party in marginal seats held by entrenched incumbents, so treat the House seat count as the generous-to-the-environment end.
+**Sanity check vs. professional ratings (v1, unbiased scenario).** Mean P(D win) by consensus rating category: Safe R 6%, Likely R 18%, Lean R 37%, Toss-up 42%, Lean D 69%, Likely D 97%, Safe D 98%. Our ordering matches the pros. Our median (234 D) runs about 10 seats more Democratic than a ratings-implied count (~223), and our P(D House) of ~93% is close to Silver Bulletin's ~94%. Uniform-swing PVI models tend to over-credit the wave party in marginal seats held by entrenched incumbents, so treat the House seat count as the generous-to-the-environment end. **v2:** blending the ratings in at 30% lowers the House by ~2–3 seats on its own, but the likely-voter adjustment and the smaller incumbency edge (most competitive incumbents are Republicans) push it back up ~2–3 seats, so the v2 unbiased median is 235 (v1: 234). The rating-implied margins in rated seats average 2.5 pts more Republican than our fundamentals.
 
 ## 4. Monte Carlo engine (`model.py::simulate`)
 
 For each of N = 100,000 simulations (config `simulations`):
 ```
-national  ~ Normal(poll_bias_mean, poll_bias_sd)                 # ONE draw shared by every race
+national  = poll_bias_mean + poll_bias_sd × t6 / sqrt(6/4)       # ONE draw shared by every race (v2: Student-t df 6, same sd)
 state_s   ~ Normal(0, 2.0)  for every state                      # shared by the Senate race + all House seats in the state
-race_r    ~ Normal(0, race_sd_r)
-simulated_margin_r = estimate_r − national + state_s(r) + race_r
+region_g  ~ Normal(0, 1.5)  for each Census region               # v2: Northeast / Midwest / South / West
+hisp      ~ Normal(0, 6.0)                                       # v2: one polling miss among Hispanic voters
+race_r    = race_sd_r × t8 / sqrt(8/6)                           # v2: Student-t df 8, same sd
+simulated_margin_r = estimate_r − national + state_s(r) + region_g(r) + hispanic_share(r) × hisp + race_r
 ```
 - **Correlation:** the national term moves every race together, so a polling miss hits all of them at once (the 2016/2020/2024 failure mode). The state term correlates a state's Senate race with its House seats.
 - **The bias applies to fundamentals too,** because the generic ballot is itself a poll. If polls overstate Democrats by 3, the House and Senate fundamentals shift by 3 as well.
@@ -82,25 +97,60 @@ simulated_margin_r = estimate_r − national + state_s(r) + race_r
 
 | Scenario | poll_bias_mean | poll_bias_sd | Meaning |
 |---|---|---|---|
-| (i) unbiased | 0 | 3.0 | Polls right on average; ±3 national error, typical of midterms |
-| (ii) presidential-style | +3 | 3.0 | Polls overstate Dems by 3, like 2016/2020/2024 (the "missing Trump voter" theory) |
-| (iii) 2025-style | −6 | 3.0 | Polls overstate Republicans by 6, like the 2025 off-year races |
+| (i) unbiased | 0 | 3.0 | Polls right on average, matching the 2018 and 2022 midterm record. **Our central case** |
+| (ii) presidential-style | +3 | 3.0 | Polls overstate Dems by 3, like 2016/2020/2024. The 3-year average was 3.8; we keep 3.0 because Trump isn't on the ballot (and it's the site's default view). A +3.8 sensitivity run is in REPORT.md |
+| (iii) 2025-style | −6 | 3.0 | Polls overstate Republicans by 6, like the 2025 off-year races. **A tail case:** the Trump-era off-year/special-election average was only 1.3 toward R. A −1.3 sensitivity run is in REPORT.md |
+
+All three use fat-tailed (t, df 6) national errors in v2, with the regional and Hispanic layers on top. We tested cutting national sd to 2.5 to offset the new layers, but that made the model *more* confident, which is the opposite of what the history supports. So it stays at 3.0.
 
 Custom: `python run.py --scenario custom --bias 1.5 --bias-sd 2`.
 
 ## 6. Key assumptions you might disagree with
 1. The generic ballot (D+8.4) is the right national anchor. Try `--generic-ballot 4`: at D+4 the House is a coin flip (P(D) ≈ 54%, median 219 D) and the Senate drops to ≈60% D.
-2. Incumbency is worth 3 points everywhere.
+2. Incumbency is worth 3 points for Senate incumbents and 1.8 for House incumbents (v2).
 3. A uniform national swing applied to Cook PVI.
 4. Osborn joins the Democratic caucus 60% of the time if he wins. He says he won't caucus with either party.
 5. Early vote is **not** used (all adjustments 0): turnout volume doesn't reveal vote choice. The hook exists in `early_vote_adjustment` if you want to encode a belief.
-6. Normal (thin-tailed) errors. Real polling misses may be fatter-tailed.
-7. Equal weight across aggregators. There are no pollster house-effect corrections.
+6. v2 uses Student-t errors (df 6 national, df 8 race). The df values are judgment calls.
+7. Equal weight across aggregators. There are no pollster house-effect corrections (only a blanket partisan-sponsor penalty).
+8. All v2 coefficients (section 8) are our assumptions.
 
 ## 7. Known limitations
 - Static snapshot as of Oct 10, 2026. Re-pull polls and re-run to update.
-- No fundraising, approval, or economic inputs. No poll recency weighting.
-- House has no district polls and no candidate-quality data. Redistricted seats rely entirely on Cook's 2026 PVI.
-- Alaska uses ranked-choice voting and Maine has RCV for Senate. Both are modeled as two-way margins.
-- Sparse-race inputs (VA, MS, LA) rest on one or two old or partisan polls.
+- No fundraising, approval, or economic inputs. Poll recency is handled only by a staleness discount on the poll's end date, not by a timeline adjustment for how the national environment has moved since.
+- House has no district polls and no district-level candidate data. Redistricted seats rely on Cook's 2026 PVI plus expert ratings. House Hispanic exposure uses each **state's** share as a proxy, because we don't have Hispanic shares on the new 2026 lines. So South Texas seats (TX-28/34/15) are under-exposed and North Texas seats over-exposed.
+- RCV in AK and ME is modeled as extra uncertainty, not a simulation of first-round shares plus transfers. Montana's three-way race uses a fixed 75% consolidation assumption.
+- Sparse-race inputs (VA, MS, LA) rest on one or two old or partisan polls. v2 now discounts them heavily, so those races are effectively fundamentals-driven.
+- The herding evidence comes from one source (PB Polls) and explicitly isn't proof. In 2024 the compression turned out mostly real.
 - Some numbers in the candidate adjustments are approximate (labeled above).
+
+---
+
+## 8. Model v2: eight additional factors
+
+The research and sources are in `reports/additional_factors.md`. Every coefficient is a key in `config.yaml`. **All coefficients are our assumptions**, chosen to be modest and informed by the cited work, not fitted. `scripts/factor_attribution.py` measures each factor's marginal effect: "drop-one" is the full v2 minus a run with that factor off; "add-one" is v1 plus only that factor. Results are in `output/factor_attribution.md`.
+
+| # | Factor | What it does | Coefficients (config key) | Source / rationale |
+|---|---|---|---|---|
+| 1 | **Herding-aware poll weighting** | Shrinks the Senate poll weight as the poll-vs-fundamentals gap grows, and widens race sd | weight × max(0.5, 1 − 0.04 × (\|gap\| − 1)); sd + 0.10 per gap pt (`senate.herding`) | PB Polls herding analysis (slope 0.26 vs 0.52/0.58; dispersion ratio 0.80); FLIPR leans more on fundamentals in 2026 and widens sd when components disagree. Party-neutral: it pulls KS/NE/IA/SC/MT toward R and MN/MI/NH/ME toward D |
+| 2 | **Demographic + regional error** | Adds one Hispanic-voter polling-miss shock per sim (effect = Hispanic share × shock) and one shock per Census region | Hispanic sd 6.0 (≈2.4 pts in TX/CA, 2.9 NM, 1.6 FL); region sd 1.5 (`demographic_regional`) | FLIPR's demographic error layer; Split Ticket's correlated demographic errors; Split Ticket "generic Texas R+1" on the Hispanic swing. Hispanic shares: 2020 Census. House uses state share as a proxy |
+| 3 | **Expert ratings in the House** | Converts the consensus rating to a margin and blends it in | Toss-up 0, Tilt 2, Lean 4.5, Likely 9, Safe 16 (interpolated on the averaged score); weight 0.30 rated / 0.15 unrated-as-Safe / 0.17 if a district poll exists; env_shift 0 (`house.expert_ratings`) | FLIPR Deluxe blends Cook/IE/Sabato at ~1/6 weight in polled races and more in unpolled ones. We have no district polls, hence 0.30. Ratings are taken at face value (no environment de-bias) because October ratings already reflect a D-leaning environment |
+| 4 | **Candidate quality** | Fundamentals-only D-margin terms, so well-polled races move only by the fundamentals share | TX +2.0 (Paxton weak), OH +1.5 (Brown), NC +1.5 (Cooper), NH −1.5 (Sununu) (`senate.candidate_quality`) | Split Ticket on Paxton ("may be the weakest candidate in the entire country"); PB Polls on former senators/governors "carrying their own votes". FLIPR: candidate effects are now ~half their historical size, hence small values. Collins/Osborn/Peltola terms unchanged |
+| 5 | **Poll cleanup** | (a) LV adjustment to the generic ballot; (b) partisan polls shifted 4 pts toward the other party at 0.5 weight; (c) staleness discount | GB +0.4 (`generic_ballot_lv_adjustment`); shift 4.0, weight ×0.5, grace 14 days, half-life 45 days (`senate.poll_cleanup`) | Silver Bulletin LV D+8.8 vs D+8.1 (Sep 23); FLIPR's ~4-pt prior for released partisan polls. Effect: VA's June poll weight 0.35 → 0.07; MS 0.35 → 0.07; LA 0.35 → 0.14 |
+| 6 | **Incumbency reweight** | Smaller House edge; appointed senators treated as open seats | House 1.8 (was 3.0) (`house.incumbency_bonus_v2`); appointed 0.0 (was 1.5); redrawn-state multiplier available but **off** (1.0), because we lack district-overlap data | Jacobson: 2024 House incumbency ≈1.2 (abstract-level); 2025 district estimate 2.58; FLIPR treats appointed incumbents as open seats |
+| 7 | **Uncertainty structure / fat tails** | Student-t national and race errors at the same sd; scenarios documented against base rates; regional layer from #2 | national df 6, race df 8 (`error_model`); national sd kept 3.0 | Silver: presidential years +3.8 D overstatement, 2018/22 ~even, off-years 1.3 toward R; FLIPR uses mildly fat tails. (iii) relabeled as a tail case |
+| 8 | **Election mechanics** | RCV transfer uncertainty; Montana three-way consolidation; runoff notes; independent caucus | AK +2.0 sd, ME +1.5 sd, no mean shift (`senate.rcv`); MT runner-up gets 75% of the anti-R vote, +2.0 sd (`senate.three_way`); independents caucus D 0.6 (unchanged) | FLIPR simulates RCV; the ASR poll has Peltola +2 in both rounds, so there's no mean shift. LA House seats go to a **Dec 12 runoff** if no one clears 50% (noted, not simulated). GA 50%+1 runoff risk ignored (Ossoff ~+8) |
+
+### Measured effects (drop-one, 40,000 sims; P in percentage points)
+
+See `output/factor_attribution.md` for the full tables in all three scenarios. Headline, unbiased scenario:
+- **Herding:** Senate P(D) −1.0 in full v2. On its own on top of v1 it's −4.6, but candidate quality and open-seat treatment shrink the very gaps it reacts to.
+- **Expert ratings:** House −2.9 D seats, P(D House) −1.7.
+- **Incumbency reweight:** House +1.5 D seats, Senate P(D) +1.5 (open-seat OH/FL/SC).
+- **Poll cleanup:** House +1.2 seats, Senate P(D) +1.4.
+- **Candidate quality:** Senate P(D) +1.7.
+- **Demographic/regional:** P(D House) −1.5 (wider), Senate P(D) −0.9.
+- **Fat tails:** Senate P(D) +1.5 (t-draws concentrate more mass near the center at the same sd).
+- **Mechanics:** ≈0.
+
+Net: the factors largely offset, and every headline number moved by less than one point (see REPORT.md "Before vs after").
