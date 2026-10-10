@@ -5,13 +5,13 @@
   .venv/bin/python run.py --scenario custom --bias 1.5 --bias-sd 2.5
   .venv/bin/python run.py --scenario all --generic-ballot 5 --sims 20000
 """
-import argparse, os, sys, json
+import argparse, os, re, sys, json
 import numpy as np
 import pandas as pd
 import matplotlib
 matplotlib.use("Agg")
 import matplotlib.pyplot as plt
-from model import load_config, simulate, HERE
+from model import load_config, simulate, seat_histogram, HERE
 
 ALIASES = {"i": "unbiased", "ii": "pres_style_D_overstatement", "iii": "r_overstatement_2025"}
 
@@ -37,6 +37,25 @@ def summarize(name, label, r):
         senate_tipping=[(row.state, round(row.tipping_freq, 3)) for row in tip_s.itertuples()],
         house_tipping=[(row.district, round(row.tipping_freq, 3)) for row in tip_h.itertuples()],
     )
+
+
+def seat_distributions(r, cfg):
+    """Full seat-by-seat histograms for one scenario run (counts per integer seat value)."""
+    return dict(
+        senate=dict(seat_histogram(r["senate_d_eff"], 100, 51),
+                    description="Senate seats held by Democrats + independents caucusing with Democrats in that simulation (0-100). "
+                                "51 = D majority; at 50 the VP (R) breaks ties."),
+        house=dict(seat_histogram(r["house_d"], 435, cfg["house"]["majority"]),
+                   description="House seats won by Democrats (0-435). 218 = majority."),
+    )
+
+
+def compact_json(obj, path):
+    """indent=2 JSON, but keep integer count arrays on one line so the file stays small and readable."""
+    txt = json.dumps(obj, indent=2, default=float)
+    txt = re.sub(r"\[\s*((?:-?\d+,\s*)+-?\d+)\s*\]", lambda m: "[" + ",".join(x.strip() for x in m.group(1).split(",")) + "]", txt)
+    with open(path, "w") as f:
+        f.write(txt + "\n")
 
 
 def senate_table(sen):
@@ -178,7 +197,7 @@ def main():
     for k, v in todo.items():
         r = simulate(cfg, v["poll_bias_mean"], v["poll_bias_sd"])
         s = summarize(k, v["label"], r)
-        results[k] = dict(raw=r, summary=s, label=v["label"])
+        results[k] = dict(raw=r, summary=s, label=v["label"], dist=seat_distributions(r, cfg))
         senate_table(r["senate"]).assign(scenario=k).to_csv(os.path.join(a.out, f"senate_races_{k}.csv"), index=False)
         r["house"][["district", "member", "inc_party", "inc_running", "pvi_d", "consensus_rating_score", "fundamentals_margin", "est_margin",
                     "sim_mean_margin", "p_dem", "tipping_freq"]].assign(scenario=k).to_csv(os.path.join(a.out, f"house_districts_{k}.csv"), index=False)
@@ -189,6 +208,8 @@ def main():
     # combined per-race CSV
     pd.concat([senate_table(results[k]["raw"]["senate"]).assign(scenario=k) for k in results]).to_csv(os.path.join(a.out, "senate_race_probabilities_all_scenarios.csv"), index=False)
     json.dump({k: results[k]["summary"] for k in results}, open(os.path.join(a.out, "summary.json"), "w"), indent=2, default=float)
+    compact_json({k: dict(scenario=k, label=results[k]["label"], **results[k]["dist"]) for k in results},
+                 os.path.join(a.out, "seat_distributions.json"))
     cp = charts(results, os.path.join(a.out, "charts"))
     rp = write_report(results, cfg, a.out, cp)
     print("\nReport:", rp); print("Charts:", *cp, sep="\n  ")

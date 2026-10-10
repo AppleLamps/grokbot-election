@@ -64,6 +64,28 @@ def house_estimates(cfg) -> pd.DataFrame:
     return df
 
 
+# --------------------------------------------------------------------------- Seat distributions
+def seat_histogram(seats, max_seats: int, majority: int):
+    """Full simulated distribution of a seat count: one integer count per seat value 0..max_seats.
+
+    `seats` is the per-simulation array (Senate D+I seats or House D seats). Returns a dict with the
+    count vector plus summary stats so downstream consumers never need the raw sims.
+    """
+    seats = np.asarray(seats).astype(np.int64)
+    counts = np.bincount(seats, minlength=max_seats + 1)
+    if len(counts) > max_seats + 1:
+        raise ValueError(f"seat count above {max_seats} in simulation output")
+    n = int(len(seats))
+    return dict(
+        sims=n, max_seats=int(max_seats), majority=int(majority), majority_line=majority - 0.5,
+        mean=float(seats.mean()), median=float(np.median(seats)),
+        p10=int(np.percentile(seats, 10)), p90=int(np.percentile(seats, 90)),
+        min=int(seats.min()), max=int(seats.max()),
+        p_at_or_above_majority=float((seats >= majority).mean()),
+        counts=[int(c) for c in counts],
+    )
+
+
 # --------------------------------------------------------------------------- Simulation
 def simulate(cfg, bias_mean: float, bias_sd: float, n: int | None = None, seed: int | None = None):
     n = int(n or cfg["simulations"])

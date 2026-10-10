@@ -35,11 +35,11 @@
             <h2>The bottom line</h2>
             <p>
               If the polls are roughly right, Democrats are favored to win <strong>both</strong> chambers:
-              about a <strong class="d">68%</strong> chance of a Senate majority and <strong class="d">93%</strong> for the House,
-              riding a generic-ballot lead of D+8.4. Republicans' realistic path to holding both chambers requires the polls to be
+              about a <strong class="d" data-field="hero-senate-pD">68%</strong> chance of a Senate majority and <strong class="d" data-field="hero-house-pD">93%</strong> for the House,
+              riding a generic-ballot lead of <span data-field="generic-ballot">D+8.4</span>. Republicans' realistic path to holding both chambers requires the polls to be
               <em>understating</em> Republicans, as they did in 2016, 2020 and 2024. In that scenario, Republicans become
-              Senate favorites (about <strong class="r">65%</strong>), but Democrats still win the House roughly
-              <strong class="d">70%</strong> of the time. If polls instead miss in Democrats' favor, as in the 2025 off-year
+              Senate favorites (about <strong class="r" data-field="hero-miss-senate-pR">65%</strong>), but Democrats still win the House roughly
+              <strong class="d" data-field="hero-miss-house-pD">70%</strong> of the time. If polls instead miss in Democrats' favor, as in the 2025 off-year
               elections, it becomes a Democratic wave in both chambers.
             </p>
           </div>
@@ -65,7 +65,7 @@
           <div><dt>Senate today</dt><dd><span class="r">53 R</span> &middot; <span class="d">45 D</span> &middot; <span class="i">2 I</span></dd></div>
           <div><dt>Senate seats up</dt><dd>35</dd></div>
           <div><dt>House today</dt><dd><span class="r">218 R</span> &middot; <span class="d">214 D</span></dd></div>
-          <div><dt>Generic ballot (Oct 9)</dt><dd class="d">D+8.4</dd></div>
+          <div><dt>Generic ballot (Oct 9)</dt><dd class="d" data-field="generic-ballot">D+8.4</dd></div>
           <div><dt>Simulations per scenario</dt><dd id="sims">100,000</dd></div>
         </dl>
       </div>
@@ -149,16 +149,18 @@
     <section id="charts" class="section alt">
       <div class="wrap">
         <h2 class="section-title">How many seats Democrats win</h2>
-        <p class="section-lede">Each bar shows the middle 80% of 100,000 simulated elections for one scenario; the dot is the typical outcome. The dashed line is the majority threshold: bar segments to its right (blue) are Democratic majorities, to its left (red) Republican ones. The selected scenario is outlined.</p>
+        <p class="section-lede">Every bar is one possible seat count. Its height is the share of the <span data-field="sims">100,000</span> simulated elections that ended with Democrats holding exactly that many seats, under the scenario picked above (now: <strong data-field="hist-scenario">Polls unbiased</strong>). Red bars are Republican majorities and blue bars are Democratic majorities; the dashed line is the majority threshold. The solid line marks the average, the small teal triangle the median. Hover or tap a bar for its exact share.</p>
         <div class="chart-grid">
           <figure class="chart">
-            <figcaption class="chart-title">Senate seats held by Democrats and allied independents</figcaption>
-            <div class="chart-svg" id="chart-senate" role="img" aria-label="Senate seat ranges by scenario"></div>
-            <p class="chart-note">Out of 100. Democrats need 51; at 50-50 the Republican Vice President breaks ties.</p>
+            <figcaption class="chart-title">How many Senate seats will Democrats hold?</figcaption>
+            <p class="chart-sub" data-field="senate-hist-sub"></p>
+            <div class="chart-svg" id="chart-senate" role="img" aria-label="Senate seat distribution"></div>
+            <p class="chart-note">Out of 100, counting independents only when they caucus with Democrats. Democrats need 51; at 50-50 the Republican Vice President breaks ties, so 50 is a Republican majority.</p>
           </figure>
           <figure class="chart">
-            <figcaption class="chart-title">House seats won by Democrats</figcaption>
-            <div class="chart-svg" id="chart-house" role="img" aria-label="House seat ranges by scenario"></div>
+            <figcaption class="chart-title">How many House seats will Democrats win?</figcaption>
+            <p class="chart-sub" data-field="house-hist-sub"></p>
+            <div class="chart-svg" id="chart-house" role="img" aria-label="House seat distribution"></div>
             <p class="chart-note">Out of 435. 218 seats are needed for a majority.</p>
           </figure>
         </div>
@@ -220,7 +222,7 @@
           <ol class="method-list">
             <li><strong>Estimate each race.</strong> Senate: a weighted blend of the race's polling average and a fundamentals estimate (Cook PVI &times; 2 + the D+8.4 generic ballot + incumbency + candidate adjustments). House: fundamentals only (PVI + generic ballot + incumbency), across all 435 districts on the 2026 maps.</li>
             <li><strong>Add correlated polling error.</strong> In every simulation, one national polling-error term shifts every race the same direction, on top of independent race-level noise. That is why polling misses tend to sweep the board instead of cancelling out.</li>
-            <li><strong>Simulate 100,000 elections</strong> per scenario and count who controls each chamber, including how independents caucus.</li>
+            <li><strong>Simulate <span data-field="sims">100,000</span> elections</strong> per scenario and count who controls each chamber, including how independents caucus.</li>
             <li><strong>Vary the polling-error assumption</strong>: centered at zero, a 3-point pro-Democratic polling miss (the 2016/2020/2024 pattern), or a 6-point pro-Republican miss (the 2025 pattern).</li>
           </ol>
           <h3 class="sources-title">Source files</h3>

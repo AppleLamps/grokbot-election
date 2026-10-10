@@ -22,7 +22,7 @@ Baselines: Senate 53R / 45D / 2I with 35 seats up; House 218R / 214D; generic ba
 .
 ├── index.html            # the website (vanilla HTML/CSS/JS, no framework, no build step)
 ├── styles.css
-├── app.js                # loads data/results.json; scenario switcher + sortable race table
+├── app.js                # loads data/results.json; scenario switcher, SVG seat histograms, sortable race table
 ├── data/results.json     # site data, generated from the model outputs
 ├── vercel.json           # optional: static site, no framework/build
 └── model/                # the Python model
@@ -33,7 +33,7 @@ Baselines: Senate 53R / 45D / 2I with 35 seats up; House 218R / 214D; generic ba
     ├── requirements.txt
     ├── data/             # senate_races.csv, house_districts.csv, house_district_polls.csv, raw/ snapshots
     ├── scripts/          # build_data.py (raw -> CSV), export_site_data.py (outputs -> ../data/results.json)
-    └── output/           # REPORT.md, summary.json, per-race CSVs, charts/*.png
+    └── output/           # REPORT.md, summary.json, seat_distributions.json, per-race CSVs, charts/*.png
 ```
 
 ## The model in brief
@@ -66,7 +66,7 @@ python model/scripts/export_site_data.py   # from the repo root; writes data/res
 
 ## The website
 
-Plain static files. The repo root is the site: `index.html` fetches `data/results.json` with a relative path, and the charts load from `model/output/charts/`. There are no external CDNs, fonts or dependencies.
+Plain static files. The repo root is the site: `index.html` fetches `data/results.json` with a relative path, and every chart (including the seat-by-seat histograms built from each scenario's full simulated distribution) is drawn in the browser as inline SVG from that file. There are no external CDNs, fonts or dependencies.
 
 - **Local preview:** `python3 -m http.server 8000` from the repo root, then open http://localhost:8000. Opening `index.html` straight from disk (`file://`) won't work, because browsers block `fetch` of local JSON.
 - **Deploy on Vercel:** import this repo in Vercel and deploy. Framework preset "Other", root directory `./`, no build command, no output directory override. Or run `vercel --prod` from the repo root.

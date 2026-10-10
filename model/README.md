@@ -22,4 +22,4 @@ Layout:
 - `run.py` – CLI, CSV/JSON outputs, charts, report
 - `scripts/export_site_data.py` – exports outputs to `../data/results.json` for the website
 - `requirements.txt` – Python dependencies
-- `output/` – REPORT.md, summary.json, per-race CSVs, charts/
+- `output/` – REPORT.md, summary.json, per-race CSVs, charts/, and `seat_distributions.json`: per scenario, the full simulated seat histogram (count of simulations at every integer seat value; Senate D+I seats 0–100, House D seats 0–435) with mean/median/10th–90th percentiles

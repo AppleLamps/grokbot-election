@@ -194,6 +194,8 @@ tbody tr:hover { background: #f8fafc; }
 .chart-wide { margin-top: var(--s5); }
 .chart-title { font-size: 1.05rem; font-weight: 700; color: var(--ink); margin-bottom: var(--s3); }
 .chart-svg { width: 100%; min-height: 120px; }
+.chart-sub { font-size: .92rem; color: var(--ink-2); margin: calc(-1 * var(--s2)) 0 var(--s3); min-height: 1.4em; }
+.chart-sub .d { color: var(--d-ink); } .chart-sub .r { color: var(--r-ink); }
 .chart-svg svg { display: block; font-family: var(--font); overflow: visible; }
 .chart-note { font-size: .88rem; color: var(--ink-2); margin: var(--s3) 0 0; }
 .chart-legend { display: flex; flex-wrap: wrap; gap: var(--s2) var(--s4); font-size: .85rem; color: var(--ink-2); margin-bottom: var(--s3); }

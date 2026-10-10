@@ -1,9 +1,9 @@
-"""Export model outputs (output/summary.json + per-race CSV) to ../data/results.json for the static site.
+"""Export model outputs (output/summary.json, output/seat_distributions.json + per-race CSV) to ../data/results.json for the static site.
 
 Usage (from repo root or model/):  python model/scripts/export_site_data.py
 Uses only the Python standard library.
 """
-import csv, json, os
+import csv, json, os, re
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 MODEL = os.path.dirname(HERE)
@@ -28,8 +28,21 @@ def num(x):
     except ValueError:
         return None
 
+def histogram(d):
+    """Trim a full 0..max_seats count vector (from seat_distributions.json) to the simulated support and
+    convert to parallel arrays: seats[i] occurred with probability prob[i] (= count / sims)."""
+    counts, n = d["counts"], d["sims"]
+    nz = [i for i, c in enumerate(counts) if c > 0]
+    lo, hi = nz[0], nz[-1]
+    return {"sims": n, "max_seats": d["max_seats"], "majority": d["majority"], "majority_line": d["majority_line"],
+            "mean": round(d["mean"], 3), "median": d["median"], "p10": d["p10"], "p90": d["p90"],
+            "seats": list(range(lo, hi + 1)), "count": counts[lo:hi + 1],
+            "prob": [round(c / n, 6) for c in counts[lo:hi + 1]]}
+
+
 def main():
     summ = json.load(open(os.path.join(OUT, "summary.json")))
+    dist = json.load(open(os.path.join(OUT, "seat_distributions.json")))
     scenarios = []
     for key, short, label, desc in KEYS:
         s = summ[key]
@@ -39,10 +52,12 @@ def main():
             "senate": {"p_D": s["senate_p_D"], "p_R": s["senate_p_R"], "p_none": s["senate_p_none"],
                        "D_mean": s["senate_D_mean"], "D_p10": s["senate_D_p10"], "D_p90": s["senate_D_p90"],
                        "R_mean": s["senate_R_mean"], "R_p10": s["senate_R_p10"], "R_p90": s["senate_R_p90"],
-                       "tipping": s["senate_tipping"]},
+                       "tipping": s["senate_tipping"], "majority": 51, "majority_line": 50.5,
+                       "D_median": dist[key]["senate"]["median"], "hist": histogram(dist[key]["senate"])},
             "house": {"p_D": s["house_p_D"], "p_R": s["house_p_R"], "D_mean": s["house_D_mean"],
                       "D_median": s["house_D_median"], "D_p10": s["house_D_p10"], "D_p90": s["house_D_p90"],
-                      "tipping": s["house_tipping"]},
+                      "tipping": s["house_tipping"], "majority": 218, "majority_line": 217.5,
+                      "hist": histogram(dist[key]["house"])},
         })
 
     races = {}
@@ -66,14 +81,15 @@ def main():
         "baseline": {"senate": {"R": 53, "D": 45, "I": 2, "up": len(race_list)}, "house": {"R": 218, "D": 214}},
         "scenarios": scenarios,
         "senate_races": race_list,
-        "charts": {"senate": "model/output/charts/senate_seat_distribution.png",
-                   "house": "model/output/charts/house_seat_distribution.png",
-                   "senate_races": "model/output/charts/senate_race_probabilities.png"},
     }
     os.makedirs(os.path.join(ROOT, "data"), exist_ok=True)
     path = os.path.join(ROOT, "data", "results.json")
     with open(path, "w") as f:
-        json.dump(out, f, indent=1)
+        txt = json.dumps(out, indent=1)
+        # keep long numeric arrays (histograms) on one line
+        txt = re.sub(r"\[\s*((?:-?[\d.e-]+,\s*)+-?[\d.e-]+)\s*\]",
+                     lambda m: "[" + ",".join(x.strip() for x in m.group(1).split(",")) + "]", txt)
+        f.write(txt + "\n")
     print(f"wrote {path}: {len(scenarios)} scenarios, {len(race_list)} races")
 
 if __name__ == "__main__":

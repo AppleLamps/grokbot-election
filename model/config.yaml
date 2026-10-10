@@ -3,7 +3,7 @@
 # Margins are always D-minus-R in percentage points (positive = Dem/Dem-side ahead).
 # ============================================================
 
-simulations: 40000
+simulations: 100000      # per scenario; 100k gives smooth seat histograms and runs in seconds
 seed: 2026
 
 # ---- National environment -----------------------------------

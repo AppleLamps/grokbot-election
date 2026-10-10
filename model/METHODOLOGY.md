@@ -66,7 +66,7 @@ estimate = 2 × PVI_2026  +  GB  +  3.0 × (incumbent running: +1 D, −1 R)  + 
 
 ## 4. Monte Carlo engine (`model.py::simulate`)
 
-For each of N = 40,000 simulations:
+For each of N = 100,000 simulations (config `simulations`):
 ```
 national  ~ Normal(poll_bias_mean, poll_bias_sd)                 # ONE draw shared by every race
 state_s   ~ Normal(0, 2.0)  for every state                      # shared by the Senate race + all House seats in the state
