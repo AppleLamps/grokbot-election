@@ -1,0 +1,545 @@
+{{short description|none}}
+{{for|related races|2026 United States gubernatorial elections}}
+{{Use American English|date=January 2025}}
+<!-- "none" is preferred when the title alone is adequate; see [[WP:SDNONE]] -->
+{{use mdy dates|date=September 2023}}
+{{Infobox election
+| election_name = 2026 South Dakota gubernatorial election
+| country = South Dakota
+| type = presidential
+| ongoing = yes
+| previous_election = 2022 South Dakota gubernatorial election
+| previous_year = 2022
+| next_election = 2030 South Dakota gubernatorial election
+| next_year = 2030
+| election_date = November 3, 2026
+| image1 = Larry Rhoden 2025 (cropped).jpg
+| nominee1 = [[Larry Rhoden]]
+| party1 = Republican Party (United States)
+| running_mate1 = [[Tony Venhuizen]]
+| popular_vote1 = 
+| percentage1 = 
+| image2 = 3x4.svg
+| nominee2 = [[Dan Ahlers]]
+| party2 = Democratic Party (United States)
+| running_mate2 = [[Steven McCleerey]]
+| popular_vote2 = 
+| percentage2 = 
+| map_image = 
+| map_size = 
+| map_caption = 
+| title = [[Governor of South Dakota|Governor]]
+| before_election = [[Larry Rhoden]]
+| before_party = Republican Party (United States)
+| after_election = 
+| after_party = 
+}}
+{{ElectionsSD}}
+The '''2026 South Dakota gubernatorial election''' is scheduled to take place on November 3, 2026, to elect the [[governor of South Dakota]]. The primary elections were held on June 2, 2026, and since no candidate received over 35% in the Republican primary, a runoff election was held on July 28.<ref>{{Cite web |title=South Dakota 2026 General Election |url=https://www.thegreenpapers.com/G26/SD |access-date=2025-06-13 |website=The Green Papers}}</ref> 
+
+Incumbent Republican [[Larry Rhoden]], who ascended to the office of governor in 2025 after [[Kristi Noem]] resigned to become [[U.S. Secretary of Homeland Security|secretary of homeland security]], is running for his first full term in office.<ref name="AP 11-18-2025" /> Rhoden had previously been serving as lieutenant governor under Noem since the two took office in 2019.<ref name="AP 11-18-2025" /> Democrats have not won a gubernatorial election in South Dakota since [[1974 South Dakota gubernatorial election|1974]].
+
+{{toclimit|3}}
+
+== Republican primary ==
+=== Candidates ===
+==== Nominee ====
+*[[Larry Rhoden]], incumbent [[Governor of South Dakota|governor]] (2025–present)<ref name="AP 11-18-2025">{{cite news|last=Raza|first=Sara|date=November 18, 2025|title=South Dakota governor announces he will run for a full term next year|publisher=Associated Press|url=https://apnews.com/article/south-dakota-governor-larry-rhoden-9ae7c9443328c9c257d3f5da798a0ca5|access-date=November 18, 2025}}</ref>
+**Running mate: [[Tony Venhuizen]], incumbent [[Lieutenant Governor of South Dakota|lieutenant governor]] (2025–present)<ref>{{cite news |author=C.J. Keene |title=Gov. Larry Rhoden officially announces reelection campaign |url=https://www.sdpb.org/politics/2025-11-18/gov-larry-rhoden-officially-announces-reelection-campaign |access-date=November 18, 2025 |work=[[SDPB]] |date=November 18, 2025 |quote=Rhoden will once again run with his current Lt. Governor; Sioux Falls Republican Tony Venhuizen.}}</ref>
+
+==== Eliminated in runoff ====
+*Toby Doeden, retail and real estate executive<ref>{{cite news |author=Haiar, Joshua |title=Doeden joins race for governor with pledge to eliminate property taxes |url=https://southdakotasearchlight.com/2025/05/28/doeden-joins-race-for-governor-with-pledge-to-eliminate-property-taxes/ |access-date=June 2, 2025 |work=[[South Dakota Searchlight]] |date=May 28, 2025}}</ref>
+
+==== Eliminated in primary ====
+*[[Jon Hansen]], [[List of speakers of the South Dakota House of Representatives|Speaker of the South Dakota House of Representatives]] (2025–present) from the [[South Dakota's 25th legislative district|25th district]] (2011–2013, 2019–present)<ref name=hansen>{{cite news |last1=Huber |first1=Makenzie |title=First candidate for governor focuses on property rights, spending and halting 'corporate welfare' |url=https://southdakotasearchlight.com/2025/04/24/first-candidate-governor-race-jon-hansen-focuses-property-rights-spending-cuts-halting-corporate-welfare-karla-lems/ |access-date=April 28, 2025 |work=[[South Dakota Searchlight]] |date=April 25, 2025}}</ref>
+**Running mate: [[Karla Lems]], Speaker Pro Tempore of the [[South Dakota House of Representatives]] (2025-present) from the [[South Dakota's 16th legislative district|16th district]] (2023–present)<ref name=hansen/>
+*[[Dusty Johnson]], [[United States House of Representatives|U.S. representative]] from {{ushr|SD|AL}} (2019–present)<ref>{{cite news |title=Congressman Dusty Johnson announces he will run for Governor job |url=https://www.newscenter1.tv/news/south-dakota/congressman-dusty-johnson-announces-he-will-run-for-governor-job |access-date=June 30, 2025 |work=[[KNBN]] |date=June 30, 2025 |language=en}}</ref>
+
+==== Declined ====
+*[[Marty Jackley]], [[Attorney General of South Dakota]] (2009–2019, 2023–present)<ref>{{cite news |work=[[South Dakota Searchlight]] |access-date=January 31, 2025 |url=https://southdakotasearchlight.com/2024/11/12/trump-reportedly-picks-south-dakota-gov-kristi-noem-to-run-homeland-security/ |date=November 12, 2024 |author1=Tupper, Seth |author2=Haiar, Joshua |title=Trump picks South Dakota Gov. Kristi Noem to run Homeland Security |quote=}}</ref> ''([[2026 United States House of Representatives election in South Dakota|running for U.S. House]])''<ref>{{Cite news |author=Dircks, Jackson |date=2025-06-30 |title=Marty Jackley seeks South Dakota's sole US House seat |url=https://brookingsregister.com/stories/marty-jackley-seeks-south-dakotas-sole-us-house-seat,142120 |access-date=2025-07-01 |website=Brookings Register |language=en}}</ref>
+*[[Mike Rounds]], [[United States Senate|U.S. Senator]] (2015–present) and former governor (2003–2011)<ref>{{cite news |last1=Santella |first1=Dan |title=Sen. Rounds looks at '25 dynamics, says no gubernatorial run in '26 |url=https://www.siouxlandproud.com/news/south-dakota-news/sen-rounds-looks-at-25-dynamics-says-no-gubernatorial-run-in-26/ |access-date=April 23, 2025 |work=[[KELO-TV]] |date=April 23, 2025}}</ref> ''([[2026 United States Senate election in South Dakota|running for re-election]])''<ref>{{Cite news |title=Mike Rounds formally announces campaign for reelection to the U.S. Senate |url=https://southdakotasearchlight.com/briefs/mike-rounds-formally-announces-campaign-for-reelection-to-u-s-senate/ |access-date=2026-03-12 |website=South Dakota Searchlight |language=en}}</ref>
+*[[Paul TenHaken]], mayor of [[Sioux Falls, South Dakota|Sioux Falls]] (2018–2026)<ref>{{cite news |last1=Mitchell |first1=Trevor J. |title=Sioux Falls Mayor Paul TenHaken says he does not intend to run for another office |url=https://www.argusleader.com/story/news/politics/elections/2025/06/03/sioux-falls-mayor-paul-tenhaken-says-he-does-not-intend-to-run-for-another-office/84010662007/ |access-date=June 3, 2025 |work=[[Argus Leader]] |date=June 3, 2025}}</ref>
+
+=== First round ===
+==== Endorsements ====
+{{Endorsements box
+|title=Toby Doeden
+|list=
+'''State legislators'''
+*[[Steve Haugaard]], former [[List of speakers of the South Dakota House of Representatives|speaker of the House]] (2019–2021) from the [[South Dakota's 10th legislative district|10th district]] (2015–2023) and candidate for this seat in [[2022 South Dakota gubernatorial election|2022]]<ref>{{cite web |title=Former Speaker Haugaard dunks on Jon Hansen, endorses Toby Doeden. Did anyone tell him about the liquor stores? |url=https://dakotawarcollege.com/former-speaker-haugaard-dunks-on-jon-hansen-endorses-toby-doeden-did-anyone-tell-him-about-the-liquor-stores/ |website=South Dakota War College |access-date=1 June 2026 }}</ref>
+*[[Taffy Howard]], [[South Dakota State Senate|state senator]] from the [[South Dakota's 34th legislative district|34th district]] (2025–present) and former [[South Dakota House of Representatives|state representative]] from the [[South Dakota's 33rd legislative district|33rd district]] (2017–2023)<ref>{{cite web |title=Legislator Taffy Howard, who once skipped 14% of what taxpayers sent her to Pierre to do, endorsing Toby Doeden for Governor |url=https://dakotawarcollege.com/legislator-taffy-howard-who-once-skipped-14-of-what-taxpayers-sent-her-to-pierre-to-do-endorsing-toby-doeden-for-governor/ |website=South Dakota War College |access-date=12 March 2026}}</ref>
+*[[Phil Jensen]], [[South Dakota House of Representatives|state representative]] from the [[South Dakota's 33rd legislative district|33rd district]] (2009–2013, 2021–present) and former [[South Dakota State Senate|state senator]] from the [[South Dakota's 33rd legislative district|33rd district]] (2013–2021)<ref>{{cite web |title=Toby Doeden proudly announces he's endorsed by State Representative Phil Jensen who tried to defund Huron School District |url=https://dakotawarcollege.com/toby-doeden-proudly-announces-hes-endorsed-by-state-representative-phil-jensen-who-tried-to-defund-huron-school-district/ |website=South Dakota War College |access-date=17 November 2025 |date=9 June 2025}}</ref>
+*[[Brandei Schaefbauer]], [[South Dakota House of Representatives|state representative]] from the [[South Dakota's 3rd legislative district|3rd district]] (2023–present)<ref>{{cite web |title=Looks like the landlord endorsement is in from Toby's Tenant; Rep. Schaefbauer officially endorses Doeden for Gov |url=https://dakotawarcollege.com/looks-like-the-landlord-endorsement-is-in-from-tobys-tenant-rep-schaefbauer-officially-endorses-doeden-for-gov/ |website=South Dakota War College/}}</ref>
+*[[Logan Manhart]], [[South Dakota House of Representatives|state representative]] from the [[South Dakota's 1st legislative district|1st district]] (2025–present)<ref>{{cite web |title=More legislators diving into the Doeden Dumpster. As some have a vested interest in his success |url=https://dakotawarcollege.com/more-legislators-diving-into-the-doeden-dumpster-as-some-have-a-vested-interest-in-his-success/ |website=South Dakota War College |access-date=12 March 2026}}</ref>
+*[[Bobbi Andera]], [[South Dakota House of Representatives|state representative]] from the [[South Dakota's 10th legislative district|10th district]] (2025–present)<ref>{{cite web |title=Looks like State Rep. Bobbi Andera jumped ship from 2% Hansen campaign to 4% Doeden campaign |url=https://dakotawarcollege.com/looks-like-state-rep-bobbi-andera-jumped-ship-from-2-hansen-campaign-to-4-doeden-campaign/ |website=South Dakota War College |access-date=12 March 2026 }}</ref>
+*[[John Carley]], [[South Dakota State Senate|state senator]] from the [[South Dakota's 29th legislative district|29th district]] (2025–present)<ref>{{cite web |title=In announcing gubernatorial bid, Doeden channels Trump; blasts career politicians, lobbyists |url=https://aberdeeninsider.com/in-announcing-gubernatorial-bid-doeden-channels-trump-blasts-career-politicians-lobbyists/ |website=Aberdeen Insider |access-date=16 March 2026 }}</ref>
+
+'''Organizations'''
+*Dakota First Action<ref>{{cite web |title=2026 endorsed candidates |url=https://www.dakotafirst.org/endorsements|website=Dakota First Action |access-date=4 June 2026 }}</ref>
+}}
+{{Endorsements box
+|title=Jon Hansen
+|list=
+'''State legislators'''
+*26 [[South Dakota Senate|state senators]] and [[South Dakota House of Representatives|representatives]]<ref name="DWCtoby">{{cite web |title=Interesting how many people are abandoning Toby, despite all the cash he dropped.|url=https://dakotawarcollege.com/interesting-how-many-people-are-abandoning-toby-despite-all-the-cash-he-dropped/ |website=South Dakota War College |access-date=15 May 2026 |date=28 May 2025}}</ref>
+'''Organizations'''
+*Patriot Ripple Effect<ref>{{cite web |title=Endorsements by Patriot Ripple Effect |url=https://ballotpedia.org/Endorsements_by_Patriot_Ripple_Effect |website=Ballotpedia |access-date=3 June 2026 }}</ref>
+*America First Insight<ref>{{cite web |title=2026 America First Insight Endorsements |url=https://americafirstinsight.com/america-first-endorsements/ |website=America First Insight |access-date=3 June 2026 }}</ref>
+}}
+{{Endorsements box
+|title=Dusty Johnson
+|list=
+'''Statewide officials'''
+*[[Dennis Daugaard]], former [[governor of South Dakota]] (2011–2019)<ref>{{cite news |last1=Haiar |first1=Joshua |title=Former governor makes an endorsement, but not for the ticket that could include his son-in-law |url=https://southdakotasearchlight.com/briefs/former-governor-makes-an-endorsement-but-not-for-the-ticket-that-could-include-his-son-in-law/ |access-date=July 2, 2025 |work=[[South Dakota Searchlight]] |date=July 30, 2025}}</ref>
+'''State legislators'''
+*36 [[South Dakota Senate|state senators]] and [[South Dakota House of Representatives|representatives]]<ref name="DWCdusty">{{cite web |title=Dusty Johnson for Governor campaign launches massive endorsement from 36 current, 77 former South Dakota lawmakers |url=https://dakotawarcollege.com/dusty-johnson-for-governor-campaign-launches-massive-endorsement-from-36-current-77-former-south-dakota-lawmakers/ |website=South Dakota War College |access-date=17 November 2025 |date=25 September 2025}}</ref>
+*77 former [[South Dakota Senate|state senators]] and [[South Dakota House of Representatives|representatives]]<ref name="DWCdusty"/>
+'''Organizations'''
+*South Dakota Fraternal Order of Police<ref>{{cite web |title=Dusty Johnson: The Problem Solver |url=https://www.sdnewswatch.org/dusty-johnson-republican-primary-governor/ |website=South Dakota News Watch |access-date=4 June 2026 }}</ref>
+*[[AIPAC]]<ref name="AIPAC">{{cite web |title=Thank You for Supporting Pro-Israel Incumbent Members of Congress |url=https://candidates.aipacpac.org/page/featured/ |website=AIPAC Political Portal |access-date=6 June 2026}}</ref>
+}}
+{{Endorsements box
+|title=Larry Rhoden
+|list=
+'''State legislators'''
+*[[Mike Derby]], [[South Dakota House of Representatives|state representative]] from the [[South Dakota's 34th legislative district|34th district]] (2021–present)<ref name=pac>{{cite news |access-date=October 20, 2025 |date=August 7, 2025 |work=[[KOTA-TV]] |url=https://www.kotatv.com/2025/08/07/pac-formed-backing-rhoden-upcoming-election/ |author=Troli, Blake |title=PAC formed backing Rhoden in upcoming election}}</ref>
+*[[Arch Beal]], [[South Dakota State Senate|state senator]] from the [[South Dakota's 12th legislative district|12th district]] (2023–present) and former [[South Dakota House of Representatives|state representative]] from the [[South Dakota's 12th legislative district|12th district]] (2015–2023)<ref>{{cite news |date=August 5, 2025 |work=Dakota War College |url=https://dakotawarcollege.com/release-strong-safe-free-pac-launches-to-support-gov-larry-rhoden/ |title=Release: Strong Safe & Free PAC Launches to Support Gov. Larry Rhoden}}</ref>
+*[[Amber Hulse]], [[South Dakota State Senate|state senator]] from the [[South Dakota's 30th legislative district|30th district]] (2025–present)<ref>{{cite news |date=May 27, 2026 |work=Dakota War College |url=https://dakotawarcollege.com/state-sen-amber-hulse-in-latest-rhoden-commercial/ |title=State Sen. Amber Hulse in latest Rhoden Commercial}}</ref>
+*[[Michael Rohl (politician)|Michael Rohl]], [[South Dakota State Senate|state senator]] from the [[South Dakota's 1st legislative district|1st district]] (2021 - present) 
+
+'''Organizations'''
+*[[NRA Political Victory Fund]]<ref>{{cite web |title=Endorsements by National Rifle Association |url=https://ballotpedia.org/Endorsements_by_National_Rifle_Association |website=Ballotpedia |access-date=4 June 2026 }}</ref><ref>{{cite web |title=NRA-PVF {{!}} Grades {{!}} South Dakota |url=https://www.nrapvf.org/grades/south-dakota |website=NRA-PVF |publisher=NRA-PVF |access-date=16 June 2026 |language=en-us}}</ref>
+*[[Veterans for America First]]<ref>{{cite web |title=Endorsements by Veterans for America First |url=https://ballotpedia.org/Endorsements_by_Veterans_for_America_First |website=Ballotpedia |access-date=4 June 2026 }}</ref>
+*[[Susan B. Anthony Pro-Life America]] Candidate Fund<ref>{{cite web |title=Release: Leading Nat’l Pro-Life Group Endorses Larry Rhoden for SD Governor |url=https://dakotawarcollege.com/release-leading-natl-pro-life-group-endorses-larry-rhoden-for-sd-governor/ |website=Dakota War College |access-date=22 July 2026 }}</ref>
+}}
+
+==== Debates ====
+<div class="overflowbugx" style="overflow:auto; width:auto">
+{| class="wikitable" style="text-align:center;"
+|+ 2026 South Dakota Republican gubernatorial primary debates
+|- style="font-size:small;"
+! scope="col" | {{abbr|No.|Number}}
+! scope="col" | Date
+! scope="col" | Host
+! scope="col" | Moderator
+! scope="col" | Link
+! scope="col"| <small>[[Republican Party (United States)|Republican]]</small>
+! scope="col"| <small>[[Republican Party (United States)|Republican]]</small>
+! scope="col"| <small>[[Republican Party (United States)|Republican]]</small>
+! scope="col"| <small>[[Republican Party (United States)|Republican]]</small>
+
+|-
+! colspan="5" rowspan="2" |Key: {{Colors|black|#90ff90|&nbsp;P&nbsp;}} <small>Participant&nbsp;</small> {{Colors|black|#CCFFCC|&nbsp;I&nbsp;}} <small>Invited {{color box|#f0e68c|W}} Withdrawn</small><br> {{Colors|black|#FFFFDD|&nbsp;A&nbsp;}} <small>Absent&nbsp;</small> {{Colors|black|#ff9090|&nbsp;N&nbsp;}} <small>Not invited&nbsp;</small>
+! scope="col" style="background:{{party color|Republican Party (US)}}"|
+! scope="col" style="background:{{party color|Republican Party (US)}}"|
+! scope="col" style="background:{{party color|Republican Party (US)}}" |
+! scope="col" style="background:{{party color|Republican Party (US)}}" |
+|-
+! scope="col" | Johnson
+! scope="col" | Doeden
+! scope="col" | Rhoden
+! scope="col" | Hansen
+
+|- style="background:#fff; font-size:small;"
+! 1
+| style="white-space:nowrap;" | Mar. 31,<br>2026
+| style="white-space:nowrap;" | [[Keloland]]<br>[[Nexstar Media]]
+| style="white-space:nowrap;" | Dan Santella<br />Lauren Soulek
+| style="white-space:nowrap;" | [https://www.keloland.com/video/keloland-news-republican-gubernatorial-debate/11658448/ KELOLAND]
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+
+|- style="background:#fff; font-size:small;"
+! 2
+| style="white-space:nowrap;" | Apr. 13,<br>2026
+| style="white-space:nowrap;" | [[South Dakota Public Broadcasting]]<br>South Dakota News Watch
+| style="white-space:nowrap;" | Jackie Hendry<br />Alexander Rifaat
+| style="white-space:nowrap;" | [https://www.youtube.com/watch?v=hVCnumpnfj8 Youtube]
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+
+|- style="background:#fff; font-size:small;"
+! 3
+| style="white-space:nowrap;" | Apr. 27,<br>2026
+| style="white-space:nowrap;" | Dakota Scout<br>[[Forum Communications]]
+| style="white-space:nowrap;" | Jonatahan Ellis<br />Patrick Lalley
+| style="white-space:nowrap;" | [https://www.youtube.com/watch?v=aH_Fuw9uzPk Youtube]
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+
+|}</div>
+
+==== Polling ====
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- style="vertical-align:bottom"
+! Poll source
+! Date(s)<br>administered
+! Sample<br />size{{efn|name=Key|Key:<br />A – all adults<br />RV – registered voters<br />LV – likely voters<br />V – unclear}}
+! Margin<br>of error
+! style="width:70px;"| Toby<br>Doeden
+! style="width:70px;"| Jon<br>Hansen
+! style="width:70px;"| Dusty<br>Johnson
+! style="width:70px;"| Larry<br>Rhoden
+! Undecided
+|-
+|style="text-align:left;" |The Public Sentiment Institute<ref>{{Cite web|url=https://tpsiofficial.substack.com/p/tpsi-south-dakota-republican-gubernatorial|title=TPSI - South Dakota Republican Gubernatorial Primary|first=Lester|last=Tellez|website=TPSI Substack|date=May 27, 2026|access-date=May 28, 2026}}</ref>
+|May 26–27 2026
+|400 (LV)
+|±&nbsp;4.9%
+|24%
+|13%
+|{{party shading/Republican}}|'''27%'''
+|{{party shading/Republican}}|'''32%'''
+|3%
+|-
+|style="text-align:left;" |Meeting Street Insights (R)<ref>{{Cite web|url=https://northernplainsnews.substack.com/p/virginia-nonprofits-poll-memo-casts|title=Virginia nonprofit’s poll memo casts Dusty Johnson as fading in South Dakota GOP governor race |first=Todd|last=Epp|website=Northern Plains News|date=May 23, 2026|access-date=May 23, 2026}}</ref>{{efn-ua|name=Conservative Agenda for America|Poll sponsored by Conservative Agenda for America}}
+|May 18–20, 2026
+|450 (LV)
+|±&nbsp;4.6%
+|{{party shading/Republican}}|'''22%'''
+|21%
+|19%
+|{{party shading/Republican}}|'''23%'''
+|15%
+|-
+|style="text-align:left;" |[[Emerson College]]<ref>{{Cite web|url=https://www.keloland.com/keloland-com-original/doeden-surpasses-johnson-in-latest-keloland-emerson-poll/|title=Doeden surpasses Johnson in latest KELOLAND/Emerson poll|first=Rae|last=Yost|website=Keloland|date=May 21, 2026|access-date=May 21, 2026}}</ref>{{efn-ua|name=KELONexstar}}
+|May 18–19, 2026
+|432 (LV)
+|±&nbsp;4.7%
+|{{party shading/Republican}}|'''26%'''
+|16%
+|{{party shading/Republican}}|'''23%'''
+|19%
+|16%
+|-
+|style="text-align:left;" |[[Mason-Dixon Polling & Strategy]]<ref>{{Cite web|url=https://www.sdnewswatch.org/south-dakota-republican-gop-primary-governor-gubernatorial/|title=Poll: Johnson widens lead in SD GOP governor race|first=Alexander|last=Rifaat|website=South Dakota News Watch|date=April 20, 2026|access-date=April 20, 2026}}</ref>{{efn-ua|name=SDNWUSD|Poll sponsored by ''South Dakota News Watch'' and the Chiesman Center for Democracy at the [[University of South Dakota]]}}
+|April 7–11, 2026
+|500 (RV)
+|±&nbsp;4.5%
+|17%
+|{{party shading/Republican}}|'''18%'''
+|{{party shading/Republican}}|'''34%'''
+|17%
+|14%
+|-
+|style="text-align:left;" |[[Emerson College]]<ref>{{Cite web|url=https://emersoncollegepolling.com/south-dakota-2026-poll-dusty-johnson-leads-incumbent-larry-rhoden-in-governor-election/|title=South Dakota 2026 Poll: Dusty Johnson Leads Incumbent Larry Rhoden in Governor Election|website=Emerson College Polling|date=March 11, 2026|access-date=March 11, 2026}}</ref>{{efn-ua|name=KELONexstar|Poll sponsored by [[KELO-TV]] and [[Nexstar Media]]}}
+|March 7–9, 2026
+|413 (LV)
+|±&nbsp;4.8%
+|{{party shading/Republican}}|'''18%'''
+|14%
+|{{party shading/Republican}}|'''28%'''
+|17%
+|23%
+|-
+|style="text-align:left;" |Public Opinion Strategies (R)<ref name="POSMarch2026"/>{{efn-ua|name=Rhoden|Poll sponsored by Rhoden's campaign}}
+|March 2–5, 2026
+|400 (LV)
+|±&nbsp;4.9%
+|16%
+|10%
+|{{party shading/Republican}}|'''33%'''
+|{{party shading/Republican}}|'''28%'''
+|12%
+|-
+|style="text-align:left;" |[[Mason-Dixon Polling & Strategy]]<ref>{{Cite web|url=https://www.sdnewswatch.org/sd-poll-gop-gubernatorial-governor-rhoden-johnson-doeden-hanson/|title=Governor poll: Rhoden, Johnson lead but Doeden, Hansen surge|first=Kevin|last=Killough|website=South Dakota News Watch|date=October 27, 2025|access-date=October 27, 2025}}</ref>{{efn-ua|name=SDNW}}
+|October 16–20, 2025
+|502 (RV)
+|±&nbsp;4.5%
+|15%
+|10%
+|{{party shading/Republican}}|'''28%'''
+|{{party shading/Republican}}|'''27%'''
+|21%
+|}
+
+{{hidden begin|titlestyle=background:#cff|title=Hypothetical polling|contentstyle=border:solid 1px silver; padding:8px; background:var(--background-color-base); color:var(--color-base);}}
+<!-- = = = don't edit the line above = = = -->
+;Larry Rhoden vs. Dusty Johnson
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- style="vertical-align:bottom"
+! Poll source
+! Date(s)<br>administered
+! Sample<br>size{{efn|name=Key}}
+! Margin<br>of error
+! style="width:75px;"| Larry<br/>Rhoden
+! style="width:75px;"| Dusty<br>Johnson
+! Undecided
+|-
+|style="text-align:left;" |Public Opinion Strategies (R)<ref name="POSMarch2026">{{Cite web|url=https://dakotawarcollege.com/rhoden-for-governor-campaign-polling-memo-released-read-it-here/|title=Rhoden for Governor campaign polling memo released. Read it here|website=Dakota War College|date=March 12, 2026|access-date=March 13, 2026}}</ref>{{efn-ua|name=Rhoden}}
+|March 2–5, 2026
+|400 (LV)
+|±&nbsp;4.9%
+|{{party shading/Republican}}|'''48%'''
+|39%
+|13%
+|}
+
+;Toby Doeden vs. Jon Hansen vs. Marty Jackley vs. Dusty Johnson vs. Larry Rhoden
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- style="vertical-align:bottom"
+! Poll source
+! Date(s)<br>administered
+! Sample<br />size{{efn|name=Key|Key:<br />A – all adults<br />RV – registered voters<br />LV – likely voters<br />V – unclear}}
+! Margin<br>of error
+! style="width:60px;"| Toby<br>Doeden
+! style="width:60px;"| Jon<br>Hansen
+! style="width:60px;"| Marty<br>Jackley
+! style="width:60px;"| Dusty<br>Johnson
+! style="width:60px;"| Larry<br>Rhoden
+! Undecided
+|-
+|style="text-align:left;" |[[Mason-Dixon Polling & Strategy]]<ref>{{Cite web|url=https://www.sdnewswatch.org/poll-dusty-johnson-larry-rhoden-south-dakota-john-thune-kristi-noem/|title=Poll: Johnson, Rhoden set pace in South Dakota governor's race|first=Stu|last=Whitney|website=South Dakota News Watch|date=April 28, 2025|access-date=May 1, 2025}}</ref>{{efn-ua|name=SDNW|Poll sponsored by ''South Dakota News Watch''}}
+|April 9–14, 2025
+|500 (RV)
+|±&nbsp;4.5%
+|4%
+|2%
+|18%
+|{{party shading/Republican}}|'''28%'''
+|{{party shading/Republican}}|'''27%'''
+|20%
+|}
+
+;Mike Rounds vs. Dusty Johnson
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- style="vertical-align:bottom"
+! Poll source
+! Date(s)<br>administered
+! Sample<br>size{{efn|name=Key}}
+! Margin<br>of error
+! style="width:75px;"| Mike<br/>Rounds
+! style="width:75px;"| Dusty<br>Johnson
+! Undecided
+|-
+|style="text-align:left;" |Kaplan Strategies<ref>{{Cite web|url=https://www.dakotanewsnow.com/2023/06/12/sd-republican-voters-share-preferences-potential-2026-primary-matchups/|title=SD Republican voters share preferences for potential 2026 primary matchups|first=Phelan M.|last=Ebenhack|website=Dakota News Now|date=June 12, 2023|access-date=May 1, 2023}}</ref>
+|June 12, 2023
+|500 (RV)
+|±&nbsp;4.7%
+|{{party shading/Republican}}|'''25%'''
+|{{party shading/Republican}}|'''25%'''
+|{{party shading/Undecided}}|'''50%'''
+|}
+{{hidden end}}
+
+==== Results ====
+[[File:2026 South Dakota Republican gubernatorial primary election results map by county.svg|thumb|250px|Primary results by county:
+{{collapsible list
+| title = {{legend|#FF9A50|Doeden}}
+|{{legend|#FFDAC1|20–30%}}
+|{{legend|#FFCCA9|30–40%}}
+|{{legend|#FFB580|40–50%}}
+}}
+{{collapsible list
+| title = {{legend|#E27F7F|Rhoden}}
+|{{legend|#FFE0EA|20–30%}}
+|{{legend|#FFC8CD|30–40%}}
+|{{legend|#FFB2B2|40–50%}}
+}}
+{{collapsible list
+| title = {{legend|#B380FF|Johnson}}
+|{{legend|#EEDCFF|20–30%}}
+|{{legend|#E6CDFF|30–40%}}
+}}
+{{collapsible list
+| title = {{legend|#5FD35F|Hansen}}
+|{{legend|#C0F0C0|20–30%}}
+|{{legend|#AAE5AA|30–40%}}
+|{{legend|#87DE87|40–50%}}
+}}
+]]
+As no candidate received 35% of the primary vote, a primary runoff was held between the top two candidates on July 28th, 2026. This was the first runoff ever held in the state since the adoption of a 1985 law that established runoffs for gubernatorial and Congressional primaries.<ref>{{cite news |last1=Dircks |first1=Jackson |title=High-turnout primary forces first-ever gubernatorial runoff between Doeden, Rhoden |url=https://www.sdpb.org/politics/2026-06-03/high-turnout-primary-forces-first-ever-gubernatorial-runoff-between-doeden-rhoden |access-date=4 June 2026 |work=SDPB |date=3 June 2026 |language=en}}</ref>
+{{Election box begin no change |title=Republican primary results}}
+{{Election box winning candidate with party link no change
+  |party      = South Dakota Republican Party
+  |candidate  = Toby Doeden
+  |votes      = 41,712
+  |percentage = 30.6
+}}{{Election box winning candidate with party link no change
+  |party      = South Dakota Republican Party
+  |candidate  = [[Larry Rhoden]] (incumbent)
+  |votes      = 34,321
+  |percentage = 25.2
+}}{{Election box candidate with party link no change
+  |party      = South Dakota Republican Party
+  |candidate  = [[Dusty Johnson]]
+  |votes      = 31,856
+  |percentage = 23.4
+}}{{Election box candidate with party link no change
+  |party      = South Dakota Republican Party
+  |candidate  = [[Jon Hansen]]
+  |votes      = 28,341
+  |percentage = 20.8
+}}{{Election box total no change
+  |votes      = 136,230
+  |percentage = 100.0
+}}{{Election box end}}
+
+=== Runoff ===
+==== Endorsements ====
+{{Endorsements box
+|title=Toby Doeden
+|list=
+'''Organizations'''
+*[[Turning Point Action]]<ref>{{cite web |title=Turning Point Action Endorsements |url=https://www.tpaction.com/bio/tobydoeden |website=Turning Point Action |access-date=3 June 2026 }}</ref>
+}}
+{{Endorsements box
+|title=Larry Rhoden
+|list=
+'''Executive branch officials'''
+*[[Kristi Noem]], [[United States Secretary of Homeland Security]] (2025–2026)<ref>{{cite news |date=July 22, 2026 |work=Dakota War College |url=https://dakotawarcollege.com/big-rhoden-announcement-tomorrow-is-an-endorsement-coming/ |title=Big Rhoden Announcement tomorrow; is an endorsement coming?}}</ref>
+
+'''State legislators'''
+*[[Scott Odenbach]], Majority Leader of the [[South Dakota House of Representatives]] (2025–present) from the [[South Dakota's 31st legislative district|31st district]] (2021–present) ''(previously endorsed Hansen)''<ref>{{cite news |access-date=June 6, 2026 |date=June 5, 2026 |work=South Dakota Searchlight |url=https://southdakotasearchlight.com/2026/06/05/where-backers-of-losing-campaigns-are-shifting-support-ahead-of-south-dakotas-governor-runoff/ |author=Haiar, Joshua and Huber, Makenzie |title=Where backers of losing campaigns are shifting support ahead of South Dakota’s governor runoff}}</ref>
+*[[Taylor Rehfeldt]], former Assistant Majority Leader of the [[South Dakota House of Representatives]] (2023–2025) from the [[South Dakota's 14th legislative district|14th district]] (2021–present) ''(previously endorsed Johnson)''<ref>{{cite news |access-date=June 6, 2026 |date=June 5, 2026 |work=South Dakota Searchlight |url=https://southdakotasearchlight.com/2026/06/05/where-backers-of-losing-campaigns-are-shifting-support-ahead-of-south-dakotas-governor-runoff/ |author=Haiar, Joshua and Huber, Makenzie |title=Where backers of losing campaigns are shifting support ahead of South Dakota’s governor runoff}}</ref>
+
+'''Local officials'''
+*[[Paul TenHaken]],  mayor of [[Sioux Falls]] (2018–2026)<ref>{{cite news |access-date=July 6, 2026 |date=July 6, 2026 |work=South Dakota Public Broadcasting |url=https://www.sdpb.org/politics/2026-07-06/sioux-falls-mayor-endorses-rhoden-in-runoff-citing-resume-and-character |author=Dircks, Jackson |title=Sioux Falls mayor endorses Rhoden in runoff, citing 'resume' and 'character'}}</ref>
+*[[Christine Erickson]], mayor of [[Sioux Falls]] (2026–present)<ref>{{cite news |access-date=July 23, 2026 |date=July 6, 2026 |work=Dakota War College |url=https://dakotawarcollege.com/mayor-christine-erickson-endorses-governor-larry-rhoden/ |author=Pat Powers |title=Mayor Christine Erickson Endorses Governor Larry Rhoden}}</ref>
+
+'''Organizations'''
+*South Dakota Fraternal Order of Police<ref>{{cite web |title=Release: Law Enforcement Voices Support for Gov. Larry Rhoden |url=https://dakotawarcollege.com/release-law-enforcement-voices-support-for-gov-larry-rhoden/ |website=Dakota War College |access-date=22 July 2026 }}</ref> ''(previously endorsed Johnson)''
+}}
+
+==== Polling ====
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- style="vertical-align:bottom"
+! Poll source
+! Date(s)<br>administered
+! Sample<br />size{{efn|name=Key|Key:<br />A – all adults<br />RV – registered voters<br />LV – likely voters<br />V – unclear}}
+! Margin<br>of error
+! style="width:70px;"| Toby<br>Doeden
+! style="width:70px;"| Larry<br>Rhoden
+! Undecided
+|-
+|style="text-align:left;" |[[Emerson College]]<ref>{{Cite web|url=https://www.keloland.com/keloland-com-original/republicans-picking-rhoden-by-wide-margin-in-new-poll/|title=Republicans picking Rhoden by wide margin in new poll|first=Rae|last=Yost|website=[[KELO-TV]]|date=July 15, 2026|access-date=July 15, 2026}}</ref>
+|July 12–13 2026
+|500 (LV)
+|±&nbsp;4.3%
+|32%
+|{{party shading/Republican}}|'''62%'''
+|7%
+|-
+|}
+
+==== Results ====
+[[File:2026 South Dakota Republican gubernatorial primary runoff election results map by county.svg|thumb|250px|Runoff results by county:
+{{collapsible list
+| title = {{legend|#E27F7F|Rhoden}}
+|{{legend|#E27F7F|50–60%}}
+|{{legend|#D75D5D|60–70%}}
+|{{legend|#D72F30|70–80%}}
+|{{legend|#C21B18|80–90%}}
+}}
+{{collapsible list
+| title = {{legend|#FF9A50|Doeden}}
+|{{legend|#FF9A50|50–60%}}
+}}
+]]
+{{Election box begin no change |title=Republican primary runoff results}}
+{{Election box winning candidate with party link no change
+  |party      = South Dakota Republican Party
+  |candidate  = [[Larry Rhoden]] (incumbent)
+  |votes      = 83,582
+  |percentage = 70.8
+}}{{Election box candidate with party link no change
+  |party      = South Dakota Republican Party
+  |candidate  = Toby Doeden
+  |votes      = 34,430
+  |percentage = 29.2
+}}{{Election box total no change
+  |votes      = 118,012
+  |percentage = 100.0
+}}{{Election box end}}
+
+== Democratic primary ==
+=== Candidates ===
+==== Nominee ====
+*[[Dan Ahlers]], executive director of the [[South Dakota Democratic Party]], former [[South Dakota Senate|state senator]] (2008–2010), and nominee for [[United States Senate|U.S. Senate]] in [[2020 United States Senate election in South Dakota|2020]]<ref>{{cite news |title=Leader of South Dakota Democratic Party announces his campaign for governor |url=https://southdakotasearchlight.com/briefs/leader-of-south-dakota-democratic-party-announces-his-campaign-for-governor/ |access-date=February 9, 2026 |work=South Dakota Searchlight |date=February 9, 2026}}</ref>
+**Running mate: [[Steven McCleerey]], former [[South Dakota House of Representatives|state representative]] from the 1st district (2015–2021)<ref>{{Cite web |last=Yost |first=Rae |date=11 August 2026 |title=SOS: Ahlers selects McCleerey as running mate |url=https://www.keloland.com/news/local-news/sos-ahlers-selects-mccleerey-as-running-mate/ |url-status=live |access-date=11 August 2026 |website=KELOLAND News}}</ref>
+
+==== Failed to qualify ====
+*Robert Arnold, college student<ref>{{Cite web |title=Democratic gubernatorial candidate failed to reach accepted number of valid signatures, will not appear on ballot |url=https://www.dakotanewsnow.com/2026/04/08/democratic-gubernatorial-candidate-failed-reach-accepted-number-valid-signatures-will-not-appear-ballot/ |access-date=April 9, 2026 |date=April 8, 2026 |website=[[Dakota News Now]] |language=en}}</ref>
+
+=== Endorsements ===
+{{Endorsements box|title=Dan Ahlers|list=
+;Executive branch officials
+*[[Joe Biden]], 46th [[president of the United States]] (2021-2025)<ref>{{Cite web |last1=Burns |first1=Krista |date=June 5, 2026 |title=President Biden Endorses Dan Ahlers, Julian Beaudion, and Nikki Gronli for Governor, U.S. Senate, & U.S. House |url=https://www.sddp.org/post/president-biden-endorses-dan-ahlers-julian-beaudion-and-nikki-gronli-for-governor-u-s-senate |access-date=June 5, 2026 |website=South Dakota Democratic Party}}</ref>{{#tag:ref|Endorsement received after the first round of primary voting took place.|group=n|name=First}}
+}}
+
+== Independents ==
+=== Candidates ===
+==== Withdrawn ====
+*Allison Renville, political organizer and Democratic candidate for [[South Dakota's 1st legislative district]] in 2018<ref>{{Cite web |date=February 27, 2026 |title=Allison Renville steps down from 2026 gubernatorial race |url=https://www.keloland.com/news/local-news/allison-renville-steps-down-from-2026-gubernatorial-race/ |access-date=March 25, 2026 |website=KELO-TV}}</ref>
+*Terry Gleason, web developer and convicted sex offender<ref>{{Cite news |date=2026-04-09 |title=After raising $0, Chamberlain man drops governor bid but wants to be presidential candidate in 2028 |url=https://www.mitchellrepublic.com/news/local/after-raising-0-chamberlain-man-drops-governor-bid-but-wants-to-be-presidential-candidate-in-2028 |access-date=2026-04-13 |work=[[Mitchell Republic]] |author=Leither, Jennifer |language=en-US}}</ref>
+*Scott Morris, retired Air Force veteran<ref>{{Cite web |author-link=2026 South Dakota gubernatorial election |date=April 17, 2026 |title=Secretary of State Campaign Committee termination |url=https://sdcfr.sdsos.gov/Search/SearchResults.aspx?cid=1692&rid=3660 |access-date=June 5, 2026 |website=South Dakota Secretary of State}}</ref>
+*Anthony Sitter, HVAC installer<ref>{{Cite web |date=February 12, 2026 |title=Sitter seeking signatures for SD gubernatorial candidacy |url=https://www.keloland.com/news/local-news/sitter-seeking-signatures-for-sd-gubernatorial-candidacy/ |access-date=March 25, 2026 |website=KELO-TV.}}</ref>
+
+==== Declined ====
+*Rick Knobe, former [[List of mayors of Sioux Falls, South Dakota|mayor of Sioux Falls]] (1974–1984) and candidate for [[South Dakota Senate|state senate]] in [[2020 South Dakota Senate election#District 25|2020]]<ref>{{Cite web |date=December 24, 2025 |title=No Knobe—Healthy and Viable Contender Chooses Writing and Activism over Run for Governor |url=https://dakotafreepress.com/2025/12/24/no-knobe-healthy-and-viable-contender-chooses-writing-and-activism-over-run-for-governor/ |access-date=March 25, 2026 |website=Dakota Free Press}}</ref>
+
+== General election ==
+===Predictions===
+{| class="wikitable" style=text-align:center
+!Source
+!Ranking
+!As of
+|-
+|align=left|''[[The Cook Political Report]]''<ref>{{cite web|title=2026 CPR Governor Race ratings|url=https://www.cookpolitical.com/ratings/governor-race-ratings|website=[[The Cook Political Report]]|access-date=January 23, 2025}}</ref>
+|{{USRaceRating|Solid|R}}
+|September 11, 2025
+|-
+|align=left|[[Decision Desk HQ]]<ref name="DDHQ">{{cite web |title=2026 Governor Forecast |url=https://votes.decisiondeskhq.com/forecast/2026/governor |website=Decision Desk HQ |access-date=22 September 2026}}</ref>
+|{{USRaceRating|Safe|R}}
+|September 23, 2026
+|-
+|align=left|[[Fox News]]<ref>{{cite web |title=Fox News Power Rankings: The top races to watch as 36 states choose their next governor |url=https://www.foxnews.com/politics/fox-news-power-rankings-top-races-watch-36-states-choose-next-governor |website=[[Fox News]] |publisher=Rémy Numa |access-date=24 July 2026}}</ref>
+|{{USRaceRating|Solid|R}}
+|July 23, 2026
+|-
+|align=left|''[[Inside Elections]]''<ref>{{Cite web|title=Gubernatorial Ratings|url=https://insideelections.com/ratings/governor|access-date=February 7, 2025|website=[[Inside Elections]]}}</ref>
+|{{USRaceRating|Solid|R}}
+|August 28, 2025
+|-
+|align="left"|[[RealClearPolitics]]<ref>{{Cite web|title=2026 Governor Races {{!}} RealClearPolitics|url=https://www.realclearpolling.com/maps/governor/2026/toss-up|access-date=June 5, 2026|website=[[RealClearPolitics]]|archive-url=https://web.archive.org/web/20260601183127/https://www.realclearpolling.com/maps/governor/2026/toss-up|archive-date=June 1, 2026|url-status=dead}}</ref>
+|{{USRaceRating|Solid|R}}
+|June 5, 2026
+|-
+|align=left|''[[Sabato's Crystal Ball]]''<ref>{{cite web|title=2026 Governor|url=https://centerforpolitics.org/crystalball/2026-governor/|website=[[Sabato's Crystal Ball]]|access-date=May 1, 2025}}</ref>
+|{{USRaceRating|Safe|R}}
+|September 4, 2025
+|-
+| style="text-align: left;" |[[Silver Bulletin]]<ref name=":Silver">{{Cite web |last=Silver |first=Nate |date=2026-08-20 |title=FLIPR 2026 midterm election forecast |url=https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model |url-access=subscription |access-date=2026-08-20 |website=www.natesilver.net |language=en}}</ref>
+| {{US political race rating|Solid|R}}
+|August 25, 2026
+|}
+
+== Notes ==
+{{reflist|group=n}}
+{{notelist}}
+;Partisan clients
+{{notelist-ua}}
+
+== See also ==
+* [[2026 United States gubernatorial elections]]
+
+== References ==
+{{reflist}}
+
+== External links ==
+'''Official campaign websites'''
+* [https://www.danahlers.com/ Dan Ahlers (D)]
+* [https://governorlarryrhoden.com/ Larry Rhoden (R)]
+
+{{2026 United States elections}}
+
+{{DEFAULTSORT:2026 South Dakota gubernatorial election}}
+[[Category:South Dakota gubernatorial elections]]
+[[Category:2026 South Dakota elections|Gubernatorial]]
+[[Category:2026 United States gubernatorial elections|South Dakota]]

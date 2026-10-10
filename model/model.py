@@ -165,6 +165,39 @@ def house_estimates(cfg) -> pd.DataFrame:
     return df
 
 
+# --------------------------------------------------------------------------- Governors
+def governor_estimates(cfg) -> pd.DataFrame:
+    """Governor races: ratings-consensus prior blended with polling averages (see config `governor`)."""
+    g = cfg.get("governor") or {}
+    s = cfg["senate"]
+    demo = load_demographics()
+    df = pd.read_csv(os.path.join(HERE, "data", "governor_races.csv"))
+    df["poll_sources"] = df["poll_sources"].fillna(0).astype(int)
+    df["census_region"] = df["state"].map(demo["census_region"])
+    df["hispanic_share"] = df["state"].map(demo["hispanic_share_2020"])
+    df["prior_margin"] = _interp_margin(df["rating_score"].astype(float), g["rating_score_to_margin"])
+    has_poll = df["poll_margin_d"].notna()
+    base_w = np.array([(_lookup(s["poll_weight_by_sources"], n) if hp else 0.0) for n, hp in zip(df["poll_sources"], has_poll)])
+    sd = np.array([_lookup(s["race_sd_by_sources"], n if hp else 0) for n, hp in zip(df["poll_sources"], has_poll)])
+    poll = df["poll_margin_d"].copy()
+    mult = np.ones(len(df))
+    if factor_on(cfg, "poll_cleanup"):
+        pc = s["poll_cleanup"]
+        spons = df["poll_sponsor_partisan"].fillna("")
+        poll = poll + np.select([spons == "D", spons == "R"], [-pc["partisan_poll_shift"], pc["partisan_poll_shift"]], 0.0)
+        mult = np.where(spons.isin(["D", "R"]), pc["partisan_poll_weight_mult"], 1.0)
+        asof = pd.Timestamp(cfg.get("as_of", "2026-10-10"))
+        days = (asof - pd.to_datetime(df["poll_end_date"])).dt.days.fillna(0).clip(lower=0)
+        df["poll_age_days"] = days
+        mult = mult * 0.5 ** (np.clip(days - pc["stale_grace_days"], 0, None) / pc["stale_half_life_days"])
+    df["poll_margin_adj"] = poll
+    df["poll_weight"] = base_w * mult
+    rcv = df["state"].map(lambda x: float((g.get("rcv") or {}).get(x, 0.0))) if factor_on(cfg, "election_mechanics") else 0.0
+    df["race_sd"] = np.sqrt(sd ** 2 + float(g.get("extra_race_sd", 0.0)) ** 2 + np.asarray(rcv) ** 2)
+    df["est_margin"] = df["poll_weight"] * poll.fillna(0.0) + (1 - df["poll_weight"]) * df["prior_margin"]
+    return df
+
+
 # --------------------------------------------------------------------------- Seat distributions
 def seat_histogram(seats, max_seats: int, majority: int):
     """Full simulated distribution of a seat count: one integer count per seat value 0..max_seats.
@@ -286,7 +319,27 @@ def simulate(cfg, bias_mean: float, bias_sd: float, n: int | None = None, seed: 
     hou_out["sim_mean_margin"] = msum / n
     hou_out["tipping_freq"] = tip_counts / n
 
+    # ---------------- Governors (drawn last so Senate/House draws are unchanged)
+    gov_out, gov_d = None, None
+    gcfg = cfg.get("governor") or {}
+    if gcfg.get("enabled", False):
+        gov = governor_estimates(cfg)
+        g_st = np.array([sidx[x] for x in gov["state"]])
+        g_rg = np.array([ridx[x] for x in gov["census_region"]])
+        g_h = gov["hispanic_share"].to_numpy(np.float32)
+        g_m = gov["est_margin"].to_numpy(np.float32)[None, :] - float(gcfg.get("national_error_scale", 1.0)) * national[:, None] \
+            + state_err[:, g_st] + reg_err[:, g_rg] + hisp_shock[:, None] * g_h[None, :] \
+            + draw((n, len(gov)), race_df) * gov["race_sd"].to_numpy(np.float32)
+        gw = g_m > 0
+        gov_out = gov.copy()
+        gov_out["p_dem"] = gw.mean(0)
+        gov_out["sim_mean_margin"] = g_m.mean(0)
+        gov_out["sim_p10"] = np.percentile(g_m, 10, axis=0)
+        gov_out["sim_p90"] = np.percentile(g_m, 90, axis=0)
+        gov_d = gw.sum(1)
+
     return dict(
+        governor=gov_out, governor_d=gov_d,
         n=n, bias_mean=bias_mean, bias_sd=bias_sd,
         senate=sen_out, house=hou_out,
         senate_d_eff=d_eff, senate_r_eff=r_eff, senate_d=d_seats, senate_r=r_seats, senate_i=i_seats,

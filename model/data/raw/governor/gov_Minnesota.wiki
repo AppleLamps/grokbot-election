@@ -1,0 +1,1384 @@
+{{pp|small=yes}}<!-- "none" is preferred when the title is already sufficiently detailed; see [[WP:SDNONE]] -->
+{{short description|none}}
+{{for|related races|2026 United States gubernatorial elections}}
+{{Use American English|date=January 2025}}
+{{Use mdy dates|date=January 2026}}
+
+{{Infobox election
+| election_name = 2026 Minnesota gubernatorial election
+| country = Minnesota
+| type = presidential
+| ongoing = yes
+| previous_election = 2022 Minnesota gubernatorial election
+| previous_year = 2022
+| next_election = 2030 Minnesota gubernatorial election
+| next_year = 2030
+| election_date = November 3, 2026
+| image1 = Artemis II Klobuchar (3x4 cropped).jpg
+| nominee1 = [[Amy Klobuchar]]
+| party1 = Minnesota Democratic–Farmer–Labor Party
+| running_mate1 = Ben Schierer
+| popular_vote1 = 
+| percentage1 = 
+| image2 = Lisa Demuth, 2026 (3x4).jpg
+| nominee2 = [[Lisa Demuth]]
+| party2 = Republican Party of Minnesota
+| running_mate2 = Ryan Wilson
+| popular_vote2 = 
+| percentage2 = 
+| map_image = 
+| map_size = 
+| map_caption = 
+| title = [[Governor of Minnesota|Governor]]
+| before_election = [[Tim Walz]]
+| before_party = Minnesota Democratic–Farmer–Labor Party
+| after_election = 
+| after_party = 
+}}
+{{ElectionsMN}}
+The '''2026 Minnesota gubernatorial election''' will be held on November 3, 2026, to elect the [[governor of Minnesota|governor]] and [[Lieutenant Governor of Minnesota|lieutenant governor]] of [[Minnesota]]. [[Minnesota Democratic–Farmer–Labor Party|Democratic]] senator [[Amy Klobuchar]] and [[Republican Party of Minnesota|Republican]] state House speaker [[Lisa Demuth]] are the nominees for their respective parties.
+
+Democratic incumbent [[Tim Walz]] ran for a third term, but withdrew in January following a [[2020s Minnesota fraud scandals|scandal over fraud in state funded-social services]]. Following Walz's withdrawal, Klobuchar entered the Democratic primary and won the nomination with 89.7% of the vote against minimal opposition. In the Republican primary, Demuth defeated businessman [[Mike Lindell]], who was endorsed by President [[Donald Trump]], and healthcare technology executive Kendall Qualls, who was endorsed by the state party, with 43.4% of the vote.
+
+The winner of this election will be the first female governor of Minnesota.<ref>{{Cite web |last=Akaolisa |first=Tom |date=2026-08-17 |title=MINNEAPOLIMEDIA EDITORIAL {{!}} Minnesota Will Elect Its First Woman Governor. The Harder Task Is Governing a Fractured State {{!}} MinneapoliMedia |url=https://minneapolimedia.town.news/g/coon-rapids-mn/n/384781/minneapolimedia-editorial-minnesota-will-elect-its-first-woman-governor |access-date=2026-08-28 |website=minneapolimedia.town.news |language=en}}</ref> Republicans have not won a gubernatorial election in Minnesota since [[2006 Minnesota gubernatorial election|2006]].
+
+== Democratic–Farmer–Labor primary ==
+After Walz announced his withdrawal from the race, [[United States Senate|U.S. Senator]] [[Amy Klobuchar]] launched a campaign for the governor's office on January 29, 2026.<ref>{{cite news| last1=Griffith| first1= Michelle| title= Sen. Klobuchar launches campaign for Minnesota governor| url= https://minnesotareformer.com/2026/01/29/sen-klobuchar-launches-campaign-for-minnesota-governor/| access-date= June 4, 2026| work= [[Minnesota Reformer]]| date= January 29, 2026}}</ref> Six other [[Minnesota Democratic–Farmer–Labor Party|Democratic-Farmer-Labor]] (DFL) candidates filed, none of whom have previously held elected office. Community organizer Kobey Layne challenged Klobuchar for the DFL's endorsement on May 30, 2026, but Klobuchar was endorsed on the first ballot alongside her running mate, [[Ben Schierer]].<ref name= "LayneMN">{{cite news| last1=Griffith| first1=Michelle| title=Klobuchar fights off challenge from left, wins DFL convention nod in bid for governor| url= https://minnesotareformer.com/2026/05/30/klobuchar-fights-off-challenge-from-left-wins-dfl-convention-nod-in-bid-for-governor/ |access-date= June 3, 2026| work= Minnesota Reformer| date= May 30, 2026}}</ref>
+
+=== Candidates ===
+==== Nominee ====
+*[[Amy Klobuchar]], U.S. senator (2007–present)<ref>{{Cite web| last1=Siegel| first1= Benjamin| last2= Oppenheim| first2= Oren| date= January 29, 2026| title= Sen. Amy Klobuchar announces run for Minnesota governor amid immigration turmoil| url= https://abcnews.go.com/Politics/sen-amy-klobuchar-announces-run-minnesota-governor-amid/story?id=129660166| access-date= January 29, 2026| website= [[ABC News (United States)|ABC News]]| language= en}}</ref>
+**Running mate: Ben Schierer, former mayor of [[Fergus Falls, Minnesota|Fergus Falls]] (2017–2025)<ref>{{Cite web |date= May 29, 2026| title= Klobuchar names Ben Schierer as running mate for Lt. Gov. |url= https://www.kare11.com/article/news/politics/klobuchar-names-ben-schierer-as-running-mate-for-lt-gov/89-21c06800-60d8-41f0-ac0a-9d8b14d6e0b3| access-date= May 29, 2026| website= kare11.com| language=en-US}}</ref>
+
+==== Eliminated in primary ====
+*Tom Evenstad, public safety specialist<ref>{{cite web|title=Evenstad, Thomas Gov Committee - 19243|url=https://cfb.mn.gov/reports-and-data/viewers/campaign-finance/candidates/19243/2026/|website=Minnesota Campaign Finance Board|publisher=State of Minnesota|access-date=May 28, 2026}}</ref><ref name="ku">{{Cite web|last=Apel|first=Elyse|date=May 4, 2026|title=Klobuchar unveils plan to tackle fraud if elected governor|url=https://www.thecentersquare.com/minnesota/article_23bfe749-2374-48b1-beff-a9f83bf3e78f.html|access-date=June 1, 2026|website=The Center Square|language=en|quote=Klobuchar is one of several Democrats in the race, alongside candidates including Rick DeVoe, Thomas Evenstad, Paul Ference, Kobey Layne, Christopher Seymore and Po Vang.}}</ref>
+**Running mate: Jason Haarsager<ref name="cf"/>
+*Bill Gates Jr., former pastor<ref>{{cite web|title=Candidates|url=https://cfb.mn.gov/reports-and-data/viewers/campaign-finance/candidates/19283/2026/|website=cfb.mn.gov|access-date=November 7, 2025|date=November 5, 2025}}</ref><ref>{{Cite web|last=Min|first=Eric|date=May 27, 2026|title=ONE-ON-ONE with Minnesota gubernatorial candidate Bill Gates Jr.|url=https://www.kttc.com/2026/05/27/one-on-one-with-minnesota-gubernatorial-candidate-bill-gates-jr/|access-date=June 1, 2026|website=kttc.com|language=en}}</ref> (no relation to [[Microsoft]] co-founder [[Bill Gates]])
+**Running mate: Leah Harris<ref name="cf">{{Cite web|date=May 19, 2026|title=Candidate Filings|url=https://candidates.sos.mn.gov/CandidateFilingResults.aspx?county=&municipality=&schooldistrict=&hospitaldistrict=&level=1&party=0&federal=False&judicial=False&executive=True&senate=False&representative=False&title=&office=0&candidateid=0|archive-url=|archive-date=|access-date=|website=candidates.sos.mn.gov}}</ref>
+*Kobey Layne, community organizer<ref>{{cite web|title=Candidates|url=https://cfb.mn.gov/reports-and-data/viewers/campaign-finance/candidates/19373/2026|website=cfb.mn.gov|access-date=January 31, 2026|date=January 28, 2026}}</ref><ref>{{Cite web|last=Faircloth|first=Ryan|date=May 30, 2026|title=Klobuchar wins DFL endorsement for governor after challenge from the left|url=https://www.startribune.com/amy-klobuchar-wins-dfl-democrat-endorsement-minnesota-governor-kobey-layne-primary/601783152|website=Star Tribune|access-date=June 1, 2026|archive-url=https://web.archive.org/web/20260812051215/https://www.startribune.com/amy-klobuchar-wins-dfl-democrat-endorsement-minnesota-governor-kobey-layne-primary/601783152|archive-date=August 12, 2026|url-status=dead}}</ref><ref name="cf"/>
+**Running mate: Paul Ference<ref name="ca">{{Cite web|date=February 26, 2026|title=Candidates|url=https://cfb.mn.gov/reports-and-data/viewers/campaign-finance/candidates/19414/2026/|access-date=March 7, 2026|website=cfb.mn.gov}}</ref><ref name="ku"/><ref name="cf"/>
+*Po Vang<ref>{{Cite web|title=Candidates|url=https://cfb.mn.gov/reports-and-data/viewers/campaign-finance/candidates/19490/2026/|access-date=April 28, 2026|website=cfb.mn.gov}}</ref><ref name="ku"/>
+**Running mate: Mark Frascone<ref name="cf"/>
+*Ole "Viking" Savior, [[perennial candidate]]<ref name="cf"/>
+**Running mate: Ashley "Skol" Johnson<ref name="cf"/>
+*Mohammad Wazwaz<ref name="cf"/><ref name="cd">{{Cite web|title=Candidates|url=https://cfb.mn.gov/reports-and-data/viewers/campaign-finance/candidates/2878/2026/|access-date=June 2, 2026|website=cfb.mn.gov}}</ref>
+**Running mate: Murad Alshool<ref name="cf"/><ref name="cd"/>
+
+====Not on ballot====
+*Sam Opal Boman<ref>{{Cite web|title=Candidates|url=https://cfb.mn.gov/reports-and-data/viewers/campaign-finance/candidates/19498/2026/|access-date=May 7, 2026|website=cfb.mn.gov}}</ref><ref name="cf"/>
+*Christopher Seymore<ref>{{Cite web|title=Candidates|url=https://cfb.mn.gov/reports-and-data/viewers/campaign-finance/candidates/19338/2026/|access-date=February 15, 2026|website=cfb.mn.gov}}</ref><ref name="ku"/><ref name="cf"/>
+
+==== Withdrawn ====
+* Rick DeVoe, bookstore owner and candidate for [[Minnesota's 1st congressional district|MN-01]] in [[2022 Minnesota's 1st congressional district special election|2022]]<ref>{{Cite web| title=Candidates| url= https://cfb.mn.gov/reports-and-data/viewers/campaign-finance/candidates/19384/2026/| access-date= February 5, 2026 |website= cfb.mn.gov}}</ref><ref>{{Cite web| last= Molseed |first= John |date= May 2, 2022| title= 1st Congressional District race gets less crowded on DFL side| url= https://www.postbulletin.com/news/local/1st-congressional-district-race-gets-less-crowded-on-dfl-side| access-date= February 5, 2026| website= Rochester Post Bulletin| language=en}}</ref>
+* Paul Ference ''(ran for lieutenant governor with Kobey Layne)''<ref name="ca"/><ref name="ku"/><ref name="cf"/>
+* [[Tim Walz]], incumbent governor (2019–present)<ref>{{Cite web|last=Turtinen|first=Melissa|date=January 5, 2026|title=Gov. Tim Walz will not seek reelection in Minnesota|url=https://www.fox9.com/news/gov-tim-walz-reelection-2026|access-date=January 5, 2026|website=FOX 9|language=en-US}}</ref><ref name="Drop"/>
+
+==== Declined ====
+*[[Angie Craig]], [[United States House of Representatives|U.S. representative]] from {{ushr|MN|2|MN-02}} (2019–present) ''([[2026 United States Senate election in Minnesota|ran for U.S. Senate]], endorsed Klobuchar)''<ref>{{cite news|work=[[WCCO-TV]]|title=Who won't be in the mix if Gov. Tim Walz doesn't run for re-election? Rep. Angie Craig says she's staying in Senate race|url=https://www.audacy.com/wccoradio/news/local/rep-angie-craig-not-in-governor-race-walz-doesnt-run|author1=Schoch, Al|author2=Peterson, Lindsey|date=August 22, 2025}}</ref>
+*[[Keith Ellison]], [[Minnesota Attorney General|attorney general of Minnesota]] (2019–present) ''([[2026 Minnesota Attorney General election|running for reelection]])''<ref>{{cite news|title=Ellison gives statement on re-election run|url=https://www.kaaltv.com/news/ellison-gives-statement-on-re-election-run/|access-date=January 20, 2026|work=[[KAAL]]|date=January 20, 2026}}</ref>
+*[[Peggy Flanagan]], [[lieutenant governor of Minnesota]] (2019–present) ''([[2026 United States Senate election in Minnesota|running for U.S. Senate]], endorsed Klobuchar)''<ref>{{cite web| last1=Wernus| first1=Katie| title= Minnesota governor's race: Potential Democratic contenders after Walz's exit| url= https://www.fox9.com/news/minnesota-governors-race-potential-democratic-contenders-after-walz-exit| website= Fox 9 |date= January 5, 2026| access-date= January 5, 2026}}</ref>
+*[[Dean Phillips]], former [[United States House of Representatives|U.S. representative]] from {{ushr|MN|3|MN-03}} (2019–2025) and [[Dean Phillips 2024 presidential campaign|candidate]] for president in [[2024 United States presidential election|2024]]<ref>{{Cite web|last=Cummings|first=Caroline|date=November 29, 2024|title=Rep. Dean Phillips: Dem primary would've 'elevated a candidate better positioned to win' presidency|work=[[CBS News]]| url= https://www.cbsnews.com/minnesota/news/rep-dean-phillips-competitive-democratic-primary-wouldve-elevated-a-candidate-better-positioned-to-win-presidency/|access-date=December 10, 2024|quote=He ruled out a bid for the U.S. Senate or for the governor's office in 2026|language=en-US}}</ref>
+*[[Steve Simon]], [[Minnesota Secretary of State|secretary of state of Minnesota]] (2015–present) ''([[2026 Minnesota Secretary of State election|running for reelection]])''<ref name=Drop>{{Cite web|last=Van Oot| first= Torey |date= January 5, 2026| title= Minnesota Gov. Tim Walz drops reelection bid| url= https://www.axios.com/local/twin-cities/2026/01/05/tim-walz-drop-out-minnesota-governor-race| access-date= January 5, 2026| website=[[Axios (website)|Axios]]| language=en}}</ref><ref>{{Cite news| last1=Kite| first1=Allison| last2=Faircloth| first2=Ryan| last3=Minor| first3=Nathaniel| date=January 5, 2026| title=Sen. Amy Klobuchar may run for governor| url=https://www.startribune.com/us-sen-amy-klobuchar-seriously-considering-run-for-minnesota-governor/601557992| access-date=January 20, 2026| work=[[Minnesota Star Tribune]]| archive-url=https://web.archive.org/web/20260112202110/https://www.startribune.com/us-sen-amy-klobuchar-seriously-considering-run-for-minnesota-governor/601557992| archive-date=January 12, 2026| url-status=dead}}</ref>
+*[[Tina Smith]], U.S. senator (2018–present)<ref>{{Cite web|last=Nir|first=David|date=January 6, 2026|title=Morning Digest: After Walz calls it quits, a heavyweight replacement looms|url=https://www.the-downballot.com/p/morning-digest-after-walz-calls-it|access-date=January 6, 2026|website=The Downballot| language=en}}</ref>
+
+=== Endorsements ===
+{{Endorsements box
+|title=Kobey Layne
+|list=
+;Organizations
+*[[Stonewall Democrats#Minnesota|Stonewall DFL]]<ref>{{cite web|title=Klobuchar faces transgender primary challenger endorsed by major LGBT group|url=https://alphanews.org/klobuchar-faces-transgender-primary-challenger-endorsed-by-major-lgbt-group/|website=Alpha News|access-date=June 18, 2026|date=June 8, 2026|last=Sprinkel|first=Luke}}</ref>
+}}
+
+{{Endorsements box
+|title=Amy Klobuchar
+|list=
+;Executive branch officials
+*[[Pete Buttigieg]], former [[United States Secretary of Transportation|secretary of transportation]] (2021–2025)<ref name="MayorPete">{{cite web|title=Buttigieg endorses Klobuchar's Minnesota governor bid after they clashed in 2020 Dem primary|url=https://thehill.com/homenews/state-watch/5713834-buttigieg-backs-klobuchar-governor/|website=The Hill|date=January 29, 2026 |access-date=January 29, 2026}}</ref>
+
+;Labor unions
+*[[AFL-CIO]]<ref>{{cite web|title=AFL-CIO 2026 Endorsements|url=https://mnaflcio.org/stpaulunions/news/2026-minnesota-afl-cio-endorsed-candidates|website=AFL-CIO|date=July 14, 2026 |access-date=July 20, 2026}}</ref>
+*[[Education Minnesota]]<ref name="EduMinn">{{cite web |title=Education Minnesota endorses Klobuchar for governor |url=https://educationminnesota.org/news/press-release/education-minnesota-endorses-klobuchar-for-governor/ |website=Education Minnesota |access-date=10 August 2026 |date=May 20, 2026}}</ref>
+*[[SEIU|SEIU Minnesota State Council]]<ref>{{cite web|title=SEIU 2026 Endorsements|url=https://www.seiumn.org/endorsements/seiu-2026-endorsements|website=SEIU MN|publisher=SEIU MN State Council|access-date=June 21, 2026}}</ref>
+*[[Teamsters]] Joint Council 32<ref>{{cite web|title=MINNESOTA TEAMSTERS ENDORSE AMY KLOBUCHAR FOR GOVERNOR|url=https://finance.yahoo.com/news/minnesota-teamsters-endorse-amy-klobuchar-193000137.html|website=Cision via Yahoo Finance|access-date=May 14, 2026}}</ref>
+*[[United Steelworkers]] District 11<ref name="Steelworkers">{{cite web |title=Minnesota Steelworkers endorse Klobuchar for governor |url=https://www.mesabitribune.com/news/local/minnesota-steelworkers-endorse-klobuchar-for-governor/article_c2d5ee1f-cf3a-42c4-9415-cfe9a4ac8185.html |website=Mesabi Tribune |access-date=10 August 2026 |date=July 2, 2026}}</ref>
+
+;Organizations
+*[[Elect Democratic Women]]<ref>{{cite web|title=Candidates|url=https://electdemocraticwomen.org/candidates/|website=Elect Democratic Women|access-date=April 26, 2026}}</ref>
+*[[EMILY's List]]<ref>{{cite web|title=EMILYs List Endorses Amy Klobuchar in Minnesota Governor's Race|url=https://emilyslist.org/news/emilys-list-endorses-amy-klobuchar-in-minnesota-governors-race/|website=EMILYs List|access-date=January 29, 2026}}</ref>
+*[[End Citizens United]]<ref>{{cite web|title=End Citizens United Endorses Senator Amy Klobuchar for Minnesota Governor|url=https://www.endcitizensunited.org/end-citizens-united-endorses-senator-amy-klobuchar-for-minnesota-governor|website=endcitizensunited.org|date=March 17, 2026|access-date=March 17, 2026}}</ref>
+*[[Giffords]] ''(previously endorsed Walz)''<ref name="ken">{{cite web|title=Endorsements|url=https://giffords.org/elections/endorsements/?filter0=,169|website=GIFFORDS|access-date=January 2, 2026}}</ref>
+*[[Natural Resources Defense Council|Natural Resources Defense Council Action Fund]]<ref name="NRDC">{{cite web |title=NRDC Action Fund Endorsements |url=https://www.nrdcactionfund.org/nrdc-action-fund-endorsements/ |website=NRDC Action Fund |access-date=10 August 2026}}</ref>
+
+;Political parties
+*[[Minnesota Democratic-Farmer-Labor Party]]<ref>{{cite news|url=https://www.mprnews.org/story/2026/05/30/klobuchar-wins-dfl-endorsement-for-governor|title=Klobuchar wins DFL endorsement for governor|first=Peter|last=Cox|date=May 30, 2026|access-date=May 30, 2026|work=[[Minnesota Public Radio]]}}</ref>
+}}
+
+{{Endorsements box
+|title=Tim Walz ''(withdrawn)''
+|list=
+;Labor unions
+*[[Service Employees International Union]] Minnesota State Council<ref>{{cite web|title=Endorsement: Tim Walz|url=https://www.facebook.com/seiumn/posts/breaking-seiu-minnesota-state-council-endorse-gov-tim-walz-for-re-electionsaint-/1194523142696498/|website=SEIU MN on Facebook|access-date=November 18, 2025}}</ref>
+
+;Organizations
+*[[Democratic Governors Association]]<ref>{{cite web|last1=Democratic Governors Association|title=DGA Chair Laura Kelly Statement on Governor Tim Walz Running for Reelection|url=https://democraticgovernors.org/updates/dga-chair-laura-kelly-statement-on-governor-tim-walz-running-for-reelection/|website=Democratic Governor Association|publisher=Democratic Governors Association|access-date=September 16, 2025}}</ref>
+*<s>[[Giffords]]</s> ''(later endorsed Klobuchar)''<ref name="ken"/>
+*[[Planned Parenthood]] North Central States<ref>{{cite web|title=Endorsement alert!|url=https://www.plannedparenthoodaction.org/planned-parenthood-minnesota-advocate/blog-copy-2/planned-parenthood-minnesota-north-dakota-south-dakota-action-fund-endorses-tim-walz-for-governor|website=Planned Parenthood Action|access-date=November 18, 2025}}</ref>
+*[[VoteVets.org|VoteVets]]<ref>{{cite web|title=Endorsed Candidates|url=https://votevets.org/candidates|website=VoteVets|access-date=November 25, 2025}}</ref>
+}}
+
+=== Fundraising ===
+''Italics'' indicate a withdrawn candidate.
+
+{| class="wikitable sortable"
+! colspan="4" |Campaign finance reports as of May 31, 2026
+|-
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/DFL}}|''Paul Ference (DFL)''{{efn|filed for Lieutenant governor with Kobey Layne}}
+|$6,530
+|$3,543
+|$2,986
+|-
+|{{party shading/DFL}}|Bill Gates, Jr. (DFL)
+|$884
+|$884
+|$0
+|-
+|{{party shading/DFL}}|Amy Klobuchar (DFL)
+|$7,045,318
+|$3,185,636
+|$3,859,683
+|-
+|{{party shading/DFL}}|Kobey Layne (DFL)
+|$4,618
+|$3,043
+|$1,574
+|-
+|{{party shading/DFL}}|Po Vang (DFL)
+|$749
+|$749
+|$0
+|-
+|{{party shading/DFL}}|''Christopher Seymore'' (DFL)
+|$50
+|$0
+|$50
+|-
+|{{party shading/DFL}}|''Tim Walz'' (DFL)
+|$169,091
+|$922,312
+|$3,138,504
+|-
+| colspan="4" |Source: Minnesota Campaign Finance Board<ref name="ov">{{Cite web|title=Districts constitutional offices viewer|url=https://cfb.mn.gov/reports-and-data/viewers/campaign-finance/districts-constitutional-offices/GC/2026|access-date=April 18, 2026|website=cfb.mn.gov}}</ref>
+|}
+
+=== Caucus vote ===
+On February 3, 2026, Minnesota DFLers held their party caucus.<ref>{{Cite web|last=TRIBUNE|first=MARIE TOLONEN MESABI|date=February 5, 2026|title=Amy Klobuchar tops DFL caucus straw poll| url= https://www.mesabitribune.com/news/local/amy-klobuchar-tops-dfl-caucus-straw-poll/article_d48347d8-e2e9-4943-8cff-c20837cd28d1.html|access-date=February 13, 2026|website=Mesabi Tribune|language=en}}</ref> Klobuchar won the party's straw poll for governor with approximately 72% of the vote.<ref name="ss"/>
+
+==== Results ====
+[[File:2026 Minnesota gubernatorial DFL caucus straw poll results by reporting unit.svg|thumb|250x250px|Results by reporting unit:{{collapsible list
+| title = {{legend|#7996E2|Klobuchar}}|{{legend|#7996E2|50–60%}}|{{legend|#6674DE|60–70%}}|{{legend|#584CDE|70–80%}}|{{legend|#3933E5|80–90%}}|{{legend|#0D0596|90–100%}}}}{{collapsible list
+| title = {{legend|#51C2C2|Uncommitted}}|{{legend|#7DDDDD|40–50%}}|{{legend|#51C2C2|50–60%}}|{{legend|#2AACAC|60–70%}}|{{legend|#009696|70–80%}}
+}}{{collapsible list| title = {{legend|#808080|Abstained}}|{{legend|#808080ff|No votes}}}}
+]]
+{{Election box begin no change|title=DFL caucus straw poll results}}
+{{Election box winning candidate with party link no change|party=Minnesota Democratic–Farmer–Labor Party|candidate=[[Amy Klobuchar]]|votes=22,484|percentage=71.71%}}{{Election box candidate with party link no change|party=Minnesota Democratic–Farmer–Labor Party|candidate=Christopher Seymore|votes=397|percentage=1.27%}}{{Election box write-in with party link no change|votes=1,097|percentage=3.50%}}{{Election box inline candidate no change|party=None|candidate=Uncommitted|votes=6,722|percentage=21.44%}}{{Election box inline candidate no change|party=None|candidate=Abstained|votes=655|percentage=2.09%}}{{Election box total no change| votes=31,355| percentage=100.00%}}
+{{Election box end}}
+
+=== Results ===
+{{Switcher
+|[[File:2026 Minnesota Democratic gubernatorial primary election results map by county.svg|thumb|280px|Primary results by county:
+{{collapsible list
+| title = {{legend|#7996E2|Klobuchar}}
+|{{legend|#3933E5|80–90%}}
+|{{legend|#0D0596|>90%}}
+}}
+]]
+|Results by county
+|[[File:MN Dem Gov CD 2026.svg|thumb|280px|Primary results by congressional district:
+{{collapsible list
+| title = {{legend|#7996E2|Klobuchar}}
+|{{legend|#3933E5|80–90%}}
+|{{legend|#0D0596|>90%}}
+}}
+]]
+|Results by congressional district
+|[[File:MN Dem Gov SD 2026.svg|thumb|280px|Primary results by state senate district:
+{{collapsible list
+| title = {{legend|#7996E2|Klobuchar}}
+|{{legend|#584CDE|70–80%}}
+|{{legend|#3933E5|80–90%}}
+|{{legend|#0D0596|>90%}}
+}}
+]]
+|Results by state senate district
+|[[File:MN Dem Gov HD 2026.svg|thumb|280px|Primary results by state house district:
+{{collapsible list
+| title = {{legend|#7996E2|Klobuchar}}
+|{{legend|#584CDE|70–80%}}
+|{{legend|#3933E5|80–90%}}
+|{{legend|#0D0596|>90%}}
+}}
+]]
+|Results by state house district
+|[[File:2026 Minnesota Democratic gubernatorial primary election results map by precinct.svg|thumb|280px|Primary results by precinct:
+{{collapsible list
+| title = {{legend|#7996E2|Klobuchar}}
+|{{legend|#A5B0FF|40–50%}}
+|{{legend|#7996E2|50–60%}}
+|{{legend|#6674DE|60–70%}}
+|{{legend|#584CDE|70–80%}}
+|{{legend|#3933E5|80–90%}}
+|{{legend|#0D0596|>90%}}
+}}
+{{collapsible list
+| title = {{legend|#51C2C2|Layne}}
+|{{legend|#2AACAC|60–70%}}
+|{{legend|#006666|>90%}}
+}}
+{{collapsible list
+| title = {{legend|#FF80B2|Savior}}
+|{{legend|#FF5599|60–70%}}
+}}
+{{collapsible list
+| title = {{legend|#CD3700|Evenstad}}
+|{{legend|#31170E|>90%}}
+}}
+{{collapsible list
+| title = {{legend|#F1C92A|Gates}}
+|{{legend|#A58100|>90%}}
+}}
+{{collapsible list
+| title = {{legend|#AE8BB1|Tie}}
+|{{legend|#DECDE6|30–40%}}
+|{{legend|#D2B1D9|40–50%}}
+|{{legend|#AE8BB1|50%}}
+}}
+{{collapsible list
+}}{{legend|#808080|No Votes}}]]
+|Results by precinct|}}
+{{Election box begin no change|title=Democratic primary results}}
+{{Election box winning candidate with party link no change|candidate=[[Amy Klobuchar]]|party=Minnesota Democratic–Farmer–Labor Party|votes=615,041|percentage=89.7}}
+{{Election box candidate with party link no change|candidate=Kobey Layne|party=Minnesota Democratic–Farmer–Labor Party|votes=39,528|percentage=5.8}}
+{{Election box candidate with party link no change|candidate=Mohammad Wazwaz|party=Minnesota Democratic–Farmer–Labor Party|votes=9,633|percentage=1.4}}
+{{Election box candidate with party link no change|candidate=Po Vang|party=Minnesota Democratic–Farmer–Labor Party|votes=8,834|percentage=1.3}}
+{{Election box candidate with party link no change|candidate=Ole "Viking" Savior|party=Minnesota Democratic–Farmer–Labor Party|votes=5,491|percentage=0.8}}
+{{Election box candidate with party link no change|candidate=Tom Evenstad|party=Minnesota Democratic–Farmer–Labor Party|votes=3,843|percentage=0.6}}
+{{Election box candidate with party link no change|candidate=Bill Gates Jr.|party=Minnesota Democratic–Farmer–Labor Party|votes=3,380|percentage=0.5}}
+{{Election box total no change|votes=685,750|percentage=100.0}}
+{{Election box end}}
+
+== Republican primary ==
+=== Candidates ===
+==== Nominee ====
+*[[Lisa Demuth]], speaker of the [[Minnesota House of Representatives]] (2025–present) from district 13A (2019–present)<ref>{{Cite news|work=[[CBS News]]|url=https://www.cbsnews.com/minnesota/news/lisa-demuth-running-for-minnesota-governor/|date=November 2, 2025|access-date=November 2, 2025|author=Cummings, Caroline|title=Republican Minnesota House Speaker Lisa Demuth jumps in the governor's race to challenge DFL Gov. Tim Walz|language=en-US}}</ref>
+**Running mate: Ryan Wilson, attorney and nominee for [[Minnesota State Auditor|state auditor]] in [[2022 Minnesota State Auditor election|2022]]<ref>{{Cite web|last=Griffith|first=Michelle|title=House Speaker Lisa Demuth picks Ryan Wilson as running mate in campaign for governor|url=https://minnesotareformer.com/briefs/house-speaker-lisa-demuth-picks-ryan-wilson-as-running-mate-in-campaign-for-governor/|access-date=February 10, 2026|website=Minnesota Reformer|date=November 10, 2025 |language=en-US}}</ref>
+
+==== Eliminated in primary ====
+* Loner Blue, perennial candidate<ref name="cf"/><ref name="cfb 2871">{{Cite web| title=Candidates |url= https://cfb.mn.gov/reports-and-data/viewers/campaign-finance/candidates/2871/2026/|access-date=June 2, 2026| website=cfb.mn.gov}}</ref>
+** Running mate: Andrew Maass<ref name="cf"/><ref name="cfb 2871" />
+*Raul Estrada, construction worker and organizer with the American Indian Coalition<ref>{{Cite news| last= Alexander |first= Caitlin|date=May 18, 2026|title=ONE-ON-ONE with Minnesota gubernatorial candidate Raul Estrada |url=https://www.kttc.com/2026/05/18/one-on-one-with-minnesota-gubernatorial-candidate-raul-estrada/|work=[[KTTC]]}}</ref>
+**Running mate: Joe Kincaid<ref name="cf"/>
+*John Krhin, pastor<ref>{{cite web|last1=lauren.viska@apgsomn.com|first1=LAUREN VISKA|title=Governor forum hones in on fraud, test scores|url=https://www.southernminn.com/waseca_county_news/news/governor-forum-hones-in-on-fraud-test-scores/article_75fe02c7-caf8-476d-9e95-434efba3b0b6.html|website=Southernminn.com|access-date=December 17, 2025|language=en|date=December 15, 2025|quote=Sitting from left to right at the Steele County Republican Governor forum, businessman and Divine Mercy Catholic Church Executive Administrator Phillip Parrish, former Hennepin County commissioner Jeff Johnson, House Speaker Lisa Demuth, businessman and former UFC fighter Brad Kohler, Minnesota Rep. Kristin Robbins, physician and entrepreneur Kendall Qualls, former state lawmaker Patrick Knight, former state senator Scott Jensen and former ordained minister John Krhin.}}</ref>
+**Running mate: Dennis Conn<ref name="cf"/>
+*[[Mike Lindell]], founder and former CEO of [[My Pillow, Inc.|My Pillow]] and candidate for [[Republican National Committee|RNC]] chair in [[2023 Republican National Committee chairmanship election|2023]]<ref>{{Cite web|date=December 11, 2025|title=MyPillow CEO Mike Lindell announces a campaign for Minnesota governor|url=https://www.nbcnews.com/politics/2026-election/mypillow-ceo-mike-lindell-announces-campaign-minnesota-governor-rcna248613|access-date=December 11, 2025|website=NBC News|language=en}}</ref>
+**Running mate: Phillip Parrish, retired Naval intelligence officer, teacher, and school administrator<ref name="cf"/><ref name="mediaite lindell mate">{{Cite web|last=Jr|first=Ahmad Austin|date=June 2, 2026|title=Mike Lindell Announces Running Mate for Minnesota Governor's Race|url=https://www.mediaite.com/politics/mike-lindell-announces-running-mate-for-minnesota-governors-race/|access-date=June 2, 2026|website=Mediaite|language=en}}</ref>
+* Ross Nova<ref name="fc">{{Cite web|title=Candidates|url=https://cfb.mn.gov/reports-and-data/viewers/campaign-finance/candidates/19383/2026/|access-date=June 1, 2026|website=cfb.mn.gov}}</ref><ref name="cf"/>
+** Running mate: Kerry Busby<ref name="fc"/><ref name="cf"/>
+*Kendall Qualls, healthcare technology executive, nominee for {{ushr|MN|3}} in [[2020 United States House of Representatives elections in Minnesota#District 3|2020]], and candidate for governor in [[2022 Minnesota gubernatorial election|2022]]<ref>{{cite web|last1=Cox|first1=Peter|title=Kendall Qualls enters 2026 Minnesota governor's race as a GOP nomination contender|url=https://www.mprnews.org/story/2025/05/08/qualls-makes-second-run-for-minnesota-governor|access-date=May 8, 2025|date=May 8, 2025|work=[[Minnesota Public Radio]]|language=en}}</ref>
+**Running mate: Brian Nicholson, construction firm chief executive<ref>{{Cite news|last=Nace|first=Aki|date=June 27, 2026|title=Minnesota GOP-endorsed lieutenant governor candidate attended Jan. 6 riot at U.S. Capitol |url=https://www.cbsnews.com/minnesota/news/kendall-qualls-brian-nicholson-jan-6-riot/|work=CBS Minnesota| language=en-US}}</ref><ref>{{cite news|last1=Fischer|first1=Samantha|title=Kendall Qualls picks businessman Brian Nicholson as gubernatorial running mate|url=https://www.kare11.com/article/news/politics/kendall-qualls-picks-businessman-brian-nicholson-as-gubernatorial-running-mate/89-2f6eff75-5041-47cc-a6d4-a3d5aeaf638c|access-date=March 3, 2026|work=kare11.com|date=March 3, 2026}}</ref>
+
+====Not on ballot====
+*Patrick Knight, food company CEO<ref>{{cite web|last1=Brown|first1=Kyle|title=Food executive Patrick Knight announces run for governor|url=https://kstp.com/kstp-news/local-news/food-executive-patrick-knight-announces-run-for-governor/|website=KSTP.com 5 Eyewitness News|access-date=November 6, 2025|date=November 6, 2025}}</ref>
+
+==== Withdrawn ====
+*[[Peggy Bennett]], state representative from district 23A (2015–present) (''withdrew after her running mate dropped out'')<ref name="bennett-engen">{{cite news|last1=Paris|first1=Ryan|title="This is not by my choice": Rep. Peggy Bennett announces end to campaign for MN governor|url=https://www.kttc.com/2026/06/04/this-is-not-by-my-choice-rep-peggy-bennett-announces-end-campaign-mn-governor/|access-date=June 9, 2026|work=KTTC|date=June 4, 2026}}</ref>
+*[[Scott Jensen (Minnesota politician)|Scott Jensen]], former [[Minnesota Senate|state senator]] from the 47th district (2017–2021) and nominee for [[Governor of Minnesota|governor]] in [[2022 Minnesota gubernatorial election|2022]] ''([[2026 Minnesota State Auditor election|running for state auditor]])''<ref>{{Cite web|last=Morrell|first=Lydia|date=February 9, 2026|title=Scott Jensen ends bid for Minnesota governor, announces run for state auditor instead|url=https://www.kare11.com/article/news/local/scott-jensen-ends-bid-for-minnesota-governor-announces-run-for-state-auditor-instead/89-56d977b6-4fd5-4299-a493-5eba8fb0acf0|access-date=February 9, 2026|website=KARE 11|language=en-US}}</ref>
+*Jeff Johnson, former [[St. Cloud, Minnesota|St. Cloud]] city councilor (2010–2018){{efn|No relation to previous gubernatorial nominee [[Jeff Johnson (Minnesota politician)|Jeff Johnson]].}}<ref>{{Cite web|last=Morrell|first=Lydia|date=February 9, 2026|title=Minnesota gubernatorial candidate suspends campaign after daughter dies from stabbing|url=https://www.kare11.com/article/news/local/minnesota-gubernatorial-candidate-suspends-campaign-after-daughter-dies-from-stabbing/89-6d0f1634-63a5-4910-b108-7ea6afc44a30|access-date=February 9, 2026|website=KARE 11|language=en-US}}</ref>
+*Chris Madel, attorney<ref>{{Cite web|title=Chris Madel ends GOP bid for governor, says he can't support federal 'retribution' against Minnesota|url=https://www.startribune.com/chris-madel-ends-gop-bid-for-governor-says-he-cant-support-federal-retribution-against-minnesota/601570793|website=Minnesota Star Tribune|date=January 26, 2026|access-date=January 26, 2026|language=en-US|first=Ryan|last=Faircloth|archive-url=https://web.archive.org/web/20260126160540/https://www.startribune.com/chris-madel-ends-gop-bid-for-governor-says-he-cant-support-federal-retribution-against-minnesota/601570793|archive-date=January 26, 2026|url-status=dead}}</ref>
+*Phillip Parrish, retired Naval intelligence officer, teacher, and school administrator (running for lieutenant governor as Mike Lindell's running mate)<ref name="cf"/><ref name="mediaite lindell mate" />
+*[[Kristin Robbins]], [[Minnesota House of Representatives|state representative]] from district 37A (2019–present)<ref>{{Cite news|work=[[MPR News]]|date=May 1, 2026|access-date=May 1, 2026|title=Republican Rep. Kristin Robbins drops out of race for governor|url=https://www.startribune.com/republican-rep-kristin-robbins-drops-out-of-race-for-governor/601832110|language=en|archive-url=https://web.archive.org/web/20260812071745/https://www.startribune.com/republican-rep-kristin-robbins-drops-out-of-race-for-governor/601832110|archive-date=August 12, 2026|url-status=dead}}</ref>
+*Lee Albert Wickboldt<ref>{{Cite web|title=Candidates|url=https://cfb.mn.gov/reports-and-data/viewers/campaign-finance/candidates/19404/2026/|access-date=February 19, 2026|website=cfb.mn.gov}}</ref>
+
+==== Declined ====
+*[[Zach Duckworth]], [[Minnesota Senate|state senator]] from the 57th district (2021–present) ''([[2026 Minnesota Senate election|running for reelection]])''<ref>{{Cite news|author1=Nir, David|author2=Singer, Jeff|date=July 8, 2025|title=Morning Digest: A senior House Democrat lands a primary challenger after health scares| url= https://www.the-downballot.com/i/167770013/mn-gov-mn|access-date=July 8, 2025|website=The Downballot| language=en}}</ref>
+*[[Tom Emmer]], [[United States House of Representatives|U.S. representative]] from {{ushr|MN|6}} (2015–present) and nominee for governor in [[2010 Minnesota gubernatorial election|2010]]<ref name=ruled/>
+*[[Tim Pawlenty]], former [[governor of Minnesota]] (2003–2011)<ref>{{Cite web|last1=Reporter|first1=The|last2=Reported|first2=Or|last3=this?|first3=verified from knowledgeable sources The Trust Project What is|date=February 14, 2025|title=Flanagan, White enter US Senate race in Minnesota; Ellison says he is 'not in or out'|url=https://www.inforum.com/news/minnesota/flanagan-white-enter-us-senate-race-in-minnesota-ellison-says-he-is-not-in-or-out|access-date=January 6, 2026|website=InForum|language=en}}</ref>
+*[[Pete Stauber]], [[United States House of Representatives|U.S. representative]] from {{ushr|MN|8}} (2019–present)<ref name=ruled>{{cite news|last1=Faircloth|first1=Ryan|date=February 12, 2025|title=A look at who might run for Minnesota governor in 2026 — and who's ruled it out|url=https://www.startribune.com/a-look-at-who-might-run-for-minnesota-governor-in-2026-and-whos-ruled-it-out/601220891|access-date=February 12, 2025|archive-url= https://archive.today/20250212132015/https://www.startribune.com/a-look-at-who-might-run-for-minnesota-governor-in-2026-and-whos-ruled-it-out/601220891|archive-date=February 12, 2025|url-status=live|work=[[Minnesota Star Tribune]] |quote= Two of Minnesota's most prominent Republicans, U.S. Reps. Tom Emmer and Pete Stauber, both said they will not run for governor next year.|language=en}}</ref>
+
+===Endorsements===
+{{Endorsements box
+|title=Lisa Demuth
+|list=
+;State legislators
+*[[Bidal Duran Jr.|Bidal Duran]], [[Minnesota House of Representatives|state representative]] from district 2A (2025–present)<ref name="Duran">{{cite web |title=Endorsements by Bidal Duran |url=https://ballotpedia.org/Endorsements_by_Bidal_Duran |website=[[Ballotpedia]] |access-date=15 September 2026}}</ref>
+*[[Spencer Igo]], [[Minnesota House of Representatives|state representative]] from district 7A (2021–present)<ref>{{cite news|last1=Igo|first1=Spencer|title=Demuth is the common-sense conservative to lead Minnesota|url=https://www.mesabitribune.com/opinion/letters/demuth-is-the-common-sense-conservative-to-lead-minnesota/article_323da0a3-71e0-47ce-b3ea-920e8beb80f7.html|access-date=August 6, 2026|work=[[Mesabi Tribune]]|date=August 1, 2026|language=en}}</ref>
+*[[Carla Nelson]], [[Minnesota Senate|state senator]] from district 24 (2011–present)<ref>{{cite news|last1=Stolle|first1=Matthew|title=Sen. Carla Nelson reflects on long legislative career|url=https://www.postbulletin.com/news/local/sen-carla-nelson-reflects-on-long-legislative-career|access-date=August 5, 2026|work=[[Post Bulletin]]|date=August 3, 2026|language=en}}</ref>
+
+;Organizations
+*[[Second Amendment Foundation|Minnesota Gun Owners Caucus]]<ref name="NRA" />
+*[[National Rifle Association Political Victory Fund]]<ref name="NRA">{{cite web |last1=Carmenaty |first1=Alex |title=Minnesota House Speaker and GOP Gubernational Candidate Lisa Demuth Receives Two Endorsements |url=https://knoxradio.com/2026/07/22/minnesota-house-speaker-and-gop-gubernational-candidate-receives-two-endorsements/ |website=Knox News Radio |access-date=10 August 2026 |date=July 22, 2026}}</ref>
+}}
+
+{{Endorsements box
+|title=Mike Lindell
+|list=
+;Executive branch officials
+*[[Donald Trump]], president of the United States (2017–2021, 2025–present)<ref>{{cite news|last1=Barrow|first1=Bill|title=Donald Trump endorses 'Pillow Man' Mike Lindell for Minnesota governor|url=https://apnews.com/article/trump-endorses-lindell-pillow-man-minnesota-governor-5d21545a72927f4431eb3ff7a47db818|access-date=July 15, 2026|work=[[Associated Press]]|date=July 15, 2026|language=en}}</ref>
+
+;Organizations
+*[[Conservative Political Action Conference]]<ref>{{Cite tweet|user=CPAC|number=2044436880360407465|title=ENDORSED: Mike Lindell for Governor of Minnesota}}</ref>
+}}
+
+{{Endorsements box
+|title=Kendall Qualls
+|list=
+;Political parties
+*[[Republican Party of Minnesota]]<ref>{{cite web | title=Kendall Qualls endorsed by Minnesota GOP for governor | date=May 31, 2026 | url=https://www.fox9.com/news/kendall-qualls-endorsed-minnesota-gop-governor-may-31 }}</ref>
+}}
+
+{{Endorsements box
+|title=Declined to endorse
+|list=
+;State legislators
+*[[Kristin Robbins]], [[Minnesota House of Representatives|state representative]] from district 37A (2019–present) and former gubernatorial candidate<ref name="axiosmay4">{{cite news|last1=Van Oot|first1=Torey|title=Trail mix: Another candidate drops from Minnesota governor's race|url=https://www.axios.com/local/twin-cities/2026/05/04/minnesota-governor-race-candidate-drop-us-senate-angie-craig-peggy-flanagan|access-date=May 8, 2026|work=Axios Twin Cities|date=May 4, 2026}}</ref>
+}}
+
+=== Fundraising ===
+''Italics'' indicate a withdrawn candidate
+{| class="wikitable sortable"
+! colspan="4" |Campaign finance reports as of May 31, 2026
+|-
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|Lisa Demuth (R)
+|$360,892
+|$286,293
+|$517,679
+|-
+|{{party shading/Republican}}|Raul Estrada (R)
+|$4,765
+|$4,854
+|$20
+|-
+|{{party shading/Republican}}|John Krhin (R)
+|$58,266
+|$52,722
+|$2,044
+|-
+|{{party shading/Republican}}|Mike Lindell (R)
+|$648,960
+|$717,491
+|$11,704
+|-
+|{{party shading/Republican}}|Ross Nova (R)
+|$6,000
+|$3,048
+|$2,952
+|-
+|{{party shading/Republican}}|Kendall Qualls (R)
+|$211,305
+|$294,731
+|$34,189
+|-
+| colspan="4" |Source: Minnesota Campaign Finance Board<ref name="ov"/>
+|}
+
+=== Polling ===
+<!-- = = = don't edit the line below = = = -->
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br/>administered
+! Sample<br/>size{{efn|Key:<br/>A – all adults<br/>RV – registered voters<br/>LV – likely voters<br/>V – unclear|name="Key"}}
+! Margin<br/>{{nowrap|of error}}
+! style="width:65px;"| Lisa<br/>Demuth
+! style="width:65px;"| Scott<br/>Jensen
+! style="width:65px;"| Mike<br/>Lindell
+! style="width:65px;"| Kendall<br/>Qualls
+! style="width:65px;"| Kristin<br/>Robbins
+! Other
+! Undecided
+|-
+|style="text-align:left;"|[[KTSP-TV|KTSP]]/[[SurveyUSA]]<ref>{{cite web|url=https://kstp.com/kstp-news/top-news/kstp-surveyusa-poll-demuth-in-striking-distance-of-lindell-craig-up-in-key-demographic/|title=KSTP/SurveyUSA poll: Demuth in striking distance of Lindell, Craig up in key demographic|access-date=August 6, 2026|website=KTSP |date=August 6, 2026 }}</ref>
+|July 29–August 4, 2026
+|458 (LV)
+|±{{nbsp}}5.6%
+|28%	
+|–
+|{{party shading/Republican}}|'''34%'''
+|17%	
+|–
+|6%
+|16%
+|-
+|style="text-align: left;"|[[SurveyUSA]]<ref name="KSTP july">{{cite news|last1=Skluzacek|first1=Josh|last2=Hauser|first2=Tom|title=Lindell, Tafoya increase their leads; Craig, Ellison margins shrink|url=https://kstp.com/kstp-news/top-news/kstp-surveyusa-poll-lindell-tafoya-increase-their-election-leads-craig-ellison-margins-shrink/|access-date=July 22, 2026|work=KSTP Eyewitness News|date=July 21, 2026}}</ref>{{efn-ua|name=KSTP}}
+|July 15–20, 2026
+|478 (LV)
+|±&nbsp;5.4%
+|26%
+|–
+|{{party shading/Republican}}|'''35%'''
+|11%
+|–
+|5%
+|22%
+|-
+|style="text-align: left;"|Big Data Poll (R)<ref>{{Cite web|url=https://static01.nyt.com/newsgraphics/documenttools/41f188413130f02f/27ab96ff-full.pdf|title=Breaking News! In June, Mike Lindell Expands his Lead in the Republican Primary for Governor in Minnesota, a New Internal Poll Finds|work=Mike Lindell for Governor|date=July 8, 2026|access-date=July 8, 2026}}</ref>{{efn-ua|name=Lindell}}
+|June 26–29, 2026
+|1,214 (LV)
+|±&nbsp;2.8%
+|20%
+|–
+|{{party shading/Republican}}|'''25%'''
+|10%
+|–
+|11%{{efn|John Krhin with 4%; Raul Estrada with 3%; Loner Blue and Ross Nova with 2%}}
+|{{party shading/Undecided}}|'''34%'''
+|-
+|style="text-align: left;" rowspan="2"|Minnesota Private Business Council (R)<ref>{{Cite web|url=https://alphanews.org/internal-poll-from-conservative-nonprofit-says-demuth-has-slim-lead-over-qualls-in-gop-primary/|title=Internal poll from conservative nonprofit says Demuth has slim lead over Qualls in GOP primary|first=Luke|last=Sprinkel|website=Alpha News|date=July 9, 2026|access-date=July 9, 2026}}</ref>
+|rowspan="2"|June 23–25, 2026
+|rowspan="2"|1,601 (LV)
+|rowspan="2"|±&nbsp;2.5%
+|{{party shading/Republican}}|'''29%'''
+|–
+|20%
+|24%
+|–
+|1%{{efn|Loner Blue, Raul Estrada, John Krhin, and Ross Nova with a combined 1%}}
+|26%
+|-
+|{{party shading/Republican}}|'''34%'''{{efn|name=lean|With voters who lean towards a given candidate}}
+|–
+|24%
+|28%
+|–
+|–
+|14%
+|-
+|style="text-align: left;"|[[SurveyUSA]]<ref>{{Cite web|url=https://kstp.com/kstp-news/top-news/kstp-surveyusa-poll-lindell-leads-gop-governor-race-tafoya-craig-up-in-senate-primaries/|title=KSTP/SurveyUSA poll: Lindell leads GOP governor race; Tafoya, Craig up in Senate primaries|first1=Josh|last1=Skluzacek|first2=Tom|last2=Hauser|website=[[KSTP-TV]]|date=June 17, 2026|access-date=June 19, 2026}}</ref>{{efn-ua|name=KSTP}}
+|June 11–16, 2026
+|450 (LV)
+|±&nbsp;5.4%
+|22%
+|–
+|{{party shading/Republican}}|'''27%'''
+|17%
+|–
+|10%{{efn|"Another Republican" with 10%}}
+|24%
+|-
+|-
+|style="text-align: left;"|Big Data Poll (R)<ref>{{Cite web|url=https://static01.nyt.com/newsgraphics/documenttools/30b2a1ab872ab34c/20ddb3be-full.pdf|title=Breaking News! Mike Lindell leads all Republicans in the race for Minnesota governor just days before the MN GOP convention|work=Mike Lindell for Governor|date=May 22, 2026|access-date=May 25, 2026}}</ref>{{efn-ua|name=Lindell|Poll sponsored by Lindell's campaign}}
+|May 18–20, 2026
+|512 (LV)
+|–
+|19%
+|–
+|{{party shading/Republican}}|'''21%'''
+|9%
+|–
+|12%{{efn|Patrick Knight with 4%; Peggy Bennett with 3%; Phil Parrish and John Krhin with 2%; Raul Estrada with 1%}}
+|{{party shading/Undecided}}|'''39%'''
+|- style="background:lightyellow;" 
+| style="border-right-style:hidden; background:lightyellow;" |
+| style="border-right-style:hidden; " | May 1, 2026
+| colspan="9" |Robbins withdraws from the race
+|-
+|-
+|- style="background:lightyellow;" 
+| style="border-right-style:hidden; background:lightyellow;" |
+| style="border-right-style:hidden; " | February 9, 2026
+| colspan="9" |Jensen withdraws from the race
+|-
+|style="text-align: left;"|Peak Insights (R)<ref>{{Cite web|url=https://www.nrsc.org/wp-content/uploads/2026/02/TOPLINE-MN-GOP-Voters-Jan-2026.pdf|title=MN GOP Primary Voters|work=Peak Insights|date=February 4, 2026|access-date=February 4, 2026}}</ref>{{efn-ua|name=Tafoya|Poll sponsored by [[Michele Tafoya]]'s [[2026 United States Senate election in Minnesota|campaign for U.S. Senate]]}}
+|January 31 – February 1, 2026
+|500 (LV)
+|±&nbsp;4.0%
+|17%
+|12%
+|{{party shading/Republican}}|'''18%'''
+|11%
+|3%
+|7%{{efn|"Someone else" with 2%; Peggy Bennett, Thomas Evanstad, Jeff Johnson, Brad Kohler, and Phil Parrish with 1%; Patrick Knight with 0%}}
+|{{party shading/Undecided}}|'''32%'''
+|}
+
+=== Caucus vote ===
+On February 3, 2026, Minnesota Republicans held their party caucus.<ref>{{Cite news| last=Faircloth |first=Ryan |date= February 4, 2026| title= House Speaker Lisa Demuth poised to win GOP straw poll for governor, Qualls and Lindell trail behind| url= https://www.startribune.com/minnesota-gop-could-pick-a-frontrunner-for-governor-at-tuesday-precinct-caucuses/601575453|archive-url= https://web.archive.org/web/20260205131057/https://www.startribune.com/minnesota-gop-could-pick-a-frontrunner-for-governor-at-tuesday-precinct-caucuses/601575453|archive-date=February 5, 2026|access-date=February 10, 2026 |language=en}}</ref> Lisa Demuth won the party's straw poll for governor with approximately 32% of the vote.<ref name="ss">{{Cite web|title=Office of the State Of Minnesota Secretary of State|url=https://sos.mn.gov/elections-voting/how-elections-work/precinct-caucuses/|archive-url= https://web.archive.org/web/20260204173948/https://sos.mn.gov/elections-voting/how-elections-work/precinct-caucuses/|archive-date=February 4, 2026|access-date=February 10, 2026|website=sos.mn.gov|language=en}}</ref>
+
+==== Results ====
+[[File:2026 Minnesota gubernatorial Republican caucus straw poll results by reporting unit.svg|thumb|250x250px|Results by reporting unit:{{collapsible list
+| title = {{legend|#E27F7F|Demuth}}|{{legend|#ffe0ea|20–30%}}|{{legend|#ffc8cd|30–40%}}|{{legend|#ffb2b2|40–50%}}|{{legend|#e27f7f|50–60%}}|{{legend|#d75d5d|60–70%}}|{{legend|#D72F30|70–80%}}|{{legend|#C21B18|80–90%}}}}{{collapsible list
+| title = {{legend|#47cc9d|Qualls}}|{{legend|#cbffed|20–30%}}|{{legend|#b4ffe5|30–40%}}|{{legend|#7ee5c1|40–50%}}|{{legend|#47cc9d|50–60%}}
+}}{{collapsible list
+| title = {{legend|#f1c92a|Lindell}}|{{legend|#fff5cc|20–30%}}|{{legend|#ffeeaa|30–40%}}|{{legend|#ffdd55|40–50%}}|{{legend|#f1c92a|50–60%}}}}{{collapsible list
+| title = {{legend|#FF9A50|Robbins}}|{{legend|#ffcca9|30–40%}}
+}}{{collapsible list
+| title = {{legend|#8DA9E2|Parrish}}|{{legend|#d9e1ee|20–30%}}
+}}{{collapsible list
+| title = {{legend|#c88fe4|Bennett}}|{{legend|#dcb7ef|40–50%}}
+}}{{collapsible list
+| title = {{legend|#BDBDBD|Undecided}}|{{legend|#e6e6e6|30–40%}}
+}}
+Hashes indicate a tie.
+]]
+{{Election box begin no change|title=Republican caucus straw poll results}}
+{{Election box winning candidate with party link no change|party=Republican Party of Minnesota|candidate=[[Lisa Demuth]]|votes=5,827|percentage=31.86%}}{{Election box candidate with party link no change|party=Republican Party of Minnesota|candidate=Kendall Qualls|votes=4,624|percentage=25.28%}}
+{{Election box candidate with party link no change|party=Republican Party of Minnesota|candidate=[[Mike Lindell]]|votes=3,235|percentage=17.69%}}{{Election box candidate with party link no change|party=Republican Party of Minnesota|candidate=[[Scott Jensen (Minnesota politician)|Scott Jensen]]|votes=1,185|percentage=6.48%}}{{Election box candidate with party link no change|party=Republican Party of Minnesota|candidate=[[Kristin Robbins]]|votes=776|percentage=4.24%}}{{Election box candidate with party link no change|party=Republican Party of Minnesota|candidate=Phil Parrish|votes=728|percentage=3.98%}}{{Election box candidate with party link no change|party=Republican Party of Minnesota|candidate=Patrick Knight|votes=362|percentage=1.98%}}{{Election box candidate with party link no change|party=Republican Party of Minnesota|candidate=Jeff Johnson|votes=139|percentage=0.76%}}{{Election box candidate with party link no change|party=Republican Party of Minnesota|candidate=[[Peggy Bennett]]|votes=112|percentage=0.61%}}{{Election box candidate with party link no change|party=Republican Party of Minnesota|candidate=[[Brad Kohler]]|votes=78|percentage=0.43%}}{{Election box candidate with party link no change|party=Republican Party of Minnesota|candidate=Raul Estrada|votes=62|percentage=0.34%}}{{Election box candidate with party link no change|party=Republican Party of Minnesota|candidate=John Krhin|votes=59|percentage=0.32%}}{{Election box write-in with party link no change|votes=56|percentage=0.31%}}{{Election box inline candidate no change| party=None| candidate=Undecided| votes= 1,046|percentage=5.72%}}{{Election box total no change|votes=18,289|percentage=100.00%}}
+{{Election box end}}
+
+==== Debates ====
+<div style="overflow-x:auto;">
+{| class="wikitable" style="text-align:center;"
+|+ 2026 Minnesota gubernatorial election Republican primary debates
+|-
+! scope="col" | {{abbr|No.|Number}}
+! scope="col" | Date
+! scope="col" | Host
+! scope="col" | Moderator
+! scope="col" | Link
+! scope="col"| <small>[[Republican Party (US)|Republican]]</small>
+! scope="col"| <small>[[Republican Party (US)|Republican]]</small>
+! scope="col"| <small>[[Republican Party (US)|Republican]]</small>
+! scope="col"| <small>[[Republican Party (US)|Republican]]</small>
+! scope="col"| <small>[[Republican Party (US)|Republican]]</small>
+! scope="col"| <small>[[Republican Party (US)|Republican]]</small>
+! scope="col"| <small>[[Republican Party (US)|Republican]]</small>
+! scope="col"| <small>[[Republican Party (US)|Republican]]</small>
+! scope="col"| <small>[[Republican Party (US)|Republican]]</small>
+! scope="col"| <small>[[Republican Party (US)|Republican]]</small>
+! scope="col"| <small>[[Republican Party (US)|Republican]]</small>
+|-
+! colspan="5" rowspan="2" |Key:<br/>{{Colors|black|#90ff90|&nbsp;P&nbsp;}} <small>Participant&nbsp;</small> {{Colors|black|#FFFFDD|&nbsp;A&nbsp;}} <small>Absent&nbsp;</small> {{Colors|black|#ff9090|&nbsp;N&nbsp;}} <small>Not invited&nbsp;</small> {{Colors|black|#CCFFCC|&nbsp;I&nbsp;}} <small>Invited {{color box|#f0e68c|W}} Withdrawn</small>
+! scope="col" style="background:{{party color|Republican Party (US)}}"|
+! scope="col" style="background:{{party color|Republican Party (US)}}"|
+! scope="col" style="background:{{party color|Republican Party (US)}}"|
+! scope="col" style="background:{{party color|Republican Party (US)}}"|
+! scope="col" style="background:{{party color|Republican Party (US)}}"|
+! scope="col" style="background:{{party color|Republican Party (US)}}"|
+! scope="col" style="background:{{party color|Republican Party (US)}}"|
+! scope="col" style="background:{{party color|Republican Party (US)}}"|
+! scope="col" style="background:{{party color|Republican Party (US)}}"|
+! scope="col" style="background:{{party color|Republican Party (US)}}"|
+! scope="col" style="background:{{party color|Republican Party (US)}}"|
+|-
+! scope="col" | Peggy Bennett
+! scope="col" | [[Lisa Demuth]]
+! scope="col" | Raul Estrada
+! scope="col" | [[Scott Jensen (Minnesota politician)|Scott Jensen]]
+! scope="col" | Jeff Johnson
+! scope="col" | Patrick Knight
+! scope="col" | [[Brad Kohler]]
+! scope="col" | [[Mike Lindell]]
+! scope="col" | Chris Madell
+! scope="col" | Phil Parrish
+! scope="col" | Kendall Qualls
+|-
+!1
+| style="white-space:nowrap;" | Jan. 15, 2026
+| style="white-space:nowrap;" | [[Scott County, Minnesota|Scott County]] Republican Party
+| style="white-space:nowrap;" | [[Bill Lieske]]
+| style="white-space:nowrap;" | [https://www.youtube.com/watch?v=BffLMy_DeXc YouTube]
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+|-
+!2
+| style="white-space:nowrap;" | Mar. 11, 2026
+| style="white-space:nowrap;" | [[Minnesota's 2nd congressional district|Second Congressional District]] Republicans
+| style="white-space:nowrap;" | Tayler Rahm
+| style="white-space:nowrap;" | [https://www.youtube.com/watch?v=NiDiQdNKSqw YouTube]
+| {{No|'''N'''}}
+| {{Yes|'''P'''}}
+| {{No|'''N'''}}
+| {{D-W|'''W'''}}
+| {{D-W|'''W'''}}
+| {{Yes|'''P'''}}
+| {{No|'''N'''}}
+| {{No|'''N'''}}
+| {{D-W|'''W'''}}
+| {{No|'''N'''}}
+| {{Yes|'''P'''}}
+|-
+!3
+| style="white-space:nowrap;" | May 21, 2026
+| style="white-space:nowrap;" | [[KTTC]]<br/>Republican Party of [[Olmsted County, Minnesota|Olmsted County]]
+| style="white-space:nowrap;" | 
+| style="white-space:nowrap;" | [https://www.youtube.com/watch?v=BSSWaaxldRk YouTube]
+| {{No|'''N'''}}
+| {{Yes|'''P'''}}
+| {{No|'''N'''}}
+| {{D-W|'''W'''}}
+| {{D-W|'''W'''}}
+| {{Yes|'''P'''}}
+| {{No|'''N'''}}
+| {{No|'''N'''}}
+| {{D-W|'''W'''}}
+| {{No|'''N'''}}
+| {{Yes|'''P'''}}
+|}
+</div>
+
+=== Results ===
+{{Switcher
+|[[File:2026 Minnesota Republican gubernatorial primary election results map by county.svg|thumb|280px|Primary results by county:
+{{collapsible list
+| title = {{legend|#E27F7F|Demuth}}
+|{{legend|#FFC8CD|30–40%}}
+|{{legend|#FFB2B2|40–50%}}
+|{{legend|#E27F7F|50–60%}}
+|{{legend|#D75D5D|60–70%}}
+}}
+{{collapsible list
+| title = {{legend|#FF9A50|Lindell}}
+|{{legend|#FFCCA9|30–40%}}
+|{{legend|#FFB580|40–50%}}
+}}
+{{collapsible list
+| title = {{legend|#5FD35F|Qualls}}
+|{{legend|#AAE5AA|30–40%}}
+}}
+{{collapsible list
+| title = {{legend|#AE8BB1|Tie}}
+|{{legend|#DECDE6|30–40%}}
+|{{legend|#D2B1D9|40–50%}}
+}}
+]]
+|Results by county
+|[[File:MN Rep Gov CD 2026.svg|thumb|280px|Primary results by congressional district:
+{{collapsible list
+| title = {{legend|#E27F7F|Demuth}}
+|{{legend|#FFC8CD|30–40%}}
+|{{legend|#FFB2B2|40–50%}}
+|{{legend|#E27F7F|50–60%}}
+}}
+{{collapsible list
+| title = {{legend|#FF9A50|Lindell}}
+|{{legend|#FFCCA9|30–40%}}
+}}
+]]
+|Results by congressional district
+|[[File:MN Rep Gov SD 2026.svg|thumb|280px|Primary results by state senate district:
+{{collapsible list
+| title = {{legend|#E27F7F|Demuth}}
+|{{legend|#FFC8CD|30–40%}}
+|{{legend|#FFB2B2|40–50%}}
+|{{legend|#E27F7F|50–60%}}
+|{{legend|#D75D5D|60–70%}}
+}}
+{{collapsible list
+| title = {{legend|#FF9A50|Lindell}}
+|{{legend|#FFCCA9|30–40%}}
+|{{legend|#FFB580|40–50%}}
+}}
+]]
+|Results by state senate district
+|[[File:MN Rep Gov HD 2026.svg|thumb|280px|Primary results by state house district:
+{{collapsible list
+| title = {{legend|#E27F7F|Demuth}}
+|{{legend|#FFC8CD|30–40%}}
+|{{legend|#FFB2B2|40–50%}}
+|{{legend|#E27F7F|50–60%}}
+|{{legend|#D72F30|70–80%}}
+}}
+{{collapsible list
+| title = {{legend|#FF9A50|Lindell}}
+|{{legend|#FFCCA9|30–40%}}
+|{{legend|#FFB580|40–50%}}
+}}
+]]
+|Results by state house district
+|[[File:2026 Minnesota Republican gubernatorial primary election results map by precinct.svg|thumb|280px|Primary results by precinct:
+{{collapsible list
+| title = {{legend|#E27F7F|Demuth}}
+|{{legend|#FFC8CD|30–40%}}
+|{{legend|#FFB2B2|40–50%}}
+|{{legend|#E27F7F|50–60%}}
+|{{legend|#D75D5D|60–70%}}
+|{{legend|#D72F30|70–80%}}
+|{{legend|#C21B18|80–90%}}
+|{{legend|#A80000|>90%}}
+}}
+{{collapsible list
+| title = {{legend|#FF9A50|Lindell}}
+|{{legend|#FFDAC1|20–30%}}
+|{{legend|#FFCCA9|30–40%}}
+|{{legend|#FFB580|40–50%}}
+|{{legend|#FF9A50|50–60%}}
+|{{legend|#EE8E50|60–70%}}
+|{{legend|#D69850|70–80%}}
+|{{legend|#B98A35|80–90%}}
+|{{legend|#9D7700|>90%}}
+}}
+{{collapsible list
+| title = {{legend|#5FD35F|Qualls}}
+|{{legend|#AAE5AA|30–40%}}
+|{{legend|#87DE87|40–50%}}
+|{{legend|#5FD35F|50–60%}}
+|{{legend|#37C837|60–70%}}
+|{{legend|#2CA02C|70–80%}}
+|{{legend|#165016|>90%}}
+}}
+{{collapsible list
+| title = {{legend|#F1C92A|Krhin}}
+|{{legend|#B98A35|80–90%}}
+}}
+{{collapsible list
+| title = {{legend|#2CA089|Nova}}
+|{{legend|#051411|>90%}}
+}}
+{{collapsible list
+| title = {{legend|#FF80B2|Estrada}}
+|{{legend|#FFAACC|40–50%}}
+|{{legend|#b31d59|>90%}}
+}}
+{{collapsible list
+| title = {{legend|#8DA9E2|Blue}}
+|{{legend|#244079|>90%}}
+}}
+{{collapsible list
+| title = {{legend|#AE8BB1|Tie}}
+|{{legend|#EFE7F5|20–30%}}
+|{{legend|#DECDE6|30–40%}}
+|{{legend|#D2B1D9|40–50%}}
+|{{legend|#AE8BB1|50%}}
+}}{{legend|#808080|No votes}}]]
+|Results by precinct|}}
+{{Election box begin no change|title=Republican primary results}}
+{{Election box winning candidate with party link no change|candidate=[[Lisa Demuth]]|party=Republican Party (United States)|votes=179,683|percentage=43.4}}
+{{Election box candidate with party link no change|candidate=[[Mike Lindell]]|party=Republican Party (United States)|votes=134,282|percentage=32.5}}
+{{Election box candidate with party link no change|candidate=Kendall Qualls|party=Republican Party (United States)|votes=88,416|percentage=21.4}}
+{{Election box candidate with party link no change|candidate=John Krhin|party=Republican Party (United States)|votes=4,663|percentage=1.1}}
+{{Election box candidate with party link no change|candidate=Ross Nova|party=Republican Party (United States)|votes=2,760|percentage=0.7}}
+{{Election box candidate with party link no change|candidate=Raul Estrada|party=Republican Party (United States)|votes=2,408|percentage=0.6}}
+{{Election box candidate with party link no change|candidate=Loner Blue|party=Republican Party (United States)|votes=1,393|percentage=0.3}}
+{{Election box total no change|votes=413,605|percentage=100.0}}
+{{Election box end}}
+
+== Independents and others ==
+=== Candidates ===
+
+==== Declared ====
+*Steve Young, member of the Minneapolis Food Council, attorney, and veteran ([[Green Party of Minnesota|Green]])<ref>{{Cite web|title=Our Candidates & Electeds| url= https://mngreens.nationbuilder.com/our_candidates_electeds|access-date=April 28, 2026|website=Green Party of Minnesota}}</ref><ref>{{Cite web|last=Willow Evans|first=Jordan|date=April 24, 2026|title=Green Party of Minnesota Endorses Four Candidates Ahead of Petition Drive| url= https://independentpoliticalreport.com/2026/04/green-party-of-minnesota-endorses-four-candidates-ahead-of-petition-drive/|access-date=April 28, 2026|website=Independent Political Report|language=en-US}}</ref><ref name="cf" />
+**Running mate: Jane Kirby, retired midwife and animal rights activist
+
+==== Not on ballot ====
+
+*Tom Berhane<ref>{{Cite web|title=Candidates|url=https://cfb.mn.gov/reports-and-data/viewers/campaign-finance/candidates/19487/2026/|access-date=April 24, 2026|website=cfb.mn.gov}}</ref><ref name="cf" />
+*Zac Harding<ref>{{Cite web|title=Candidates|url=https://cfb.mn.gov/reports-and-data/viewers/campaign-finance/candidates/19448/2026/|access-date=March 30, 2026|website=cfb.mn.gov}}</ref><ref name="cf" />
+*Adam Kedrowski<ref>{{Cite web|title=Candidates|url=https://cfb.mn.gov/reports-and-data/viewers/campaign-finance/candidates/19216/2026/|access-date=April 18, 2026|website=cfb.mn.gov}}</ref><ref name="cf" />
+*[[Brad Kohler]], retired [[mixed martial arts]] fighter (''previously registered as a [[Republican Party of Minnesota|Republican]]'')<ref>{{cite web|author1=Pioneer Staff Report|title=Minnesota Governor candidate Brad Kohler presents at Beltrami County GOP meeting|url=https://www.bemidjipioneer.com/news/local/minnesota-governor-candidate-brad-kohler-presents-at-beltrami-county-gop-meeting|website=[[The Bemidji Pioneer]]|access-date=June 1, 2025|language=en|date=May 13, 2025}}</ref><ref>{{Cite web|title=Candidates|url=https://cfb.mn.gov/reports-and-data/viewers/campaign-finance/candidates/19215/2026/|access-date=April 20, 2026|website=cfb.mn.gov}}</ref><ref name="cf" />
+*Steve Patterson, [[Grassroots–Legalize Cannabis Party|Grassroots-LC]] nominee for governor in [[2022 Minnesota gubernatorial election|2022]]<ref name="patterson">{{Cite web|last=Stolle|first=Matthew|date=November 18, 2025|title=Austin's Steve Patterson is running for governor again. His running mate? JT Thompson of JT & Gunslingers fame|url=https://www.postbulletin.com/news/local/austins-steve-patterson-is-running-for-governor-again-his-running-mate-jt-thompson-of-jt-gunslingers-fame|access-date=December 23, 2025|website=Rochester Post Bulletin|language=en}}</ref><ref>{{Cite web|last1=Reporter|first1=The|last2=Reported|first2=Or|last3=this?|first3=verified from knowledgeable sources The Trust Project What is|date=June 8, 2026|title=Southeast Minnesota man has bitter reflections on a failed gubernatorial candidacy| url= https://www.postbulletin.com/news/local/southeast-minnesota-man-has-bitter-reflections-on-a-failed-gubernatorial-candidacy|access-date=June 23, 2026|website=Rochester Post Bulletin|language=en}}</ref><ref name="cf" />
+
+==== Withdrawn ====
+* Calvin Larson Jr., labor union leader (running for State Senate District 2)<ref>{{Cite web|title=Districts constitutional offices viewer|url=https://cfb.mn.gov/reports-and-data/viewers/campaign-finance/districts-constitutional-offices/GC/2026/|access-date=January 5, 2026|website=cfb.mn.gov}}</ref><ref>{{Cite web|title=Unusual Activity Blocked|url=https://minnesotaitservices.mn.gov/?_event_transid=1725827015|access-date=June 5, 2026|website=minnesotaitservices.mn.gov}}</ref>
+* Mike Newcome, entrepreneur and business consultant<ref>{{cite web|last1=Cox|first1=Peter|title=Third party candidate Mike Newcome leaves race for Minnesota governor|url=https://www.mprnews.org/story/2026/03/30/mike-newcome-leaves-race-for-minnesota-governor|publisher=[[MPR News]]|access-date=April 1, 2026|date=March 30, 2026}}</ref>
+
+=== Endorsements ===
+{{Endorsements box|title=Mike Newcome (I) ''(withdrawn)''
+|list=
+;Political parties
+*[[Forward-Independence Party]]<ref>{{cite news|last=Minor|first=Nathaniel|date=November 18, 2025|title=Third-party candidate Mike Newcome enters Minnesota governor's race|url=https://www.startribune.com/third-party-candidate-newcome-enters-minnesota-governors-race/601528403|work=[[The Minnesota Star Tribune]]|access-date=November 18, 2025}}</ref>
+}}
+
+=== Fundraising ===
+{| class="wikitable sortable"
+! colspan="4" |Campaign finance reports as of March 31, 2026
+|-
+!Candidate
+!Raised
+!Spent
+!Cash on Hand
+|-
+|{{party shading/Green}}|Steve Young (G)
+|$1,586
+|$369
+|$1,218
+|-
+| colspan="4" |Source: Minnesota Campaign Finance Board<ref name="ov"/>
+|}
+
+== General election ==
+===Predictions===
+{| class="wikitable" style=text-align:center
+!Source
+!Ranking
+!As of
+|-
+|align=left|''[[The Cook Political Report]]''<ref>{{cite web|title=2026 CPR Governor Race ratings|url=https://www.cookpolitical.com/ratings/governor-race-ratings|website=[[The Cook Political Report]]|access-date=January 23, 2025}}</ref>
+|{{USRaceRating|Solid|D}}
+|October 1, 2026
+|-
+|align=left|[[Decision Desk HQ]]<ref name="DDHQ">{{cite web |title=2026 Governor Forecast |url=https://votes.decisiondeskhq.com/forecast/2026/governor |website=Decision Desk HQ |access-date=22 September 2026}}</ref>
+|{{USRaceRating|Likely|D}}
+|September 23, 2026
+|-
+|align=left|[[Fox News]]<ref>{{cite web|title=Fox News Power Rankings: As Democrats turn left, Black voters tap the brakes|url=http://www.foxnews.com/politics/fox-news-power-rankings-democrats-turn-left-black-voters-tap-brakes|website=[[Fox News]]|date=August 17, 2026 |publisher=Rémy Numa|access-date=August 18, 2026}}</ref>
+|{{USRaceRating|Likely|D}}
+|August 18, 2026
+|-
+|align="left"|[[RealClearPolitics]]<ref>{{Cite web|title=2026 Governor Races {{!}} RealClearPolitics|url=https://www.realclearpolling.com/maps/governor/2026/toss-up|access-date=June 5, 2026|website=[[RealClearPolitics]]|archive-url=https://web.archive.org/web/20260601183127/https://www.realclearpolling.com/maps/governor/2026/toss-up|archive-date=June 1, 2026|url-status=dead}}</ref>
+|{{USRaceRating|Likely|D}}
+|September 22, 2026
+|-
+|align=left|''[[Inside Elections]]''<ref>{{Cite web|title=Gubernatorial Ratings|url=https://insideelections.com/ratings/governor|access-date=February 7, 2025|website=[[Inside Elections]]}}</ref>
+|{{USRaceRating|Likely|D}}
+|September 3, 2025
+|-
+|align=left|''[[Sabato's Crystal Ball]]''<ref>{{cite web|title=2026 Governor|url=https://centerforpolitics.org/crystalball/2026-governor/|website=[[Sabato's Crystal Ball]]|access-date=May 1, 2025}}</ref>
+|{{USRaceRating|Safe|D}}
+|September 29, 2026
+|-
+| style="text-align: left;" |[[Silver Bulletin]]<ref name=":Silver">{{Cite web |last=Silver |first=Nate |date=2026-08-20 |title=FLIPR 2026 midterm election forecast |url=https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model |url-access=subscription |access-date=2026-08-20 |website=www.natesilver.net |language=en}}</ref>
+| {{US political race rating|Solid|D}}
+|August 25, 2026
+|}
+
+===Post-primary endorsements===
+{{Endorsements box
+|title=Amy Klobuchar (D)
+|list=
+;Organizations
+*[[Everytown for Gun Safety]]<ref>{{cite web |title=Everytown for Gun Safety Action Fund Announces New Round of Statewide Endorsements, Backing 40 Statewide Candidates in 15 States |url=https://momsdemandaction.org/press/everytown-for-gun-safety-action-fund-announces-new-round-of-statewide-endorsements-backing-40-statewide-candidates-in-15-states/ |website=Moms Demand Action |access-date=September 15, 2026 |language=en-us}}</ref>
+*[[Human Rights Campaign]]<ref name="HRCAugust">{{cite web |title=Human Rights Campaign PAC Endorses Slate of Pro-Equality Candidates |url=https://www.hrc.org/press-releases/human-rights-campaign-pac-endorses-slate-of-pro-equality-candidates-for-governor-in-key-states |website=HRC |access-date=30 August 2026 |date=27 August 2026}}</ref>
+}}
+{{Endorsements box
+|title=Lisa Demuth (R)
+|list=
+;Organizations
+*[[Maggie's List]]<ref name="Maggie">{{cite web |title=Lisa Demuth |url=https://maggieslist.org/image-banner/endorsed-for-governor/ |website=[[Maggie's List]] |access-date=15 September 2026 |date=August 26, 2026}}</ref>
+}}
+
+===Polling===
+
+;Aggregate polls
+{| class="wikitable sortable" style="text-align:center;font-size:90%;line-height:17px"
+!Source of poll<br>aggregation
+! Dates<br />administered
+! Dates<br />updated
+! style="width:100px;" |Amy<br />Klobuchar (DFL)
+! style="width:100px;" |Lisa<br />Demuth (R)
+! style="width:100px;" |Other/<br />Undecided{{Efn|name=calculated|Calculated by taking the difference of 100% and all other candidates combined.}}
+! Margin
+|-
+|Race to the WH<ref>{{cite web|title=2026 Governor Polling|url=https://www.racetothewh.com/governor/26polls|access-date=August 25, 2026|website=Race to the White House}}</ref>
+|through September 15, 2026
+|September 15, 2026
+|{{party shading/DFL}} |'''49.3%'''
+|40.5%
+|10.2%{{efn|Steve Young (G) with 2.3%}}
+|{{party shading/DFL}} |'''Klobuchar +8.8%'''
+|-
+|[[RealClearPolitics]]<ref>{{cite web|title=2026 Minnesota Governor - Demuth vs. Klobuchar|url=https://www.realclearpolling.com/polls/governor/general/2026/minnesota/demuth-vs-klobuchar|access-date=September 9, 2026|website=[[RealClearPolitics]]}}</ref>
+|February 6 – September 15, 2026
+|September 15, 2026
+|{{party shading/DFL}} |'''49.4%'''
+|39.8%
+|10.8%
+|{{party shading/DFL}} |'''Klobuchar +9.6%'''
+|-
+|''[[Silver Bulletin]]''<ref>{{Cite web|title=FLIPR 2026 midterm election forecast|url=https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model|work=[[Silver Bulletin]]|access-date=September 12, 2026}}</ref>
+|June 8 – September 2, 2026
+|September 15, 2026
+|{{party shading/DFL}}|'''51.5%'''
+|37.6%
+|10.9%
+|{{party shading/DFL}}|'''Klobuchar +13.9%'''
+|-
+|colspan="3" |'''Average'''
+|{{party shading/DFL}} |'''50.1%'''
+|39.3%
+|10.6%
+|{{party shading/DFL}} |'''Klobuchar +10.8%'''
+|}
+
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br/>administered
+! Sample<br/>size{{efn|name="Key"}}
+! Margin<br/>of error
+! style="width:100px;"| Amy<br/>Klobuchar (DFL)
+! style="width:100px;"| Lisa<br/>Demuth (R)
+! Other
+! Undecided
+|-
+|style="text-align:left;"|[[Morning Consult]] (D)<ref>{{cite web |title= morning take | The Daily Agenda Poll |url= https://www.thedailyagenda.com/p/morning-take-the-daily-agenda-poll/
+|publisher=The Daily Poll|access-date=October 9th, 2026 |date=September 30, 2026}}</ref>
+|October 2–7, 2026
+|1,000 (RV)
+|±{{nbsp}}3.1%
+| {{party shading/DFL}} |'''48%'''
+|39%
+|4%
+|9%
+|-
+|style="text-align:left;"|co/efficient (R)<ref>{{cite web |title=Minnesota · U.S. Senate|url=https://battlegrounds.coefficient.org/mn/ |publisher=co/efficient |access-date=September 15, 2026 |date=September 15, 2026}}</ref>
+|September 14–15, 2026
+|833 (LV)
+|±{{nbsp}}3.4%
+| {{party shading/DFL}} |'''47%'''
+|45%
+|–
+|9%
+|-
+|style="text-align:left;"|[[KSTP-TV|KSTP]]/[[SurveyUSA]]<ref>{{cite news |last1=Skluzacek |first1=Josh |last2=Hauser |first2=Tom |title=KSTP/SurveyUSA poll: Governor, Senate races tightening days before early voting starts in Minnesota |url=https://kstp.com/kstp-news/top-news/kstp-surveyusa-poll-governor-senate-races-tightening-days-before-early-voting-starts-in-minnesota/ |access-date=16 September 2026 |publisher=KSTP |date=September 16, 2026}}</ref>
+|September 9–14, 2026
+|654 (LV)
+|±{{nbsp}}4.4%
+|{{party shading/DFL}}|'''47%'''
+|40%
+|3%{{efn|Steven Young (G) with 3%}}
+|9%
+|-
+|rowspan="2" style="text-align:left;" |[[Technometrica Institute of Policy and Politics|TIPP]] Insights (R)<ref>{{cite web |title=League of American Workers Survey — Minnesota |url=https://tippinsights.com/league-of-american-workers-survey-minnesota/ |publisher=[[Technometrica Institute of Policy and Politics|TIPP]] Insights |access-date=September 8, 2026 |date=September 8, 2026}}</ref>{{Efn-ua|Poll sponsored by the League of American Workers}}
+|rowspan="2"|August 31 – September 2, 2026
+|1,494 (RV)
+|±&nbsp;2.7%
+| {{party shading/DFL}} |'''47%'''
+|37%
+|8%{{efn|Steven Young (G) & "Someone else" with 4%}}
+|9%
+|-
+|1,201 (LV)
+|±&nbsp;3.0%
+| {{party shading/DFL}} |'''50%'''
+|40%
+|6%{{Efn|Steven Young (G) & "Someone else" with 3%}}
+|4%
+|-
+| style="text-align:left;" |[[KTSP-TV|KTSP]]/[[SurveyUSA]]<ref>{{cite web |last1=Skluzacek |first1=Josh |title=KSTP/SurveyUSA poll: Early frontrunners in governor and Senate races, AG a toss-up |date=August 18, 2026 |url=https://kstp.com/kstp-news/top-news/kstp-surveyusa-poll-early-frontrunners-in-governor-and-senate-races-ag-a-toss-up/ |access-date=August 19, 2026}}</ref>
+|August 13–17, 2026
+|661 (LV)
+|±{{nbsp}}4.3%
+| {{party shading/DFL}} |'''51%'''
+|36%
+|1%{{efn|Steve Young (G) with 1%}}
+|12%
+|-
+|- style="background:lightyellow;"
+| style="border-right-style:hidden; background:lightyellow;" |
+| style="border-right-style:hidden; " |August 11, 2026
+| colspan="7" | Primary elections are held
+|-
+|-
+|style="text-align:left;"|[[Mason-Dixon Polling & Strategy]]<ref name="StarTribJune">{{Cite web|url= https://www.startribune.com/minnesota-poll-klobuchar-leads-all-gop-candidates-for-governor/601850018 |title= Minnesota Poll: Klobuchar leads all GOP candidates for governor| first1=Walker| last1=Orenstein| first2=Sydney| last2= Kashiwagi| first3=Allison| last3=Kite| website=[[Minnesota Star Tribune]]| date=June 15, 2026| access-date= June 15, 2026}}</ref>{{efn-ua|name=Mason-Dixon|Poll sponsored by the [[University of Minnesota|Hubbard School of Journalism and Mass Communication]], ''[[KARE 11]]'', and ''[[The Minneapolis Star Tribune]]''}}
+|June 8–10, 2026
+|800 (LV)
+|±&nbsp;3.5%
+|{{party shading/DFL}} |'''48%'''
+|40%
+|–
+|12%
+|-
+|style="text-align:left;"|[[Emerson College]]<ref name="EmersonFeb2026">{{Cite web|url= https://emersoncollegepolling.com/minnesota-2026-poll-democrats-lead-gop-as-voters-cite-threats-to-democracy/ |title= Minnesota 2026 Poll: Democrats Lead GOP as Voters Cite Threats to Democracy|website=Emerson College Polling |date= February 11, 2026|access-date=February 11, 2026}}</ref>
+|February 6–8, 2026
+|1,000 (LV)
+|±&nbsp;3.0%
+|{{party shading/DFL}} |'''51%'''
+|38%
+|5%{{efn|"Someone else" with 5%}}
+|6%
+|-
+|style="text-align:left;"|[[SurveyUSA]]<ref name="KSTPFeb2026"/>{{efn-ua|name=KSTP}}
+|January 27–30, 2026
+|575 (RV)
+|±&nbsp;4.8%
+|{{party shading/DFL}} |'''49%'''
+|34%
+|–
+|17%
+|}
+
+<!-- = = = don't edit the line below = = = -->
+{{hidden begin|titlestyle=background:#cff|title=Hypothetical polling|contentstyle=border:solid 1px silver; padding:8px; background:var(--background-color-base); color:var(--color-base);}}
+<!-- = = = don't edit the line above = = = -->
+'''Amy Klobuchar vs. Peggy Bennett'''
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br/>administered
+! Sample<br/>size{{efn|name="Key"}}
+! Margin<br/>of error
+! style="width:100px;"| Amy<br/>Klobuchar (DFL)
+! style="width:100px;"| Peggy<br/>Bennett (R)
+! Undecided
+|-
+|style="text-align:left;"|[[SurveyUSA]]<ref name="KSTPFeb2026">{{Cite web|url=https://kstp.com/kstp-news/top-news/kstp-surveyusa-klobuchar-leads-all-gop-candidates-by-double-digits/|title=KSTP/SurveyUSA: Klobuchar leads all GOP candidates by double digits|first1=Tom|last1=Hauser|website=[[KSTP-TV]]|date=February 2, 2026|access-date=February 2, 2026}}</ref>{{efn-ua|name=KSTP}}
+|January 27–30, 2026
+|575 (RV)
+|±&nbsp;4.8%
+|{{party shading/DFL}} |'''50%'''
+|30%
+|20%
+|}
+
+'''Amy Klobuchar vs. Scott Jensen'''
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br/>administered
+! Sample<br/>size{{efn|name="Key"}}
+! Margin<br/>of error
+! style="width:100px;"| Amy<br/>Klobuchar (DFL)
+! style="width:100px;"| Scott<br/>Jensen (R)
+! Undecided
+|-
+|style="text-align:left;"|[[SurveyUSA]]<ref name="KSTPFeb2026"/>{{efn-ua|name=KSTP}}
+|January 27–30, 2026
+|575 (RV)
+|±&nbsp;4.8%
+|{{party shading/DFL}} |'''49%'''
+|35%
+|16%
+|}
+
+'''Amy Klobuchar vs. Jeff Johnson'''
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br/>administered
+! Sample<br/>size{{efn|name="Key"}}
+! Margin<br/>of error
+! style="width:100px;"| Amy<br/>Klobuchar (DFL)
+! style="width:100px;"| Jeff<br/>Johnson (R)
+! Undecided
+|-
+|style="text-align:left;"|[[SurveyUSA]]<ref name="KSTPFeb2026"/>{{efn-ua|name=KSTP}}
+|January 27–30, 2026
+|575 (RV)
+|±&nbsp;4.8%
+|{{party shading/DFL}} |'''50%'''
+|33%
+|17%
+|}
+
+'''Amy Klobuchar vs. Patrick Knight'''
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br/>administered
+! Sample<br/>size{{efn|name="Key"}}
+! Margin<br/>of error
+! style="width:100px;"| Amy<br/>Klobuchar (DFL)
+! style="width:100px;"| Patrick<br/>Knight (R)
+! Undecided
+|-
+|style="text-align:left;"|[[SurveyUSA]]<ref name="KSTPFeb2026"/>{{efn-ua|name=KSTP}}
+|January 27–30, 2026
+|575 (RV)
+|±&nbsp;4.8%
+|{{party shading/DFL}} |'''49%'''
+|33%
+|18%
+|}
+
+'''Amy Klobuchar vs. Brad Kohler as a Republican'''
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br/>administered
+! Sample<br/>size{{efn|name="Key"}}
+! Margin<br/>of error
+! style="width:100px;"| Amy<br/>Klobuchar (DFL)
+! style="width:100px;"| Brad<br/>Kohler (R)
+! Undecided
+|-
+|style="text-align:left;"|[[SurveyUSA]]<ref name="KSTPFeb2026"/>{{efn-ua|name=KSTP}}
+|January 27–30, 2026
+|575 (RV)
+|±&nbsp;4.8%
+|{{party shading/DFL}} |'''49%'''
+|32%
+|19%
+|}
+
+'''Amy Klobuchar vs. Mike Lindell'''
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br/>administered
+! Sample<br/>size{{efn|name="Key"}}
+! Margin<br/>of error
+! style="width:100px;"| Amy<br/>Klobuchar (DFL)
+! style="width:100px;"| Mike<br/>Lindell (R)
+! Undecided
+|-
+|style="text-align:left;"|[[Mason-Dixon Polling & Strategy]]<ref name="StarTribJune"/>{{efn-ua|name=Mason-Dixon}}
+|June 8–10, 2026
+|800 (LV)
+|±&nbsp;3.5%
+|{{party shading/DFL}} |'''53%'''
+|36%
+|11%
+|-
+|style="text-align:left;"|[[Emerson College]]<ref name="EmersonFeb2026"/>
+|February 6–8, 2026
+|1,000 (LV)
+|±&nbsp;3.0%
+|{{party shading/DFL}} |'''53%'''
+|31%
+|16%
+|-
+|style="text-align:left;"|[[SurveyUSA]]<ref name="KSTPFeb2026"/>{{efn-ua|name=KSTP}}
+|January 27–30, 2026
+|575 (RV)
+|±&nbsp;4.8%
+|{{party shading/DFL}} |'''52%'''
+|32%
+|16%
+|}
+
+'''Amy Klobuchar vs. Phil Parrish'''
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br/>administered
+! Sample<br/>size{{efn|name="Key"}}
+! Margin<br/>of error
+! style="width:100px;"| Amy<br/>Klobuchar (DFL)
+! style="width:100px;"| Phil<br/>Parrish (R)
+! Undecided
+|-
+|style="text-align:left;"|[[SurveyUSA]]<ref name="KSTPFeb2026"/>{{efn-ua|name=KSTP}}
+|January 27–30, 2026
+|575 (RV)
+|±&nbsp;4.8%
+|{{party shading/DFL}} |'''49%'''
+|32%
+|19%
+|}
+
+
+'''Amy Klobuchar vs. Kendall Qualls'''
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br/>administered
+! Sample<br/>size{{efn|name="Key"}}
+! Margin<br/>of error
+! style="width:100px;"| Amy<br/>Klobuchar (DFL)
+! style="width:100px;"| Kendall<br/>Qualls (R)
+! Undecided
+|-
+|style="text-align:left;"|[[Mason-Dixon Polling & Strategy]]<ref name="StarTribJune"/>{{efn-ua|name=Mason-Dixon}}
+|June 8–10, 2026
+|800 (LV)
+|±&nbsp;3.5%
+|{{party shading/DFL}} |'''48%'''
+|37%
+|14%
+|-
+|style="text-align:left;"|[[SurveyUSA]]<ref name="KSTPFeb2026"/>{{efn-ua|name=KSTP}}
+|January 27–30, 2026
+|575 (RV)
+|±&nbsp;4.8%
+|{{party shading/DFL}} |'''49%'''
+|33%
+|18%
+|}
+
+'''Amy Klobuchar vs. Kristin Robbins'''
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br/>administered
+! Sample<br/>size{{efn|name="Key"}}
+! Margin<br/>of error
+! style="width:100px;"| Amy<br/>Klobuchar (DFL)
+! style="width:100px;"| Kristin<br/>Robbins (R)
+! Undecided
+|-
+|style="text-align:left;"|[[SurveyUSA]]<ref name="KSTPFeb2026"/>{{efn-ua|name=KSTP}}
+|January 27–30, 2026
+|575 (RV)
+|±&nbsp;4.8%
+|{{party shading/DFL}} |'''48%'''
+|33%
+|19%
+|}
+
+'''Tim Walz vs. Scott Jensen'''
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br/>administered
+! Sample<br/>size{{efn|name="Key"}}
+! Margin<br/>of error
+! style="width:100px;"| Tim<br/>Walz (DFL)
+! style="width:100px;"| Scott<br/>Jensen (R)
+! Undecided
+|-
+|style="text-align:left;"|[[SurveyUSA]]<ref name="SUSASept2025"/>{{efn-ua|name=KSTP}}
+|September 15–18, 2025
+|568 (LV)
+|±&nbsp;4.8%
+|{{party shading/DFL}} |'''46%'''
+|41%
+|13%
+|}
+
+'''Tim Walz vs. Phil Parrish'''
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br/>administered
+! Sample<br/>size{{efn|name="Key"}}
+! Margin<br/>of error
+! style="width:100px;"| Tim<br/>Walz (DFL)
+! style="width:100px;"| Phil<br/>Parrish (R)
+! Undecided
+|-
+|style="text-align:left;"|[[SurveyUSA]]<ref name="SUSASept2025"/>{{efn-ua|name=KSTP}}
+|September 15–18, 2025
+|568 (LV)
+|±&nbsp;4.8%
+|{{party shading/DFL}} |'''49%'''
+|38%
+|13%
+|}
+
+'''Tim Walz vs. Kendall Qualls'''
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br/>administered
+! Sample<br/>size{{efn|name="Key"}}
+! Margin<br/>of error
+! style="width:100px;"| Tim<br/>Walz (DFL)
+! style="width:100px;"| Kendall<br/>Qualls (R)
+! Undecided
+|-
+|style="text-align:left;"|[[SurveyUSA]]<ref name="SUSASept2025">{{Cite web|url=https://kstp.com/kstp-news/top-news/kstp-surveyusa-poll-walz-has-net-approval-of-zero-as-he-begins-campaign-for-3rd-term/|title=KSTP/SurveyUSA poll: Walz has net approval of zero as he begins campaign for 3rd term|first1=Tom|last1=Hauser|first2=Kyle|last2=Brown|website=[[KSTP-TV]]|date=September 19, 2025|access-date=September 20, 2025}}</ref>{{efn-ua|name=KSTP|Poll sponsored by [[KSTP-TV]]}}
+|September 15–18, 2025
+|568 (LV)
+|±&nbsp;4.8%
+|{{party shading/DFL}} |'''50%'''
+|37%
+|13%
+|}
+
+'''Tim Walz vs. Kristin Robbins'''
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br/>administered
+! Sample<br/>size{{efn|name="Key"}}
+! Margin<br/>of error
+! style="width:100px;"| Tim<br/>Walz (DFL)
+! style="width:100px;"| Kristin<br/>Robbins (R)
+! Undecided
+|-
+|style="text-align:left;"|[[SurveyUSA]]<ref name="SUSASept2025"/>{{efn-ua|name=KSTP}}
+|September 15–18, 2025
+|568 (LV)
+|±&nbsp;4.8%
+|{{party shading/DFL}} |'''47%'''
+|40%
+|13%
+|}
+
+'''Tim Walz vs. Generic Republican'''
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br/>administered
+! Sample<br/>size{{efn|name="Key"}}
+! Margin<br/>of error
+! style="width:100px;"| Tim<br/>Walz (DFL)
+! style="width:100px;"| Generic<br/>Republican
+! Undecided
+|-
+|style="text-align:left;"|RMG Research<ref>{{Cite web|url=https://alphanews.org/exclusive-alpha-news-rmg-research-poll-finds-57-disapprove-of-walz-as-fraud-concerns-mount/|title=Alpha News/RMG Research poll finds 57% disapprove of Walz as fraud concerns mount|first1=Luke|last1=Sprinkel|website=Alpha News|date=December 18, 2025|access-date=January 3, 2026}}</ref>{{efn-ua|name=Alpha|Poll sponsored by ''Alpha News''}}
+|December 10–16, 2025
+|800 (RV)
+|±&nbsp;3.5%
+|40%
+|{{party shading/Republican}} |'''46%'''
+|14%
+|}
+{{hidden end}}
+
+===Results===
+{{Election box begin 
+| title = 2026 Minnesota gubernatorial election
+}}
+{{Election box candidate with party link
+| party = Minnesota Democratic–Farmer–Labor Party
+| candidate = {{ubl|[[Amy Klobuchar]]|Ben Schierer}}
+| votes = 
+| percentage = 
+| change = }}
+{{Election box candidate with party link
+| party = Republican Party of Minnesota
+| candidate = {{ubl|[[Lisa Demuth]]|Ryan Wilson}}
+| votes = 
+| percentage = 
+| change = }}
+{{Election box candidate with party link
+| party = Green Party of Minnesota
+| candidate = {{ubl|Steven Young|Jane Kirby}}
+| votes = 
+| percentage = 
+| change = }}
+{{Election box write-in with party link
+| votes =
+| percentage =
+| change =
+}}
+{{Election box total
+| votes =
+| percentage = 100.0
+| change = 
+}}
+{{Election box end}}
+
+== See also ==
+*[[2026 Minnesota elections]]
+*[[2026 United States gubernatorial elections]]
+*[[Electoral history of Amy Klobuchar]]
+
+== Notes ==
+{{notelist}}
+'''Partisan clients'''<br/>
+{{notelist-ua}}
+
+== References ==
+{{reflist}}
+
+== External links ==
+;Official campaign websites
+*[https://theresidentsolution.mn/index.html Tom Berhane (I)]
+*[https://lisaformn.com/ Lisa Demuth (R)]
+*[https://www.zacforgovernor.com/ Zac Harding (I)]
+*[https://www.amyklobuchar.com/ Amy Klobuchar (D)]
+*[https://www.bradkohler.com/ Brad Kohler (I)]
+*[https://moderatemajorityofmn.org/ Steve Patterson (I)]
+*[https://steveformngov.info/ Steve Young (G)]
+
+{{Elections in Minnesota footer}}
+{{2026 United States elections}}
+{{Tim Walz}}
+
+[[Category:2026 Minnesota elections|Gubernatorial]]
+[[Category:2026 United States gubernatorial elections|Minnesota]]
+[[Category:Amy Klobuchar]]
+[[Category:Jesse Ventura]]
+[[Category:Minnesota gubernatorial elections]]
+[[Category:Tim Walz]]
+[[Category:Mike Lindell]]

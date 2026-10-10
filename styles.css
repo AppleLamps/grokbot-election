@@ -219,14 +219,19 @@ tbody tr:hover { background: #f8fafc; }
 .scroll-hint { display: none; font-size: .85rem; font-weight: 600; color: var(--accent-ink); margin: 0 0 var(--s2); }
 .chart-svg text { paint-order: stroke; stroke: rgba(255,255,255,.85); stroke-width: 3px; stroke-linejoin: round; }
 
-.race-table { table-layout: fixed; min-width: 960px; }
+.race-table { table-layout: fixed; min-width: 1040px; }
 .race-table col.c-state { width: 14.5%; }
 .race-table col.c-held { width: 5.5%; }
 .race-table col.c-cand { width: 19.5%; }
 .race-table col.c-poll { width: 12%; }
 .race-table col.c-margin { width: 10%; }
 .race-table col.c-p { width: 9.5%; }
-.race-table col.c-tip { width: 10%; }
+.race-table col.c-tip { width: 8%; }
+.race-table col.c-mkt { width: 9%; }
+.gov-table col.c-cand { width: 24%; }
+.gov-table thead th > span { display: inline-block; text-align: right; }
+.gov-table thead th > span small { display: block; font-size: .92em; letter-spacing: .03em; }
+.gov-summary { font-size: 1.05rem; margin: var(--s3) 0; max-width: 90ch; }
 .race-table thead th { white-space: normal; line-height: 1.25; vertical-align: bottom; padding-top: .7rem; padding-bottom: .7rem; }
 .race-table th button { all: unset; cursor: pointer; display: inline-flex; align-items: flex-end; gap: .3rem; border-radius: 4px; }
 .race-table th button > span small { display: block; font-size: .92em; letter-spacing: .03em; }

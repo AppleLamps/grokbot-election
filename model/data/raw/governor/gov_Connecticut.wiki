@@ -1,0 +1,611 @@
+{{Short description|none}}
+{{Infobox election
+| election_name = 2026 Connecticut gubernatorial election
+| country = Connecticut
+| type = presidential
+| ongoing = no
+| previous_election = 2022 Connecticut gubernatorial election
+| previous_year = 2022
+| turnout = 
+| election_date = {{Start date|2026|11|4}}
+| next_election = 2030 Connecticut gubernatorial election
+| next_year = 2030
+| image1 = File:Governor Ned Lamont of Connecticut, official portrait (cropped).jpg
+| image_size = 150x150px
+| nominee1 = [[Ned Lamont]]
+| party1 = Democratic Party (United States)
+| alliance1 = [[Working Families Party|Working Families]]
+| running_mate1 = [[Susan Bysiewicz]]
+| popular_vote1 = 
+| percentage1 = 
+| image2 = Ryan Fazio, 2026 (cropped).jpg
+| nominee2 = [[Ryan Fazio]]
+| running_mate2 = Mathew Corey
+| party2 = Republican Party (United States)
+| alliance2 = [[Independent Party of Connecticut|Independent]]
+| popular_vote2 = 
+| percentage2 = 
+| map = 
+| map_caption = 
+| title = [[Governor of Connecticut|Governor]]
+| before_election = [[Ned Lamont]]
+| before_party = Democratic Party (United States)
+| after_election = 
+| after_party = 
+}}{{For|related races|2026 United States gubernatorial elections}}
+{{Elections in Connecticut}}
+The '''2026 Connecticut gubernatorial election''' will take place on November 3, 2026, to elect the [[governor of Connecticut]]. Primary elections took place on August 11, 2026.<ref>{{Cite web|date=May 9, 2025 |title=2026 State Primary Election Dates |url=https://www.ncsl.org/elections-and-campaigns/2026-state-primary-election-dates|website= NCSL |access-date=5 August 2025}}</ref>
+
+Incumbent [[Democratic Party (United States)|Democratic]] governor [[Ned Lamont]] is running for a third term, winning the Democratic nomination in August 2026.<ref name=":1">{{Cite news |last=Vigdor |first=Neil |date=2026-08-12 |title=Ned Lamont Wins the Democratic Primary for Connecticut Governor |url=https://www.nytimes.com/2026/08/11/us/politics/connecticut-primary-governor-lamont-elliott.html |access-date=2026-08-12 |work=The New York Times |language=en-US |issn=0362-4331}}</ref> Lamont is one of the most popular governors in the United States, with a 63% approval rating as of October 2025, according to [[Morning Consult]];<ref>{{Cite web |title=U.S. Governor Approval Rating Tracker |url=https://pro.morningconsult.com/trackers/governor-approval-ratings |access-date=2025-11-15 |website=Morning Consult Pro |language=en}}</ref> however, a [[University of New Hampshire]] poll from May 2025 found that 44% of Connecticut voters believe he should not run for a third term.<ref>{{Cite web |last=Craven |first=John |date=June 5, 2025 |title=Gov. Lamont 'seriously' considering running for a rare third term |url=https://connecticut.news12.com/gov-lamont-seriously-considering-running-for-a-rare-third-term |website=News 12 Connecticut}}</ref> [[Connecticut House of Representatives|State representative]] [[Josh Elliott (politician)|Josh Elliott]] challenged Lamont in the primary as a [[Progressivism in the United States|progressive]].<ref>{{Cite news |last=Putterman |first=Alex |title=State Rep. Josh Elliott announces campaign for governor, promising to tax CT's wealthy |url=https://www.ctinsider.com/politics/article/ct-josh-elliott-governor-lamont-primary-challenge-20768829.php |archive-url=https://web.archive.org/web/20260206022833/https://www.ctinsider.com/politics/article/ct-josh-elliott-governor-lamont-primary-challenge-20768829.php |archive-date=2026-02-06 |access-date=2026-02-06 |work=CT Insider |language=en}}</ref>
+{{toclimit|4}}
+
+==Democratic primary==
+While incumbent [[List of governors of Connecticut|governor]] [[Ned Lamont]] initially had expressed doubts about running for a third term,<ref>{{Cite news |last=Haar |first=Dan |title=Dan Haar: Will he run? Lamont interview reveals doubts about a third term for Connecticut governor |url=https://www.ctinsider.com/politics/article/ct-gov-ned-lamont-third-term-20243961.php |archive-url=https://web.archive.org/web/20250701001417/https://www.ctinsider.com/politics/article/ct-gov-ned-lamont-third-term-20243961.php |archive-date=2025-07-01 |access-date=2025-11-15 |work=CT Insider |language=en}}</ref> he announced that he would run for re-election in November 2025.<ref>{{Cite web |last=Pazniokas |first=Mark |date=2025-11-14 |title=Today, the curtain goes up on Ned Lamont's bid for a third term |url=https://ctmirror.org/2025/11/14/gov-lamont-reelection-third-term-announcement/ |access-date=2025-11-15 |website=CT Mirror |language=en-US}}</ref> [[Connecticut House of Representatives|State representative]] [[Josh Elliott (politician)|Josh Elliott]] had already launched a bid to primary Lamont, believing that Connecticut needed a more [[Progressivism in the United States|progressive]] leader.<ref>{{Cite news |last=Craven |first=John |date=2025-07-14 |title=Democrat Josh Elliott launches bid for governor, promising big shift from Lamont |url=https://connecticut.news12.com/2025/07/14/democrat-josh-elliott-launches-bid-for-governor-promising-big-shift-from/4fXhwKnBB4lof6pdqcoKJs |url-status=live |archive-url=https://web.archive.org/web/20260518211332/https://connecticut.news12.com/2025/07/14/democrat-josh-elliott-launches-bid-for-governor-promising-big-shift-from/4fXhwKnBB4lof6pdqcoKJs |archive-date=2026-05-18 |access-date=2026-05-18 |work=News 12 Connecticut}}</ref>
+
+At the Democratic State Convention on May 16, 2026, at [[The Bushnell Center for the Performing Arts|The Bushnell]] in [[Hartford, Connecticut|Hartford]], Lamont defeated Elliott for the [[Democratic Party of Connecticut|state party]] endorsement, 1,468 votes (74.6%) to 501 (25.4%). However, Elliott surpassed the 15% of delegates needed to get on the ballot for the primary, which took place on August 11;<ref>{{Cite web |last=Brown |first=Andrew |date=2026-05-16 |title=CT Dems endorse Lamont for 3rd term, but he faces primary |url=https://ctmirror.org/2026/05/16/lamont-clinches-ct-democratic-party-endorsement-but-will-face-primary/ |access-date=2026-05-18 |website=CT Mirror |language=en-US}}</ref> Lamont was the first incumbent governor to face a primary since [[Ella Grasso]] in [[1978 Connecticut gubernatorial election|1978]].
+
+Lamont would go on to win the primary, and the party's endorsement.<ref name=":1" />
+
+===Governor===
+====Candidates====
+=====Nominee=====
+*[[Ned Lamont]], incumbent governor (2019–present)<ref>{{cite news |author=Mike Cerulli |title=Ned Lamont to run for third term as Connecticut governor in 2026 |url=https://www.wtnh.com/news/elections/ned-lamont-to-run-for-third-term-as-connecticut-governor-in-2026-sources/ |work=[[WTNH]] |date=November 7, 2025}}</ref>
+=====Eliminated in primary=====
+*[[Josh Elliott (politician)|Josh Elliott]], [[Connecticut House of Representatives|state representative]] from [[Connecticut's 88th House of Representatives district|HD-88]] (2017–present)<ref>{{cite news |work=CT Insider |access-date=July 14, 2025 |url=https://www.ctinsider.com/politics/article/ct-josh-elliott-governor-lamont-primary-challenge-20768829.php |author=Putterman, Alex |date=July 14, 2025 |title=State Rep. Josh Elliott announces campaign for governor, promising to tax CT's wealthy}}</ref>
+
+=====Declined=====
+*[[Luke Bronin]], former [[Mayor of Hartford, Connecticut|mayor of Hartford]] (2016–2024) ''([[2026 United States House of Representatives elections in Connecticut#District 1|running for U.S. House]])''<ref>{{cite news |last1=Putterman |first1=Alex |title=Former Hartford mayor Luke Bronin to run for Congress, challenging Larson |url=https://www.stamfordadvocate.com/politics/article/luke-bronin-john-larson-congress-primary-20791634.php |access-date=July 30, 2025 |work=[[Stamford Advocate]] |date=July 30, 2025}}</ref>
+*[[Susan Bysiewicz]], incumbent [[List of lieutenant governors of Connecticut|lieutenant governor]] (2019–present) (''running for re-election'')<ref name=":0" />
+*[[William Tong]], incumbent [[Connecticut Attorney General|attorney general]] (2019–present) (''[[2026 Connecticut Attorney General election|running for re-election]]'')<ref>{{Cite web |last=Dennis |first=House |date=2025-01-19 |title=Connecticut Attorney General William Tong plans third term run, thinks Gov. Ned Lamont should seek reelection |url=https://www.wtnh.com/on-air/thisweekinconnecticut/connecticut-attorney-general-william-tong-plans-third-term-run-thinks-gov-ned-lamont-should-seek-reelection/ |access-date=2026-05-18 |website=WTNH (channel 8)}}</ref>
+*[[Sean Scanlon (politician)|Sean Scanlon]], incumbent [[Connecticut State Comptroller|comptroller]] (2023–present) (''running for re-election'')<ref>{{Cite web |last=Krechevsky |first=David |date=2026-01-27 |title=CT Comptroller Sean Scanlon announces re-election bid |url=https://hartfordbusiness.com/article/ct-comptroller-sean-scanlon-announces-re-election-bid/ |access-date=2026-05-18 |website=Hartford Business Journal |language=en-US}}</ref>
+
+====Endorsements====
+{{Endorsements box
+| title = Ned Lamont
+| colwidth = 60
+| list =
+;U.S. senators
+*[[Richard Blumenthal]], [[Connecticut]] (2011–present)<ref name="For">{{cite news |last1=Stewart |first1=Doug |title=Blumenthal, Murphy endorse Lamont re-election |url=https://www.fox61.com/article/news/politics/blumenthal-murphy-endorse-lamont-reelection/520-3ad03ff0-2387-4f3e-9de4-8b5f94082447 |access-date=March 13, 2026 |work=[[FOX61]] |date=March 12, 2026}}</ref>
+*[[Chris Murphy]], [[Connecticut]] (2013–present)<ref name="For"/>
+
+;U.S. representatives
+*[[Joe Courtney (politician)|Joe Courtney]], [[CT-02]] (2007–present)<ref name="Full"/>
+*[[Rosa DeLauro]], [[CT-03]] (1991–present)<ref name="Full"/>
+*[[Jahana Hayes]], [[CT-05]] (2019–present)<ref name="Full"/>
+*[[Jim Himes]], [[CT-04]] (2009–present)<ref name="Full"/>
+*[[John B. Larson|John Larson]], [[CT-01]] (1999–present)<ref name="Full">{{cite web |title=Gov. Ned Lamont wins full endorsement from CT's U.S. House delegation with focus on affordability |url=https://www.courant.com/2025/11/22/gov-ned-lamont-wins-full-endorsement-from-cts-u-s-house-delegation-with-focus-on-affordability/ |website=Hartford Courant |access-date=4 January 2026 |url-status=live |archive-url=https://web.archive.org/web/20251122173949/https://www.courant.com/2025/11/22/gov-ned-lamont-wins-full-endorsement-from-cts-u-s-house-delegation-with-focus-on-affordability/ |archive-date=22 November 2025|date=22 November 2025}}</ref>
+
+;Statewide officials
+*[[Erick Russell]], [[treasurer of Connecticut]] (2023–present)<ref name="DPC1"/>
+*[[Sean Scanlon (politician)|Sean Scanlon]], [[Connecticut State Comptroller|Connecticut comptroller]] (2023–present)<ref name="DPC1"/>
+*[[William Tong]], [[attorney general of Connecticut]] (2019–present)<ref name="DPC1"/>
+
+;State legislators
+*22 state senators<ref name="CTInsiderEndorseList">{{cite web |last1=Putterman |first1=Alex |title=Who has endorsed candidates in Connecticut governor's race |url=https://www.ctinsider.com/politics/article/connecticut-governor-lamont-elliott-fazio-stewart-21260778.php |website=CT Insider |access-date=May 27, 2026 |language=en |date=May 15, 2026}}</ref>
+*71 state representatives<ref name="CTInsiderEndorseList"/>
+
+;Local officials
+*[[Arunan Arulampalam]], [[mayor of Hartford, Connecticut|mayor of Hartford]] (2024–present)<ref name="CTInsiderEndorseList"/>
+*[[Justin Elicker]], [[List of mayors of New Haven, Connecticut|mayor of New Haven]] (2020–present)<ref name="whohas">{{cite web |url=https://www.ctinsider.com/politics/article/connecticut-governor-lamont-elliott-fazio-stewart-21260778.php |title=Who has endorsed candidates in Connecticut governor's race |website=Connecticut Insider |date=5 January 2026 |access-date=May 14, 2026}}</ref>
+*[[Joe Ganim]], [[List of mayors of Bridgeport, Connecticut|mayor of Bridgeport]] (1991–2003, 2015–present)<ref name="CTInsiderEndorseList"/>
+*[[Caroline Simmons]], [[mayor of Stamford, Connecticut|mayor of Stamford]] (2021–present)<ref name="CTInsiderEndorseList"/>
+
+;Individuals
+*[[Al Sharpton]], civil rights activist<ref>{{cite web |title= Rev. Al Sharpton endorses CT Gov. Ned Lamont for a third term |url= https://www.ctinsider.com/politics/article/rev-al-sharpton-endorses-ct-gov-ned-lamont-22155179.php |website=Connecticut Insider |date= 28 March 2026 |access-date=28 March 2026}}</ref>
+
+;Labor unions
+*Connecticut [[United Brotherhood of Carpenters and Joiners of America|Carpenters]]<ref name=Team/>
+*Connecticut [[Laborers' International Union of North America|District Laborers' Council]]<ref name=Team/>
+*Connecticut State [[North America's Building Trades Unions|Building Trades Unions]]<ref name="whohas"/>
+*Connecticut [[Teamsters]]<ref name="DPC1"/>
+*[[Teamsters]] Local 1150<ref name=Team>{{cite web |title= Teamsters Endorse Lamont |url= https://www.newhavenindependent.org/2026/05/08/teamsters-endorse-lamont/|website=New Haven Independent|date= 8 May 2026|access-date=10 May 2026}} </ref>
+*[[UNITE HERE]] Local 217<ref name="L217">{{cite web |last1=Shirnekhi |first1=Dereen |title=Local 217 Endorses Lamont |url=https://www.newhavenindependent.org/2026/05/13/local-217-endorses-lamont/ |website=New Haven Independent |access-date=14 May 2026 |date=13 May 2026}}</ref>
+*4 other local [[Teamsters]] unions<ref name=Team/>
+
+;Organizations
+*[[College Democrats of America|College Democrats]] of Connecticut<ref>{{cite web |title = College Democrats of Connecticut |url=https://www.facebook.com/share/r/16xxwBMFwW/ |website=Facebook |publisher=College Democrats of Connecticut |access-date=3 February 2026}}</ref>
+*[[Giffords]]<ref>{{cite web |title=Ned Lamont |url=https://giffords.org/candidates/ned-lamont-2/ |website=giffords.org |date=April 6, 2026}}</ref>
+
+;Political parties
+*[[Democratic Party of Connecticut]]<ref name="DPC1">{{cite web |title=Key endorsements help Connecticut governor earn Democratic nomination for 3rd term |url=https://www.fox61.com/article/news/politics/key-endorsements-help-connecticut-governor-land-democratic-nomination-for-3rd-term/520-272c4926-05b4-4b0d-86a9-697712e980b6 |website=FOX61 |access-date=17 May 2026 |date=16 May 2026}}</ref>
+}}
+{{Endorsements box
+| title = Josh Elliott
+| list =
+;State legislators
+*[[Saud Anwar]], [[Connecticut's 3rd State Senate district|SD-03]] (2019–present)<ref>{{cite web|last=Udoma|first=Ebong|url=https://www.wshu.org/connecticut-news/2025-07-10/ct-primary-challenge-ned-lamont-saud-anwar|title=CT senator backs potential primary challenge to Gov. Lamont|work=[[WSHU-FM]]|date=July 10, 2025|access-date=July 13, 2025}}</ref>
+*6 state representatives{{Efn|
+*[[Jason Doucette]], [[Connecticut's 13th House of Representatives district|HD-13]] (2019–present)<ref name="whohas"/>
+*[[Nick Gauthier]], [[Connecticut's 38th House of Representatives district|HD-38]] (2025–present)<ref name="whohas"/>
+*[[Jillian Gilchrest]], [[Connecticut's 18th House of Representatives district|HD-18]] (2019–present)<ref name="whohas"/>
+*[[Anne Hughes (politician)|Anne Hughes]], [[Connecticut's 135th House of Representatives district|HD-135]] (2019–present)<ref name="CTInsiderEndorseList"/>
+*[[Laurie Sweet]], [[Connecticut's 91st House of Representatives district|HD-91]] (2025–present)<ref name="CTInsiderEndorseList"/>
+*[[Steven Winter (Connecticut politician)|Steven Winter]], [[Connecticut's 94th House of Representatives district|HD-94]] (2025–present)<ref>{{cite web |url=https://www.newhavenindependent.org/2026/05/14/winter-endorses-elliott-ward-3-dems-back-sabin/ |title=Winter Endorses Elliott; Ward 3 Dems Back Sabin|website=New Haven Independent|date=14 May 2026 |access-date=May 14, 2026}}</ref>}}
+
+;Labor unions
+*[[SEIU]] Local 1973<ref>{{cite web|last=Polansky|first=Chris|url=https://www.ctpublic.org/news/2026-06-24/elliott-touts-first-union-endorsement-in-challenge-to-lamont-in-primary-for-ct-governor|title=Elliott touts first union endorsement in challenge to Lamont in primary for CT governor|work=[[Connecticut Public Broadcasting]]|date=June 24, 2026|access-date=July 10, 2026}}</ref>
+*New Haven [[American Federation of Teachers|Federation of Teachers]]<ref>{{cite web|url= https://www.newhavenindependent.org/2026/07/28/teachers-union-endorses-elliott/?fbclid=PAVERFWATWKm5wZG9mAmV4dG4DYWVtAjExAHNydGMGYXBwX2lkDzEyNDAyNDU3NDI4NzQxNAABp2gj1fmanFghL-pXeKodVmOI9rX74I98WJGU6EmKJKSy5KOKPWZY8TrfDOtF_aem_Tiix38gve9uMZ4Mjs9XbbQ|title= Teachers Union Endorses Elliott|website=New Haven Independent|date= 28 July 2026|access-date=July 28, 2026}}</ref>
+
+;Organizations
+*[[50501 movement]]<ref>{{cite web | title=Instagram | url=https://www.instagram.com/p/DbwHB2hEk9f/ }}</ref>
+*Good Trouble-[[Indivisible (organization)|Indivisible]] Norwalk<ref>{{cite web | title=Good Trouble-Indivisible Norwalk endorses Elliott, Gilchrest, Hayes ahead of primary &#124; Nancy on Norwalk | date=31 July 2026 | url=https://www.nancyonnorwalk.com/good-trouble-indivisible-norwalk-endorses-elliott-gilchrest-hayes-ahead-of-primary/ }}</ref>
+*[[Sunrise Movement|Sunrise]] New Haven<ref>{{cite web
+|last=Putterman
+|first=Alex
+|url=https://www.ctinsider.com/politics/article/connecticut-governor-lamont-elliott-fazio-stewart-21260778.php
+|title=Who has endorsed candidates in Connecticut governor's race
+|website=CT Insider
+|date=July 27, 2026
+|access-date=July 29, 2026
+}}</ref>
+}}
+
+====Polling====
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- style="vertical-align:bottom"
+! Poll source
+! Date(s)<br>administered
+! Sample<br>size{{efn|name="Key"|Key:<br />A – all adults<br />RV – registered voters<br />LV – likely voters<br />V – unclear}}
+! Margin<br>of error
+! style="width:75px;" |Ned<br/>Lamont
+! style="width:75px;" |Josh<br/>Elliott
+! Other
+! Undecided
+|-
+|style="text-align:left;"|[[Sacred Heart University]]/[[WFSB]]/[[CT Insider]]<ref>{{cite news |last1=Staff |first1=WFSB |title=EXCLUSIVE POLL: How voters feel about the candidates in Connecticut's race for governor |url=https://www.wfsb.com/2026/08/03/exclusive-poll-how-voters-feel-about-candidates-connecticuts-race-governor/ |access-date=3 August 2026 |agency=WFSB |date=August 3, 2026}}</ref>
+|July 21–26, 2026
+|374 (LV)
+|±&nbsp;3.1%
+|{{party shading/Democratic}}|'''57%'''
+|22%
+|1%{{Efn|"Prefer not to answer" with 1%}}
+|20%
+|-
+| style="text-align: left;" |[[Change Research]] (D)<ref>{{Cite web |last=Pazniokas |first=Mark |date=July 29, 2026 |title=Lamont leads Elliott by 21 points in tightening primary race |url=https://ctmirror.org/2026/07/29/governor-ct-poll-lamont-elliott/ |access-date=July 29, 2026 |website=CT Mirror}}</ref>{{efn-ua|Poll sponsored by Impact CT}}
+|July 23–26, 2026
+|859 (LV)
+|±&nbsp;3.4%
+|{{Party shading/Democratic}}|'''48%'''
+|27%
+|1%{{efn|"Would not vote" with 1%}}
+|24%
+|-
+|style="text-align:left;"|[[University of New Hampshire]]<ref name=UNHJune>{{cite web|url=https://scholars.unh.edu/cgi/viewcontent.cgi?article=1971&context=survey_center_polls|title=Lamont Remains Favorite in CT DEM Gubernatorial Primary, Leads Fazio in General Election Matchup|first1=Sean P.|last1=McKinley|first2=Andrew E.|last2=Smith|first3=Zachary S.|last3=Azem|first4=Tracy|last4=Keirns|website=[[University of New Hampshire]]|date=June 30, 2026|access-date=June 30, 2026}}</ref>
+|June 18–23, 2026
+|286 (LV)
+|±&nbsp;5.8%
+|{{Party shading/Democratic}}|'''53%'''
+|23%
+|1%{{efn|"Write in Someone Else" with 1%}}
+|24%
+|-
+|style="text-align:left;"|[[Change Research]] (D)<ref>{{cite news |last=Haar |first=Dan |title=Ned Lamont well ahead of Josh Elliott in new CT governor poll, but young voters key |url=https://www.ctinsider.com/news/article/lamont-elliott-poll-impact-ct-22288838.php |work=[[CT Insider]] |date=June 4, 2026 |access-date=June 4, 2026}}</ref>{{efn-ua|Poll sponsored by Impact CT}}
+|May 28–29, 2026
+|887 (LV)
+|±&nbsp;3.4%
+|{{Party shading/Democratic}}|'''58%'''
+|20%
+|–
+|22%
+|-
+|style="text-align:left;"|[[University of New Hampshire]]<ref>{{cite web|url=https://scholars.unh.edu/cgi/viewcontent.cgi?article=1946&context=survey_center_polls|title=Lamont Maintains Lead in Dem Primary for Governor; Connecticut Residents Favor Proposed Election Law Changes|first1=Sean P.|last1=McKinley|first2=Andrew E.|last2=Smith|first3=Zachary S.|last3=Azem|first4=Tracy|last4=Keirns|website=[[University of New Hampshire]]|date=April 23, 2026|access-date=April 23, 2026}}</ref>
+|April 16–20, 2026
+|177 (LV)
+|±&nbsp;7.3%
+|{{Party shading/Democratic}}|'''52%'''
+|18%
+|–
+|30%
+|-
+|style="text-align:left;"|[[University of New Hampshire]]<ref>{{cite web|url=https://scholars.unh.edu/cgi/viewcontent.cgi?article=1932&context=survey_center_polls|title=Lamont Frontrunner in Nomination for CT Governor, State of State Proposals Popular With Residents|first1=Sean P.|last1=McKinley|first2=Andrew E.|last2=Smith|first3=Zachary S.|last3=Azem|first4=Tracy|last4=Keirns|website=[[University of New Hampshire]]|date=February 24, 2026|access-date=February 24, 2026}}</ref>
+|February 12–16, 2026
+|174 (LV)
+|±&nbsp;7.4%
+|{{Party shading/Democratic}}|'''57%'''
+|13%
+|1%{{efn|"Another candidate" with 1%}}
+|29%
+|-
+|style="text-align:left;"|[[University of New Hampshire]]<ref name="UNHNOV">{{cite web |title=Lamont Popular Among Likely Dem Primary Voters, Enjoys Large Lead Over Elliott for Nomination |url=https://scholars.unh.edu/cgi/viewcontent.cgi?article=1912&context=survey_center_polls |first1=Sean P. |last1=McKinley |first2=Andrew E. |last2=Smith |first3=Zachary S. |last3=Azem |first4=Tracy |last4=Keirns |website=[[University of New Hampshire]] |access-date=24 November 2025 |date=24 November 2025}}</ref>
+|November 13–17, 2025
+|235 (LV)
+|±&nbsp;6.4%
+|{{Party shading/Democratic}}|'''55%'''
+|7%
+|2%{{efn|'Write in someone else' with 2%}}
+|37%
+|}
+
+====Convention====
+{{Election box begin no change|title=May 16, 2026 Democratic convention results<ref>{{Cite news |title=Lamont clinches CT Democratic party endorsement, but will face primary |url=https://ctmirror.org/2026/05/16/lamont-clinches-ct-democratic-party-endorsement-but-will-face-primary/ |website=CT Mirror |author=Andrew Brown |date=May 16, 2026}}</ref>}}
+{{Election box winning candidate with party link no change|party=Democratic Party (US)|candidate=[[Ned Lamont]] (incumbent)|votes=1,468|percentage=74.6}}
+{{Election box candidate with party link no change|party=Democratic Party (US)|candidate=[[Josh Elliott (politician)|Josh Elliott]]|votes=501|percentage=25.4}}
+{{Election box total no change|votes=1,969|percentage=100.0%}}
+{{Election box end}}
+
+====Results====
+{{Election box begin no change|title=Democratic primary results}}
+{{Election box winning candidate with party link no change|party=Democratic Party (US)|candidate=[[Ned Lamont]] (incumbent)|votes=126,497|percentage=67.9}}
+{{Election box candidate with party link no change|party=Democratic Party (US)|candidate=[[Josh Elliott (politician)|Josh Elliott]]|votes=59,849|percentage=32.1}}
+{{Election box total no change|votes=186,346|percentage=100.0}}
+{{Election box end}}
+
+===Lieutenant governor===
+====Candidates====
+=====Nominee=====
+*[[Susan Bysiewicz]], incumbent [[List of lieutenant governors of Connecticut|lieutenant governor]] (2019–present)<ref name=":0">{{cite web |last1=Eng |first1=Donald |title=Lamont Confirms Run For Third Term — 'Susan And I Are Ready To Go' |url=https://ctnewsjunkie.com/2025/11/07/lamont-confirms-run-for-third-term-susan-and-i-are-ready-to-go/ |website=CT News Junkie |access-date=1 February 2026 |date=7 November 2025}}</ref>
+
+====Endorsements====
+{{Endorsements box
+|title=Susan Bysiewicz
+|list=
+;Labor unions
+*[[Teamsters]] Local 1150<ref name=Team/>
+*[[UNITE HERE]] Local 217<ref name="L217"/>
+*4 other [[Teamsters]] unions<ref name=Team/>
+
+;Organizations
+*[[EMILYs List]]<ref>{{cite web |url=https://emilyslist.org/news/emilys-list-endorses-five-democratic-women-for-lieutenant-governor-in-key-democratic-holds/ |title=EMILYs List Endorses Five Democratic Women for Lieutenant Governor in Key Democratic Holds |website=emilyslist.org |date=October 7, 2026 |access-date=October 7, 2026}}</ref>
+}}
+
+==Republican primary==
+===Governor===
+At the Republican State Convention on May 16, 2026, at Mohegan Sun in Uncasville, state Sen. [[Ryan Fazio]] (R-[[Greenwich, Connecticut|Greenwich]]) won the party's endorsement with approximately 92% of delegate votes on the first ballot. Former New York Lt. Gov. [[Betsy McCaughey]] received about 8% of the vote, falling well short of the 15% threshold needed to force an August primary, and quickly endorsed Fazio.<ref>{{Cite web |last=Pazniokas |first=Mark |date=2026-05-16 |title=Ryan Fazio wins the CT GOP nomination for governor |url=https://ctmirror.org/2026/05/16/ryan-fazio-wins-the-ct-gop-nomination-for-governor/ |access-date=2026-05-17 |website=CT Mirror |language=en-US}}</ref>
+
+In the following months before the convention, [[Erin Stewart]], the former mayor of [[New Britain, Connecticut|New Britain]], was seen as the frontrunner in a tight race with Fazio. Just a day before the May 15th convention, Stewart suspended her campaign amid reports of alleged misuse of a New Britain city credit card for over $200,000 in personal expenses. Stewart subsequently endorsed Fazio.<ref>{{Cite web |last=Pazniokas |first=Mark |date=2026-05-16 |title=Ryan Fazio wins the CT GOP nomination for governor |url=https://ctmirror.org/2026/05/16/ryan-fazio-wins-the-ct-gop-nomination-for-governor/ |access-date=2026-05-17 |website=CT Mirror |language=en-US}}</ref>
+
+====Candidates====
+=====Nominee=====
+*[[Ryan Fazio]], [[Connecticut State Senate|state senator]] from the [[Connecticut's 36th State Senate district|36th district]] (2021–present)<ref>{{cite news |last=Cerulli |first=Mike |title=State Sen. Ryan Fazio launches campaign for Connecticut governor |url=https://www.wtnh.com/news/elections/state-sen-ryan-fazio-launches-campaign-for-connecticut-governor/ |work=[[WTNH]] |date=August 13, 2025}}</ref>
+
+=====Eliminated at convention=====
+*[[Betsy McCaughey]], former [[lieutenant governor of New York]] (1995–1998) and candidate for [[governor of New York]] in [[1998 New York gubernatorial election|1998]] ''(endorsed Fazio)''<ref>{{cite news |title=Betsy McCaughey fails to reach threshold for ballot access and ends campaign |url=https://www.ctinsider.com/politics/article/betsy-mccaughey-endorses-ryan-fazio-ct-gop-21324567.php |work=[[CT Insider]] |date=May 16, 2026}}</ref>
+
+=====Withdrawn=====
+*Jennifer Tooker, former [[Select_board#First_selectman|first selectwoman]] of [[Westport, Connecticut|Westport]] (2021–2025)<ref>{{cite news |last1=Gurciullo |first1=Brianna |title=Westport First Selectwoman Jennifer Tooker, a Republican, drops out of the race for CT governor |url=https://www.stamfordadvocate.com/politics/article/westport-selectwoman-jennifer-tooker-governor-race-21069085.php |access-date=September 26, 2025 |work=Stamford Advocate |date=September 26, 2025}}</ref> ''(running for state comptroller)''<ref>{{Cite web |title=Jen Tooker seeks GOP nomination for state comptroller |url=https://longisland.news12.com/jen-tooker-seeks-republican-nomination-for-comptroller |access-date=February 3, 2026 |date=January 30, 2026 |website=News 12 |author=Knapton, Emily}}</ref>
+*[[Erin Stewart]], former [[Mayor of New Britain, Connecticut|mayor of New Britain]] (2013–2025) and candidate for [[List of lieutenant governors of Connecticut|lieutenant governor]] in [[2018 Connecticut gubernatorial election|2018]] ''(endorsed Fazio)''<ref>{{cite news |last1=Pazniokas |first1=Mark |title=Erin Stewart kicks off campaign for CT governor |url=https://ctmirror.org/2025/11/18/erin-stewart-kicks-off-campaign-for-ct-governor/ |access-date=November 18, 2025 |work=[[The Connecticut Mirror]] |date=November 18, 2025 |language=en}}</ref><ref>{{cite news|last1=Pazniokas|first1=Mark|title= Erin Stewart, accused of fraud as mayor, suspends campaign for governor |url=https://ctmirror.org/2026/05/14/erin-stewart-accused-of-fraud-in-new-britain-investigative-report/|access-date=May 14, 2026 |work=[[The Connecticut Mirror]] |date=May 14, 2026 |language=en}}</ref>
+
+=====Declined=====
+*Matthew Corey, bar owner and perennial candidate ''(running for lieutenant governor)''<ref name="MatthewCorey">{{cite news |last1=Keating |first1=Christopher |title=Will CT Gov. Lamont run again? Here's what he said |url=https://www.courant.com/2025/06/05/pinned-down-on-whether-hell-seek-a-third-term-ct-gov-lamont-leans-toward-yes/ |access-date=June 8, 2025 |work=Hartford Courant |date=June 5, 2025}}</ref>
+*[[Robert Sampson (politician)|Rob Sampson]], [[Connecticut State Senate|state senator]] from the [[Connecticut's 16th State Senate district|16th district]] (2019–present) ''(endorsed Fazio)''<ref name=sampson>{{Cite news |work=[[CT Insider]] |access-date=June 27, 2025 |author=Haar, Dan |title=Dan Haar: Sen. Ryan Fazio, a rising Republican from Greenwich, weighing a run for Governor |date=June 25, 2025 |url=https://www.ctinsider.com/politics/article/ryan-fazio-republican-governor-election-2026-20392336.php |language=en}}</ref>
+
+====Endorsements====
+{{Endorsements box
+| title = Ryan Fazio
+| list =
+;Statewide officials
+*[[Betsy McCaughey]], former [[lieutenant governor of New York]] (1995–1998) and former gubernatorial candidate<ref>{{Cite web|last1=Villacorta|first1=Abigail Murillo|last2=Raff|first2=Susan|date=May 16, 2026|title=Fazio wins Republican endorsement for governor, McCaughey drops out|url=https://www.wfsb.com/2026/05/16/ryan-fazio-wins-republican-endorsement-governor-betsy-mccoy-drops-out/|access-date=June 24, 2026|website=[[WFSB]]}}</ref>
+;State legislators
+*[[Vincent Candelora]], minority leader of the [[Connecticut House of Representatives|House of Representatives]] (2021–present) from [[Connecticut's 86th House of Representatives district|HD-86]] (2007–present)<ref name="leaders" />
+*[[Stephen Harding (politician)|Stephen Harding]], minority leader of the [[Connecticut State Senate|State Senate]] (2024–present) from [[Connecticut's 30th State Senate district|SD-30]] (2023–present)<ref name="leaders">{{cite web |last=Strothers |first=Zoe |date=September 4, 2025 |title=CT Republican Leaders endorse Ryan Fazio for Governor |url=https://www.wfsb.com/2025/09/04/ct-republican-leaders-endorse-ryan-fazio-governor/ |access-date=September 5, 2025 |work=[[WFSB]]}}</ref>
+*5 state senators{{Efn|
+*[[Eric Berthel]], [[Connecticut's 32nd State Senate district|SD-32]] (2019–present)<ref name="sides" />
+*[[Paul Cicarella]], [[Connecticut's 34th State Senate district|SD-34]] (2021–present)<ref name="whohas"/>
+*[[John Kissel (Connecticut politician)|John Kissel]], [[Connecticut's 7th State Senate district|SD-07]] (1993–present)<ref name="whohas"/>
+*[[Robert Sampson (politician)|Rob Sampson]], [[Connecticut's 16th State Senate district|SD-16]] (2019–present)<ref name="sampson" />
+*[[Heather Somers]], [[Connecticut's 18th State Senate district|SD-18]] (2017–present)<ref name="whohas"/>}}
+*11 state representatives{{Efn|
+*[[Seth Bronko]], [[Connecticut's 70th House of Representatives district|HD-70]] (2023–present)<ref name="whohas"/>
+*[[Patrick Callahan]], [[Connecticut's 108th House of Representatives district|HD-108]] (2021–present)<ref name="whohas"/>
+*[[Joseph Canino]], [[Connecticut's 65th House of Representatives district|HD-65]] (2025–present)<ref name=sides>{{cite web|last=Cerulli|first=Mike|url= https://www.ctcapitolreport.com/mondays/ed8deda451-republicans-start-to-pick-sides-stewart-or-fazio |title=Republicans start to pick sides: Stewart or Fazio|date=August 18, 2025|access-date=August 22, 2025|website=CT Capitol Report}}</ref>
+*[[Irene Haines]], [[Connecticut's 34th House of Representatives district|HD-34]] (2019–present)<ref name="whohas"/>
+*[[Carol Hall (politician)|Carol Hall]], [[Connecticut's 59th House of Representatives district|HD-59]] (2017–present)<ref name="whohas"/>
+*[[Greg Howard (politician)|Greg Howard]], [[Connecticut's 43rd House of Representatives district|HD-43]] (2021–present)<ref name="whohas"/>
+*[[Nicole Klarides-Ditria]], [[Connecticut's 105th House of Representatives district|HD-105]] (2017–present)<ref name="whohas"/>
+*[[Gale Mastrofrancesco]], [[Connecticut's 80th House of Representatives district|HD-80]] (2019–present)<ref name="whohas"/>
+*[[Tom O'Dea (politician)|Tom O'Dea]], [[Connecticut's 125th House of Representatives district|HD-125]] (2013-Present) <ref name="whohas"/>
+*[[Joseph Polletta]], [[Connecticut's 68th House of Representatives district|HD-68]] (2017–present)<ref name=sides/>
+*[[Steve Weir]], [[Connecticut's 55th House of Representatives district|HD-55]] (2022–present)<ref name="whohas"/>}}
+
+;Local officials
+*[[Erin Stewart]], former [[mayor of New Britain, Connecticut|mayor of New Britain]] (2013–2025) and former gubernatorial candidate<ref name="CTInsiderEndorseList"/>
+
+;Organizations
+*[[Young Republicans|Connecticut Young Republicans]]<ref name="CTInsiderEndorseList"/>
+}}
+{{Endorsements box
+| title = Betsy McCaughey ''(withdrawn)''
+| list =
+;Statewide officials
+*[[George Pataki]], former [[governor of New York]] (1995–2006)<ref name="Pataki">{{cite web |title=Pataki endorses Betsy McCaughey for Connecticut governor |url=https://midhudsonnews.com/2026/01/17/pataki-endorses-betsy-mccaughey-for-connecticut-governor/ |website=Mid Hudson News |access-date=18 January 2026 |date=17 January 2026}}</ref>
+}}
+{{Endorsements box
+| title = Erin Stewart ''(withdrawn)''
+| list =
+;State legislators
+*[[Kevin Witkos]], former [[Connecticut's 8th State Senate district|SD-08]] (2009–2023)<ref name="whohas"/>
+*5 state representatives{{Efn|
+*[[Tim Ackert]], [[Connecticut's 8th House of Representatives district|HD-08]] (2011–present)<ref name="whohas"/>
+*[[Devin Carney]], [[Connecticut's 23rd House of Representatives district|HD-23]] (2015–present)<ref name="whohas"/>
+*[[Tom Delnicki]], [[Connecticut's 14th House of Representatives district|HD-14]] (2017–present)<ref name="whohas"/>
+*[[Joe Hoxha]], [[Connecticut's 78th House of Representatives district|HD-78]] (2023–present)<ref name="whohas"/>
+*[[Donna Veach]], [[Connecticut's 30th House of Representatives district|HD-30]] (2021–present)<ref name="whohas"/>}}
+}}
+
+====Polling====
+<!-- = = = don't edit the line below = = = -->
+{{hidden begin|titlestyle=background:#cff|title=Hypothetical polling|contentstyle=border:solid 1px silver; padding:8px; background:var(--background-color-base); color:var(--color-base);}}
+<!-- = = = don't edit the line above = = = -->
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"|Key:<br />A – all adults<br />RV – registered voters<br />LV – likely voters<br />V – unclear}}
+! Margin<br />of error
+! style="width:75px;"| Ryan<br />Fazio
+! style="width:75px;"| Erin<br />Stewart
+! Other
+! Undecided
+|-
+|style="text-align:left;"|OnMessage Inc. (R)<ref>{{cite web|url=https://www.courant.com/2025/08/21/mayor-erin-stewart-holds-lead-in-gop-primary-with-35-undecided-for-governor/|title=Mayor Erin Stewart holds lead in CT GOP primary with 35% undecided for governor|last=Keating|first=Christopher|date=August 21, 2025|access-date=August 22, 2025|website=[[Hartford Courant]]}}</ref>{{efn-ua|name=Stewart|Poll sponsored by Stewart's campaign}}
+|August 11–14, 2025
+|400 (LV)
+|±&nbsp;4.9%
+|13%
+|{{party shading/Republican}}|'''42%'''
+|10%
+|35%
+|}
+{{hidden end}}
+
+=== Lieutenant governor ===
+
+====Candidates====
+=====Nominee=====
+*Matthew Corey, bar owner and perennial candidate<ref name="MatthewCorey" />
+
+=====Withdrew at convention=====
+*[[Tim Ackert]], state representative from the 8th district<ref>{{cite news |last=Rennie |first=Kevin |title=The day of the Republican race for LG continues with Tim Ackert preparing to enter the ring |url=https://www.dailyructions.com/the-day-of-the-republican-race-for-lg-continues-with-tim-ackert-preparing-to-enter-the-ring/ |work=Daily Ructions |date=April 8, 2026}}</ref>
+
+== General election ==
+===Predictions===
+{| class="wikitable" style=text-align:center
+!Source
+!Ranking
+!As of
+|-
+|-
+|align=left|''[[The Cook Political Report]]''<ref>{{cite web|title=2026 CPR Governor Race ratings|url=https://www.cookpolitical.com/ratings/governor-race-ratings|website=[[The Cook Political Report]]|access-date=January 23, 2025}}</ref>
+|{{USRaceRating|Solid|D}}
+|September 10, 2026
+|-
+|align=left|[[Decision Desk HQ]]<ref name="DDHQ">{{cite web |title=2026 Governor Forecast |url=https://votes.decisiondeskhq.com/forecast/2026/governor |website=Decision Desk HQ |access-date=22 September 2026}}</ref>
+|{{USRaceRating|Likely|D}}
+|September 23, 2026
+|-
+|align=left|[[Fox News]]<ref>{{cite web |title=Fox News Power Rankings: The top races to watch as 36 states choose their next governor |url=https://www.foxnews.com/politics/fox-news-power-rankings-top-races-watch-36-states-choose-next-governor |website=[[Fox News]] |date=23 July 2026 |publisher=Rémy Numa |access-date=24 July 2026}}</ref>
+|{{USRaceRating|Solid|D}}
+|July 23, 2026
+|-
+|align=left|''[[Inside Elections]]''<ref>{{Cite web|title=Gubernatorial Ratings|url=https://insideelections.com/ratings/governor|access-date=February 7, 2025|website=[[Inside Elections]]}}</ref>
+|{{USRaceRating|Solid|D}}
+|September 3, 2026
+|-
+|align="left"|[[RealClearPolitics]]<ref>{{Cite web|title=2026 Governor Races {{!}} RealClearPolitics|url=https://www.realclearpolling.com/maps/governor/2026/toss-up|access-date=June 5, 2026|website=[[RealClearPolitics]]|archive-url=https://web.archive.org/web/20260601183127/https://www.realclearpolling.com/maps/governor/2026/toss-up|archive-date=June 1, 2026|url-status=dead}}</ref>
+|{{USRaceRating|Solid|D}}
+|June 5, 2026
+|-
+|align=left|''[[Sabato's Crystal Ball]]''<ref>{{cite web|title=2026 Governor|url=https://centerforpolitics.org/crystalball/2026-governor/|website=[[Sabato's Crystal Ball]]|access-date=May 1, 2025}}</ref>
+|{{USRaceRating|Safe|D}}
+|September 3, 2026
+|-
+| style="text-align: left;" |[[Silver Bulletin]]<ref name=":Silver">{{Cite web |last=Silver |first=Nate |date=2026-08-20 |title=FLIPR 2026 midterm election forecast |url=https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model |url-access=subscription |access-date=2026-08-20 |website=www.natesilver.net |language=en}}</ref>
+| {{US political race rating|Solid|D}}
+|August 25, 2026
+|}
+
+===Post-primary endorsements===
+{{Endorsements box
+|title=Ned Lamont (D)
+|list=
+;Organizations
+*[[Everytown for Gun Safety]]<ref>{{cite web |title=Everytown for Gun Safety Action Fund Announces New Round of Statewide Endorsements, Backing 40 Statewide Candidates in 15 States |url=https://momsdemandaction.org/press/everytown-for-gun-safety-action-fund-announces-new-round-of-statewide-endorsements-backing-40-statewide-candidates-in-15-states/ |website=Moms Demand Action |access-date=September 15, 2026 |language=en-us}}</ref>
+}}{{Endorsements box
+|title=Ryan Fazio (R)
+|list=
+;Organizations
+*[[Independent Party of Connecticut]]<ref>{{cite web| title=Connecticut Independent Party cross-endorses dozens of 2026 candidates | date=26 August 2026 |url=https://www.ctinsider.com/connecticut/article/independent-party-cross-endorsement-fazio-election-22403056.php?utm_source=chatgpt.com}}</ref>
+}}
+
+===Polling===
+'''Aggregate polls'''
+{| class="wikitable sortable" style="text-align:center;font-size:90%;line-height:17px"
+!Source of poll<br/>aggregation
+!Dates<br/>administered
+!Dates<br/>updated
+! style="width:100px;" |Ned<br />Lamont (D)
+! style="width:100px;" |Ryan<br />Fazio (R)
+! style="width:100px;" |Other/<wbr/>Undecided{{Efn|Calculated by taking the difference of 100% and all other candidates combined.|name=|group=}}
+!Margin
+|-
+|[[270toWin]]<ref>{{cite web |title=2026 Polls: Connecticut Governor |url=https://www.270towin.com/2026-governor-polls/connecticut |access-date=September 10, 2026 |website=[[270toWin]]}}</ref>
+|August 27 – September 22, 2026
+|September 22, 2026
+|{{party shading/Democratic}} |'''51.8%'''
+|38.3%
+|9.9%
+|{{party shading/Democratic}} |'''Lamont +13.5%'''
+|-
+|Race to the WH<ref>{{cite web |title=2026 Governor Polling |url=https://www.racetothewh.com/governor/26polls |access-date=September 10, 2026 |website=Race to the White House}}</ref>
+|through September 17, 2026
+|September 22, 2026
+|{{party shading/Democratic}} |'''52.0%'''
+|38.3%
+|9.7%
+|{{party shading/Democratic}} |'''Lamont +13.7%'''
+|-
+|[[RealClearPolitics]]<ref>{{cite web |title=2026 Connecticut Governor - Fazio vs. Lamont |url=https://www.realclearpolling.com/polls/governor/general/2026/connecticut/fazio-vs-lamont |access-date=September 24, 2026 |website=[[RealClearPolitics]]}}</ref>
+|August 20 – September 17, 2026
+|September 24, 2026
+|{{party shading/Democratic}}|'''51.8%'''
+|38.3%
+|9.9%
+|{{party shading/Democratic}} |'''Lamont +13.5%'''
+|-
+|''[[Silver Bulletin]]''<ref>{{cite web |title=FLIPR 2026 midterm election forecast
+|url=https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model |access-date=September 10, 2026 |website=[[Silver Bulletin]]}}</ref>
+|through September 17, 2026
+|September 24, 2026
+|{{party shading/Democratic}}|'''52.3%'''
+|38.7%
+|9.0%
+|{{party shading/Democratic}} |'''Lamont +13.6%'''
+|-
+|colspan="3" |'''Average'''
+|{{party shading/Democratic}}|'''52.0%'''
+|38.4%
+|9.6%
+|{{party shading/Democratic}}|'''Lamont +13.6%'''
+|}
+
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- style="vertical-align:bottom"
+! Poll source
+! Date(s)<br>administered
+! Sample<br>size{{efn|name="Key"|Key:<br />A – all adults<br />RV – registered voters<br />LV – likely voters<br />V – unclear}}
+! Margin<br>of error
+! style="width:100px;" |Ned<br/>Lamont (D)
+! style="width:100px;" |Ryan<br/>Fazio (R)
+! Other
+! Undecided
+|-
+|style="text-align:left;"|[[University of New Hampshire]]<ref>{{cite web|url=https://scholars.unh.edu/cgi/viewcontent.cgi?article=2009&context=survey_center_polls|title=Lamont Leads in Re-Election Bid for Connecticut Governor; Residents Favor "No Excuse" Absentee Voting|first1=Sean P.|last1=McKinley|first2=Andrew E.|last2=Smith|first3=Zachary S.|last3=Azem|first4=Tracy|last4=Keirns|website=[[University of New Hampshire]]|date=September 24, 2026|access-date=September 24, 2026}}</ref>
+|September 17–21, 2026
+|540 (LV)
+|±&nbsp;4.2%
+|{{party shading/Democratic}}|'''55%'''
+|38%
+|1%{{Efn|"Another candidate" with 1%}}
+|6%
+|-
+|style="text-align:left;"|co/efficient <ref>{{cite web |title=Connecticut Governor 2026 General Election |url=https://coefficient.org/our-work/connecticut-governor-general-election-sep-2026/ |publisher=co/efficient |access-date=September 22, 2026 |date=September 17, 2026}}</ref>
+|September 16–17, 2026
+|979 (LV)
+|±&nbsp;3.1%
+|{{party shading/Democratic}}|'''48%'''
+|41%
+|{{sdash}}
+|11%
+|-
+|style="text-align:left;"|[[Quinnipiac University Polling Institute]]<ref>{{cite web |title=CT Governor's Race: Lamont Holds 17-Point Lead Over Fazio, Quinnipiac University Connecticut Poll Finds; Lamont Ahead On Cost Of Living And Economy |url=https://poll.qu.edu/poll-release?releaseid=3966 |publisher=[[Quinnipiac University Polling Institute]] |access-date=September 16, 2026 |date=September 16, 2026}}</ref>
+|September 8–14, 2026
+|1,288 (LV)
+|±&nbsp;3.8%
+|{{party shading/Democratic}}|'''55%'''
+|38%
+|2%{{Efn|"Refuse to respond" with 2%}}
+|5%
+|-
+|rowspan="2" style="text-align:left;"|GreatBlue Research<ref>{{cite web |title=CT Gubernatorial Race Poll of Registered Voters (#2 of 3) |url=https://s3.documentcloud.org/documents/28617367/shu-ct-gubernatorial-race-poll-91426.pdf |publisher=GreatBlue Research |access-date=September 11, 2026 |date=September 9, 2026}}</ref>{{Efn-ua|Poll sponsored by [[CT Insider]] and [[Sacred Heart University]]}}
+|rowspan="2" |September 1–8, 2026
+|rowspan="2" |1,000 (RV)
+|rowspan="2" |±&nbsp;3.1%
+|{{party shading/Democratic}}|'''48%'''
+|34%
+|0%{{Efn|"Another candidate" with 0%}}
+|18%
+|-
+|{{party shading/Democratic}}|'''52%'''{{Efn|With voters who lean towards a given candidate}}
+|37%
+|–
+|11%
+|-
+|style="text-align:left;"|[[University of New Hampshire]]<ref>{{cite web|url=https://scholars.unh.edu/cgi/viewcontent.cgi?article=1993&context=survey_center_polls|title=Governor Lamont's Job Approval Slides in CT But Mantains Lead Over Fazio in Bid for Re-Election|first1=Sean P.|last1=McKinley|first2=Andrew E.|last2=Smith|first3=Zachary S.|last3=Azem|first4=Tracy|last4=Keirns|website=[[University of New Hampshire]]|date=August 27, 2026|access-date=August 29, 2026}}</ref>
+|August 20–24, 2026
+|809 (LV)
+|±&nbsp;3.4%
+|{{party shading/Democratic}}|'''52%'''
+|37%
+|3%{{Efn|"Write in someone else" with 3%}}
+|9%
+|-
+|style="text-align:left;"|[[Sacred Heart University]]/[[WFSB]]/[[CT Insider]]<ref>{{cite news |last1=Staff |first1=WFSB |title=EXCLUSIVE POLL: How voters feel about the candidates in Connecticut's race for governor |url=https://www.wfsb.com/2026/08/03/exclusive-poll-how-voters-feel-about-candidates-connecticuts-race-governor/ |access-date=3 August 2026 |agency=WFSB |date=August 3, 2026}}</ref><ref>{{cite web|url= https://www.sacredheart.edu/news-room/news-listing/shu-poll-connecticut-voters-put-cost-of-living-at-center-of-governors-race/|title= SHU Poll: Connecticut Voters Put Cost of Living at Center of Governor's Race|work=Sacred Heart University|date=August 4, 2026|accessdate=August 4, 2026}}</ref>
+|July 21–26, 2026
+|1,000 (RV)
+|±&nbsp;3.1%
+|{{party shading/Democratic}}|'''50%'''
+|30%
+|1%{{Efn|name="AC1"|"Another candidate" with 1%}}
+|20%
+|-
+|style="text-align:left;"|[[University of New Hampshire]]<ref name="UNHJune"/>
+|June 18–23, 2026
+|828 (LV)
+|±&nbsp;3.4%
+|{{party shading/Democratic}}|'''49%'''
+|36%
+|2%{{Efn|"Write in someone else" with 2%}}
+|12%
+|}
+<!-- = = = don't edit the line below = = = -->
+{{hidden begin|titlestyle=background:#cff|title=Hypothetical polling|contentstyle=border:solid 1px silver; padding:8px; background:var(--background-color-base); color:var(--color-base);}}
+<!-- = = = don't edit the line above = = = -->
+
+'''Josh Elliot vs. Ryan Fazio'''
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- style="vertical-align:bottom"
+! Poll source
+! Date(s)<br>administered
+! Sample<br>size{{efn|name="Key"|Key:<br />A – all adults<br />RV – registered voters<br />LV – likely voters<br />V – unclear}}
+! Margin<br>of error
+! style="width:100px;" |Josh<br/>Elliot (D)
+! style="width:100px;" |Ryan<br/>Fazio (R)
+! Other
+! Undecided
+|-
+|style="text-align:left;"|[[Sacred Heart University]]/[[WFSB]]/[[CT Insider]]<ref>{{cite news |last1=Staff |first1=WFSB |title=EXCLUSIVE POLL: How voters feel about the candidates in Connecticut's race for governor |url=https://www.wfsb.com/2026/08/03/exclusive-poll-how-voters-feel-about-candidates-connecticuts-race-governor/ |access-date=3 August 2026 |agency=WFSB |date=August 3, 2026}}</ref>
+|July 21–26, 2026
+|1,000 (RV)
+|±&nbsp;3.1%
+|{{party shading/Democratic}}|'''44%'''
+|30%
+|1%{{Efn|name="AC1"}}
+|26%
+|}
+'''Ned Lamont vs. Erin Stewart'''
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"|Key:<br />A – all adults<br />RV – registered voters<br />LV – likely voters<br />V – unclear}}
+! Margin<br />of error
+! style="width:100px;"| Ned<br />Lamont (D)
+! style="width:100px;"| Erin<br />Stewart (R)
+! Undecided
+|-
+|style="text-align:left;"|OnMessage Inc. (R)<ref>{{cite web |last1=Cerulli |first1=Mike |title=EXCLUSIVE: New polling reveals hypothetical match-up between two potential CT gubernatorial candidates |url=https://www.wtnh.com/news/connecticut/strategists-weigh-in-on-connecticut-gubernatorial-survey/ |publisher=[[WTNH-TV]] |access-date=29 August 2025 |date=22 August 2025}}</ref>{{efn-ua|name=Stewart}}
+|August 2025
+|600 (LV)
+|–
+|{{party shading/Democratic}}|'''50%'''
+|42%
+|8%
+|}
+{{hidden end}}
+
+== See also ==
+*[[2026 United States elections]]
+*[[2026 Connecticut elections]]
+
+==Notes==
+{{notelist}}
+'''Partisan clients'''<br />
+{{notelist-ua}}
+
+==References==
+{{Reflist}}
+
+== External links ==
+;Official gubernatorial campaign websites
+*[https://ryanfazio.com/ Ryan Fazio (R)]
+*[https://nedlamont.com/ Ned Lamont (D)]
+
+;Official lieutenant gubernatorial campaign websites
+*[https://mattcoreyct.com/ Matthew Corey (R)]
+
+{{Connecticut elections}}
+{{2026 United States elections}}
+
+[[Category:Connecticut gubernatorial elections]]
+[[Category:2026 Connecticut elections|Gubernatorial]]
+[[Category:2026 United States gubernatorial elections|Connecticut]]

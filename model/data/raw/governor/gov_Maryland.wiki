@@ -1,0 +1,786 @@
+{{short description|none}}
+{{for|related races|2026 United States gubernatorial elections}}
+{{Use American English|date=January 2025}}
+<!-- "none" is preferred when the title alone is adequate; see [[WP:SDNONE]] -->
+{{Use mdy dates|date=July 2026}}
+{{Infobox election|
+| election_name = 2026 Maryland gubernatorial election
+| country = Maryland
+| type = presidential
+| ongoing = yes
+| previous_election = 2022 Maryland gubernatorial election
+| previous_year = 2022
+| next_election = 2030 Maryland gubernatorial election
+| next_year = 2030
+| election_date = November 3, 2026
+| image1 = File:Governor Kuroiwa and Japanese Delegation (cropped2).jpg
+| nominee1 = [[Wes Moore]]
+| party1 = Democratic Party (United States)
+| running_mate1 = [[Aruna Miller]]
+| popular_vote1 = 
+| percentage1 = 
+| image2 = Dan Cox Mar2020 (49617550556).jpg
+| nominee2 = [[Dan Cox]]
+| running_mate2 = Robert Krop
+| party2 = Republican Party (United States)
+| popular_vote2 = 
+| percentage2 = 
+| title = [[Governor of Maryland|Governor]]
+| before_election = [[Wes Moore]]
+| before_party = Democratic Party (United States)
+| Governor after_election = 
+| after_party = 
+}}{{Elections in Maryland sidebar}}
+The '''2026 Maryland gubernatorial election''' will take place on November 3, 2026, to elect the [[governor of Maryland]]. The primary elections took place on June 23, 2026.<ref>{{Cite web|date=May 9, 2025 |title=2026 State Primary Election Dates |url=https://www.ncsl.org/elections-and-campaigns/2026-state-primary-election-dates|website= NCSL |access-date=August 5, 2025}}</ref> Incumbent [[Democratic Party (United States)|Democratic]] governor [[Wes Moore]] is running for a second term.<ref name="Moore" /> Moore will face off against his [[2022 Maryland gubernatorial election|2022 opponent]] [[Dan Cox]], making this the first gubernatorial rematch in Maryland since [[2010 Maryland gubernatorial election|2010]]. The winner is scheduled to serve a four-year term beginning on January 20, 2027.<ref>{{Cite web |title=Maryland Constitution – Article II, Section 1 |url=https://msa.maryland.gov/msa/mdmanual/43const/html/02art2.html |archive-url=https://web.archive.org/web/20260708215204/https://msa.maryland.gov/msa/mdmanual/43const/html/02art2.html |archive-date=July 8, 2026 |access-date=July 8, 2026 |website=msa.maryland.gov}}</ref>
+
+== Background ==
+At the federal and state level, Maryland is a solid [[blue state]] and one of the most consistently Democratic states in the nation, with [[Kamala Harris]] carrying it by 29 points in the [[2024 United States presidential election in Maryland|2024 presidential election]]. Elections in Maryland are dominated by the [[Baltimore metropolitan area]] and the [[Washington metropolitan area|D.C. suburbs]].<ref>{{cite news |last1=Barker |first1=Jeff |title=Is Maryland growing even more blue politically? Democrats are showing gains in battleground counties. |url=https://www.baltimoresun.com/2020/12/09/is-maryland-growing-even-more-blue-politically-democrats-are-showing-gains-in-battleground-counties/ |access-date=May 2, 2025 |work=[[The Baltimore Sun]] |date=December 9, 2020}}</ref> Going into this election, Democrats occupy all [[Government of Maryland#Executive branch|statewide offices]] and hold supermajorities in both houses of the [[Maryland General Assembly|state legislature]], as well as all but one seat in the state's congressional delegation.<ref>{{cite news |last1=Schouten |first1=Fredreka |title=Wes Moore targets Maryland's only GOP congressman with redistricting, but a powerful Democrat stands in his way |url=https://www.cnn.com/2026/01/20/politics/maryland-redistricting-wes-moore |access-date=January 20, 2026 |work=[[CNN]] |date=January 20, 2026 |language=en}}</ref>
+
+== Democratic primary ==
+=== Campaign ===
+Moore has maintained positive [[Governorship of Wes Moore#Approval ratings|approval ratings]] throughout his first term, though his numbers have steadily declined.<ref name="LaunchesBS">{{cite news |last1=Janesch |first1=Sam |title=Gov. Wes Moore formally launches bid for second term |url=https://www.baltimoresun.com/2025/09/09/gov-wes-moore-formally-launches-bid-for-second-term/ |access-date=September 9, 2025 |work=The Baltimore Sun |date=September 9, 2025}}</ref> Mileah Kromer, the director of the [[University of Maryland, Baltimore County]]'s Institute of Politics, has associated the downward trend in Moore's approval rating with voter frustration over affordability issues and a distrust of local, state, and federal government.<ref name="UMBC Approval Apr2026" /> An incumbent Democratic governor has not lost re-election in Maryland since [[1950 Maryland gubernatorial election|1950]], when [[William Preston Lane Jr.]] failed to win a second term.
+
+Moore faced token opposition in the Democratic primary.<ref name="MoorePrepares" /><ref name="UMBC Approval Apr2026" />
+
+=== Candidates ===
+==== Nominee ====
+*[[Wes Moore]], incumbent [[Governor of Maryland|governor]] (2023–present)<ref name="Moore">{{cite news |last1=Wood |first1=Pamela |title=Moore files for reelection against a large field of challengers |url=https://www.thebanner.com/politics-power/state-government/wes-moore-governor-re-election-TGMIGGIMGNEBXCJ5DCU4TLLR4I/ |access-date=February 23, 2026 |work=[[The Baltimore Banner]] |date=February 23, 2026 |language=en}}</ref>
+**Running mate: [[Aruna Miller]], incumbent [[Lieutenant Governor of Maryland|lieutenant governor]] (2023–present)<ref name="Moore" />
+
+==== Eliminated in primary ====
+*Eric Felber, physician and candidate for [[Maryland's 8th congressional district]] in [[2024 United States House of Representatives elections in Maryland#District 8|2024]]<ref name="mdboe" />
+** Running mate: LaTrece Hawkins Lytes, community activist and candidate for lieutenant governor in [[2022 Maryland gubernatorial election|2022]]<ref name="mdboe" />
+
+==== Withdrew ====
+*[[Ed Hale (businessman)|Ed Hale]], retired banker and owner of the [[Baltimore Blast]] ''(ran as a Republican)''<ref name="HaleGOP">{{cite news |last1=Wood |first1=Pamela |title=Ed Hale Sr. to switch parties, run for governor as a Republican |url=https://www.thebanner.com/politics-power/state-government/ed-hale-republican-governor-maryland-MIPKLZUXPRHKHPZLDO2J4LWGWM/ |access-date=August 20, 2025 |work=[[The Baltimore Banner]] |date=August 20, 2025 |language=en}}</ref>
+*Ralph Jaffe, perennial candidate ''(died February 6, 2026)''<ref>{{cite news |last1=Lee |first1=John |title=Jaffe remembered as a frequent flyer candidate in Maryland who gave people a choice |url=https://www.wypr.org/wypr-news/2026-02-09/jaffe-remembered-as-a-frequent-flyer-candidate-in-maryland-who-gave-people-a-choice |access-date=February 9, 2026 |work=[[WYPR]] |date=February 9, 2026 |language=en}}</ref>
+**Running mate: Donald Palmore, pastor<ref name="mdboe" />
+
+=== Endorsements ===
+{{Endorsements box
+|title=Eric Felber
+|list=
+;Organizations
+*[[Vote Common Good]]<ref>{{cite web |title=2026 Candidates for Common Good |url=https://www.votecommongood.com/candidates-for-common-good-2026/ |website=Vote Common Good |access-date=April 13, 2026}}</ref>
+}}
+{{Endorsements box
+|title=Wes Moore
+|colwidth=60
+|list=
+;U.S. senators
+*[[Angela Alsobrooks]], [[Maryland]] (2025–present)<ref name="MooreKickoff">{{cite news |last1=Demko |first1=Keith |title=Maryland Gov. Wes Moore launches re-election campaign, says not running for president |url=https://www.delmarvanow.com/story/news/local/maryland/2025/09/09/md-gov-moore-launches-re-election-campaign-tamps-down-president-talk/86054695007/ |access-date=September 9, 2025 |work=[[The Daily Times (Salisbury, Maryland)|The Daily Times]] |date=September 9, 2025}}</ref>
+*[[Chris Van Hollen]], [[Maryland]] (2017–present)<ref name="MooreKickoff" />
+
+;U.S. representatives
+*[[April McClain Delaney]], {{ushr|MD|6|MD-06}} (2025–present)<ref name="MooreKickoff" />
+
+;Statewide officials
+*[[Ed Rothstein]], secretary of the [[Maryland Department of Veterans and Military Families]] (2025–present) ''(Republican)''<ref name="SmallTownRs">{{cite news |last1=Swick |first1=Carson |title=Small-town Maryland Republicans endorse Gov. Wes Moore for another term |url=https://www.baltimoresun.com/2025/09/24/several-maryland-republicans-endorse-wes-moore/ |access-date=September 24, 2025 |work=The Baltimore Sun |date=September 24, 2025}}</ref>
+
+;State legislators
+*[[Carl Anderton Jr.]], former [[Maryland House of Delegates|state delegate]] from [[Maryland Legislative District 38|district 38B]] (2015–2024) ''(Republican)''<ref name="SmallTownRs" />
+
+;Local officials
+*[[Calvin Ball III]], [[Howard County, Maryland|Howard County]] executive (2018–present)<ref name="MooreAFRO" />
+*[[Aisha Braveboy]], [[Prince George's County]] executive (2025–present)<ref>{{cite news |last1=McNeir |first1=D. Kevin |title=Moore kicks off 2026 reelection bid with high-energy rallies and promises to 'finish the job' |url=https://afro.com/wes-moore-2026-reelection-campaign/ |access-date=May 3, 2026 |work=[[Baltimore Afro-American]] |date=May 3, 2026}}</ref>
+*[[Sharon Green Middleton]], vice chair of the [[Baltimore City Council]] (2016–present) from the 6th district (2007–present)<ref name="MooreAFRO">{{cite news |last1=McQueen |first1=Tashi |title=Maryland Gov. Wes Moore officially launches 2026 re-election campaign |url=https://afro.com/governor-moore-seeks-second-term/ |access-date=September 10, 2025 |work=[[Baltimore Afro-American]] |date=September 10, 2025}}</ref>
+*[[Steuart Pittman]], [[Anne Arundel County]] executive (2018–present) and chair of the [[Maryland Democratic Party]] (2025–present)<ref>{{cite news |last1=Barnes |first1=Sophia |title=Maryland Gov. Wes Moore announces 2026 reelection campaign |url=https://www.nbcwashington.com/news/politics/maryland-gov-wes-moore-announces-2026-reelection-campaign/3985780/ |access-date=September 9, 2025 |work=[[WRC-TV]] |date=September 9, 2025}}</ref>
+*[[Brandon Scott]], [[mayor of Baltimore]] (2020–present)<ref name="MooreLaunch">{{cite news |last1=Bazos |first1=Racquel |title=Wes Moore launches reelection campaign in Baltimore, Prince George's County |url=https://www.baltimoresun.com/2026/05/02/wes-moore-reelection-campaign/ |access-date=May 3, 2026 |work=[[The Baltimore Sun]] |date=May 2, 2026}}</ref>
+
+;Labor unions
+*[[American Federation of Government Employees]]<ref>{{cite web |title=Largest Federal Employee Union Announces Slate of Maryland Endorsements Ahead of June 23 Primary |url=https://www.afge.org/publication/largest-federal-employee-union-announces-slate-of-maryland-endorsements-ahead-of-june-23-primary/ |website=www.afge.org |publisher=[[American Federation of Government Employees]] |access-date=May 27, 2026 |language=en |date=May 27, 2026}}</ref>
+*Maryland [[International Association of Fire Fighters]]<ref>{{cite news |last1=Nicklaus |first1=Lexi |title=Maryland firefighters endorse Gov. Wes Moore for 2026 reelection |url=https://foxbaltimore.com/news/local/maryland-firefighters-endorse-gov-wes-moore-for-2026-reelection |access-date=January 13, 2026 |work=[[WBFF]] |date=January 13, 2026 |language=en}}</ref>
+*[[National Education Association|Maryland State Education Association]]<ref>{{cite web |last1=Givens |first1=Gabrielle |title=Governor, Comptroller, Attorney General Receive 76,000 Educators' Support - Maryland State Education Association |url=https://marylandeducators.org/governor-comptroller-attorney-general-receive-76000-educators-support/ |access-date=October 18, 2025 |work=Maryland State Education Association |date=October 17, 2025}}</ref>
+*[[Service Employees International Union]] Local 500<ref>{{cite web |title=2026 Elections |url=https://www.seiu500.org/2026-elections |website=SEIU LOCAL 500 |access-date=June 17, 2026}}</ref>
+
+;Organizations
+*[[Black Economic Alliance]] PAC<ref>{{cite news |last1=Chingarande |first1=Tinashe |title=Black business leader PAC endorses Gov. Wes Moore for second term |url=https://www.baltimoresun.com/2026/04/23/black-business-leaders-wes-moore-endorsement/ |access-date=April 23, 2026 |work=[[The Baltimore Sun]] |date=April 23, 2026}}</ref>
+*[[We Are CASA|CASA in Action]]<ref>{{cite web |title=Maryland - CASA IN ACTION |url=https://casainaction.org/maryland/ |website=casainaction.org |access-date=June 30, 2026}}</ref>
+*[[Collective PAC]]<ref>{{cite web |title=Candidates |url=https://collectivepac.org/candidates/?_state=maryland |website=The Collective PAC |access-date=April 20, 2026}}</ref>
+*[[End Citizens United]]<ref>{{Cite tweet |author=End Citizens United |author-link=End Citizens United |user=StopBigMoney |number=2059646382365954431 |title=🚨ENDORSEMENT ALERT🚨 We're proud to endorse Maryland Governor @iamwesmoore for re-election. |date=May 27, 2026 |access-date=May 27, 2026}}</ref>
+*[[Jewish Democratic Council of America]]<ref>{{cite web |title=Jewish Dems Endorsed Candidates |url=https://jewishdems.org/endorsements/ |website=Jewish Democratic Council of America |access-date=September 13, 2025}}</ref>
+*Maryland [[League of Conservation Voters]]<ref>{{cite web|title=Endorsements - Maryland League of Conservation Voters |url=https://www.mdlcv.org/endorsements |website=Maryland League of Conservation Voters |access-date=March 12, 2026}}</ref>
+*[[Moms Demand Action]]<ref>{{cite web |title=Your 2026 Gun Sense Candidates |url=https://gunsensevoter.org/candidates/ |website=Gun Sense Voter |access-date=April 17, 2026}}</ref>
+*[[VoteVets]]<ref>{{cite web |title=Endorsed Candidates |url=https://votevets.org/candidates |website=VoteVets |access-date=November 27, 2025}}</ref>
+
+;Newspapers
+*''[[Baltimore Afro-American]]''<ref>{{cite news |last1=McNeir |first1=D. Kevin |title=AFRO endorses Moore-Miller Administration for a second term |url=https://afro.com/baltimore-washington-e-edition/ |access-date=June 8, 2026 |work=[[Baltimore Afro-American]] |date=June 5, 2026 |page=1}}</ref>
+}}
+
+===Fundraising===
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of June 7, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|Wes Moore (D) <!-- committee name "Moore, Wes for Maryland" -->
+|$13,795,120
+|$9,581,961
+|$6,519,690
+|-
+! colspan="4" |<small>Source: Maryland State Board of Elections<ref name="CRIS">{{cite web |title=Maryland Campaign Reporting Information System |url=https://campaignfinance.maryland.gov/Public/ViewFiledReports?theme=vista |website=Maryland Campaign Reporting Information System |publisher=Maryland State Board of Elections |access-date=January 17, 2025}}</ref></small>
+|}
+
+=== Results ===
+{{Switcher|[[File:2026 Maryland Democratic gubernatorial primary election results by county.svg|thumb|300px|Results by county
+{{Collapsible list
+| title = {{legend|#7996E2|Moore}}|{{legend|#584CDE|70–80%}}|{{legend|#3933E5|80–90%}}|{{legend|#0D0596|>90%}} 
+}}
+]]|Results by county|[[File:2026 Maryland gubernatorial Democratic primary election results by precinct.svg|thumb|300px|Results by precinct
+{{Collapsible list
+| title = {{legend|#7996E2|Moore}}|{{legend|#7996E2|50–60%}}|{{legend|#6674DE|60–70%}}||{{legend|#584CDE|70–80%}}|{{legend|#3933E5|80–90%}}|{{legend|#0D0596|>90%}} 
+}}
+{{Collapsible list
+| title = {{legend|#F1C92A|Felber}}|{{legend|#F1C92A|50–60%}}|{{legend|#DEB02A|60–70%}}|{{legend|#CE9B1E|70–80%}}|{{legend|#A58100|>90%}} 
+}}
+{{legend|#D2B1D9|Tie}}
+{{legend|#808080|No data/No votes}}]]|Results by precinct}}
+{{Election box begin no change |title = Democratic primary results<ref name="Primary">{{cite web |title=Official 2026 Gubernatorial Primary Election Results for Governor / Lt. Governor |url=https://elections.maryland.gov/elections/2026/Primary_Results/gen_results_2026_1.html |website=elections.maryland.gov |publisher=Maryland State Board of Elections |access-date=June 20, 2026}}</ref> }}
+{{Election box winning candidate with party link no change
+| candidate = {{ubl|[[Wes Moore]] (incumbent)|[[Aruna Miller]] (incumbent)}}
+| party = Democratic Party (United States)
+| votes = 558,768
+| percentage = 88.3
+}}
+{{Election box candidate with party link no change
+| candidate = {{ubl|Eric Felber|LaTrece Hawkins Lytes}}
+| party = Democratic Party (United States)
+| votes = 74,312
+| percentage = 11.7
+}}
+{{Election box total no change
+| votes = 633,080
+| percentage = 100.0
+}}
+{{Election box end}}
+
+== Republican primary ==
+[[File:Ed Hale Sr. (26579635541).jpg|x170px|thumb|Businessman [[Ed Hale (businessman)|Ed Hale]] finished second in the primary.]]
+=== Campaign ===
+During the Republican primary, candidates campaigned against Moore's handling of economic issues, especially toward tax reforms and increases to vehicle registration fees in the state during his first term.<ref name="MoorePrepares">{{cite news |last1=Wood |first1=Pamela |title=Gov. Wes Moore prepares to make case to Maryland voters for another 4 years in office |url=https://www.thebanner.com/politics-power/state-government/maryland-wes-moore-session-analysis-re-election-primary-W366Z6Q74ZG4JNMVD63GVX2OM4/ |access-date=April 15, 2026 |work=[[The Baltimore Banner]] |date=April 15, 2026 |language=en}}</ref><ref>{{cite news |last1=Sears |first1=Bryan P. |title=Trio of GOP candidates for governor — out of nine total — meet in debate |url=https://marylandmatters.org/2026/05/20/trio-of-gop-candidates-for-governor-out-of-nine-total-meet-in-debate/ |access-date=May 20, 2026 |work=[[Maryland Matters]] |date=May 20, 2026}}</ref><ref>{{cite news |last1=Gaskill |first1=Hannah |title=9 GOP MD governor candidates a stark contrast to party in Larry Hogan's day |url=https://thedailyrecord.com/2026/05/20/republican-governor-candidates-larry-hogan/ |access-date=May 20, 2026 |work=[[Daily Record (Maryland)|The Daily Record]] |date=May 20, 2026}}</ref>
+
+Much of the speculation as to which Republicans may challenge Moore in the 2026 election revolved around former governor [[Larry Hogan]].<ref>{{cite news |last1=Sears |first1=Bryan |title=Hogan lays out five-point economic agenda for Senate race that echoes positions as governor |url=https://marylandmatters.org/2024/06/26/hogan-lays-out-five-point-economic-agenda-for-senate-race-that-echoes-positions-as-governor/ |access-date=May 2, 2025 |work=[[Maryland Matters]] |date=June 27, 2024}}</ref><ref>{{cite news |last1=Wintrode |first1=Brenda |title=Poll: Marylanders favor Moore over Hogan in 2026, oppose new taxes |url=https://www.thebaltimorebanner.com/politics-power/state-government/gonzales-poll-moore-hogan-taxes-O6NY7HLASZGQHCGOSERYA4X5RU/ |access-date=May 2, 2025 |work=[[The Baltimore Banner]] |date=January 7, 2025 |language=en}}</ref><ref>{{cite news |last1=Janesch |first1=Sam |title=Mysterious 'No Moore' campaign launches Maryland's next gubernatorial race as Republicans, Larry Hogan battle Wes Moore |url=https://www.baltimoresun.com/2025/02/24/no-moore-maryland-governor-race-moore-hogan/ |access-date=May 2, 2025 |work=[[The Baltimore Sun]] |date=February 24, 2025}}</ref> Hogan's entry would have given Republicans a high-profile candidate, potentially making the race more competitive.<ref>{{cite news |last1=Crane |first1=Steve |last2=Sears |first2=Bryan P. |title=Banker, Blast owner Ed Hale preparing a 2026 challenge to Wes Moore |url=https://marylandmatters.org/2025/05/02/banker-blast-owner-ed-hale-preparing-a-2026-challenge-to-wes-moore/ |access-date=May 2, 2025 |work=[[Maryland Matters]] |date=May 2, 2025}}</ref> However, he announced in an op-ed to ''[[The Baltimore Sun]]'' in January 2026 that he would not run for a third term as governor in 2026,<ref name="HoganOped" /> after which speculation turned to [[Steve Hershey]], the minority leader of the [[Maryland Senate]] who had formed an exploratory committee into a potential gubernatorial campaign.<ref name="Regroups">{{cite news |last1=Chingarande |first1=Tinashe |title=With Larry Hogan out of the Maryland governor's race, the GOP regroups |url=https://www.baltimoresun.com/2026/01/21/with-larry-hogan-out-of-the-maryland-governors-race-the-gop-regroups/ |access-date=February 21, 2026 |work=[[The Baltimore Sun]] |date=January 21, 2026}}</ref> Hershey filed to [[2026 Maryland Senate election#District 36|run for re-election]] in February 2026,<ref name="Hershey" /> leaving the Republican Party without a formidable opponent against Moore.<ref>{{cite news |last1=Chingarande |first1=Tinashe |title=How Republicans are fighting to have a greater say in Maryland politics |url=https://www.baltimoresun.com/2026/02/21/how-republicans-are-fighting-to-have-a-louder-say-in-maryland-politics/ |access-date=February 21, 2026 |work=[[The Baltimore Sun]] |date=February 21, 2026}}</ref>
+
+Republican challengers to Moore face an uphill battle against him,<ref name="LaunchesBS" /> especially as public frustration with President [[Donald Trump]] continues to boost Democratic officeholders in deep blue states.<ref>{{cite news |title=Wes Moore touts progress, but uncertainties abound |url=https://www.baltimoresun.com/2026/02/11/moore-touts-progress-editorial/ |access-date=February 11, 2026 |work=[[The Baltimore Sun]] |date=February 11, 2026}}</ref> As of May 2026, Republican candidates in the race have struggled to raise funds for their campaigns,<ref>{{cite news |last1=Wood |first1=Pamela |title=Wes Moore has $70 to spend on reelection for every $1 any GOP candidate has |url=https://www.thebanner.com/politics-power/state-government/maryland-governor-race-campaign-fundraising-republican-wes-moore-5KV7EPXRPNFWTIG5EEIBA2O42E/ |access-date=May 20, 2026 |work=[[The Baltimore Banner]] |date=May 20, 2026 |language=en}}</ref> lack experience in running a statewide campaign, and hold positions in line with Trump.<ref name="UMBC Approval Apr2026">{{cite news |last1=Sears |first1=Bryan P. |title=Moore job approval falls below 50% for the first time |url=https://marylandmatters.org/2026/04/01/moore-job-approval-falls-below-50-for-the-first-time/ |access-date=April 1, 2026 |work=[[Maryland Matters]] |date=April 1, 2026}}</ref> Media outlets described Cox and Hale as the frontrunners of the Republican primary.<ref>{{cite news |last1=Wood |first1=Pamela |title=A party-switcher and a MAGA loyalist are the GOP's top options to take on Moore |url=https://www.thebanner.com/politics-power/state-government/maryland-republican-governor-cox-hale-AEH7YRQPWNHA7CRVY4LFVKOTXI/ |access-date=June 17, 2026 |work=[[The Baltimore Banner]] |date=June 17, 2026 |language=en}}</ref><ref name="MooreLaunch" /><ref>{{cite news |last1=Crawford |first1=Ian |title=Moore officially launches reelection bid with Baltimore, Prince George's events |url=https://marylandmatters.org/briefs/moore-officially-launches-reelection-bid-with-baltimore-prince-georges-events/ |access-date=May 4, 2026 |work=[[WTOP-FM]] |publisher=[[Maryland Matters]] |date=May 3, 2026}}</ref>
+
+As the primaries approached, some of the [[Maryland Republican Party]]'s establishment appeared to begin coalescing around Hale, believing him to be more electable than Cox. However, Cox still enjoyed name recognition from his previous gubernatorial campaign as well as solid voter bases in Trump-leaning regions of the state.<ref name="GOPestablishment" /> In June 2026, the [[Maryland Democratic Party]] and Governor Moore began airing advertisements and sending out mailers promoting Cox over Hale.<ref>{{cite news |last1=Epstein |first1=Reid J. |title=Democrats Keep Helping Out This Far-Right Maryland Republican |url=https://www.nytimes.com/2026/06/16/us/politics/wes-moore-dan-cox-maryland.html |access-date=June 16, 2026 |work=[[The New York Times]] |date=June 16, 2026}}</ref> Cox won the Republican primary on June 23, 2026, defeating Hale.<ref>{{cite news |last1=Sears |first1=Bryan P. |last2=Will |first2=Hammann |title=Cox tops Hale in GOP primary, heads to rematch with Moore for governor |url=https://marylandmatters.org/2026/06/23/moore-cruises-to-renomination-as-republicans-duke-it-out/ |access-date=June 24, 2026 |work=[[Maryland Matters]] |date=June 23, 2026}}</ref>
+
+=== Candidates ===
+==== Nominee ====
+*[[Dan Cox]], former state delegate from the [[Maryland Legislative District 4|4th district]] (2019–2023), nominee for [[Maryland's 8th congressional district]] in [[2016 United States House of Representatives elections in Maryland#District 8|2016]], nominee for governor in [[2022 Maryland gubernatorial election|2022]], and candidate for {{ushr|MD|6}} in [[2024 Maryland's 6th congressional district election|2024]]<ref name="Cox">{{cite news |last1=Marshall |first1=Ryan |title=Cox files to run for Md. governor, with Krop as running mate |url=https://www.fredericknewspost.com/news/politics_and_government/elections/cox-files-to-run-for-md-governor-with-krop-as-running-mate/article_e93bc106-82b7-510c-bb06-cfd3232c506d.html |access-date=January 30, 2026 |work=[[The Frederick News-Post]] |date=January 30, 2026 |language=en}}</ref>
+**Running mate: Robert Krop, gun store owner<ref name="Cox" />
+
+==== Eliminated in primary ====
+*Carl Brunner, firearms instructor<ref>{{cite news |last1=Sears |first1=Bryan |last2=Ford |first2=William |title=Political notes: Hale mulls party switch, Moore gets a new gig, Shetty, Schumitz get fellowships |url=https://marylandmatters.org/2025/07/29/political-notes-hale-mulls-party-switch-moore-gets-a-new-gig-shetty-schumitz-get-fellowships/ |access-date=July 29, 2025 |work=[[Maryland Matters]] |date=July 29, 2025}}</ref>
+**Running mate: Kevin Rhodes, sales executive<ref name="mdboe">{{cite web |title=2026 Gubernatorial Primary Election State Candidates List |url=https://elections.maryland.gov/elections/2026/Primary_candidates/2026_GP_statewide_candidatelist.html |website=elections.maryland.gov |publisher=Maryland State Board of Elections |access-date=July 14, 2025}}</ref>
+*L. D. Burkindine, sheet metal business owner<ref name="FirstDebate" />
+**Running mate: Jeremy Shifflett, rental community manager<ref name="mdboe" />
+*[[Ed Hale (businessman)|Ed Hale]], retired banker and owner of the [[Baltimore Blast]] (''previously ran as a Democrat'')<ref name="HaleGOP" />
+**Running mate: Tyrone Keys, financial services professional<ref>{{cite news |last1=Moodee Lockman |first1=JT |title=Maryland gubernatorial candidate Ed Hale announces pick for lieutenant governor |url=https://www.cbsnews.com/baltimore/news/maryland-election-race-ed-hale-lieutenant-governor/ |access-date=February 19, 2026 |work=[[WJZ-TV]] |date=February 19, 2026}}</ref>
+*Douglas Larcomb, former business owner<ref name="FirstDebate" />
+**Running mate: Martina Duncan, massage therapist<ref name="mdboe" />
+*John Myrick, federal executive consultant and candidate for U.S. Senate in [[2024 United States Senate election in Maryland|2024]]<ref name="Thiam" />
+**Running mate: [[Brenda Thiam]], former [[Maryland House of Delegates|state delegate]] from [[Maryland House of Delegates District 2B|district 2B]] (2020–2023) and candidate for {{ushr|MD|6}} in [[2024 Maryland's 6th congressional district election|2024]]<ref name="Thiam">{{cite news |last1=Sears |first1=Bryan P. |title=Early GOP candidate for governor taps former delegate as running mate |url=https://marylandmatters.org/2025/05/01/early-gop-candidate-for-governor-taps-former-delegate-as-running-mate/ |access-date=May 1, 2025 |work=[[Maryland Matters]] |date=May 1, 2025}}</ref>
+*Michael Oakes, retired business owner<ref name="FirstDebate" />
+**Running mate: Ronald Abend<ref name="mdboe" />
+*Shannon Wright, nonprofit executive, pastor, and nominee for [[mayor of Baltimore]] in [[2020 Baltimore mayoral election|2020]] and [[2024 Baltimore mayoral election|2024]]<ref name="WrightHawkins">{{cite news |last1=Chingarande |first1=Tinashe |title='History matters': Shannon Wright on her historic run for Maryland governor |url=https://www.baltimoresun.com/2026/03/25/shannon-wright-maryland-governor/ |access-date=March 30, 2026 |work=[[The Baltimore Sun]] |date=March 25, 2026}}</ref>
+**Running mate: Reba Hawkins, business owner and candidate for {{ushr|MD|3}} in [[2020 United States House of Representatives elections in Maryland#District 3|2020]] and U.S. Senate in [[2022 United States Senate election in Maryland|2022]]<ref name="WrightHawkins" />
+
+====Deceased====
+*Nancy Taylor, bank teller ''(died May 25, 2026, remained on ballot)''<ref>{{cite web |title=Nancy Jane Taylor Obituary (2026) - Hagerstown, MD - McCrery & Harra Funeral Home and Crematory - Kirkwood Highway |url=https://www.legacy.com/us/obituaries/name/nancy-taylor-obituary?id=61540235 |website=Legacy.com |access-date=June 1, 2026}}</ref>
+**Running mate: Rachel "Mohawk" Swift<ref name="mdboe" />
+
+====Disqualified====
+*Kurt Wedekind, farmer<ref>{{cite news |last1=Wilson |first1=Katharine |title=Carroll County farmer launches bid for governor, says high taxes prompted his decision |url=https://www.baltimoresun.com/2025/07/01/carroll-county-farmer-launches-bid-for-governor-says-high-taxes-prompted-his-decision/ |access-date=July 1, 2025 |work=[[The Baltimore Sun]] |date=July 1, 2025}}</ref><ref name="WrightHawkins" />
+**Running mate: Shannon Wright, nonprofit executive, pastor, and nominee for [[mayor of Baltimore]] in [[2020 Baltimore mayoral election|2020]] and [[2024 Baltimore mayoral election|2024]]<ref name="mdboe" /> ''(running for governor)''<ref name="WrightHawkins" />
+
+==== Withdrew ====
+*[[Christopher Eric Bouchat]], state delegate from the [[Maryland Legislative District 5|5th district]] (2023–present)<ref>{{cite news |last1=Anderson |first1=Erik |title=Most Frederick County state legislature races will be contested |url=https://www.fredericknewspost.com/news/continuing_coverage/election_coverage/most-frederick-county-state-legislature-races-will-be-contested/article_e5e4649c-19b4-507f-a35b-2dbe31d325ba.html |access-date=February 26, 2026 |work=[[The Frederick News-Post]] |date=February 25, 2026 |language=en}}</ref>
+
+==== Declined ====
+*[[Andy Harris (politician)|Andy Harris]], [[U.S. representative]] from [[Maryland's 1st congressional district]] (2011–present)<ref>{{cite news |last1=Janesch |first1=Sam |title=Gov. Wes Moore and his potential GOP challengers converge at crab and clam bake |url=https://www.baltimoresun.com/2025/09/24/wes-moore-gop-challengers-tawes-clam-bake/ |access-date=September 24, 2025 |work=[[The Baltimore Sun]] |date=September 24, 2025 |quote=Harris criticized Moore but said emphatically that he wasn't going to run for governor himself.}}</ref> ''([[2026 United States House of Representatives elections in Maryland#District 1|running for re-election]])''<ref>{{cite news |last1=Tierney |first1=Lily |title=Harris makes reelection bid official |url=https://www.stardem.com/news/local_news/harris-makes-reelection-bid-official/article_8e17d7f7-9468-45f6-b527-31f782b969c5.html |access-date=February 3, 2026 |work=[[The Star Democrat]] |date=February 3, 2026 |language=en}}</ref>
+*[[Steve Hershey]], minority leader of the [[Maryland Senate]] (2023–present) from the [[Maryland Legislative District 36|36th district]] (2013–present) ''([[2026 Maryland Senate election#District 36|running for re-election]])''<ref name="Hershey">{{cite news |last1=Sears |first1=Bryan P. |title=Hershey ends gubernatorial bid exploration, refiles for Senate seat |url=https://marylandmatters.org/briefs/hershey-ends-gubernatorial-bid-exploration-refiles-for-senate-seat/ |access-date=February 23, 2026 |work=[[Maryland Matters]] |date=February 22, 2026}}</ref>
+*[[Larry Hogan]], former governor (2015–2023) and nominee for U.S. Senate in [[2024 United States Senate election in Maryland|2024]]<ref name="HoganOped">{{cite news |last1=Karpovich |first1=Todd |title=Larry Hogan says he won't seek another term as Maryland governor |url=https://www.baltimoresun.com/2026/01/20/larry-hogan-governor-maryland/ |access-date=January 20, 2026 |work=[[The Baltimore Sun]] |date=January 20, 2026}}</ref>
+
+===Endorsements===
+{{Endorsements box
+|title=Dan Cox
+|list=
+;Organizations
+*[[National Right to Life Committee|Maryland Right to Life]]<ref>{{cite web |title=2026 State Candidate Endorsements |url=https://mdrtl.org/wp-content/uploads/2026/06/2026-State-Endorsement.pdf |website=mdrtl.org |publisher=Maryland Right to Life |access-date=June 17, 2026}}</ref>
+}}
+{{Endorsements box
+|title=Ed Hale
+|list=
+;Statewide officials
+*[[James F. Ports Jr.]], former [[Maryland Department of Transportation|Maryland Secretary of Transportation]] (2022–2023)<ref>{{cite news |last1=Hellgren |first1=Mike |title=Maryland Republicans accuse Gov. Moore of interfering in their primary with new ads and mailers - CBS Baltimore |url=https://www.cbsnews.com/baltimore/news/republicans-outraged-maryland-wes-moores-new-ads-governor-primary/ |access-date=June 17, 2026 |work=[[WJZ-TV]] |date=June 17, 2026}}</ref>
+
+;State legislators
+*[[Jack Bailey (Maryland politician)|Jack Bailey]], state senator from the [[Maryland Legislative District 29|29th district]] (2019–present)<ref name="JJJ">{{cite news |title=Gubernatorial candidate Ed Hale endorsed by three Republican senators |url=https://foxbaltimore.com/news/local/gubernatorial-candidate-ed-hale-endorsed-three-republican-senators-maryland |access-date=April 14, 2026 |work=[[WBFF]] |date=April 14, 2026 |language=en}}</ref>
+*[[J. B. Jennings]], state senator from the [[Maryland Legislative District 7|7th district]] (2011–present)<ref name="JJJ" />
+*[[Nic Kipke]], state delegate from the [[Maryland Legislative District 31|31st district]] (2007–present)<ref>{{cite news |title=Maryland State Delegate Nic Kipke endorse gubernatorial candidate Ed Hale |url=https://foxbaltimore.com/news/local/ryan-nawrocki-kathy-szeliga-endorse-ed-hale-maryland-governor |access-date=May 12, 2026 |work=[[WBFF]] |date=May 12, 2026 |language=en}}</ref>
+*[[Ryan Nawrocki]], state delegate from [[Maryland Legislative District 7|district 7A]] (2011–present)<ref name="7A" />
+*[[Justin Ready]], state senator from the [[Maryland Legislative District 5|5th district]] (2015–present)<ref>{{cite news |title=Republican Gubernatorial candidate Ed Hale endorsed by Sen. Justin Ready |url=https://foxbaltimore.com/news/local/republican-gubernatorial-candidate-ed-hale-endorsed-justin-ready |access-date=June 3, 2026 |work=[[WBFF]] |date=June 3, 2026 |language=en}}</ref>
+*[[Johnny Ray Salling]], state senator from the [[Maryland Legislative District 6|6th district]] (2015–present)<ref name="JJJ" />
+*[[Kathy Szeliga]], state delegate from [[Maryland Legislative District 7|district 7A]] (2011–present)<ref name="7A">{{cite news |title=Delegates Nawrocki, Szeliga endorse gubernatorial candidate Ed Hale |url=https://wcbm.com/local-story/delegates-nawrocki-szeliga-endorse-gubernatorial-candidate-ed-hale/ |access-date=May 13, 2026 |work=WCBM |date=May 12, 2026 |language=en}}</ref>
+}}
+{{Endorsements box
+|title=John Myrick
+|list=
+;Organizations
+*[[Veterans for America First]]<ref>{{cite web |title=Endorsements by Veterans for America First |url=https://ballotpedia.org/Endorsements_by_Veterans_for_America_First |website=Ballotpedia |access-date=November 16, 2025 |language=en}}</ref>
+}}
+{{Endorsements box
+|title=Declined to endorse
+|list=
+;Organizations
+*[[Maryland Republican Party]]<ref name="Regroups" />
+}}
+
+===Debates and forums===
+{| class="wikitable mw-collapsible" style="text-align:center;"
+|+ class="nowrap" | 2026 Maryland Republican gubernatorial primary debates
+|- style="font-size:small;"
+!scope="col"| {{abbr|No.|Number}}
+!scope="col"| Date
+!scope="col"| Host
+!scope="col"| Moderator
+!scope="col"| Link
+!scope="col" colspan="7"| Participants
+|-
+!colspan="5" rowspan="2" |<!--
+-->{{Colors|black|#90ff90|&nbsp;P&nbsp;}} <small>Participant </small><!--
+-->{{Colors|black|#ff9090|&nbsp;A&nbsp;}} <small>Absent </small><!--
+-->{{Colors|black|#A2B2C2|&nbsp;N&nbsp;}} <small>Non-invitee </small><!--
+-->{{Colors|black|#CCFFCC|&nbsp;I&nbsp;}} <small>Invitee<!--
+-->{{color box|#f0e68c|W}} Withdrawn</small>
+! scope="col" style="background:#E81B23;"|
+! scope="col" style="background:#E81B23;"|
+! scope="col" style="background:#E81B23;"|
+! scope="col" style="background:#E81B23;"|
+! scope="col" style="background:#E81B23;"|
+|-
+!scope="col"| Burkindine
+!scope="col"| Larcomb
+!scope="col"| Myrick
+!scope="col"| Oakes
+!scole="col"| Wright
+|- style="background:#FFFFFF;font-size:small;"
+!scope="row"| 1<ref name="FirstDebate">{{cite news |last1=Schumer |first1=Mathew |title=Cox, Hale skip Maryland's first Republican gubernatorial primary debate |url=https://www.baltimoresun.com/2026/03/26/maryland-gubernatorial-candidates-debate/ |access-date=March 27, 2026 |work=[[The Baltimore Sun]] |date=March 27, 2026}}</ref>
+|style="white-space:nowrap;"| March 26, 2026
+|style="white-space:nowrap;"| North County Republican Club
+|style="white-space:nowrap;"| [[Kimberly Klacik]]<br>Torrey Snow<br>Yuripzy Morgan
+|style="white-space:nowrap;"| [[YouTube]]<ref>{{cite web |title="DEBATE on the ISSUES" - 2026 Maryland Republican Gubernatorial Primary Debate |url=https://www.youtube.com/watch?v=b1zEYkn8y5c |publisher=Metro Conservative Media |access-date=March 26, 2026 |date=March 26, 2026 |via=[[YouTube]]}}</ref>
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+|- style="background:#FFFFFF;font-size:small;"
+!scope="row"| 2<ref>{{cite news |title=Watch the Maryland Republican Gubernatorial Primary Debate |url=https://www.wypr.org/wypr-news/2026-05-19/watch-the-maryland-republican-gubernatorial-primary-debate |access-date=May 19, 2026 |work=[[WYPR]] |date=May 19, 2026 |language=en}}</ref><ref>{{cite news |last1=Chingarande |first1=Tinashe |title=Majority of Maryland GOP governor candidates to skip debate |url=https://www.baltimoresun.com/2026/05/19/ed-hale-dan-cox-debate-maryland/ |access-date=May 19, 2026 |work=[[The Baltimore Sun]] |date=May 19, 2026}}</ref>
+|style="white-space:nowrap;"| May 19, 2026
+|style="white-space:nowrap;"| [[Maryland Public Television]]
+|style="white-space:nowrap;"| Matt Bush
+|style="white-space:nowrap;"| [[YouTube]]<ref>{{cite web |title=Who are the Republican candidates running for governor? Watch Maryland GOP Governor Primary Debate |url=https://www.youtube.com/watch?v=x-QFPYUolUw |publisher=Maryland Public Television |access-date=May 19, 2026 |date=May 19, 2026 |via=[[YouTube]]}}</ref>
+| {{No|'''A'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{No|'''A'''}}
+| {{Yes|'''P'''}}
+|}
+
+===Fundraising===
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of June 7, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|Carl Brunner (R)
+|$3,368
+|$3,359
+|$10
+|-
+|{{party shading/Republican}}|L. D. Burkindine (R)
+|$1,080
+|$348
+|$732
+|-
+|{{party shading/Republican}}|Dan Cox (R)
+|$100,499{{efn|$25,800 of this total was self-funded by Cox}}
+|$146,929
+|$30,346
+|-
+|{{party shading/Republican}}|Ed Hale (R)
+|$274,501
+|$220,779
+|$53,722
+|-
+|{{party shading/Republican}}|John Myrick (R)
+|$26,725
+|$47,238
+|$3,152
+|-
+|{{party shading/Republican}}|Shannon Wright (R){{efn|As of last reported May 12, 2026}}
+|$172
+|$26,196
+|$15,236
+|-
+! colspan="4" |<small>Source: Maryland State Board of Elections<ref name="CRIS" /></small>
+|}
+
+=== Results ===
+{{Switcher|[[File:2026 Maryland Republican gubernatorial primary election results by county.svg|thumb|300px|Results by county
+{{Collapsible list
+| title = {{legend|#E27F7F|Cox}}|{{legend|#FFC8CD|30–40%}}|{{legend|#FFB2B2|40–50%}}|{{legend|#E27F7F|50–60%}}|{{legend|#D75D5D|60–70%}}
+}}
+{{Collapsible list
+| title = {{legend|#F1C92A|Hale}}|{{legend|#FFDD55|40–50%}}|{{legend|#F1C92A|50–60%}}|{{legend|#DEB02A|60–70%}}
+}}
+]]|Results by county|[[File:2026 Maryland gubernatorial Republican primary election results by precinct.svg|thumb|300px|Results by county
+{{Collapsible list
+| title = {{legend|#E27F7F|Cox}}|{{legend|#FFE0EA|20–30%}}|{{legend|#FFC8CD|30–40%}}|{{legend|#FFB2B2|40–50%}}|{{legend|#E27F7F|50–60%}}|{{legend|#D75D5D|60–70%}}|{{legend|#D72F30|70–80%}}|{{legend|#C21B18|80–90%}}|{{legend|#A80000|>90%}}
+}}
+{{Collapsible list
+| title = {{legend|#F1C92A|Hale}}|{{legend|#FFF5CC|20–30%}}|{{legend|#FFEEAA|30–40%}}|{{legend|#FFDD55|40–50%}}|{{legend|#F1C92A|50–60%}}|{{legend|#DEB02A|60–70%}}|{{legend|#CE9B1E|70–80%}}|{{legend|#B98A35|80–90%}}|{{legend|#A58100|>90%}}
+}}
+{{Collapsible list
+| title = {{legend|#5FD35F|Myrick}}|{{legend|#AAE5AA|30–40%}}|{{legend|#87DE87|40–50%}}|{{legend|#5FD35F|50–60%}}|{{legend|#37C837|60–70%}}|{{legend|#165016|>90%}}
+}}
+{{Collapsible list
+| title = {{legend|#FF9A50|Brunner}}|{{legend|#FFDAC1|20–30%}}|{{legend|#FFCCA9|30–40%}}|{{legend|#FFB580|40–50%}}|{{legend|#FF9A50|50–60%}}|{{legend|#EE8E50|60–70%}}|{{legend|#B98A35|80–90%}}|{{legend|#9D7700|>90%}}
+}}
+{{Collapsible list
+| title = {{legend|#FF80B2|Wright}}|{{legend|#FFC5DA|30–40%}}|{{legend|#FFAACC|40–50%}}|{{legend|#FF80B2|50–60%}}|{{legend|#FF5599|60–70%}}|{{legend|#e62672|80–90%}}|{{legend|#b31d59|>90%}}
+}}
+{{Collapsible list
+| title = {{legend|#B380FF|Burkindine}}|{{legend|#B380FF|50–60%}}|{{legend|#9955FF|60–70%}}|{{legend|#3D2266|>90%}}
+}}
+{{Collapsible list
+| title = {{legend|#8DA9E2|Taylor}}|{{legend|#B5C8E2|40–50%}}|{{legend|#8DA9E2|50–60%}}|{{legend|#244079|>90%}}
+}}
+{{Collapsible list
+| title = {{legend|#C64C4B|Oakes}}|{{legend|#280F0F|>90%}}
+}}
+{{Collapsible list
+| title = {{legend|#51C2C2|Larcomb}}|{{legend|#ACF2F2|30–40%}}|{{legend|#006666|>90%}}
+}}
+{{legend|#D2B1D9|Tie}}
+{{legend|#808080|No data/No votes}}]]|Results by precinct}}
+{{Election box begin no change |title = Republican primary results<ref name="Primary"/> }}
+{{Election box winning candidate with party link no change
+| candidate = {{ubl|[[Dan Cox]]|Robert Krop}}
+| party = Republican Party (United States)
+| votes = 89,982
+| percentage = 43.3
+}}
+{{Election box candidate with party link no change
+| candidate = {{ubl|[[Ed Hale (businessman)|Ed Hale]]|Tyrone Keys}}
+| party = Republican Party (United States)
+| votes = 74,877
+| percentage = 36.0
+}}
+{{Election box candidate with party link no change
+| candidate = {{ubl|John Myrick|[[Brenda Thiam]]}}
+| party = Republican Party (United States)
+| votes = 13,200
+| percentage = 6.4
+}}
+{{Election box candidate with party link no change
+| candidate = {{ubl|Carl Brunner|Kevin Rhodes}}
+| party = Republican Party (United States)
+| votes = 12,700
+| percentage = 6.1
+}}
+{{Election box candidate with party link no change
+| candidate = {{ubl|Shannon Wright|Reba Hawkins}}
+| party = Republican Party (United States)
+| votes = 4,907
+| percentage = 2.4
+}}
+{{Election box candidate with party link no change
+| candidate = {{ubl|L. D. Burkindine|Jeremy Shifflett}}
+| party = Republican Party (United States)
+| votes = 3,746
+| percentage = 1.8
+}}
+{{Election box candidate with party link no change
+| candidate = {{ubl|Nancy Taylor†|Rachael "Mohawk" Swift}}
+| party = Republican Party (United States)
+| votes = 3,690
+| percentage = 1.8
+}}
+{{Election box candidate with party link no change
+| candidate = {{ubl|Michael Oakes|Ronald Abend}}
+| party = Republican Party (United States)
+| votes = 2,583
+| percentage = 1.2
+}}
+{{Election box candidate with party link no change
+| candidate = {{ubl|Douglas Larcomb|Martina Duncan}}
+| party = Republican Party (United States)
+| votes = 2,132
+| percentage = 1.0
+}}
+{{Election box total no change
+| votes = 207,817
+| percentage = 100.0
+}}
+{{Election box end}}
+
+== Third-party and independent candidates ==
+=== Candidates ===
+==== Declared ====
+*Andy Ellis ([[Green Party of the United States|Green]]), former co-chair of the [[Maryland Green Party]] and candidate for [[Maryland House of Delegates]] in [[2018 Maryland House of Delegates election#District 45|2018]]<ref>{{cite news |last1=Swick |first1=Carson |title=Maryland Gov. Wes Moore gets new challenger in Green Party's Andy Ellis |url=https://www.baltimoresun.com/2025/05/15/maryland-gov-wes-moore-gets-new-challenger-in-green-partys-andy-ellis/ |access-date=May 15, 2025 |work=[[The Baltimore Sun]] |date=May 15, 2025}}</ref>
+**Running mate: Owen Silverman Andrews, teacher<ref>{{cite news |last1=Wood |first1=Pamela |title=Maryland's Green Party isn't in it to win it |url=https://www.thebanner.com/politics-power/state-government/maryland-green-party-governor-election-VMKEWNI5HFGTDFY2SNLQ436I3Q/ |access-date=September 22, 2025 |work=[[The Baltimore Banner]] |date=September 22, 2025 |language=en}}</ref>
+*Cathy White ([[Working Class Party]]), nominee for [[lieutenant governor of Maryland|lieutenant governor]] in [[2022 Maryland gubernatorial election|2022]]<ref name="wfp">{{cite web |title=Working Class Party is on the Ballot in Maryland for 2026 |url=https://sites.google.com/view/wcp-md |website=Working Class Party of Maryland |access-date=June 8, 2026}}</ref>
+**Running mate: Cathy Permut<ref name="wfp" />
+
+===Fundraising===
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of June 7, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Green}}|Andy Ellis (G) <!-- use numbers from the committee "Ellis/Andrews for Maryland" and add $22,359 to totals to represent funds raised by Ellis's individual campaign finance account -->
+|$37,429
+|$35,869
+|$1,560
+|-
+! colspan="4" |<small>Source: Maryland State Board of Elections<ref name="CRIS" /></small>
+|}
+
+==General election==
+===Campaign===
+Moore is widely expected to win re-election to a second term and enters the general election with a substantial fundraising advantage over Cox.<ref name="HaleConcedes">{{cite news |last1=Ibrahim |first1=Mennatalla |title=Ed Hale concedes to Dan Cox in Maryland GOP governor primary race |url=https://www.baltimoresun.com/2026/06/23/early-returns-show-hale-cox-locked-in-tight-maryland-gop-governor-race/ |access-date=June 24, 2026 |work=[[The Baltimore Sun]] |date=June 23, 2026}}</ref> 
+
+Moore is expected to campaign on his efforts to address affordability issues, expand opportunities, and protect the state from the [[second Trump administration]], whose actions have led to increased prices and caused the state to lose jobs and federal funding.<ref name="MoorePrepares" /> Moore's campaign will also seek to tie Cox to President [[Donald Trump]], who endorsed Cox in [[2022 Maryland gubernatorial election|2022]].<ref>{{cite news |last1=Wood |first1=Pamela |title=Governor rematch: Democrat Moore will face GOP's Cox again |url=https://www.thebanner.com/politics-power/maryland-governor-primary-election-2026-BBC7RVV2FBAMBBNS6UZR2I27WM/ |access-date=June 24, 2026 |work=[[The Baltimore Banner]] |date=June 23, 2026 |language=en}}</ref> Following the primary elections, the [[Maryland Democratic Party]] launched a website intended to remind voters about Cox's association with Trump as well as his past opposition to abortion rights, gun safety, and former President [[Joe Biden]]'s victory in the [[2020 United States presidential election]].<ref name="GOPLeaders" /> Cox pushed back against attempts to tie him to Trump, saying that he would not be seeking the president's endorsement and would be focusing his campaign on local issues.<ref>{{cite news |title=Republican nominee Dan Cox bites back at Gov. Moore on Maryland redistricting |url=https://wtop.com/maryland/2026/07/republican-nominee-dan-cox-bites-back-at-gov-moore-on-maryland-redistricting/ |access-date=July 1, 2026 |work=[[WTOP-FM]] |date=July 1, 2026}}</ref>
+
+Cox is expected to campaign against Moore's handling of economic issues.<ref name="CoxAffordability"/> Following the Republican primary, the [[Maryland Republican Party]] and its leaders embraced Cox,<ref name="Ehrlich" /><ref name="CoxAffordability">{{cite news |last1=Chingarande |first1=Tinashe |title=Dan Cox says Maryland affordability crisis gives GOP new opening in 2026 |url=https://www.baltimoresun.com/2026/07/08/dan-cox-says-maryland-affordability-crisis-gives-gop-new-opening-in-2026/ |access-date=July 8, 2026 |work=[[The Baltimore Sun]] |date=July 8, 2026}}</ref> with [[Maryland Senate]] minority leader [[Steve Hershey]] and [[Maryland House of Delegates|House of Delegates]] minority leader [[Jason C. Buckel]] telling ''[[The Baltimore Sun]]'' that they believed Cox could defeat Moore with an affordability-focused campaign as opposed to 2022 campaign platform, which highlighted far-right policy stances and baseless conspiracy theories. At the same time, Republican legislative leaders stated that their path to competing against Moore would rely less on defending Cox and more on persuading voters to focus on affordability and fiscal issues.<ref name="GOPLeaders">{{cite news |last1=Chingarande |first1=Tinashe |title=Maryland GOP leaders: Cox must address voter concerns, Moore's record |url=https://www.baltimoresun.com/2026/06/25/maryland-gop-leaders-cox-must-center-voter-concerns-moores-broken-promises/ |access-date=June 25, 2026 |work=[[The Baltimore Sun]] |date=June 25, 2026}}</ref>
+
+===Predictions===
+{| class="wikitable" style=text-align:center
+!Source
+!Ranking
+!As of
+|-
+|-
+|align=left|''[[The Cook Political Report]]''<ref>{{cite web|title=2026 CPR Governor Race ratings|url=https://www.cookpolitical.com/ratings/governor-race-ratings|website=[[The Cook Political Report]]|access-date=January 23, 2025}}</ref>
+|{{USRaceRating|Solid|D}}
+|September 11, 2025
+|-
+|align=left|[[Decision Desk HQ]]<ref name="DDHQ">{{cite web |title=2026 Governor Forecast |url=https://votes.decisiondeskhq.com/forecast/2026/governor |website=Decision Desk HQ |access-date=22 September 2026}}</ref>
+|{{USRaceRating|Safe|D}}
+|September 23, 2026
+|-
+|align=left|[[Fox News]]<ref>{{cite web |title=Fox News Power Rankings: The top races to watch as 36 states choose their next governor |url=https://www.foxnews.com/politics/fox-news-power-rankings-top-races-watch-36-states-choose-next-governor |website=[[Fox News]] |publisher=Rémy Numa |access-date=24 July 2026}}</ref>
+|{{USRaceRating|Solid|D}}
+|July 23, 2026
+|-
+|align=left|''[[Inside Elections]]''<ref>{{Cite web|title=Gubernatorial Ratings|url=https://insideelections.com/ratings/governor|access-date=February 7, 2025|website=[[Inside Elections]]}}</ref>
+|{{USRaceRating|Solid|D}}
+|August 28, 2025
+|-
+|align="left"|[[RealClearPolitics]]<ref>{{Cite web|title=2026 Governor Races {{!}} RealClearPolitics|url=https://www.realclearpolling.com/maps/governor/2026/toss-up|access-date=June 5, 2026|website=[[RealClearPolitics]]|archive-url=https://web.archive.org/web/20260601183127/https://www.realclearpolling.com/maps/governor/2026/toss-up|archive-date=June 1, 2026|url-status=dead}}</ref>
+|{{USRaceRating|Solid|D}}
+|June 5, 2026
+|-
+|align=left|''[[Sabato's Crystal Ball]]''<ref>{{cite web|title=2026 Governor|url=https://centerforpolitics.org/crystalball/2026-governor/|website=[[Sabato's Crystal Ball]]|access-date=May 1, 2025}}</ref>
+|{{USRaceRating|Safe|D}}
+|September 4, 2025
+|-
+| style="text-align: left;" |[[Silver Bulletin]]<ref name=":Silver">{{Cite web |last=Silver |first=Nate |date=2026-08-20 |title=FLIPR 2026 midterm election forecast |url=https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model |url-access=subscription |access-date=2026-08-20 |website=www.natesilver.net |language=en}}</ref>
+| {{US political race rating|Solid|D}}
+|August 25, 2026
+|}
+
+===Post-primary endorsements===
+{{Endorsements box
+| title = Wes Moore (D)
+| list =
+;Labor unions
+*[[International Association of Machinists and Aerospace Workers]] Maryland and D.C. State Council<ref>{{cite press release |title=IAM Maryland and D.C. State Council of Machinists Endorses Gov. Wes Moore and Lt. Gov. Aruna Miller for Reelection |url=https://www.goiam.org/news/departments/hq/politics-and-legislation/iam-maryland-and-d-c-state-council-of-machinists-endorses-gov-wes-moore-and-lt-gov-aruna-miller-for-reelection/ |website=IAM Union |access-date=July 6, 2026 |date=July 6, 2026}}</ref>
+
+;Organizations
+*[[Everytown for Gun Safety]]<ref>{{cite web |title=Everytown for Gun Safety Action Fund Announces New Round of Statewide Endorsements, Backing 40 Statewide Candidates in 15 States |url=https://momsdemandaction.org/press/everytown-for-gun-safety-action-fund-announces-new-round-of-statewide-endorsements-backing-40-statewide-candidates-in-15-states/ |website=Moms Demand Action |access-date=September 15, 2026 |language=en-us}}</ref>
+*[[Giffords]]<ref>{{cite web |title=GIFFORDS PAC endorses Governor Wes Moore for reelection |url=https://giffords.org/press-release/2026/09/giffords-pac-endorses-governor-wes-moore-for-reelection/ |website=Giffords |access-date=September 2, 2026}}</ref>
+*[[Human Rights Campaign]]<ref name="HRCAugust">{{cite web |title=Human Rights Campaign PAC Endorses Slate of Pro-Equality Candidates |url=https://www.hrc.org/press-releases/human-rights-campaign-pac-endorses-slate-of-pro-equality-candidates-for-governor-in-key-states |website=HRC |access-date=30 August 2026 |date=27 August 2026}}</ref>
+}}
+{{Endorsements box
+| title = Dan Cox (R)
+| list =
+;Statewide officials
+*[[Bob Ehrlich]], former [[governor of Maryland]] (2003–2007)<ref name="Ehrlich">{{cite news |last1=Chingarande |first1=Tinashe |title=Ehrlich endorses Dan Cox in Maryland governor's race |url=https://www.baltimoresun.com/2026/07/14/former-maryland-gop-gov-ehrlich-endorses-dan-cox/ |access-date=July 14, 2026 |work=[[The Baltimore Sun]] |date=July 14, 2026}}</ref>
+
+;State legislators
+*[[Jason C. Buckel]], minority leader of the [[Maryland House of Delegates]] (2021–present) from HD-1B (2015–present)<ref name="GOPLeaders"/>
+*[[J. B. Jennings]], [[Maryland Legislative District 7|SD-07]] (2011–present)<ref name="GOPestablishment">{{cite news |last1=Gaskill |first1=Hannah |title=Cox beat Hale in MD gubernatorial primary without Republican establishment. How? |url=https://thedailyrecord.com/2026/07/02/dan-cox-ed-hale-republican-maryland/ |access-date=July 2, 2026 |work=[[The Daily Record (Maryland)|The Daily Record]] |date=July 2, 2026}}</ref>
+*[[Justin Ready]], [[Maryland Legislative District 5|SD-05]] (2015–present)<ref name="Ehrlich" />
+*[[Kathy Szeliga]], [[Maryland Legislative District 7|HD-7A]] (2011–present)<ref name="GOPestablishment"/>
+
+;Organizations
+*[[Maryland Republican Party]]<ref name="CoxAffordability"/>
+*[[Republican Governors Association]]<ref name="CoxAffordability"/>
+}}
+{{Endorsements box
+| title = Declined to endorse
+| list =
+;Statewide officials
+*[[Larry Hogan]], former [[governor of Maryland]] (2015–2023) ''(Republican)''<ref>{{cite news |last1=Ibrahim |first1=Mennatalla |title=Hogan calls Maryland GOP gubernatorial nominees 'unelectable,' won't back Cox |url=https://www.baltimoresun.com/2026/06/29/larry-hogan-dan-cox-unelectable-gop-maryland/ |access-date=June 29, 2026 |work=[[The Baltimore Sun]] |date=June 29, 2026}}</ref>
+
+;Labor unions
+*[[National Fraternal Order of Police|Maryland State Fraternal Order of Police]]<ref>{{cite web |author1=Maryland State Fraternal Order of Police |title=Candidate Dan Cox does not have the approval to use the FOP Logo in his political ad. Additionally, his campaign finished 3rd in our endorsement process behind no endorsement (2nd) and Governor Moore (1st). Our process requires a 60% threshold for endorsement and no candidate met that requirement. |url=https://www.facebook.com/MSLFOP/posts/pfbid05zukZZbScXCVMpYMesFKRJYHYo9f3JJoTR3dTf7tVzbaQp4B5XaMrrbZGR5p5HSFl |website=Facebook |access-date=September 4, 2026 |date=September 2, 2026}}</ref>
+}}
+
+===Debates and forums===
+{| class="wikitable mw-collapsible" style="text-align:center;"
+|+ class="nowrap" | 2026 Maryland Republican gubernatorial primary debates
+|- style="font-size:small;"
+!scope="col"| {{abbr|No.|Number}}
+!scope="col"| Date
+!scope="col"| Host
+!scope="col"| Moderator
+!scope="col"| Link
+!scope="col" colspan="7"| Participants
+|-
+!colspan="5" rowspan="2" |<!--
+-->{{Colors|black|#90ff90|&nbsp;P&nbsp;}} <small>Participant </small><!--
+-->{{Colors|black|#ff9090|&nbsp;A&nbsp;}} <small>Absent </small><!--
+-->{{Colors|black|#A2B2C2|&nbsp;N&nbsp;}} <small>Non-invitee </small><!--
+-->{{Colors|black|#CCFFCC|&nbsp;I&nbsp;}} <small>Invitee<!--
+-->{{color box|#f0e68c|W}} Withdrawn</small>
+! scope="col" style="background:#3333FF;"|
+! scope="col" style="background:#E81B23;"|
+|-
+!scope="col"| Moore
+!scope="col"| Cox
+|- style="background:#FFFFFF;font-size:small;"
+!scope="row"| 1<ref>{{cite news |last1=Condon |first1=Christine |title=Moore and Cox differ on data centers at Maryland conference |url=https://marylandmatters.org/2026/08/15/moore-cox-data-centers/ |access-date=September 4, 2026 |work=[[Maryland Matters]] |date=August 15, 2026}}</ref>
+|style="white-space:nowrap;"| August 15, 2026
+|style="white-space:nowrap;"| Maryland Association of Counties
+|style="white-space:nowrap;"| Bryan P. Sears<br/>Mileah Kromer
+|style="white-space:nowrap;"| N/A
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+|- style="background:#FFFFFF;font-size:small;"
+!scope="row"| 2<ref>{{cite news |last1=Wintrode |first1=Brenda |title=Governor candidates Wes Moore and Dan Cox will meet in October debate |url=https://www.thebanner.com/politics-power/state-government/wes-moore-dan-cox-debate-BVKHOU27MJEHVL6NEYF7W2GZZE/ |access-date=September 4, 2026 |work=[[The Baltimore Banner]] |date=August 27, 2026 |language=en}}</ref><ref>{{cite news |title=Maryland gubernatorial debate on WBAL-TV, WBAL NewsRadio |url=https://www.wbaltv.com/article/politics-maryland-governors-debate-wbal-tv-2026/73940491 |access-date=October 1, 2026 |work=[[WBAL-TV]] |date=September 29, 2026 |language=en}}</ref>
+|style="white-space:nowrap;"| October 6, 2026
+|style="white-space:nowrap;"| [[Maryland Public Television]]
+|style="white-space:nowrap;"| Jason Newton
+|style="white-space:nowrap;"| [[YouTube]]<ref>{{cite web |author1=Maryland Public Television |author1-link=Maryland Public Television |title=2026 Maryland Gubernatorial Debate {{!}} Wes Moore & Dan Cox |url=https://www.youtube.com/watch?v=woz75jR3wzs |website=[[YouTube]] |access-date=October 6, 2026 |date=October 6, 2026}}</ref>
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+|}
+
+===Fundraising===
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of August 18, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|Wes Moore (D)<!-- committee name "Moore, Wes for Maryland" -->
+|$15,531,913
+|$11,335,241
+|$6,519,106
+|-
+|{{party shading/Republican}}|Dan Cox (R)
+|$241,715{{efn|$25,800 of this total was self-funded by Cox}}
+|$225,227
+|$136,092
+|-
+|{{party shading/Green}}|Andy Ellis (G)<!-- use numbers from the committee "Ellis/Andrews for Maryland" and add $22,359 to totals to represent funds raised by Ellis's individual campaign finance account -->
+|$38,066
+|$37,832
+|$234
+|-
+! colspan="4" |<small>Source: Maryland State Board of Elections<ref name="CRIS" /></small>
+|}
+
+===Polling===
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- style="vertical-align:bottom"
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"|Key:<br />A – all adults<br />RV – registered voters<br />LV – likely voters<br />V – unclear}}
+! Margin<br />of error
+! style="width:100px;"| Wes<br />Moore (D)
+! style="width:100px;"| Dan<br />Cox (R)
+! Other
+! Undecided
+|-
+|style="text-align:left;"|[[University of Maryland, Baltimore County]]<ref>{{cite web |title=UMBC Poll |url=https://politics.umbc.edu/wp-content/uploads/sites/778/2026/10/UMBC-Poll-Tuesday-Oct-6.pdf |publisher=University of Maryland, Baltimore County |access-date=October 6, 2026}}</ref>
+|September 22−27, 2026
+|776 (LV)
+|±&nbsp;3.5%
+|{{party shading/Democratic}}|'''51%'''
+|24%
+|11%{{efn|Andy Ellis (G) with 3%, Cathy White (WCP) with 3%, and "Some other candidate" with 5%}}
+|14%
+|-
+|style="text-align:left;"|Zenith Research<ref>{{cite news |last1=Sears |first1=Bryan P. |title=Poll: Moore enjoys comfortable early lead against Cox in governor's rematch |url=https://marylandmatters.org/2026/08/12/poll-moore-enjoys-comfortable-early-lead-against-cox-in-governors-rematch/ |access-date=August 12, 2026 |work=[[Maryland Matters]] |date=August 12, 2026}}</ref>{{efn-ua|Poll sponsored by Blended Public Affairs and Perry Jacobson}}
+|July 27 − August 3, 2026
+|800 (LV)
+|±&nbsp;3.5%
+|{{party shading/Democratic}}|'''58%'''
+|31%
+|3%{{efn|"Someone else" with 3%}}
+|9%
+|}
+
+<!-- = = = don't edit the line below = = = -->
+{{hidden begin|titlestyle=background:#cff|title=Hypothetical polling|contentstyle=border:solid 1px silver; padding:8px; background:var(--background-color-base); color:var(--color-base);}}
+<!-- = = = don't edit the line above = = = -->
+'''Wes Moore vs. Larry Hogan'''<br />
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- style="vertical-align:bottom"
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"|Key:<br />A – all adults<br />RV – registered voters<br />LV – likely voters<br />V – unclear}}
+! Margin<br />of error
+! style="width:100px;"| Wes<br />Moore (D)
+! style="width:100px;"| Larry<br />Hogan (R)
+! Undecided
+|-
+|style="text-align:left;"|OpinionWorks<ref name="Banner Oct25">{{cite news |last1=Sanderlin |first1=Lee O. |title=Moore outpaces Hogan in Maryland's favorite hypothetical horse race |url=https://www.thebanner.com/politics-power/state-government/maryland-governors-race-wes-moore-larry-hogan-SOYVTOYB7VECLK2P3WSHVMOXVQ/ |access-date=October 16, 2025 |work=[[The Baltimore Banner]] |date=October 16, 2025 |language=en}}</ref>
+|October 7−10, 2025
+|928 (RV)
+|±&nbsp;3.2%
+|{{party shading/Democratic}}|'''45%'''
+|37%
+|14%
+|-
+|style="text-align:left;"|Gonzales Research<ref>{{cite news |last1=Sears |first1=Bryan P. |title=Poll: Taxes to erase deficits pose political problem for Moore |url=https://marylandmatters.org/2025/01/07/poll-taxes-to-erase-deficits-pose-political-problem-for-moore/ |access-date=January 7, 2025 |work=[[Maryland Matters]] |date=January 7, 2025}}</ref>
+|December 27, 2024 − January 4, 2025
+|811 (RV)
+|±&nbsp;3.5%
+|{{party shading/Democratic}}|'''52%'''
+|38%
+|10%
+|}
+
+;Wes Moore vs. Generic Republican
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- style="vertical-align:bottom"
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"}}
+! Margin<br />of error
+! style="width:100px;"| Wes<br />Moore (D)
+! style="width:100px;"| Generic<br />Republican
+! Other
+! Undecided
+|-
+|style="text-align:left;"|Gonzales Research<ref>{{cite news |last1=Sears |first1=Bryan P. |title=Poll: Moore approval numbers continue downward trend even as most voters would OK second term |url=https://marylandmatters.org/2026/01/13/poll-moore-approval-numbers-continue-downward-trend-even-as-most-voters-would-ok-second-term/ |access-date=January 13, 2026 |work=Maryland Matters |date=January 13, 2026}}</ref>
+|December 21, 2025 − January 6, 2026
+|808 (RV)
+|±&nbsp;3.5%
+|{{party shading/Democratic}}|'''50%'''
+|28%
+|6%{{efn|"Third-party candidate" with 6%}}
+|16%
+|-
+|style="text-align:left;"|[[University of Maryland, Baltimore County]]<ref>{{cite news |last1=Sears |first1=Bryan P. |title=Poll: Nearly half of voters back Moore as field of challengers continues to develop |url=https://marylandmatters.org/2025/11/05/poll-nearly-half-of-voters-back-moore-as-field-of-challengers-continues-to-develop/ |access-date=November 5, 2025 |work=[[Maryland Matters]] |date=November 5, 2025}}</ref>
+|October 21−25, 2025
+|757 (RV)
+|±&nbsp;3.5%
+|{{party shading/Democratic}}|'''49%'''
+|29%
+|12%
+|10%
+|-
+|style="text-align:left;"|OpinionWorks<ref name="Banner Oct25" />
+|October 7−10, 2025
+|928 (RV)
+|±&nbsp;3.2%
+|{{party shading/Democratic}}|'''47%'''
+|29%
+|–
+|21%
+|}
+{{hidden end}}
+<!--
+===Results===
+Wait until the week of the election to unhide this section.
+{{Election box begin
+| title = 2026 Maryland gubernatorial election
+}}
+{{Election box candidate with party link
+| candidate = {{ubl|[[Wes Moore]] (incumbent)|[[Aruna Miller]] (incumbent)}}
+| party = Democratic Party (United States)
+| votes = 
+| percentage = 
+| change = 
+}}
+{{Election box candidate with party link
+| candidate = {{ubl|[[Dan Cox]]|Robert Krop}}
+| party = Republican Party (United States)
+| votes = 
+| percentage = 
+| change = 
+}}
+{{Election box candidate with party link
+| candidate = {{ubl|Cathy White|Cathy Permut}}
+| party = Working Class Party
+| votes = 
+| percentage = 
+| change = 
+}}
+{{Election box candidate with party link
+| candidate = {{ubl|Andy Ellis|Owen Silverman Andrews}}
+| party = Green Party (United States)
+| votes = 
+| percentage = 
+| change = 
+}}
+{{Election box write-in with party link|
+|votes = 
+|percentage = 
+|change = 
+}}
+{{Election box total
+| votes = 
+| percentage = 
+| change = N/A
+}}
+{{Election box end}}
+-->
+
+== See also ==
+*[[2026 United States gubernatorial elections]]
+*[[2026 Maryland elections]]
+
+== Notes ==
+{{notelist}}
+'''Partisan clients'''<br />
+{{notelist-ua}}
+
+== References ==
+{{reflist}}
+
+==External links==
+;Official campaign websites
+*[https://dancoxforgovernor.com/ Dan Cox (R)]
+*[https://www.gogreen2026.com/ Andy Ellis (G)]
+*[https://wesmoore.com/ Wes Moore (D)]
+
+{{2026 United States elections}}
+
+[[Category:Maryland gubernatorial elections]]
+[[Category:2026 Maryland elections|Gubernatorial]]
+[[Category:2026 United States gubernatorial elections|Maryland]]
+[[Category:Wes Moore]]

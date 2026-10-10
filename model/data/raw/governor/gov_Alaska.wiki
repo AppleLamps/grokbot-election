@@ -1,0 +1,1508 @@
+{{short description|none}}
+{{for|related races|2026 United States gubernatorial elections}}
+{{Use American English|date=January 2025}}
+{{use mdy dates|date=January 2025}}
+{{Infobox election
+| election_name = 2026 Alaska gubernatorial election
+| country = Alaska
+| type = presidential
+| ongoing = yes
+| previous_election = 2022 Alaska gubernatorial election
+| previous_year = 2022
+| next_election = 2030 Alaska gubernatorial election
+| next_year = 2030
+| election_date = November 3, 2026
+| image1 = JKTphoto (cropped).jpg
+| candidate1 = [[Jonathan Kreiss-Tomkins]]
+| party1 = Alaska Democratic Party
+| running_mate1 = Zac Johnson
+| popular_vote1 = 
+| percentage1 = 
+| image2 = Bernadette Wilson at Chris Birch memorial service.jpg
+| candidate2 = Bernadette Wilson
+| party2 = Alaska Republican Party
+| running_mate2 = [[Mike Shower]]
+| popular_vote2 = 
+| percentage2 = 
+| image4 = Dave Bronson March 2022.jpg
+| candidate4 = [[Dave Bronson]]
+| party4 = Alaska Republican Party
+| running_mate4 = Josh Church
+| popular_vote4 = 
+| percentage4 = 
+| image5 = 3x4.svg
+| candidate5 = [[Treg Taylor]]
+| party5 = Alaska Republican Party
+| running_mate5 = Candice English
+| percentage5 = 
+| map_image = 
+| map_size = 
+| map_caption = 
+| title = [[Governor of Alaska|Governor]]
+| before_election = [[Mike Dunleavy (politician)|Mike Dunleavy]]
+| before_party = Alaska Republican Party
+| after_election = 
+| after_party = 
+}}
+{{ElectionsAK}}
+The '''2026 Alaska gubernatorial election''' is scheduled to take place on November 3, 2026, to elect the next [[Governor of Alaska|governor]] and [[Lieutenant Governor of Alaska|lieutenant governor of Alaska]]. A nonpartisan [[top-four primary]] election occurred on August 18, 2026, in which four candidates would advance to a [[Ranked-choice voting in the United States|ranked-choice]] general election.<ref>{{cite web|title = Primary Election Information|url = https://www.elections.alaska.gov/Core/primaryelectioninformation.php|website = Alaska Division of Elections|access-date = 2024-12-15|quote = Primary elections are held on the third Tuesday in August of even numbered years.|archive-url = https://web.archive.org/web/20220504030110/https://www.elections.alaska.gov/Core/primaryelectioninformation.php|archive-date = May 4, 2022|url-status = dead}}</ref> Incumbent governor [[Mike Dunleavy (politician)|Mike Dunleavy]] is term-limited and ineligible to seek a third consecutive term.
+
+==Candidates==
+=== Republican Party ===
+==== Advanced to general ====
+*[[Dave Bronson]], former [[mayor of Anchorage]] (2021–2024)<ref>{{cite web |last1=Barnwell |first1=Jack |publisher=[[Fairbanks Daily News-Miner]] |access-date=October 2, 2025 |url=https://www.newsminer.com/news/alaska_news/dave-bronson-former-anchorage-mayor-enters-governors-race/article_5585e6aa-07f1-433b-b298-03c0b86758af.html |date=October 2, 2025 |title=Dave Bronson, former Anchorage mayor, enters governor's race}}</ref>
+**Running mate: Josh Church, financial professional<ref>{{cite web |last1=Davidson |first1=Joel |title=Bronson announces lieutenant governor running mate |url=https://alaskawatchman.com/2026/01/14/bronson-announces-lieutenant-governor-running-mate/ |access-date=January 15, 2026 |work=Alaska Watchman |date=January 14, 2026}}</ref>
+*Bernadette Wilson, waste management company founder and conservative activist<ref name="Wilson">{{cite news |last1=Brooks |first1=James |title=Third Republican candidate, Bernadette Wilson, enters Alaska governor's race |url=https://alaskabeacon.com/2025/05/14/third-republican-candidate-bernadette-wilson-enters-alaska-governors-race/ |access-date=May 14, 2025 |work=[[Alaska Beacon]] |date=May 14, 2025}}</ref>
+**Running mate: [[Mike Shower]], former minority leader of the [[Alaska Senate]] (2025) from [[Alaska Senate district O|district O]] (2018–2025)<ref>{{cite web|url=https://www.adn.com/politics/2025/09/10/bernadette-wilson-chooses-wasilla-senator-as-running-mate-in-alaska-governors-race/|title=Bernadette Wilson chooses Wasilla senator as running mate in Alaska governor's race|last=Samuels|first=Iris|date=September 10, 2025|access-date=September 11, 2025|website=[[Anchorage Daily News]]}}</ref>
+*[[Treg Taylor]], former [[Alaska Attorney General]] (2021–2025)<ref>{{Cite web |last=Pike |first=Josiah |date=2025-09-17 |title=Former Attorney General Treg Taylor announces gubernatorial campaign |url=https://www.alaskasnewssource.com/2025/09/17/former-attorney-general-treg-taylor-announces-gubernatorial-campaign/ |access-date=2026-09-05 |website=alaskasnewssource.com |language=en}}</ref><ref>{{Cite news |last=Downing |first=Suzanne |date=2026-09-05 |title=Breaking: Dahlstrom reverses course, puts Treg Taylor back on governor’s ballot - Alaska Story |url=https://thealaskastory.com/breaking-dahlstrom-reverses-course-puts-treg-taylor-back-on-governors-ballot/ |access-date=2026-09-05 |work=Alaska Story |language=en-US}}</ref>
+**Candice English, oil and gas support business owner<ref>{{Cite web |last=Samuels |first=Iris |last2=Kanagy |first2=Mari |title=Candidate slate finalized for Alaska’s statewide elections |url=https://www.adn.com/politics/2026/06/01/early-shakeup-as-alaska-candidates-have-until-5-pm-monday-to-file-for-office/ |access-date=2026-09-05 |website=Anchorage Daily News}}</ref>
+
+==== Eliminated in primary ====
+* [[Click Bishop]], former [[Alaska State Senate|state senator]] from [[Alaska Senate district R|district R]] (2013–2025)<ref name="Wilson" />{{efn|name="moot"|Also filed paperwork to withdraw after primary}}
+**Running mate: Greta Schuerch, member of the [[NANA Regional Corporation]] board of directors ''(Independent)''<ref>{{cite web|url=https://www.adn.com/politics/2026/04/08/alaska-governor-candidate-click-bishop-chooses-inupiaq-leader-greta-schuerch-as-running-mate/|title=Alaska governor candidate Click Bishop chooses Iñupiaq leader Greta Schuerch as running mate|last=Samuels|first=Iris|date=April 8, 2026|access-date=April 13, 2026|website=[[Anchorage Daily News]]}}</ref>{{efn|name="moot"}}
+*Adam Crum, former commissioner of the Alaska Department of Revenue<ref>{{cite news |author=Samuels, Iris |date=August 12, 2025 |access-date=August 13, 2025 |work=[[Anchorage Daily News]] |url=https://www.adn.com/politics/2025/08/11/former-alaska-revenue-commissioner-is-the-8th-republican-to-enter-governors-race/ |title=Former Alaska revenue commissioner is the 8th Republican to enter governor's race}}</ref>
+**Running mate: Robert Craig, former healthcare executive<ref name=":1" />
+*[[Edna DeVries]], mayor of [[Matanuska-Susitna Borough, Alaska|Matanuska-Susitna Borough]] (2021–present)<ref>{{cite news |last1=Maguire |first1=Sean |title=Mat-Su mayor files to run as a Republican for Alaska governor |url=https://www.adn.com/politics/2025/06/12/mat-su-mayor-files-to-run-as-a-republican-for-alaska-governor/ |access-date=June 12, 2025 |work=[[Anchorage Daily News]] |date=June 12, 2025}}</ref>
+**Running mate: George Hightower, retired physician<ref name=":2" />
+*Michael Loren Gilbert<ref name=":4" />
+**Running mate: Timothy Hickel<ref name=":4" />
+*Matt Heilala, member of the [[Alaska State Medical Board]] (2021–present)<ref name=":3">{{Cite web |date=2025-07-16 |title=Anchorage podiatrist joins all-Republican field in 2026 Alaska governor's race |url=https://alaskapublic.org/news/politics/2025-07-15/anchorage-podiatrist-joins-all-republican-field-in-2026-alaska-governors-race |access-date=2025-07-16 |website=[[Alaska Public Media]] |author=Stone, Eric |language=en}}</ref>
+**Running mate: [[Jesse Sumner (politician)|Jesse Sumner]], former [[Alaska House of Representatives|state representative]] from the 28th district (2023–2025)<ref name=":2">{{Cite news |last=Samuels |first=Iris |date=May 29, 2026 |title=Alaska gubernatorial candidates rush to announce running mates as deadline nears to finalize ballot |url=https://www.adn.com/politics/2026/05/29/alaska-gubernatorial-candidates-rush-to-announce-running-mates-as-deadline-nears-to-finalize-ballot/ |access-date=May 31, 2026 |work=[[Anchorage Daily News]]}}</ref>{{efn|name="moot"}}
+*[[Shelley Hughes]], former majority leader of the [[Alaska Senate]] (2021–2023) from [[Alaska Senate district M|district M]] (2017–2025)<ref>{{Cite web |date=2025-07-25 |title=Palmer state Sen. Shelley Hughes announces campaign for governor |url=https://alaskapublic.org/news/politics/alaska-legislature/2025-07-25/palmer-state-sen-shelley-hughes-announces-campaign-for-governor |access-date=2025-07-26 |website=[[Alaska Public Media]] |author=Stone, Eric |language=en}}</ref>
+**Running mate: Blake Gettys, retired [[United States Air Force|U.S. Air Force]] [[brigadier general]]<ref>{{Cite web |last=Lehman |first=Haley |date=2026-05-01 |title=Alaska Republican gubernatorial candidate Shelley Hughes picks Blake Gettys as running mate |url=https://alaskabeacon.com/briefs/alaska-republican-gubernatorial-candidate-shelley-hughes-picks-blake-gettys-as-running-mate/ |access-date=2026-05-28 |website=Alaska Beacon |language=en-US}}</ref>
+*Henry R. "Hank" Kroll, author<ref>{{Cite web |last=Courtney |first=Wil |date=2025-11-14 |title=Palmer senator to leave office Friday to focus on gubernatorial campaign |url=https://www.alaskasnewssource.com/2025/11/14/palmer-senator-hughes-leave-office-friday-focus-gubernatorial-campaign/ |access-date=2025-12-05 |website=alaskasnewssource.com |language=en}}</ref>
+**Running mate: Tommy R. Nicholson III ''(Independent)''<ref name=":4">{{Cite news |date=2021-12-07 |title=Candidates - Division of Elections |url=https://www.elections.alaska.gov/candidates/?election=26prim |archive-url=https://web.archive.org/web/20251002223343/https://www.elections.alaska.gov/candidates/?election=26prim |archive-date=2025-10-02 |access-date=2025-12-05 |work=Division of Elections - State of Alaska |language=en-US}}</ref>
+*[[Lesil McGuire]], former [[Alaska Senate|state senator]] from [[Alaska Senate district K|district K]] (2007–2017)<ref name=":2" /> ''(endorsed Kreiss-Tomkins)''<ref name="McGuire">{{cite tweet|user=alaskalandmine|number=2099974934902772031|title=Republican Lesil McGuire endorsed Democrat Jonathan Kreiss-Tomkins for governor. #akleg|access-date=September 15, 2026}}</ref>
+**Running mate: Elizabeth Rexford, legislative staffer<ref name=":5">{{Cite news |last=Samuels |first=Iris |last2=Kanagy |first2=Mari |date=June 1, 2026 |title=Candidate slate finalized for Alaska’s statewide elections |url=https://www.adn.com/politics/2026/06/01/early-shakeup-as-alaska-candidates-have-until-5-pm-monday-to-file-for-office/ |access-date=June 2, 2026 |work=[[Anchorage Daily News]]}}</ref>
+*James W. "JP4" Parkin, lab technician and retired educator<ref>{{Cite news |last=Larson |first=Clarise |date=July 16, 2025 |title=Angoon resident and former teacher launches bid for Alaska governor |url=https://www.ktoo.org/2025/07/16/angoon-resident-and-former-teacher-launches-bid-for-alaska-governor/ |url-status=live |archive-url=https://web.archive.org/web/20250716185128/https://www.ktoo.org/2025/07/16/angoon-resident-and-former-teacher-launches-bid-for-alaska-governor/ |archive-date=July 16, 2025 |access-date=August 4, 2025 |work=[[KTOO (FM)|KTOO]]}}</ref>
+**Running mate: Ramadhani "Ram" Greer, general contractor ''(Democratic)''<ref name=":6">{{Cite news |title=2026 Alaska Primary Voter Guide |url=https://alaskapublic.org/news/2026-alaska-primary#/alaska-governor-and-lieutenant-governor |access-date=August 5, 2026 |work=[[Alaska Public Media]]}}</ref>
+
+====Withdrawn====
+*[[Nancy Dahlstrom]], [[Lieutenant Governor of Alaska]] (2022–present) and candidate for [[Alaska's at-large congressional district]] in [[2024 United States House of Representatives election in Alaska|2024]]<ref name=Wilson/><ref name=":5" />
+
+====Declined====
+*[[Lisa Murkowski]], [[United States Senate|U.S. Senator]] (2002–present) and daughter of former governor [[Frank Murkowski]]<ref>{{Cite web |last=Meyer |first=Matt |date=2026-02-08 |title=Murkowski begrudgingly rules out an Alaska gubernatorial bid |url=https://www.cnn.com/politics/live-news/trump-administration-news-02-08-26 |access-date=2026-02-08 |website=CNN |language=en}}</ref>
+
+====Fundraising====
+''Italics'' indicate a withdrawn or disqualified candidate
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of February 1, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|Click Bishop (R)
+|$283,606
+|$163,347
+|$130,259
+|-
+|{{party shading/Republican}}|Dave Bronson (R)
+|$217,284
+|$87,219
+|$130,065
+|-
+|{{party shading/Republican}}|Adam Crum (R)
+|$347,986
+|$168,245
+|$179,741
+|-
+|{{party shading/Republican}}|''Nancy Dahlstrom'' (R)
+|$17,810
+|$12,930
+|$4,880
+|-
+|{{party shading/Republican}}|Edna DeVries (R)
+|$10,986
+|$5,617
+|$9,359
+|-
+|{{party shading/Republican}}|Matt Heilala (R)
+|$1,364,237
+|$354,757
+|$1,009,480
+|-
+|{{party shading/Republican}}|Shelley Hughes (R)
+|$306,510
+|$147,798
+|$158,712
+|-
+|{{party shading/Republican}}|Henry Kroll (R)
+|$0
+|$0
+|$0
+|-
+|{{party shading/Republican}}|James Parkin (R)
+|$1,799
+|$1,668
+|$131
+|-
+|{{party shading/Republican}}|Treg Taylor (R)
+|$880,310
+|$155,679
+|$724,631
+|-
+|{{party shading/Republican}}|''Bruce Walden'' (R)
+|$2,192
+|$0
+|$2,192
+|-
+|{{party shading/Republican}}|Bernadette Wilson (R)
+|$305,985
+|$241,190
+|$64,794
+|-
+! colspan="4" |<small>Source: Alaska Public Offices Commission<ref name="APOC">{{cite web |title=APOC Online Reports |url=https://aws.state.ak.us/apocreports/CampaignDisclosure/CDForms.aspx |publisher=Alaska Public Offices Commission |access-date=April 16, 2026}}</ref></small>
+|}
+
+===Democratic Party===
+====Advanced to general====
+*[[Jonathan Kreiss-Tomkins]], former state representative from the 35th district (2013–2023)<ref>{{cite news |last1=Brooks |first1=James |title=Alaska’s race for governor picks up 16th candidate, a former state legislator from Sitka |url=https://alaskabeacon.com/2026/02/04/alaskas-governor-race-picks-up-16th-candidate-a-former-state-legislator-from-sitka/ |access-date=February 4, 2026 |work=[[Alaska Beacon]] |date=February 4, 2026}}</ref>
+** Running mate: Zac Johnson, [[Anchorage Assembly|Anchorage assemblymember]] for the 6th district ''(Independent)''<ref> {{ cite news |last1=Lee | first1=Hannah |title=Anchorage assemblymember named as Jonathan Kreiss-Tomkins’ choice for Lieutenant Governor|url=https://www.alaskasnewssource.com/2026/06/01/anchorage-assemblymember-named-jonathan-kreiss-tomkins-choice-lieutenant-governor/
+}}</ref>
+
+====Withdrew after advancing to general====
+*[[Tom Begich]], former Minority Leader of the [[Alaska Senate]] (2019–2023) from [[Alaska Senate district J|district J]] (2017–2023) and uncle of [[U.S. House of Representatives|U.S. Representative]] [[Nick Begich III]]<ref>{{Cite news |work=[[Alaska's News Source]] |access-date=August 18, 2025 |url=https://www.alaskasnewssource.com/2025/08/18/tom-begich-former-senate-minority-leader-enters-governors-race-first-democrat-join-crowded-field/ |author=Courtney, Wil |date=August 18, 2025 |title=Tom Begich enters governor's race, first Democrat to join crowded field}}</ref> ''(endorsed Kreiss-Tomkins)''<ref name=BegichWithdrawal>{{cite news |last1=Samuels |first1=Iris |date=August 28, 2026 |title=Tom Begich says he will withdraw from Alaska governor’s race |url=https://www.adn.com/politics/2026/08/28/tom-begich-says-he-will-withdraw-from-alaska-governors-race/ |access-date=August 29, 2026 |work=[[Anchorage Daily News]]}}</ref>
+**Running mate: Julia Hnilicka, former Alaska state director for [[USDA Rural Development]] and nominee for Alaska's 6th house district in [[2020 Alaska House of Representatives election#District 6|2020]]<ref>{{Cite web |last=Samuels |first=Iris |title=Tom Begich picks former Biden official Julia Hnilicka as running mate in Alaska governor’s race |url=https://www.adn.com/politics/alaska-legislature/2026/05/27/tom-begich-picks-former-biden-official-julia-hnilicka-as-running-mate-in-alaska-governors-race/ |access-date=2026-05-28 |website=Anchorage Daily News}}</ref>
+
+====Withdrawn====
+*[[Matt Claman]], state senator from [[Alaska Senate district H|district H]] (2023–present) ''(endorsed Kreiss-Tomkins)''<ref>{{Cite web |last=Samuels |first=Iris |date=2026-06-27 |title=Democrat exits Alaska governor’s race, leaving 17 in crowded contest |url=https://www.adn.com/politics/2026/06/27/democrat-exits-alaska-governors-race-leaving-17-in-crowded-contest/ |access-date=2026-06-28 |website=Anchorage Daily News}}</ref><ref name="ClamanLandmine">{{cite web |last1=Landfield |first1=Jeff |title=The Sunday Minefield – July 26, 2026 |url=https://alaskalandmine.com/landmines/the-sunday-minefield-july-26-2026/ |website=The Alaska Landmine |access-date=28 July 2026}}</ref>
+**Running mate: Sarah Skeel, former chief administrative officer of [[Providence Alaska Medical Center]]<ref name=":1" />
+
+====Declined====
+*[[Mary Peltola]], former [[U.S. Representative]] from [[Alaska's at-large congressional district]] (2022–2025)'' (running for [[2026 United States Senate election in Alaska|U.S. Senate]])''<ref>{{cite news |last1=Rogerson |first1=Riley |title=Mary Peltola Launches Alaska Senate Bid, Marking Major Recruiting Coup for Democrats |url=https://www.notus.org/congress/mary-peltola-alaska-senate-dan-sullivan-democrats-2026 |access-date=January 12, 2026 |work=[[NOTUS (website)|NOTUS]] |date=January 12, 2026}}</ref>
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of August 8, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|Tom Begich (D)
+|$1,195,970
+|$1,078,770
+|$117,199
+|-
+|{{party shading/Democratic}}|Jonathan Kreiss-Tomkins (D)
+|$2,170,998
+|$1,861,062
+|$309,935
+|-
+! colspan="4" |<small>Source: Alaska Public Offices Commission<ref name="APOC" /></small>
+|}
+
+===Independents===
+==== Eliminated in primary ====
+*Meda DeWitt, community organizer and traditional healer<ref>{{Cite news |last=Samuels |first=Iris |date=February 17, 2026 |title=Nonpartisan community organizer is 17th candidate to enter Alaska governor’s race |url=https://www.adn.com/politics/2026/02/17/nonpartisan-community-organizer-is-17th-candidate-to-enter-alaska-governors-race/ |work=[[Anchorage Daily News]]|access-date=February 17, 2026}}</ref><ref name=":2" />
+**Running mate: Christopher Steere, Dewitt's campaign manager<ref name=":2" />
+*Destry J. Payne Sr., welder-fabricator<ref name=":5" />
+**Running mate: Cliff Silvers, mechanic<ref name=":5" /><ref name=":6" />
+*[[Bill Walker (American politician)|Bill Walker]], former [[List of governors of Alaska|governor of Alaska]] (2014–2018) and candidate for governor in [[2010 Alaska gubernatorial election|2010]] and [[2022 Alaska gubernatorial election|2022]]<ref name=":1">{{Cite web |last=Brooks |first=James |date=2026-05-28 |title=Former Alaska Gov. Bill Walker files for possible run in 2026 governor’s race |url=https://alaskabeacon.com/2026/05/28/former-alaska-gov-bill-walker-files-for-possible-run-in-2026-governors-race/ |access-date=2026-05-29 |website=Alaska Beacon |language=en-US}}</ref>
+**Running mate: Randy Hoffbeck, former commissioner of the Alaska Department of Revenue<ref name=":1" />
+
+==Primary election==
+
+===Campaign===
+The primary featured a crowded field of 17 candidates. Candidates at times struggled to distinguish themselves, while Alaska's [[Nonpartisan primary#Alaska|nonpartisan primary]] and [[Ranked-choice voting in the United States#Alaska, 2022–present|ranked-choice voting]] system were credited with encouraging more positive campaigning. As a result, candidates often emphasized areas of agreement, particularly with members of their own party.<ref name="standout">{{cite news |last1=Samuels |first1=Iris |title=In Alaska’s crowded race for governor, candidates struggle to stand out as primary nears |url=https://www.adn.com/politics/2026/08/08/in-alaskas-crowded-race-for-governor-candidates-struggle-to-stand-out/ |access-date=August 21, 2026 |work=[[Anchorage Daily News]] |date=August 9, 2026 |archive-url=https://web.archive.org/web/20260810164447/https://www.adn.com/politics/2026/08/08/in-alaskas-crowded-race-for-governor-candidates-struggle-to-stand-out/ |archive-date=August 10, 2026 |url-status=live}}</ref>
+
+Republican Bernadette Wilson called on Republican candidates to withdraw if they advanced to the general election but received fewer votes than another Republican, though she was the only candidate to pledge to do so herself. Democrats [[Tom Begich]] and [[Jonathan Kreiss-Tomkins]] similarly discussed the possibility of one withdrawing after the primary to consolidate Democratic support behind the other.<ref>{{cite news |last1=Brooks |first1=James |title=After Alaska’s ‘final four’ primary, a silent primary may decide who’s on the ballot in November |url=https://alaskabeacon.com/2026/08/14/after-alaskas-final-four-primary-a-silent-primary-may-decide-whos-on-the-ballot-in-november/ |access-date=August 21, 2026 |work=[[Alaska Beacon]] |date=August 14, 2026 |archive-url=https://web.archive.org/web/20260818213201/https://alaskabeacon.com/2026/08/14/after-alaskas-final-four-primary-a-silent-primary-may-decide-whos-on-the-ballot-in-november/ |archive-date=August 18, 2026 |url-status=live}}</ref>
+
+The race also saw heavy spending. Republicans [[Treg Taylor]] and Matt Heilala, the party's two highest-spending candidates, largely self-funded their campaigns. Heilala contributed $1.4 million to his campaign, while Taylor contributed $600,000. Taylor's contribution violated an Alaska campaign finance deadline, though he argued that the restriction was unconstitutional.<ref name="spending"/> 
+
+Kreiss-Tomkins spent more than any other candidate and reported the largest number of individual Alaskan contributors, although most of his funding came from outside the state, including employees of [[Anthropic]] and others connected to the artificial intelligence industry.<ref name="spending" /><ref name="standout" /> Begich raised approximately $1.2 million, more than half of which came from two wealthy Alaskan donors.<ref name="spending">{{cite news |last1=Samuels |first1=Iris |title=Candidates in Alaska’s open governor’s race spend big ahead of Tuesday’s primary |url=https://www.adn.com/politics/2026/08/12/candidates-in-alaskas-open-governors-race-spend-big-ahead-of-tuesdays-primary/ |access-date=August 21, 2026 |work=[[Anchorage Daily News]] |date=August 13, 2026 |archive-url=https://web.archive.org/web/20260814183245/https://www.adn.com/politics/2026/08/12/candidates-in-alaskas-open-governors-race-spend-big-ahead-of-tuesdays-primary/ |archive-date=August 14, 2026 |url-status=live}}</ref>
+
+===Endorsements===
+{{Endorsements box|
+title=Tom Begich (D)
+|list=
+;Statewide officials
+*[[Fran Ulmer]], former [[Lieutenant Governor of Alaska|lieutenant governor of Alaska]] (1994–2002)<ref>{{cite news |last1=Ulmer |first1=Fran |last2=Andrews |first2=Eleanor |last3=Hoffman |first3=Beverly |last4=Pugh |first4=Margaret |title=Opinion: Why women are supporting Tom Begich and Julia Hnilicka on Aug. 18 |url=https://www.adn.com/opinions/2026/08/14/opinion-why-women-are-supporting-tom-begich-and-julia-hnilicka-on-aug-18/ |access-date=August 14, 2026 |work=[[Anchorage Daily News]] |date=August 14, 2026}}</ref>
+
+;Labor unions
+*[[International Brotherhood of Electrical Workers]] Local 1547 ''(co-endorsement with Bishop)''<ref name ="IBEW">{{cite web |title=IBEW 1547 Dual Endorses Begich and Bishop |url=https://www.thebluealaskan.com/ibew-1547-dual-endorses-begich-and-bishop/ |website=The Blue Alaskan |access-date=29 June 2026|date=4 June 2026}}</ref>
+*[[National Education Association]]-Alaska ''(co-endorsement with Bishop and Kreiss-Tomkins)''<ref name ="NEA">{{cite web |title=NEA-Alaska Recommended Candidates |url=https://neaalaska.org/professional-excellence/student-engagement/tools-tips/nea-alaska-recommended-candidates |website=NEA-Alaska |access-date=August 6, 2026}}</ref>
+
+;Organizations
+*[[Planned Parenthood]] Alaska<ref>{{cite web |title=Planned Parenthood Alliance Advocates – Alaska Endorses Tom Begich for Governor |url=https://www.plannedparenthoodaction.org/planned-parenthood-alliance-advocates/press-releases/planned-parenthood-alliance-advocates-alaska-endorses-tom-begich-for-governor |website=Planned Parenthood Alliance Advocates |access-date=29 June 2026 |date=23 June 2026}}</ref>
+}}
+{{Endorsements box|
+title=Click Bishop (R)
+|list=
+;Labor unions
+*Alaska [[AFL-CIO]]<ref>{{cite web |last1=Quinnell |first1=Kenneth |title=Solidarity Now, Solidarity Forever! In the States Roundup |url=https://aflcio.org/2026/6/16/solidarity-now-solidarity-forever-states-roundup |website=AFL-CIO |access-date=August 27, 2026 |date=June 16, 2026}}</ref>
+*[[International Brotherhood of Electrical Workers]] Local 1547 ''(co-endorsement with Begich)''<ref name="IBEW" />
+*[[National Education Association]]-Alaska ''(co-endorsement with Begich and Kreiss-Tomkins)''<ref name ="NEA"/>
+}}
+
+{{Endorsements box
+|title= Dave Bronson (R)
+|list=
+;Party chapters
+*[[Alaska Republican Party]] District 6 ''(co-endorsement with Hughes and Wilson)''<ref name="Dist6" />
+}}
+
+{{Endorsements box
+|title= Shelley Hughes (R)
+|list=
+;Party chapters
+*[[Alaska Republican Party]] District 6 ''(co-endorsement with Bronson and Wilson)''<ref name="Dist6" />
+}}
+
+{{Endorsements box|
+title=Jonathan Kreiss-Tomkins (D)
+|list=
+;Governors
+*[[Tony Knowles (politician)|Tony Knowles]], former [[governor of Alaska]] (1994–2002)<ref name="Story">{{cite web |title=Alaska’s last Democrat governor backs Kreiss-Tomkins in crowded Alaska governor's race |url=https://thealaskastory.com/alaskas-last-democrat-governor-backs-kreiss-tomkins-in-crowded-alaska-governors-race/ |website=The Alaska Story |access-date=26 May 2026 |date=26 May 2026}}</ref>
+
+;State legislators
+*[[Forrest Dunbar]], [[Alaska State Senate|state senator]] from [[Alaska Senate district J|district J]] (2023–present)<ref name="Watchman">{{cite web |title=Big-name, tax-and-spend leftists back Kreiss-Tomkins for Alaska governor |url=https://alaskawatchman.com/2026/02/17/big-name-tax-and-spend-leftists-back-kreiss-tomkins-for-alaska-governor/ |website=The Alaska Watchman |access-date=6 April 2026 |date=27 March 2026}}</ref>
+*[[Jennie Armstrong]], [[Alaska House of Representatives|former state representative]] from the 13th district (2023–2025)<ref name="Watchman"/>
+*[[Matt Claman]], state senator from [[Alaska Senate district H|district H]] (2023–present) and withdrawn candidate in this election<ref name="ClamanLandmine"/>
+*[[Robyn Frier]], state representative from the 40th district (2025–present)<ref name="Watchman"/>
+*[[Zack Fields]], state representative from the 20th district (2019–2023) and 17th district (2023–present)<ref name="Watchman"/>
+*[[Rebecca Himschoot]], state representative from the 2nd district (2023–present)<ref name="Watchman"/>
+*[[Dan Ortiz (politician)|Dan Ortiz]], former state representative from the 36th district (2015–2023) and 1st district (2023–2025) ''(Independent)''<ref name="Watchman"/>
+*[[Calvin Schrage]], state representative from the 25th district (2021–2023) and the 12th district (2023–Present) ''(Independent)''<ref name="Watchman"/>
+
+;Local officials
+*[[Mike Navarre]], former mayor of [[Kenai Peninsula Borough]] (1996–1999; 2011–2017) and former state representative from the 5A district and 9th district (1985–1996)<ref name="Watchman"/>
+
+;Labor unions
+*[[National Education Association]]-Alaska ''(co-endorsement with Begich and Bishop)''<ref name ="NEA"/>
+}}
+
+{{Endorsements box
+|title= Bernadette Wilson (R)
+|list=
+;U.S. representatives
+*[[Byron Donalds]], {{ushr|FL|19|FL-19}} (2021–present)<ref>{{cite news |last1=Downing |first1=Suzanne |title=Video: Congressman Byron Donalds endorses Bernadette Wilson for governor of Alaska at rally |url=https://mustreadalaska.com/video-congressman-byron-donalds-endorses-bernadette-wilson-for-governor-of-alaska-at-rally/ |date=8 June 2025 |access-date=15 June 2025 |work=Must Read Alaska |language=en}}</ref>
+
+;Statewide officials
+*[[Craig Campbell (politician)|Craig Campbell]], former [[Lieutenant Governor of Alaska|lieutenant governor of Alaska]] (2009–2010)<ref>{{cite news |last1=Downing |first1=Suzanne |title=Former Lt. Gov. Craig Campbell joins Bernadette Wilson campaign, calls her the leader Alaska needs |url=https://mustreadalaska.com/former-lt-gov-craig-campbell-joins-bernadette-wilson-campaign-calls-her-the-leader-alaska-needs/ |date=8 July 2025 |access-date=18 September 2025 |work=Must Read Alaska |language=en}}</ref>
+
+;Party officials
+*[[Morton Blackwell]], [[Republican National Committee|RNC committeeman]] from [[Virginia]] (1988–present) and former [[Ronald Reagan presidency|Reagan White House]] official<ref name="Morton">{{cite web |last1=Downing |first1=Suzanne |title=Major national endorsement from conservative PAC founder boosts candidacy of Bernadette Wilson for governor |url=https://thealaskastory.com/major-national-endorsement-from-conservative-pac-founder-boosts-candidacy-of-bernadette-wilson-for-governor/ |website=The Alaska Story |access-date=12 August 2026 |date=June 30, 2026}}</ref>
+
+;Party chapters
+*[[Alaska Republican Party]] District 6 ''(co-endorsement with Bronson and Hughes)''<ref name="Dist6">{{cite web |last1=Spaulding |first1=Natalie |title=District 6 Republicans Endorse Bronson, Hughes, and Wilson for Governor |url=https://mustreadalaska.com/district-6-republicans-endorse-bronson-hughes-and-wilson-for-governor/ |website=Must Read Alaska |access-date=12 August 2026 |date=April 30, 2026}}</ref>
+}}
+
+===Polling===
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- style="vertical-align:bottom"
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"|Key:<br />A – all adults<br />RV – registered voters<br />LV – likely voters<br />V – unclear}}
+! Margin<br />{{nowrap|of error}}
+! style="width:50px;"| Tom<br />Begich<br />(D)
+! style="width:50px;"| Click<br />Bishop<br />(R)
+! style="width:50px;"| Dave<br />Bronson<br />(R)
+! style="width:50px;"| Matt<br />Claman<br />(D)
+! style="width:50px;"| Nancy<br />Dahlstrom<br />(R)
+! style="width:50px;"| Jonathan<br />Kreiss-Tomkins<br />(D)
+! sttke="width:50px;"| Bill<br />Walker<br />(I)
+! style="width:50px;"| Bernadette<br />Wilson<br />(R)
+! Other
+! Undecided
+|-
+|style="text-align:left;|Change Research (D)<ref>{{cite web|title=Alaska Governor's Race |first=Melanie |last=Phillips|url=https://static1.squarespace.com/static/6982d88f853910439067d086/t/6a5e8590bc7a433fdb80e04f/1784579473215/Memo_+Alaska+Governors+Race+July.pdf |publisher=[[Squarespace]] |date=July 20, 2026 |access-date=July 28, 2026}}</ref>{{efn-ua|name=Kreiss-Tomkins}}
+|July 17–19, 2026
+|604 (LV)
+|–
+|{{party shading/Democratic}}|'''17%'''
+|4%
+|6%
+|–
+|–
+|{{party shading/Democratic}}|'''15%'''
+|{{party shading/Independent}}|'''7%'''
+|{{party shading/Republican}}|'''14%'''
+|10%{{efn| "Another Candidate" with 6%; Adam Crum (R) with 4%}}
+|{{party shading/Undecided}}|'''27%'''
+|-
+|style="text-align:left;"|Alaska Survey Research<ref name="ASRJuly2026">{{Cite web|author=alaskasurvey.bsky.social|title=BREAKING:  Tom Begich continues to lead in AK Governor’s race!|access-date=July 10, 2026|url=https://bsky.app/profile/alaskasurvey.bsky.social/post/3mq5ys4ybsc2r|date=July 8, 2026}}</ref>
+|June 30 – July 1, 2026
+|1,528 (RV)
+|±&nbsp;2.7%
+|{{party shading/Democratic}}|'''20%'''
+|9%
+|{{party shading/Republican}}|'''11%'''
+|–
+|–
+|{{party shading/Democratic}}|'''12%'''
+|9%
+|{{party shading/Republican}}|'''15%'''
+|colspan=2 {{party shading/Undecided}}|'''24%'''{{efn|Adam Crum (R) with 7%; Shelly Hughes (R) with 5%}}
+|-
+|- style="background:lightyellow;"
+| style="border-right-style:hidden; background:lightyellow;" |
+| style="border-right-style:hidden; " | June 27, 2026
+| colspan="14"| Claman withdraws from the race
+|-
+|style="text-align:left;|[[Public Policy Polling]] (D)<ref>{{cite web|title=Wide Open Race for Governor in Alaska |first=Jim |last=Williams |url=https://static1.squarespace.com/static/6982d88f853910439067d086/t/6a45940d2187097951bec0a4/1782944781841/PPP+Alaska+Memo+June+2026.pdf |publisher=[[Public Policy Polling]] |date=July 1, 2026 |access-date=July 3, 2026}}</ref>{{efn-ua|name=Kreiss-Tomkins|Poll sponsored by Kreiss-Tomkins's campaign.}}
+|June 24–25, 2026
+|529 (LV)
+|±&nbsp;4.2%
+|{{party shading/Democratic}}|'''16%'''
+|10%
+|{{party shading/Republican}}|'''13%'''
+|3%
+|–
+|{{party shading/Democratic}}|'''13%'''
+|8%
+|{{party shading/Republican}}|'''12%'''
+|colspan=2 {{party shading/Undecided}}|'''25%'''
+|-
+|- style="background:lightyellow;"
+| style="border-right-style:hidden; background:lightyellow;" |
+| style="border-right-style:hidden; " | June 1, 2026
+| colspan="14"| Dahlstrom withdraws from the race
+|-
+|- style="background:lightyellow;"
+| style="border-right-style:hidden; background:lightyellow;" |
+| style="border-right-style:hidden; " | June 1, 2026
+| colspan="14"| Walker enters the race
+|-
+|style="text-align:left;|Alaska Survey Research<ref name="ASRMay2026">{{cite web|title=BREAKING:  New AK Governor numbers! |url=https://bsky.app/profile/alaskasurvey.bsky.social/post/3mmeqzp7nuc2l |publisher=Alaska Survey Research |date=May 26, 2026 |access-date=May 26, 2026}}</ref>
+|May 14–17, 2026
+|1,401 (LV)
+|±&nbsp;3.0%
+|{{party shading/Democratic}}|'''21%'''
+|{{party shading/Republican}}|'''10%'''
+|{{party shading/Republican}}|'''11%'''
+|7%
+|6%
+|8%
+|–
+|{{party shading/Republican}}|'''16%'''
+|colspan=2 {{party shading/Undecided}}|'''22%'''
+|-
+|style="text-align:left;|Dittman Research<ref>{{Cite tweet|user=alaskalandmine|number=2052240339893989446|title=The Bronson/Church campaign 'released' this poll from Dittman Research. Just one small problem, Dittman didn't create the slide, the campaign did. So they posted it again with no Dittman logo lol. And it also shows that even with the high name ID Bronson has, only 7% of respondents picked him. Very loose.|access-date=May 10, 2026}}</ref>{{efn-ua|name=Bronson|Poll sponsored by Bronson's campaign}}
+|April 27–30, 2026
+|451 (LV)
+|–
+|{{party shading/Democratic}}|'''21%'''
+|{{party shading/Republican}}|'''6%'''
+|{{party shading/Republican}}|'''7%'''
+|5%
+|2%
+|5%
+|–
+|{{party shading/Republican}}|'''6%'''
+|13%{{efn|Treg Taylor (R) with 5%; Adam Crum (R) with 4%; Shelly Hughes (R) and Matt Heilala (R) with 2%}}
+|{{party shading/Undecided}}|'''35%'''
+|-
+|style="text-align:left;|Alaska Survey Research<ref name="ASRApr2026">{{cite web|title=BREAKING:  New Alaska Governor numbers! |url=https://bsky.app/profile/alaskasurvey.bsky.social/post/3mk6urydmko27 |publisher=Alaska Survey Research |date=April 23, 2026 |access-date=May 26, 2026}}</ref>
+|April 16–19, 2026
+|1,612 (LV)
+|±&nbsp;2.5%
+|{{party shading/Democratic}}|'''19%'''
+|{{party shading/Republican}}|'''9%'''
+|{{party shading/Republican}}|'''10%'''
+|–{{efn|name="ASRApr2026"|All 13 other candidates have less than 9% and more than 0%}}
+|–{{efn|name="ASRApr2026"}}
+|–{{efn|name="ASRApr2026"}}
+|–
+|{{party shading/Republican}}|'''14%'''
+|colspan=2 {{party shading/Undecided}}|'''48%'''{{efn|name="ASRApr2026"}}
+|-
+|style="text-align:left;|Alaska Survey Research<ref>{{cite tweet|user=PollTracker2024|number=2042329451116024117|title=Alaska Survey Research|access-date=April 13, 2026}}</ref>
+|March 19–22, 2026
+|1,061 (LV)
+|±&nbsp;3.0%
+|{{party shading/Democratic}}|'''19%'''
+|–{{efn|name="ASRMar2026"|All 13 other candidates have less than 10% and more than 0%}}
+|{{party shading/Republican}}|'''10%'''
+|{{party shading/Democratic}}|'''10%'''
+|–{{efn|name="ASRMar2026"}}
+|–{{efn|name="ASRMar2026"}}
+|–
+|{{party shading/Republican}}|'''14%'''
+|colspan=2 {{party shading/Undecided}}|'''47%'''{{efn|name="ASRMar2026"}}
+|-
+|style="text-align:left;|Lake Research Partners (D)<ref name="LRPFeb2026"/>{{efn-ua|name=Begich|Poll sponsored by Begich's campaign.}}
+|February 5–11, 2026
+|600 (LV)
+|±&nbsp;4.0%
+|{{party shading/Democratic}}|'''22%'''
+|6%
+|{{party shading/Republican}}|'''8%'''
+|6%
+|5%
+|{{party shading/Democratic}}|'''9%'''
+|–
+|{{party shading/Republican}}|'''14%'''
+|8%{{efn|Shelly Hughes (R) with 4%; Matt Heilala (R) and Treg Taylor (R) with 2%}}
+|{{party shading/Undecided}}|'''23%'''
+|}
+
+{{hidden begin|titlestyle=background:#cff|title=Hypothetical polling|contentstyle=border:solid 1px silver; padding:8px; background:var(--background-color-base); color:var(--color-base);}}
+<!-- = = = don't edit the line above = = = -->
+'''with Mary Peltola'''<br />
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"}}
+! Margin<br />{{nowrap|of error}}
+! style="width:60px;"| Tom<br />Begich<br />(D)
+! style="width:60px;"| Click<br />Bishop<br />(R)
+! style="width:60px;"| Adam<br />Crum<br />(R)
+! style="width:60px;"| Nancy<br />Dahlstrom<br />(R)
+! style="width:60px;"| Edna<br />DeVries<br />(R)
+! style="width:60px;"| Mary<br />Peltola<br />(D)
+! style="width:60px;"| Treg<br />Taylor<br />(R)
+! style="width:60px;"| Bernadette<br />Wilson<br />(R)
+! Undecided
+|-
+|style="text-align:left;|[[Data for Progress]] (D)<ref name="DFP August 2025">{{cite web|url=https://www.dataforprogress.org/blog/2025/8/8/mary-peltola-would-be-front-runner-for-alaska-governor|title=Mary Peltola Would Be Front-Runner for Alaska Governor|website=[[Data for Progress]]|date=August 8, 2023|access-date=August 8, 2025}}</ref>
+|July 21–27, 2025
+|678 (LV)
+|±&nbsp;4.0%
+|'''6%'''
+|'''6%'''
+|4%
+|{{party shading/Republican}}|'''10%'''
+|2%
+|{{party shading/Democratic}}|'''40%'''
+|3%
+|{{party shading/Republican}}|'''11%'''
+|{{party shading/Undecided}}|'''18%'''
+|}
+
+'''"Republican Primary Poll"'''{{efn|Survey asked only Republican voters. In Alaska, all candidates run on the same ballot in a "blanket primary."}}<br />
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"}}
+! Margin<br />of error
+! style="width:75px;"| Nancy<br />Dahlstrom<br />(R)
+! style="width:75px;"| Mary<br />Peltola<br />(D)
+! style="width:75px;"| Bernadette<br />Wilson<br />(R)
+! Other
+! Undecided
+|-
+|style="text-align:left;|Cygnal (R)<ref>{{cite web|url=https://alaskawatchman.com/2025/08/20/alaskas-gop-candidates-struggle-with-name-recognition/|title=Alaska's GOP candidates struggle with name recognition|last=Davidson|first=Joel|website=Alaska Watchman|date=August 20, 2025|access-date=August 22, 2025}}</ref>{{efn-ua|Poll sponsored by the Building Alaska PAC}}
+|July 24–27, 2025
+|500 (LV)
+|–
+|11%
+|9%
+|{{party shading/Republican}}|'''17%'''
+|6%
+|{{party shading/Undecided}}|'''57%'''
+|}
+{{hidden end}}
+
+===Results===
+{{Switcher
+|[[File:2026 Alaska gubernatorial primary election results map by state house district.svg|350px|thumb|Results by state house district:
+{{collapsible list
+| title = {{legend|#7996E2|Kreiss-Tomkins}}
+| {{legend|#EBF2FF|10–20%}}
+| {{legend|#DFEEFF|20–30%}}
+| {{legend|#BDD3FF|30–40%}}
+| {{legend|#A5B0FF|40–50%}}
+}}
+{{collapsible list
+| title = {{legend|#51C2C2|Begich}}
+| {{legend|#E3F7F7|10–20%}}
+| {{legend|#D0F9F9|20–30%}}
+| {{legend|#ACF2F2|30–40%}}
+}}
+{{collapsible list
+| title = {{legend|#E27F7F|Wilson}}
+| {{legend|#FFF0F5|10–20%}}
+}}
+{{collapsible list
+| title = {{legend|#FF9A50|Bronson}}
+| {{legend|#FFEFDF|10–20%}}
+}}
+{{collapsible list
+| title = {{legend|#B380FF|Bishop}}
+| {{legend|#E6CDFF|30–40%}}
+}}
+{{collapsible list
+| title = {{legend|#FACA33|Hughes}}
+| {{legend|#FDFDEC|10–20%}}
+}}]]
+|Results by state house district
+|[[File:2026 Alaska gubernatorial primary map.svg|thumb|350px|Results by precinct:
+{{collapsible list
+| title = {{legend|#584CDE|Begich}}
+| {{legend|#BDD3FF|10–20%}}
+| {{legend|#A5B0FF|20–30%}}
+| {{legend|#7996E2|30–40%}}
+| {{legend|#6674DE|40–50%}}
+| {{legend|#584CDE|50–60%}}
+| {{legend|#0D0596|70–100%}}
+}}
+{{collapsible list
+| title = {{legend|#FF2A7F|Kreiss-Tomkins}}
+| {{legend|#FFC5DA|10–20%}}
+| {{legend|#FFAACC|20–30%}}
+| {{legend|#FF80B2|30–40%}}
+| {{legend|#FF5599|40–50%}}
+| {{legend|#FF2A7F|50–60%}}
+}}
+{{collapsible list
+| title = {{legend|#FFB380|Wilson}}
+| {{legend|#FFCCAA|20–30%}}
+| {{legend|#FFB380|30–40%}}
+}}
+{{collapsible list
+| title = {{legend|#FFB2B2|Bronson}}
+| {{legend|#FFC8CD|10–20%}}
+| {{legend|#FFB2B2|20–30%}}
+}}
+{{collapsible list
+| title = {{legend|#5FD35F|Walker}}
+| {{legend|#AAE5AA|10–20%}}
+| {{legend|#87DE87|20–30%}}
+| {{legend|#5FD35F|30–40%}}
+}}
+{{collapsible list
+| title = {{legend|#C64C4B|Taylor}}
+| {{legend|#D78281|10–20%}}
+| {{legend|#C64C4B|30–40%}}
+}}
+{{collapsible list
+| title = {{legend|#7A44CC|Bishop}}
+| {{legend|#E6CDFF|10–20%}}
+| {{legend|#CCAAFF|20–30%}}
+| {{legend|#B380FF|30–40%}}
+| {{legend|#9955FF|40–50%}}
+| {{legend|#7A44CC|50–60%}}
+| {{legend|#3D2266|70–100%}}
+}}
+{{collapsible list
+| title = {{legend|#FFEEAA|Crum}}
+| {{legend|#FFEEAA|10–20%}}
+}}
+{{collapsible list
+| title = {{legend|#5FD3BC|Hughes}}
+| {{legend|#87DECD|10–20%}}
+| {{legend|#5FD3BC|20–30%}}
+}}
+]]|Results by precinct}}
+{{Election box begin no change |title=Top-four primary results<ref>{{cite news |title=Alaska Governor Primary Election Results |website=The New York Times |date=August 18, 2026 |access-date=August 19, 2026 |url=https://www.nytimes.com/interactive/2026/08/18/us/elections/results-alaska-governor-primary.html}}</ref><ref>{{Cite web |date=2026-08-16 |title=2026 Primary Election – August 18, 2026 |url=https://www.elections.alaska.gov/enr26/results/ElectionSummaryReportRPT.pdf |access-date=2026-08-19 |website=Division of Elections {{!}} State of Alaska}}</ref>}}
+{{Election box winning candidate with party link no change  
+  |party      = Alaska Democratic Party
+  |candidate  = [[Jonathan Kreiss-Tomkins]]<br>Zac Johnson
+  |votes      = 37,006
+  |percentage = 22.5
+}}
+{{Election box candidate with party link no change
+  |party      = Alaska Democratic Party
+  |candidate  = [[Tom Begich]] ''(withdrew)''<br>Julia Hnilicka ''(withdrew)''
+  |votes      = 34,172
+  |percentage = 20.8
+}}
+{{Election box winning candidate with party link no change  
+  |party      = Alaska Republican Party
+  |candidate  = Bernadette Wilson<br>[[Mike Shower]]
+  |votes      = 16,468
+  |percentage = 10.0
+}}
+{{Election box winning candidate with party link no change  
+  |party      = Alaska Republican Party
+  |candidate  = [[Dave Bronson]]<br>Josh Church
+  |votes      = 13,364
+  |percentage = 8.1
+}}
+{{Election box winning candidate with party link no change  
+  |party      = Alaska Republican Party
+  |candidate  = [[Treg Taylor]]<br>Candice English
+  |votes      = 11,928
+  |percentage = 7.3
+}}
+{{Election box candidate with party link no change  
+  |party      = Alaska Republican Party
+  |candidate  = [[Click Bishop]] ''(withdrew)''<br>Greta Schuerch ''(withdrew)''
+  |votes      = 11,527
+  |percentage = 7.0
+}}
+{{Election box candidate with party link no change  
+  |party      = Alaska Republican Party
+  |candidate  = Adam Crum<br>Robert Craig
+  |votes      = 8,922
+  |percentage = 5.4
+}}
+{{Election box candidate with party link no change  
+  |party      = Alaska Republican Party
+  |candidate  = [[Shelley Hughes]]<br>Blake Gettys
+  |votes      = 8,776
+  |percentage = 5.4
+}}
+{{Election box candidate with party link no change  
+  |party      = Independent politician
+  |candidate  = [[Bill Walker (American politician)|Bill Walker]]<br>Randy Hoffbeck
+  |votes      = 7,341
+  |percentage = 4.5
+}}
+{{Election box candidate with party link no change  
+  |party      = Alaska Republican Party
+  |candidate  = Matt Heilala<br>[[Jesse Sumner (politician)|Jesse Sumner]] ''(withdrew)''
+  |votes      = 4,330
+  |percentage = 2.6
+}}
+{{Election box candidate with party link no change  
+  |party      = Independent politician
+  |candidate  = Meda DeWitt<br>Christopher Steere
+  |votes      = 4,184
+  |percentage = 2.5
+}}
+{{Election box candidate with party link no change  
+  |party      = Alaska Republican Party
+  |candidate  = [[Edna DeVries]]<br>George Hightower
+  |votes      = 2,167
+  |percentage = 1.3
+}}
+{{Election box candidate with party link no change  
+  |party      = Alaska Republican Party
+  |candidate  = [[Lesil McGuire]]<br>Elizabeth Rexford
+  |votes      = 2,098
+  |percentage = 1.3
+}}
+{{Election box candidate with party link no change  
+  |party      = Alaska Republican Party
+  |candidate  = Michael Loren Gilbert<br>Timothy Hickel
+  |votes      = 675
+  |percentage = 0.4
+}}
+{{Election box candidate with party link no change  
+  |party      = Alaska Republican Party
+  |candidate  = James W. "JP4" Parkin<br>Ramadhani "Ram" Greer
+  |votes      = 638
+  |percentage = 0.4
+}}
+{{Election box candidate with party link no change  
+  |party      = Independent politician
+  |candidate  = Destry J. Payne Sr.<br>Cliff Silvers
+  |votes      = 372
+  |percentage = 0.2
+}}
+{{Election box candidate with party link no change  
+  |party      = Alaska Republican Party
+  |candidate  = Henry R. "Hank" Kroll<br>Tommy R. Nicholson III
+  |votes      = 335
+  |percentage = 0.2
+}}
+{{Election box total no change
+  |votes      = 164,303
+  |percentage = 100.0
+}}
+{{Election box end}}
+
+== General election ==
+===Campaign===
+After initially finishing second in the primary, Begich withdrew and endorsed Kreiss-Tomkins, allowing fifth-place finisher Taylor to advance to the general election.<ref name=BegichWithdrawal/> However, the Alaska Public Offices Commission recommended against certifying Taylor's candidacy after finding that his financial disclosure did not substantially comply with state law.<ref>{{cite news |last1=Samuels |first1=Iris |date=August 28, 2026 |title=Alaska campaign watchdog says Treg Taylor should not be allowed to run for governor |url=https://www.adn.com/politics/2026/08/28/alaska-campaign-watchdog-says-treg-taylor-should-not-be-allowed-to-run-for-governor/ |url-status=live |archive-url=https://web.archive.org/web/20260829081050/https://www.adn.com/politics/2026/08/28/alaska-campaign-watchdog-says-treg-taylor-should-not-be-allowed-to-run-for-governor/ |archive-date=August 29, 2026 |access-date=August 29, 2026 |work=[[Anchorage Daily News]]}}</ref> On August 31, [[Lieutenant Governor of Alaska|Lieutenant Governor]] [[Nancy Dahlstrom]] declined to certify Taylor, temporarily elevating his running mate, Candice English, to the gubernatorial nomination; English subsequently selected Taylor's wife, Jodi Taylor, as her running mate.<ref name="Taylor">{{cite web |last=Samuels |first=Iris |date=August 31, 2026 |title=Treg Taylor disqualified from ballot as pressure grows for consolidated governor’s race |url=https://www.adn.com/politics/2026/08/31/pressure-grows-for-a-consolidated-gop-field-in-alaska-governors-race-as-deadline-nears/ |url-status=live |archive-url=https://web.archive.org/web/20260831200254/https://www.adn.com/politics/2026/08/31/pressure-grows-for-a-consolidated-gop-field-in-alaska-governors-race-as-deadline-nears/ |archive-date=August 31, 2026 |work=[[Anchorage Daily News]]}}</ref>  On September 4, Dahlstrom reversed her decision and announced that Taylor would be certified after a preliminary review by the Alaska Department of Law raised questions about whether the financial disclosure requirements had been applied consistently.<ref>{{Cite web |last=Samuels |first=Iris |title=Treg Taylor is back in Alaska’s race for governor after election officials reverse decision |url=https://www.adn.com/politics/2026/09/04/treg-taylor-is-back-in-alaskas-race-for-governor-after-election-officials-reverse-decision/ |access-date=2026-09-05 |website=Anchorage Daily News}}</ref>
+
+In the general election campaign, Taylor softened his messaging and attempted to appeal to independent and Democratic voters. Kreiss-Tomkins pledged that Democrats, Republicans, and independents would be equally represented in his cabinet and emphasized endorsements from [[Moderate Republicans (modern United States)|moderate Republicans]]. In contrast, Wilson criticized [[Bipartisanship in United States politics|bipartisanship]] and said that bipartisan coalitions in the [[Alaska legislature]] had been ineffective.<ref name="Refine">{{cite news |last1=Samuels |first1=Iris |title=Heeding ranked choice voting, candidates refine their strategies in Alaska governor’s race |url=https://www.adn.com/politics/2026/09/16/heeding-ranked-choice-voting-candidates-refine-their-strategies-in-alaska-governors-race/ |access-date=September 18, 2026 |work=[[Anchorage Daily News]] |date=September 17, 2026 |archive-url=https://web.archive.org/web/20260917151432/https://www.adn.com/politics/2026/09/16/heeding-ranked-choice-voting-candidates-refine-their-strategies-in-alaska-governors-race/ |archive-date=September 17, 2026 |url-status=live}}</ref>
+
+Taylor and Bronson called upon Republican voters to rank all three Republicans in the race, while Wilson urged her supporters not to rank other candidates and renewed her calls for the other Republicans to drop out.<ref name="Refine"/><ref name="WilsonCalls">{{cite news |last1=Samuels |first1=Iris |title=Wilson again calls on her Republican opponents to drop out of Alaska governor’s race |url=https://www.adn.com/politics/2026/09/18/wilson-again-calls-on-her-republican-opponents-to-drop-out-of-alaska-governors-race/ |access-date=September 19, 2026 |work=[[Anchorage Daily News]] |date=September 18, 2026}}</ref>
+
+While the three Republican candidates generally agreed on most issues, including opposition to new taxation proposals from Kreiss-Tomkins, Wilson was alone in advocating for a return to paying out full [[Permanent Fund Dividend|Permanent Fund dividends]] according to the statutory formula. Incumbent governor [[Mike Dunleavy (politician)|Mike Dunleavy]] had made a similar promise  during his [[2018 Alaska gubernatorial election|2018]] campaign, but his efforts to implement the proposal had been unsuccessful. In fact, dividends reached a record low during Dunleavy's administration. The other candidates argued that following the statutory formula would be unaffordable for the foreseeable future.<ref name="WilsonCalls"/>
+
+The candidates also diverged on the issue of [[Data center|data centers]]. Bronson and Taylor were generally supportive of data centers, portraying them as an economic opportunity provided they generated their own electricity and did not drive up energy costs. Despite receiving large campaign contributions from donors connected to the artificial intelligence industry, Kreiss-Tomkins advocated for a moratorium on data center construction until a regulatory framework could be developed. He also supported regulation of artificial intelligence more broadly. Wilson also opposed data centers, highlighting their environmental impact and arguing that Kreiss-Tomkins could not be trusted on the issue.<ref>{{cite news |last1=Brooks |first1=James |title=Where do Alaska’s four governor candidates stand on data centers? |url=https://alaskabeacon.com/2026/09/18/where-do-alaskas-four-governor-candidates-stand-on-data-centers/ |access-date=September 21, 2026 |work=[[Alaska Beacon]] |date=September 18, 2026 |archive-url=https://web.archive.org/web/20260920011937/https://alaskabeacon.com/2026/09/18/where-do-alaskas-four-governor-candidates-stand-on-data-centers/ |archive-date=September 20, 2026 |url-status=live}}</ref>
+
+===Predictions===
+{| class="wikitable" style=text-align:center
+!Source
+!Ranking
+!As of
+|-
+|align=left|''[[The Cook Political Report]]''<ref>{{cite web|title=2026 CPR Governor Race ratings|url=https://www.cookpolitical.com/ratings/governor-race-ratings|website=[[The Cook Political Report]]|access-date=January 23, 2025}}</ref>
+|{{USRaceRating|Tossup}}
+|October 1, 2026
+|-
+|align=left|[[Decision Desk HQ]]<ref name="DDHQ">{{cite web |title=2026 Governor Forecast |url=https://votes.decisiondeskhq.com/forecast/2026/governor |website=Decision Desk HQ |access-date=22 September 2026}}</ref>
+|{{USRaceRating|Tossup}}
+|September 23, 2026
+|-
+|align="left"|[[Fox News]]<ref>{{Cite news |last=Numa |first=Rémy |title=Fox News Power Rankings: For the Democrats, where could it possibly go wrong? |url=https://www.foxnews.com/politics/fox-news-power-rankings-democrats-where-could-go-wrong |work=[[Fox News]] |date=September 22, 2026 |access-date=September 22, 2026}}</ref>
+|{{USRaceRating|Tossup}}
+|September 22, 2026
+|-
+|align=left|''[[Inside Elections]]''<ref>{{Cite web|title=Gubernatorial Ratings|url=https://insideelections.com/ratings/governor|access-date=October 1, 2026|website=[[Inside Elections]]}}</ref>
+|{{USRaceRating|Tossup}}
+|October 1, 2026
+|-
+|align="left"|[[RealClearPolitics]]<ref>{{Cite web|title=2026 Governor Races {{!}} RealClearPolitics|url=https://www.realclearpolling.com/maps/governor/2026/toss-up|access-date=June 5, 2026|website=[[RealClearPolitics]]|archive-url=https://web.archive.org/web/20260601183127/https://www.realclearpolling.com/maps/governor/2026/toss-up|archive-date=June 1, 2026|url-status=dead}}</ref>
+|{{USRaceRating|Lean|D|Flip}}
+|September 23, 2026
+|-
+|align="left"|''[[Sabato's Crystal Ball]]''<ref>{{cite web|title=2026 Governor|url=https://centerforpolitics.org/crystalball/2026-governor/|website=[[Sabato's Crystal Ball]]|access-date=May 1, 2025}}</ref>
+|{{USRaceRating|Lean|D|flip}}
+|October 6, 2026
+|-
+| style="text-align: left;" |[[Silver Bulletin]]<ref name=":Silver">{{Cite web |last=Silver |first=Nate |date=2026-08-20 |title=FLIPR 2026 midterm election forecast |url=https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model |url-access=subscription |access-date=2026-08-20 |website=www.natesilver.net |language=en}}</ref>
+| {{US political race rating|Safe|D|Flip}}
+|September 19, 2026
+|}
+
+===Post-primary endorsements===
+{{Endorsements box
+|title=Jonathan Kreiss-Tomkins (D)
+|list=
+;State legislators
+*[[Tom Begich]], former [[Alaska Senate|senate minority leader]] (2019–2023) from [[Alaska Senate district J|district J]] (2017–2023) and former gubernatorial candidate<ref name=BegichWithdrawal/>
+*[[Lesil McGuire]], former [[Alaska Senate|state senator]] from [[Alaska Senate district K|district K]] (2007–2017) and former gubernatorial candidate ''(Republican)''<ref name=Refine/>
+
+;Individuals
+*Julia Hnilicka, former Alaska state director for [[USDA Rural Development]] and former lieutenant gubernatorial candidate (Begich's running mate)<ref>{{cite news|last = Davis|first = Sarah|title = Democratic candidate suspends campaign for Alaska governor|url = https://www.newsnationnow.com/politics/tom-begich-suspends-campaign-alaska-governor/|website = [[NewsNation]]|date = August 29, 2026|access-date = August 30, 2026}}</ref>
+
+;Labor unions
+*Alaska [[AFL-CIO]]<ref>{{cite tweet|user=AKAFLCIO|number=2093050642625654919|title=Today, during the 41st Annual Biennial Convention of the Alaska AFL-CIO, Vice Presidents voted to endorse Jonathan-Kreiss Tomkins for Governor.|access-date=August 27, 2026}}</ref>
+
+;Organizations
+*[[Democratic Governors Association]]<ref>{{cite news |last1=Herz |first1=Nathaniel |title=National group backing Democrat Kreiss-Tomkins puts $650,000 into Alaska campaign |url=https://anchoragepress.com/national-group-backing-democrat-kreiss-tomkins-puts-650-000-into-alaska-campaign/ |access-date=September 30, 2026 |work=[[Anchorage Press]] |date=September 28, 2026 |archive-url=https://web.archive.org/web/20260928221119/https://anchoragepress.com/national-group-backing-democrat-kreiss-tomkins-puts-650-000-into-alaska-campaign/ |archive-date=September 28, 2026 |url-status=live}}</ref>
+*[[Sealaska Corporation]]<ref>{{cite web |title=Sealaska Board Announces Get Out the Native Vote Campaign and 2026 General Election Endorsements |url=https://www.mysealaska.com/news/item/local/Sealaska-Board-Announces-Get-Out-the-Native-Vote-Campaign-and-2026-General-Election-Endorsements/ |website=[[Sealaska Corporation]] |date=August 28, 2026 |access-date=October 3, 2026}}</ref>
+
+;Political parties
+*[[Alaska Democratic Party]]<ref>{{cite web|url=https://alaskademocrats.org/alaska-democrats-finalize-statewide-candidate-endorsements/|title=Alaska Democrats Finalize Statewide Candidate Endorsements|date=September 1, 2026|access-date=September 2, 2026}}</ref>
+}}
+
+{{Endorsements box|
+title=Bernadette Wilson (R)
+|list=
+;U.S. representatives
+*[[Nick Begich III]], [[AK-AL]] (2025–present)<ref name="Taylor"/>
+
+;State legislators
+*[[Shelley Hughes]], former majority leader of the [[Alaska State Senate|Alaska Senate]] (2021–2023) from [[Alaska Senate district M|district M]] (2017–2025) and former gubernatorial candidate<ref name=Refine/>
+}}
+
+===Polling===
+====Ranked-choice polls====
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- style="vertical-align:bottom"
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"|Key:<br />A – all adults<br />RV – registered voters<br />LV – likely voters<br />V – unclear}}
+! Margin<br />of error
+! RCV<br />round
+! style="width:100px;"| Bernadette<br />Wilson (R)
+! style="width:100px;"| Jonathan<br />Kreiss-Tomkins (D)
+! style="width:100px;"| Dave<br />Bronson (R)
+! style="width:100px;"| Treg<br />Taylor (R)
+! Undecided /<br /> Not Ranked
+|-
+|rowspan="3" style="text-align:left;"|Alaska Survey Research<ref>{{cite web |title=ALASKA GOVERNOR LATEST!  Is Alaska turning blue?  Alaska Survey Research October 1-3, 2026 N=1,512 likely Alaska voters MOE (weighted): +/-3.0%  Methodology:  Text-to-online + ASR Survey Panel |url=https://x.com/The_Real_ASR/status/2107585990869348810 |publisher=[[Twitter]] |access-date=October 7, 2026 |date=October 6, 2026}}</ref>
+|rowspan=3|October 1–3, 2026
+|rowspan=3|1,512 (LV)
+|rowspan=3|±&nbsp;3.0%
+|1
+|27%
+|style="background:#cce0ff"|'''48%'''
+|15%
+|10%
+|–
+|-
+|2
+|30%
+|{{party shading/Democratic}}|'''50%'''
+|20%
+|–
+|–
+|-
+|3
+|46%
+|{{party shading/Democratic}}|'''54%'''{{efn|name=continue}}
+|–
+|–
+|–
+|-
+|rowspan="4" style="text-align:left;"|[[New York Times]]/[[Siena University (New York)|Siena University]]<ref name=NYTPollOct>{{cite web|title=Toplines: September 2026 Times/Siena Poll of the Likely Electorate in Alaska|url=https://www.nytimes.com/interactive/2026/10/03/polls/times-siena-alaska-poll-toplines.html |date=October 3, 2026 |access-date=October 3, 2026}}</ref>
+|rowspan=4|September 24 – October 1, 2026
+|rowspan=4|504 (LV)
+|rowspan=4|±&nbsp;5.1%
+|{{abbr|BA|Before allocation}}
+|20%
+|style="background:#cce0ff"|'''40%'''
+|15%
+|11%
+|13% {{small|U}}
+|-
+|1
+|24%
+|style="background:#cce0ff"|'''46%'''
+|17%
+|13%
+|–
+|-
+|2
+|31%
+|style="background:#cce0ff"|'''48%'''
+|22%
+|–
+|–
+|-
+|3
+|48%
+|{{party shading/Democratic}}|'''52%'''
+|–
+|–
+|–
+|-
+|rowspan="4" style="text-align:left;"|Fabrizio Ward (R)/<br/>Impact Research (D)<ref name="AARP">{{cite web |last1=Bridges |first1=Kate |title=Alaska Voters 50+ Could Help Decide Key 2026 Races |url=https://www.aarp.org/pri/topics/voter-research/politics/2026-midterm-election-poll-alaska/?CMP=RDRCT-PRI-POLT |website=[[AARP]] |date=September 17, 2026}}</ref>{{efn-ua|name=AARP|Poll sponsored by [[AARP]]}}
+|rowspan="4"|September 8–11, 2026
+|rowspan="4"|800 (LV)
+|rowspan="4"|±&nbsp;3.5%
+|{{abbr|BA|Before allocation}}
+|20%
+|style="background:#cce0ff"|'''40%'''
+|14%
+|7%
+|18% {{small|U}}
+|-
+|1
+|25%
+|style="background:#cce0ff"|'''49%'''
+|18%
+|8%
+|18% {{small|NR}}
+|-
+|2
+|28%
+|{{party shading/Democratic}}|'''50%'''
+|21%
+|–
+|19% {{small|NR}}
+|-
+|3{{efn|name=continue}}
+|45%
+|{{party shading/Democratic}}|'''55%'''
+|–
+|–
+|25% {{small|NR}}
+|}
+
+====First-past-the-post polls====
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- style="vertical-align:bottom"
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"}}
+! Margin<br />of error
+! style="width:100px;"| Bernadette<br />Wilson (R)
+! style="width:100px;"| Jonathan<br />Kreiss-Tomkins (D)
+! style="width:100px;"| Dave<br />Bronson (R)
+! style="width:100px;"| Treg<br />Taylor (R)
+! Undecided
+|-
+| style="text-align:left;"|[[New York Times]]/[[Siena University (New York)|Siena University]]<ref name=NYTPollOct/>
+|September 24 – October 1, 2026
+|504 (LV)
+|±&nbsp;5.1%
+|20%
+|{{party shading/Democratic}}|'''40%'''
+|14%
+|7%
+|18%
+|-
+| style="text-align:left;"|Cygnal (R)<ref>{{cite web |last1=Brown |first1=Mitchell |title=Survey of n502 Likely General Election Voters in Alaska |url=https://www.cygn.al/wp-content/uploads/2026/10/AK_GOV_Memo.pdf |publisher=Cygnal |access-date=October 2, 2026 |date=September 30, 2026}}</ref>
+|September 24–27, 2026
+|502 (LV)
+|±&nbsp;4.37%
+|24%
+|{{party shading/Democratic}}|'''44%'''
+|8%
+|9%
+|15%
+|-
+| style="text-align:left;"|co/efficient (R)<ref name="co917">{{cite web |title=Alaska · U.S. Senate |url=https://battlegrounds.coefficient.org/ak/ |website=co/efficient |date=September 17, 2026}}</ref>
+|September 14–17, 2026
+|799 (LV)
+|±&nbsp;3.5%
+|20%
+|{{party shading/Democratic}}|'''43%'''
+|17%
+|6%
+|14%
+|-
+| style="text-align:left;"|Fabrizio Ward (R)/<br/>Impact Research (D)<ref name="AARP"/>{{efn-ua|name=AARP}}{{efn|name="First"|First-choice results from a ranked-choice poll}}
+|September 8–11, 2026
+|800 (LV)
+|±&nbsp;3.5%
+|20%
+|{{party shading/Democratic}}|'''40%'''
+|14%
+|7%
+|18%
+|}
+
+{{hidden begin|titlestyle=background:#cff|title=Hypothetical polling|contentstyle=border:solid 1px silver; padding:8px; background:var(--background-color-base); color:var(--color-base);}}
+<!-- = = = don't edit the line above = = = -->
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"}}
+! Margin<br />{{nowrap|of error}}
+! RCV<br />round
+! style="width:60px;"| Tom<br />Begich<br />(D)
+! style="width:60px;"| Click<br />Bishop<br />(R)
+! style="width:60px;"| Adam<br />Crum<br />(R)
+! style="width:60px;"| Nancy<br />Dahlstrom<br />(R)
+! style="width:60px;"| Edna<br />DeVries<br />(R)
+! style="width:60px;"| Mary<br />Peltola<br />(D)
+! style="width:60px;"| Treg<br />Taylor<br />(R)
+! style="width:60px;"| Bernadette<br />Wilson<br />(R)
+|-
+|rowspan=11 style="text-align:left;"|[[Data for Progress]] (D)<ref name="DFP August 2025"/>
+|rowspan=11|July 21–27, 2025
+|584 (LV)
+|rowspan=11|±&nbsp;4.0%
+|1
+|8%
+|8%
+|5%
+|13%
+|3%
+|style="background:#cce0ff"|'''47%'''
+|3%
+|13%
+|-
+|581 (LV)
+|2
+|8%
+|9%
+|5%
+|14%
+|rowspan=10 bgcolor=pink|''Elim''
+|style="background:#cce0ff"|'''48%'''
+|4%
+|14%
+|-
+|575 (LV)
+|3
+|8%
+|9%
+|5%
+|15%
+|style="background:#cce0ff"|'''48%'''
+|bgcolor=pink rowspan=9|''Elim''
+|14%
+|-
+|567 (LV)
+|4
+|9%
+|10%
+|bgcolor=pink rowspan=8|''Elim''
+|17%
+|style="background:#cce0ff"|'''49%'''
+|15%
+|-
+|562 (LV)
+|5
+|bgcolor=pink rowspan=6|''Elim''
+|10%
+|19%
+|{{Party shading/Democratic}}|'''54%'''
+|16%
+|-
+|544 (LV)
+|6{{efn|name=continue}}
+|bgcolor=pink rowspan=6|''Elim''
+|23%
+|{{Party shading/Democratic}}|'''58%'''
+|19%
+|-
+|491 (LV)
+|7{{efn|name=continue|Hypothetical continuation of elimination/distribution even though a candidate already exceeded 50%}}
+|35%
+|{{Party shading/Democratic}}|'''65%'''
+|bgcolor=pink rowspan=5|''Elim''
+|-
+|498 (LV)
+|7{{efn|Hypothetical scenario where voters whose fourth ranking is Click Bishop or Bernadette Wilson and whose vote is exhausted when those candidates are eliminated are instead distributed to Nancy Dahlstrom}}
+|36%
+|{{Party shading/Democratic}}|'''64%'''
+|-
+|539 (LV)
+|7{{efn|Hypothetical scenario above while also distributing the vote of all Republican respondents whose vote was exhausted after eliminating 'Not sure' to Nancy Dahlstrom}}
+|41%
+|{{Party shading/Democratic}}|'''59%'''
+|-
+|539 (LV)
+|7{{efn|Hypothetical scenario above while also distributing all votes exhausted when a Republican candidate is eliminated to Nancy Dahlstrom}}
+|49%
+|{{Party shading/Democratic}}|'''51%'''
+|-
+|562 (LV)
+|7{{efn|Hypothetical scenario above while also eliminating Mary Peltola in the first round}}
+|44%
+|{{Party shading/Republican}}|'''56%'''
+|bgcolor=pink|''Elim''
+|}
+'''Nick Begich vs. Mary Peltola'''<br />
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"}}
+! Margin<br />of error
+! style="width:100px;"| Nick<br />Begich (R)
+! style="width:100px;"| Mary<br />Peltola (D)
+! Other
+! Undecided
+|-
+|style="text-align:left;"|[[Data for Progress]] (D)<ref name="DfP032025">{{Cite web |date=2025-03-13 |title=Oil Taxes, Rural Subsistence, Public School Funding: These Are a Few of Alaska Voters' Favorite Things |url=https://www.dataforprogress.org/memos/2025/3/13/oil-taxes-rural-subsistence-public-school-funding-these-are-a-few-of-alaska-voters-favorite-things |first=Jason |last=Katz-Brown |access-date=2025-03-13 |website=Data For Progress |language=en-US}}</ref><ref name="DfPMarchTabs">{{Cite web|url=https://www.filesforprogress.org/datasets/2025/3/dfp_alaska_2025.pdf#page=5|title=Data for Progress March 2025 Crosstabs|website=Data for Progress|date=March 13, 2025|access-date=May 6, 2025}}</ref>
+|February 28 – March 7, 2025
+|1000 (LV)
+|±&nbsp;3.0%
+|'''46%'''
+|'''46%'''
+|5%{{efn|"I would rank neither" with 5%}}
+|3%
+|}
+
+'''Nancy Dahlstrom vs. Mary Peltola'''<br />
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"}}
+! Margin<br />of error
+! style="width:100px;"| Nancy<br />Dahlstrom (R)
+! style="width:100px;"| Mary<br />Peltola (D)
+! Other
+! Undecided
+|-
+|style="text-align:left;"|[[Data for Progress]] (D)<ref name="DfP032025"/><ref name="DfPMarchTabs"/>
+|February 28 – March 7, 2025
+|1000 (LV)
+|±&nbsp;3.0%
+|34%
+|{{party shading/Democratic}}|'''44%'''
+|14%{{efn|"I would rank neither" with 14%}}
+|7%
+|}
+
+'''Tom Begich vs. Click Bishop vs. Dave Bronson vs. Bernadette Wilson'''<br />
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- style="vertical-align:bottom"
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"|Key:<br />A – all adults<br />RV – registered voters<br />LV – likely voters<br />V – unclear}}
+! Margin<br />of error
+! style="width:60px;"| Tom<br />Begich<br />(D)
+! style="width:60px;"| Click<br />Bishop<br />(R)
+! style="width:60px;"| Dave<br />Bronson<br />(R)
+! style="width:60px;"| Bernadette<br />Wilson<br />(R)
+! Undecided
+|-
+|rowspan=3 style="text-align:left;|Alaska Survey Research<ref name="ASRApr2026"/>
+|rowspan=3|April 16–19, 2026
+|rowspan=3|1,923 (LV)
+|rowspan=3|±&nbsp;2.5%
+|{{party shading/Democratic}}|'''41%'''
+|19%
+|19%
+|22%
+|—
+|-
+|{{party shading/Democratic}}|'''44%'''
+|25%
+|—
+|31%
+|—
+|-
+|{{party shading/Democratic}}|'''54%'''
+|—
+|—
+|46%
+|—
+|-
+|style="text-align:left;|Lake Research Partners (D)<ref name="LRPFeb2026">{{cite tweet|user=TomBegich4AK|first=Tom|last=Begich|number=2024967609838436558|title=New poll just dropped 👀 Grateful for the growing trust and momentum across Alaska. Take a look at the new numbers ⬇️ #AKgov #AKleg|access-date=February 23, 2026}}</ref>{{Efn-ua|name=Begich}}
+|February 5–11, 2026
+|600 (LV)
+|±&nbsp;4.0%
+|{{party shading/Democratic}}|'''38%'''
+|8%
+|13%
+|16%
+|25%
+|-
+|}
+
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"}}
+! Margin<br />{{nowrap|of error}}
+! RCV<br />round
+! style="width:60px;"| Tom<br />Begich<br />(D)
+! style="width:60px;"| Click<br />Bishop<br />(R)
+! style="width:60px;"| Dave<br />Bronson<br />(R)
+! style="width:60px;"| Jonathan<br />Kreiss-Tomkins<br />(D)
+! style="width:60px;"| Bill<br />Walker<br />(I)
+! style="width:60px;"| Bernadette<br />Wilson<br />(R)
+|-
+|rowspan=6 style="text-align:left;"|Alaska Survey Research<ref name="ASRJuly2026"/>
+|rowspan=6|June 30 – July 1, 2026
+|rowspan=6|1,528 (LV)
+|rowspan=6|±&nbsp;2.7%
+|1
+|style="background:#cce0ff"|'''22%'''
+|13%
+|17%
+|16%
+|11%
+|style="background:#ffdbda"|'''22%'''
+|-
+|2
+|style="background:#cce0ff"|'''25%'''
+|16%
+|18%
+|18%
+|rowspan=5 bgcolor=pink|''Elim''
+|23%
+|-
+|3
+|style="background:#cce0ff"|'''29%'''
+|rowspan=4 bgcolor=pink|''Elim''
+|22%
+|21%
+|28%
+|-
+|4
+|style="background:#cce0ff"|'''45%'''
+|24%
+|rowspan=3 bgcolor=pink|''Elim''
+|31%
+|-
+|5
+|{{Party shading/Democratic}}|'''51%'''
+|rowspan=3 bgcolor=pink|''Elim''
+|49%
+|-
+|}
+{{hidden end}}
+
+===Debates and forums===
+{| class="wikitable" style="text-align:center;"
+|+ 2026 Alaska gubernatorial debates and forums{{efn|Numerous debates and forums featuring various candidates were also held during the primary campaign.}}
+|-
+! scope="col" | {{abbr|No.|Number}}
+! scope="col" | Date
+! scope="col" | Host
+! scope="col" | Moderator
+! scope="col" | Link
+! scope="col"| <small>[[Democratic Party (US)|Democratic]]</small>
+! scope="col"| <small>[[Republican Party (US)|Republican]]</small>
+! scope="col"| <small>[[Democratic Party (US)|Democratic]]</small>
+! scope="col"| <small>[[Republican Party (US)|Republican]]</small>
+! scope="col"| <small>[[Republican Party (US)|Republican]]</small>
+|-
+! colspan="5" rowspan="2" |Key:<br />{{Colors|black|#90ff90|&nbsp;P&nbsp;}} <small>Participant&nbsp;</small> {{Colors|black|#FFFFDD|&nbsp;A&nbsp;}} <small>Absent&nbsp;</small> {{Colors|black|#ff9090|&nbsp;N&nbsp;}} <small>Not invited&nbsp;</small> {{Colors|black|#CCFFCC|&nbsp;I&nbsp;}} <small>Invited {{color box|#f0e68c|W}} Withdrawn</small>
+! scope="col" style="background:{{party color|Democratic Party (US)}}"|
+! scope="col" style="background:{{party color|Republican Party (US)}}"|
+! scope="col" style="background:{{party color|Democratic Party (US)}}"|
+! scope="col" style="background:{{party color|Republican Party (US)}}"|
+! scope="col" style="background:{{party color|Republican Party (US)}}"|
+|-
+! scope="col" | Begich
+! scope="col" | Bronson
+! scope="col" | Kreiss-Tomkins
+! scope="col" | Taylor
+! scope="col" | Wilson
+|-
+!1<ref>{{cite news |last1=Samuels |first1=Iris |title=Alaska gubernatorial candidates lay out competing visions as ballots are counted |url=https://www.adn.com/politics/2026/08/26/alaska-gubernatorial-candidates-lay-out-competing-visions-as-ballots-are-counted/ |work=[[Anchorage Daily News]] |access-date=27 August 2026 |date=27 August 2026}}</ref>
+| style="white-space:nowrap;" | Aug. 26, 2026
+| style="white-space:nowrap;" | Alaska Oil and Gas Association
+| style="white-space:nowrap;" | Kati Capozzi
+| style="white-space:nowrap;" | [https://vimeo.com/1225083513 Vimeo]
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{No|'''N'''}}
+| {{Yes|'''P'''}}
+|-
+!2<ref name= "debatelist">{{cite news |last1=Brooks |first1=James |title=When will Alaska’s statewide candidates debate? Here’s a list of events. |url=https://alaskabeacon.com/2026/09/09/when-will-alaskas-statewide-candidates-debate-heres-a-list-of-events/ |access-date=September 15, 2026 |work=[[Alaska Beacon]] |date=September 9, 2026}}</ref>
+| style="white-space:nowrap;" | Aug. 28, 2026
+| style="white-space:nowrap;" | Alaska Municipal League
+| style="white-space:nowrap;" | 
+| style="white-space:nowrap;" | 
+| style="background-color:#FFFFDD"| '''A'''
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{No|'''N'''}}
+| style="background-color:#FFFFDD"| '''A'''
+|-
+!3<ref>{{cite news |last1=Rosen |first1=Yereth |title=Alaska gubernatorial candidates participate in first forum since a post-primary ballot shuffle |url=https://alaskabeacon.com/2026/09/09/alaska-gubernatorial-candidates-participate-in-first-forum-since-a-post-primary-ballot-shuffle/ |work=[[Alaska Beacon]] |access-date=10 September 2026 |date=10 September 2026 |archive-url=https://web.archive.org/web/20260910080334/https://alaskabeacon.com/2026/09/09/alaska-gubernatorial-candidates-participate-in-first-forum-since-a-post-primary-ballot-shuffle/ |archive-date=September 10, 2026 |url-status=live}}</ref>
+| rowspan="2" style="white-space:nowrap;" | Sep. 9, 2026
+| style="white-space:nowrap;" | Last Frontier Republican Club
+| style="white-space:nowrap;" | 
+| style="white-space:nowrap;" | [https://vimeo.com/event/6157924 Vimeo]
+| style="background-color:#f0e68c"| '''W'''
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| style="background-color:#FFFFDD"| '''A'''
+|-
+!4<ref>{{cite news |last1=Rosen |first1=Yereth |title=Alaska gubernatorial candidates vow support for the seafood industry while revealing some splits |url=https://alaskabeacon.com/2026/09/10/alaska-gubernatorial-candidates-vow-support-for-the-seafood-industry-while-revealing-some-splits/ |access-date=September 10, 2026 |work=[[Alaska Beacon]] |date=September 10, 2026 |archive-url=https://web.archive.org/web/20260911054911/https://alaskabeacon.com/2026/09/10/alaska-gubernatorial-candidates-vow-support-for-the-seafood-industry-while-revealing-some-splits/ |archive-date=September 11, 2026 |url-status=live}}</ref>
+| style="white-space:nowrap;" | Kodiak Chamber of Commerce<br />[[KMXT (FM)]]
+| style="white-space:nowrap;" | [[Gary Stevens (politician)|Gary Stevens]]
+| style="white-space:nowrap;" | [https://www.youtube.com/live/0jJ7z-GL3vo YouTube]
+| style="background-color:#f0e68c"| '''W'''
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+|-
+!5<ref>{{cite news |last1=Rosen |first1=Yereth |title=Alaska gubernatorial forum puts healthcare at center stage |url=https://alaskabeacon.com/2026/09/17/alaska_gubernatorial_forum/ |work=[[Alaska Beacon]] |date=September 17, 2026 |archive-url=https://web.archive.org/web/20260917181956/https://alaskabeacon.com/2026/09/17/alaska_gubernatorial_forum/ |archive-date=September 17, 2026 |url-status=live}}</ref>
+| style="white-space:nowrap;" | Sep. 16, 2026
+| style="white-space:nowrap;" | Alaska Hospital and Healthcare Association
+| style="white-space:nowrap;" | Jared Kosin
+| style="white-space:nowrap;" | [https://otter.ai/u/kxMbg48aWKPk5u8GXYWGyVEhMcY Otter.ai (part one)]<br />[https://otter.ai/u/apOrt2G-UMGy7Q95CnbqdBO2a0U Otter.ai (part two)]
+| style="background-color:#f0e68c"| '''W'''
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+|-
+!6<ref name="WilsonCalls"/>
+| rowspan="2" style="white-space:nowrap;" | Sep. 17, 2026
+| style="white-space:nowrap;" | Chugach Electric Association
+| style="white-space:nowrap;" | 
+| style="white-space:nowrap;" | 
+| style="background-color:#f0e68c"| '''W'''
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+|-
+!7<ref name= "debatelist"/>
+| style="white-space:nowrap;" | [[Commonwealth North]]
+| style="white-space:nowrap;" | Moira Smith
+| style="white-space:nowrap;" | [https://www.youtube.com/watch?v=QT5eY6qIU-o YouTube]
+| style="background-color:#f0e68c"| '''W'''
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| style="background-color:#FFFFDD"| '''A'''
+|-
+!8<ref>{{cite web |author1=Alaska Entrepreneurship Week |title=Alaska Entrepreneurship Week |url=https://www.facebook.com/photo?fbid=1078877908372862&set=a.106801132247216 |website=[[Facebook]] |date=September 21, 2026}}</ref>
+| style="white-space:nowrap;" | Sep. 18, 2026
+| style="white-space:nowrap;" | Alaska Entrepreneurship Week
+| style="white-space:nowrap;" | Pascual Reig
+| style="white-space:nowrap;" | 
+| style="background-color:#f0e68c"| '''W'''
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}{{efn|Left before question rounds}}
+| {{Yes|'''P'''}}
+|-
+!9<ref name= "debatelist"/>
+| style="white-space:nowrap;" | Sep. 19, 2026
+| style="white-space:nowrap;" | Greater Wasilla Chamber of Commerce
+| style="white-space:nowrap;" | Destiny O'Daniel
+| style="white-space:nowrap;" | [https://www.youtube.com/watch?v=pALV1pZRcyM YouTube]
+| style="background-color:#f0e68c"| '''W'''
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+|-
+!10<ref name= "debatelist"/>
+| rowspan="2" style="white-space:nowrap;" | Sep. 21, 2026
+| style="white-space:nowrap;" | Resource Development Council{{efn|With various cohosts}}
+| style="white-space:nowrap;" | Connor Hajdukovich
+| style="white-space:nowrap;" | [https://vimeo.com/1229047123 Vimeo]
+| style="background-color:#f0e68c"| '''W'''
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+|-
+!11<ref name= "debatelist"/>
+| style="white-space:nowrap;" | ''Various''
+| style="white-space:nowrap;" | Lori Townsend
+| style="white-space:nowrap;" | [https://www.youtube.com/live/iEK-juy0fz8 YouTube]
+| style="background-color:#f0e68c"| '''W'''
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+|-
+!12<ref name= "debatelist"/>
+| style="white-space:nowrap;" | Sep. 22, 2026
+| style="white-space:nowrap;" | Anchorage Rotary Club
+| style="white-space:nowrap;" | 
+| style="white-space:nowrap;" | [https://otter.ai/u/wbLt4hOqZhqXNAqNsJIXuky_GHE Otter.ai]
+| style="background-color:#f0e68c"| '''W'''
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+|-
+!13<ref name= "debatelist"/>
+| style="white-space:nowrap;" | Sep. 23, 2026
+| style="white-space:nowrap;" | Confluence Summit
+| style="white-space:nowrap;" | Heather Handyman
+| style="white-space:nowrap;" | [https://www.youtube.com/watch?v=AcSv9C5IwxU YouTube]
+| style="background-color:#f0e68c"| '''W'''
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| style="background-color:#FFFFDD"| '''A'''
+| style="background-color:#FFFFDD"| '''A'''
+|-
+!14<ref>{{cite news |last1=Stone |first1=Eric |title=Ferries, fish and tourism take center stage at Ketchikan governor forum |url=https://alaskapublic.org/news/politics/elections/2026-09-29/ferries-fish-and-tourism-take-center-stage-at-ketchikan-governor-forum |access-date=September 30, 2026 |work=[[Alaska Public Media]] |date=September 29, 2026}}</ref>
+| style="white-space:nowrap;" | Sep. 29, 2026
+| style="white-space:nowrap;" | Southeast Conference
+| style="white-space:nowrap;" | 
+| style="white-space:nowrap;" | 
+| style="background-color:#f0e68c"| '''W'''
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| style="background-color:#FFFFDD"| '''A'''
+|-
+!15<ref name= "debatelist"/>
+| style="white-space:nowrap;" | Oct. 1, 2026
+| style="white-space:nowrap;" | Alaska Support Industry Alliance
+| style="white-space:nowrap;" | 
+| style="white-space:nowrap;" | 
+| style="background-color:#f0e68c"| '''W'''
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+|-
+!16<ref name= "debatelist"/>
+| style="white-space:nowrap;" | Oct. 2, 2026
+| style="white-space:nowrap;" | Alaska Power Association
+| style="white-space:nowrap;" | 
+| style="white-space:nowrap;" | [https://otter.ai/u/r057H5lMKVCd39N7sLUxlKAwrEU Otter.ai]
+| style="background-color:#f0e68c"| '''W'''
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| style="background-color:#FFFFDD"| '''A'''
+| style="background-color:#FFFFDD"| '''A'''
+|-
+!17<ref>{{cite news |last1=Larson |first1=Clarise |title=Do Alaska’s gubernatorial candidates plan to live at Juneau’s governor’s mansion if elected? |url=https://www.ktoo.org/2026/10/07/do-alaskas-gubernatorial-candidates-plan-to-live-at-juneaus-governors-mansion-if-elected/ |work=[[KTOO (FM)|KTOO]] |date=October 7, 2026 |archive-url=https://web.archive.org/web/20261008040452/https://www.ktoo.org/2026/10/07/do-alaskas-gubernatorial-candidates-plan-to-live-at-juneaus-governors-mansion-if-elected/ |archive-date=October 8, 2026 |url-status=live}}</ref>
+| style="white-space:nowrap;" | Oct. 7, 2026
+| style="white-space:nowrap;" | Juneau Chamber of Commerce
+| style="white-space:nowrap;" | 
+| style="white-space:nowrap;" | 
+| style="background-color:#f0e68c"| '''W'''
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| style="background-color:#FFFFDD"| '''A'''
+| {{Yes|'''P'''}}
+|-
+!18<ref>{{cite news |last1=Early |first1=Wesley |title=Alaska governor candidates spar over bipartisan cooperation, among other issues, in Debate for the State |url=https://alaskapublic.org/news/politics/elections/2026-10-09/alaska-governor-candidates-spar-over-bipartisan-cooperation-among-other-issues-in-debate-for-the-state |work=[[Alaska Public Media]] |date=October 9, 2026 |archive-url=https://web.archive.org/web/20261010013238/https://alaskapublic.org/news/politics/elections/2026-10-09/alaska-governor-candidates-spar-over-bipartisan-cooperation-among-other-issues-in-debate-for-the-state |archive-date=October 10, 2026 |url-status=live}}</ref>
+| style="white-space:nowrap;" | Oct. 8, 2026
+| style="white-space:nowrap;" | [[Alaska Public Media]]<br />[[KTOO (FM)|KTOO]]<br />[[KTUU-TV|Alaska's News Source]]
+| style="white-space:nowrap;" | Lori Townsend<br />Eric Stone<br />Wil Courtney
+| style="white-space:nowrap;" | [https://www.youtube.com/watch?v=XWhiyir9eoI YouTube]
+| style="background-color:#f0e68c"| '''W'''
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+|-
+|}
+
+=== Results ===
+{| class="wikitable sortable" style="text-align:right"
+|+ colspan=6 | 2026 Alaska gubernatorial election
+|-
+! colspan=2 rowspan=2 | Party
+! rowspan=2 | Candidate
+! colspan=3 | First choice
+|-
+! Votes
+! %
+! Transfer
+|-
+! style="background-color:{{party color|Republican Party (US)}}" |
+| style="text-align:left" | [[Alaska Republican Party|Republican]]
+| style="text-align:left" scope="row" | {{sortname|Dave|Bronson}}<br />Josh Church
+| 
+| 
+| 
+|-
+! style="background-color:{{party color|Republican Party (US)}}" |
+| style="text-align:left" | [[Alaska Republican Party|Republican]]
+| style="text-align:left" scope="row" | {{sortname|Treg|Taylor}}<br /> Candice English
+| 
+| 
+| 
+|-
+! style="background-color:{{party color|Republican Party (US)}}" |
+| style="text-align:left" | [[Alaska Republican Party|Republican]]
+| style="text-align:left" scope="row" | {{sortname|Bernadette|Wilson|nolink=1}}<br />[[Mike Shower]]
+| 
+| 
+| 
+|-
+! style="background-color:{{party color|Democratic Party (US)}}" |
+| style="text-align:left" | [[Alaska Democratic Party|Democratic]]
+| style="text-align:left" scope="row" | {{sortname|Jonathan|Kreiss-Tomkins}}<br />Zac Johnson
+| 
+| 
+| 
+|-
+| style="text-align:left" colspan=3 | [[Write-in candidate|Write-in]]
+| 
+| 
+| 
+|- class="sortbottom" style="background-color:#F6F6F6"
+! colspan=3 scope="row" style="text-align:right;" | Total votes
+| 
+| 
+| 
+|- class="sortbottom" style="background-color:#F6F6F6"
+! colspan=3 scope="row" style="text-align:right;" | [[Instant-runoff voting#Invalid ballots and incomplete ballots|Inactive ballots]]
+| 
+| 
+| 
+|}
+<!-- use if a candidate wins with majority in the first round
+{{Election box begin |title=2026 Alaska's at-large congressional district election}}
+{{Election box candidate with party link|party=Alaska Republican Party|candidate=[[Dan Sullivan (U.S. Senator)|Dan S. Sullivan]] (incumbent)|votes=|percentage=|change=}}
+{{Election box candidate with party link|party=Alaska Democratic Party|candidate=[[Mary Peltola]]|votes=|percentage=|change=}}
+{{Election box candidate with party link|party=Alaska Republican Party|candidate=TBD|votes=|percentage=|change=}}
+{{Election box candidate with party link|party=|candidate=TBD|votes=|percentage=|change=}}
+{{Election box write-in with party link|votes=|percentage=|change=}}
+{{Election box total|votes=|percentage=}}
+{{Election box end}}
+-->
+
+==See also==
+*[[2026 United States gubernatorial elections]]
+*[[2026 Alaska elections]]
+
+==Notes==
+{{notelist}}
+'''Partisan clients'''<br />
+{{notelist-ua}}
+
+==References==
+
+{{reflist}}
+
+==External links==
+'''Official campaign websites'''
+*[https://davebronson.com/ Dave Bronson (R)]
+*[https://www.jktforak.com/ Jonathan Kreiss-Tomkins (D)]
+*[https://tregforak.com/ Treg Taylor (R)]
+*[https://bernadetteforgovernor.com/ Bernadette Wilson (R)]
+
+{{Alaska gubernatorial elections}}
+{{2026 United States elections}}
+
+[[Category:2026 Alaska elections|Gubernatorial]]
+[[Category:2026 United States gubernatorial elections|Alaska]]
+[[Category:Alaska gubernatorial elections]]

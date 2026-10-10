@@ -1,0 +1,978 @@
+{{pp|small=yes}}
+{{short description|none}}
+{{for|related races|2026 United States gubernatorial elections}}
+{{Use American English|date=January 2025}}
+<!-- "none" is preferred when the title alone is adequate; see [[WP:SDNONE]] -->
+{{use mdy dates|date=September 2023}}
+{{Infobox election
+| election_name = 2026 Massachusetts gubernatorial election
+| country = Massachusetts
+| type = presidential
+| ongoing = yes
+| previous_election = 2022 Massachusetts gubernatorial election
+| previous_year = 2022
+| next_election = 2030 Massachusetts gubernatorial election
+| next_year = 2030
+| election_date = November 3, 2026
+| image1 = Maura Healey, official portrait, governor (cropped).jpg
+| nominee1 = [[Maura Healey]]
+| party1 = Democratic Party (United States)
+| running_mate1 = [[Kim Driscoll]]
+| popular_vote1 = 
+| percentage1 = 
+| image2 = 3x4.svg
+| nominee2 = Michael Minogue
+| party2 = Republican Party (United States)
+| running_mate2 = Shawn Oliver
+| popular_vote2 = 
+| percentage2 = 
+| map_image = 
+| map_size = 
+| map_caption = 
+| title = [[Governor of Massachusetts|Governor]]
+| before_election = [[Maura Healey]]
+| before_party = Democratic Party (United States)
+| after_election = 
+| after_party = 
+}}
+{{ElectionsMA}}
+The '''2026 Massachusetts gubernatorial election''' is scheduled to take place on November 3, 2026, to elect the [[governor of Massachusetts]]. [[Democratic Party (United States)|Democratic]] incumbent [[Maura Healey]] is seeking a second term. She faces [[Republican Party (United States)|Republican]] Michael Minogue in the general election. It is one of 39 gubernatorial elections occurring nationwide in 2026, and one of 18 in which the incumbent governor is seeking another term.<ref>{{Cite web |title=Elections |url=https://www.nga.org/governors/elections/ |access-date=2026-10-05 |website=National Governors Association}}</ref> 
+
+[[Primary elections]] took place on September 1, 2026, where incumbent governor Maura Healey won the Democratic nomination running unopposed, and Mike Minogue won the Republican nomination against Brian Shortsleeve.<ref>{{cite news|last=Shook|first=Ashley|date=September 22, 2025|title=Massachusetts legislature approves 2026 primary election date|url=https://www.wwlp.com/news/massachusetts/massachusetts-legislature-approves-2026-primary-election-date/|work=[[WWLP]]|access-date=September 24, 2025}}</ref><ref>{{Cite web |last=Wolman |first=Jordan |date=2026-09-02 |title=Minogue wins GOP primary for governor, setting stage for matchup with Healey |url=https://commonwealthbeacon.org/politics/minogue-wins-gop-primary-for-governor-setting-stage-for-matchup-with-healey/ |access-date=2026-10-05 |website=CommonWealth Beacon |language=en-US}}</ref>
+
+In the run-up to the general election, Republican candidate Mike Minogue spent $6.1 million in September 2026 on his election bid, making it the most expensive gubernatorial race in Massachusetts history. Minogue outspent the 2006 Republican nominee and former Lieutenant Governor [[Kerry Healey]], who spent $4.4 million in the run-up to the [[2006 Massachusetts gubernatorial election|general election]] versus [[Deval Patrick]].<ref>{{Cite news |last=Buskirk |first=Chris Van |date=2026-10-02 |title=GOP nominee Michael Minogue spent a record $6.1 million last month |url=https://www.bostonglobe.com/2026/10/02/metro/minogue-61-million-spending-september-governors-race/ |access-date=2026-10-05 |work=The Boston Globe |language=en-US |issn=0743-1791}}</ref>
+
+== Background and policy issues ==
+The 2026 gubernatorial race is taking place in the midst of the second Trump presidency. Major themes in the general election center around affordability and the cost of living in Massachusetts.<ref>{{Cite web |last=Scalese |first=Roberto |date=2026-08-20 |title=Here's who's running for Mass. governor in 2026 |url=https://www.wbur.org/news/2025/10/17/2026-massachusetts-governor-candidates |access-date=2026-10-06 |website=www.wbur.org |language=en}}</ref>
+
+=== Immigration and ICE ===
+During her first term, Healey had been a vocal critic of the [[Presidency of Donald Trump|Trump administrations]] actions relating to immigration and [[United States Immigration and Customs Enforcement|ICE]] agents, and signed the Protect Act in August 2026 which aimed to provide limitations on ICE arrests in courthouses, schools, child care programs, nursing homes, and non-public areas of healthcare facilities, among others.<ref>{{Cite web |last=Manning |first=Jacqueline |date=September 8, 2026 |title=Governor Healey Issues PROTECT Act Guidance for Health Care Providers, Employers, Law Enforcement and State Agencies |url=https://www.mass.gov/news/governor-healey-issues-protect-act-guidance-for-health-care-providers-employers-law-enforcement-and-state-agencies |access-date=October 5, 2026 |website=Mass.gov}}</ref> 
+
+Mike Minogue campaigned in support of the Trump administration's actions relating to immigration enforcement, pointing to a reduction in [[fentanyl]] overdoses in the wake of increased arrests and deportations. He supports the deportation of illegal immigrants residing in the United States, but reiterated the focus should be on illegal immigrants who are violent criminals. "Nobody should be afraid to leave their home, go to school or the hospital. I’m going to make sure that that doesn’t happen".<ref>{{Cite web |date=2026-10-02 |title=Mike Minogue makes case for Mass. governor bid: More affordability, fewer ICE raids |url=https://www.wgbh.org/news/politics/2026-10-02/mike-minogue-makes-case-for-mass-governor-bid-more-affordability-fewer-ice-raids |access-date=2026-10-06 |website=GBH |language=en}}</ref>
+
+=== Energy costs ===
+Going into the fall of 2026, home heating oil prices were approximately 70% more expensive in Massachusetts compared to the previous winter, with approximately 20% of homes in the state using fuel oil as a method of home heat.<ref>{{Cite web |last=Gandhi |first=Hazel |title=Heating oil costs just hit their highest level in years. Winter is still months away. |url=https://www.capecodtimes.com/story/news/local/cape-cod/2026/09/27/mass-heating-oil-prices-increase/91903839007/ |access-date=2026-10-06 |website=Cape Cod Times |language=en-US}}</ref><ref>{{Cite web |title=Massachusetts Home Heating Profile |url=https://www.mass.gov/info-details/massachusetts-home-heating-profile |access-date=October 5, 2026 |website=Mass.gov}}</ref>
+
+On October 5, 2026, Healey signed an executive order to declare a "state of energy emergency" heading into winter months to alleviate increased home heating costs, which she attributed to the [[Iran war (2026-)|Iran war]]. "I’m looking at ways to provide relief to people right now. Trump’s got to end this war. Trump’s got to end this war. That’s got to be job one right now”.<ref>{{Cite web |last=Staff And Wire Reports |date=2026-10-05 |title='Energy emergency' fires up Massachusetts governor's race |url=https://www.bostonherald.com/2026/10/05/energy-emergency-fires-up-massachusetts-governors-race/ |access-date=2026-10-06 |website=Boston Herald |language=en-US}}</ref> The executive order aimed to provide home heating assistance for approximately 50,000 [[Middle class|middle-class]] homes using oil to heat and increase the benefit that had been in place for 150,000 [[Poverty|low-income]] homes, as well as the state paying SMART charges, which incentivizes [[Solar panel|solar]] adoption.<ref>{{Cite web |last=Sesselman |first=Jamy Pombo |date=2026-10-05 |title=New actions to lower winter energy bills for Mass. residents announced |url=https://www.wcvb.com/article/gov-maura-healey-announcing-new-actions-to-lower-winter-energy-bills/74028047 |access-date=2026-10-06 |website=WCVB |language=en}}</ref>
+
+In the run-up to the general election, Minogue called for a statewide emergency relating to home heating costs, as well as repealing state climate taxes. “I’ll cut energy bills by a third by eliminating climate taxes that have nothing to do with how much energy you actually use. I’ll abolish the unfunded, unenforceable [[Net-zero emissions|Net Zero]] mandate".<ref>{{Cite web |last=Staff And Wire Reports |date=2026-10-05 |title='Energy emergency' fires up Massachusetts governor's race |url=https://www.bostonherald.com/2026/10/05/energy-emergency-fires-up-massachusetts-governors-race/ |access-date=2026-10-06 |website=Boston Herald |language=en-US}}</ref>
+
+== Debates ==
+On October 8, 2026, a televised debate occurred on [[WBZ-TV]] between Maura Healey and Mike Minogue.<ref>{{Cite news |last=Gross |first=Samantha J. |date=2026-10-08 |title=Healey, Minogue clash in first of two governor's race debates |url=https://www.bostonglobe.com/2026/10/08/metro/healey-minogue-debate-wbz-tv-governor-race/ |access-date=2026-10-09 |work=The Boston Globe |language=en-US |issn=0743-1791}}</ref>{{toclimit|3}}
+
+==Democratic primary==
+=== Governor ===
+==== Candidates ====
+===== Nominee =====
+*[[Maura Healey]], incumbent governor (2023–present)<ref>{{cite news |last1=Van Buskirk |first1=Chris |title=Massachusetts Gov. Maura Healey says she plans to run for reelection in 2026 |url=https://www.bostonherald.com/2025/02/07/massachusetts-gov-maura-healey-says-she-plans-to-run-for-reelection-in-2026/ |access-date=February 7, 2025 |work=[[Boston Herald]] |date=February 7, 2025 |archive-date=February 8, 2025 |archive-url=https://web.archive.org/web/20250208040532/https://www.bostonherald.com/2025/02/07/massachusetts-gov-maura-healey-says-she-plans-to-run-for-reelection-in-2026/ |url-status=live }}</ref>
+
+=====Declined=====
+*[[Diana DiZoglio]], [[Massachusetts State Auditor|Massachusetts state auditor]] (2023–present)<ref name=":0">{{Cite web |date=2025-01-02 |title=Mike Kennealy, former cabinet secretary for Charlie Baker, 'seriously considering' running for governor in 2026 |url=https://www.bostonherald.com/2025/01/02/mike-kennealy-former-cabinet-secretary-for-charlie-baker-seriously-considering-running-for-governor-in-2026/ |access-date=2025-01-03 |website=[[Boston Herald]] |author=Van Buskirk, Chris |quote=Massachusetts State Auditor Diana DiZoglio said Wednesday that she has 'no plans' to run for governor next year |language=en-US}}</ref> ''([[2026 Massachusetts State Auditor election|running for re-election]])''<ref>{{cite web |last1=Micek |first1=John |title=Mass. Auditor Diana DiZoglio announces 2026 reelection bid, vows to continue audit battle |url=https://www.masslive.com/politics/2026/02/mass-auditor-diana-dizoglio-announces-2026-reelection-bid-vows-to-continue-audit-battle.html |website=[[MassLive]] |date=February 17, 2026 |access-date=5 March 2026}}</ref>
+
+==== Endorsements ====
+{{Endorsements box
+|title=Maura Healey
+|columns=yes
+|list=
+'''Statewide officials'''
+*[[Paul DePalo]], [[Massachusetts Governor's Council|governor's councillor]] from the [[Massachusetts Governor's Council#Composition|7th district]] (2021–present)<ref name="oday1"/>
+
+'''State legislators'''
+*[[Brian Ashe]], [[Massachusetts House of Representatives|state representative]] from the [[Massachusetts House of Representatives' 2nd Hampden district|2nd Hampden district]] (2009–present)<ref name="Holyoke"/>
+*[[Dan Donahue]], [[Massachusetts House of Representatives|state representative]] from the [[Massachusetts House of Representatives' 16th Worcester district|16th Worcester district]] (2013–present)<ref name="oday1"/>
+*[[Patricia Duffy]], [[Massachusetts House of Representatives|state representative]] from the [[Massachusetts House of Representatives' 5th Hampden district|5th Hampden district]] (2021–present)<ref name="Holyoke"/>
+*[[Mary Keefe]], [[Massachusetts House of Representatives|state representative]] from the [[Massachusetts House of Representatives' 15th Worcester district|15th Worcester district]] (2013–present)<ref name="oday1"/>
+*[[Robyn Kennedy]], [[Massachusetts Senate|state senator]] from the [[Massachusetts Senate's 1st Worcester district|1st Worcester district]] (2023–present)<ref name="oday1"/>
+*[[David LeBoeuf]], [[Massachusetts House of Representatives|state representative]] from the [[Massachusetts House of Representatives' 17th Worcester district|17th Worcester district]] (2019–present)<ref name="oday1"/>
+*[[John J. Mahoney]], [[Massachusetts House of Representatives|state representative]] from the [[Massachusetts House of Representatives' 13th Worcester district|13th Worcester district]] (2011–present)<ref name="oday1"/>
+*[[Michael O. Moore]], [[Massachusetts Senate|state senator]] from the [[Massachusetts Senate's 2nd Worcester district|2nd Worcester district]] (2009–present)<ref name="oday1"/>
+*[[Jim O'Day]], [[Massachusetts House of Representatives|state representative]] from the [[Massachusetts House of Representatives' 14th Worcester district|14th Worcester district]] (2007–present)<ref name="oday1">{{cite web |last1=Micek |first1=John L. |title=Worcester Mayor Petty, local pols endorse Mass. Gov. Healey, Lt. Gov Driscoll for reelection |url=https://www.masslive.com/politics/2026/02/worcester-mayor-petty-local-pols-endorse-mass-gov-healey-lt-gov-driscoll-for-reelection.html |website=MassachusettsLive |access-date=12 February 2026 |language=en |date=10 February 2026 |quote=In addition to Petty, O’Brien and O’Day, the local pols who endorsed Healey and Driscoll are: State Sens. Robyn Kennedy, D-1st Worcester and Michael Moore, D-2nd Worcester, along with Democratic Reps. John Mahoney, D-13th Worcester, Mary Keefe, D-15th Worcester, Daniel Donahue, D-16th Worcester, and David LeBoeuf, D-17th Worcester, as well as Governor’s Councillor Paul DePalo.}}</ref>
+
+'''Local officials'''
+*[[Joshua A. Garcia|Joshua Garcia]], [[List of mayors of Holyoke, Massachusetts|mayor]] of [[Holyoke, Massachusetts|Holyoke]] (2021–present)<ref name="Holyoke">{{cite web|url=https://www.masslive.com/westernmass/2026/02/with-holyoke-top-of-mind-healey-grabs-paper-city-endorsements-in-reelection-bid.html|title=With Holyoke 'top-of-mind,' Healey grabs Paper City endorsements in reelection bid|last=Kinney|first=Jim|date=February 17, 2026|access-date=February 18, 2026|website=[[The Republican (Springfield, Massachusetts)|The Republican]]}}</ref>
+*[[Joseph C. O'Brien|Joseph O'Brien]], former [[List of mayors and city managers of Worcester, Massachusetts|mayor]] of [[Worcester, Massachusetts|Worcester]] (2010–2012)<ref name="Feb12Playbook">{{cite web |title=Massachusetts Playbook |url=https://www.politico.com/massachusettsplaybook |website=POLITICO |access-date=12 February 2026 |language=en |date=11 February 2026}}</ref>
+*[[Joseph Petty]], [[List of mayors and city managers of Worcester, Massachusetts|mayor]] of [[Worcester, Massachusetts|Worcester]] (2012–present)<ref name="Feb12Playbook"/>
+
+'''Labor unions'''
+*[[1199SEIU United Healthcare Workers East]]<ref name="SEIU">{{cite web |title=1199SEIU and 32BJ SEIU Endorse Governor Maura Healey for Re-election |url=https://www.1199seiu.org/massachusetts/1199seiu-and-32bj-seiu-endorse-governor-maura-healey-re-election |website=1199SEIU United Healthcare Workers East |access-date=1 September 2026 |date=August 28, 2026}}</ref>
+*[[Massachusetts AFL-CIO]]<ref name="6/8 scrum">{{cite news |last1=Garrity |first1=Kelly |title=Marty Walsh's labor relations, North Shore edition |url=https://www.bostonglobe.com/2026/06/08/newsletters/walsh-koh-labor-endorsements-sixth-district-the-scrum/ |access-date=June 11, 2026 |work=[[The Boston Globe]] |date=June 8, 2026}}</ref>
+*[[SEIU 32BJ]]<ref name="SEIU" />
+*[[Sheet Metal Workers International Association|Sheet Metal Workers]] Local 17<ref name="SMW17">{{cite web |title=2026 Primary Endorsements |url=https://smw17boston.org/2026-primary-endorsements/ |website=Sheet Metal Workers Local 17 |access-date=1 September 2026 |date=August 21, 2026}}</ref>
+
+'''Organizations'''
+*[[EMILYs List]]<ref>{{cite web |url=https://emilyslist.org/news/emilys-list-endorses-maura-healey-for-governor-of-massachusetts/ |title=EMILYs List Endorses Maura Healey for Governor of Massachusetts |website=emilyslist.org |date=January 22, 2026 |access-date=January 24, 2026}}</ref>
+*[[End Citizens United]]<ref>{{Cite tweet |author=End Citizens United |author-link=End Citizens United |user=StopBigMoney |number=2059641718945775782 |title=🚨ENDORSEMENT ALERT🚨 We're proud to endorse Massachusetts Governor @maura_healey for re-election. |date=May 27, 2026 |access-date=May 27, 2026}}</ref>
+*[[Giffords]]<ref>{{cite web |title=Endorsements |url=https://giffords.org/elections/endorsements/ |website=GIFFORDS |access-date=26 April 2026}}</ref>
+*[[Human Rights Campaign]]<ref name="HRCAugust">{{cite web |title=Human Rights Campaign PAC Endorses Slate of Pro-Equality Candidates |url=https://www.hrc.org/press-releases/human-rights-campaign-pac-endorses-slate-of-pro-equality-candidates-for-governor-in-key-states |website=HRC |access-date=30 August 2026 |date=27 August 2026}}</ref>
+*[[Jewish Democratic Council of America]]<ref>{{cite web |title=Jewish Dems Endorsed Candidates |url=https://jewishdems.org/endorsements/ |website=Jewish Democratic Council of America |access-date=13 November 2025}}</ref>
+*[[LGBTQ+ Victory Fund]]<ref>{{cite web|url=https://victoryfund.org/news/lgbtq-victory-fund-endorses-53-candidates-in-2025-races-mike-simmons-il-09-james-osyf-va-02-and-everton-blair-for-u-s-house/|title=LGBTQ+ Victory Fund Endorses 53 Candidates in 2025 Races, Mike Simmons (IL-09), James Osyf (VA-02), and Everton Blair for U.S. House|website=victoryfund.org|date=September 25, 2025|access-date=September 25, 2025}}</ref>
+*[[Planned Parenthood|Planned Parenthood Action Fund]]<ref name="PPAF">{{cite web |title=Planned Parenthood Advocacy Fund of Massachusetts Endorses Healey, Driscoll, Campbell, and Goldberg for Re-Election |url=https://www.plannedparenthoodaction.org/planned-parenthood-advocacy-fund-massachusetts-inc/pressroom/planned-parenthood-advocacy-fund-of-massachusetts-endorses-healey-driscoll-campbell-and-goldberg-for-re-election |website=Planned Parenthood Action Fund |access-date=1 September 2026 |date=April 28, 2026}}</ref>
+
+'''Political parties'''
+*[[Massachusetts Democratic Party]]<ref name="convention">{{cite news |last1=Reilly |first1=Adam |title=In contested US Senate race, Markey beats Moulton for endorsement of Mass. Dems at convention |url=https://www.wgbh.org/news/politics/2026-05-30/in-contested-us-senate-race-markey-beats-moulton-for-endorsement-of-mass-dems-at-convention |access-date=June 1, 2026 |work=[[WGBH-TV]] |date=May 30, 2026 |quote=On Friday evening, the convention endorsed Gov. Maura Healey and Lt. Gov. Kim Driscoll for reelection. Neither is facing a primary opponent.}}</ref>
+}}
+
+==== Results ====
+{{Election box begin no change|title=Democratic primary results}}
+{{Election box winning candidate with party link no change|party=Democratic Party (United States)|candidate=[[Maura Healey]] (incumbent)|votes=767,711|percentage=98.3}}
+{{Election box write-in with party link no change|votes=12,897|percentage=1.7}}
+{{Election box total no change|votes=780,608|percentage=100.0}}
+{{Election box end}}
+
+===Lieutenant governor===
+==== Candidates ====
+===== Nominee =====
+*[[Kim Driscoll]], incumbent lieutenant governor (2023–present)<ref>{{Cite web |date=2025-02-07 |title=Healey says she plans to run for reelection |url=https://www.wbur.org/news/2025/02/07/massachusetts-maura-healey-reelection |access-date=2025-09-19 |website=[[WBUR]] |language=en}}</ref>
+
+==== Endorsements ====
+{{Endorsements box
+|title=Kim Driscoll
+|list=
+'''Statewide officials'''
+*[[Paul DePalo]], [[Massachusetts Governor's Council|governor's councillor]] from the [[Massachusetts Governor's Council#Composition|7th district]] (2021–present)<ref name="oday1"/>
+
+'''State legislators'''
+*[[Dan Donahue]], [[Massachusetts House of Representatives|state representative]] from the [[Massachusetts House of Representatives' 16th Worcester district|16th Worcester district]] (2013–present)<ref name="oday1"/>
+*[[Mary Keefe]], [[Massachusetts House of Representatives|state representative]] from the [[Massachusetts House of Representatives' 15th Worcester district|15th Worcester district]] (2013–present)<ref name="oday1"/>
+*[[Robyn Kennedy]], [[Massachusetts Senate|state senator]] from the [[Massachusetts Senate's 1st Worcester district|1st Worcester district]] (2023–present)<ref name="oday1"/>
+*[[David LeBoeuf]], [[Massachusetts House of Representatives|state representative]] from the [[Massachusetts House of Representatives' 17th Worcester district|17th Worcester district]] (2019–present)<ref name="oday1"/>
+*[[John J. Mahoney]], [[Massachusetts House of Representatives|state representative]] from the [[Massachusetts House of Representatives' 13th Worcester district|13th Worcester district]] (2011–present)<ref name="oday1"/>
+*[[Michael O. Moore]], [[Massachusetts Senate|state senator]] from the [[Massachusetts Senate's 2nd Worcester district|2nd Worcester district]] (2009–present)<ref name="oday1"/>
+*[[Jim O'Day]], [[Massachusetts House of Representatives|state representative]] from the [[Massachusetts House of Representatives' 14th Worcester district|14th Worcester district]] (2007–present)<ref name="oday1"/>
+
+'''Local officials'''
+*[[Joshua A. Garcia|Joshua Garcia]], [[List of mayors of Holyoke, Massachusetts|mayor]] of [[Holyoke, Massachusetts|Holyoke]] (2021–present)<ref name="Holyoke"/>
+*[[Joseph C. O'Brien|Joseph O'Brien]], former [[List of mayors and city managers of Worcester, Massachusetts|mayor]] of [[Worcester, Massachusetts|Worcester]] (2010–2012)<ref name="Feb12Playbook"/>
+*[[Joseph Petty]], [[List of mayors and city managers of Worcester, Massachusetts|mayor]] of [[Worcester, Massachusetts|Worcester]] (2012–present)<ref name="Feb12Playbook"/>
+
+'''Labor unions'''
+*[[Sheet Metal Workers International Association|Sheet Metal Workers]] Local 17<ref name="SMW17" />
+
+'''Organizations'''
+*[[EMILYs List]]<ref>{{cite web |url=https://emilyslist.org/news/emilys-list-endorses-five-democratic-women-for-lieutenant-governor-in-key-democratic-holds/ |title=EMILYs List Endorses Five Democratic Women for Lieutenant Governor in Key Democratic Holds |website=emilyslist.org |date=October 7, 2026 |access-date=October 7, 2026}}</ref>
+*[[Planned Parenthood|Planned Parenthood Action Fund]]<ref name="PPAF" />
+
+'''Political parties'''
+*[[Massachusetts Democratic Party]]<ref name=convention/>
+}}
+
+==== Polling ====
+{{hidden begin|titlestyle=background:#cff|title=Hypothetical polling|contentstyle=border:solid 1px silver; padding:8px; background:var(--background-color-base); color:var(--color-base);}}
+<!-- = = = don't edit the line above = = = -->
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- style="vertical-align:bottom"
+! Poll source
+! Date(s)<br>administered
+! Sample<br>size{{efn|name="Key"}}
+! Margin<br>of error
+! style="width:75px;"| Maura<br />Healey
+! style="width:75px;"| Diana<br />DiZoglio
+! Other
+! Undecided
+|-
+|style="text-align:left;"|[[Suffolk University]]<ref name="SuffolkApr2026">{{cite web|title=Massachusetts Likely Democratic Primary Voters with The Boston Globe marginals|url=https://www.suffolk.edu/-/media/suffolk/documents/academics/research-at-suffolk/suprc/polls/massachusetts2/2026/4_15_2026_ma_dem_marginals_complete.pdf|website=[[Suffolk University]]|date=April 15, 2026|access-date=April 16, 2026}}</ref>{{efn-ua|name=Globe}}
+|April 9–13, 2026
+|500 (RV)
+|±&nbsp;4.4%
+|{{party shading/Democratic}}|'''63%'''
+|11%
+|1%{{efn|"Refused" with 1%; "Another Democrat" with 0%}}
+|25%
+|}
+
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- style="vertical-align:bottom"
+! Poll source
+! Date(s)<br>administered
+! Sample<br>size{{efn|name="Key"}}
+! Margin<br>of error
+! style="width:75px;"| Kim<br />Driscoll
+! style="width:75px;"| Maura<br />Healey
+! Other
+! Undecided
+|-
+|style="text-align:left;"|[[Suffolk University]]<ref name="SuffolkApr2026"/>{{efn-ua|name=Globe}}
+|April 9–13, 2026
+|500 (RV)
+|±&nbsp;4.4%
+|10%
+|{{party shading/Democratic}}|'''66%'''
+|2%{{efn|"Refused" with 2%; "Another Democrat" with 0%}}
+|22%
+|}
+{{hidden end}}
+
+==== Results ====
+{{Election box begin no change|title=Democratic primary results}}
+{{Election box winning candidate with party link no change|party=Democratic Party (United States)|candidate=[[Kim Driscoll]] (incumbent)|votes=745,562|percentage=99.2}}
+{{Election box write-in with party link no change|votes=5,984|percentage=0.8}}
+{{Election box total no change|votes=751,546|percentage=100.0}}
+{{Election box end}}
+
+==Republican primary==
+===Governor===
+==== Candidates ====
+===== Nominee =====
+*Michael Minogue, former CEO of [[Abiomed]]<ref>{{cite news |work=[[WBUR-FM]] |url=https://www.wbur.org/news/2025/10/01/republican-michael-minogue-candidate-mass-governors-race |date=October 1, 2025 |access-date=October 3, 2025 |title=Businessman and GOP donor Michael Minogue jumps into Mass. governor's race}}</ref>
+
+===== Eliminated in primary =====
+*Brian Shortsleeve, former chief administrator and acting general manager of the [[Massachusetts Bay Transportation Authority]]<ref>{{cite news |last1=Van Buskirk |first1=Chris |title=Former MBTA chief administrator Brian Shortsleeve launches Republican run for governor |url=https://www.bostonherald.com/2025/05/12/former-mbta-chief-administrator-brian-shortsleeve-launches-republican-run-for-governor/ |access-date=May 12, 2025 |work=[[Boston Herald]] |date=May 12, 2025}}</ref> ''(running with Shawn Oliver)''<ref name=":2">{{Cite news |last=Van Buskirk |first=Chris |date=March 26, 2026 |title=GOP's Brian Shortsleeve taps New Bedford's Shawn Oliver as running mate |url=https://www.wbur.org/news/2026/03/26/massachusetts-republican-brian-shortsleeve-shawn-oliver-running-mate |access-date=March 27, 2026 |work=[[WBUR-FM]]}}</ref>
+
+===== Eliminated at convention =====
+*Mike Kennealy, former Massachusetts secretary of housing and economic development ''(ran with Anne Manning Martin, endorsed Minogue after convention)''<ref name="Manning">{{Cite news |last=Gross |first=Samantha J. |date=3 March 2026 |title=Kennealy taps DOC official as running mate in GOP gubernatorial primary |url=https://www.bostonglobe.com/2026/03/03/metro/ann-manning-martin-kennealy-lieutenant-governor-gop/ |url-access=subscription |access-date=6 March 2026 |work=[[Boston Globe]]}}</ref><ref name=":3" /><ref name="6/5 MASSterList">{{Cite news |last=Dumcius |first=Gintautas |date=June 5, 2026 |title=How a Healey transportation official is tackling 'mega' bridge and highway projects |url=https://massterlist.com/p/how-a-healey-transportation-official-is-tackling-mega-bridge-and-highway-projects |access-date=June 5, 2026 |work=MASSterList}}</ref>
+
+=====Declined=====
+*John Deaton, attorney and nominee for U.S. Senate in [[2024 United States Senate election in Massachusetts|2024]]<ref>{{cite news |last1=Garrity |first1=Kelly |title=Republicans ready themselves for 2026 |url=https://www.politico.com/newsletters/massachusetts-playbook/2025/01/13/republicans-ready-themselves-for-2026-00197781 |access-date=January 13, 2025 |work=[[Politico]] |date=January 13, 2025 |quote='John will not be a candidate for Governor this cycle'...Jim Conroy, a spokesperson for Deaton, said in a statement. |language=en |archive-date=January 13, 2025 |archive-url=https://web.archive.org/web/20250113160333/https://www.politico.com/newsletters/massachusetts-playbook/2025/01/13/republicans-ready-themselves-for-2026-00197781 |url-status=live }}</ref> (''[[2026 United States Senate election in Massachusetts|running for U.S. Senate]]'')<ref>{{cite web |last1=Klein |first1=Asher |title=Republican John Deaton announces second straight U.S. Senate run |url=https://www.nbcboston.com/news/local/john-deaton-2026-senate-campaign-mass/3843142/ |publisher=[[NBC10 Boston]] |access-date=18 December 2025 |date=11 November 2025}}</ref>
+*[[Peter Durant]], state senator from the [[Worcester and Hampshire district]] (2023–present) ''([[2026 Massachusetts Senate election|running for re-election]])''<ref>{{cite news |last1=Van Buskirk |first1=Chris |title=Peter Durant, Spencer Republican, decides against running for governor in 2026 |url=https://www.bostonherald.com/2025/05/11/sen-peter-durant-spencer-republican-decides-against-running-for-governor-in-2026/ |access-date=May 11, 2025 |work=[[Boston Herald]] |date=May 11, 2025}}</ref>
+
+====Endorsements====
+{{Endorsements box
+|title = Michael Minogue
+|list =
+;Party officials
+*[[James J. Lyons Jr.|Jim Lyons]], former chair of the [[Massachusetts Republican Party]] (2019–2023) and former [[Massachusetts House of Representatives|state representative]] from the [[Massachusetts House of Representatives' 18th Essex district|18th Essex district]] (2011–2019)<ref name="wburconvention">{{cite news |last1=Van Buskirk |first1=Chris |title=Minogue, a political newcomer, claims GOP endorsement for Mass. governor at convention |url=https://www.wbur.org/news/2026/04/25/minogue-gop-endorsement-massachusetts-governor |access-date=April 28, 2026 |work=[[WBUR-FM]] |date=April 25, 2026}}</ref>
+
+;Individuals
+*Mike Kennealy, former Massachusetts secretary of housing and urban development; former candidate for this seat<ref name="6/5 MASSterList"/>
+
+;Political parties
+*[[Massachusetts Republican Party]]<ref name=":3"/>
+}}
+
+{{Endorsements box
+|title = Mike Kennealy ''(eliminated at convention)''
+|list =
+;State legislators
+*[[F. Jay Barrows]], former [[Massachusetts House of Representatives|state representative]] from the [[Massachusetts House of Representatives' 1st Bristol district|1st Bristol district]] (2007–2025)<ref name="Galore2">{{cite web |title=Pols & politics: GOP gubernatorial endorsements galore |url=https://www.msn.com/en-us/news/politics/pols-politics-gop-gubernatorial-endorsements-galore/ar-AA1RSjkf |website=MSN |access-date=7 December 2025}}</ref>
+*[[Kimberly Ferguson]], [[Massachusetts House of Representatives|state representative]] from the [[Massachusetts House of Representatives' 1st Worcester district|1st Worcester district]] (2011–present)<ref name="EarlyDec"/>
+*[[Hannah Kane]], [[Massachusetts House of Representatives|state representative]] from the [[Massachusetts House of Representatives' 11th Worcester district|11th Worcester district]] (2015–present)<ref name="KEnd">{{cite web |last1=Dunn-Boston |first1=Tim |title=Kennealy wins first State House endorsement in bid for governor |url=https://kdhnews.com/news/politics/kennealy-wins-first-state-house-endorsement-in-bid-for-governor/article_b7c0157a-0c72-57ca-a6c0-8da445ea2fee.html |website=The Killeen Daily Herald |access-date=25 November 2025 |language=en |date=25 November 2025}}</ref>
+}}
+
+{{Endorsements box
+|title = Brian Shortsleeve
+| list =
+;Executive branch officials
+*[[Scott Brown (politician)|Scott Brown]], former [[List of ambassadors of the United States to New Zealand|ambassador to New Zealand and Samoa]] (2017–2020) and former [[United States Senate|U.S. senator]] from [[Massachusetts]] (2010–2013)<ref>{{cite web |last1=Stout |first1=Matt |title=Two former Charlie Baker appointees are vying to be governor. Those from Baker-world are starting to pick sides. |url=https://www.bostonglobe.com/2025/06/12/metro/brian-shortsleeve-mike-kennealy-charlie-baker-primary/ |website=[[Boston Globe]] |access-date=October 6, 2025 |date=June 12, 2025}}</ref>
+
+;U.S. senators
+*[[Tom Cotton]], [[Arkansas]] (2015–present)<ref name="cotton">{{cite web |title=Republican U.S. Sen. Tom Cotton endorses Brian Shortsleeve in MA gubernatorial race |url=https://www.bostonherald.com/2026/04/06/republican-u-s-sen-tom-cotton-endorses-brian-shortsleeve-in-ma-gubernatorial-race/ |website=Boston Herald |access-date=7 April 2026 |date=6 April 2026}}</ref>
+*[[Rick Scott]], [[Florida]] (2019–present)<ref name="Scott">{{cite web |title=GOP candidate Brian Shortsleeve picks up major endorsements ahead of the GOP convention |url=https://www.massdailynews.com/2026/04/21/gop-candidate-brian-shortsleeve-picks-up-major-endorsements |website=Mass Daily News |access-date=9 August 2026 |date=April 21, 2026}}</ref>
+
+;State legislators
+*[[Nicholas Boldyga]], [[Massachusetts House of Representatives|state representative]] from the [[Massachusetts House of Representatives' 3rd Hampden district|3rd Hampden district]] (2011–present)<ref name=Du/>
+*[[Ginny Coppola]], former [[Massachusetts House of Representatives|state representative]] from the [[Massachusetts House of Representatives' 1st Bristol district|1st Bristol district]] (2006–2007)<ref name="Galore2"/>
+*[[William Crocker Jr.]], former [[Massachusetts House of Representatives|state representative]] from the [[Massachusetts House of Representatives' 2nd Barnstable district|2nd Barnstable district]] (2017–2021)<ref name="Galore2"/>
+*[[Peter Durant]], [[Massachusetts Senate|state senator]] from the [[Worcester and Hampshire district]] (2023–present)<ref name=Du>{{cite web |last1=Dunn |first1=Tim |title=Durant endorses Shortsleeve in Republican race for Massachusetts governor |url=https://www.bostonherald.com/2025/11/13/durant-endorses-shortsleeve-in-republican-race-for-gov/ |website=Boston Herald |date=November 13, 2025 |access-date=16 November 2025}}</ref>
+*[[Paul Frost]], [[Massachusetts House of Representatives|state representative]] from the [[Massachusetts House of Representatives' 7th Worcester district|7th Worcester district]] (1997–present)<ref>{{cite web|url=https://www.politico.com/newsletters/massachusetts-playbook/2025/12/10/still-in-the-game-00684287|title=Still in the game|last=Garrity|first=Kelly|date=December 10, 2025|access-date=December 10, 2025|website=[[Politico]]}}</ref>
+*[[Marc Lombardo]], [[Massachusetts House of Representatives|state representative]] from the [[Massachusetts House of Representatives' 22nd Middlesex district|22nd Middlesex district]] (2011–present)<ref name=advocate>{{cite news |last1=Van Buskirk |first1=Chris |title=Andrea James, advocate for the incarcerated, files paperwork to run for governor in 2026 |url=https://www.bostonherald.com/2025/03/04/andrea-james-advocate-for-the-incarcerated-files-paperwork-to-run-for-governor-in-2026/ |access-date=March 4, 2025 |work=[[Boston Herald]] |date=March 4, 2025}}</ref>
+*[[Jeff Perry (politician)|Jeff Perry]], former [[Massachusetts House of Representatives|state representative]] from the [[Massachusetts House of Representatives' 5th Barnstable district|5th Barnstable district]] (2003–2011)<ref name="Galore2"/>
+*[[Michael Soter]], [[Massachusetts House of Representatives|state representative]] from the [[Massachusetts House of Representatives' 8th Worcester district|8th Worcester district]] (2019–present)<ref name="Scott" />
+*[[Daniel K. Webster]], former [[Massachusetts House of Representatives|state representative]] from the [[Massachusetts House of Representatives' 6th Plymouth district|6th Plymouth district]] (2003–2013)<ref name="Galore2"/>
+
+;Local officials
+*[[Shaunna O'Connell]], [[List of mayors of Taunton, Massachusetts|mayor of Taunton]] (2020–present) and former [[Massachusetts House of Representatives|state representative]] from the [[Massachusetts House of Representatives' 3rd Bristol district|3rd Bristol district]] (2011–2020)<ref name="Galore2"/>
+
+;Newspapers
+*''[[The Boston Globe]]'' ''(Republican primary only)''<ref>{{cite web |title=Globe endorses Brian Shortsleeve in the Republican primary for governor |url=https://www.bostonglobe.com/2026/08/27/opinion/republican-primary-governor-shortsleeve-minogue/ |website=[[The Boston Globe]] |access-date=September 1, 2026 |date=August 27, 2026}}</ref>
+}}
+
+{{Endorsements box
+|title = ''Declined to endorse''
+|list =
+;Statewide officials
+*[[Charlie Baker]], former [[governor of Massachusetts]] (2015–2023)<ref name="EarlyDec">{{cite web |title=Mass. lawmakers hope early endorsements of GOP candidates for governor drum up support |url=https://www.wbur.org/news/2025/12/04/massachusetts-governors-race-republican-endorsements |website=WBUR |access-date=4 December 2025 |language=en |date=4 December 2025 |quote=A spokesman for the former governor said he "has no plans to endorse in the GOP gubernatorial primary at this time."}}</ref>}}
+
+====Polling====
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"|Key:<br />A – all adults<br />RV – registered voters<br />LV – likely voters<br />V – unclear}}
+! Margin<br />of error
+! style="width:75px;"| Mike<br />Kennealy
+! style="width:75px;"| Brian<br />Shortsleeve
+! style="width:75px;"| Mike<br />Minogue
+! Other
+! Undecided
+|-
+|style="text-align:left;"|[[University of New Hampshire]]<ref name=UNHAugust2026>{{cite web|url=https://scholars.unh.edu/cgi/viewcontent.cgi?article=1991&context=survey_center_polls|title=
+Markey & Moulton in Tight Race for Democratic Senate Nomination in Massachusetts 6/30/2026
+|first1=Sean|last1=McKinley|first2=Andrew|last2=Smith|first3=Zachary|last3=Azem|first4=Tracy|last4=Keirns|website=[[University of New Hampshire]]|date=August 27, 2026|access-date=August 31, 2026}}</ref>
+|August 20–24, 2026
+|201 (LV)
+|±&nbsp;6.9%
+|–
+|11%
+|{{party shading/Republican}}|'''55%'''
+|9%{{Efn|"Write in someone else" with 9%}}
+|25%
+|-
+|style="text-align:left;"rowspan="2"|[[UMass Amherst]]/[[YouGov]]<ref name="UMASSAug2026">{{Cite web|url=https://htv-prod-media.s3.amazonaws.com/files/new-gopprimarystateofthestatetoplinesaug2026masspoll-6a8426d09c35d.pdf|title=University of Massachusetts Amherst/WCVB August 2026 Massachusetts Poll|website=[[WCVB]]|date=August 18, 2025|access-date=August 19, 2025}}</ref>{{efn-ua|name=WCVB}}
+|rowspan="2"|August 5–12, 2026
+|rowspan="2"|209 (RV)
+|rowspan="2"|±&nbsp;8.7%
+|–
+|26%
+|{{party shading/Republican}}|'''53%'''{{efn|name=lean|With voters who lean towards a given candidate}}
+|4%{{efn|"Would not vote" with 4%}}
+|18%
+|-
+|–
+|24%
+|{{party shading/Republican}}|'''49%'''
+|4%{{efn|"Would not vote" with 4%}}
+|24%
+|-
+|style="text-align:left;"|[[University of New Hampshire]]<ref name=UNHJune2026>{{cite journal|url=https://scholars.unh.edu/survey_center_polls/973/|title=
+Markey & Moulton in Tight Race for Democratic Senate Nomination in Massachusetts 6/30/2026
+|first1=Sean|last1=McKinley|first2=Andrew|last2=Smith|first3=Zachary|last3=Azem|first4=Tracy|last4=Keirns|website=[[University of New Hampshire]]|date=June 30, 2026|access-date=July 1, 2026}}</ref>
+|June 18–23, 2026
+|176 (LV)
+|±&nbsp;7.4%
+|–
+|15%
+|{{party shading/Republican}}|'''46%'''
+|–
+|39%
+|-
+|style="text-align:left;"|[[Suffolk University]]<ref>{{cite web|url=https://www.suffolk.edu/-/media/suffolk/documents/academics/research-at-suffolk/suprc/polls/massachusetts2/2026/6_2_2026_mass_gop_marginals.pdf|title=Republican State Primary Voters|website=[[Suffolk University]]|date=May 29, 2026|access-date=June 2, 2026}}</ref>{{efn-ua|name=Globe}}
+|May 26–29, 2026
+|465 (LV)
+|±&nbsp;4.5%
+|–
+|13%
+|{{party shading/Republican}}|'''45%'''
+|1%{{efn|"Another Republican" with 1%}}
+|40%
+|- style="background:lightyellow;"
+| style="border-right-style:hidden; background:lightyellow;" |
+| style="border-right-style:hidden; " | April 25, 2026
+| colspan="7"| Kennealy eliminated at Republican convention
+|-
+|style="text-align:left;"|Pulse Decision Science (R)<ref>{{cite web|url=https://www.wbur.org/news/2026/03/03/massachusetts-governor-republican-primary-polling|title=Poll paid for by Michael Minogue shows him leading in Republican gubernatorial primary|first=Chris Van|last= Buskirk|website=[[WBUR]]|date=March 3, 2026|access-date=March 4, 2026}}</ref>{{efn-ua|name=Minogue|Poll sponsored by Minogue's campaign}}
+|February 23–24, 2026
+|500 (LV)
+|±&nbsp;4.9%
+|7%
+|16%
+|{{party shading/Republican}}|'''29%'''
+|–
+|{{party shading/Undecided}}|'''48%'''
+|-
+|style="text-align:left;"|[[Suffolk University]]<ref>{{cite web |title=Massachusetts Statewide Issues with The Boston Globe marginals |url=https://www.suffolk.edu/-/media/suffolk/documents/academics/research-at-suffolk/suprc/polls/massachusetts2/2025/2_4_2026_massachusetts_complete_marginals.pdf |website=Suffolk University |date=February 5, 2026 |access-date=March 4, 2026 |language=en}}</ref>{{efn-ua|Poll sponsored by ''[[The Boston Globe]]''|name=Globe}}
+|November 19–23, 2025
+|93 (LV)
+|±&nbsp;10.2%
+|13%
+|{{party shading/Republican}}|'''22%'''
+|6%
+|–
+|{{party shading/Undecided}}|'''59%'''
+|-
+|style="text-align:left;" rowspan="2"|[[UMass Amherst]]/[[YouGov]]<ref name="UMassNov2025"/>{{efn-ua|name=WCVB}}
+|rowspan="2"|October 21–29, 2025
+|rowspan="2"|183 (A)
+|rowspan="2"|–
+|{{party shading/Republican}}|'''44%'''{{efn|name=lean|With voters who lean towards a given candidate}}
+|13%
+|13%
+|3%{{efn|"Would not vote" with 3%}}
+|27%
+|-
+|{{party shading/Republican}}|'''27%'''
+|15%
+|15%
+|0%{{efn|"Would not vote" with 0%}}
+|{{party shading/Undecided}}|'''43%'''
+|-
+| style="text-align:left;"|[[University of New Hampshire]]<ref>{{cite web |title=Bay Staters Believe Healey Deserves Re-Election, Oppose Immigration Crackdown in Boston|first1=Sean P.|last1=McKinley|first2=Zachary S.|last2=Azem|first3=Andrew E.|last3=Smith|first4=Tracy|last4=Keirns|url=https://scholars.unh.edu/cgi/viewcontent.cgi?article=1888&context=survey_center_polls|website=[[University of New Hampshire]]|date=September 29, 2025|access-date=September 29, 2025}}</ref>
+|September 17–23, 2025
+|148 (LV)
+|±&nbsp;8.0%
+|22%
+|{{party shading/Republican}}|'''31%'''
+|–
+|–
+|{{party shading/Undecided}}|'''47%'''
+|-
+|}
+
+====Convention====
+{{Election box begin no change | title=Republican convention vote, April 25<ref name=":3">{{Cite web |last=Sacchetti |first=Sharman |date=2026-04-25 |title=Minogue wins MassGOP convention, secures endorsement in governor's race |url=https://www.wcvb.com/article/republican-convention-2026-worcester-massachusetts/71126611 |access-date=2026-04-26 |website=WCVB |language=en}}</ref>}}
+{{Election box winning candidate with party link no change
+  |party      = Republican Party (United States)
+  |candidate  = Michael Minogue
+  |votes      = 1,262
+  |percentage = 70.4
+  }}
+{{Election box candidate with party link no change
+  |party      = Republican Party (United States)
+  |candidate  = Brian Shortsleeve
+  |votes      = 278
+  |percentage = 15.5
+  }}
+{{Election box candidate with party link no change
+  |party      = Republican Party (United States)
+  |candidate  = Mike Kennealy
+  |votes      = 253
+  |percentage = 14.1
+  }}
+{{Election box total no change
+  | votes = 1,793
+  | percentage = 100.0
+}}
+{{Election box end}}
+
+==== Results ====
+{{Election box begin no change|title=Republican primary results}}
+{{Election box winning candidate with party link no change|party=Republican Party (United States)|candidate=Michael Minogue|votes=194,758|percentage=75.6}}
+{{Election box candidate with party link no change|party=Republican Party (United States)|candidate=Brian Shortsleeve|votes=62,161|percentage=24.1}}
+{{Election box write-in with party link no change|votes=612|percentage=0.3}}
+{{Election box total no change|votes=257,531|percentage=100.0}}
+{{Election box end}}
+
+===Lieutenant governor===
+Anne Brensley did not officially become the running mate to a candidate for governor. However, she was supported by gubernatorial candidate Michael Minogue.<ref name=brenogue/>
+
+==== Candidates ====
+===== Nominee =====
+*Shawn Oliver, [[New Bedford, Massachusetts|New Bedford]] city councilor and former corrections officer ''(ran with Brian Shortsleeve)''<ref name=":2" />
+
+===== Disqualified =====
+*Anne Brensley, former [[Wayland, Massachusetts|Wayland]] Selectmen member (2023–2026) ''([[2026 Massachusetts Secretary of the Commonwealth election|running for secretary of state]])''<ref>{{Cite web |last=Garrity |first=Kelly |date=2026-05-13 |title=In a surprise, GOP-endorsed candidate for lieutenant governor says she didn't collect enough signatures to make ballot |url=https://www.bostonglobe.com/2026/05/13/metro/anne-brensley-lieutenant-governor-signatures-republican/ |access-date=2026-05-13 |website=The Boston Globe |language=en-US}}</ref><ref>{{Cite web |last=Castellani |first=Katie |date=2026-07-18 |title=Brensley shifts focus to secretary of state contest |url=https://www.wwlp.com/news/massachusetts/brensley-shifts-focus-to-secretary-of-state-contest/ |access-date=2026-08-26 |website=WWLP |language=en-US}}</ref>
+*Anne Manning Martin, [[Peabody, Massachusetts|Peabody]] city councilor and nominee for the 5th [[Massachusetts Governor's Council|Governor's Council]] district in [[2024 Massachusetts Governor's Council election#District 5|2024]] ''(ran a write-in campaign, previously ran with Mike Kennealy)''<ref name="Manning" /><ref>{{Cite web |last1=Garrity |first1=Kelly |last2=Van Buskirk |first2=Chris |date=2026-06-26 |title=Mass. Republicans caught up in a signature fraud controversy won't be on September primary ballot, commission rules |url=https://www.bostonglobe.com/2026/06/26/metro/manning-martin-walsh-republican-primary/ |access-date=2026-06-26 |website=The Boston Globe |language=en-US}}</ref><ref>{{Cite web |last=Dunn |first=Tim |date=2026-08-11 |title=Manning Martin launches write-in campaign for Lt. Gov. after failing to make ballot over signature collection snafu |url=https://www.bostonherald.com/2026/08/11/manning-martin-launches-write-in-campaign-for-lt-gov-after-failing-to-make-ballot-over-signature-collection-snafu/ |access-date=2026-08-26 |website=Boston Herald |language=en-US}}</ref>
+
+====Endorsements====
+{{Endorsements box
+|title=Anne Brensley ''(disqualified)''
+|list=
+'''Individuals'''
+*Michael Minogue, candidate for governor<ref name=brenogue>{{Cite news |last=Dunn |first=Tim |title=Minogue to not choose running mate as deadline hits, supports Anne Brensley |url=https://www.bostonherald.com/2026/04/10/minogue-to-not-choose-running-mate-as-deadline-hits-supports-anne-brensley/ |work=[[Boston Herald]] |date=April 10, 2026 |access-date=April 10, 2026}}</ref>
+
+'''Organizations'''
+*[[Maggie's List]]<ref>{{cite web |title=Candidates |url=https://maggieslist.org/our-candidates/ |website=Maggie's List |access-date=21 January 2026}}</ref>
+
+'''Political parties'''
+*[[Massachusetts Republican Party]]<ref name="wburconvention"/>
+}}
+{{Endorsements box
+|title=Anne Manning Martin ''(disqualified)''
+|list=
+'''Individuals'''
+*Mike Kennealy, gubernatorial candidate<ref name="Manning"/>
+}}
+{{Endorsements box
+|title=Shawn Oliver
+|list=
+'''Individuals'''
+*Brian Shortsleeve, gubernatorial candidate<ref name=":2" />
+}}
+
+====Convention====
+{{Election box begin no change | title=Republican convention vote, April 25<ref>{{Cite web |last=Buskirk |first=Chris Van |date=2026-04-25 |title=Minogue, a political newcomer, claims GOP endorsement for Mass. governor at convention |url=https://www.wbur.org/news/2026/04/25/minogue-gop-endorsement-massachusetts-governor |access-date=2026-04-26 |website=WBUR |language=en}}</ref>}}
+{{Election box winning candidate with party link no change
+  |party      = Republican Party (United States)
+  |candidate  = Anne Brensley
+  |votes      = 1,100
+  |percentage = 56.1
+  }}
+{{Election box candidate with party link no change
+  |party      = Republican Party (United States)
+  |candidate  = Anne Manning-Martin
+  |votes      = 536
+  |percentage = 27.3
+  }}
+{{Election box candidate with party link no change
+  |party      = Republican Party (United States)
+  |candidate  = Shawn Oliver
+  |votes      = 325
+  |percentage = 16.6
+  }}
+{{Election box total no change
+  | votes = 1,961
+  | percentage = 100.0
+}}
+
+{{Election box end}}
+
+==== Results ====
+{{Election box begin no change|title=Republican primary results}}
+{{Election box winning candidate with party link no change|party=Republican Party (United States)|candidate=Shawn Oliver|votes=195,352|percentage=91.6}}
+{{Election box candidate with party link no change|party=Republican Party (United States)|candidate=Anne Manning Martin ''(write-in)''|votes=14,611|percentage=6.9}}
+{{Election box write-in with party link no change|votes=3,208|percentage=1.5}}
+{{Election box total no change|votes=213,171|percentage=100.0}}
+{{Election box end}}
+
+==Third parties and independents==
+=== Candidates ===
+==== Declared ====
+*[[Andrea C. James|Andrea James]], criminal justice nonprofit executive ''(Independent)''<ref>{{cite news |last1=Van Buskirk |first1=Chris |title=Criminal justice advocate Andrea James plans independent gubernatorial run |url=https://www.wbur.org/news/2026/01/05/criminal-justice-advocate-andrea-james-plans-independent-gubernatorial-run |access-date=March 10, 2026 |work=[[WBUR]] |date=January 5, 2026}}</ref>
+** Running mate: Kayla Kittredge ''(Independent)''<ref>{{cite web |title=2026 State Election Candidates |url=https://www.sec.state.ma.us/divisions/elections/research-and-statistics/2026-state-election-candidates.htm |website=Secretary of the Commonwealth of Massachusetts}}</ref>
+
+==== Did not qualify ====
+*Muhammed Kokonezis-Hanino ''(Independent)''<ref name=":1">{{Cite web |last=Markos |first=Roberto Scalese |date=2025-10-17 |title=Here's who's running for Mass. governor in 2026 |url=https://www.wbur.org/news/2025/10/17/2026-massachusetts-governor-candidates |access-date=2025-10-17 |website=[[WBUR]] |language=en-US}}</ref>
+
+== General election ==
+===Predictions===
+{| class="wikitable" style=text-align:center
+!Source
+!Ranking
+!As of
+|-
+|-
+|align=left|''[[The Cook Political Report]]''<ref>{{cite web|title=2026 CPR Governor Race ratings|url=https://www.cookpolitical.com/ratings/governor-race-ratings|website=[[The Cook Political Report]]|access-date=January 23, 2025}}</ref>
+|{{USRaceRating|Solid|D}}
+|September 11, 2025
+|-
+|align=left|[[Decision Desk HQ]]<ref name="DDHQ">{{cite web |title=2026 Governor Forecast |url=https://votes.decisiondeskhq.com/forecast/2026/governor |website=Decision Desk HQ |access-date=22 September 2026}}</ref>
+|{{USRaceRating|Safe|D}}
+|September 23, 2026
+|-
+|align=left|[[Fox News]]<ref>{{cite web |title=Fox News Power Rankings: The top races to watch as 36 states choose their next governor |url=https://www.foxnews.com/politics/fox-news-power-rankings-top-races-watch-36-states-choose-next-governor |website=[[Fox News]] |date=July 23, 2026 |publisher=Rémy Numa |access-date=24 July 2026}}</ref>
+|{{USRaceRating|Solid|D}}
+|July 23, 2026
+|-
+|align=left|''[[Inside Elections]]''<ref>{{Cite web|title=Gubernatorial Ratings|url=https://insideelections.com/ratings/governor|access-date=February 7, 2025|website=[[Inside Elections]]}}</ref>
+|{{USRaceRating|Solid|D}}
+|August 28, 2025
+|-
+|align="left"|[[RealClearPolitics]]<ref>{{Cite web|title=2026 Governor Races {{!}} RealClearPolitics|url=https://www.realclearpolling.com/maps/governor/2026/toss-up|access-date=June 5, 2026|website=[[RealClearPolitics]]|archive-url=https://web.archive.org/web/20260601183127/https://www.realclearpolling.com/maps/governor/2026/toss-up|archive-date=June 1, 2026|url-status=dead}}</ref>
+|{{USRaceRating|Solid|D}}
+|June 5, 2026
+|-
+|align=left|''[[Sabato's Crystal Ball]]''<ref>{{cite web|title=2026 Governor|url=https://centerforpolitics.org/crystalball/2026-governor/|website=[[Sabato's Crystal Ball]]|access-date=May 1, 2025}}</ref>
+|{{USRaceRating|Safe|D}}
+|September 4, 2025
+|-
+| style="text-align: left;" |[[Silver Bulletin]]<ref name=":Silver">{{Cite web |last=Silver |first=Nate |date=2026-08-20 |title=FLIPR 2026 midterm election forecast |url=https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model |url-access=subscription |access-date=2026-08-20 |website=www.natesilver.net |language=en}}</ref>
+| {{US political race rating|Solid|D}}
+|August 25, 2026
+|}
+
+===Post-primary endorsements===
+{{Endorsements box
+|title=Mike Minogue (R)
+|list=
+;Organizations
+*[[Log Cabin Republicans]]<ref name="LCR5">{{cite web |title=Log Cabin Republicans PAC Announces Fifth Round of Endorsements |url=https://logcabin.org/log-cabin-republicans-pac-announces-fifth-round-of-endorsements-2/ |website=Log Cabin Republicans |access-date=29 September 2026 |date=28 September 2026}}</ref>
+}}
+
+===Polling===
+'''Aggregate polls'''
+{| class="wikitable sortable" style="text-align:center;font-size:90%;line-height:17px"
+!Source of poll<br/>aggregation
+!Dates<br/>administered
+!Dates<br/>updated
+! style="width:100px;" |Maura<br />Healey (D)
+! style="width:100px;" |Mike<br />Minogue (R)
+! style="width:100px;" |Other/<wbr/>Undecided{{Efn|Calculated by taking the difference of 100% and all other candidates combined.|name=|group=}}
+!Margin
+|-
+|Race to the WH<ref>{{cite web |title=2026 Governor Polling |url=https://www.racetothewh.com/governor/26polls |access-date=September 11, 2026 |website=Race to the White House}}</ref>
+|through September 22, 2026
+|September 29, 2026
+|{{party shading/Democratic}} |'''53.7%'''
+|34.0%
+|12.3%
+|{{party shading/Democratic}} |'''Healey +19.7%'''
+|-
+|''[[Silver Bulletin]]''<ref>{{cite web |title=FLIPR 2026 midterm election forecast
+|url=https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model |access-date=September 11, 2026 |website=[[Silver Bulletin]]}}</ref>
+|through September 22, 2026
+|September 29, 2026
+|{{party shading/Democratic}}|'''55.1%'''
+|34.0%
+|10.9%
+|{{party shading/Democratic}} |'''Healey +21.1%'''
+|-
+|[[RealClearPolitics]]<ref>{{cite web |title=2026 Massachusetts Governor - Minogue vs. Healey |url=https://www.realclearpolling.com/polls/governor/general/2026/massachusetts/minogue-vs-healey |access-date=September 30, 2026 |website=[[RealClearPolitics]]}}</ref>
+|May 26 – September 21, 2026
+|September 24, 2026
+|{{party shading/Democratic}}|'''54.3%'''
+|34.0%
+|11.7%
+|{{party shading/Democratic}} |'''Healey +20.3%'''
+|-
+|[[270toWin]]<ref name="270toWin">{{cite web|title=2026 Polls: Massachusetts Governor|url=https://www.270towin.com/2026-governor-polls/massachusetts|website=[[270toWin]]|access-date=September 30, 2026}}</ref>
+|September 24–29, 2026<!--Remember that dates listed on 270toWin are poll *publication dates*, not the dates when the polls were *administered*-->
+|September 29, 2026
+|{{party shading/Democratic}}|'''54.0%'''
+|35.0%
+|11.0%
+|{{party shading/Democratic}} |'''Healey +19.0%'''
+|-
+|colspan="3" |'''Average'''
+|{{party shading/Democratic}}|'''54.3%'''
+|34.3%
+|11.4%
+|{{party shading/Democratic}}|'''Healey +20.0%'''
+|}
+
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"}}
+! Margin<br />of error
+! style="width:100px;"| Maura<br />Healey (D)
+! style="width:100px;"| Mike<br />Minogue (R)
+! Other
+! Undecided
+|-
+|rowspan="2" style="text-align:left;"|[[MassINC|MassINC Polling Group]]<ref>{{cite web |last1=Lisinki |first1=Chris |title=Healey cruising in reelection bid with Trump high on voters' mind, survey shows |url=https://commonwealthbeacon.org/politics/poll-healey-cruising-in-reelection-bid-with-trump-high-on-voters-mind/ |publisher=[[CommonWealth Beacon]] |access-date=September 30, 2026 |date=September 29, 2026}}</ref>
+|rowspan="2"|September 14–22, 2026
+|rowspan="2"|800 (LV)
+|rowspan="2"|±&nbsp;4.0%
+|{{party shading/Democratic}}|'''51%'''
+|30%
+|7%{{efn|Andrea James (I) with 3%; "Another candidate" & "Prefer not to say" with 2%}}
+|12%
+|-
+|{{party shading/Democratic}}|'''54%'''{{efn|name=lean}}
+|32%
+|9%{{Efn|Andrea James (I) with 4%; "Another candidate" with 3%; "Prefer not to say" with 2%}}
+|6%
+|-
+|style="text-align:left;"|[[University of New Hampshire]]<ref>{{cite web|url=https://scholars.unh.edu/cgi/viewcontent.cgi?article=2007&context=survey_center_polls|title=Markey, Healey Favored for Re-Election in Massachusetts, Marijuana Prohibition Question Lacks Support 9/24/2026|first1=Sean P.|last1=McKinley|first2=Andrew E.|last2=Smith|first3=Zachary S.|last3=Azem|first4=Tracy|last4=Keirns|website=[[University of New Hampshire]]|date=September 24, 2026|access-date=September 24, 2026}}</ref>
+|September 17–21, 2026
+|564 (LV)
+|±{{nbsp}}4.1%
+|{{party shading/Democratic}}|'''54%'''
+|38%
+|1%{{efn|"Another candidate" with 1%}}
+|7%
+|-
+|style="text-align:left;"|[[University of New Hampshire]]<ref name=UNHAugust2026/>
+|August 20–24, 2026
+|881 (LV)
+|±&nbsp;2.2%
+|{{party shading/Democratic}}|'''54%'''
+|30%
+|2%{{efn|"Write in someone else" with 2%}}
+|14%
+|-
+|style="text-align:left;"|[[UMass Amherst]]/[[YouGov]]<ref name="UMASSAug2026"/>{{efn-ua|name=WCVB}}
+|August 5–12, 2026
+|800 (RV)
+|±&nbsp;4.4%
+|{{party shading/Democratic}}|'''53%'''
+|33%
+|2%{{efn|"Would not vote" with 2%}}
+|12%
+|-
+|style="text-align:left;"|[[University of New Hampshire]]<ref name=UNHJune2026/>
+|June 18–23, 2026
+|623 (LV)
+|±&nbsp;3.8%
+|{{Party shading/Democratic}}|'''51%'''
+|32%
+|1%
+|16%
+|-
+|style="text-align:left;"|[[Suffolk University]]<ref name="Globe 6/16">{{cite news |last1=Prignano |first1=Christina |title=Explore the full results of the Suffolk University/Boston Globe poll of Massachusetts voters |url=https://www.bostonglobe.com/2026/06/16/metro/full-results-poll-of-massachusetts-voters/ |access-date=June 16, 2026 |work=[[The Boston Globe]] |date=June 16, 2026}}</ref>{{efn-ua|name=Globe}}
+|June 8–12, 2026
+|500 (LV)
+|±&nbsp;4.4%
+|{{Party shading/Democratic}}|'''56%'''
+|31%
+|1%{{efn|"Refused" with 1%}}
+|11%
+|-
+|style="text-align:left;"|Polity Research Consulting<ref name="PRCMay2026">{{cite web|url=https://www.wwlp.com/news/massachusetts/poll-voters-support-healey-but-unsure-of-states-future/|title=Poll: Voters support Healey, but unsure of state's future|first1=Michael P.|last1=Norton|website=[[WWLP]]|date=May 19, 2026|access-date=June 8, 2026}}</ref>{{efn-ua|name=RAoM|Poll sponsored by the Retailers Association of Massachusetts}}
+|April 19 – May 7, 2026
+|608 (RV)
+|±&nbsp;4.0%
+|{{Party shading/Democratic}}|'''58%'''
+|31%
+|–
+|11%
+|-
+|style="text-align:left;"|[[University of New Hampshire]]<ref name="UNHApril2026"/>
+|April 16–20, 2026
+|599 (LV)
+|±&nbsp;4.0%
+|{{Party shading/Democratic}}|'''52%'''
+|32%
+|–
+|15%
+|-
+|style="text-align:left;"|[[University of New Hampshire]]<ref name="UNHFeb2026"/>
+|February 12–16, 2026
+|620 (LV)
+|±&nbsp;3.9%
+|{{Party shading/Democratic}}|'''56%'''
+|27%
+|2%{{efn|name="AC2"}}
+|15%
+|-
+|style="text-align:left;"|[[UMass Amherst]]/[[YouGov]]<ref name="UMassNov2025"/>{{efn-ua|name=WCVB}}
+|October 21–29, 2025
+|800 (A)
+|±&nbsp;4.1%
+|{{party shading/Democratic}}|'''51%'''
+|26%
+|7%{{efn|name=would7}}
+|16%
+|}
+
+{{hidden begin|titlestyle=background:#cff|title=Hypothetical polling|contentstyle=border:solid 1px silver; padding:8px; background:var(--background-color-base); color:var(--color-base);}}
+<!-- = = = don't edit the line above = = = -->
+
+'''Maura Healey vs. Brian Shortsleeve'''<br />
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"|Key:<br />A – all adults<br />RV – registered voters<br />LV – likely voters<br />V – unclear}}
+! Margin<br />of error
+! style="width:100px;"| Maura<br />Healey (D)
+! style="width:100px;"| Brian<br />Shortsleeve (R)
+! Other
+! Undecided
+|-
+|style="text-align:left;"|[[University of New Hampshire]]<ref name=UNHAugust2026/>
+|August 20–24, 2026
+|881 (LV)
+|±&nbsp;2.2%
+|{{party shading/Democratic}}|'''55%'''
+|28%
+|3%{{efn|"Write in someone else" with 3%}}
+|14%
+|-
+|style="text-align:left;"|[[UMass Amherst]]/[[YouGov]]<ref name="UMASSAug2026"/>{{efn-ua|name=WCVB}}
+|August 5–12, 2026
+|800 (RV)
+|±&nbsp;4.4%
+|{{party shading/Democratic}}|'''51%'''
+|32%
+|3%{{efn|"Would not vote" with 3%}}
+|14%
+|-
+|style="text-align:left;"|[[University of New Hampshire]]<ref name=UNHJune2026/>
+|June 18–23, 2026
+|623 (LV)
+|±&nbsp;3.8%
+|{{Party shading/Democratic}}|'''50%'''
+|32%
+|3%
+|15%
+|-
+|style="text-align:left;"|[[Suffolk University]]<ref name="Globe 6/16"/>{{efn-ua|name=Globe}}
+|June 8–12, 2026
+|500 (LV)
+|±&nbsp;4.4%
+|{{Party shading/Democratic}}|'''56%'''
+|29%
+|2%{{efn|"Refused" with 2%}}
+|13%
+|-
+|style="text-align:left;"|Polity Research Consulting<ref name="PRCMay2026"/>{{efn-ua|name=RAoM}}
+|April 19 – May 7, 2026
+|608 (RV)
+|±&nbsp;4.0%
+|{{Party shading/Democratic}}|'''59%'''
+|30%
+|–
+|11%
+|-
+|style="text-align:left;"|[[University of New Hampshire]]<ref name="UNHApril2026"/>
+|April 16–20, 2026
+|603 (LV)
+|±&nbsp;4.0%
+|{{Party shading/Democratic}}|'''51%'''
+|29%
+|3%{{efn|name="AC3"}}
+|17%
+|-
+|style="text-align:left;"|[[University of New Hampshire]]<ref name="UNHFeb2026">{{cite web|url=https://scholars.unh.edu/cgi/viewcontent.cgi?article=1930&context=survey_center_polls|title=Bay Staters Support Same Day Registration, Lower Taxes & Rent Control, Oppose Recreational Marijuana Repeal|first1=Sean P.|last1=McKinley|first2=Andrew E.|last2=Smith|first3=Zachary S.|last3=Azem|first4=Tracy|last4=Keirns|website=[[University of New Hampshire]]|date=February 24, 2026|access-date=February 24, 2026}}</ref>
+|February 12–16, 2026
+|620 (LV)
+|±&nbsp;3.9%
+|{{Party shading/Democratic}}|'''58%'''
+|28%
+|1%{{efn|"Another candidate" with 1%}}
+|13%
+|-
+|style="text-align:left;"|[[UMass Amherst]]/[[YouGov]]<ref name="UMassNov2025">{{Cite web|url=https://www.wcvb.com/article/gop-challenger-healey-umass-poll-nov-2025/69253709|title=UMass Amherst/WCVB poll examines how GOP challengers fare against Mass. Gov. Maura Healey|first1=Phil|last1=Tenser|website=[[WCVB]]|date=November 5, 2025|access-date=November 6, 2025}}</ref>{{efn-ua|name=WCVB}}
+|October 21–29, 2025
+|800 (A)
+|±&nbsp;4.1%
+|{{party shading/Democratic}}|'''48%'''
+|27%
+|7%{{efn|name=would7|"Would not vote" with 7%}}
+|18%
+|-
+|style="text-align:left;"|Advantage, Inc. (R)<ref name="FiscalAlliance"/>{{efn-ua|name=FAF}}
+|September 23–24, 2025
+|750 (LV)
+|±&nbsp;3.6%
+|{{party shading/Democratic}}|'''46%'''
+|31%
+|–
+|23%
+|-
+|style="text-align:left;"|[[UMass Amherst]]/[[YouGov]]<ref name="UMassFeb2025"/>{{efn-ua|name=WCVB}}
+|February 14–20, 2025
+|700 (A)
+|±&nbsp;4.8%
+|{{party shading/Democratic}}|'''44%'''
+|12%
+|6%{{efn|name=would6}}
+|38%
+|-
+|}
+
+'''Maura Healey vs. John Deaton'''<br />
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"}}
+! Margin<br />of error
+! style="width:100px;"| Maura<br />Healey (D)
+! style="width:100px;"| John<br />Deaton (R)
+! Other
+! Undecided
+|-
+|style="text-align:left;"|[[UMass Amherst]]/[[YouGov]]<ref name="UMassFeb2025"/>{{efn-ua|name=WCVB}}
+|February 14–20, 2025
+|700 (A)
+|±&nbsp;4.8%
+|{{party shading/Democratic}}|'''45%'''
+|25%
+|4%{{efn|"Would not vote" with 4%}}
+|26%
+|}
+
+'''Maura Healey vs. Peter Durant'''<br />
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"}}
+! Margin<br />of error
+! style="width:100px;"| Maura<br />Healey (D)
+! style="width:100px;"| Peter<br />Durant (R)
+! Other
+! Undecided
+|-
+|style="text-align:left;"|[[UMass Amherst]]/[[YouGov]]<ref name="UMassFeb2025">{{Cite web|url=https://www.270towin.com/uploads/UMassAmherst_022725.pdf#page=8|title=Toplines: University of Massachusetts Amherst/WCVB - February 2025 Massachusetts Poll|work=[[University of Massachusetts Amherst]]|via=[[270toWin]]|date=February 24, 2025}}</ref>{{efn-ua|name=WCVB|Poll sponsored by [[WCVB]]}}
+|February 14–20, 2025
+|700 (A)
+|±&nbsp;4.8%
+|{{party shading/Democratic}}|'''41%'''
+|14%
+|6%{{efn|name=would6|"Would not vote" with 6%}}
+|39%
+|}
+
+'''Maura Healey vs. Lewis Evangelidis'''<br />
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"}}
+! Margin<br />of error
+! style="width:100px;"| Maura<br />Healey (D)
+! style="width:100px;"| Lewis<br />Evangelidis (R)
+! Other
+! Undecided
+|-
+|style="text-align:left;"|[[UMass Amherst]]/[[YouGov]]<ref name="UMassFeb2025"/>{{efn-ua|name=WCVB}}
+|February 14–20, 2025
+|700 (A)
+|±&nbsp;4.8%
+|{{party shading/Democratic}}|'''44%'''
+|14%
+|6%{{efn|name=would6}}
+|36%
+|}
+
+'''Maura Healey vs. Mike Kennealy'''<br />
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"}}
+! Margin<br />of error
+! style="width:100px;"| Maura<br />Healey (D)
+! style="width:100px;"| Mike<br />Kennealy (R)
+! Other
+! Undecided
+|-
+|style="text-align:left;"|[[University of New Hampshire]]<ref name="UNHApril2026">{{cite web|url=https://scholars.unh.edu/cgi/viewcontent.cgi?article=1944&context=survey_center_polls|title=Markey Maintains Lead Over Moulton in Democratic Senate Primary in Massachusetts|first1=Sean P.|last1=McKinley|first2=Andrew E.|last2=Smith|first3=Zachary S.|last3=Azem|first4=Tracy|last4=Keirns|website=[[University of New Hampshire]]|date=April 23, 2026|access-date=April 23, 2026}}</ref>
+|April 16–20, 2026
+|597 (LV)
+|±&nbsp;4.0%
+|{{Party shading/Democratic}}|'''53%'''
+|32%
+|3%{{efn|name="AC3"|"Another candidate" with 3%}}
+|13%
+|-
+|style="text-align:left;"|[[University of New Hampshire]]<ref name="UNHFeb2026"/>
+|February 12–16, 2026
+|620 (LV)
+|±&nbsp;3.9%
+|{{Party shading/Democratic}}|'''55%'''
+|28%
+|2%{{efn|name="AC2"|"Another candidate" with 2%}}
+|15%
+|-
+|style="text-align:left;"|[[UMass Amherst]]/[[YouGov]]<ref name="UMassNov2025"/>{{efn-ua|name=WCVB}}
+|October 21–29, 2025
+|800 (A)
+|±&nbsp;4.1%
+|{{party shading/Democratic}}|'''49%'''
+|27%
+|7%{{efn|name=would7}}
+|17%
+|-
+|style="text-align:left;"|Advantage, Inc. (R)<ref name="FiscalAlliance">{{cite web|url=https://assets.nationbuilder.com/fiscalalliancefoundation/pages/201/attachments/original/1759336363/Fiscal_Alliance_Foundation_Sept_2025_Poll_Results_-_FINAL.pdf?1759336363|title=Fiscal Alliance Foundation - 750 Likely Voters|website=Fiscal Alliance Foundation|date=October 2, 2025|access-date=October 2, 2025}}</ref>{{efn-ua|name=FAF|Poll sponsored by the Fiscal Alliance Foundation}}
+|September 23–24, 2025
+|750 (LV)
+|±&nbsp;3.6%
+|{{party shading/Democratic}}|'''45%'''
+|34%
+|–
+|21%
+|-
+|style="text-align:left;"|[[UMass Amherst]]/[[YouGov]]<ref name="UMassFeb2025"/>{{efn-ua|name=WCVB}}
+|February 14–20, 2025
+|700 (A)
+|±&nbsp;4.8%
+|{{party shading/Democratic}}|'''40%'''
+|15%
+|6%{{efn|name=would6}}
+|39%
+|-
+|}
+{{hidden end}}
+
+== See also ==
+*[[2026 United States gubernatorial elections]]
+
+==Notes==
+{{notelist}}
+'''Partisan clients'''<br />
+{{notelist-ua}}
+
+==References==
+{{reflist}}
+
+==External links==
+;Official campaign websites
+*[https://maurahealey.com/ Maura Healey (D)]
+*[https://www.ajforma.com/ Andrea James (I)]
+*[https://minogueforma.com/ Mike Minogue (R)]
+*[https://brianshortsleeve.com/ Brian Shortsleeve (R)]
+
+;Official lieutenant gubernatorial campaign websites
+*[https://www.kimdriscoll.org/ Kim Driscoll (D)]
+*[https://oliverforlg.com/ Shawn Oliver (R)]
+
+{{2026 United States elections}}
+
+{{DEFAULTSORT:2026 Massachusetts gubernatorial election}}
+[[Category:Massachusetts gubernatorial elections]]
+[[Category:2026 Massachusetts elections|Gubernatorial]]
+[[Category:2026 United States gubernatorial elections|Massachusetts]]

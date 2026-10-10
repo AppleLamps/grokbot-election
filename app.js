@@ -22,7 +22,8 @@
     sortDir: "desc",
     search: "",
     holder: "",
-    competitive: false
+    competitive: false,
+    govCompetitive: true
   };
 
   // ---------- formatting helpers ----------
@@ -371,6 +372,7 @@
     renderSeatCharts();
     renderRaceChart();
     renderRaces(); // update highlighted column
+    renderGovernors();
   }
 
   function tipChips(list, isSenate) {
@@ -438,7 +440,7 @@
     var keys = state.data.scenarios.map(function (s) { return s.key; });
     var tbody = $("#race-table tbody");
     if (!rows.length) {
-      tbody.innerHTML = '<tr><td class="empty" colspan="9">No races match these filters.</td></tr>';
+      tbody.innerHTML = '<tr><td class="empty" colspan="10">No races match these filters.</td></tr>';
     } else {
       tbody.innerHTML = rows.map(function (r) {
         var seat = r.seat === "special" ? "Special election" : "Regular";
@@ -458,7 +460,8 @@
           '<td class="num mono">' + poll + "</td>" +
           '<td class="num mono"><span class="' + marginClass(r.est_margin) + '">' + margin(r.est_margin) + "</span></td>" +
           probs +
-          '<td class="num mono">' + tipPct(r.tipping_freq) + "</td></tr>";
+          '<td class="num mono">' + tipPct(r.tipping_freq) + "</td>" +
+          '<td class="num mono">' + (r.market_p_dem === null || r.market_p_dem === undefined ? "\u2013" : pct(r.market_p_dem)) + "</td></tr>";
       }).join("");
     }
     var countTxt = "Showing " + rows.length + " of " + state.data.senate_races.length + " races";
@@ -469,6 +472,56 @@
       th.setAttribute("aria-sort", key === state.sortKey ? (state.sortDir === "asc" ? "ascending" : "descending") : "none");
       th.classList.toggle("hl", th.getAttribute("data-col") === state.scenario);
     });
+  }
+
+  // ---------- governor table ----------
+  function renderGovernors() {
+    var d = state.data;
+    var sec = $("#governors");
+    if (!sec) return;
+    if (!d.governor_races || !d.governor_races.length) { sec.hidden = true; return; }
+    var keys = d.scenarios.map(function (s) { return s.key; });
+    var sc = scenarioByKey(state.scenario);
+    var g = sc.governors;
+    if (g) {
+      setField("gov-summary", "<strong>" + esc(SHORT[sc.key] ? SHORT[sc.key].title : sc.label) + ":</strong> Democrats end up with a median of <strong>" + g.D_total_median +
+        "</strong> of 50 governorships (80% range " + g.D_total_p10 + "\u2013" + g.D_total_p90 + "; today 24), winning " + g.D_wins_mean.toFixed(1) + " of the " + g.races +
+        " races on average. Chance Democrats hold a majority of governorships (26+): <strong>" + pct(g.p_D_majority) + "</strong>.");
+    }
+    var rows = d.governor_races.filter(function (r) {
+      if (!state.govCompetitive) return true;
+      return keys.some(function (k) { var p = r.p_dem[k]; return p >= 0.1 && p <= 0.9; });
+    }).slice().sort(function (a, b) { return b.p_dem[state.scenario] - a.p_dem[state.scenario]; });
+    var partyName = { D: "Democrat", R: "Republican" };
+    $("#gov-table tbody").innerHTML = rows.map(function (r) {
+      var probs = keys.map(function (k) { return '<td class="num' + (k === state.scenario ? " hl" : "") + '">' + pill(r.p_dem[k]) + "</td>"; }).join("");
+      var poll = r.poll_margin_d === null || r.poll_margin_d === undefined ?
+        '<span class="no-poll" title="No poll used; the model uses the forecaster-ratings prior only">Ratings only</span>' :
+        '<span class="' + marginClass(r.poll_margin_d) + '" title="' + esc(r.poll_note) + '">' + margin(r.poll_margin_d) + '</span> <span class="n-polls" title="' + r.poll_sources + ' source(s) in the average">(' + r.poll_sources + ")</span>";
+      var st = r.inc_status === "running" ? "Incumbent running" : r.inc_status === "lost_primary" ? "Open (incumbent lost primary)" : "Open seat";
+      return "<tr>" +
+        '<th scope="row" class="state-cell"><strong>' + esc(r.state_name) + '</strong><span class="sub">' + esc(r.state) + " \u00b7 " + esc(st) + "</span></th>" +
+        '<td><span class="party-tag ' + esc(r.holder) + '" title="Governorship currently held by ' + (partyName[r.holder] || r.holder) + '">' + esc(r.holder) + "</span></td>" +
+        '<td class="cand"><span class="c"><span class="party-tag D">D</span> <span class="cn">' + esc(r.dem_candidate) + "</span></span>" +
+        '<span class="c"><span class="party-tag ' + esc(r.challenger_party || "R") + '">' + esc(r.challenger_party || "R") + '</span> <span class="cn">' + esc(r.rep_candidate) + "</span></span></td>" +
+        '<td class="num mono">' + poll + "</td>" +
+        '<td class="num mono"><span class="' + marginClass(r.est_margin) + '">' + margin(r.est_margin) + "</span></td>" + probs +
+        '<td class="num mono">' + (r.market_p_dem === null || r.market_p_dem === undefined ? "\u2013" : pct(r.market_p_dem)) + "</td></tr>";
+    }).join("");
+    $all("#gov-table thead th").forEach(function (th) { th.classList.toggle("hl", th.getAttribute("data-col") === state.scenario); });
+  }
+
+  function renderMarkets() {
+    var m = state.data.markets;
+    if (!m) return;
+    var el = $('[data-field="market-chambers"]');
+    function two(o) { return [o.polymarket != null ? "Polymarket " + pct(o.polymarket) : null, o.kalshi != null ? "Kalshi " + pct(o.kalshi) : null].filter(Boolean).join(", "); }
+    if (el) {
+      el.innerHTML = "<strong>Prediction markets</strong> (" + esc(m.as_of) + ", comparison only): Democrats win the Senate " + two(m.senate_p_D) +
+        "; Democrats win the House " + two(m.house_p_D) + ".";
+      el.hidden = false;
+    }
+    setField("market-asof", esc(m.as_of));
   }
 
   // ---------- wiring ----------
@@ -504,6 +557,8 @@
     $("#race-search").addEventListener("input", function (e) { state.search = e.target.value; renderRaces(); });
     $("#race-holder").addEventListener("change", function (e) { state.holder = e.target.value; renderRaces(); });
     $("#race-competitive").addEventListener("change", function (e) { state.competitive = e.target.checked; renderRaces(); });
+    var gc = $("#gov-competitive");
+    if (gc) gc.addEventListener("change", function (e) { state.govCompetitive = e.target.checked; if (state.data) renderGovernors(); });
 
     var lastW = window.innerWidth, t;
     window.addEventListener("resize", function () {
@@ -593,6 +648,7 @@
         renderGlance();
         renderPillLegend();
         renderCompare();
+        renderMarkets();
         renderScenario();
         renderV2();
         document.documentElement.classList.add("loaded");

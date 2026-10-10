@@ -1,0 +1,2417 @@
+{{short description|none}}
+{{for|related races|2026 United States gubernatorial elections}}
+{{protection padlock|small=yes}}
+{{Use American English|date=January 2025}}
+<!-- "none" is preferred when the title alone is adequate; see [[WP:SDNONE]] -->
+{{Use mdy dates|date=September 2026}}
+{{Infobox election
+| election_name = 2026 Florida gubernatorial election
+| country = Florida
+| type = presidential
+| ongoing = yes
+| previous_election = 2022 Florida gubernatorial election
+| previous_year = 2022
+| next_election = 2030 Florida gubernatorial election
+| next_year = ''2030''
+| election_date = November 3, 2026
+| image_size = x151px
+| image1 = Byron Donalds 2023 (cropped).jpg
+| nominee1 = [[Byron Donalds]]
+| running_mate1 = [[Bryan Avila]]
+| party1 = Republican Party (United States)
+| alliance1 = 
+| popular_vote1 = 
+| percentage1 = 
+| image2 = File:David Jolly (cropped).jpg
+| nominee2 = [[David Jolly]]
+| running_mate2 = [[Gwen Graham]]
+| party2 = Democratic Party (United States)
+| alliance2 = 
+| popular_vote2 = 
+| percentage2 = 
+| title = [[Governor of Florida|Governor]]
+| before_election = [[Ron DeSantis]]
+| before_party = Republican Party (United States)
+| after_election = 
+| after_party = 
+}}
+{{Elections in Florida sidebar}}
+The '''2026 Florida gubernatorial election''' will be held on November 3, 2026, to elect the [[governor of Florida]]. [[Primary elections]] took place on August 18, 2026.<ref>{{Cite web |date=May 9, 2025 |title=2026 State Primary Election Dates |url=https://www.ncsl.org/elections-and-campaigns/2026-state-primary-election-dates |archive-url=https://web.archive.org/web/20260509222424/https://www.ncsl.org/elections-and-campaigns/2026-state-primary-election-dates |archive-date=May 9, 2026 |access-date=August 5, 2025 |website=[[National Conference of State Legislatures]]}}</ref> Incumbent governor [[Ron DeSantis]] is [[Term limits in the United States|ineligible]] to seek re-election to a third consecutive term.
+
+[[Republican Party (United States)|Republicans]] have won every gubernatorial election in Florida since [[1998 Florida gubernatorial election|1998]]. If he wins, Byron Donalds would become the first [[List of minority governors and lieutenant governors in the United States|African American governor]] of Florida, the second African American governor elected in the [[Southern United States]], and the first elected African American Republican governor.{{Efn|[[P. B. S. Pinchback]], the first Black governor of a state, was also the first black Republican to serve as Governor of a U.S. state, when he briefly served as [[Governor of Louisiana]] during [[Reconstruction era|Reconstruction]]. However, Pinchback was never elected governor, as he was appointed to the position after the previous Governor, [[Henry Clay Warmoth]], was removed from office.}} This is the second consecutive Florida gubernatorial election in which the Democratic nominee is a former Republican.
+
+== Background ==
+A heavily populated [[South Atlantic states|South Atlantic state]] with a large and increasingly conservative [[Hispanic and Latino Americans|Latino American]] population and the northern parts lying in the [[Bible Belt]], Florida is considered to be a moderately to strongly [[red states and blue states|red state]], having not elected a Democratic governor since 1994 nor a Democrat for president since [[2012 United States presidential election|2012]] and having moved significantly rightward in the last decade.<ref name="NYTANA">{{cite web |last1=Mazzei |first1=Patricia |date=October 29, 2024 |title=Florida Stopped Being a Swing State Slowly, Then All at Once |url=https://www.nytimes.com/2024/10/29/us/florida-trump-republicans-swing-state.html |access-date=March 7, 2026 |website=The New York Times}}</ref> In [[2022 Florida gubernatorial election|2022]], incumbent governor [[Ron DeSantis]] was re-elected by a 19.4% margin, a considerable improvement from his 0.4-point victory four years earlier in the [[2018 Florida gubernatorial election|gubernatorial election]] during the [[2018 blue wave]].<ref name="PartyS"/>
+
+This was followed in 2024 by Republican [[Donald Trump]] winning his adoptive home state by a 13% margin as he won a second non-consecutive presidential term, improving his 3.4% margin of victory in [[2020 United States presidential election in Florida|2020]] and seemingly diminishing Florida's longtime [[swing state|swing-state]] and [[Florida bellwether|bellwether]] status. Republicans also control all statewide offices, a large majority of the state's U.S. House delegation, both U.S. Senate seats, and supermajorities in both houses of the [[Florida Legislature]].<ref name="PartyS">{{cite web |title=Party control of Florida state government |url=https://ballotpedia.org/Party_control_of_Florida_state_government |access-date=March 7, 2026 |website=Ballotpedia |language=en}}</ref>
+
+=== Candidate eligibility and requirements ===
+Article IV, Section 5(b) of the [[Constitution of Florida|Florida Constitution]] states that, for a person to serve as governor, they must:<ref>{{Cite web |title=Article IV, Florida Constitution |url=https://ballotpedia.org/Article_IV,_Florida_Constitution |access-date=May 13, 2023 |website=[[Ballotpedia]]}}</ref>
+* Be at least thirty years old;
+* Be a permanent resident of Florida for at least seven years;
+* Not have served as governor for six years or more of the two prior terms.
+
+== Republican primary ==
+[[File:Official portrait of Lieutenant Governor of Florida Jay Collins (cropped 5).jpg|thumb|x170px|[[Lieutenant Governor of Florida]] [[Jay Collins]] finished second in the primary.]]
+
+=== Candidates ===
+==== Nominee ====
+* [[Byron Donalds]], [[U.S. representative]] for {{ushr|FL|19}} (2021–present)<ref>{{cite news |last1=Leonard |first1=Kimberly |last2=Matat |first2=Stephany |date=February 25, 2025 |title=Rep. Byron Donalds, backed by Trump, says he's running for Florida governor |url=https://apnews.com/article/byron-donalds-florida-governor-elections-2026-trump-5884b17305d6ef64408934dbdd65a210 |access-date=February 25, 2025 |work=[[Associated Press]]}}</ref>
+**Running mate: [[Bryan Avila]], former [[Florida Senate|Florida state senator]] from the [[Florida's 39th Senate district|39th district]] (2022–2026)<ref>{{cite web |last=Leonard |first=Kimberly |date=August 25, 2026 |title=Donalds picks Florida legislator Bryan Ávila as running mate, leaning into anti-communist message |url=https://www.politico.com/news/2026/08/25/florida-donalds-republican-lieutenant-governor-01048726 |access-date=August 25, 2026 |website=[[Politico]]}}</ref>
+
+==== Eliminated in primary ====
+* [[Jay Collins]], 21st [[lieutenant governor of Florida]] (2025–present)<ref>{{Cite web |last=Shepard |first=Skyler |date=January 12, 2026 |title=Jay Collins, Green Beret turned lieutenant governor, announces run for Florida governor |url=https://cbs12.com/news/local/jay-collins-green-beret-turned-lieutenant-governor-announces-run-for-florida-governor-florida-news-leadership-forged-under-pressure-not-in-soundbites-us-rep-byron-donalds-january-12-2026 |access-date=January 12, 2026 |website=[[WPEC]] |language=en}}</ref>
+**Running mate: Kevin Guthrie, executive director of the [[Florida Division of Emergency Management]] (2021–present)<ref>{{Cite web |last=Gancarski |first=A.G. |date=August 17, 2026 |title=Hours before Election Day, Jay Collins taps Kevin Guthrie for running mate |url=https://floridapolitics.com/archives/814783-collins-picks-running-mate/ |access-date=August 17, 2026 |website=[[Florida Politics]] |language=en-US}}</ref>
+* [[Paul Renner (politician)|Paul Renner]], 103rd [[List of speakers of the Florida House of Representatives|speaker of the Florida House of Representatives]] (2022–2024) from the [[Florida's 19th House of Representatives district|19th district]] (2015–2024)<ref>{{cite web |last=Gancarski |first=A.G. |date=September 3, 2025 |title=Paul Renner, former Florida House speaker, announces run for Governor |url=https://floridapolitics.com/archives/754118-renner-is-in-the-governors-race/ |access-date=September 3, 2025 |website=[[Florida Politics]]}}</ref>
+* [[James Fishback]], investment firm founder<ref>{{Cite web |last=Ogles |first=Jacob |date=November 24, 2025 |title=James Fishback launches campaign for Governor |url=https://floridapolitics.com/archives/767120-james-fishback-launches-campaign-for-governor/ |access-date=November 24, 2025 |website=Florida Politics |language=en-US}}</ref>
+**Running mate: Sean Lozano, police officer<ref>{{Cite web |last=Rosica |first=Jim |title=James Fishback names running mate for 2026 run for Florida governor |url=https://ugawire.usatoday.com/story/news/politics/2026/06/25/james-fishback-taps-sean-lozano-as-florida-lieutenant-governor-pick/90690644007/ |access-date=June 27, 2026 |website=UGA Wire |language=en-US}}</ref>
+* Jim Holcomb<ref name="Cruel"/>
+* Arthur Joseph McCaffrey<ref name="Candidates">{{cite web |title=Candidate Listing for 2026 General Election |url=https://dos.elections.myflorida.com/candidates/canlist.asp |access-date=June 12, 2026 |website=[[Secretary of State of Florida|Florida Department of State]]}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}</ref>
+* Daniel Nokovich<ref name="Candidates" />
+* Rachel Rodriguez, attorney<ref name="Cruel"/>
+* James Walker Shaw, farmer<ref name="Cruel"/>
+* Caneste Succe, public representative<ref name="Cruel"/>
+* Bobby Williams, activist and food bank volunteer<ref name="WinterHavenSun">{{cite news |last=Fellows-Coffey |first=Lisa |title=Winter Haven's Williams leans on faith, Sheriff Judd in gubernatorial race |url=https://www.midfloridanewspapers.com/winter_haven_sun/winter-haven-s-williams-leans-on-faith-sheriff-judd-in-gubernatorial-race/article_5649b2ce-42f4-4183-a5b3-c8569e63a731.html |access-date=December 16, 2025 |work=Winter Haven Sun}}</ref>
+
+==== Failed to qualify ====
+* Charles Burkett, mayor of [[Surfside, Florida|Surfside]] (2006–2010, 2020–2022, 2024–2026) (''running as an Independent'')<ref>{{cite news |last1=Scheckner |first1=Jesse |date=March 31, 2025 |title=Charles Burkett, Surfside's 4-term Mayor, says he's running for Governor |url=https://floridapolitics.com/archives/729249-charles-burkett-surfsides-3-time-mayor-says-hes-running-for-governor/ |access-date=March 31, 2025 |work=[[Florida Politics]]}}</ref>
+* Shea Cruel, U.S. veteran<ref name="Cruel">{{cite news |last=Bridges |first=C.A. |date=April 6, 2026 |title=Florida governor's race now up to 44 candidates, here's who's running |url=https://www.usatoday.com/story/news/politics/elections/2026/04/06/florida-governor-race-candidate-list-ron-desantis/89481363007/ |access-date=April 28, 2026 |work=USA Today}}</ref>
+* Jenny Patricia Curtman, [[Naturopathy|naturopathic]] doctor<ref name="Cruel"/>
+* Daniel J. Imperato, consultant<ref name="Cruel"/>
+* John Joseph Mercadante, retired carpenter<ref name="Cruel"/>
+
+==== Withdrawn ====
+* Bill Reicherter, real estate agent, candidate for state house in [[2024 Florida House of Representatives election#District 90|2024]], and candidate for state senate in [[2022 Florida Senate election#District 30|2022]]<ref>{{cite web |last=Scheckner |first=Jesse |date=August 4, 2025 |title=4 people have filed for a Special Election to replace Joe Casello in HD 90. Not all are serious candidates |url=https://floridapolitics.com/archives/750190-4-people-have-filed-for-a-special-election-to-replace-joe-casello-in-hd-90-not-all-are-serious-candidates/ |access-date=August 4, 2025 |website=[[Florida Politics]]}}</ref>
+
+==== Declined ====
+* [[Casey DeSantis]], [[First ladies of Florida|First Lady of Florida]] (2019–present)<ref>{{Cite web |last=Perry |first=Mitch |date=August 8, 2026 |title=GOP gubernatorial primary election seems a foregone conclusion |url=https://www.wlrn.org/light/government-politics/2026-08-06/gop-gubernatorial-primary-election-seems-a-foregone-conclusion |access-date=August 6, 2026 |website=www.wlrn.org}}</ref>
+* [[Matt Gaetz]], former [[U.S. representative]] for {{ushr|FL|1}} (2017–2024)<ref>{{cite web |last1=Fineout |first1=Gary |last2=Leonard |first2=Kimberly |date=July 11, 2025 |title=He was DeSantis' 'bulldog.' Will Trump help Florida's attorney general stick around? |url=https://www.politico.com/news/2025/07/11/uthmeier-desantis-trump-florida-alligator-alcatraz-00447141 |access-date=July 14, 2025 |website=[[Politico]]}}</ref>
+* [[Francis Suarez]], 43rd [[List of mayors of Miami|mayor of Miami]] (2017–2025) and candidate for president in [[2024 Republican Party presidential primaries|2024]]<ref>{{cite web |last1=Riski |first1=Tess |date=September 8, 2025 |title=Miami's outgoing mayor celebrates G20 win as he eyes his next career move |url=https://www.miamiherald.com/news/local/community/miami-dade/article312019866.html |access-date=September 10, 2025 |publisher=[[Miami Herald]]}}</ref>
+
+=== Endorsements ===
+{{Endorsements box
+| title = Jay Collins
+| colwidth =
+| list =
+;State representatives
+* [[Susan Plasencia]], [[Florida's 37th House of Representatives district|HD-37]] (2022–present) ''(previously endorsed Donalds)''<ref name="Plasencia">{{cite web |last1=Costeines |first1=Michael |date=March 31, 2026 |title=Rep. Susan Plasencia Rescinds Donalds Endorsement, Joins Jay Collins Campaign |url=https://floridianpress.com/2026/03/rep-susan-plasencia-rescinds-donalds-endorsement-joins-jay-collins-campaign/ |access-date=April 1, 2026 |publisher=The Floridian}}</ref>
+;Local officials
+* [[Mike Chitwood]], [[Volusia Sheriff's Office|sheriff of Volusia County]] (2017–present) ''(Independent)''<ref name="d1r">{{cite web |last1=Gancarski |first1=A. G. |date=March 12, 2026 |title='Day One Ready': Mike Chitwood backs Jay Collins for Governor |url=https://floridapolitics.com/archives/784924-chitwood-collins-governor/ |access-date=March 12, 2026 |website=Florida Politics}}</ref>
+*[[René García (politician)|René García]], [[Miami-Dade County, Florida|Miami-Dade County]] commissioner (2020–present)<ref>{{cite web |last1=Wilson |first1=Drew |date=June 8, 2026 |title=René Garcia endorses Jay Collins for Governor |url=https://floridapolitics.com/archives/800636-rene-garcia-endorses-jay-collins-for-governor/ |access-date=June 8, 2026 |publisher=[[Florida Politics]]}}</ref>
+
+;Organizations
+* <s>[[Florida Police Benevolent Association]]</s><ref>{{cite news |last=Vecerina |first=Michelle |date=June 29, 2026 |title=Florida Police Benevolent Association endorses Lt. Gov. Jay Collins for governor |url=https://flvoicenews.com/florida-police-benevolent-association-endorses-lt-gov-jay-collins-for-governor/ |work=Florida Voice}}</ref> ''(later endorsed Byron Donalds)''<ref name="PBA_NRA" />
+* [[Veterans for America First]]<ref>{{cite news |last=Costeines |first=Michael |date=May 14, 2026 |title=Veterans for America First Endorses Jay Collins for Governor |url=https://floridianpress.com/2026/05/veterans-for-america-first-endorses-jay-collins-for-governor/ |work=Flordian Press}}</ref>
+}}
+{{Endorsements box
+| title = Byron Donalds
+| colwidth = 150
+| list =
+;Executive branch officials
+* [[Donald Trump]], [[president of the United States]] (2017–2021, 2025–present)<ref>{{cite news |last1=Dixon |first1=Matt |date=February 20, 2025 |title=Trump backs Rep. Byron Donalds in his likely run for Florida governor in 2026 |url=https://www.nbcnews.com/politics/donald-trump/trump-backs-rep-byron-donalds-likely-run-florida-governor-2026-rcna192534 |access-date=February 20, 2025 |work=[[NBC News]]}}</ref>
+* [[Scott Bessent]], [[United States Secretary of the Treasury|secretary of the treasury]] (2025–present)<ref name="committedsupporters">{{cite news |last=Wilson |first=Kirby |date=February 17, 2025 |title=Does Donald Trump have a favorite Republican in the 2026 governor's race? |url=https://www.tampabay.com/news/florida-politics/2025/02/17/trump-gaetz-2026-governor-desantis-byron-donalds-truth-social/ |access-date=March 18, 2025 |work=[[Tampa Bay Times]]}}</ref>
+* [[Dan Bongino]], former [[Deputy Director of the FBI]] (2025–2026)<ref name="miamiyr">{{cite news |last=Scheckner |first=Jesse |date=March 17, 2025 |title='A true patriot': Byron Donalds adds endorsement from Miami Young Republicans |url=https://floridapolitics.com/archives/726536-a-true-patriot-byron-donalds-adds-endorsement-from-miami-young-republicans/ |access-date=February 20, 2025 |work=[[Florida Politics]]}}</ref>
+* [[Doug Burgum]], [[U.S. Secretary of the Interior|secretary of the interior]] (2025–present)<ref name="committedsupporters"/>
+* [[Stacey Feinberg]], [[United States Ambassador to Luxembourg|ambassador to Luxembourg]] (2025–present)<ref name="committedsupporters"/>
+* [[Joe Gebbia]], [[Executive Office of the President of the United States|chief design officer]] (2025–present)<ref name="committedsupporters"/>
+* [[Jacob Helberg]], [[Under Secretary of State for Economic Growth, Energy, and the Environment|under secretary of state for economic growth, energy and the environment]] (2025–present)<ref name="committedsupporters"/>
+* [[Peter Lamelas]], [[List of ambassadors of the United States to Argentina|ambassador to Argentina]] (2025–present)<ref name="committedsupporters"/>
+* [[Kelly Loeffler]], [[administrator of the Small Business Administration]] (2025–present)<ref name="committedsupporters"/>
+* [[Elon Musk]], former [[Senior Advisor to the President of the United States|senior advisor to the president]] (2025) ''(Independent)''<ref>{{cite news |last1=Schorsch |first1=Peter |date=November 13, 2025 |title=Byron Donalds has Elon Musk's 'full support' |url=https://floridapolitics.com/archives/765440-byron-donalds-has-elon-musks-full-support/ |access-date=November 13, 2025 |work=Florida Politics}}</ref>
+* [[Dan Newlin]], nominee to be [[List of ambassadors of the United States to Colombia|ambassador to Colombia]]<ref name="committedsupporters"/>
+* [[John C. Phelan]], [[U.S. Secretary of the Navy|secretary of the navy]] (2025–2026)<ref name="committedsupporters"/>
+* [[Andrew Puzder]], [[List of ambassadors of the United States to the European Union|ambassador to the European Union]] (2025–present)<ref name="committedsupporters"/>
+* [[David Sacks]],  co-chair of the [[President's Council of Advisors on Science and Technology]] (2025–present)<ref name="committedsupporters"/>
+* [[Steve Witkoff]], [[Ambassadors of the United States|special envoy to the Middle East]] (2025–present) and [[Ambassadors of the United States#Special envoys, representatives, and coordinators|special envoy for peace missions]] (2025–present)<ref name="committedsupporters"/>
+
+;U.S. senators
+* [[Rick Scott]], Florida (2019–present)<ref>{{cite news |last=Gancarski |first=A.G. |date=March 17, 2025 |title=Rick Scott siding with Byron Donalds over Casey DeSantis for Florida Governor |url=https://floridapolitics.com/archives/726594-rick-scott-likes-byron-donalds-over-casey-desantis-for-governor/ |access-date=March 18, 2025 |work=[[Florida Politics]]}}</ref>
+* [[Ashley Moody]], Florida (2025–present)<ref>{{cite news |last=Scheckner |first=Jesse |date=July 10, 2026 |title=Badge of approval: With Police Chiefs nod, Byron Donalds bolsters law enforcement backing |url=https://floridapolitics.com/archives/806870-badge-of-approval-with-police-chiefs-nod-byron-donalds-bolsters-law-enforcement-backing/ |access-date=July 13, 2026 |work=[[Florida Politics]]}}</ref>
+* [[Ted Cruz]], [[Texas]] (2013–present)<ref>{{Cite web |date=November 11, 2025 |title=EXCLUSIVE: Sen. Ted Cruz endorses Byron Donalds for Florida governor |url=https://flvoicenews.com/exclusive-sen-ted-cruz-endorses-byron-donalds-for-florida-governor/ |access-date=November 11, 2025}}</ref>
+
+;U.S. representatives
+* [[Aaron Bean]], {{ushr|FL|4|FL-04}} (2023–present)<ref>{{cite web |last1=Gancarski |first1=A.G. |date=September 2, 2025 |title=Aaron Bean backs Byron Donalds for Governor |url=https://floridapolitics.com/archives/754066-aaron-bean-backs-byron-donalds-for-governor/ |access-date=September 2, 2025 |publisher=[[Florida Politics]]}}</ref>
+* [[Gus Bilirakis]], {{ushr|FL|12|FL-12}} (2007–present)<ref>{{cite news |last1=Klein |first1=Matthew |date=December 4, 2025 |title=Republicans' Florida Feud May Fall Short of Fireworks |url=https://www.cookpolitical.com/analysis/governors/florida-governor/republicans-florida-feud-may-fall-short-fireworks |access-date=December 5, 2025 |work=The Cook Political Report with Amy Walter}}</ref>
+* [[Vern Buchanan]], {{ushr|FL|16|FL-16}} (2007–present)<ref>{{cite news |last=Leonard |first=Kimberly |date=March 18, 2025 |title=Trump-backed Byron Donalds gets first congressional endorsement for Florida governor |url=https://www.politico.com/news/2025/03/18/byron-donalds-congressional-endorsement-florida-governor-00234841 |access-date=March 18, 2025 |work=[[Politico]]}}</ref>
+* [[Kat Cammack]], {{ushr|FL|3|FL-03}} (2021–present)<ref name="congressmembers">{{cite news |last1=Leonard |first1=Kimberly |last2=Domínguez |first2=Isa |date=March 28, 2025 |title=Parkland bill faces the state Senate — again |url=https://www.politico.com/newsletters/florida-playbook/2025/03/28/parkland-bill-faces-the-state-senate-again-00256118 |access-date=March 28, 2025 |work=[[Politico]]}}</ref>
+* [[Mario Díaz-Balart]], {{ushr|FL|26|FL-26}} (2003–present)<ref name="SevenReps">{{cite news |last1=Ogles |first1=Jacob |date=April 9, 2025 |title=Seven more Florida congressional colleagues endorse Byron Donalds for Governor |url=https://floridapolitics.com/archives/730984-seven-more-florida-congressional-colleagues-endorse-byron-donalds-for-governor/ |access-date=April 9, 2025 |work=[[Florida Politics]]}}</ref>
+* [[Neal Dunn]], {{ushr|FL|2|FL-02}} (2017–present)<ref>{{cite web |last=Ogles |first=Jacob |date=October 13, 2025 |title=Neal Dunn becomes latest in Florida congressional delegation to endorse Byron Donalds |url=https://floridapolitics.com/archives/760410-neal-dunn-becomes-latest-in-florida-congressional-delegation-to-endorse-byron-donalds/ |access-date=October 13, 2025 |website=[[Florida Politics]]}}</ref>
+* [[Tom Emmer]], [[Party leaders of the United States House of Representatives|House majority whip]] (2023–present) from [[Minnesota's 6th congressional district|MN-06]] (2015–present)<ref name="gopleaders">{{cite news |last=Wilson |first=Drew |date=April 29, 2025 |title=Top congressional Republicans line up behind Byron Donalds |url=https://floridapolitics.com/archives/735016-top-congressional-republicans-line-up-behind-byron-donalds/ |access-date=April 29, 2025 |work=[[Florida Politics]]}}</ref>
+* [[Randy Fine]], {{ushr|FL|6|FL-06}} (2025–present)<ref name="floridaleaders">{{cite news |last=Ogles |first=Jacob |date=February 26, 2025 |title=Florida leaders line up to endorse Byron Donalds on Day 1 |url=https://floridapolitics.com/archives/723250-florida-leaders-line-up-to-endorse-byron-donalds-on-day-1/ |access-date=February 26, 2025 |work=[[Florida Politics]]}}</ref>
+* [[Scott Franklin (politician)|Scott Franklin]], {{ushr|FL|18|FL-18}} (2021–present)<ref name="SevenReps" />
+* [[Russell Fry]], [[South Carolina's 7th congressional district|SC-07]] (2023–present)<ref>{{cite news |last1=Vecerina |first1=Michelle |date=November 19, 2025 |title=EXCLUSIVE: South Carolina Rep. Russell Fry endorses Byron Donalds for Florida Governor |url=https://flvoicenews.com/exclusive-south-carolina-rep-russell-fry-endorses-byron-donalds-for-florida-governor/ |access-date=November 19, 2025 |work=Florida's Voice}}</ref>
+* [[Mike Haridopolos]], {{ushr|FL|8|FL-08}} (2025–present)<ref name="flvoicenews">{{cite news |last=Jo Cooper |first=Amber |date=August 21, 2025 |title=U.S. Rep. Haridopolos endorses Rep. Donalds' bid for Florida governor |url=https://flvoicenews.com/u-s-rep-haridopolos-endorses-rep-donalds-bid-for-florida-governor/ |access-date=August 21, 2025 |work=The Floridian}}</ref>
+* [[Mike Johnson]], [[Speaker of the U.S. House of Representatives|speaker of the House]] (2023–present) from {{ushr|LA|4|LA-04}} (2017–present)<ref>{{cite news |last1=Leonard |first1=Kimberly |last2=Domínguez |first2=Isa |date=April 3, 2025 |title=Stephanie Murphy talks next moves — for her and for Democrats |url=https://www.politico.com/newsletters/florida-playbook/2025/04/03/stephanie-murphy-talks-next-moves-for-her-and-for-democrats-00268073 |access-date=April 3, 2025 |work=[[Politico]]}}</ref>
+* [[Laurel Lee]], {{ushr|FL|15|FL-15}} (2023–present)<ref name="SevenReps" />
+* [[Anna Paulina Luna]], {{ushr|FL|13|FL-13}} (2023–present)<ref name="floridianpress">{{cite news |last=Manjarres |first=Javier |date=August 11, 2025 |title=Luna Endorses Donalds' 'America First' Gubernatorial Campaign |url=https://floridianpress.com/2025/08/luna-endorses-donalds-america-first-gubernatorial-campaign/amp/ |access-date=August 11, 2025 |work=The Floridian}}</ref>
+* [[Brian Mast]], {{ushr|FL|21|FL-21}} (2017–present)<ref name="SevenReps" />
+* [[Lisa McClain]], [[Michigan's 9th congressional district|MI-09]] (2021–present)<ref name="gopleaders"/>
+* [[Cory Mills]], {{ushr|FL|7|FL-07}} (2023–present)<ref name="congressmembers"/>
+* [[Jimmy Patronis]], {{ushr|FL|1|FL-01}} (2025–present)<ref>{{cite news |last1=Vecerina |first1=Michelle |date=October 17, 2025 |title=U.S. Rep. Jimmy Patronis joins growing GOP coalition supporting Byron Donalds for Florida governor |url=https://flvoicenews.com/u-s-rep-jimmy-patronis-joins-growing-gop-coalition-supporting-byron-donalds-for-florida-governor/ |access-date=November 7, 2025 |work=Florida's Voice}}</ref>
+* [[Chip Roy]], [[Texas's 21st congressional district|TX-21]] (2019–present)<ref>{{cite web |last1=Barfield |first1=Raeylee |date=November 10, 2025 |title=Chip Roy Endorses Byron Donalds in Florida's Governor Race |url=https://floridianpress.com/2025/11/chip-roy-endorses-byron-donalds-in-floridas-governor-race/ |access-date=November 11, 2025 |publisher=The Floridian}}</ref>
+* [[John Rutherford (Florida politician)|John Rutherford]], {{ushr|FL|5|FL-05}} (2017–present)<ref name="SevenReps" />
+* [[María Elvira Salazar]], {{ushr|FL|27|FL-27}} (2021–present)<ref name="SevenReps" />
+* [[Steve Scalise]], [[Party leaders of the United States House of Representatives|House majority leader]] (2023–present) from [[Louisiana's 1st congressional district|LA-01]] (2008–present)<ref name="gopleaders"/>
+* [[Elise Stefanik]], [[New York's 21st congressional district|NY-21]] (2015–present)<ref name="gopleaders"/>
+* [[Daniel Webster (Florida politician)|Daniel Webster]], {{ushr|FL|11|FL-11}} (2011–present)<ref name="SevenReps" />
+* [[Jeff Miller (Florida politician)|Jeff Miller]], former {{ushr|FL|1|FL-01}} (2001–2017)<ref name="committedsupporters"/>
+
+;Statewide officials
+* [[Jeff Landry]], [[governor of Louisiana]] (2024–present) and [[United States Special Envoy|special envoy]] to [[Greenland]] (2025–present)<ref>{{cite web |last1=Gancarski |first1=A. G. |date=February 19, 2026 |title=Louisiana Gov. Jeff Landry backs Byron Donalds to lead Florida |url=https://floridapolitics.com/archives/781203-louisiana-gov-jeff-landry-backs-byron-donalds-to-lead-florida/ |access-date=February 20, 2026 |website=Florida Politics}}</ref>
+* [[Sarah Huckabee Sanders]], [[governor of Arkansas]] (2023–present)<ref>{{cite web |last1=Kopylov |first1=Frank |date=January 14, 2026 |title=Byron Donalds gains key endorsement from Arkansas Gov. Sanders |url=https://flvoicenews.com/byron-donalds-gains-key-endorsement-from-arkansas-gov-sanders/ |access-date=January 15, 2026 |website=Florida's Voice}}</ref>
+*[[Blaise Ingoglia]], [[chief financial officer of Florida]] (2025–present)<ref>{{cite web |last1=Schorsch |first1=Peter |date=July 2, 2026 |title=Byron Donalds' front-runner wall grows with Blaise Ingoglia endorsement |url=https://floridapolitics.com/archives/805266-byron-donalds-front-runner-wall-grows-with-blaise-ingoglia-endorsement/ |access-date=July 2, 2026 |publisher=[[Florida Politics]]}}</ref>
+*[[Wilton Simpson]], [[Florida Commissioner of Agriculture]] (2023–present)<ref>{{cite web |last1=Scheckner |first1=Jesse |date=July 3, 2026 |title=With Wilton Simpson endorsement, Byron Donalds completes his Cabinet sweep |url=https://floridapolitics.com/archives/805568-with-wilton-simpson-endorsement-byron-donalds-completes-his-cabinet-sweep/ |access-date=July 3, 2026 |publisher=[[Florida Politics]]}}</ref>
+*[[James Uthmeier]], [[Attorney General of Florida]] (2025–present)<ref>{{cite web |last1=Scheckner |first1=Jesse |date=July 1, 2026 |title=James Uthmeier endorses 'proven' Byron Donalds for Governor |url=https://floridapolitics.com/archives/805218-james-uthmeier-endorses-proven-byron-donalds-for-governor/ |access-date=July 1, 2026 |publisher=[[Florida Politics]]}}</ref>
+
+;State legislators
+* [[Ben Albritton]], [[President of the Florida Senate]] (2024–present)<ref>{{cite news |last=Gancarski |first=A.G. |date=July 8, 2026 |title=Ben Albritton backs Byron Donalds in latest major endorsement from Ron DeSantis ally |url=https://floridapolitics.com/archives/806304-albritton-donalds/ |access-date=September 13, 2026 |work=[[Florida Politics]]}}</ref>
+* [[Jim Boyd (politician)|Jim Boyd]], president-designate of the [[Florida Senate]] from the [[Florida's 20th Senate district|20th district]] (2020–present)<ref name="jbsg">{{cite web |last1=Scheckner |first1=Jesse |date=June 1, 2026 |title=Jim Boyd, Sam Garrison endorse 'visionary leader' Byron Donalds for Governor |url=https://floridapolitics.com/archives/805194-jim-boyd-sam-garrison-endorse-visionary-leader-byron-donalds-for-governor/ |access-date=June 1, 2026 |publisher=[[Florida Politics]]}}</ref>
+* [[Wyman Duggan]], speaker pro tempore of the [[Florida House of Representatives]] (2024–present) from [[Florida's 12th House of Representatives district|HD-12]] (2018–present)<ref name="House63">{{cite news |last=Ogles |first=Jacob |date=October 15, 2025 |title=63 Florida House members endorse Byron Donalds for Governor |url=https://floridapolitics.com/archives/760712-daniel-perez-leads-63-house-members-in-endorsing-byron-donalds-for-governor/ |access-date=November 6, 2025 |work=Florida Politics}}</ref>
+* [[Sam Garrison (politician)|Sam Garrison]], speaker-designate of the [[Florida House of Representatives]] from the [[Florida's 11th House of Representatives district|11th district]] (2020–present)<ref name=jbsg/>
+* [[Daniel Perez (politician)|Daniel Perez]], [[List of speakers of the Florida House of Representatives|speaker of the Florida House of Representatives]] (2025–present) from [[Florida's 116th House of Representatives district|HD-116]] (2018–present)<ref name="House63"/>
+* [[Tyler Sirois]], majority leader of the [[Florida House of Representatives]] (2024–present) from [[Florida's 31st House of Representatives district|HD-31]] (2018–present)<ref name="House63"/>
+* 59 other [[Florida House of Representatives|state representatives]]{{efn|
+* [[Shane Abbott]], [[Florida House of Representatives|state representative]] from the [[Florida's 5th House of Representatives district|5th]] district (2022–present)<ref name="House63"/>
+* [[Jon Albert]], [[Florida House of Representatives|state representative]] from the [[Florida's 48th House of Representatives district|48th]] district (2024–present)<ref name="House63"/>
+*  [[Adam Anderson (politician)|Adam Anderson]], [[Florida House of Representatives|state representative]] from the [[Florida's 57th House of Representatives district|57th]] district (2022–present)<ref name="House63"/>
+* [[Alex Andrade]], [[Florida House of Representatives|state representative]] from the [[Florida's 2nd House of Representatives district|2nd]] district (2018–present)<ref name="House63"/>
+* [[Jessica Baker]], [[Florida House of Representatives|state representative]] from the [[Florida's 17th House of Representatives district|17th]] district (2022–present)<ref name="House63"/>
+* [[Webster Barnaby]], [[Florida House of Representatives|state representative]] from the [[Florida's 29th House of Representatives district|29th]] district (2020–present)<ref name="House63"/>
+* [[Yvette Benarroch]], [[Florida House of Representatives|state representative]] from the [[Florida's 81st House of Representatives district|81st]] district (2024–present)<ref name="House63"/>
+* [[Dean Black]], [[Florida House of Representatives|state representative]] from the [[Florida's 15th House of Representatives district|15th]] district (2022–present)<ref name="House63"/>
+* [[Omar Blanco]], [[Florida House of Representatives|state representative]] from the [[Florida's 115th House of Representatives district|115th]] district (2024–present)<ref name="House63"/>
+* [[Erika Booth]], [[Florida House of Representatives|state representative]] from the [[Florida's 35th House of Representatives district|35th]] district (2024–present)<ref name="House63"/>
+* [[David Borrero]], [[Florida House of Representatives|state representative]] from the [[Florida's 105th House of Representatives district|105th]] district (2020–2022), [[Florida's 111th House of Representatives district|111th]] district (2022–present)<ref name="House63"/>
+* [[Adam Botana]], [[Florida House of Representatives|state representative]] from the [[Florida's 80th House of Representatives district|80th]] district (2020–present)<ref name="House63"/>
+* [[Nathan Boyles]], [[Florida House of Representatives|state representative]] from the [[Florida's 3rd House of Representatives district|3rd]] district (2025–present)<ref name="House63"/>
+* [[Robbie Brackett]], [[Florida House of Representatives|state representative]] from the [[Florida's 34th House of Representatives district|34th]] district (2022–present)<ref name="House63"/>
+* [[James Buchanan (Florida politician)|James Buchanan]], [[Florida House of Representatives|state representative]] from the [[Florida's 74th House of Representatives district|74th]] district (2018–present)<ref name="House63"/>
+* [[Demi Busatta]], [[Florida House of Representatives|state representative]] from the [[Florida's 114th House of Representatives district|114th]] district (2020–present)<ref name="House63"/>
+* [[Jennifer Canady]], [[Florida House of Representatives|state representative]] from the [[Florida's 50th House of Representatives district|50th]] district (2022–present)<ref name="House63"/>
+* [[Hillary Cassel]], [[Florida House of Representatives|state representative]] from the [[Florida's 101st House of Representatives district|101st]] district (2022–present)<ref name="House63"/>
+* [[Linda Chaney]], [[Florida House of Representatives|state representative]] from the [[Florida's 61st House of Representatives district|61st]] district (2020–present)<ref name="3latest">{{cite web |last1=Ogles |first1=Jacob |date=April 1, 2026 |title=Linda Chaney, J.J. Grow and Tom Fabricio latest GOP lawmakers to endorse Byron Donalds |url=https://floridapolitics.com/archives/788400-linda-chaney-j-j-grow-and-tom-fabricio-latest-gop-lawmakers-to-endorse-byron-donalds/ |access-date=April 1, 2026 |publisher=[[Florida Politics]]}}</ref>
+* [[Nan Cobb]], [[Florida House of Representatives|state representative]] from the [[Florida's 26th House of Representatives district|26th]] district (2024–present)<ref name="House63"/>
+* [[Tiffany Esposito]], [[Florida House of Representatives|state representative]] from the [[Florida's 77th House of Representatives district|77th]] district (2022–present)<ref name="House63"/>
+* [[Tom Fabricio]], [[Florida House of Representatives|state representative]] from the [[Florida's 110th House of Representatives district|110th]] district (2020–present)<ref name=3latest/>
+* [[Richard Gentry (Florida politician)|Richard Gentry]], [[Florida House of Representatives|state representative]] from the [[Florida's 27th House of Representatives district|27th]] district (2024–present)<ref name="House63"/>
+* [[Anne Gerwig]], [[Florida House of Representatives|state representative]] from the [[Florida's 93rd House of Representatives district|93rd]] district (2024–present)<ref name="House63"/>
+* [[Mike Giallombardo]], [[Florida House of Representatives|state representative]] [[Florida's 79th House of Representatives district|79th]] district (2020–present)<ref name="House63"/>
+* [[Karen Gonzalez Pittman]], [[Florida House of Representatives|state representative]] from the [[Florida's 65th House of Representatives district|65th]] district (2022–present)<ref name="House63"/>
+* [[Sam Greco (politician)|Sam Greco]], [[Florida House of Representatives|state representative]] from the [[Florida's 19th House of Representatives district|19th]] district (2024–present)<ref name="House63"/>
+* [[Philip Griffitts]], [[Florida House of Representatives|state representative]] from the [[Florida's 6th House of Representatives district|6th]] district (2022–present)<ref name="House63"/>
+* [[J. J. Grow]], [[Florida House of Representatives|state representative]] from the [[Florida's 23rd House of Representatives district|23rd]] district (2024–present)<ref name=3latest/>
+* [[Jeff Holcomb]], [[Florida House of Representatives|state representative]] from the [[Florida's 53rd House of Representatives district|53rd]] district (2022–present)<ref name="House63"/>
+* [[Berny Jacques]], [[Florida House of Representatives|state representative]] from the [[Florida's 59th House of Representatives district|59th]] district (2022–present)<ref name="floridaleaders"/>
+* [[Kim Kendall]], [[Florida House of Representatives|state representative]] from the [[Florida's 18th House of Representatives district|18th]] district (2024–present)<ref name="House63"/>
+* [[Traci Koster]], [[Florida House of Representatives|state representative]] from the [[Florida's 66th House of Representatives district|66th]] district (2020–present)<ref name="House63"/>
+* [[Fiona McFarland]], [[Florida House of Representatives|state representative]] from the [[Florida's 73rd House of Representatives district|73rd]] district (2020–present)<ref name="House63"/>
+* [[Lauren Melo]], [[Florida House of Representatives|state representative]] from the [[Florida's 82nd House of Representatives district|82nd]] district (2020–present)<ref name="boldandclear">{{cite news |last=Ogles |first=Jacob |date=March 29, 2025 |title='Bold and clear': Byron Donalds kicks off campaign for Governor from Bonita Springs |url=https://floridapolitics.com/archives/728940-bold-and-clear-byron-donalds-kicks-off-campaign-for-governor-from-bonita-springs/ |access-date=March 28, 2025 |work=[[Florida Politics]]}}</ref>
+* [[Monique Miller (politician)|Monique Miller]], [[Florida House of Representatives|state representative]] from the [[Florida's 33rd House of Representatives district|33rd]] district (2024–present)<ref name="House63"/>
+*  [[Jim Mooney (Florida politician)|Jim Mooney]], [[Florida House of Representatives|state representative]] from the [[Florida's 120th House of Representatives district|120th]] district (2020–present)<ref name="House63"/>
+* [[Danny Nix Jr.]], [[Florida House of Representatives|state representative]] from the [[Florida's 75th House of Representatives district|75th]] district (2024–present)<ref name="House63"/>
+* [[Vanessa Oliver]], [[Florida House of Representatives|state representative]] from the [[Florida's 76th House of Representatives district|76th]] district (2024–present)<ref name="House63"/>
+* [[Toby Overdorf]], [[Florida House of Representatives|state representative]] from the [[Florida's 85th House of Representatives district|85th]] district (2018–present)<ref name="House63"/>
+* [[Michael Owen (Florida politician)|Michael Owen]], [[Florida House of Representatives|state representative]] from the [[Florida's 70th House of Representatives district|70th]] district (2024–present)<ref>{{cite web |last1=Gowdy |first1=Fabrizio |date=June 8, 2026 |title=Michael Owen endorses Byron Donalds for Governor |url=https://floridapolitics.com/archives/800671-michael-owen-endorses-byron-donalds-for-governor/ |access-date=June 8, 2026 |publisher=[[Florida Politics]]}}</ref>
+* [[Bill Partington]], [[Florida House of Representatives|state representative]] from the [[Florida's 28th House of Representatives district|28th]] district (2024–present)<ref name="House63"/>
+* [[Jenna Persons-Mulicka]], [[Florida House of Representatives|state representative]] from the [[Florida's 78th House of Representatives district|78th]] district (2020–present)<ref name="House63"/>
+* [[Rachel Plakon]], [[Florida House of Representatives|state representative]] from the [[Florida's 36th House of Representatives district|36th]] district (2022–present)<ref name="House63"/>
+* <s>[[Susan Plasencia]], [[Florida House of Representatives|state representative]] from the [[Florida's 37th House of Representatives district|37th]] district (2022–present)</s><ref name="House63"/> ''(switched endorsement to Collins)''<ref name=Plasencia/>
+* [[Juan Carlos Porras]], [[Florida House of Representatives|state representative]] from the [[Florida's 119th House of Representatives district|119th]] district (2022–present)<ref name="House63"/>
+* [[Mike Redondo]], [[Florida House of Representatives|state representative]] from the [[Florida's 118th House of Representatives district|118th]] district (2023–present)<ref name="House63"/>
+* [[Alex Rizo]], [[Florida House of Representatives|state representative]] from the [[Florida's 112th House of Representatives district|112th]] district (2020–present)<ref name="House63"/>
+* [[Will Robinson (Florida politician)|Will Robinson]], [[Florida House of Representatives|state representative]] from the [[Florida's 71st House of Representatives district|71st]] district (2018–present)<ref name="House63"/>
+* [[Michelle Salzman]], [[Florida House of Representatives|state representative]] from the [[Florida's 1st House of Representatives district|1st]] district (2020–present)<ref name="House63"/>
+* [[Judson Sapp]], [[Florida House of Representatives|state representative]] from the [[Florida's 20th House of Representatives district|20th]] district (2024–present)<ref name="House63"/>
+* [[Jason Shoaf]], [[Florida House of Representatives|state representative]] from the [[Florida's 7th House of Representatives district|7th]] district (2019–present)<ref name="House63"/>
+* [[David Smith (Florida politician)|David Smith]], [[Florida House of Representatives|state representative]] from the [[Florida's 38th House of Representatives district|38th]] district (2018–present)<ref name="House63"/>
+* [[John Snyder (Florida politician)|John Snyder]], [[Florida House of Representatives|state representative]] from the [[Florida's 86th House of Representatives district|86th]] district (2020–present)<ref name="House63"/>
+* [[Paula Stark]], [[Florida House of Representatives|state representative]] from the [[Florida's 47th House of Representatives district|47th]] district (2022–present)<ref name="House63"/>
+* [[Kevin Steele (politician)|Kevin Steele]], [[Florida House of Representatives|state representative]] from the [[Florida's 55th House of Representatives district|55th]] district (2022–present)<ref name="House63"/>
+* [[Josie Tomkow]], [[Florida House of Representatives|state representative]] from the [[Florida's 39th House of Representatives district|39th]] district (2018–2022), [[Florida's 51st House of Representatives district|51st]] district (2022–2025)<ref name="House63"/>
+* [[Dana Trabulsy]], [[Florida House of Representatives|state representative]] from the [[Florida's 84th House of Representatives district|84th]] district (2020–present)<ref name="House63"/>
+* [[Chase Tramont]], [[Florida House of Representatives|state representative]] from the [[Florida's 30th House of Representatives district|30th]] district (2022–present)<ref name="House63"/>
+* [[Kaylee Tuck]], [[Florida House of Representatives|state representative]] from the [[Florida's 55th House of Representatives district|55th]] district (2020–2022), [[Florida's 83rd House of Representatives district|83rd]] district (2022–present)<ref name="House63"/>
+* [[Susan Valdes]], [[Florida House of Representatives|state representative]] from the [[Florida's 64th House of Representatives district|64th]] district (2018–present)<ref name="House63"/>
+}}
+* 9 [[Florida Senate|state senators]]{{efn|
+* [[Joe Gruters]], [[Florida Senate|state senator]] from [[Florida's 22nd Senate district|SD-22]] (2018–present) and [[List of chairs of the Republican National Committee|chair of the Republican National Committee]] (2025–present)<ref name="internalpoll">{{cite news |last=Scheckner |first=Jesse |date=March 10, 2025 |title=Poll: Donald Trump's endorsement gives Byron Donalds double-digit lead in GOP Primary for Governor |url=https://floridapolitics.com/archives/725255-internal-poll-shows-byron-donalds-routs-casey-desantis-if-voters-know-donald-trump-backs-him-for-governor/ |access-date=March 13, 2025 |work=[[Florida Politics]]}}</ref>
+* [[Bryan Avila]], [[Florida Senate|state senator]] from the [[Florida's 39th Senate district|39th]] district (2022–present)<ref name="MeetAndGreet">{{cite news |date=May 13, 2025 |title=Byron Donalds Holds Miami Meet and Greet, Talks about Feud Between DeSantis and Legislature, Insurance, and Squaring off Against Pizzo and Jolly |url=https://floridianpress.com/2025/05/byron-donalds-holds-miami-meet-and-greet-talks-about-feud-between-desantis-and-legislature-insurance-and-squaring-off-against-pizzo-and-jolly/ |access-date=October 14, 2025 |work=The Floridian}}</ref>
+* [[Alexis Calatayud]], [[Florida Senate|state senator]] from the [[Florida's 38th Senate district|38th]] district (2022–present)<ref name="9repu">{{cite news |date=February 27, 2026 |title=9 Republican Senators endorse Byron Donalds for Governor as he builds GOP support |url=https://floridapolitics.com/archives/782665-9-republican-senators-endorse-byron-donalds-for-governor-as-he-builds-gop-support/ |access-date=March 5, 2026 |work=Florida Politics}}</ref>
+* [[Nick DiCeglie]], [[Florida Senate|state senator]] from the [[Florida's 18th Senate district|18th]] district (2022–present)<ref name="9repu"/>
+* [[Erin Grall]], [[Florida Senate|state senator]] from the [[Florida's 29th Senate district|29th]] district (2022–present)<ref name="9repu"/>
+* [[Gayle Harrell]], [[Florida Senate|state senator]] from the [[Florida's 31st Senate district|31st]] district (2022–present)<ref name="9repu"/>
+* [[Jonathan Martin (Florida politician)|Jonathan Martin]], [[Florida Senate|state senator]] from the [[Florida's 33rd Senate district|33rd]] district (2022–present)<ref name="byron kickoff attendees">{{cite news |date=March 28, 2025 |title=Live: Byron Donalds Florida governor run kick off |url=https://www.youtube.com/watch?v=Mcq5ezcVTOc |access-date=March 30, 2025 |work=[[WOFL|Fox 35 Orlando]]}}</ref>
+* [[Debbie Mayfield]], [[Florida Senate|state senator]] (2016–2024, 2025–present)<ref name="9repu"/>
+* [[Ana Maria Rodriguez (politician)|Ana Maria Rodriguez]], [[Florida Senate|state senator]] from the [[Florida's 40th Senate district|40th]] district (2020–present)<ref name="MeetAndGreet"/>
+}}
+* [[Spencer Roach]], former [[Florida's 76th House of Representatives district|HD-76]] (2018–2024)<ref name="floridaleaders"/>
+
+;Party officials
+* [[Lara Trump]], former co-chair of the [[Republican National Committee]] (2024–2025)<ref name="miamiyr"/>
+* [[Christian Ziegler (politician)|Christian Ziegler]], former chair of the [[Florida Republican Party]] (2023–2024)<ref name="internalpoll"/>
+
+;Local officials
+* [[Christi Fraga]], mayor of [[Doral, Florida|Doral]] (2022–present)<ref name="MeetAndGreet"/>
+* [[D. C. Reeves]], mayor of [[Pensacola, Florida|Pensacola]] (2022–present)<ref>{{cite news |last=Outzen |first=Rick |date=June 3, 2025 |title=Breaking: Pensacola mayor endorses Byron Donalds for governor |url=https://ricksblog.biz/breaking-pensacola-mayor-endorses-byron-donalds-for-governor/ |access-date=October 14, 2025 |work=Rick's Blog}}</ref>
+* [[Chad Chronister]], sheriff of [[Hillsborough County, Florida|Hillsborough County]] (2017–present)<ref name="Donaldssheriffs">{{cite web |last1=Ogles |first1=Jacob |date=September 29, 2025 |title='Making Florida great': 15 Sheriffs endorse Byron Donalds for Governor |url=https://floridapolitics.com/archives/758327-making-florida-great-15-sheriffs-endorse-byron-donalds-for-governor/ |access-date=September 30, 2025 |publisher=[[Florida Politics]]}}</ref>
+* [[Vicki Lopez]], [[Miami-Dade County Commission]]er from the 5th district (2025–present)<ref name="House63"/>
+* [[Rosie Cordero-Stutz]], sheriff of [[Miami-Dade County, Florida|Miami-Dade County]] (2025–present)<ref name=Donaldssheriffs/>
+* [[Bob Gualtieri]], sheriff of [[Pinellas County, Florida|Pinellas County]] (2011–present)<ref>{{cite web |last1=Schorsch |first1=Peter |date=February 11, 2026 |title=Bob Gualtieri joins majority of Florida Sheriffs in backing Byron Donalds for Governor |url=https://floridapolitics.com/archives/779377-bob-gualtieri-joins-majority-of-florida-sheriffs-in-backing-byron-donalds-for-governor/ |access-date=February 11, 2026 |publisher=[[Florida Politics]]}}</ref>
+* [[Grady Judd]], sheriff of [[Polk County, Florida|Polk County]] (2005–present)<ref>{{cite news |last=Scheckner |first=Jesse |date=January 23, 2026 |title='Florida's best choice': Grady Judd endorses Byron Donalds for Governor |url=https://floridapolitics.com/archives/775708-floridas-best-choice-grady-judd-endorses-byron-donalds-for-governor/ |access-date=January 23, 2026 |work=Florida Politics}}</ref>
+* [[Dennis Lemma]], sheriff of [[Seminole County, Florida|Seminole County]] (2017–present)<ref>{{cite news |last=Kopylov |first=Frank |date=January 24, 2026 |title=Seminole County sheriff Dennis Lemma endorses Byron Donalds for Florida governor |url=https://flvoicenews.com/seminole-county-sheriff-dennis-lemma-endorses-byron-donalds-for-florida-governor/ |access-date=January 24, 2026 |work=Florida's Voice}}</ref>
+* [[T. K. Waters]], sheriff of [[Duval County, Florida|Duval County]] (2022–present)<ref name=Donaldssheriffs/>
+* [[Morris A. Young|Morris Young]], sheriff of [[Gadsden County, Florida|Gadsden County]] (2004–present) ''(Democratic)''<ref>{{cite web |last1=Gancarski |first1=A.G. |date=July 27, 2026 |title=Democratic Sheriff Morris Young backs Byron Donalds for Governor |url=https://floridapolitics.com/archives/809734-democratic-sheriff-morris-young-backs-byron-donalds-for-governor/ |access-date=July 28, 2026 |publisher=[[Florida Politics]]}}</ref>
+
+;Individuals
+* [[Marc Andreessen]], co-founder of [[Andreessen Horowitz]]<ref name="committedsupporters"/>
+* [[Brian D. Ballard]], founder of [[Ballard Partners]]<ref name="committedsupporters"/>
+* [[Carlos Beruff]], real estate developer<ref name="committedsupporters"/>
+* [[Bill Conerly]], politician<ref name="House63"/>
+* [[Erika Donalds]], school choice activist ''(candidate's spouse)''<ref>{{cite news |last=Gancarski |first=A.G. |date=March 27, 2025 |title=Erika Donalds says Casey DeSantis 'teased a run' for Governor, but Byron Donalds can better deal with Florida issues |url=https://floridapolitics.com/archives/728572-erika-casey/ |access-date=March 27, 2025 |work=[[Florida Politics]]}}</ref>
+* [[Kenneth C. Griffin|Ken Griffin]], founder of [[Citadel LLC]]<ref>{{cite news |last=Cancel |first=Daniel |date=July 24, 2026 |title=Ken Griffin Backs Donalds in Florida Governor Race With $10 Million Check |url=https://www.bloomberg.com/news/articles/2026-07-24/ken-griffin-gives-10-million-to-donalds-in-florida-governor-bid |access-date=July 24, 2026 |work=[[Bloomberg L.P.|Bloomberg]]}}</ref>
+* [[Ben Horowitz]], co-founder of [[Andreessen Horowitz]]<ref name="committedsupporters"/>
+* [[Benny Johnson (columnist)|Benny Johnson]], political commentator<ref name="miamiyr"/>
+* [[Jay Kemmerer]], owner of [[Jackson Hole Mountain Resort]]<ref name="committedsupporters"/>
+* [[Adam Kidan]], president of Empire Workforce<ref name="committedsupporters"/>
+* [[Charlie Kirk]], co-founder of [[Turning Point USA]] ''(deceased)''<ref>{{cite news |last=Ogles |first=Jacob |date=March 13, 2025 |title=Turning Point USA's Charlie Kirk backs Byron Donalds' bid for Governor |url=https://floridapolitics.com/archives/726191-turning-point-usas-charlie-kirk-backs-byron-donalds-bid-for-governor/ |access-date=March 13, 2025 |work=[[Florida Politics]]}}</ref>
+* [[Omeed Malik]], banker<ref name="committedsupporters"/>
+* [[Phil Mickelson]], [[professional golfer]]<ref>{{cite news |last=Costeines |first=Michael |date=November 14, 2025 |title=Poll Shows Byron Donalds With Large Lead in Florida Governor Primary |url=https://floridianpress.com/2025/11/poll-shows-byron-donalds-with-large-lead-in-florida-governor-primary/ |access-date=November 14, 2025 |work=The Floridian}}</ref>
+* [[Nicki Minaj]], rapper<ref>{{Cite tweet |number=2088753466722132333 |user=Nickiminaj |title=You have my vote. Barbz please support him however you can. #TheGoodGuys |date=August 15, 2026}}</ref>
+* [[Ross Perot Jr.]], real estate developer<ref name="committedsupporters"/>
+* [[Harry Sargeant III]], oil executive<ref name="committedsupporters"/>
+* [[David Steward]], founder of [[World Wide Technology]]<ref name="committedsupporters"/>
+* [[Donald Trump Jr.]], businessman and son of President [[Donald Trump]]<ref>{{cite web |last=Caputo |first=Marc |date=March 12, 2025 |title=Scoop: Trump Jr. backs Donalds for Fla. governor in MAGA squeeze play |url=https://www.axios.com/2025/03/12/trump-jr-donalds-florida-governor-maga |access-date=March 12, 2025 |work=[[Axios (website)|Axios]]}}</ref>
+* [[Zach Witkoff]], businessman<ref name="committedsupporters"/>
+* [[George Zoley]], CEO of [[GEO Group]]<ref name="committedsupporters"/>
+
+;Labor unions
+* [[Associated Builders and Contractors|Associated Builders and Contractors (ABC) of Florida]]<ref>{{cite web |date=April 15, 2026 |title=Associated Builders and Contractors of Florida endorses Donalds for Governor |url=https://abceastflorida.com/associated-builders-and-contractors-of-florida-endorses-donalds-for-governor/ |access-date=April 15, 2026 |publisher=ABC Florida East Coast Chapter}}</ref>
+
+;Organizations
+* [[Americans for Prosperity]]<ref>{{cite web |last1=Schorsch |first1=Peter |date=March 4, 2026 |title=Americans for Prosperity Action backs Byron Donalds for Governor, adding to front-runner status |url=https://floridapolitics.com/archives/783357-americans-for-prosperity-action-backs-byron-donalds-for-governor-adding-to-front-runner-status/ |access-date=March 5, 2026 |website=Florida Politics}}</ref>
+* [[Club for Growth]] PAC<ref>{{cite web |last1=Mitola |first1=Will |date=March 11, 2025 |title=CfG PAC Endorses Rep. Byron Donalds in FL-GOV Race |url=https://www.clubforgrowth.org/cfg-pac-endorses-rep-byron-donalds-in-fl-gov-race/ |access-date=March 11, 2025 |publisher=[[Club for Growth]]}}</ref>
+* [[Faith and Freedom Coalition|Florida Faith and Freedom]]<ref>{{cite news |date=July 8, 2026 |title=Florida Faith And Freedom: Byron Donalds Snags Major Conservative Backing For Governor |url=https://www.tampafp.com/florida-faith-and-freedom-byron-donalds-snags-major-conservative-backing-for-governor/ |access-date=September 15, 2026 |publisher=Tampa Free Press}}</ref>
+* [[Florida Chamber of Commerce]]<ref>{{cite news |last=Costeines |first=Michael |date=June 23, 2026 |title=Florida Chamber of Commerce Endorses Byron Donalds for Governor |url=https://floridianpress.com/2026/06/florida-chamber-of-commerce-endorses-byron-donalds-for-governor/ |access-date=September 13, 2026 |work=The Floridian}}</ref>
+* [[Florida Farm Bureau]]<ref>{{cite news |last=Schorsch |first=Peter |date=June 18, 2026 |title=Byron Donalds harvests Florida Farm Bureau FarmPAC's endorsement for Governor |url=https://floridapolitics.com/archives/802899-byron-donalds-harvests-florida-farm-bureau-farmpacs-endorsement-for-governor/ |access-date=September 13, 2026 |work=Florida Politics}}</ref>
+* [[Gun Owners of America]]<ref>{{cite web |last=Bull |first=Felisha |date=June 11, 2026 |title=Gun Owners of America Endorses Byron Donalds for Florida Governor |url=https://www.gunowners.org/780519-2/}}</ref>
+* [[Leading the Future]]<ref>{{cite news |last=Dixon |first=Matt |date=February 12, 2026 |title=AI Titans Back Byron Donalds: Super PAC Pledges $5M for Florida Governor Race |url=https://www.crbcnews.com/articles/698df68acf894825058266d1 |access-date=February 12, 2026 |work=CRBC News}}</ref>
+* [[Turning Point Action]]<ref>{{cite web |last1=Kopylov |first1=Frank |date=January 14, 2026 |title=Turning Point Action endorses Byron Donalds in Florida governor's race |url=https://flvoicenews.com/turning-point-action-endorses-byron-donalds-in-florida-governors-race/ |access-date=January 14, 2026 |website=Florida's Voice}}</ref>
+}}
+{{Endorsements box
+| title = James Fishback
+| list =
+;Executive branch officials
+*[[Carrie Prejean]], former member of the [[Religious Liberty Commission]] (2025–2026) and beauty pageant titleholder<ref>{{cite web |date=February 27, 2026 |title=Former Trump Appointee Oppose Israel First & AIPAC supported Candidates |url=https://www.theindianpanorama.news/former-trump-appointee-oppose-israel-first-aipac-supported-candidates/ |access-date=June 7, 2026 |website=The Indiana Panorama}}</ref>
+;State legislators 
+*[[Anthony Sabatini]], former member of the [[Florida House of Representatives]] (2018-2022), and Lake County commissioner (2024–present)<ref>{{cite web |last=Zizo |first=Christie |date=February 27, 2026 |title=Lake Commissioner Sabatini calls county GOP leaders 'RINOS' amid committee rejection |url=https://www.clickorlando.com/news/politics/2026/02/24/lake-commissioner-sabatini-calls-county-gop-leaders-rinos-amid-committee-rejection/ |access-date=June 7, 2026 |website=clickorlando}}</ref>
+
+;Individuals
+*[[Asmongold]], online streamer and political commentator<ref>{{cite news |last=Sommer |first=Will |date=December 18, 2025 |title=Meet the First Groyper Politician |url=https://www.thebulwark.com/p/meet-the-first-groyper-politician-james-fishback |work=[[The Bulwark (website)|The Bulwark]]}}</ref>
+*[[Tucker Carlson]], conservative political commentator<ref>{{cite web |last=Schorr |first=Isaac |date=January 12, 2026 |title=Florida Republican Endorsed by Tucker Carlson Launches Stunning, Racist Attack on 'By'rone' Donalds |url=https://www.mediaite.com/media/news/florida-republican-endorsed-by-tucker-carlson-launches-stunning-racist-attack-on-byrone-donalds/ |website=[[Mediaite]]}}</ref>
+*[[Nick Fuentes]], far-right political activist<ref>{{cite web |last1=Pemberton |first1=Nathan Taylor |date=March 11, 2026 |title=Running on Rage Bait |url=https://www.nytimes.com/2026/03/11/style/james-fishback-florida-internet-politics.html |website=[[The New York Times]]}}</ref>
+*[[Tyler Oliveira]], [[Right-wing politics|right-wing]] [[YouTuber]]
+*[[Sneako]], political commentator<ref>{{Cite web |last=Gertz |first=Matt |date=January 22, 2026 |title=James Fishback is the radical right's great white hope |url=https://www.mediamatters.org/tucker-carlson/james-fishback-radical-rights-great-white-hope |website=[[Media Matters for America]]}}</ref>
+*[[Andrew Tate]], internet personality<ref>{{Cite web |last=Adler |first=Dan |date=March 11, 2026 |title=James Fishback Has Seized the Gen Z Right. Now He Thinks He Can Win Florida. |url=https://www.vanityfair.com/news/story/james-fishback-florida-gen-z-online-right?srsltid=AfmBOorsyON5tE_Wp_WGGNFnB08IMSD3tR6j2F3XtTXK3AlcBhwztz34 |website=[[Vanity Fair (magazine)|Vanity Fair]]}}</ref>
+*[[Hodgetwins]], political comedy duo<ref>{{Cite tweet |number=2088349937209880587 |user=hodgetwins |title=if you're in Florida and not voting for James Fishback @j_fishback you're either gay or retarded...}}</ref>
+*[[Kyle Rittenhouse]], the [[Kenosha unrest shooting|Kenosha unrest shooter]]<ref>{{Cite tweet |number=2089822690806726850 |user=rittenhouse2a |title=Vote for @j_fishback today!}}</ref>
+*[[Joel Webbon]], Christian Nationalist pastor<ref>{{cite web | title=Joel Webbon Says 'Everyone in Florida Will be Blessed' by Electing Christian Nationalist James Fishback as Governor &#124; People for | date=June 29, 2026 | url=https://www.peoplefor.org/rightwingwatch/joel-webbon-says-everyone-florida-will-be-blessed-electing-christian-nationalist }}</ref>
+
+;Organizations
+*<s>[[Make America Healthy Again#Organizations|MAHA Institute]]</s>  ''(endorsement rescinded)''<ref>{{cite news |last=Wooten |first=Claude |date=June 20, 2026 |title=MAHA Retracts Florida Governor Endorsement, "Failed to Follow Process" |url=https://2paragraphs.com/2026/06/maha-retracts-florida-governor-endorsement-failed-to-follow-process/ |work=2 Paragraphs}}</ref>
+}}
+{{Endorsements box
+| title = Paul Renner
+| list =
+;U.S. representatives
+* [[Ted Yoho]], former [[FL-03]] (2013–2021)<ref>{{cite web |last1=Gancarski |first1=A.G. |date=April 11, 2026 |title=Ted Yoho endorses Paul Renner for Florida Governor |url=https://floridapolitics.com/archives/790160-renner-yoho/ |access-date=April 16, 2026 |publisher=[[Florida Politics]]}}</ref>
+;State legislators
+* [[Dennis Baxley]], former president pro tempore of the [[Florida Senate]] (2022–2024) from [[Florida's 13th Senate district|SD-13]] (2016–2024)<ref name="Rennerend">{{cite web |last1=Costeines |first1=Michael |date=March 2, 2026 |title=Former Florida Legislator and 2A Advocate Dennis Baxley Endorses Paul Renner for Governor |url=https://floridianpress.com/2026/03/former-florida-legislator-and-2a-advocate-dennis-baxley-endorses-paul-renner-for-governor/ |access-date=March 3, 2026 |website=The Floridian}}</ref>
+* [[Charlie Stone (politician)|Charlie Stone]], former [[Florida's 22nd House of Representatives district|HD-22]] (2012–2020)<ref name="stone">{{cite web |last1=Costeines |first1=Michael |date=March 4, 2026 |title=Former State Rep. Charlie Stone Endorses Paul Renner for Governor |url=https://floridianpress.com/2026/03/former-state-rep-charlie-stone-endorses-paul-renner-for-governor/ |access-date=March 4, 2026 |website=The Floridian}}</ref>
+
+;Organizations
+* <s>[[National Fraternal Order of Police|Florida State Lodge Fraternal Order of Police]]</s><ref>{{cite news |last=Owens |first=Kennedy |date=June 11, 2026 |title=Renner lands endorsement from Florida's largest law enforcement group |url=https://flvoicenews.com/renner-lands-endorsement-from-floridas-largest-law-enforcement-group/ |work=Florida's Voice}}</ref> ''(later endorsed Byron Donalds)''<ref>{{cite news |last=Costeines |first=Michael |date=September 8, 2026 |title=Florida State Fraternal Order of Police endorses Byron Donalds for Governor |url=https://floridianpress.com/2026/09/florida-state-fraternal-order-of-police-endorses-byron-donalds-for-governor/ |access-date=September 8, 2026 |publisher=The Floridian}}</ref>
+}}
+{{Endorsements box
+| title = Ashley Moody ''(declined)''
+| list =
+;Individuals
+* [[Ric Flair]], former professional wrestler<ref>{{cite web |last1=Gancarski |first1=A.G. |date=May 9, 2024 |title=After Gainesville pizza problem, Ric Flair endorses Ashley Moody for Governor |url=https://floridapolitics.com/archives/673411-after-gainesville-pizza-problem-ric-flair-endorses-ashley-moody-for-governor/ |access-date=May 9, 2024 |publisher=[[Florida Politics]]}}</ref>
+}}
+{{Endorsements box
+| title = Declined to endorse
+| list =
+;Statewide officials
+* <s>[[Ron DeSantis]], governor of Florida (2019–present)</s><ref>{{cite news |last1=Gancarski |first1=A.G. |date=August 6, 2026 |title=Ron DeSantis closes door on gubernatorial endorsement before GOP Primary |url=https://floridapolitics.com/archives/811930-ron-desantis-closes-door-on-gubernatorial-endorsement-before-gop-primary/ |access-date=August 6, 2026 |website=[[Florida Politics]]}}</ref> ''(later endorsed Byron Donalds)''<ref>{{cite news |date=September 1, 2026 |title=Florida governor's race: DeSantis backs Byron Donalds as Republicans rally in Tampa |url=https://www.fox13news.com/news/florida-governors-race-desantis-backs-byron-donalds-republicans-rally-tampa |access-date=September 2, 2026 |work=Fox 13 Tampa Bay}}</ref> 
+}}
+
+=== Debates ===
+{| class="wikitable"  style="text-align:center;"
+|+ class="nowrap" | 2026 Florida Republican gubernatorial debate
+|- style="font-size:small;"
+!scope="col"| Date
+!scope="col"| Host
+!scope="col"| Moderators
+!scope="col"| Link
+!scope="col"| [[Republican Party (United States)|Republican]]
+!scope="col"| [[Republican Party (United States)|Republican]]
+!scope="col"| [[Republican Party (United States)|Republican]]
+!scope="col"| [[Republican Party (United States)|Republican]]
+|-
+! colspan="4" rowspan="2" |Key: {{Colors|black|#90ff90|&nbsp;P&nbsp;}} Participant&nbsp; {{Colors|black|#CCFFCC|&nbsp;I&nbsp;}} Invited {{color box|#f0e68c|W}} Withdrawn<br> {{Colors|black|#FFFFDD|&nbsp;A&nbsp;}} Absent&nbsp; {{Colors|black|#ff9090|&nbsp;N&nbsp;}} Not invited&nbsp;
+! scope="col" style="background:#E81B23;"|
+! scope="col" style="background:#E81B23;"|
+! scope="col" style="background:#E81B23;"|
+! scope="col" style="background:#E81B23;"|
+|-
+! scope="col" | [[Jay Collins]]
+! scope="col" | [[Byron Donalds]]
+! scope="col" | [[James Fishback]]
+! scope="col" | [[Paul Renner (politician)|Paul Renner]]
+|-
+|July 2, 2026<ref>{{Cite news |title=Frank from Florida (@RealFrankFromFL) on X |url=https://x.com/RealFrankFromFL/status/2071633839982625070 |access-date=June 29, 2026 |work=X (formerly Twitter) |language=en-US}}</ref><ref>{{Cite news |title=James Fishback (@j_fishback) on X |url=https://x.com/j_fishback/status/2071625798918832442?s=46 |access-date=June 29, 2026 |work=X (formerly Twitter) |language=en-US}}</ref>
+|''[[PBD Podcast]]''
+|[[Patrick Bet-David]]
+|[https://www.youtube.com/watch?v=TIfBM4p0TEg Youtube]
+|{{Yes|'''P'''}}
+|{{D-A|'''A'''}}{{efn|Declined to participate}}
+|{{Yes|'''P'''}}
+|{{Yes|'''P'''}}
+|-
+|}
+
+==== Cancelled debates ====
+In June 2026, the [[Republican Party of Florida]] announced that they would not be hosting a gubernatorial debate, as originally planned, later that month. The party stated that they had made the decision to cancel the debate after no candidate except Donalds met its qualifications.<ref name="Cancelled"/> The party's minimum requirements for a candidate to participate included:
+
+* At least 10% support in a Republican party-sponsored primary voter poll
+* A minimum $10&nbsp;million in raised contributions
+* Over 10,000 unique individual campaign donors
+
+The announcement drew criticism from gubernatorial candidates Collins, Fishback, and Renner, as well as incumbent Governor [[Ron DeSantis]].<ref name="Cancelled"/> DeSantis attacked the party for trying to "engineer the outcome" of the primary election and acting against "the best interest of Republican voters."<ref name="Cancelled"/> DeSantis additionally noted that he himself would not have qualified under the set criteria during his [[Ron DeSantis#2018 candidacy|2018 primary run]].<ref>{{cite news |last=Ellenbogen |first=Romy |date=June 12, 2026 |title=DeSantis hits Florida GOP over Republican primary debate |url=https://www.tampabay.com/news/florida-politics/elections/2026/06/12/florida-desantis-gop-republican-debate-donalds-fishback/ |work=Tampa Bay Times}}</ref> The ''[[Miami Herald]]'' also panned the decision, calling for a primary debate to take place.<ref>{{cite news |author=Miami-Herald Editorial Board |date=June 23, 2026 |title=Florida GOP canceled the debate, but the real story is why they did it - Opinion |url=https://www.miamiherald.com/opinion/editorials/article316224360.html |work=[[Miami Herald]]}}</ref>
+
+On June 24, [[WJAX-TV]] announced that the planned CBS debate would be cancelled, after "a majority of the Republican candidates didn’t agree to participate." Only Fishback and Renner agreed to debate, with Collins stating that he would only accept if Donalds showed as well. Donalds refused to participate in any debate, leading Fishback labeling Donalds a "coward".<ref name="Jax">{{cite news |last=Stofan |first=Jake |date=June 24, 2026 |title=With 2 candidates refusing to commit, Action News Jax will not host GOP Gubernatorial Primary debate |url=https://www.actionnewsjax.com/news/local/with-2-candidates-refusing-commit-action-news-jax-will-not-host-gop-gubernatorial-primary-debate/3FI5T5XLNBGGRJ2YQHC5IX6TWI/ |work=Action News Jax}}</ref>
+
+On June 25, Renner announced on X that the planned Fox 13 debate, set for July 21, had been cancelled.<ref name="Fox Cancels">{{cite tweet |number=2070193010164318251 |user=Paul_Renner |title=I just learned that the proposed Fox 13 debate in Tampa on July 21st has been canceled. That's why I called on Fox News and Newsmax to host a statewide debate. With so many voters... |author-link=Paul Renner (politician) |last=Renner |first=Paul}}</ref>
+
+{| class="wikitable"  style="text-align:center;"
+|+ class="nowrap" | 2026 Florida Republican cancelled gubernatorial debates
+|- style="font-size:small;"
+!scope="col"| Date
+!scope="col"| Host
+!scope="col"| Moderators
+!scope="col"| Location
+!scope="col"| [[Republican Party (United States)|Republican]]
+!scope="col"| [[Republican Party (United States)|Republican]]
+!scope="col"| [[Republican Party (United States)|Republican]]
+!scope="col"| [[Republican Party (United States)|Republican]]
+|-
+! colspan="4" rowspan="2" |Key: {{Colors|black|#90ff90|&nbsp;P&nbsp;}} Participant&nbsp; {{Colors|black|#CCFFCC|&nbsp;I&nbsp;}} Invited {{color box|#f0e68c|W}} Withdrawn<br> {{Colors|black|#FFFFDD|&nbsp;A&nbsp;}} Absent&nbsp; {{Colors|black|#ff9090|&nbsp;N&nbsp;}} Not invited&nbsp;
+! scope="col" style="background:#E81B23;"|
+! scope="col" style="background:#E81B23;"|
+! scope="col" style="background:#E81B23;"|
+! scope="col" style="background:#E81B23;"|
+|-
+! scope="col" | [[Jay Collins]]
+! scope="col" | [[Byron Donalds]]
+! scope="col" | [[James Fishback]]
+! scope="col" | [[Paul Renner (politician)|Paul Renner]]
+|-
+| June 27, 2026<ref>{{cite web |last=Kopylov |first=Frank |date=June 12, 2026 |title=Florida GOP releases strict 10/10/10 debate qualification criteria; only Byron Donalds meets threshold |url=https://flvoicenews.com/florida-gop-releases-strict-10-10-10-debate-qualification-criteria-only-byron-donalds-meets-threshold/ |access-date=June 12, 2026 |website=Florida Voice News}}</ref>
+| [[Republican Party of Florida]]
+| {{TBA}}
+| [[Fort Lauderdale]]
+| {{No|'''N'''}}
+| {{YS|'''I'''}}
+| {{No|'''N'''}}
+| {{No|'''N'''}}
+|-
+| July 15, 2026<ref name="Cancelled">{{cite news |last=Fineout |first=Gary |date=June 12, 2026 |title=DeSantis zings Florida GOP over lack of governor primary debates |url=https://www.politico.com/news/2026/06/12/desantis-florida-gop-governor-debates-00960921 |work=[[Politico]]}}</ref><ref>{{cite tweet |number=2065844226303095141 |user=j_fishback |title=.@JayCollinsFL, all four of us have been invited to the CBS debate on July 15th. Why haven't you accepted yet? |last=Fishback |first=James}}</ref><ref name="Jax"/>
+| [[CBS News]]
+| {{TBA}}
+| [[Jacksonville, Florida|Jacksonville]]
+| {{No|'''I'''}}{{efn|Declined to participate}}
+| {{No|'''I'''}}{{efn|Declined to participate}}
+| {{YS|'''I'''}}
+| {{YS|'''I'''}}
+|-
+| July 21, 2026<ref>{{cite tweet |number=2025270021513936951 |user=j_fishback |title=Last night, I accepted Fox's invitation to debate Congressman Byron Donalds on July 21 in Tampa. Here is my full statement. |first=James |last=Fishback}}</ref><ref name="Fox Cancels"/>
+| [[Fox News]]
+| {{TBA}}
+| [[Tampa, Florida|Tampa]]
+| {{No|'''N'''}}
+| {{No|'''I'''}}{{efn|Declined to participate}}
+| {{YS|'''I'''}}
+| {{No|'''N'''}}
+|}
+
+=== Fundraising ===
+{| class="wikitable sortable"
+|-
+! colspan="3" |Campaign finance reports as of August 13, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+|-
+|{{party shading/Republican}}|Jay Collins (R)
+|$1,842,546
+|$352,104
+|-
+|{{party shading/Republican}}|Byron Donalds (R)
+|$13,792,445
+|$5,377,379
+|-
+|{{party shading/Republican}}|James Fishback (R)
+|$705,217
+|$699,846
+|-
+|{{party shading/Republican}}|Paul Renner (R)
+|$1,090,595
+|$470,796
+|-
+! colspan="3" |Sources:<ref>{{cite web |title=Florida - Campaign Finance Activity (Donalds) |url=https://dos.elections.myflorida.com/candidates/CanDetail.asp?account=89042 |access-date=April 12, 2026}}</ref><ref>{{cite web |title=Florida - Campaign Finance Activity (Collins) |url=https://dos.elections.myflorida.com/candidates/CanDetail.asp?account=89690 |access-date=April 12, 2026}}</ref><ref>{{cite web |title=Florida - Campaign Finance Activity (Fishback) |url=https://dos.elections.myflorida.com/candidates/CanDetail.asp?account=89600 |access-date=April 12, 2026}}</ref><ref>{{cite news |title=Florida - Campaign Finance Activity (Rennar) |url=https://dos.elections.myflorida.com/candidates/CanDetail.asp?account=89414 |access-date=April 12, 2026}}</ref><ref>{{cite news |last=Ogles |first=Jacob |date=April 1, 2026 |title=Byron Donalds posts record $22M quarter to kick off 2026 Governor's race |url=https://floridapolitics.com/archives/788293-byron-donalds-posts-record-22m-quarter-to-kick-off-2026-governors-race/ |work=Florida Politics}}</ref>
+|}
+
+=== Polling ===
+'''Aggregate polls'''<br />
+{| class="wikitable sortable" style="text-align:center;font-size:90%;line-height:17px"
+!Source of poll<br />aggregation
+!Dates<br />administered
+!Dates<br />updated
+! style="width:70px;"| Jay<br />Collins
+! style="width:70px;"| Byron<br />Donalds
+! style="width:70px;"| James<br />Fishback
+! style="width:70px;"| Paul<br />Renner
+! style="width:60px;"| Other/<br />Undecided{{Efn|Calculated by taking the difference of 100% and all other candidates combined.|name=|group=}}
+!Margin
+|-
+|[[270toWin]]<ref>{{cite web |title=2026 Polls: Florida Governor |url=https://www.270towin.com/2026-governor-polls/florida |access-date=July 21, 2026 |website=270toWin}}</ref>
+|July 13 – August 6, 2026
+|August 18, 2026
+|13.5%
+|{{party shading/Republican}}|'''47.5%'''
+|9.0%
+|4.5%
+|25.5%
+|{{party shading/Republican}}|'''Donalds +34.0%'''
+|-
+|[[Decision Desk HQ]]<ref name="DDHQPrimary">{{cite web |title=2026 Florida Governor |url=https://votes.decisiondeskhq.com/races/2026-08-18/florida-governor-republican-primary/polling |access-date=August 18, 2026 |website=[[DDHQ]] |date=August 18, 2026 }}</ref>
+|through August 11, 2026
+|August 18, 2026
+|16.6%
+|{{party shading/Republican}}|'''37.2%'''
+|18.4%
+|7.6%
+|20.2%
+|{{party shading/Republican}}|'''Donalds +18.8%'''
+|-
+|[[FiftyPlusOne]]<ref name="FPO">{{cite web |title=Florida Republican Governor Primary |url=https://fiftyplusone.news/polls/governor/republican-primary/florida |access-date=July 14, 2026 |website=FiftyPlusOne}}</ref>
+|through August 11, 2026
+|August 18, 2026
+|15.5%
+|{{party shading/Republican}}|'''39.9%'''
+|15.0%
+|{{sdash}}
+|29.6%
+|{{party shading/Republican}}|'''Donalds +24.4%'''
+|-
+|[[RealClearPolitics]]<ref name="RCP">{{cite web |title=2026 Florida Governor – Republican Primary {{!}} RealClearPolling |url=https://www.realclearpolling.com/polls/governor/republican-primary/2026/florida |access-date=July 14, 2026 |website=RCP |language=en}}</ref>
+|July 8–29, 2026
+|August 18, 2026
+|13.6%
+|{{party shading/Republican}}|'''45.4%'''
+|9.6%
+|4.0%
+|27.4%
+|{{party shading/Republican}}|'''Donalds +31.8%'''
+|-
+|Race to the WH<ref>{{cite web |title=Latest Polling for Governor Races – 2025-2026 |url=https://www.racetothewh.com/governor/26polls |access-date=July 14, 2026 |website=Race to the WH}}</ref>
+|through July 29, 2026
+|August 18, 2026
+|16.0%
+|{{party shading/Republican}}|'''45.5%'''
+|9.5%
+|4.9%
+|24.1%{{efn|Bobby Williams with 5.0%; Rachel Rodriguez and Jim Holcomb with 1.0%}}
+|{{party shading/Republican}}|'''Donalds +29.5%'''
+|-
+| colspan="3" |'''Average'''
+|15.0%
+|{{party shading/Republican}}|'''43.1%'''
+|12.3%
+|5.3%
+|25.4%
+|{{party shading/Republican}}|'''Donalds +28.1%'''
+|}
+
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- style="vertical-align:bottom"
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"}}
+! Margin<br />{{nowrap|of error}}
+! style="width:70px;"| Jay<br />Collins
+! style="width:70px;"| Byron<br />Donalds
+! style="width:70px;"| James<br />Fishback
+! style="width:70px;"| Paul<br />Renner
+! Other
+! Undecided
+|-
+| style="text-align: left;" |David J Wolfson<ref>{{cite web |last=Costeines |first=Michael |date=July 30, 2026 |title=(POLL) Jay Collins Accelerating in Governor's Race, Leads Donalds Among Undecideds |url=https://floridianpress.com/2026/07/poll-jay-collins-accelerates-in-governors-race-leads-donalds-among-undecideds/ |access-date=July 30, 2026 |website=The Floridian}}</ref>{{efn-ua|name=Collins}}
+|July 28–29, 2026
+|988 (LV)
+|±&nbsp;3.0%
+|30%
+|{{party shading/Republican}}|'''46%'''
+|10%
+|6%
+|4%{{efn|Rachel Rodriguez, Arthur Joseph McCaffrey, Jim Holcomb, and Daniel Nokovich with 1%}}
+|4%
+|-
+| style="text-align: left;"|Quantus Insights (R)<ref>{{cite web |date=July 31, 2026 |title=Donalds Dominates Florida's Republican Primary |url=https://quantusinsights.org/polling/f/donalds-dominates-florida%E2%80%99s-republican-primary |access-date=July 31, 2026 |website=Quantus Insights}}</ref>{{efn-ua|namr=AFI|Poll sponsored by American First Insight}}
+|July 27–29, 2026
+|635 (LV)
+|±&nbsp;4.1%
+|16%
+|{{party shading/Republican}}|'''50%'''
+|12%
+|4%
+|5%{{efn|name="AC5"|"Another candidate" with 5%}}
+|13%
+|-
+|style="text-align:left;" rowspan="2"|Targoz Market Research<ref name="TargozJuly2026">{{cite web |date=August 6, 2026 |title=James Madison Institute Poll July 20 to 26, 2026, Registered Voters MOE +/- 2.62% |url=https://jamesmadison.org/wp-content/uploads/JMI-July-2026-Marginals.pdf |access-date=August 7, 2026 |website=[[James Madison Institute]]}}</ref>{{efn-ua|name=JMI}}
+|rowspan="2"|July 20–26, 2026
+|532 (LV)
+|rowspan="2" {{sdash}}
+|18%
+|{{party shading/Republican}}|'''49%'''
+|4%
+|8%
+|4%{{efn|name=|Bobby Williams with 3%}}
+|17%
+|-
+|592 (RV)
+|17%
+|{{party shading/Republican}}|'''47%'''
+|4%
+|9%
+|4%{{efn|name=|Bobby Williams with 3%}}
+|20%
+|-
+|style="text-align:left;"|Listener Group/<br />Political Matrix News (R)<ref name="MatrixJuly2026">{{cite web |title=New Florida Statewide Poll |url=https://palafoxproductions.com/new-florida-statewide-poll/ |access-date=July 27, 2026 |website=Palafox Productions and Promotions}}</ref>
+|July 21–23, 2026
+|1,020 (LV)
+|±&nbsp;3.1%
+|2%
+|{{party shading/Republican}}|'''32%'''
+|13%
+|19%
+|{{sdash}}
+|32%
+|-
+|style="text-align:left;"|[[Tony Fabrizio|Fabrizio, Lee & Associates]] (R)<ref>{{cite web |last1=Gancarski |first1=A.G. |date=July 21, 2026 |title=Byron Donalds' internal poll shows the Republican Primary all but over |url=https://floridapolitics.com/archives/808651-byron-donalds-internal-polling-shows-him-continuing-to-hold-majority-support-in-gop-primary-race/ |access-date=July 21, 2026 |publisher=[[Florida Politics]]}}</ref>{{Efn-ua|name=Donalds}}
+|July 14–16, 2026
+|400 (LV)
+|{{sdash}}
+|10%
+|{{party shading/Republican}}|'''53%'''
+|9%
+|4%
+|{{sdash}}
+|24%
+|-
+| style="text-align: left;" |Cygnal (R)<ref>{{cite web |date=July 20, 2026 |title=Survey of Likely 2026 Republican Primary Election Voters – Florida Statewide |url=https://www.cygn.al/wp-content/uploads/2026/07/FL-Gov-Statewide-GOP-Primary.pdf |access-date=July 20, 2026 |website=Cygnal}}</ref>
+|July 12–13, 2026
+|500 (LV)
+|±&nbsp;4.4%
+|11%
+|{{party shading/Republican}}|'''43%'''
+|12%
+|2%
+|{{sdash}}
+|31%
+|-
+|style="text-align:left;"|[[Change Research]] (D)<ref name="ChangeJuly2026">{{Cite tweet |number=2077782963471683785 |user=PollTracker2024 |title=Change Research poll |access-date=July 16, 2026 |7/9-7/11 RV}}</ref>
+|July 9–11, 2026
+|{{sdash}} (LV)
+|{{sdash}}
+|14%
+|{{party shading/Republican}}|'''37%'''
+|12%
+|2%
+|5%{{efn|name=|"Would not vote" with 5%}}
+|30%
+|-
+| style="text-align: left;" |The Tyson Group (R)<ref>{{cite web |last=Tyson |first=Ryan |date=July 12, 2026 |title=Republican Primary for Governor of Florida |url=https://data.ddhq.io/polls/2026/07/13/The-Tyson-Group-Florida |access-date=July 13, 2026 |work=The Tyson Group}}</ref>
+|July 8–11, 2026
+|600 (LV)
+|±&nbsp;4.0%
+|9%
+|{{party shading/Republican}}|'''48%'''
+|8%
+|4%
+|4%{{efn|name=SE4|"Someone else" with 4%}}
+|27%
+|-
+| style="text-align: left;" |David J Wolfson<ref>{{cite web |last=Leonard |first=Kimberly |date=July 9, 2026 |title=New FL-Gov. polling; Drone talk in Coral Gables |url=https://www.politico.com/newsletters/florida-playbook/2026/07/09/new-fl-gov-polling-drone-talk-in-coral-gables-00991486 |access-date=July 10, 2026 |website=[[Politico]]}}</ref>{{efn-ua|name=Collins| Poll sponsored by Collins' campaign.}}
+|July 2–6, 2026
+|934 (LV)
+|±&nbsp;3.0%
+|20%
+|{{party shading/Republican}}|'''38%'''
+|10%
+|2%
+|{{sdash}}
+|28%
+|-
+| style="text-align: left;" |[[McLaughlin & Associates]] (R)<ref>{{cite web |last=Schorsch |first=Peter |date=June 11, 2026 |title=AIF poll shows Byron Donalds leading GOP Primary by 46 points |url=https://floridapolitics.com/archives/801165-aif-poll-shows-byron-donalds-leading-gop-primary-by-46-points/ |access-date=July 13, 2026 |website=[[Florida Politics]]}}</ref>{{efn-ua|name=AIF|Poll sponsored by the Associated Industries of Florida}}
+|June 3–7, 2026
+|386 (LV)
+|±&nbsp;3.0%
+|5%
+|{{party shading/Republican}}|'''54%'''
+|8%
+|2%
+|{{sdash}}
+|31%
+|-
+|style="text-align:left;"|Listener Group/<br />Political Matrix News (R)<ref name="MatrixJuly2026"/>
+|May 31 – June 3, 2026
+|973 (LV)
+|±&nbsp;3.1%
+|11%
+|{{party shading/Republican}}|'''29%'''
+|2%
+|14%
+|{{sdash}}
+|{{party shading/Undecided}}|'''44%'''
+|-
+|style="text-align:left;"|[[Change Research]] (D)<ref name="ChangeMay2026">{{cite web |date=May 17, 2026 |title=Deep Dive into Florida |url=https://changeresearch.com/wp-content/uploads/2026/05/Deep-Dive-into-Florida-1.pdf |access-date=May 18, 2026 |publisher=Change Research}}</ref>{{efn-ua|name=FPUSA}}
+|May 13–16, 2026
+|{{sdash}} (LV)
+|{{sdash}}
+|8%
+|{{party shading/Republican}}|'''48%'''
+|9%
+|3%
+|{{sdash}}
+|28%
+|-
+|style="text-align:left;"|[[Tony Fabrizio|Fabrizio, Lee & Associates]] (R)<ref>{{cite web |last1=Fabrizio |first1=Tony |last2=Lee |first2=David |last3=Tunis |first3=Travis |date=May 4, 2026 |title=Donalds' Huge Lead in GOP Primary Has Grown Even Larger |url=https://files.constantcontact.com/8adf5bae901/4c7d617e-a616-410c-bf72-b9122a9a0231.pdf?rdr=true |access-date=May 5, 2026 |publisher=[[Politico]]}}</ref>
+|April 26–30, 2026
+|420 (LV)
+|±&nbsp;4.78%
+|7%
+|{{party shading/Republican}}|'''54%'''
+|9%
+|2%
+|{{sdash}}
+|28%
+|-
+|style="text-align:left;"|[[Stetson University]]<ref>{{Cite web |date=April 25, 2026 |title=Poll: Byron Donalds leads current GOP primary by 30+ points, despite many Republicans being open to other options |url=https://floridapolitics.com/archives/792853-poll-byron-donalds-leads-all-gop-challengers-by-30-points-but-even-more-republicans-are-open-to-other-options/ |access-date=April 28, 2026 |website=[[Florida Politics]]}}</ref>
+|March 25 – April 13, 2026
+|373 (LV)
+|{{sdash}}
+|6%
+|{{party shading/Republican}}|'''38%'''
+|5%
+|7%
+|17%
+|28%
+|-
+|style="text-align:left;"|Keystone Analytics<ref name="KeystoneApr2026"/>
+|March 27 – April 6, 2026
+|795 (LV)
+|±&nbsp;3.5%
+|{{sdash}}
+|{{party shading/Republican}}|'''43%'''
+|19%
+|{{sdash}}
+|{{sdash}}
+|38%
+|-
+|style="text-align:left;"|[[Tarrance Group]] (R)<ref>{{Cite tweet |number=2042686569664962876 |user=PeterSchorschFL |title=@ByronDonalds at 50% in latest poll of GOP primary for Fla. Gov., per @TarranceGroup poll shared exclusively with @Fla_Pol: Donalds 50%, Fishback 9%, @JayCollinsFL 6%, @Paul_Renner 3%. #FlaPol |first=Peter |last=Schorsch |access-date=April 10, 2026}}</ref>{{efn-ua|name=Donalds}}
+|March 30 – April 2, 2026
+|466 (LV)
+|±&nbsp;4.7%
+|6%
+|{{party shading/Republican}}|'''50%'''
+|9%
+|3%
+|{{sdash}}
+|32%
+|-
+|style="text-align:left;"|[[Emerson College]]<ref name="EmersonApril2026">{{Cite web |date=April 2, 2026 |title=Florida 2026 Poll: Donalds Leads GOP Primary for Governor, Republicans Outpace Democrats in Florida Elections Florida 2026 Poll: Donalds Leads GOP Primary for Governor, Republicans Outpace Democrats in Florida Elections |url=https://emersoncollegepolling.com/florida-2026-poll-donalds-leads-gop-primary-for-governor-republicans-outpace-democrats-in-florida-elections/ |access-date=April 2, 2026 |website=Emerson College Polling}}</ref>
+|March 29–31, 2026
+|465 (LV)
+|±&nbsp;4.5%
+|4%
+|{{party shading/Republican}}|'''46%'''
+|4%
+|3%
+|4%{{efn|Bobby Williams with 1%; Charles Burkett with <1%}}
+|39%
+|-
+|style="text-align:left;"|The American Promise<ref>{{Cite web |last1=Manjarres |first1=Javier |date=February 27, 2026 |title=Lights Out?: Byron Donalds Surges Ahead in new Public Opinion Poll |url=https://floridianpress.com/2026/02/lights-out-byron-donalds-surges-ahead-in-new-public-opinion-poll/ |access-date=February 27, 2026 |website=The Floridian}}</ref>
+|February 23–26, 2026
+|800 (LV)
+|±&nbsp;3.5%
+|4%
+|{{party shading/Republican}}|'''44%'''
+|5%
+|2%
+|{{sdash}}
+|{{party shading/Undecided}}|'''45%'''
+|-
+|rowspan="2"style="text-align:left;"|[[University of North Florida]]<ref>{{Cite web |date=February 24, 2026 |title=Byron Donalds pulls ahead in Republican gubernatorial primary |url=https://static1.squarespace.com/static/6994d571bce3436c60d86870/t/699cd80af62c293767b3bbed/1771886602401/UNF+PORL+Spring+Statewide+2026+Rep+LV+-+Press+Release+EMBARGO.pdf |access-date=February 24, 2026 |website=[[University of North Florida]]}}</ref>
+|rowspan="2"|February 16–20, 2026
+|rowspan="2"|657 (LV)
+|rowspan="2"|±&nbsp;4.38%
+|4%
+|{{party shading/Republican}}|'''31%'''
+|6%
+|1%
+|6%
+|{{party shading/Undecided}}|'''51%'''
+|-
+|3%
+|{{party shading/Republican}}|'''28%'''
+|4%
+|1%
+|28%{{Efn|Casey DeSantis with 24%; "Someone else" & "Wouldn't vote" with 2%}}
+|{{party shading/Undecided}}|'''36%'''
+|-
+|style="text-align:left;"|Targoz Market Research<ref name="JMIFeb2026">{{Cite web |last=Padgett |first=Logan |date=February 26, 2026 |title=The James Madison Institute Releases Latest JMI Poll of Florida Voters |url=https://jamesmadison.org/the-james-madison-institute-releases-latest-jmi-poll-of-florida-voters-2/ |access-date=February 26, 2026 |website=[[James Madison Institute]]}}</ref>{{efn-ua|name=JMI}}
+|February 13–16, 2026
+|401 (RV)
+|{{sdash}}
+|15%
+|{{party shading/Republican}}|'''33%'''
+|3%
+|9%
+|{{sdash}}
+|{{party shading/Undecided}}|'''40%'''
+|-
+|style="text-align:left;"|Patriot Polling (R)<ref>{{cite web |date=February 2, 2026 |title=Florida Governor Republican Primary Poll |url=https://drive.google.com/file/d/1ypa7UWQ7emdqULE-nQCfHdVHFXrFMnPf/view |access-date=February 2, 2026 |work=Patriot Polling}}</ref>
+|January 19–29, 2026
+|827 (LV)
+|±&nbsp;4.0%
+|{{sdash}}
+|{{party shading/Republican}}|'''37%'''
+|23%
+|{{sdash}}
+|{{sdash}}
+|{{party shading/Undecided}}|'''40%'''
+|-
+|style="text-align:left;"|[[Mason-Dixon Polling & Strategy]]<ref name="MasonJan2026">{{cite web |last1=Costeines |first1=Michael |date=January 15, 2026 |title=POLL: Byron Donalds, David Jolly Lead in Gubernatorial Primary Races |url=https://floridianpress.com/2026/01/poll-byron-donalds-david-jolly-lead-in-gubernatorial-primary-races/ |access-date=January 15, 2026 |work=Floridian Press}}</ref>
+|January 8–13, 2026
+|400 (RV)
+|±&nbsp;5.0%
+|7%
+|{{party shading/Republican}}|'''37%'''
+|3%
+|4%
+|{{sdash}}
+|{{party shading/Undecided}}|'''49%'''
+|-
+|rowspan="3" style="text-align:left;"|[[Tony Fabrizio|Fabrizio, Lee & Associates]] (R)<ref>{{cite web |last1=Ogles |first1=Jacob |date=January 9, 2026 |title=Byron Donalds in dominant position in GOP Primary for Governor, new poll shows |url=https://floridapolitics.com/archives/772573-byron-donalds-in-dominant-position-in-gop-primary-for-governor-new-poll-shows/ |access-date=January 9, 2026 |publisher=[[Florida Politics]]}}</ref>{{Efn-ua|name=Donalds|Poll sponsored by Donalds' campaign}}
+|rowspan="3"|January 4–6, 2026
+|rowspan="3"|600 (LV)
+|rowspan="3"|±&nbsp;4.0%
+|6%
+|{{party shading/Republican}}|'''45%'''
+|4%
+|3%
+|{{sdash}}
+|41%
+|-
+|{{sdash}}
+|{{party shading/Republican}}|'''39%'''
+|3%
+|1%
+|26%{{Efn|Casey DeSantis with 26%}}
+|31%
+|-
+|{{sdash}}
+|{{party shading/Republican}}|'''47%'''
+|5%
+|4%
+|{{sdash}}
+|43%
+|-
+|style="text-align:left;"|Public Opinion Strategies (R)<ref>{{cite web |last1=Manjarres |first1=Javier |date=December 15, 2025 |title=New Poll Shows Collins Beating Donalds if DeSantis Endorses in Governor's Race |url=https://floridianpress.com/2025/12/new-poll-shows-collins-beating-donalds-if-desantis-endorses-in-governors-race/ |access-date=December 18, 2025 |publisher=The Floridian}}</ref>{{Efn-ua|Poll sponsored by Florida Firefighters, which supports Collins<ref>{{cite web |last1=Nir |first1=David |last2=Singer |first2=Jeff |date=November 21, 2025 |title=Morning Digest: Democratic congresswoman indicted for allegedly stealing $5 million in COVID funds |url=https://www.the-downballot.com/p/morning-digest-democratic-congresswoman?open=false#%C2%A7fl-gov |access-date=December 18, 2025 |publisher=The Downballot}}</ref>}}
+|December 7–11, 2025
+|700 (RV)
+|±&nbsp;3.7%
+|13%
+|{{party shading/Republican}}|'''40%'''
+|{{sdash}}
+|{{sdash}}
+|9%
+|38%
+|-
+|style="text-align:left;"|The Tyson Group (R)<ref>{{cite web |last1=Ogles |first1=Jacob |date=December 16, 2025 |title=New poll shows Byron Donalds maintains front-runner status in GOP Primary |url=https://floridapolitics.com/archives/769941-new-poll-shows-byron-donalds-maintains-front-runner-status-in-gop-primary/ |access-date=December 18, 2025 |publisher=[[Florida Politics]]}}</ref>
+|December 8–9, 2025
+|800 (LV)
+|±&nbsp;3.5%
+|9%
+|{{party shading/Republican}}|'''38%'''
+|2%
+|1%
+|{{sdash}}
+|{{party shading/Undecided}}|'''49%'''
+|-
+|style="text-align:left;"|The American Promise<ref>{{cite web |last1=Ogles |first1=Jacob |date=November 21, 2025 |title=Byron Donalds continues to dominate GOP field for Governor, poll shows |url=https://floridapolitics.com/archives/766790-byron-donalds-continues-to-dominate-gop-field-for-governor-poll-shows/ |access-date=November 21, 2025 |website=[[Florida Politics]]}}</ref>
+|November 17–19, 2025
+|800 (LV)
+|±&nbsp;3.5%
+|1%
+|{{party shading/Republican}}|'''43%'''
+|0%
+|2%
+|{{sdash}}
+|{{party shading/Undecided}}|'''54%'''
+|-
+|style="text-align:left;"|Victory Insights (R)<ref>{{cite web |date=November 13, 2025 |title=Florida Governor Poll: Byron Donalds Dominates |url=https://irp.cdn-website.com/07e08705/files/uploaded/PollSummary_FL-Gov_11-13-25.pdf |access-date=November 13, 2025 |publisher=Victory Insights}}</ref>
+|November 11–13, 2025
+|600 (LV)
+|{{sdash}}
+|1%
+|{{party shading/Republican}}|'''45%'''
+|1%
+|3%
+|{{sdash}}
+|{{party shading/Undecided}}|'''49%'''
+|-
+|rowspan="2" style="text-align:left;"|St. Pete Polls<ref name="StPeteOct2025">{{cite web |last1=Florell |first1=Matt |date=October 16, 2025 |title=Florida Statewide survey conducted for Floridapolitics.com |url=https://www.scribd.com/document/933571590/StPetePolls-2025-State-REP-PRI-October15-G8B48S#fullscreen&from_embed |access-date=October 16, 2025 |publisher=St. Pete Polls}}</ref>{{Efn-ua|name=FP}}
+|rowspan="2"|October 13–15, 2025
+|rowspan="2"|1,034 (LV)
+|rowspan="2"|±&nbsp;3.0%
+|4%
+|{{party shading/Republican}}|'''39%'''
+|{{sdash}}
+|3%
+|{{sdash}}
+|{{party shading/Undecided}}|'''54%'''
+|-
+|12%
+|{{party shading/Republican}}|'''52%'''
+|{{sdash}}
+|{{sdash}}
+|{{sdash}}
+|36%
+|-
+|style="text-align:left;"|Targoz Market Research<ref name="JMISept2025"/>{{efn-ua|name=JMI}}
+|September 16–18, 2025
+|506 (RV)
+|{{sdash}}
+|{{sdash}}
+|{{party shading/Republican}}|'''29%'''
+|{{sdash}}
+|9%
+|{{sdash}}
+|{{party shading/Undecided}}|'''62%'''
+|-
+|style="text-align:left;"|The American Promise<ref>{{cite web |last1=Schnecker |first1=Jesse |date=September 8, 2025 |title=Poll: Byron Donalds' already crushing Primary lead is growing |url=https://floridapolitics.com/archives/755069-poll-byron-donalds-already-crushing-primary-lead-is-growing/ |access-date=September 8, 2025 |publisher=[[Florida Politics]]}}</ref>
+|September 4–5, 2025
+|800 (LV)
+|±&nbsp;3.5%
+|2%
+|{{party shading/Republican}}|'''40%'''
+|{{sdash}}
+|2%
+|{{sdash}}
+|{{party shading/Undecided}}|'''54%'''
+|}
+<!-- = = = don't edit the line below = = = -->
+{{hidden begin|titlestyle=background:#cff|title=Hypothetical polling|contentstyle=border:solid 1px silver; padding:8px; background:var(--background-color-base); color:var(--color-base);}}
+<!-- = = = don't edit the line above = = = -->
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- style="vertical-align:bottom"
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"|Key:<br />A – all adults<br />RV – registered voters<br />LV – likely voters<br />V – unclear}}
+! Margin<br />{{nowrap|of error}}
+! style="width:50px;"| Casey<br />DeSantis
+! style="width:50px;"| Byron<br />Donalds
+! style="width:50px;"| Matt<br />Gaetz
+! style="width:50px;"| Ashley<br />Moody
+! style="width:50px;"| Jeanette<br />Nuñez
+! style="width:50px;"| Jimmy<br />Patronis
+! style="width:50px;"| Wilton<br />Simpson
+! style="width:50px;"| Francis<br />Suarez
+! style="width:50px;"| Michael<br />Waltz
+! Other
+! Undecided
+|-
+|style="text-align:left;"|[[Emerson College]]<ref name="EmersonApril2026"/>
+|March 29–31, 2026
+|465 (LV)
+|±&nbsp;4.5%
+|7%
+|{{party shading/Republican}}|'''44%'''
+|{{sdash}}
+|{{sdash}}
+|{{sdash}}
+|{{sdash}}
+|{{sdash}}
+|{{sdash}}
+|{{sdash}}
+|15%{{efn|Jay Collins & James Fishback with 4%; Paul Renner with 2%; Jay Collins with 2%; Charles Burkett & Bobby Williams with 1%}}
+|34%
+|-
+|style="text-align:left;"|St. Pete Polls<ref name="StPeteOct2025"/>{{Efn-ua|name=FP}}
+|October 13–15, 2025
+|1,034 (LV)
+|±&nbsp;3.0%
+|21%
+|{{party shading/Republican}}|'''47%'''
+|{{sdash}}
+|{{sdash}}
+|{{sdash}}
+|{{sdash}}
+|{{sdash}}
+|{{sdash}}
+|{{sdash}}
+|{{sdash}}
+|36%
+|-
+|style="text-align:left;"|Targoz Market Research<ref name="JMISept2025">{{Cite web |date=September 19, 2025 |title=Marginals |url=https://jamesmadison.org/wp-content/uploads/Marginals.pdf |access-date=September 29, 2025 |website=[[James Madison Institute]]}}</ref>{{efn-ua|name=JMI}}
+|September 16–18, 2025
+|510 (RV)
+|{{sdash}}
+|{{party shading/Republican}}|'''26%'''
+|23%
+|{{sdash}}
+|{{sdash}}
+|{{sdash}}
+|{{sdash}}
+|2%
+|{{sdash}}
+|{{sdash}}
+|9%{{efn|Paul Renner with 7%; Jay Collins with 2%}}
+|{{party shading/Undecided}}|'''39%'''
+|-
+|style="text-align:left;"|[[University of North Florida]]<ref>{{Cite web |date=July 24, 2025 |title=Casey DeSantis ahead by a hair in Florida Republican primary poll |url=https://www.unfporl.org/uploads/1/4/4/5/144559024/unf_porl_statewide_july_2025_press_release.pdf |access-date=July 24, 2025 |website=[[University of North Florida]]}}</ref>
+|July 14–22, 2025
+|797 (RV)
+|±&nbsp;3.9%
+|{{party shading/Republican}}|'''32%'''
+|29%
+|8%
+|{{sdash}}
+|{{sdash}}
+|{{sdash}}
+|1%
+|2%
+|{{sdash}}
+|10%{{efn|"Someone else" with 7%; "Wouldn't vote" with 2%; "Refused" with 1%}}
+|18%
+|-
+|style="text-align:left;"|St. Pete Polls<ref>{{Cite web |last=Perry |first=Mitch |date=July 14, 2025 |title=Byron Donalds continues to lead all Florida Republicans in 2026 gubernatorial poll |url=https://floridaphoenix.com/briefs/byron-donalds-continues-to-lead-all-florida-republicans-in-2026-gubernatorial-poll/ |access-date=July 14, 2025 |website=[[Florida Phoenix]]}}</ref><ref>{{Cite web |date=July 10, 2025 |title=Florida Statewide survey conducted for FloridaPolitics.com |url=http://stpetepolls.org/files/StPetePolls_2025_State_REP-PRI_July10_DV2G26.pdf |access-date=July 14, 2025 |website=St. Pete Polls}}</ref>{{Efn-ua|name=FP}}
+|July 8–10, 2025
+|831 (LV)
+|±&nbsp;3.4%
+|27%
+|{{party shading/Republican}}|'''35%'''
+|{{sdash}}
+|{{sdash}}
+|{{sdash}}
+|{{sdash}}
+|3%
+|{{sdash}}
+|{{sdash}}
+|2%{{efn|name=Renner1|Paul Renner with 2%}}
+|32%
+|-
+|style="text-align:left;"|Targoz Market Research<ref name="JMIMay2025">{{Cite web |date=May 9, 2025 |title=JMI Polls May 2025 |url=https://jmipoll.com/ |access-date=May 9, 2025 |website=[[James Madison Institute]]}}</ref><ref name="JMITabsMay2025">{{Cite web |date=May 9, 2025 |title=JMI May 2025 Poll Marginals – Registered Voters |url=https://jamesmadison.org/wp-content/uploads/Marginals-JMI-May-2025-Poll.pdf |access-date=May 9, 2025 |website=[[James Madison Institute]]}}</ref>{{efn-ua|name=JMI|Poll sponsored by the [[James Madison Institute]], a conservative think tank}}
+|May 5–7, 2025
+|516 (RV)
+|{{sdash}}
+|{{party shading/Republican}}|'''29%'''
+|28%
+|10%
+|{{sdash}}
+|7%
+|{{sdash}}
+|4%
+|5%
+|{{sdash}}
+|4%{{efn|name=Burkett3Hayward1|Charles Burkett with 3%; Ashton Hayward with 1%}}
+|13%
+|-
+|style="text-align:left;"|Targoz Market Research<ref name="JMIMay2025"/><ref name="JMITabsApril2025">{{Cite web |date=May 9, 2025 |title=JMI April 2025 Poll Marginals – Registered Voters |url=https://jamesmadison.org/wp-content/uploads/Florida-April-2025-JMI-Poll-Marginals-Registered-Voters.pdf |access-date=May 9, 2025 |website=[[James Madison Institute]]}}</ref>{{efn-ua|name=JMI}}
+|April 15–22, 2025
+|619 (RV)
+|{{sdash}}
+|{{party shading/Republican}}|'''28%'''
+|22%
+|8%
+|{{sdash}}
+|9%
+|{{sdash}}
+|4%
+|7%
+|{{sdash}}
+|4%{{efn|name=Burkett3Hayward1}}
+|18%
+|-
+|style="text-align:left;"|Fabrizio, Lee & Associates (R)<ref>{{Cite web |last=Scheckner |first=Jesse |date=March 10, 2025 |title=Poll: Donald Trump's endorsement gives Byron Donalds double-digit lead in GOP Primary for Governor |url=https://floridapolitics.com/archives/725255-internal-poll-shows-byron-donalds-routs-casey-desantis-if-voters-know-donald-trump-backs-him-for-governor/ |access-date=April 24, 2025 |website=[[Florida Politics]]}}</ref>
+|February 26–27, 2025
+|600 (LV)
+|±&nbsp;5.0%
+|30%
+|{{party shading/Republican}}|'''34%'''
+|{{sdash}}
+|{{sdash}}
+|{{sdash}}
+|{{sdash}}
+|3%
+|{{sdash}}
+|{{sdash}}
+|{{sdash}}
+|33%
+|-
+|rowspan="2" style="text-align:left;"|Victory Insights (R)<ref>{{Cite web |date=January 29, 2025 |title=Byron Donalds Dominates Republican Primary Field for Governor of Florida |url=https://irp.cdn-website.com/07e08705/files/uploaded/PollReport_FL-2026_1-29-2025.pdf |access-date=April 24, 2025 |website=Victory Insights}}</ref>
+|rowspan="2"|January 26–27, 2025
+|rowspan="2"|850 (LV)
+|rowspan="2"|±&nbsp;3.5%
+|{{sdash}}
+|{{party shading/Republican}}|'''34%'''
+|{{sdash}}
+|{{sdash}}
+|{{sdash}}
+|{{sdash}}
+|5%
+|{{sdash}}
+|{{sdash}}
+|{{sdash}}
+|{{party shading/Undecided}}|'''61%'''
+|-
+|{{sdash}}
+|{{party shading/Republican}}|'''31%'''
+|{{sdash}}
+|{{sdash}}
+|4%
+|{{sdash}}
+|3%
+|1%
+|{{sdash}}
+|{{sdash}}
+|{{party shading/Undecided}}|'''60%'''
+|-
+|style="text-align:left;"|[[Florida Atlantic University]]/[[Mainstreet Research|<br />Mainstreet Research]]<ref>{{Cite web |date=June 12, 2024 |title=Mainstreet Research Survey - Florida |url=https://www.faupolling.com/wp-content/uploads/2024/06/Mainstreet_FL_June_2024_Public.pdf |access-date=April 24, 2025 |website=FAU Polling}}</ref>
+|June 8–9, 2024
+|366 (RV)
+|±&nbsp;3.3%
+|{{party shading/Republican}}|'''43%'''
+|19%
+|13%
+|14%
+|{{sdash}}
+|5%
+|{{sdash}}
+|{{sdash}}
+|{{sdash}}
+|7%{{Efn|"Someone else" with 7%}}
+|{{sdash}}
+|-
+|style="text-align:left;"|[[Florida Atlantic University]]/[[Mainstreet Research|<br />Mainstreet Research]]<ref>{{Cite web |date=April 18, 2024 |title=Mainstreet Research Survey - Florida |url=https://www.faupolling.com/wp-content/uploads/2024/04/mainstreet-florida-apr-2024-public.pdf |access-date=April 24, 2025 |website=FAU Polling}}</ref>
+|April 15–17, 2024
+|372 (RV)
+|±&nbsp;3.3%
+|{{party shading/Republican}}|'''38%'''
+|{{sdash}}
+|16%
+|{{sdash}}
+|{{sdash}}
+|{{sdash}}
+|{{sdash}}
+|{{sdash}}
+|{{sdash}}
+|20%{{efn|"Another candidate" with 20%}}
+|26%
+|-
+|style="text-align:left;"|Victory Insights (R)<ref>{{Cite web |date=April 12, 2024 |title=Florida Poll: Byron Donalds Leads First Poll of 2026 GOP Race for Governor |url=https://irp.cdn-website.com/07e08705/files/uploaded/PollReport_FloridaGOP_2026Governor_04-12-2024.pdf |access-date=April 24, 2025 |website=Victory Insights}}</ref>
+|April 3–6, 2024
+|1,200 (LV)
+|±&nbsp;2.9%
+|{{sdash}}
+|{{party shading/Republican}}|'''21%'''
+|13%
+|{{sdash}}
+|{{sdash}}
+|3%
+|2%
+|{{sdash}}
+|5%
+|14%{{Efn|"Someone else" with 14%}}
+|{{party shading/Undecided}}|'''43%'''
+|-
+|style="text-align:left;"|[[University of North Florida]]<ref>{{Cite web |date=November 7, 2023 |title=UNF Poll: Trump Pulls Ahead in Florida Republican Presidential Primary |url=https://www.unfporl.org/uploads/1/4/4/5/144559024/unf_porl_fall23_repprim_statewide.pdf |access-date=April 24, 2025 |website=University of North Florida}}</ref>
+|October 23 – November 4, 2023
+|788 (LV)
+|±&nbsp;3.8%
+|{{party shading/Republican}}|'''22%'''
+|9%
+|9%
+|6%
+|2%
+|3%
+|1%
+|1%
+|1%
+|6%{{Efn|"Someone else" with 6%}}
+|{{party shading/Undecided}}|'''40%'''
+|}
+{{hidden end}}
+
+=== Results ===
+[[File:2026 Florida Republican gubernatorial primary results by county.svg|thumb|300px|Primary results by county:
+{{collapsible list
+| title = {{legend|#ed8783|Donalds}}
+|{{legend|#fdeeee|20–30%}}
+|{{legend|#fbdedd|30–40%}}
+|{{legend|#f1b4b2|40–50%}}
+|{{legend|#ed8783|50–60%}}
+|{{legend|#e55651|60–70%}}
+}}
+{{collapsible list
+| title = {{legend|#81d0d0|Collins}}
+|{{legend|#ecfafa|20–30%}}
+|{{legend|#daf5f5|30–40%}}
+|{{legend|#ace1e1|40–50%}}
+}}
+]]
+{{Election box begin no change
+ | title= Republican primary results}}
+{{Election box winning candidate with party link no change
+ | party=Republican Party of Florida
+ | candidate=[[Byron Donalds]]
+ | votes=810,552
+ | percentage=47.8}}
+{{Election box candidate with party link no change
+ | party=Republican Party of Florida
+ | candidate=[[Jay Collins]]
+ | votes=426,696
+ | percentage=25.2}}
+{{Election box candidate with party link no change
+ | party=Republican Party of Florida
+ | candidate=[[James Fishback]]
+ | votes=177,660
+ | percentage=10.5}}
+{{Election box candidate with party link no change
+ | party=Republican Party of Florida
+ | candidate=[[Paul Renner (politician)|Paul Renner]]
+ | votes=144,950
+ | percentage=8.5}}
+{{Election box candidate with party link no change
+ | party=Republican Party of Florida
+ | candidate=Bobby Williams
+ | votes=69,026
+ | percentage=4.1}}
+{{Election box candidate with party link no change
+ | party=Republican Party of Florida
+ | candidate=Rachel Rodriguez
+ | votes=27,602
+ | percentage=1.6}}
+{{Election box candidate with party link no change
+ | party=Republican Party of Florida
+ | candidate=Jim Holcomb
+ | votes=13,172
+ | percentage=0.8}}
+{{Election box candidate with party link no change
+ | party=Republican Party of Florida
+ | candidate=James Walker Shaw
+ | votes=7,878
+ | percentage=0.5}}
+{{Election box candidate with party link no change
+ | party=Republican Party of Florida
+ | candidate=Arthur Joseph McCaffrey
+ | votes=7,039
+ | percentage=0.4}}
+{{Election box candidate with party link no change
+ | party=Republican Party of Florida
+ | candidate=Caneste Succe
+ | votes=6,266
+ | percentage=0.4}}
+{{Election box candidate with party link no change
+ | party=Republican Party of Florida
+ | candidate=Daniel Nokovich
+ | votes=5,188
+ | percentage=0.3}}
+{{Election box total no change|votes=1,696,029|percentage=100.0}}
+{{election box end}}
+
+=== Lieutenant gubernatorial nomination ===
+==== Nominee ====
+*[[Bryan Avila]], member of the [[Florida Senate]] (2022–2026)<ref name="Schorsch-2026" /><ref>{{Cite web |last=Petro |first=Allison |date=August 25, 2026 |title=Byron Donalds announces state Sen. Bryan Avila as running mate in race for Florida governor |url=https://www.wesh.com/article/byron-donalds-running-mate-florida-governor/73520437 |access-date=August 25, 2026 |website=WESH |language=en}}</ref>
+
+==== Considered, but not selected ====
+*[[Kat Cammack]], U.S. Representative from [[Florida's 3rd congressional district|FL-03]] (2021–present)<ref name="Schorsch-2026">{{Cite web |last=Schorsch |first=Peter |date=August 11, 2026 |title=Did Byron Donalds just tip his hand? Smart money reads 'MAGA Meg' for LG |url=https://floridapolitics.com/archives/812944-did-byron-donalds-just-tip-his-hand-smart-money-reads-maga-meg-for-lg/ |access-date=August 23, 2026 |website=Florida Politics - Campaigns & Elections. Lobbying & Government. |language=en-US}}</ref>
+*[[Fiona McFarland]], member of the [[Florida House of Representatives]] (2020–present)<ref name="Schorsch-2026" />
+*[[Ana Maria Rodriguez (politician)|Ana Maria Rodriguez]], member of the Florida Senate (2020–present)<ref name="Schorsch-2026" />
+*[[Meg Weinberger]], member of the Florida House of Representatives (2024–present)<ref name="Schorsch-2026" />
+
+== Democratic primary ==
+=== Candidates ===
+==== Nominee ====
+* [[David Jolly]], former [[Republican Party (United States)|Republican]] [[United States House of Representatives|U.S. representative]] from [[Florida's 13th congressional district]] (2014–2017)<ref>{{Cite web |last=Leonard |first=Kimberly |date=June 5, 2025 |title=Well-known Trump critic David Jolly enters race for Florida governor |url=https://www.politico.com/news/2025/06/05/david-jolly-enters-race-florida-governor-00386873 |access-date=June 5, 2025 |website=[[Politico]]}}</ref>
+**Running mate: [[Gwen Graham]], former [[United States Department of Education|Assistant Secretary of Education]] (2021–2025), former [[U.S. representative]] from {{ushr|FL|2}} (2015–2017), and candidate for governor in [[2018 Florida gubernatorial election|2018]]<ref name="Leonard-2026">{{Cite web |last1=Leonard |first1=Kimberly |last2=Fineout |first2=Gary |date=June 10, 2026 |title=Jolly picks Gwen Graham for running mate on Dem Florida governor ticket |url=https://www.politico.com/news/2026/06/10/florida-david-jolly-gwen-graham-governor-democrats-00956047 |access-date=June 10, 2026 |website=POLITICO |language=en}}</ref>
+
+==== Eliminated in primary ====
+* Evelyn Castillo-Bach<ref name="Candidates" />
+* Thomas Eloy Fernandez<ref name="Candidates" />
+* Dayna Marie Foster, mathematics teacher<ref>{{Cite web |last=Bridges |first=C. A. |title=Florida governor's race swells to 42 candidates, here's who's running |url=https://www.tallahassee.com/story/news/politics/elections/2026/03/16/florida-governors-race-candidates-list-grows/89134142007/ |access-date=March 20, 2026 |website=Tallahassee Democrat |language=en-US}}</ref><ref>{{Cite web |title=Candidate Tracking system - Florida Division of Elections - Department of State |url=https://dos.elections.myflorida.com/candidates/CanDetail.asp?account=89353 |access-date=November 6, 2025 |website=dos.elections.myflorida.com}}</ref>
+*[[Dotie Joseph]], [[Florida House of Representatives|state representative]] from the [[Florida's 108th House of Representatives district|108th district]] (2018–present)<ref>{{Cite web |last=Habersham |first=Raisa |date=June 11, 2026 |title='We need somebody who's focused on us:' Dotie Joseph makes her play for governor |url=https://amp.miamiherald.com/news/politics-government/state-politics/article316093483.html |website=Miami Herald}}</ref>
+* Stephann Norman<ref name="Candidates" />
+
+==== Withdrawn ====
+* [[Jerry Demings]], [[mayor of Orange County]] (2018–present) and husband of former [[United States House of Representatives|U.S. representative]] [[Val Demings]]<ref>{{Cite web |last=Hudak |first=Stephen |date=June 5, 2026 |title=Jerry Demings suspends race for governor after cancer diagnosis |url=https://www.orlandosentinel.com/2026/06/05/jerry-demings-suspends-race-for-governor-after-cancer-diagnosis/ |access-date=June 5, 2026 |website=Orlando Sentinel |language=en}}</ref>
+* Jessica Vernekar, social media influencer<ref>{{Cite web |title=Candidate Tracking system - Florida Division of Elections - Department of State |url=https://dos.elections.myflorida.com/candidates/CanDetail.asp?account=89763 |access-date=March 4, 2026 |website=dos.elections.myflorida.com}}</ref>
+
+==== Declined ====
+* [[Nikki Fried]], chair of the [[Florida Democratic Party]] (2023–present), former [[Florida Commissioner of Agriculture]] (2019–2023), and candidate for governor in [[2022 Florida gubernatorial election|2022]]<ref name=declined/>
+* [[Fentrice Driskell]], [[minority leader]] of the [[Florida House of Representatives|state House of Representatives]] (2022–present) ''([[2026 Florida Senate election|running for state senate]])''<ref>{{Cite web |last=Perry |first=Mitch |date=July 14, 2025 |title=House Dem Leader Fentrice Driskell will run for a Tampa Bay Senate seat in 2026 |url=https://floridaphoenix.com/2025/07/14/house-dem-leader-fentrice-driskell-will-run-for-a-tampa-bay-senate-seat-in-2026/ |access-date=December 17, 2025 |website=[[Florida Phoenix]] |language=en-US}}</ref>
+* [[Gwen Graham]], former [[United States Department of Education|Assistant Secretary of Education]] (2021–2025), former [[U.S. representative]] from {{ushr|FL|2}} (2015–2017), and candidate for governor in [[2018 Florida gubernatorial election|2018]] (''endorsed Jolly, running for lieutenant governor'')<ref name=rolls/><ref name="Leonard-2026" />
+* [[Shevrin Jones]], [[Florida Senate|state senator]] from the 34th district (2020–present)<ref name="declined">{{cite web |last1=Wilson |first1=Kirby |date=June 23, 2025 |title=Who's running for Florida governor in 2026? We check in on the race. |url=https://www.tampabay.com/news/florida-politics/2025/06/23/matt-gaetz-desantis-byron-donalds-john-morgan-trump-hope/ |url-access=registration |access-date=June 25, 2025 |publisher=[[Tampa Bay Times]]}}</ref>
+* [[Daniella Levine Cava]], [[List of mayors of Miami-Dade County, Florida|mayor]] of [[Miami-Dade County, Florida|Miami-Dade County]] (2020–present)<ref>{{Cite web |title=Miami-Dade Mayor Daniella Levine Cava for Congress? For governor? Nah |url=https://www.politicalcortadito.com/2025/08/06/miami-dade-daniella-levine-cava-congress-governor/ |access-date=December 17, 2025 |website=www.politicalcortadito.com |date=August 6, 2025 }}</ref>
+* [[Jared Moskowitz]], [[U.S. representative]] from {{ushr|FL|23}} (2023–present)<ref>{{cite news |last1=Solender |first1=Andrew |date=November 27, 2024 |title=Scoop: A huge wave of House members is eyeing runs for other offices in 2026 |url=https://www.axios.com/2024/11/27/house-members-running-for-senate-governor-2026 |access-date=November 27, 2024 |work=[[Axios (website)|Axios]]}}</ref> (''[[2026 United States House of Representatives elections in Florida#District 23|running for re-election]]'')<ref>{{Cite web |last=Adragna |first=Anthony |date=December 17, 2024 |title=Moskowitz brushes aside FEMA reports |url=https://www.politico.com/live-updates/2024/12/17/congress/moskowitz-brushes-aside-fema-reports-00194853 |access-date=December 17, 2024 |website=[[Politico]] |quote='I am staying in Congress and running for re-election,' Moskowitz (D-Fla.) said}}</ref>
+* [[Angie Nixon]], [[Florida House of Representatives|state representative]] from the [[Florida's 13th House of Representatives district|13th district]] (2020–present)<ref>{{cite web |last=Gancarski |first=A.G. |date=July 31, 2025 |title=Angie Nixon considers Senate run, along with other possibilities |url=https://floridapolitics.com/archives/749737-nixon-26/ |access-date=August 1, 2025 |website=[[Florida Politics]]}}</ref> ''([[2026 United States Senate special election in Florida|running for U.S. Senate]])''<ref>{{cite news |last1=Jennings |first1=Christopher |date=January 22, 2026 |title=Angie Nixon announces run for Florida's U.S. Senate seat |url=https://www.wpbf.com/article/angie-nixon-announces-run-for-floridas-us-senate-seat/70093901 |access-date=January 24, 2026 |work=[[WPBF]]}}</ref>
+
+=== Endorsements ===
+{{Endorsements box
+| title = David Jolly
+|colwidth=60
+| list =
+;Executive branch officials
+* [[Donna Shalala]], former [[United States Secretary of Health and Human Services|secretary of health and human services]] (1993–2001) and {{ushr|FL|27|FL-27}} (2019–2021)<ref name=rolls/>
+;U.S. representatives
+* [[Allen Boyd]], former {{ushr|FL|2|FL-02}} (1997–2011)<ref name="jollyends">{{cite web |last=Taylor |first=Janelle |date=August 5, 2025 |title=David Jolly rolls out trove of endorsements from 60 current and former Democratic elected officials |url=https://floridapolitics.com/archives/750230-david-jolly-rolls-out-trove-of-endorsements-from-60-current-and-former-democratic-elected-officials/ |access-date=August 11, 2025 |work=[[Florida Politics]]}}</ref>
+* [[Maxwell Frost]], [[FL-10]] (2023–present)<ref>{{cite news |last1=Costeines |first1=Michael |date=July 28, 2026 |title=Maxwell Alejandro Frost Endorses David Jolly for Governor |url=https://floridianpress.com/2026/07/maxwell-alejandro-frost-endorses-david-jolly-for-governor/ |access-date=July 29, 2026 |work=Floridian Press}}</ref>
+* [[Gwen Graham]], former {{ushr|FL|2|FL-02}} (2015–2017) and [[2018 Florida gubernatorial election|2018 gubernatorial candidate]]<ref name="rolls">{{cite news |last=Gancarski |first=A.G. |date=July 9, 2025 |title=David Jolly rolls out endorsements from 'Democratic powerhouses' Gwen Graham, Donna Shalala, Karen Thurman |url=https://floridapolitics.com/archives/746512-jolly-graham-shalala-thurman/ |access-date=July 9, 2025 |work=[[Florida Politics]]}}</ref> (candidate's running mate)<ref name="Leonard-2026"/>
+* [[Ron Klein]], former {{ushr|FL|22|FL-22}} (2007–2011)<ref name=jollyends/>
+* [[Patrick Murphy (Florida politician)|Patrick Murphy]], former {{ushr|FL|18|FL-18}} (2013–2017)<ref name=jollyends/>
+* [[Lawrence J. Smith|Larry Smith]], former {{ushr|FL|16|FL-16}} (1983–1993)<ref name=jollyends2/>
+* [[Karen Thurman]], former {{ushr|FL|5|FL-05}} (1993–2003)<ref name=rolls/>
+
+;Statewide officials
+* [[Betty Castor]], former [[Florida Department of Education|education commissioner of Florida]] (1987–1994)<ref name=jollyends/>
+* [[Barbara Pariente]], former [[chief justice]] (2004–2006) of the [[Supreme Court of Florida]] (1997–2019)<ref>{{Cite web |last1=Freidin |first1=Ellen |last2=Moscowitz |first2=Jane |last3=Shalala |first3=Donna |last4=Zdravecky |first4=Barbara |date=July 20, 2025 |title=We're pro-choice Floridians — and we trust David Jolly to defend our rights |url=https://www.miamiherald.com/opinion/op-ed/article310881700.html |access-date=December 14, 2025 |work=[[Miami Herald]] |language=en-US}}</ref>
+*[[Alex Sink]], former [[chief financial officer of Florida]] (2007–2011) and nominee for governor in [[2010 Florida gubernatorial election|2010]]<ref name="DavisSink">{{cite web |last1=Gancarski |first1=A.G. |date=June 8, 2026 |title=Tracie Davis, Alex Sink rally behind David Jolly for Governor |url=https://floridapolitics.com/archives/800534-tracie-davis-alex-sink-back-david-jolly-for-governor/ |access-date=June 8, 2026 |publisher=[[Florida Politics]]}}</ref>
+* [[Eric J. Smith (educator)|Eric Smith]], former [[Florida Department of Education|education commissioner of Florida]] (2007–2011) ''(Republican)''<ref name=jollyends/>
+
+;State legislators
+* [[Robin Bartleman]], [[Florida's 103rd House of Representatives district|HD-103]] (2020–present)<ref name=jollyends/>
+* [[Lori Berman]], minority leader of the [[Florida Senate]] (2025–present) from [[Florida's 31st Senate district|SD-31]] (2018–present)<ref>{{Cite web |last=Leonard |first=Kimberly |date=October 14, 2025 |title=Boyd set to become next state Senate leader |url=https://www.politico.com/newsletters/florida-playbook/2025/10/14/boyd-set-to-become-next-state-senate-leader-00607235 |access-date=December 14, 2025 |work=[[Politico]] |language=en-US}}</ref>
+* [[Mack Bernard]], [[Florida's 24th Senate district|SD-24]] (2024–present)<ref name="AfterGregory">{{cite web |last1=Scheckner |first1=Jesse |date=April 8, 2026 |title=After Emily Gregory nod, 22 more Palm Beach County leaders back David Jolly for Governor |url=https://floridapolitics.com/archives/789476-after-emily-gregory-nod-22-more-palm-beach-county-leaders-back-david-jolly-for-governor/ |access-date=April 8, 2026 |publisher=[[Florida Politics]]}}</ref>
+* [[Kevin Chambliss]], [[Florida's 117th House of Representatives district|HD-117]] (2020–present)<ref name=jollyends/>
+* [[Dan Daley]], [[Florida's 96th House of Representatives district|HD-96]] (2019–present)<ref name=jollyends/>
+* [[Tracie Davis]], [[Florida's 5th Senate district|SD-05]] (2022–present)<ref name=DavisSink/>
+* [[Michael Gottlieb (politician)|Michael Gottlieb]], [[Florida's 102nd House of Representatives district|HD-102]] (2018–present)<ref name=jollyends/>
+* [[Emily Gregory (politician)|Emily Gregory]], [[Florida's 87th House of Representatives district|HD-87]] (2026–present)<ref>{{cite web |last1=Taylor |first1=Janelle |date=April 1, 2026 |title=Emily Gregory lends newfound star power to David Jolly's bid for Governor |url=https://floridapolitics.com/archives/788414-emily-gregory-lends-newfound-star-power-to-david-jollys-bid-for-governor/ |access-date=April 1, 2026 |publisher=[[Florida Politics]]}}</ref>
+* [[Shevrin Jones]], [[Florida's 34th Senate district|SD-34]] (2020–present)<ref>{{cite web |last1=Taylor |first1=Janelle |date=March 26, 2026 |title=Citing Special Election 'history,' Shevrin Jones goes all in for David Jolly |url=https://floridapolitics.com/archives/787448-citing-special-election-history-shevrin-jones-goes-all-in-for-david-jolly/ |access-date=March 26, 2026 |publisher=[[Florida Politics]]}}</ref>
+* [[Rob Long (Florida politician)|Rob Long]], [[Florida's 90th House of Representatives district|HD-90]] (2025–present)<ref name=AfterGregory/>
+* [[Brian Nathan]], [[Florida's 14th Senate district|SD-14]] (2026–present)<ref>{{cite web |last1=Taylor |first1=Janelle |date=April 16, 2026 |title=Brian Nathan backs David Jolly for Governor; both Special Election upset victors have now given their nod |url=https://floridapolitics.com/archives/791007-brian-nathan-backs-david-jolly-for-governor-both-special-election-upset-victors-have-now-given-their-nod/ |access-date=April 16, 2026 |publisher=[[Florida Politics]]}}</ref>
+* [[Tina Polsky]], [[Florida's 30th Senate district|SD-30]] (2020–present)<ref name=jollyends/>
+* [[Mitch Rosenwald]], [[Florida's 98th House of Representatives district|HD-98]] (2024–present)<ref name=jollyends/>
+* [[Kelly Skidmore]], [[Florida's 89th House of Representatives district|HD-89]] (2024–present)<ref name=AfterGregory/>
+* [[Debra Tendrich]], [[Florida's 92nd House of Representatives district|HD-92]] (2020–present)<ref name=AfterGregory/>
+* 44 former state legislators<ref name=jollyends/><ref name=jollyends2/>{{efn|
+* [[Mike Abrams (politician)|Mike Abrams]], [[Florida's 105th House of Representatives district|HD-105]] (1983–1994)
+* [[Dave Aronberg]], [[Florida's 27th Senate district|SD-27]] (2002–2010)
+* [[Dick Batchelor]], [[Florida's 43rd House of Representatives district|HD-43]] (1974–1982)
+* [[Annie Betancourt]], [[Florida's 116th House of Representatives district|HD-116]] (1994–2002)
+* [[Elaine Bloom]], [[Florida's 106th House of Representatives district|HD-106]] (1974–1978, 1986–1995)
+* [[Scott Clemons]], [[Florida's 6th House of Representatives district|HD-6]] (1990–1998)
+* [[Ben Diamond]], [[Florida's 68th House of Representatives district|HD-68]] (2016–2022)
+* [[Katie Edwards-Walpole]], [[Florida's 98th House of Representatives district|HD-98]] (2012–2018)
+* [[Steven Effman]], [[Florida's 98th House of Representatives district|HD-98]] (1996–2000)
+* [[Luis Garcia (politician)|Luis Garcia]], [[Florida's 107th House of Representatives district|HD-107]] (2006–2012)
+* [[Winston Gardner Jr.]], [[Florida's 17th Senate district|SD-17]] (1988–1992)
+* [[Dan Gelber]], [[Florida's 35th Senate district|SD-25]] (2008–2010) and former [[Mayor of Miami Beach, Florida|mayor of Miami Beach]] (2017–2023)
+* [[Joseph Gibbons (Florida politician)|Joseph Gibbons]], [[Florida's 100th House of Representatives district|HD-100]] (2006–2014)
+* [[Daryl Jones (politician)|Daryl Jones]], [[Florida's 40th Senate district|SD-40]] (1992–2002) and [[2002 Florida gubernatorial election|2002 gubernatorial candidate]]
+* [[Tom Keen (politician)|Tom Keen]], [[Florida's 35th House of Representatives district|HD-35]] (2024)
+* [[Rick Kriseman]], [[Florida's 53rd House of Representatives district|HD-53]] (2006–2012) and former [[Mayors of St. Petersburg, Florida|mayor of St. Petersburg]] (2014–2022)
+* [[Mike Langton]], [[Florida's 15th House of Representatives district|HD-15]] (1986–1992)
+* [[Cindy Lerner]], [[Florida's 119th House of Representatives district|HD-119]] (2000–2002)
+* [[Fred Lippman]], [[Florida's 100th House of Representatives district|HD-100]] (1978–1999)
+* [[Janet Long]], [[Florida's 51st House of Representatives district|HD-51]] (2006–2010)
+* [[Anne Mackenzie (politician)|Anne Mackenzie]], [[Florida's 95th House of Representatives district|HD-95]] (1982–1998)
+* [[Robert W. McKnight|Robert McKnight]], [[Florida's 38th Senate district|SD-38]] (1978–1982)
+* [[Les Miller (Florida politician)|Les Miller]], former [[Florida Senate]] Minority Leader (2004–2006) from the [[Florida's 18th Senate district|18th district]] (2000–2006)
+* [[Jon L. Mills|Jon Mills]], former [[List of speakers of the Florida House of Representatives|Speaker of the Florida House of Representatives]] (1987–1988) from the [[Florida's 24th Senate district|24th district]] (1978–1988)
+* [[Steve Perman]], [[Florida's 78th House of Representatives district|HD-78]] (2010–2012)
+* [[Frank Peterman]], [[Florida's 55th House of Representatives district|HD-55]] (2000–2008)
+* [[Ricardo Rangel (politician)|Ricardo Rangel]], [[Florida's 43rd House of Representatives district|HD-43]] (2012–2014)
+* [[Alzo Reddick]], [[Florida's 39th House of Representatives district|HD-39]] (1982–2000)
+* [[Robert R. Reynolds (Florida politician)|Robert Reynolds]], [[Florida's 109th House of Representatives district|HD-109]] (1978–1984)
+* [[Tom Rossin]], former minority leader of the [[Florida Senate]] (2000–2002) from [[Florida's 35th Senate district|SD-35]] (1994–2002)
+* [[Tim Ryan (Florida politician)|Tim Ryan]], [[Florida's 100th House of Representatives district|HD-100]] (1998–2006) and former [[Broward County]] Commissioner from the 7th district (2012–2024)
+* [[Elaine Schwartz]], [[Florida's 99th House of Representatives district|HD-99]] (2006–2014)
+* [[Ron Silver (politician)|Ron Silver]], [[Florida's 38th Senate district|SD-38]] (1992–2002)
+* [[Rod Smith (politician)|Rod Smith]], [[Florida's 14th Senate district|SD-14]] (2000–2006) and [[2006 Florida gubernatorial election|2006 gubernatorial candidate]]
+* [[Eleanor Sobel]], [[Florida's 33rd Senate district|SD-36]] (2012–2016)
+* [[Richard Stark (politician)|Richard Stark]], [[Florida's 104th House of Representatives district|HD-104]] (2012–2020)
+* [[George L. Stuart Jr.|George Stuart]], [[Florida's 14th Senate district|SD-14]] (1978–1990) and [[1990 Florida gubernatorial election|1990 gubernatorial candidate]]
+* [[Marjorie Turnbull]], [[Florida's 9th House of Representatives district|HD-09]] (1994–2000)
+* [[Peter Weinstein]], former majority leader of the [[Florida Senate]] (1990–1992) from [[Florida's 29th Senate district|SD-29]] (1983–1996)
+* [[Matt Willhite]], [[Florida's 86th House of Representatives district|HD-86]] (2016–2022)
+* [[Carl Zimmermann (politician)|Carl Zimmermann]], [[Florida's 65th House of Representatives district|HD-65]] (2012–2014)
+* [[Nancy Argenziano]], [[Florida's 3rd Senate district|SD-03]] (2002–2007) ''([[Reform Party of the United States of America|Reform]]; elected as a Republican)''
+* [[Paula Dockery]], [[Florida's 15th Senate district|SD-15]] (2002–2012) and [[2010 Florida gubernatorial election|2010 Republican gubernatorial candidate]] ''(elected as a Republican)''
+* [[Juan-Carlos Planas]], [[Florida's 114th House of Representatives district|HD-14]] (2002–2010) ''(elected as a Republican)''
+}}
+
+;Local officials
+* [[Dave Aronberg]], former [[State attorney]] for the [[Fifteenth Judicial Circuit Court of Florida]] (2013–2025)<ref name=AfterGregory/>
+* [[Angelo Castillo]], mayor of [[Pembroke Pines, Florida|Pembroke Pines]] (2024–present)<ref name="jollyends2">{{cite web |last=Scheckner |first=Jesse |date=September 25, 2025 |title=40 current, former Broward leaders back David Jolly for Governor, citing cross-aisle appeal |url=https://floridapolitics.com/archives/757784-40-current-former-broward-leaders-back-david-jolly-for-governor-citing-cross-aisle-appeal/ |access-date=September 26, 2025 |work=[[Florida Politics]]}}</ref>
+* [[Lamar Fisher]], [[Broward County]] commissioner from the 4th district (2018–present)<ref name=jollyends2/>
+* [[Anne Gannon]], [[Palm Beach County]] tax collector (2006–present) and former [[Florida's 86th House of Representatives district|HD-86]] (2000–2006)<ref name=jollyends/>
+* [[Joe Geller]], [[Miami-Dade County Public Schools]] board member from the 3rd district (2024–present) and former [[Florida's 100th House of Representatives district|HD-100]] (2014–2022)<ref name=jollyends/>
+* [[Steven Geller]], [[Broward County]] commissioner from the 5th district (2016–present) and former [[Florida's 31st Senate district|SD-31]] (2003–2009)<ref name=jollyends/>
+* [[Daniella Levine Cava]], mayor of [[Miami-Dade County, Florida|Miami-Dade County]] (2020–present)<ref>{{Cite web |last=Report |first=Staff |date=June 12, 2026 |title=JUICE🍊— 6.12.2026 — Levine Cava Endorses Jolly for Governor — Trump Assures 'VERY HARD' Strike on Iran — and More... |url=https://floridianpress.com/2026/06/juice%F0%9F%8D%8A-6-12-2026-levine-cava-endorses-jolly-for-governor-trump-assures-very-hard-strike-on-iran-and-more/ |access-date=June 12, 2026 |website=The Floridian |language=en-US}}</ref>
+* [[Amy Mercado]], [[Orange County, Florida|Orange County]] property appraiser (2021–present) and former [[Florida's 48th House of Representatives district|HD-48]] (2016–2020)<ref name=jollyends/>
+* [[Nan Rich]], [[Broward County]] commissioner from the 1st district (2016–present) and former minority leader (2010–2012) from [[Florida's 34th Senate district|SD-34]] (2004–2012)<ref name=jollyends2/>
+* [[Dean Trantalis]], mayor of [[Fort Lauderdale, Florida|Fort Lauderdale]] (2018–present)<ref name=jollyends2/>
+
+;Labor unions
+*[[AFL-CIO|Florida AFL-CIO]]<ref>{{Cite web |last=Costeines |first=Michael |date=June 23, 2026 |title=Florida AFL-CIO, Florida Education Association Endorse David Jolly for Governor |url=https://floridianpress.com/2026/06/florida-afl-cio-florida-education-association-endorse-david-jolly-for-governor/ |access-date=August 12, 2026 |website=The Floridian |language=en-US}}</ref>
+*[[Florida Education Association]]<ref>{{Cite web |last=Costeines |first=Michael |date=June 23, 2026 |title=Florida AFL-CIO, Florida Education Association Endorse David Jolly for Governor |url=https://floridianpress.com/2026/06/florida-afl-cio-florida-education-association-endorse-david-jolly-for-governor/ |access-date=August 12, 2026 |website=The Floridian |language=en-US}}</ref>
+
+;Organizations
+*[[Dolphin Democrats]]<ref>{{Cite web |title=Endorsements |url=https://www.dolphindems.org/category/endorsements/ |access-date=September 1, 2026 |website=dolphindems.org}}</ref>
+*[[Florida Democratic Party]] Hispanic Caucus<ref>{{Cite web |last=Molina |first=Daniel |date=August 7, 2026 |title=Democratic Hispanic Caucus of Florida Endorses David Jolly and Gwen Graham |url=https://floridianpress.com/2026/08/democratic-hispanic-caucus-of-florida-endorses-david-jolly-and-gwen-graham/ |access-date=August 12, 2026 |website=The Floridian |language=en-US}}</ref>
+*[[Florida Democratic Party]] LGBTQ+ Caucus<ref>{{Cite web |last=Williams-Jent |first=Ryan |date=July 14, 2026 |title=Florida LGBTQ+ Democratic Caucus endorses David Jolly for governor, congressional candidates |url=https://watermarkoutnews.com/2026/07/14/florida-lgbtq-democratic-caucus-endorses-david-jolly-for-governor-congressional-candidates/ |access-date=August 12, 2026 |website=Watermark Out News |language=en-US}}</ref>
+
+;Newspapers
+*''[[Miami Herald]]''<ref>{{Cite web |title=Jolly's running mate won't win Florida, but it may save Democrats |work=Miami Herald |author=Miami Herald Editorial Board |url=https://www.miamiherald.com/opinion/editorials/article316075598.html |access-date=September 25, 2026}}</ref>
+*''[[Orlando Sentinel]]''<ref>{{Cite web |date=August 7, 2026 |title=List of Orlando Sentinel's endorsements, recommendations for 2026 August primary |url=https://www.orlandosentinel.com/2026/08/07/list-of-orlando-sentinels-endorsements-recommendations-for-2026-august-primary/ |access-date=August 12, 2026 |website=Orlando Sentinel |language=en-US}}</ref>
+
+
+}}{{Endorsements box|title=Dayna Marie Foster|list=;Organizations
+* [[Orlando, Florida|Orlando]] [[50501 movement|50501]]<ref name="Orlando50501">{{cite web |date=July 28, 2026 |title=Orlando50501 Voter Guide |url=https://orlando50501.org/vote.html |access-date=July 29, 2026}}</ref>
+* Democratic Progressive Caucus of Florida<ref name="DPCF">{{cite web |date=August 6, 2026 |title=Democratic Progressive Caucus of FL endorses Dayna Marie Foster for governor in primary election |url=https://floridaphoenix.com/briefs/democratic-progressive-caucus-of-fl-endorses-dayna-marie-foster-for-governor-in-primary-election/ |access-date=August 7, 2026 |website=Florida Phoenix}}</ref>}}{{Endorsements box
+|title=Jerry Demings ''(withdrawn)''
+|colwidth=60
+|list=
+;U.S. representatives
+* [[Val Demings]], former {{ushr|FL|10|FL-10}} (2017–2023) ''(candidate's spouse)''<ref>{{Cite web |last=Russon |first=Gabrielle |date=November 7, 2025 |title=Val Demings stands in Jerry Demings' corner as Orlando's power couple hits the campaign trail |url=https://floridapolitics.com/archives/764540-val-demings-stands-in-jerry-demings-corner-as-orlandos-power-couple-hits-the-campaign-trail/ |access-date=November 11, 2025 |website=[[Florida Politics]] |language=en-US}}</ref>
+* [[Al Lawson]], former [[FL-05]] (2017–2023)<ref name="BobBu"/>
+* [[Kendrick Meek]], former [[FL-17]] (2003–2011)<ref name="BobBu"/>
+* [[Darren Soto]], [[FL-09]] (2017–present)<ref name="soto1">{{cite web |last1=Russon |first1=Gabrielle |date=March 6, 2026 |title=Jerry Demings lands endorsements from Darren Soto, Buddy Dyer and more |url=https://floridapolitics.com/archives/783715-jerry-demings-lands-endorsements-from-darren-soto-buddy-dyer-and-more/ |access-date=March 7, 2026 |website=Florida Politics}}</ref>
+
+;Statewide officials
+* [[Bob Butterworth]], former [[attorney general of Florida]] (1987–2002)<ref name="BobBu">{{cite web |last1=Russon |first1=Gabrielle |date=March 16, 2026 |title=Jerry Demings says he's gaining support for Governor run |url=https://floridapolitics.com/archives/785506-jerry-demings-says-hes-gaining-support-for-governor-run/ |access-date=March 17, 2026 |website=Florida Politics}}</ref>
+
+;State legislators
+* [[Kristen Arrington]], [[Florida's 25th Senate district|SD-25]] (2024–present)<ref name="soto1"/>
+* [[LaVon Bracy Davis]], [[Florida's 15th Senate district|SD-15]] (2025–present)<ref name=cheering3/>
+* [[Rita Harris (politician)|Rita Harris]], [[Florida's 44th House of Representatives district|HD-44]] (2022–present)<ref name="soto1"/>
+* [[Dianne Hart]], [[Florida's 63rd House of Representatives district|HD-63]] (2018–present)<ref name="BobBu"/>
+* [[Yvonne Hayes Hinson]], [[Florida's 21st House of Representatives district|HD-21]] (2020–present)<ref name="BobBu"/>
+* [[Tony Hill (politician)|Tony Hill]], former [[Florida's 1st Senate district|SD-01]] (2002–2011)<ref name="BobBu"/>
+* [[Johanna López]], [[Florida's 43rd House of Representatives district|HD-43]] (2022–present)<ref name="soto1"/>
+* [[Ed Narain]], former [[Florida's 61st House of Representatives district|HD-61]] (2014–2016)<ref name="soto1"/>
+* [[Michele Rayner]], [[Florida's 62nd House of Representatives district|HD-62]] (2020–present)<ref name="soto1"/>
+* [[Darryl Rouson]], [[Florida's 16th Senate district|SD-16]] (2016–present)<ref name="soto1"/>
+* [[Gary Siplin]], former [[Florida's 19th Senate district|SD-19]] (2002–2012)<ref name="soto1"/>
+* [[Leonard Spencer]], [[Florida's 45th House of Representatives district|HD-45]] (2024–present)<ref name="soto1"/>
+* [[Vic Torres]], [[Florida's 25th Senate district|SD-25]] (2016–2024)<ref name="soto1"/>
+* [[RaShon Young]], [[Florida's 40th House of Representatives district|HD-40]] (2025–present)<ref name="soto1"/>
+
+;Local officials
+* [[Buddy Dyer]], [[Mayor of Orlando|mayor]] of [[Orlando, Florida|Orlando]] (2003–present) and former [[Florida Senate]] Minority Leader (1998–2000) from the [[Florida's 14th Senate district|14th district]] (1992–2002)<ref name="cheering3">{{Cite web |last=Ruson |first=Gabrielle |date=November 6, 2025 |title=Jerry Demings calls for a 'new style of leadership' and change as he launches Governor bid |url=https://floridapolitics.com/archives/764511-jerry-demings-calls-for-a-new-style-of-leadership-and-change-as-he-launches-governor-bid/ |access-date=December 14, 2025 |work=[[Florida Politics]] |language=en-US}}</ref>
+* [[John Mina]], [[Orange County Sheriff's Office (Florida)|sheriff of Orange County]] (2018–present)<ref name=cheering3/>
+* [[Belvin Perry]], former chief judge of the [[Circuit court (Florida)#Circuits|9th juidicial circuit]] (1989–2014)<ref name="soto1"/>
+* [[Bobby Powell (politician)|Bobby Powell]], [[Palm Beach County|Palm Beach County commissioner]] from the 7th district (2024–present)<ref name="BobBu"/>
+
+;Organizations
+* [[National Baptist Convention, USA]]<ref name="BobBu"/>
+* [[Omega Psi Phi]] PAC<ref name="BobBu"/>
+}}
+
+=== Polling ===
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- style="vertical-align:bottom"
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"|Key:<br />A – all adults<br />RV – registered voters<br />LV – likely voters<br />V – unclear}}
+! Margin<br />{{nowrap|of error}}
+! style="width:75px;"| Jerry<br />Demings
+! style="width:75px;"| Dayna Marie<br />Foster
+! style="width:75px;"| David<br />Jolly
+! Other
+! Undecided
+|-
+|style="text-align:left;"rowspan="2"|Targoz Market Research<ref name="TargozJuly2026"/>{{efn-ua|name=JMI}}
+|rowspan="2"|July 20–26, 2026
+|341 (LV)
+|rowspan="2" {{sdash}}
+|{{sdash}}
+|4%
+|{{party shading/Democratic}}|'''47%'''
+|4%{{Efn|Thomas Fernandez with 4%; Evelyn Castillo-Bach with 3%}}
+|42%
+|-
+|389 (RV)
+|{{sdash}}
+|5%
+|{{party shading/Democratic}}|'''42%'''
+|4%{{Efn|Thomas Fernandez with 4%; Evelyn Castillo-Bach with 3%}}
+|{{party shading/Undecided}}|'''46%'''
+|-
+|style="text-align:left;"|[[Change Research]] (D)<ref name="ChangeJuly2026"/>
+|July 9–11, 2026
+|{{sdash}} (LV)
+|{{sdash}}
+|{{sdash}}
+|11%
+|{{party shading/Democratic}}|'''42%'''
+|8%{{Efn|Dotie Joseph at 6%; "Would not vote" at 2%}}
+|40%
+|- style="background:lightyellow;"
+| style="border-right-style:hidden; background:lightyellow;" |
+| style="border-right-style:hidden; " |June 5, 2026
+| colspan="8" | Demings withdraws from the race 
+|-
+|style="text-align:left;"|[[Change Research]] (D)<ref name="ChangeMay2026"/>{{efn-ua|name=FPUSA}}
+|May 13–16, 2026
+|{{sdash}} (LV)
+|{{sdash}}
+|27%
+|{{sdash}}
+|{{party shading/Democratic}}|'''42%'''
+|{{sdash}}
+|31%
+|-
+|style="text-align:left;"|[[Emerson College]]<ref name="EmersonApril2026"/>
+|March 29–31, 2026
+|362 (LV)
+|±&nbsp;4.4%
+|10%
+|2%
+|{{party shading/Democratic}}|'''21%'''
+|16%{{Efn|Evelyn Castillo-Bach with 3%; Kevin Cichowski, Thomas Fernandez, Kenneth Norman, Donald Peterson, and Jessica Vernekar with 2%; Faith Antonio, Richard Dembinsky, Charles Lewis, and Bill Slater with 1%}}
+|{{party shading/Undecided}}|'''53%'''
+|-
+|style="text-align:left;"|Targoz Market Research<ref name="JMIFeb2026"/>{{efn-ua|name=JMI}}
+|February 20–22, 2026
+|471 (RV)
+|±&nbsp;4.4%
+|23%
+|{{sdash}}
+|{{party shading/Democratic}}|'''31%'''
+|2%{{efn|name="WNV2"|"I would not vote" with 2%}}
+|{{party shading/Undecided}}|'''44%'''
+|-
+| style="text-align:left;" |[[Mason-Dixon Polling & Strategy]]<ref name="MasonJan2026" />
+|January 8–13, 2026
+|400 (RV)
+|±&nbsp;5.0%
+|19%
+|{{sdash}}
+| {{party shading/Democratic}} |'''23%'''
+|{{sdash}}
+| {{party shading/Undecided}} |'''58%'''
+|-
+| style="text-align:left;" |[[Public Policy Polling]] (D)<ref>{{cite web |date=December 15, 2025 |title=Florida's Democratic Primary Race for Governor wide-open, but voters have serious concerns about electing a former Republican |url=https://www.politico.com/f/?id=0000019b-2be8-dc32-a7bb-efec4eeb0000&nname=florida-playbook&nid=0000014f-1646-d88f-a1cf-5f46b4500000&nrid=0000015e-5c5d-d2d2-ad5e-fc5ddb950000 |access-date=December 17, 2025 |publisher=GQR |via=[[Politico]]}}</ref>{{Efn-ua|Poll sponsored by Moving Florida Forward, which supports Demings.<ref>{{cite web |last1=Nir |first1=David |last2=Singer |first2=Jeff |date=December 18, 2025 |title=Morning Digest: Another senior House Democrat draws a challenge from a much younger opponent |url=https://www.the-downballot.com/i/181946049/poll-pile |access-date=December 18, 2025 |publisher=The Downballot}}</ref>}}
+|December 2–3, 2025
+|616 (LV)
+|{{sdash}}
+|{{party shading/Democratic}} |'''22%'''
+|{{sdash}}
+|{{party shading/Democratic}} |'''22%'''
+|{{sdash}}
+| {{party shading/Undecided}} |'''56%'''
+|}
+<!-- = = = don't edit the line below = = = -->
+{{hidden begin|titlestyle=background:#cff|title=Hypothetical polling|contentstyle=border:solid 1px silver; padding:8px; background:var(--background-color-base); color:var(--color-base);}}
+<!-- = = = don't edit the line above = = = -->
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- style="vertical-align:bottom"
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"|Key:<br />A – all adults<br />RV – registered voters<br />LV – likely voters<br />V – unclear}}
+! Margin<br />{{nowrap|of error}}
+! style="width:50px;"| Jason<br />Pizzo
+! style="width:50px;"| Daniella Levine<br />Cava
+! style="width:50px;"| Gwen<br />Graham
+! style="width:50px;"| David<br />Jolly
+! style="width:50px;"| Lauren<br />Book
+! style="width:50px;"| Angie<br />Nixon
+! style="width:50px;"| Shevrin<br />Jones
+! style="width:50px;"| Fentrice<br />Driskell
+! Undecided
+|-
+|style="text-align:left;"|Targoz Market Research<ref name="JMIMay2025"/><ref name="JMITabsMay2025"/>{{efn-ua|name=JMI}}
+|May 5–7, 2025
+|396 (RV)
+|{{sdash}}
+|{{sdash}}
+|{{party shading/Democratic}}|'''32%'''
+|13%
+|10%
+|7%
+|6%
+|4%
+|7%
+|21%
+|-
+|style="text-align:left;"|Targoz Market Research<ref name="JMIMay2025"/><ref name="JMITabsApril2025"/>{{efn-ua|name=JMI}}
+|April 15–22, 2025
+|464 (RV)
+|{{sdash}}
+|{{party shading/Democratic}}|'''41%'''
+|15%
+|5%
+|7%
+|4%
+|4%
+|2%
+|1%
+|21%
+|}
+{{hidden end}}
+=== Results ===
+{{switcher|[[File:2026 Florida Democratic gubernatorial primary results by county.svg|thumb|300px|County results
+{{collapsible list
+| title = {{legend|#7996e2|Jolly}}
+|{{legend|#a5b0ff|40–50%}}
+|{{legend|#7996e2|50–60%}}
+|{{legend|#6674de|60–70%}}
+|{{legend|#584cde|70–80%}}
+}}]]|County results
+|[[File:2026 Florida gubernatorial Democratic primary by Congressional District.svg|thumb|300px|Congressional district results
+{{collapsible list
+| title = {{legend|#7996e2|Jolly}}
+|{{legend|#a5b0ff|40–50%}}
+|{{legend|#7996e2|50–60%}}
+|{{legend|#6674de|60–70%}}
+|{{legend|#584cde|70–80%}}
+}}]]|Congressional district results}}
+{{Election box begin no change
+ | title= Democratic primary results}}
+{{Election box winning candidate with party link no change
+ | party=Florida Democratic Party
+ | candidate=[[David Jolly]]
+ | votes=761,558
+ | percentage=61.0}}
+{{Election box candidate with party link no change
+ | party=Florida Democratic Party
+ | candidate=Dayna Marie Foster
+ | votes=189,205
+ | percentage=15.1}}
+{{Election box candidate with party link no change
+ | party=Florida Democratic Party
+ | candidate=[[Dotie Joseph]]
+ | votes=119,825
+ | percentage=9.6}}
+{{Election box candidate with party link no change
+ | party=Florida Democratic Party
+ | candidate=Evelyn Castillo-Bach
+ | votes=96,581
+ | percentage=7.7}}
+{{Election box candidate with party link no change
+ | party=Florida Democratic Party
+ | candidate=Thomas Eloy Fernandez
+ | votes=47,261
+ | percentage=3.8}}
+{{Election box candidate with party link no change
+ | party=Florida Democratic Party
+ | candidate=Stephann Norman
+ | votes=34,922
+ | percentage=2.8}}
+{{Election box total no change|votes=1,249,352|percentage=100.0}}
+{{election box end}}
+
+== Independent and third-party candidates ==
+=== Independent candidates ===
+==== Qualified ====
+* Dean Ocean Abrams ([[Independent politician|Independent]])<ref name="Candidates" />
+* Charles Burkett, Mayor of [[Surfside, Florida|Surfside]] (2006–2010, 2020–2022, 2024–2026) ([[Independent politician|Independent]])<ref name="Candidates" />
+* Jeffery Peter "Dr. Jeff" Datto ([[Independent politician|Independent]])<ref name="Candidates" />
+* [[Moliere Dimanche]] ([[Independent politician|Independent]]), author and withdrawn candidate for [[mayor of Orlando]] in [[2023 Orlando mayoral election|2023]]<ref>{{cite web |date=June 26, 2024 |title=Candidate Tracking System |url=https://dos.elections.myflorida.com/candidates/CanDetail.asp?account=88529 |access-date=June 26, 2024 |publisher=Florida Division of Elections}}</ref>
+*Frank J. Russo ([[Independent politician|Independent]])<ref name="Candidates" />
+
+==== Write-in ====
+*Kathy Anderson ([[Write-in candidate|Write-in]])<ref name="Candidates" />
+*Richard Paul Dembinsky ([[Write-in candidate|Write-in]])<ref name="Candidates" />	 
+*Mohammad Wajid Khan ([[Write-in candidate|Write-in]])<ref name="Candidates" />
+*Erik Morris ([[Write-in candidate|Write-in]])<ref name="Candidates" />
+
+==== Withdrew ====
+*Desmond Meade, voting rights activist<ref>{{cite web |last1=Scheckner |first1=Jesse |date=August 28, 2026 |title=Voting rights activist Desmond Meade withdraws from Governor's race |url=https://floridapolitics.com/archives/817406-voting-rights-activist-desmond-meade-withdraws-from-governors-race/ |access-date=August 28, 2026 |publisher=[[Florida Politics]]}}</ref>
+
+==== Declined ====
+* [[John Morgan (lawyer)|John Morgan]], attorney and billionaire ''(endorsed Donalds)''<ref>{{Cite web |date=April 13, 2026 |title=John Morgan ends speculation, says he won't run for Florida governor |url=https://www.politico.com/news/2026/04/13/john-morgan-not-running-florida-governor-00868976 |access-date=April 13, 2026 |website=Politico |language=en}}</ref><ref name="Donors">{{cite web |date=September 4, 2026 |title=Another analysis upgrades David Jolly's chances in November, contingent on donors backing him |url=https://floridapolitics.com/archives/818486-another-analysis-upgrades-david-jollys-chances-in-november-contingent-on-donors-backing-him/ |access-date=September 4, 2026 |website=Florida Politics}}</ref>
+* [[Jason Pizzo]], former Democratic minority leader of the [[Florida Senate]] (2024–2025) from the [[Florida's 37th Senate district|37th district]] (2018–present)<ref>{{Cite web |last=Leonard |first=Kimberly |date=May 14, 2026 |title=Vetting Jay Collins |url=https://www.politico.com/newsletters/florida-playbook/2026/05/14/vetting-jay-collins-00920365 |access-date=June 10, 2026 |website=[[Politico]] |language=en |quote=State Sen. Jason Pizzo, who once suggested he may run for higher office, is staying put...[Pizzo] had previously said he planned to run for governor with no party affiliation.}}</ref>
+
+=== Libertarian Party ===
+==== Qualified ====
+* Scott Jewett ([[Libertarian Party of Florida|Libertarian]]), entrepreneur<ref>{{Cite web |last=Molina |first=Daniel |date=November 17, 2025 |title=Scott Jewett Announces 'Libertarian 2.0' bid for Florida Governor |url=https://floridianpress.com/2025/11/scott-jewett-announces-libertarian-2-0-bid-for-florida-governor/ |access-date=March 25, 2026 |website=The Floridian |language=en-US}}</ref>
+
+== General election ==
+=== Predictions ===
+{| class="wikitable" style=text-align:center
+!Source
+!Ranking
+!As of
+|-
+|-
+|align=left|''[[The Cook Political Report]]''<ref>{{cite web |title=2026 CPR Governor Race ratings |url=https://www.cookpolitical.com/ratings/governor-race-ratings |access-date=October 1, 2026 |website=[[The Cook Political Report]]}}</ref>
+|{{USRaceRating|Lean|R}}
+|October 1, 2026
+|-
+|align=left|[[Decision Desk HQ]]<ref name="DDHQ">{{cite web |title=2026 Governor Forecast |url=https://votes.decisiondeskhq.com/forecast/2026/governor |access-date=September 30, 2026 |website=Decision Desk HQ}}</ref>
+|{{USRaceRating|Lean|R}}
+|September 30, 2026
+|-
+|align=left|[[Fox News]]<ref>{{cite web |title=Fox News Power Rankings: The top races to watch as 36 states choose their next governor |url=https://www.foxnews.com/politics/fox-news-power-rankings-top-races-watch-36-states-choose-next-governor.amp |access-date=September 30, 2026 |website=[[Fox News]] |date=September 30, 2026 |publisher=Rémy Numa}}</ref>
+|{{USRaceRating|Likely|R}}
+|October 6, 2026
+|-
+|align=left|''[[Inside Elections]]''<ref>{{Cite web |title=Governor |url=https://insideelections.com/ratings/governor/ |access-date=September 30, 2026 |website=[[Inside Elections]]}}</ref>
+|{{USRaceRating|Lean|R}}
+|September 30, 2026
+|-
+|align="left"|[[RealClearPolitics]]<ref>{{Cite web |title=2026 Governor Races {{!}} RealClearPolitics |url=https://www.realclearpolling.com/maps/governor/2026/toss-up |access-date=September 30, 2026 |website=[[RealClearPolitics]] |archive-url=https://web.archive.org/web/20260601183127/https://www.realclearpolling.com/maps/governor/2026/toss-up |archive-date=June 1, 2026 |url-status=dead}}</ref>
+|{{USRaceRating|Tossup}}
+|September 30, 2026
+|-
+|align=left|''[[Sabato's Crystal Ball]]''<ref>{{cite web |title=2026 Governor |url=https://centerforpolitics.org/crystalball/2026-governor/ |access-date=September 30, 2026 |website=[[Sabato's Crystal Ball]]}}</ref>
+|{{USRaceRating|Lean|R}}
+|September 30, 2026
+|-
+| style="text-align: left;" |''[[Silver Bulletin]]''<ref name="Silver">{{Cite web |last1=Silver |first1=Nate |author1-link=Nate Silver |last2=McKown-Dawson |first2=Eli |title=FLIPR 2026 midterm election forecast |url=https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model |access-date=August 20, 2026 |website=[[Silver Bulletin]] |via=[[Substack]]}}</ref>
+| {{US political race rating|Lean|R}}
+|September 13, 2026
+|}
+
+=== Post-primary endorsements ===
+{{Endorsements box
+|title=Byron Donalds (R)
+|list=
+;Statewide officials
+*[[Ron DeSantis]], [[governor of Florida]] (2019–present)<ref>{{cite news |date=September 1, 2026 |title=Florida governor's race: DeSantis backs Byron Donalds as Republicans rally in Tampa |url=https://www.fox13news.com/news/florida-governors-race-desantis-backs-byron-donalds-republicans-rally-tampa |access-date=September 2, 2026 |work=Fox 13 Tampa Bay}}</ref>
+*[[Jay Collins]], [[lieutenant governor of Florida]] (2025–present) and former gubernatorial candidate<ref>{{cite web |last1=Gancarski |first1=A.G. |date=September 22, 2026 |title='Our mission right now is to keep Florida free': Jay Collins endorses Byron Donalds in Governor's race |url=https://floridapolitics.com/archives/821184-our-mission-right-now-is-to-keep-florida-free-jay-collins-endorses-byron-donalds-in-governors-race/ |access-date=September 22, 2026 |publisher=[[Florida Politics]]}}</ref>
+*[[Carlos Lopez-Cantera]], former [[lieutenant governor of Florida]] (2014–2019)<ref name="F1">{{Cite web |date=August 25, 2026 |title='Good dude': Ron DeSantis, other Florida Republicans hail Bryan Ávila LG pick |url=https://floridapolitics.com/archives/816631-good-dude-ron-desantis-other-florida-republicans-hail-bryan-avila-lg-pick/ |access-date=August 25, 2026 |work=Florida Politics}}</ref>
+
+;State legislators
+*[[Paul Renner (politician)|Paul Renner]], former [[List of speakers of the Florida House of Representatives|speaker of the Florida House of Representatives]] (2022–2024) from [[Florida's 19th House of Representatives district|HD-19]] (2015–2024) and former gubernatorial candidate<ref>{{Cite web |date=August 27, 2026 |title=Paul Renner hits trail for Byron Donalds as GOP unifies post-Primary |url=https://floridapolitics.com/archives/817111-paul-renner-hits-trail-for-byron-donalds-as-gop-unifies-post-primary/ |work=Florida Politics}}</ref>
+
+;Local officials
+*[[Cynthia Chestnut]], [[Gainesville, Florida|Gainesville]] city commissioner (1987–1989, 2022–present) ''(Democratic)''<ref name="Donors"/>
+*[[Francis Suarez]], former [[list of mayors of Miami|mayor of Miami]] (2017–2025)<ref name="F1"/>
+
+;Organizations
+*[[Florida Police Benevolent Association]]<ref name="PBA_NRA">{{cite news |last1=Gancarski |first1=A.G. |date=September 14, 2026 |title=Police Benevolent Association, NRA Political Victory Fund back Byron Donalds in Governor's race |url=https://floridapolitics.com/archives/819866-pba-nra-donalds/ |access-date=September 15, 2026 |work=[[Florida Politics]]}}</ref>
+*[[National Fraternal Order of Police|Florida State Lodge Fraternal Order of Police]]<ref>{{cite news |last=Costeines |first=Michael |date=September 8, 2026 |title=Florida State Fraternal Order of Police endorses Byron Donalds for Governor |url=https://floridianpress.com/2026/09/florida-state-fraternal-order-of-police-endorses-byron-donalds-for-governor/ |access-date=September 8, 2026 |publisher=The Floridian}}</ref>
+* [[NRA Political Victory Fund]] (NRA-PVF)<ref>{{cite news |last=Gancarski |first=A.G. |date=September 14, 2026 |title=Police Benevolent Association, NRA Political Victory Fund back Byron Donalds in Governor's race |url=https://floridapolitics.com/archives/819866-pba-nra-donalds/ |access-date=September 15, 2026 |work=[[Florida Politics]]}}</ref>
+
+;Newspapers
+*''[[Washington Reporter]]''<ref>{{cite news |date=August 18, 2026 |title=ENDORSEMENT: Why the Washington Reporter backs Byron Donalds to be Florida's next governor |url=https://washingtonreporter.news/endorsement-why-the-washington-reporter-backs-byron-donalds-to-be-floridas-next-governor/ |access-date=September 15, 2026 |work=Washington Reporter}}</ref>
+}}
+{{Endorsements box
+|title=David Jolly (D)
+|list=
+;Executive branch officials
+*[[Eric Holder]], former [[attorney general of the United States]] (2009–2015) and chair of the [[National Democratic Redistricting Committee]]<ref>{{cite web |title=Eric Holder Endorses David Jolly for Governor of Florida |url=https://democraticredistricting.com/eric-holder-endorses-david-jolly-for-governor-of-florida/ |website=[[National Democratic Redistricting Committee]] |access-date=September 30, 2026 |date=September 28, 2026}}</ref>
+
+;U.S. representatives
+*[[Hakeem Jeffries]], [[Party leaders of the United States House of Representatives|House Minority Leader]] (2023–present) from {{ushr|NY|8|NY-08}} (2013–present)<ref>{{cite web |last1=Gancarski |first1=A.G. |date=September 12, 2026 |title=Hakeem Jeffries endorses David Jolly, Gwen Graham; Byron Donalds camp says 'thank you' |url=https://floridapolitics.com/archives/819718-jeffries-jolly/ |access-date=September 12, 2026 |publisher=[[Florida Politics]]}}</ref>
+
+;Party officials
+*[[Nikki Fried]], chair of the [[Florida Democratic Party]] (2023–present)<ref name="F1"/>
+
+;State legislators
+*[[Angie Nixon]], state representative and Democratic nominee for U.S Senate<ref>https://amp.miamiherald.com/news/politics-government/article317505761.html</ref>
+*[[LaVon Bracy Davis]], [[Florida's 15th Senate district|SD-15]] (2025–present) ''(endorsed Demings in the primary)''<ref name="Jollygenends">{{cite web |last1=Gancarski |first1=A.G. |date=September 12, 2026 |title=After questions about Black support, Black leaders surge to boost David Jolly |url=https://floridapolitics.com/archives/819526-after-questions-about-black-support-black-leaders-surge-to-boost-david-jolly/ |access-date=September 12, 2026 |publisher=[[Florida Politics]]}}</ref>
+*[[Arthenia Joyner]], [[Florida's 19th Senate district|SD-19]] (2006–2016)<ref name=Jollygenends/>
+*[[Sean Shaw]], [[Florida's 61st House of Representatives district|HD-61]] (2016–2018)<ref name=Jollygenends/>
+*[[Marie Woodson]], [[Florida's 105th House of Representatives district|HD-105]] (2020–present)<ref name=Jollygenends/>
+
+;Local officials
+*[[Alvin Brown]], former mayor of [[Jacksonville, Florida|Jacksonville]] (2011–2015)<ref name=Jollygenends/>
+
+;Individuals
+*Bobby Williams, activist and former gubernatorial candidate ''(Republican)''<ref>{{Cite web |last=White |first=Gary |title=Two Polk Republicans say they support Democrat David Jolly {{!}} Exclusive |url=https://www.theledger.com/story/news/politics/elections/local/2026/09/17/two-polk-republicans-endorse-jolly-democratic-candidate-for-governor-polk-county-florida/91780404007/ |access-date=September 18, 2026 |website=The Ledger |language=en-US}}</ref>
+
+;Labor unions
+*[[American Federation of State, County and Municipal Employees|AFSCME]] Florida<ref name=sierrajolly>{{cite web |last1=Scheckner |first1=Jesse |date=September 10, 2026 |title='A different course': Sierra Club Florida backs David Jolly, Gwen Graham in race for Governor |url=https://floridapolitics.com/archives/819322-a-different-course-sierra-club-florida-backs-david-jolly-gwen-graham-in-race-for-governor/ |access-date=September 11, 2026 |publisher=[[Florida Politics]]}}</ref>
+*[[International Association of Machinists and Aerospace Workers]]<ref name=sierrajolly/>
+
+;Organizations
+*[[Sierra Club]] Florida<ref name=sierrajolly/>
+
+;Newspapers
+*''[[Miami Herald]]''<ref>{{cite news |title=Herald endorsement for Florida governor {{!}} Opinion |url=https://www.miamiherald.com/opinion/election-recommendations/article317273434.html |access-date=September 30, 2026 |work=Miami Herald Editorial Board |date=September 30, 2026}}</ref>
+}}
+
+=== Polling ===
+;Aggregate polls
+{| class="wikitable sortable" style="text-align:center;font-size:90%;line-height:17px"
+!Source of poll<br>aggregation
+! Dates<br />administered
+! Dates<br />updated
+! style="width:100px;"| Byron<br />Donalds (R)
+! style="width:100px;"| David<br />Jolly (D)
+! style="width:100px;" |Other/<br />Undecided{{Efn|name=calculated|Calculated by taking the difference of 100% and all other candidates combined.}}
+! Margin
+|-
+|[[270toWin]]<ref>{{cite web |title=2026 Polls: Florida Governor |url=https://www.270towin.com/2026-governor-polls/florida |access-date=October 8, 2026 |website=[[270toWin]]}}</ref>
+|September 17–28, 2026
+|September 28, 2026
+|{{party shading/Republican}} |'''47.0%'''
+|43.3%
+|9.7%
+|{{party shading/Republican}} |'''Donalds +3.7%'''
+|-
+|[[Decision Desk HQ]]<ref>{{cite web |title=2026 Florida Governor |url=https://votes.decisiondeskhq.com/races/2026-11-03/florida-governor-general-election/polling |access-date=September 9, 2026 |website=[[Decision Desk HQ]]}}</ref>
+|through October 7, 2026
+|October 8, 2026
+|{{party shading/Republican}} |'''47.4%'''
+|43.3%
+|9.3%
+|{{party shading/Republican}} |'''Donalds +4.1%'''
+|-
+|[[FiftyPlusOne]]<ref>{{cite web|title=Florida General Governor Election|url=https://fiftyplusone.news/polls/governor/general/florida|publisher=[[FiftyPlusOne]]|access-date=October 8, 2026}}</ref>
+|through October 7, 2026
+|October 8, 2026
+|{{party shading/Republican}} |'''47.1%'''
+|43.2%
+|9.9%
+|{{party shading/Republican}} |'''Donalds +3.9%'''
+|-
+|[[RealClearPolitics]]<ref>{{cite web |title=2026 Florida Governor - Donalds vs. Jolly |url=https://www.realclearpolling.com/polls/governor/general/2026/florida/donalds-vs-jolly |access-date=September 9, 2026 |website=[[RealClearPolitics]]}}</ref>
+|September 14 – October 7, 2026
+|October 8, 2026
+|{{party shading/Republican}} |'''47.8%'''
+|42.5%
+|9.7%
+|{{party shading/Republican}} |'''Donalds +5.3%'''
+|-
+|''[[Silver Bulletin]]''<ref name="Silver"/>
+|through October 5, 2026
+|October 6, 2026
+|{{party shading/Republican}} |'''46.8%'''
+|43.1%
+|10.1%
+|{{party shading/Republican}} |'''Donalds +3.7%'''
+|-
+|colspan="3"|'''Average'''
+|{{party shading/Republican}}|'''47.2%'''
+|43.1%
+|9.8%
+|{{party shading/Republican}}|'''Donalds +4.1%'''
+|}
+
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- style="vertical-align:bottom"
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"|Key:<br />A – all adults<br />RV – registered voters<br />LV – likely voters<br />V – unclear}}
+! Margin<br />of error
+! style="width:100px;"| Byron<br />Donalds (R)
+! style="width:100px;"| David<br />Jolly (D)
+! Other
+! Undecided
+|-
+| style="text-align:left;|St. Pete Polls<ref>{{cite web |title=Florida Statewide survey conducted for FloridaPolitics.com |url=https://www.stpetepolls.org/files/StPetePolls_2026_State_Gov_October7_K7ZU3GA.pdf |publisher=St. Pete Polls |access-date=October 8, 2026 |date=October 7, 2026}}</ref>{{Efn-ua|name=FP}}
+|October 5–7, 2026
+|836 (LV)
+|±&nbsp;3.4%
+|'''45%'''
+|'''45%'''
+|4%{{Efn|"Someone else" with 4%}}
+|7%
+|-
+| style="text-align:left;|[[YouGov]]<ref>{{cite web|title=Florida General Election 2026 – Likely Voters|url=https://d3nkl3psvxxpe9.cloudfront.net/documents/ttw_fl_20260921_lv.pdf |website=[[YouGov]] |date=October 6, 2026 |access-date=October 6, 2026}}</ref>
+|September 28 – October 5, 2026
+|3,813 (LV)
+|±&nbsp;2.7%
+|{{party shading/Republican}}|'''47%'''
+|45%
+|1%
+|7%
+|-
+| style="text-align:left;|James Madison Institute<ref>{{cite web|title=Marginals|url=https://jamesmadison.org/wp-content/uploads/JMI-October-2026-Poll-Marginals.pdf |website=James Madison Institute |date=October 6, 2026 |access-date=October 9, 2026}}</ref>
+|September 28 – October 4, 2026
+|1,174 (LV)
+|±&nbsp;2.8%
+|{{party shading/Republican}}|'''52%'''
+|42%
+|3%
+|3%
+|-
+| style="text-align:left;|[[Mason-Dixon Polling & Strategy|Mason-Dixon]]<ref>{{cite web|title=NBC 6/Telemundo Station Group Florida Voter Poll |url=https://s3.documentcloud.org/documents/28724874/fl1026results.pdf |website=[[Mason-Dixon Polling & Strategy]] |date=October 6, 2026 |access-date=October 6, 2026}}</ref>
+|September 28 – October 1, 2026
+|625 (LV)
+|±&nbsp;4.0%
+|{{party shading/Republican}}|'''48%'''
+|41%
+|1%
+|10%
+|-
+|style="text-align:left;"|[[Change Research]] (D)<ref>{{cite web |title=Florida AAPOR Methodology Statement September 25-27, 2026|url=https://changeresearch.com/research/2026/2026-09-28-florida-aapor-methodology-statement|publisher=Change Research|access-date=September 29, 2026}}</ref>{{efn-ua|name=FPUSA}}
+|September 25–27, 2026
+|1,063 (LV)
+|±&nbsp;2.8%
+|46%
+|{{party shading/Democratic}}|'''48%'''
+|1%{{Efn|name=WNV1|"Would not vote" with 1%}}
+|5%
+|-
+|style="text-align:left;"|[[Stetson University]]<ref>{{cite web |date=September 24, 2026 |title=Poll: Republicans Hold Double-Digit Leads in Florida Governor, U.S. Senate Races |url=https://www.stetson.edu/artsci/cpor/media/cpor-sept.-2026-poll-final.pdf |access-date=September 24, 2026 |publisher=Stetson University}}</ref>
+|September 14–21, 2026
+|830 (LV)
+|±{{nbsp}}4.3%
+|{{party shading/Republican}}|'''51%'''
+|39%
+|5%
+|5%
+|-
+|style="text-align:left;"|St. Pete Polls<ref>{{cite web |date=September 17, 2026 |title=Florida Statewide survey conducted for FloridaPolitics.com |url=http://stpetepolls.org/files/StPetePolls_2026_State_Gov_September17_G7V29XU6.pdf |access-date=September 18, 2026 |publisher=St. Pete Polls}}</ref>{{Efn-ua|name=FP|Poll sponsored by [[Florida Politics]]}}
+|September 15–17, 2026
+|913 (LV)
+|±{{nbsp}}3.2%
+|{{party shading/Republican}}|'''44%'''
+|43%
+|4%{{efn|"Someone else" with 4%}}
+|9%
+|-
+|style="text-align:left;"|[[Change Research]] (D)<ref>{{Cite web |date=September 10, 2026 |title=Florida {{!}} AAPOR Methodology Statement {{!}} September 7–9, 2026 |url=https://changeresearch.com/research/2026/2026-09-10-florida-aapor-methodology-statement |access-date=September 10, 2026 |website=Change Research}}</ref>{{Efn-ua|name=FPUSA}}
+|September 7–9, 2026
+|1,107 (LV)
+|±{{nbsp}}2.8%
+|44%
+|{{party shading/Democratic}}|'''47%'''
+|1% {{efn|name="WNV1"|}}
+|7%
+|-
+|- style="background:lightyellow;"
+| style="border-right-style:hidden; background:lightyellow;" |
+| style="border-right-style:hidden; " | August 18, 2026
+| colspan="16"| Primary elections
+|-
+| style="text-align: left;" |Hart Research Associates (D)<ref>{{Cite web |date=2026 |title=New Poll Shows David Jolly Leading Congressman Byron Donalds in the Florida Governor's Race |url=https://democraticgovernors.org/updates/new-poll-shows-david-jolly-leading-congressman-byron-donalds-in-the-florida-governors-race/ |access-date=August 19, 2026 |website=DGA |language=en}}</ref>{{Efn-ua|Poll sponsored by the [[Democratic Governors Association]]}}
+|August 10–13, 2026
+|600 (LV)
+|±&nbsp;4.0%
+|45%
+|{{party shading/Democratic}}|'''46%'''
+|{{sdash}}
+|9%
+|-
+|style="text-align:left;"rowspan="2"|Targoz Market Research<ref name="TargozJuly2026"/>{{efn-ua|name=JMI}}
+|rowspan="2"|July 20–26, 2026
+|1,026 (LV)
+|{{sdash}}
+|{{party shading/Republican}}|'''45%'''
+|38%
+|{{sdash}}
+|17%
+|-
+|1,338 (RV)
+|±&nbsp;2.62%
+|{{party shading/Republican}}|'''40%'''
+|36%
+|{{sdash}}
+|24%
+|-
+|style="text-align:left;"|[[University of North Florida]]<ref>{{Cite web |date=July 20, 2026 |title=UNF Poll: Support for Property Tax Amendment Hinges on Contested Ballot Language – Donalds, Moody Maintain Single-Digit Leads in November Governor, Senate Races |url=https://www.unfporl.org/presser-page |access-date=July 20, 2026 |website=[[University of North Florida]]}}</ref>
+|July 8–17, 2026
+|848 (LV)
+|±&nbsp;3.8%
+|{{party shading/Republican}}|'''46%'''
+|41%
+|7%{{efn|"Someone else" with 5%; "Wouldn't vote" with 2%}}
+|6%
+|-
+| rowspan="2" style="text-align:left;"|[[Change Research]] (D)<ref>{{cite web |last=Clermont |first=Stephen |date=July 15, 2026 |title=Florida, Florida, Florida |url=https://changeresearch.com/florida-florida-florida/ |access-date=July 15, 2026 |website=[[Change Research]]}}</ref>
+| rowspan="2"|July 9–11, 2026
+| rowspan="2"|1,348 (RV)
+| rowspan="2"|±&nbsp;2.8%
+|'''37%'''
+|'''37%'''
+|11%{{efn|"Would not Vote" with 6%; Desmond Meade (I) with 5%}}
+|16%
+|-
+|40%
+|{{party shading/Democratic}}|'''41%'''
+|7%{{efn|name="WNV7"|"Would not Vote" with 7%}}
+|12%
+|-
+|style="text-align:left;" rowspan='2"|[[Change Research]] (D)<ref name="ChangeMay2026"/><ref name="FPUSATabs">{{Cite web |title=Florida – Crosstabs – May 13–16, 2026 – Client Copy |url=https://www.freedomprojectusa.org/florida-crosstabs-may-13-16-2026.pdf |access-date=July 16, 2026 |work=Freedom Project USA}}</ref>{{efn-ua|name=FPUSA|Poll commissioned by Freedom Project USA}}
+|rowspan='2"|May 13–16, 2026
+|1,593 (LV)
+|rowspan='2"|±&nbsp;2.3%
+|42%
+|{{party shading/Democratic}}|'''46%'''
+|4%{{efn|name="WNV4"|"Would not vote" with 4%}}
+|8%
+|-
+|2,070 (RV)
+|{{party shading/Republican}}|'''43%'''
+|41%
+|6%{{efn|name="WNV6"|"Would not vote" with 6%}}
+|10%
+|-
+|style="text-align: left;" |Cherry Communications (R)<ref name="CherryMay2026"/>{{efn-ua|name=FLChamber}}
+|May 1–9, 2026
+|604 (LV)
+|±&nbsp;4.0%
+|{{party shading/Republican}}|'''47%'''
+|39%
+|{{sdash}}
+|14%
+|-
+|style="text-align:left;"|[[Stetson University]]<ref name=Stetson4.24/>
+|March 15 – April 13, 2026
+|848 (LV)
+|±&nbsp;4.1%
+|{{party shading/Republican}}|'''47%'''
+|40%
+|{{sdash}}
+|7%
+|-
+|style="text-align: left;" |Echelon Insights<ref name="EchelonApr2026"/>{{efn-ua|name=Net}}
+|April 3–9, 2026
+|406 (LV)
+|±&nbsp;6.0%
+|{{party shading/Republican}}|'''49%'''
+|43%
+|{{sdash}}
+|8%
+|-
+|style="text-align:left;"|MDW Communications (D)<ref>{{Cite web |last=Scheckner |first=Jesse |date=April 13, 2026 |title=Poll: Democrats gaining ground, key races tighten in Florida as Donald Trump drags GOP |url=https://floridapolitics.com/archives/790357-poll-democrats-gaining-ground-key-races-tighten-in-florida-as-donald-trump-drags-gop/ |access-date=April 13, 2026 |website=[[Florida Politics]]}}</ref>{{Efn-ua|name=EdgeComm|Poll sponsored by Edge Communications}}
+|March 27 – April 3, 2026
+|1,834 (LV)
+|±&nbsp;2.0%
+|'''41%'''
+|'''41%'''
+|{{sdash}}
+|18%
+|-
+|style="text-align:left;"|[[Emerson College]]<ref name="EmersonApril2026"/>
+|March 29–31, 2026
+|1,165 (LV)
+|±&nbsp;2.8%
+|{{party shading/Republican}}|'''44%'''
+|39%
+|2%{{efn|name="SE2"}}
+|17%
+|-
+|style="text-align:left;"|[[University of North Florida]]<ref name="UNFMarch2026">{{Cite web |last=Man |first=Anthony |date=March 4, 2026 |title=Florida poll shows Republicans lead Democrats in statewide races — but only by single digits |url=https://www.orlandosentinel.com/2026/03/04/florida-poll-shows-republicans-lead-democrats-in-statewide-races-but-only-by-single-digits/ |access-date=March 4, 2026 |website=[[Orlando Sentinel]]}}</ref>
+|February 21 – March 2, 2026
+|786 (LV)
+|±&nbsp;4.0%
+|{{party shading/Republican}}|'''42%'''
+|36%
+|5%
+|17%
+|-
+|style="text-align:left;"|Targoz Market Research<ref name="JMIFeb2026"/>{{efn-ua|name=JMI}}
+|February 13–16, 2026
+|1,129 (LV)
+|±&nbsp;2.8%
+|{{party shading/Republican}}|'''41%'''
+|36%
+|6%{{efn|Jason Pizzo (I) with 6%}}
+|12%
+|-
+|style="text-align:left;"|[[University of North Florida]]<ref name="UNFOct2025">{{Cite web |date=October 28, 2025 |title=Potential Republicans lead Democrats in Florida midterm matchups |url=https://www.unfporl.org/uploads/1/4/4/5/144559024/unf_porl_fall_statewide_2025_lv_-_press_release.pdf |access-date=October 28, 2025 |website=[[University of North Florida]]}}</ref>
+|October 15–25, 2025
+|728 (LV)
+|±&nbsp;4.3%
+|{{party shading/Republican}}|'''45%'''
+|34%
+|3%{{efn|"Someone else", "Wouldn't vote", and "Refusal" with 1%}}
+|18%
+|-
+|style="text-align:left;"|Targoz Market Research<ref name="JMISept2025"/>{{efn-ua|name=JMI}}
+|September 16–18, 2025
+|1,118 (RV)
+|±&nbsp;2.8%
+|{{party shading/Republican}}|'''36%'''
+|32%
+|4%{{efn|Jason Pizzo (I) with 4%}}
+|28%
+|-
+|style="text-align:left;"|Bendixen & Amandi International (D)<ref name="B&AI">{{cite web |last1=Taylor |first1=Janelle |date=September 10, 2025 |title=Poll: David Jolly in dead heat with Byron Donalds, Paul Renner |url=https://floridapolitics.com/archives/755557-poll-david-jolly-in-dead-heat-with-byron-donalds-paul-renner/ |access-date=September 11, 2025 |publisher=[[Florida Politics]]}}</ref>{{Efn-ua|name=Jolly|Poll sponsored by Jolly's campaign}}
+|September 7–9, 2025
+|631 (LV)
+|±&nbsp;4.0%
+|40%
+|{{party shading/Democratic}}|'''41%'''
+|{{sdash}}
+|19%
+|-
+|style="text-align:left;"|AIF Center (R)<ref>{{cite web |last=Ogles |first=Jacob |date=September 11, 2025 |title=New poll shows Byron Donalds with 8-point edge on David Jolly |url=https://floridapolitics.com/archives/755696-new-poll-shows-byron-donalds-with-8-point-edge-on-david-jolly/ |access-date=September 11, 2025 |website=[[Florida Politics]]}}</ref>
+|August 25–27, 2025
+|800 (LV)
+|±&nbsp;3.5%
+|{{party shading/Republican}}|'''49%'''
+|41%
+|{{sdash}}
+|11%
+|-
+|style="text-align:left;"|Victory Insights (R)<ref>{{cite web |last=Galbraith |first=Ben |date=June 11, 2025 |title=Polling Memo: Byron Donalds Leads David Jolly for Governor of Florida |url=https://irp.cdn-website.com/07e08705/files/uploaded/PollSummary_FL-Gov_06-11-2025.pdf |access-date=June 11, 2025 |publisher=Victory Insights}}</ref>
+|June 7–10, 2025
+|600 (LV)
+|±&nbsp;2.8%
+|{{party shading/Republican}}|'''37%'''
+|31%
+|{{sdash}}
+|32%
+|}
+
+<!-- = = = don't edit the line below = = = -->
+{{hidden begin|titlestyle=background:#cff|title=Hypothetical polling|contentstyle=border:solid 1px silver; padding:8px; background:var(--background-color-base); color:var(--color-base);}}
+<!-- = = = don't edit the line above = = = -->
+'''Jay Collins vs. David Jolly'''
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- style="vertical-align:bottom"
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"|Key:<br />A – all adults<br />RV – registered voters<br />LV – likely voters<br />V – unclear}}
+! Margin<br />of error
+! style="width:100px;"| Jay<br />Collins (R)
+! style="width:100px;"| David<br />Jolly (D)
+! Other
+! Undecided
+|-
+|style="text-align:left;"rowspan="2"|Targoz Market Research<ref name="TargozJuly2026"/>{{efn-ua|name=JMI}}
+|rowspan="2"|July 20–26, 2026
+|1,027 (LV)
+|{{sdash}}
+|{{party shading/Republican}}|'''44%'''
+|39%
+|{{sdash}}
+|17%
+|-
+|1,332 (RV)
+|±&nbsp;2.62%
+|{{party shading/Republican}}|'''40%'''
+|37%
+|{{sdash}}
+|23%
+|-
+|}
+
+'''James Fishback vs. David Jolly'''<br />
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- style="vertical-align:bottom"
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"}}
+! Margin<br />of error
+! style="width:100px;"| James<br />Fishback (R)
+! style="width:100px;"| David<br />Jolly (D)
+! Undecided
+|-
+| style="text-align:left;"|Keystone Analytics<ref name="KeystoneApr2026">{{Cite tweet |number=2044137177014034563 |user=PollTracker2024 |title=Keystone Analytics poll – 3/27-4/6 LV |access-date=April 14, 2026}}</ref>
+|March 27 – April 6, 2026
+|795 (LV)
+|±&nbsp;3.5%
+|{{party shading/Republican}}|'''44%'''
+|40%
+|16%
+|}
+
+'''Paul Renner vs. David Jolly'''
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- style="vertical-align:bottom"
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"}}
+! Margin<br />of error
+! style="width:100px;"| Paul<br />Renner (R)
+! style="width:100px;"| David<br />Jolly (D)
+! Other
+! Undecided
+|-
+|style="text-align:left;"|Targoz Market Research<ref name="JMISept2025"/>{{efn-ua|name=JMI}}
+|September 16–18, 2025
+|1,123 (RV)
+|±&nbsp;2.8%
+|{{party shading/Republican}}|'''34%'''
+|33%
+|5%{{efn|Jason Pizzo (I) with 5%}}
+|28%
+|-
+|style="text-align:left;"|Bendixen & Amandi International (D)<ref name=B&AI/>{{Efn-ua|name=Jolly}}
+|September 7–9, 2025
+|631 (LV)
+|±&nbsp;4.0%
+|{{party shading/Republican}}|'''42%'''
+|40%
+|{{sdash}}
+|18%
+|}
+
+'''Byron Donalds vs. Jerry Demings'''
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- style="vertical-align:bottom"
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"}}
+! Margin<br />of error
+! style="width:100px;"| Byron<br />Donalds (R)
+! style="width:100px;"| Jerry<br />Demings (D)
+! Other
+! Undecided
+|-
+|style="text-align:left;" rowspan='2"|[[Change Research]] (D)<ref name="ChangeMay2026"/><ref name="FPUSATabs"/>{{efn-ua|name=FPUSA}}
+|rowspan='2"|May 13–16, 2026
+|1,593 (LV)
+|rowspan='2"|±&nbsp;2.3%
+|42%
+|{{party shading/Democratic}}|'''46%'''
+|4%{{efn|name="WNV4"}}
+|8%
+|-
+|2,070 (RV)
+|{{party shading/Republican}}|'''43%'''
+|40%
+|6%{{efn|name="WNV5"|"Would not vote" with 5%}}
+|12%
+|-
+|style="text-align: left;" |Cherry Communications (R)<ref name="CherryMay2026">{{Cite web |date=May 15, 2026 |title=New Florida Chamber Statewide Poll Shows Ashley Moody, Byron Donalds Leading Potential Democratic Opponents in November Ballot Test |url=https://www.flchamber.com/new-florida-chamber-statewide-poll-shows-ashley-moody-byron-donalds-leading-potential-democratic-opponents-in-november-ballot-test/ |access-date=May 16, 2026 |website=[[Florida Chamber of Commerce]]}}</ref>{{efn-ua|name=FLChamber|Poll sponsored by the [[Florida Chamber of Commerce]]}}
+|May 1–9, 2026
+|604 (LV)
+|±&nbsp;4.0%
+|{{party shading/Republican}}|'''48%'''
+|39%
+|{{sdash}}
+|13%
+|-
+|style="text-align:left;"|[[Stetson University]]<ref name="Stetson4.24">{{cite web |date=April 24, 2026 |title=Stetson Poll: Republicans Lead in Florida 2026 Races, But Many Voters Undecided |url=https://www2.stetson.edu/today/2026/04/stetson-poll-republicans-lead-in-florida-2026-races-but-many-voters-still-undecided/ |access-date=April 25, 2026 |publisher=[[Stetson University]]}}</ref>
+|March 15 – April 13, 2026
+|848 (LV)
+|±&nbsp;4.1%
+|{{party shading/Republican}}|'''46%'''
+|42%
+|{{sdash}}
+|7%
+|-
+|style="text-align: left;" |Echelon Insights<ref name="EchelonApr2026">{{Cite web |date=April 21, 2026 |title=NetChoice — April 2026 Antitrust Survey — Topline |url=https://netchoice.org/wp-content/uploads/2026/04/NetChoice-Apr-2026-National-Antitrust-Survey-Topline.pdf |access-date=April 21, 2026 |work=Echelon Insights}}</ref>{{efn-ua|name=Net|Poll commissioned by [[NetChoice]]}}
+|April 3–9, 2026
+|406 (LV)
+|±&nbsp;6.0%
+|{{party shading/Republican}}|'''48%'''
+|44%
+|{{sdash}}
+|8%
+|-
+|style="text-align:left;"|[[Emerson College]]<ref name="EmersonApril2026"/>
+|March 29–31, 2026
+|1,165 (LV)
+|±&nbsp;2.8%
+|{{party shading/Republican}}|'''45%'''
+|36%
+|2%{{efn|name="SE2"|"Someone else" with 2%}}
+|19%
+|-
+|style="text-align:left;"|[[University of North Florida]]<ref name="UNFMarch2026"/>
+|February 21 – March 2, 2026
+|786 (LV)
+|±&nbsp;4.0%
+|{{party shading/Republican}}|'''43%'''
+|36%
+|5%
+|16%
+|-
+|style="text-align:left;"|[[University of North Florida]]<ref name="UNFOct2025"/>
+|October 15–25, 2025
+|728 (LV)
+|±&nbsp;4.3%
+|{{party shading/Republican}}|'''45%'''
+|33%
+|5%{{efn|name="SE2WV2R1"}}
+|17%
+|}
+
+'''Byron Donalds vs. Daniella Levine Cava vs. Jason Pizzo'''<br />
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- style="vertical-align:bottom"
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"}}
+! Margin<br />of error
+! style="width:100px;"| Byron<br />Donalds (R)
+! style="width:100px;"| Daniella Levine<br />Cava (D)
+! style="width:100px;"| Jason<br />Pizzo (I)
+! Undecided
+|-
+|style="text-align:left;"|Targoz Market Research<ref name="JMIMay2025"/><ref name="JMITabsMay2025"/>{{efn-ua|name=JMI}}
+|May 5–7, 2025
+|1,200 (RV)
+|±&nbsp;2.8%
+|{{party shading/Republican}}|'''38%'''
+|34%
+|5%
+|23%
+|}
+
+'''Casey DeSantis vs. David Jolly'''<br />
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- style="vertical-align:bottom"
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"}}
+! Margin<br />of error
+! style="width:100px;"| Casey<br />DeSantis (R)
+! style="width:100px;"| David<br />Jolly (D)
+! Other
+! Undecided
+|-
+|style="text-align:left;"|[[Emerson College]]<ref name="EmersonApril2026"/>
+|March 29–31, 2026
+|1,165 (LV)
+|±&nbsp;2.8%
+|39%
+|{{party shading/Democratic}}|'''40%'''
+|3%{{efn|name="SE3"|"Someone else" with 3%}}
+|19%
+|-
+|style="text-align:left;"|[[University of North Florida]]<ref name="UNFOct2025"/>
+|October 15–25, 2025
+|728 (LV)
+|±&nbsp;4.3%
+|{{party shading/Republican}}|'''47%'''
+|34%
+|5%{{efn|name="SE2WV2R1"|"Someone else" and "Wouldn't vote" with 2%; "Refusal" with 1%}}
+|14%
+|}
+
+'''Casey DeSantis vs. Jerry Demings'''<br />
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- style="vertical-align:bottom"
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"}}
+! Margin<br />of error
+! style="width:100px;"| Casey<br />DeSantis (R)
+! style="width:100px;"| Jerry<br />Demings (D)
+! Other
+! Undecided
+|-
+|style="text-align:left;"|[[Emerson College]]<ref name="EmersonApril2026"/>
+|March 29–31, 2026
+|1,165 (LV)
+|±&nbsp;2.8%
+|{{party shading/Republican}}|'''41%'''
+|39%
+|3%{{efn|name="SE3"}}
+|17%
+|-
+|style="text-align:left;"|[[University of North Florida]]<ref name="UNFOct2025"/>
+|October 15–25, 2025
+|728 (LV)
+|±&nbsp;4.3%
+|{{party shading/Republican}}|'''47%'''
+|36%
+|6%{{efn|"Someone else", "Wouldn't vote", and "Refusal" with 2%}}
+|11%
+|}
+
+'''Casey DeSantis vs. Daniella Levine Cava vs. Jason Pizzo'''<br />
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- style="vertical-align:bottom"
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"}}
+! Margin<br />of error
+! style="width:100px;"| Casey<br />DeSantis (R)
+! style="width:100px;"| Daniella Levine<br />Cava (D)
+! style="width:100px;"| Jason<br />Pizzo (I)
+! Undecided
+|-
+|style="text-align:left;"|Targoz Market Research<ref name="JMIMay2025"/><ref name="JMITabsMay2025"/>{{efn-ua|name=JMI}}
+|May 5–7, 2025
+|1,200 (RV)
+|±&nbsp;2.8%
+|{{party shading/Republican}}|'''39%'''
+|35%
+|8%
+|18%
+|}
+
+'''Generic Republican vs. generic Democrat'''<br />
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- style="vertical-align:bottom"
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"}}
+! Margin<br />of error
+! style="width:100px;"| Generic<br />Republican
+! style="width:100px;"| Generic<br />Democrat
+! Undecided
+|-
+|style="text-align:left;"|Cygnal (R)<ref>{{Cite web |date=September 4, 2025 |title=Survey of Likely 2026 General Election Voters – Florida Stateweide |url=https://cleanenergyconservatives.com/wp-content/uploads/2019/02/232432-CEN-FL.pdf#page=11 |access-date=September 19, 2025 |website=Cygnal}}</ref>{{efn-ua|name=CCE|Poll sponsored by Conservatives for Clean Energy}}
+|August 25–27, 2025
+|1,000 (LV)
+|±&nbsp;3.1%
+|{{party shading/Republican}}|'''51%'''
+|38%
+|11%
+|-
+|style="text-align:left;"|Cygnal (R)<ref>{{Cite web |date=October 30, 2024 |title=Survey of Likely General Election Voters – Florida Stateweide |url=https://www.cygn.al/wp-content/uploads/2024/10/22701-Cygnal-FL-Deck.pdf |access-date=April 24, 2025 |website=Cygnal}}</ref>
+|October 26–28, 2024
+|600 (LV)
+|±&nbsp;4.0%
+|{{party shading/Republican}}|'''48%'''
+|41%
+|11%
+|}
+
+{{hidden end}}
+
+=== Results ===
+{{Election box begin
+| title = 2026 Florida gubernatorial election
+}}
+{{Election box candidate with party link|candidate=[[Byron Donalds]]<br />[[Bryan Avila]]|party=Republican Party (United States)|votes=|percentage=|change=}}
+{{Election box candidate with party link|candidate=[[David Jolly]]<br />[[Gwen Graham]]|party=Democratic Party (United States)|votes=|percentage=|change=}}
+{{Election box candidate with party link|candidate=Scott Eckhard Jewett<br />Nicole Skelly|party=Libertarian Party of Florida|votes=|percentage=|change=}}
+{{Election box candidate with party link|candidate=Charles Burkett<br />Ruben A. Coto|party=Independent|votes=|percentage=|change=}}
+{{Election box candidate with party link|candidate=Frank J. Russo<br />Rachel Rodriguez|party=Independent|votes=|percentage=|change=}}
+{{Election box candidate with party link|candidate=[[Moliere Dimanche]]<br />Benjiman Rojas|party=Independent|votes=|percentage=|change=}}
+{{Election box candidate with party link|candidate=Dean Ocean Abrams<br />Joe Van Victor|party=Independent|votes=|percentage=|change=}}
+{{Election box candidate with party link|candidate=Jeffrey Peter Datto<br />Juan Santana|party=Independent|votes=|percentage=|change=}}
+{{Election box write-in with party link|votes=|percentage=|change=}}
+{{Election box total
+| votes = 
+| percentage = 100.0%
+| change = N/A
+}}
+{{Election box end}}
+
+== See also ==
+* [[List of governors of Florida]]
+* [[2026 United States gubernatorial elections]]
+
+== Notes ==
+{{notelist}}
+'''Partisan clients'''<br />
+{{notelist-ua}}
+
+== References ==
+<references />
+
+== External links ==
+'''Official campaign websites'''
+* [https://nomoecorruption.com/ Moliere Dimanche (I)]
+* [https://byrondonalds.com/ Byron Donalds (R)]
+* [https://www.scottjewett.com/ Scott Jewett (L)]
+* [https://davidjolly.com/ David Jolly (D)]
+* [https://desmondmeade.com/ Desmond Meade (I)]
+* [https://russo2026.com/ Frank Russo (I)]
+
+{{2026 United States elections}}
+{{FlGovElections}}
+
+[[Category:Florida gubernatorial elections]]
+[[Category:2026 United States gubernatorial elections|Florida]]
+[[Category:2026 Florida elections|Gubernatorial]]

@@ -1,0 +1,1526 @@
+{{pp|small=yes}}
+{{short description|none}}
+{{for|related races|2026 United States gubernatorial elections}}
+{{Use American English|date=January 2025}}
+{{Use mdy dates|date=January 2026}}
+{{Infobox election
+| election_name = 2026 New York gubernatorial election
+| country = New York
+| type = presidential
+| ongoing = yes
+| previous_election = 2022 New York gubernatorial election
+| previous_year = 2022
+| next_election = 2030 New York gubernatorial election
+| next_year = 2030
+| election_date = November 3, 2026
+| image_size = 150x150px
+| image1 = World Cup Transportation and Safety (cropped) (cropped).jpg
+| nominee1 = [[Kathy Hochul]]
+| party1 = Democratic Party (United States)
+| alliance1 = {{nowrap|[[Working Families Party|Working Families]]}}
+| running_mate1 = [[Adrienne Adams (politician)|Adrienne Adams]]
+| popular_vote1 = 
+| percentage1 = 
+| image2 = File:Donald J. Trump delivers remarks on the economy at Rockland Community College in Suffern, New York on Friday, May 22, 2026 - 17 (cropped).jpg
+| nominee2 = [[Bruce Blakeman]]
+| running_mate2 = Todd Hood
+| party2 = [[Republican Party (United States)|Republican]]
+| alliance2 = {{collapsible list
+ | titlestyle = font-weight:normal;background:transparent;text-align:right;
+ | title = ''Parties''
+ | [[Conservative Party of New York State|Conservative]]
+ | {{nowrap|Vote Affordable<ref name="VoteAffordable">{{Cite web |last1=Golden |first1=Vaughn |url=https://nypost.com/2026/05/27/us-news/gop-ny-governor-hopeful-bruce-blakeman-mounts-vote-affordable-party-effort/ |title=GOP NY governor hopeful Bruce Blakeman mounts 'Vote Affordable Party' effort |date=2026-05-27 |access-date=2026-08-27 |website=[[New York Post]] |language=en-US}}</ref>}}
+}}
+| title = [[Governor of New York|governor]]
+| before_election = [[Kathy Hochul]]
+| before_party = Democratic Party (United States)
+| after_election = 
+| after_party = 
+}}{{ElectionsNY}}
+The '''2026 New York gubernatorial election''' is scheduled to take place on November 3, 2026, to elect the [[governor of New York]]. Incumbent [[Democratic Party (United States)|Democratic]] governor [[Kathy Hochul]] is running for re-election to a second full term.<ref name="HochulRunning">{{Cite web |last=Parsnow |first=Luke |date=July 2, 2024 |title=Hochul says she's running for another term as New York governor in 2026 |url=https://spectrumlocalnews.com/nys/central-ny/politics/2024/07/02/hochul-says-she-s-running-for-another-term-as-governor-in-2026 |access-date=August 20, 2024 |website=[[Spectrum News]] |language=en |archive-date=July 8, 2024 |archive-url=https://web.archive.org/web/20240708215410/https://spectrumlocalnews.com/nys/central-ny/politics/2024/07/02/hochul-says-she-s-running-for-another-term-as-governor-in-2026 |url-status=live}}</ref> [[Primary elections]] took place on June 23, 2026.<ref>{{Cite web|date=May 9, 2025|title=2026 State Primary Election Dates|url=https://www.ncsl.org/elections-and-campaigns/2026-state-primary-election-dates|archive-url=https://web.archive.org/web/20260423040741/https://www.ncsl.org/elections-and-campaigns/2026-state-primary-election-dates|archive-date=April 23, 2026|access-date=August 5, 2025|website=[[National Conference of State Legislatures|NCSL]]}}</ref> The gubernatorial candidates selected their running mates, instead of having separate primaries.<ref>{{cite web|last=Cuza|first=Bobby|date=May 8, 2025|title=State lawmakers eliminate lieutenant governor primary|url=https://ny1.com/nyc/all-boroughs/politics/2025/05/09/albany-lawmakers-eliminate-lieutenant-governor-primary?cid=share_clip|archive-url=https://web.archive.org/web/20260105102847/https://ny1.com/nyc/all-boroughs/politics/2025/05/09/albany-lawmakers-eliminate-lieutenant-governor-primary?cid=share_clip|archive-date=January 5, 2026|website=[[Spectrum News]]}}</ref> 
+
+Hochul will face Nassau County executive [[Bruce Blakeman]], the [[Republican Party (United States)|Republican]] and [[Conservative Party of New York State|Conservative]] nominee, in the general election. After U.S. representative [[Elise Stefanik]] withdrew from the Republican primary in December 2025, Blakeman was endorsed by President [[Donald Trump]].<ref name="te">{{Cite web|url=https://www.politico.com/news/2025/12/20/trump-new-york-governor-endorsement-bruce-blakeman-00702013|title=Trump endorses in New York governor race the day after Stefanik drops out|date=December 20, 2025|website=POLITICO}}</ref> Republicans have not won a statewide election in New York since [[George Pataki]] was re-elected governor in [[2002 New York gubernatorial election|2002]].<ref>{{Cite web|url=https://abc7ny.com/post/new-york-rep-elise-stefanik-announce-run-governor-soon-friday/18122558/|title=Rep. Elise Stefanik to announce run for New York governor as soon as Friday|date=November 6, 2025|website=ABC7 New York}}</ref>
+
+==Background==
+Governor [[Kathy Hochul]] took office on August 24, 2021, upon the resignation of her predecessor, [[Andrew Cuomo]].<ref>{{Cite news|url=https://www.nytimes.com/2021/08/24/nyregion/kathy-hochul-governor-ny.html|title=Hochul Is Sworn In: 'I Want People to Believe in Their Government Again'|first=Luis|last=Ferré-Sadurní|newspaper=[[The New York Times]]|date=August 24, 2021}}</ref> Hochul was elected to a full term in [[2022 New York gubernatorial election|2022]] with 53.1% of the vote in the closest New York gubernatorial election since [[1994 New York gubernatorial election|1994]].<ref name="results">{{cite web |title=2022 General Election Governor and Lt. Governor Results |url=https://elections.ny.gov/2022-general-election-governor-and-lt-governor-results |website=[[New York State Board of Elections]]|date=November 8, 2022}}</ref><ref>{{Cite web|url=https://www.timesunion.com/state/article/Zeldin-concede-17571499.php|title=Zeldin concedes to Hochul in closest governor's race since 1994|first=Brendan J.|last=Lyons|date=November 9, 2022|website=Times Union}}</ref>
+
+==Democratic primary==
+Due to low approval ratings, poor Democratic performances in the [[2022 United States House of Representatives elections|2022 midterm elections]] in [[2022 New York state elections|New York]], and controversies surrounding her administration, Hochul was considered vulnerable to a primary challenge in 2026.<ref>{{Cite news |last=Reisman |first=Nick |date=September 5, 2024 |title=Hochul's headwinds become tougher with indictment of alleged foreign agent |url=https://www.politico.com/news/2024/09/05/linda-sun-arrest-hochul-approval-00177430?nname=new-york-playbook&nid=0000014f-1646-d88f-a1cf-5f46b74f0000&nrid=7fbb50ed-ea1a-4aff-a106-d6b8cc25c14a&nlid=630317 |work=[[Politico]]}}</ref> 
+
+On June 2, 2025, following months of reports about a strained relationship with the governor's office, [[Antonio Delgado]] launched his campaign for the Democratic nomination.<ref name=":0">{{Cite news |last=Mays |first=Jeffery C. |date=June 2, 2025 |title=Antonio Delgado, Hochul's No. 2, Will Challenge Her in Governor's Race |url=https://www.nytimes.com/2025/06/02/nyregion/antonio-delgado-governor-hochul.html |access-date=June 2, 2025 |work=[[The New York Times]] |language=en-US |issn=0362-4331}}</ref> On February 4, 2026, he announced nurse, union organizer, and socialist activist [[India Walton]] as his running mate.<ref>{{Cite web|url=https://spectrumlocalnews.com/nys/capital-region/politics/2026/02/04/antonio-delgado-governor-election-running-mate|title=Delgado picks India Walton as running mate in governor's race|date=February 4, 2026|website=spectrumlocalnews.com}}</ref> 
+
+Despite early perceptions of vulnerability to a left-wing challenge, Hochul was endorsed in February 2026 by [[Zohran Mamdani]] and [[Alexandria Ocasio-Cortez]], both prominent members of the [[New York City Democratic Socialists of America]]. ''[[Politico]]'' noted that the endorsements "all but crowd out her little-known primary challenger, (Antonio) Delgado," while Democratic strategist Trip Yang called Hochul "the comeback player of the year."<ref name="embrace">{{cite web |title=Why the left decided to embrace, and not fight, Kathy Hochul |url=https://www.politico.com/news/2026/02/06/why-the-left-decided-to-embrace-and-not-fight-kathy-hochul-00769785 |website=[[Politico]] |access-date=2026-02-08 |language=en |date=2026-02-06}}</ref> She was soon endorsed by the [[New York State Democratic Party|New York Democratic Party]] after securing 85% of support from party members at the state convention,<ref>{{cite web |title=Hochul projects 'strength' as she resoundingly wins Democratic backing for a new term |url=https://www.politico.com/news/2026/02/06/hochul-projects-strength-as-she-resoundingly-wins-democratic-backing-for-a-new-term-00769561 |website=POLITICO |access-date=2026-02-13 |language=en |date=2026-02-06}}</ref> and Delgado ended his campaign on February 10, 2026, citing a lack of a viable path forward.<ref>{{Cite web |last1=Sterne |first1=Peter |last2=Lewis |first2=Rebecca |date=February 10, 2026 |title=Antonio Delgado ends his campaign for governor |url=https://www.cityandstateny.com/politics/2026/02/antonio-delgado-ends-his-campaign-governor/411320/ |access-date=2026-02-10 |website=City & State NY |language=en}}</ref>
+
+===Candidates===
+====Nominee====
+*[[Kathy Hochul]], [[governor of New York]] (2021–present)<ref>{{Cite web|url=https://www.nytimes.com/2026/02/06/nyregion/hochul-convention-nomination.html|title=Hochul Takes Aim at Trump as She Wins N.Y. Democrats’ Nomination|date=February 6, 2026|via=NYTimes.com}}</ref>
+**Running mate: [[Adrienne Adams (politician)|Adrienne Adams]], former speaker of the [[New York City Council]] (2022–2025) from the [[New York City's 28th City Council district|28th district]] (2017–2025) and candidate for [[mayor of New York City]] in [[2025 New York City mayoral election|2025]]<ref>{{Cite news |last=Oreskes |first=Benjamin |date=2026-02-04 |title=Hochul Chooses Adrienne Adams to Join Her Re-election Ticket |url=https://www.nytimes.com/2026/02/04/nyregion/kathy-hochul-adrienne-adams-lieutenant-governor.html |access-date=2026-02-04 |work=The New York Times |language=en-US}}</ref>
+
+====Withdrawn====
+*[[Antonio Delgado]], [[lieutenant governor of New York]] (2022–present)<ref>{{Cite news |last=Rizzo |first=Sara |date=February 10, 2026 |title=Antonio Delgado ends campaign for NY governor |url=https://www.news10.com/news/ny-capitol-news/antonio-delgado-ends-campaign-for-ny-governor/ |access-date=February 10, 2026 |work=WTEN |language=en-US}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}</ref>
+**Running mate: [[India Walton]], community organizer and nominee for [[List of mayors of Buffalo, New York|mayor of Buffalo]] in [[2021 Buffalo mayoral election|2021]]<ref>{{Cite news |last=Oreskes |first=Benjamin |date=2026-02-03 |title=India Walton Will Return to Politics to Oppose Hochul as Delgado's No. 2 |url=https://www.nytimes.com/2026/02/03/nyregion/india-walton-lieutenant-governor.html |access-date=2026-02-04 |work=The New York Times |language=en-US}}</ref>
+
+====Declined====
+*[[Letitia James]], [[attorney general of New York]] (2019–present) ''([[2026 New York Attorney General election|running for re-election]]; endorsed Hochul)''<ref>{{cite news |last1=Coltin |first1=Jeff |title=Letitia James is taking on Donald Trump — again |url=https://www.politico.com/news/2025/02/04/letitia-james-trump-resistance-00202229 |access-date=February 4, 2025 |work=[[Politico]] |date=February 4, 2025 |language=en |quote=Asked about a run for governor in 2026, she said that's the year she'll be running for reelection as attorney general}}</ref><ref name="JEndorse">{{cite web |title=N.Y. Gov. Kathy Hochul endorsed by NYC Mayor Zohran Mamdani, N.Y. AG Letitia James - CBS New York |url=https://www.cbsnews.com/newyork/news/kathy-hochul-zohran-mamdani-letitia-james-endorsements/ |website=CBS News |access-date=2026-02-06 |date=2026-02-05}}</ref>
+*[[Tom Suozzi]], [[U.S. representative]] from {{ushr|NY|3}} (2017–2023, 2024–present) and candidate for governor in [[2006 New York gubernatorial election|2006]] and [[2022 New York gubernatorial election|2022]]<ref>{{cite news |work=[[Axios (website)|Axios]] |url=https://www.axios.com/2024/12/12/juan-ciscomani-arizona-governor-2026 |date=December 12, 2024 |access-date=December 12, 2024 |author=Solender, Andrew |title=GOP Rep. Ciscomani passes on run for Arizona governor|quote=Rep. Tom Suozzi (D-N.Y.) told Axios he won't mount another run for governor in 2026.}}</ref> ''([[2026 United States House of Representatives elections in New York#District 3|running for re-election]], endorsed Hochul)''<ref name="playbook">{{cite web |url=https://www.politico.com/newsletters/new-york-playbook/2025/06/03/cuomos-national-strategy-00381792?nname=new-york-playbook&nid=0000014f-1646-d88f-a1cf-5f46b74f0000&nrid=7fbb50ed-ea1a-4aff-a106-d6b8cc25c14a |title=Cuomo's national strategy |work=[[Politico]] |date=June 3, 2025 |author=Reisman, Nick}}</ref>
+*[[Ritchie Torres]], [[U.S. representative]] from {{ushr|NY|15}} (2021–present)<ref>{{Cite web|url=https://www.cityandstateny.com/politics/2025/07/ritchie-torres-will-not-run-governor/406504/|title=Ritchie Torres will not run for governor|date=July 2, 2025|website=[[City & State]]|last=Jefferson |first=Austin}}</ref> ''([[2026 United States House of Representatives elections in New York#District 15|running for re-election]]; endorsed Hochul)''<ref name="NorwoodAugust">{{cite web |title=Ritchie Torres Endorses Kathy Hochul in her Gubernatorial Reelection Bid - Norwood News |url=https://www.norwoodnews.org/ritchie-torres-endorses-kathy-hochul-in-her-gubernatorial-reelection-bid/ |website=Norwood News |access-date=January 18, 2026 |date=August 20, 2025}}</ref>
+
+===Endorsements===
+{{Endorsements box
+| title= Kathy Hochul
+| colwidth= 60
+| list=
+
+;U.S. representatives
+* [[Yvette Clarke]], [[NY-9]] (2007–present)<ref name="Congress1">{{cite web |last1=Sommerfeldt |first1=Chris |last2=Reisman |first2=Nick |last3=Ngo |first3=Emily |title=AOC and NY House Dems endorse Hochul |url=https://www.politico.com/news/2026/02/05/aoc-and-ny-house-dems-to-endorse-hochul-00768518 |website=POLITICO |access-date=2026-02-06 |language=en |date=2026-02-05}}</ref>
+* [[Adriano Espaillat]], [[NY-13]] (2017–present)<ref name="Congress1"/>
+* [[Laura Gillen]], [[NY-4]] (2025–present)<ref name="Congress1"/>
+* [[Dan Goldman]], [[NY-10]] (2023–present)<ref name="Congress1"/>
+*[[Hakeem Jeffries]], [[House minority leader]] (2023–present) from [[NY-08]] (2013–present)<ref name="playbook"/>
+* [[Tim Kennedy (politician)|Tim Kennedy]], [[NY-26]] (2024–present)<ref name="Congress1"/>
+*[[George Latimer (New York politician)|George Latimer]], [[NY-16]] (2025–present)<ref name="West50">{{cite web |last1=Scalia |first1=Briana |date=January 27, 2026 |title=Exclusive: Over 50 Westchester leaders endorse Gov. Hochul for reelection |url=https://www.fox5ny.com/election/kathy-hochul-ny-westchester-governor-election |access-date=January 27, 2026 |website=FOX 5 NY}}</ref>
+* [[John Mannion (American politician)|John Mannion]], [[NY-22]] (2025–present)<ref name="Congress1"/>
+*[[Gregory Meeks]], [[NY-5]] (1998–present) and chair of the [[Queens, NY|Queens]] Democratic Party (2019–present)<ref name="Party Chairs">{{cite web |last1=Lewis |first1=Rebecca |last2=Jefferson |first2=Austin |date=June 6, 2025 |title=County Democratic Party chairs go in for Hochul |url=https://www.cityandstateny.com/politics/2025/06/county-democratic-party-chairs-go-hochul/405888/?oref=csny-skybox-hp |access-date=June 6, 2025 |website=[[City and State]]}}</ref>
+* [[Grace Meng]], [[NY-6]] (2013–present)<ref name="Congress1"/>
+* [[Joseph Morelle]], [[NY-25]] (2018–present)<ref name="Congress1"/>
+* [[Jerry Nadler]], [[NY-12]] (1992–present)<ref name="Congress1"/>
+* [[Alexandria Ocasio-Cortez]], [[NY-14]] (2019–present)<ref name="Congress1"/>
+* [[Josh Riley]], [[NY-19]] (2025–present)<ref name="Congress1"/>
+*[[Pat Ryan (politician)|Pat Ryan]], [[NY-18]] (2022–present)<ref name="Jefferson and Lewis">{{Cite web |last1=Jefferson |first1=Austin |last2=Lewis |first2=Rebecca |date=June 2, 2025 |title=Lt. Gov. Antonio Delgado launches campaign for governor |url=https://www.cityandstateny.com/politics/2025/06/lt-gov-antonio-delgado-launches-campaign-governor/405752/?oref=csny-homepage-river |access-date=June 2, 2025 |website=[[City and State]]}}</ref>
+*[[Tom Suozzi]], [[NY-03]] (2017–2023, 2024–present)<ref name="playbook"/>
+* [[Paul Tonko]], [[NY-20]] (2009–present)<ref name="Congress1"/>
+*[[Ritchie Torres]], {{ushr|NY|15|NY-15}} (2021–present)<ref name="NorwoodAugust"/>
+*[[Edolphus Towns|Ed Towns]], former [[NY-10]] (1983–2013)<ref name="ToutJan"/>
+* [[Nydia Velázquez]], [[NY-7]] (1993–present)<ref name="Congress1"/>
+
+;Statewide officials
+*[[Letitia James]], [[Attorney General of New York|attorney general of New York]] (2019–present)<ref name="Letitia32J"/>
+
+;State legislators
+*[[Andrea Stewart-Cousins]], [[Majority Leader of the New York State Senate|majority leader of the New York State Senate]] (2019–present) from [[New York's 35th State Senate district|SD-35]] (2007–present)<ref name="ArtFromThe">{{cite web |last1=Beeferman |first1=Jason |last2=Sommerfeldt |first2=Chris |last3=Reisman |first3=Nick |last4=Ngo |first4=Emily |title=Separating the art from the artist in NY-21 |url=https://www.politico.com/newsletters/new-york-playbook/2026/02/06/separating-the-art-from-the-artist-in-ny-21-00768506 |website=POLITICO |access-date=2026-02-09 |language=en |date=2026-02-06}}</ref>
+*[[Jamaal Bailey]], [[New York's 36th State Senate district|SD-36]] (2017–present) and chair of the [[Bronx]] Democratic Party (2020–present)<ref name="Party Chairs"/>
+*[[Siela Bynoe]], [[New York's 6th State Senate district|SD-06]] (2025–present)<ref name="LongIslandEndorse"/>
+*[[Jeremy Cooney]], [[New York's 56th State Senate district|SD-56]] (2021–present)<ref name="Electeds">{{cite web |last1=Lewis |first1=Rebecca |date=June 3, 2025 |title=Electeds race to endorse Hochul following Delgado campaign launch |url=https://www.cityandstateny.com/politics/2025/06/electeds-race-endorse-hochul-following-delgado-campaign-launch/405768/ |access-date=November 26, 2025 |website=City & State NY |language=en}}</ref>
+*[[Andrew Gounardes]], [[New York's 26th State Senate district|SD-26]] (2019–present)<ref name="BDem"/>
+*[[Jeremy Zellner]], [[New York's 61st State Senate district|SD-61]] (2026–present)<ref name="Erie1"/>
+*[[Peter Harckham]], [[New York's 40th State Senate district|SD-40]] (2019–present)<ref name="West50"/>
+*[[Chris Ryan (politician)|Chris Ryan]], [[New York's 50th State Senate district|SD-50]] (2025–present)<ref name="lsyr"/>
+*[[Monica Martinez]], [[New York's 4th State Senate district|SD-04]] (2023–present) and [[New York's 3rd State Senate district|SD-03]] (2019–2020)<ref name="LongIslandEndorse">{{cite web |last1=Campbell |first1=Michael |title=Gov. Kathy Hochul touts endorsements from LI Democrats |url=https://www.longislandpress.com/2026/02/16/li-democrats-endorse-hochul/ |website=Long Island Press |access-date=2026-02-17 |archive-url=https://archive.today/20260216210622/https://www.longislandpress.com/2026/02/16/li-democrats-endorse-hochul/ |archive-date=2026-02-16 |date=2026-02-16}}</ref>
+*[[Rachel May]], [[New York's 48th State Senate district|SD-48]] (2019–present)<ref name="lsyr">{{cite web |title=50+ Democratic leaders from across Central New York endorse Governor Kathy Hochul for re-election |url=https://www.localsyr.com/your-local-elections-headquarters-new-york-state/50-democratic-leaders-from-across-central-new-york-endorse-governor-kathy-hochul-for-re-election/ |website=Local Syracuse |date=February 5, 2026 |access-date=2026-02-06}}</ref>
+*[[Shelley Mayer]], [[New York's 37th State Senate district|SD-37]] (2018–present)<ref name="West50"/>
+*[[Carl Heastie]], [[speaker of the New York State Assembly]] (2015–present) from [[New York's 83rd State Assembly district|AD-83]] (2001–present)<ref name="ArtFromThe"/>
+*[[Phil Ramos]], deputy speaker of the [[New York State Assembly]] (2015–2020, 2023–present) from [[New York's 6th State Assembly district|AD-06]] (2003–present)<ref name="LongIslandEndorse"/>
+*[[Crystal Peoples-Stokes]], majority leader of the [[New York State Assembly]] (2018–present) from [[New York's 141st State Assembly district|AD-141]] (2003–present)<ref name="ToutJan">{{cite web |last1=McKenna |first1=Chris |title=NY governor's race tit-for-tat. Hochul touts support at Delgado stops |url=https://www.lohud.com/story/news/politics/albany-watch/2026/01/16/ny-governors-race-incumbent-kathy-hochul-touts-support-at-challenger-antonio-delgado-stops/88155741007/ |access-date=January 18, 2026 |website=The Journal News}}</ref>
+*[[Michaelle C. Solages]], deputy majority leader of the [[New York State Assembly]] from [[New York's 22nd State Assembly district|AD-22]] (2013–present)<ref name="LongIslandEndorse"/>
+*[[Pamela Hunter]], speaker pro tempore of the [[New York State Assembly]] (2025–present) from [[New York's 128th State Assembly district|AD-128]] (2015–present)<ref name="lsyr"/>
+*[[Bill Magnarelli]], [[New York's 129th State Assembly district|AD-129]] (1999–present)<ref name="lsyr"/>
+*[[Albert A. Stirpe Jr.|Al Stirpe]], [[New York's 127th State Assembly district|AD-127]] (2007–2010, 2013–present)<ref name="lsyr"/>
+*[[Amy Paulin]], [[New York's 88th State Assembly district|AD-88]] (2001–present)<ref name="West50"/>
+*[[J. Gary Pretlow]], [[New York's 89th State Assembly district|AD-89]] (1993–present)<ref name="West50"/>
+*[[Nader Sayegh]], [[New York's 90th State Assembly district|AD-90]] (2019–present)<ref name="West50"/>
+*[[Steven Otis]], [[New York's 91st State Assembly district|AD-91]] (2013–present)<ref name="West50"/>
+*[[MaryJane Shimsky]], [[New York's 92nd State Assembly district|AD-92]] (2023–present)<ref name="West50"/>
+*[[Chris Burdick]], [[New York's 93rd State Assembly district|AD-93]] (2021–present)<ref name="West50"/>
+*[[Dana Levenberg]], [[New York's 95th State Assembly district|AD-95]] (2023–present)<ref name="West50"/>
+*[[Rodneyse Bichotte Hermelyn]], [[New York's 42nd State Assembly district|AD-42]] (2015–present) and chair of the [[Brooklyn Democratic Party]] (2020–present)<ref name="Party Chairs"/>{{efn|name=Rodn|Rodneyse Bichotte Hermelyn and the Brooklyn Democratic Party rescinded their endorsements of Hochul after she selected Adams as her running mate, before quickly re-endorsing her.<ref name="BDem"/><ref name="Coms1">{{cite web |title=Brooklyn Democrats' fiasco over Hochul endorsement reveals a party in disarray |url=https://www.politico.com/news/2026/02/06/brooklyn-democrats-hochul-endorsement-adams-00769557 |website=POLITICO |access-date=2026-02-06 |language=en |date=2026-02-06}}</ref>}}
+*[[Robert Carroll (American politician)|Robert Carroll]], [[New York's 44th State Assembly district|AD-44]] (2017–present)<ref name="ToutJan"/>
+*[[Brian A. Cunningham|Brian Cunningham]], [[New York's 43rd State Assembly district|AD-43]] (2022–present)<ref name="ToutJan"/>
+*[[Yudelka Tapia]], [[New York's 86th State Assembly district|AD-86]] (2021–present)<ref name="Electeds"/>
+*[[Rebecca Kassay]], [[New York's 4th State Assembly district|AD-04]] (2025–present)<ref name="LongIslandEndorse"/>
+*[[Steve Stern (politician)|Steve Stern]], [[New York's 10th State Assembly district|AD-10]] (2018–present)<ref name="LongIslandEndorse"/>
+*[[Charles D. Lavine]], [[New York's 13th State Assembly district|AD-13]] (2005–present)<ref name="LongIslandEndorse"/>
+*[[T. John Schiavoni|Tommy John Schiavoni]], [[New York's 1st State Assembly district|AD-01]] (2025–present)<ref name="LongIslandEndorse"/>
+*[[Kwani O'Pharrow]], [[New York's 11th State Assembly district|AD-11]] (2025–present)<ref name="LongIslandEndorse"/>
+*[[Judy Griffin]], [[New York's 21st State Assembly district|AD-21]] (2019–2022, 2025–present)<ref name="LongIslandEndorse"/>
+*[[Noah Burroughs]], [[New York's 18th State Assembly district|AD-18]] (2025–present)<ref name="LongIslandEndorse"/>
+*[[Keith L. T. Wright|Keith Wright]], former [[New York's 70th State Assembly district|AD-70]] (1993–2016) and chair of the [[New York County Democratic Committee|Manhattan Democratic Party]] (2009–present)<ref name="Party Chairs"/>
+*[[Frank Seddio]], former [[New York's 59th State Assembly district|AD-59]] (1999–2006) and former chair of the [[Brooklyn Democratic Party]] (2012–2020)<ref name="Coms1"/>
+
+;Local officials
+*[[Zohran Mamdani]], [[List of mayors of New York City|mayor of New York City]] (2026–present)<ref name="Mamdani">{{cite web |last1=Izaguirre |first1=Anthony |title=Mamdani endorses Hochul for reelection as New York governor |url=https://apnews.com/article/mamdani-hochul-governor-new-york-election-f6f543add5ed107ca9e9507e899522ab |access-date=February 5, 2026 |website=[[Associated Press]] |date=February 5, 2026 |language=en}}</ref>
+*[[Mark Levine (New York politician)|Mark Levine]], [[New York City Comptroller|comptroller of New York City]] (2026–present)<ref>{{cite web |title=Comptroller Levine Tells Why He is Campaigning for Hochul |url=https://www.chelseanewsny.com/voices/comptroller-levine-tells-why-he-is-campaigning-for-hochul-CD5713589 |website=Chelsea News NY |access-date=31 March 2026}}</ref>
+*[[Malik Evans]], [[List of mayors of Rochester, New York|mayor of Rochester]] (2022–present)<ref>{{cite web |date=January 14, 2026 |title=Malik Evans, Adam Bello, Stephen DeVay to endorse Hochul |url=https://13wham.com/news/local/malik-evans-adam-bello-stephen-devay-to-endorse-hochul |access-date=January 18, 2026 |website=WHAM |language=en}}</ref>
+*[[Sean Ryan (American politician)|Sean Ryan]], [[List of mayors of Buffalo, New York|mayor of Buffalo]] (2026–present)<ref name="ToutJan"/>
+*[[Sharon Owens]], [[Mayor of Syracuse, New York|mayor of Syracuse]] (2026–present)<ref name="Syracuse">{{cite web |last1=Boyer |first1=Jeremy |title=Syracuse Mayor Owens backs Hochul's bid for re-election as NY governor |url=https://www.syracuse.com/news/2026/01/syracuse-mayor-owens-backs-hochuls-bid-for-re-election-as-ny-governor.html |access-date=January 13, 2026 |website=syracuse.com |date=January 13, 2026 |language=en}}</ref>
+*[[Mike Spano]], [[mayor of Yonkers]] (2012–present)<ref name="West50"/>
+*[[Mark Poloncarz]], [[Erie County Executive|county executive for Erie County]] (2012–present)<ref name="ToutJan"/>
+*[[Ken Jenkins (politician)|Ken Jenkins]], [[Westchester County Executive|county executive for Westchester County]] (2025–present)<ref name="West50"/>
+
+;Party officials
+*[[Jay S. Jacobs|Jay Jacobs]], chair of the [[New York State Democratic Party]] (2019–present)<ref name="Party Chairs"/>
+
+;Labor unions
+*[[SEIU 32BJ]]<ref name="Letitia32J">{{cite web |last1=Brosnan |first1=Erica |title=Mayor Mamdani endorses Gov. Hochul's bid for reelection |url=https://ny1.com/nyc/all-boroughs/politics/2026/02/05/mayor-zohran-mamdani-endorses-gov-kathy-hochul-in-bid-for-reelection- |website=NY1 |access-date=2026-02-09 |language=en |quote=Shortly after Mamdani endorsed her, Hochul also secured support from New York Attorney General Letitia James and the property service workers union, 32BJ SEIU.}}</ref>
+*[[Civil Service Employees Association]]<ref>{{cite web |title=CSEA Announces Statewide Endorsements |url=http://readme.readmedia.com/CSEA-Announces-Statewide-Endorsements/21244091 |access-date=January 29, 2026 |website=CSEA via ReadMedia}}</ref>
+*[[District Council 37]]<ref>{{cite web |title=District Council 37 Delegates Endorse Candidates for 2026 Primary Election - District Council 37 |url=https://www.dc37.net/take-action/media-center/news-release/2026/district-council-37-delegates-endorse-candidates-for-2026-primary-election/ |website=DC37 |access-date=26 March 2026 |date=25 March 2026}}</ref>
+*[[Hotel and Gaming Trades Council]]<ref>{{cite news |last=Mays |first=Jeffery C. |date=January 28, 2026 |title=Mamdani Blames Rivals for Leaving New York With a 'Poisoned' Budget |url=https://www.nytimes.com/2026/01/28/nyregion/mamdani-budget.html |access-date=January 29, 2026 |work=[[New York Times]]}}</ref>
+*[[International Union of Operating Engineers]] Local 825<ref name="suburbia">{{cite web |last1=Reisman |first1=Nick |last2=Sommerfeldt |first2=Chris |last3=Beeferman |first3=Jason |last4=Ngo |first4=Emily |title=Suburbia's ICE shift |url=https://www.politico.com/newsletters/new-york-playbook/2026/02/05/suburbias-ice-shift-00766563 |website=POLITICO |access-date=2026-02-09 |language=en |date=2026-02-05}}</ref>
+*[[Laborers' International Union of North America]]<ref name="LIUNA">{{cite web |title=Laborers' union cements support for Hochul's re-election campaign |url=https://www.amny.com/politics/laborers-union-gov-hochul-re-election/ |website=amNewYork |access-date=30 May 2026 |date=15 May 2026}}</ref>
+*[[LIUNA]] Local 79<ref name="LIUNA"/>
+*[[New York State United Teachers]]<ref>{{cite web |title=NYSUT issues endorsements for Governor, Attorney General, Comptroller as well as State Assembly and Senate Primaries |url=https://www.nysut.org/news/2026/may/media-release-endorsements |website=NYSUT |access-date=30 May 2026 |language=en}}</ref>
+*[[Retail, Wholesale and Department Store Union]]<ref>{{cite web |title=RWDSU ENDORSES KATHY HOCHUL FOR RE-ELECTION AS GOVERNOR OF NEW YORK |url=https://www.rwdsu.org/news/hochul-endorsement-2026 |access-date=January 29, 2026 |website=Retail, Wholesale and Department Store Union (RWDSU)}}</ref>
+
+;Organizations
+*[[Democratic Governors Association]]<ref name="Jefferson and Lewis"/>
+*[[EMILY's List]]<ref>{{Cite web |title=EMILYs List Endorses New York Gov. Kathy Hochul for Reelection |url=https://emilyslist.org/news/emilys-list-endorses-new-york-gov-kathy-hochul-for-reelection/ |access-date=June 13, 2025 |website=EMILYs List |language=en-US}}</ref>
+*[[End Citizens United]]<ref>{{cite web |title=Endorsements |url=https://www.endcitizensunited.org/endorsements |website=End Citizens United |access-date=30 May 2026 |language=en}}</ref>
+*[[Giffords]]<ref>{{cite web |title=Dems get ready to rumble for Lawler's seat |url=https://www.politico.com/newsletters/new-york-playbook/2026/04/09/dems-get-ready-to-rumble-for-lawlers-seat-00865011 |website=POLITICO |access-date=10 April 2026 |language=en |date=9 April 2026}}</ref>
+*[[Jewish Democratic Council of America]]<ref>{{cite web |title=Jewish Dems Endorsed Candidates |url=https://jewishdems.org/endorsements/ |access-date=November 14, 2025 |website=Jewish Democratic Council of America}}</ref>
+*New York State [[Alliance for Retired Americans]]<ref name="AFRA">{{cite web |last1=Darmanjian |first1=Sarah |title=Federal fears push NY retiree group to break endorsement silence |url=https://wnyt.com/top-stories/federal-fears-push-ny-retiree-group-to-break-endorsement-silence/ |website=WNYT |access-date=14 April 2026 |date=13 April 2026}}</ref>
+*[[People for the American Way]]<ref>{{cite web |title=Elections and Endorsements |url=https://www.peoplefor.org/elections-endorsements#newyork |website=People For the American Way |language=en}}</ref>
+*[[Stonewall Democrats]] of New York City<ref>{{cite web |title=2026 Endorsements |url=https://sdnyc.org/2026-endorsements |website=Stonewall Democratic Club of NYC |access-date=3 May 2026}}</ref>
+
+;Political parties
+*[[Brooklyn Democratic Party]]<ref name="BDem">{{cite web |last1=Lisa |first1=Kate |title=Brooklyn Dems pull Hochul endorsement after LG pick |url=https://www.cityandstateny.com/politics/2026/02/brooklyn-dems-pull-hochul-endorsement-after-lg-pick/411204/ |website=City & State NY |access-date=2026-02-05 |language=en |date=2026-02-04}}</ref>{{efn|name=Rodn}}
+*[[Cayuga County, New York|Cayuga County]] [[Democratic Party of New York|Democratic Party]]<ref>{{cite web |title=Cayuga Democrats back 2026 slate |url=https://www.fingerlakes1.com/2026/02/19/cayuga-democrats-back-2026-slate/ |website=FingerLakes1 |access-date=2026-02-20 |date=2026-02-19}}</ref>
+*[[Clinton County, New York|Clinton County]] [[Democratic Party of New York|Democratic Committee]]<ref name="Clint5">{{cite web |last1=Falbo |first1=Sophia |title=Hear from Bruce Blakeman, Brent Davison, Robert Smullen on why they're fit to represent New Yorkers |url=https://www.mynbc5.com/article/republican-candidates-election-cycle-kick-off-campaigns-north-country/71127261 |website=WPTZ |access-date=3 May 2026 |language=en |date=25 April 2026}}</ref>
+*[[Erie County Democratic Committee]]<ref name="Erie1">{{cite web |last=Veronica |first=Nick |date=July 10, 2025 |title=Erie County Dems give Gov. Hochul unanimous endorsement for reelection |url=https://www.wivb.com/news/political-news/your-local-election-headquarters-new-york-state/erie-county-dems-give-ny-gov-hochul-unanimous-endorsement-for-reelection/ |access-date=July 12, 2025 |website=[[WIVB-TV]]}}</ref>
+*[[New York State Democratic Committee]]<ref name="Nett">{{cite web |last1=Nett |first1=Dennis|title=2026 New York State Democratic Convention in Syracuse New York|url=https://www.syracuse.com/galleries/YOST5FQN6JBKLFS5K3FEJQBRDU/|website=Syracuse.com |access-date=2026-02-06 |date=2026-02-06}}</ref>
+}}
+{{Endorsements box
+| title= Antonio Delgado ''(withdrawn)''
+| width= 
+| list=
+;State legislators
+*[[Jabari Brisport]], [[New York's 25th State Senate district|SD-25]] (2021–present)<ref>{{cite web |last1=Ngo |first1=Emily |last2=Reisman |first2=Nick |date=January 5, 2026 |title=Mamdani's early trials by fire |url=https://www.politico.com/newsletters/new-york-playbook/2026/01/05/mamdanis-early-trials-by-fire-00710346 |access-date=January 5, 2026 |website=[[Politico]]}}</ref>
+*[[Emily Gallagher]], [[New York's 50th State Assembly district|AD-50]] (2021–present)<ref>{{cite web |last1=Ngo |first1=Emily |last2=Reisman |first2=Nick |date=January 8, 2026 |title=Lefty showdown to fill La Luchadora's seat |url=https://www.politico.com/newsletters/new-york-playbook/2026/01/08/lefty-showdown-to-fill-la-luchadoras-seat-00715779 |access-date=January 8, 2026 |website=[[Politico]]}}</ref>
+
+;Organizations
+*[[Citizen Action]] New York<ref>{{Cite web |title=Citizen Action endorses Lt. Gov. Antonio Delgado for New York governor in 2026 |url=https://spectrumlocalnews.com/nys/central-ny/politics/2025/09/09/citizen-action-endorses-antonio-delgado-for-new-york-governor |access-date=September 13, 2025 |website=Spectrum News 1 |language=en-US}}</ref>
+*[[Food & Water Watch|Food & Water]] Action<ref>{{cite web |title=Food & Water Action is proud to endorse Lt. Governor Anthony Delgado for Governor. |url=https://www.facebook.com/share/p/17SCh3u6WT/ |access-date=November 11, 2025 |website=Food & Water Action on Facebook}}</ref>
+*[[Third Act Movement|Third Act]] [[NYC]] and [[Upstate New York]]<ref name="ThirdAct">{{cite web |date=November 11, 2025 |title=Third Act New York endorses Delgado for Governor |url=https://graypac.org/2025/11/11/third-act-new-york-endorses-delgado-for-governor/ |access-date=November 11, 2025 |website=GrayPAC}}</ref>
+*[[New York Communities for Change]]<ref>{{cite web |title=Breaking: We're ready for Round 2! Today, we came to Wall Street to endorse @DelgadoforNY for Governor. |url=https://www.facebook.com/nychange/posts/breaking-were-ready-for-round-2-today-we-came-to-wall-street-to-endorse-delgadof/1136798411973997/ |access-date=November 16, 2025 |website=NYCFC on Facebook}}</ref>
+}}
+{{Endorsements box
+|title=Declined to endorse
+|list=
+;State legislators
+*[[Julia Salazar]], [[New York's 18th State Senate district|SD-18]] (2019–present)<ref name="NotThrilled"/>
+*[[Michael Cashman (American politician)|Michael Cashman]], [[New York's 115th State Assembly district|AD-115]] (2025–present)<ref>{{cite web |last1=Lisa |first1=Kate |title=Democrat N.Y. Assemblyman-elect declines to endorse Hochul |url=https://spectrumlocalnews.com/nys/central-ny/politics/2025/11/06/democrat-n-y--assemblyman-elect-declines-to-endorse-hochul |access-date=November 11, 2025 |website=spectrumlocalnews.com |language=en}}</ref>
+*[[Claire Valdez]], [[New York's 37th State Assembly district|AD-37]] (2025–present)<ref name="NotThrilled">{{cite web |last1=Lewis |first1=Rebecca C. |title=Socialists not thrilled with Mamdani's guv endorsement: 'Even Zohran gets it wrong sometimes' |url=https://www.cityandstateny.com/politics/2026/02/socialists-not-thrilled-mamdanis-guv-endorsement-even-zohran-gets-it-wrong-sometimes/411228/ |website=City & State NY |access-date=2026-02-07 |language=en |date=2026-02-05}}</ref>
+;Individuals
+*[[John Samuelsen]], union leader<ref name="tincup">{{cite web |last1=Reisman |first1=Nick |last2=Mahoney |first2=Bill |last3=Sommerfeldt |first3=Chris |last4=Ngo |first4=Emily |last5=Beeferman |first5=Jason |title=Tin cup versus convention |url=https://www.politico.com/newsletters/new-york-playbook/2026/02/11/tin-cup-versus-convention-00775406 |website=POLITICO |access-date=2026-02-13 |language=en |date=2026-02-11}}</ref>
+;Labor unions
+*[[Transport Workers Union of America]]<ref name="pressureson">{{cite web |last1=Beeferman |first1=Jason |title=Hochul gets pressure from a distance |url=https://www.politico.com/newsletters/new-york-playbook-pm/2026/02/11/hochul-new-york-gop-convention-blakeman-adrienne-adams-00776634 |website=POLITICO |access-date=2026-02-12 |language=en |date=2026-02-11}}</ref>
+;Political parties
+*[[Working Families Party|New York Working Families Party]]<ref name="Placeholder">{{cite web |last1=Lewis |first1=Rebecca C. |title=WFP declines to nominate Hochul or Delgado for governor |url=https://www.cityandstateny.com/politics/2026/02/wfp-declines-nominate-hochul-or-delgado-governor/411277/ |website=City & State NY |access-date=2026-02-08 |language=en |date=2026-02-07}}</ref>{{efn|The New York Working Families Party declined to endorse Hochul or Delgado, instead nominating a "placeholder candidate" for their ballot line. The party stated that the placeholder candidate will later be replaced by whichever candidate wins the Democratic nomination.<ref name="Placeholder"/>}}
+}}
+
+===Polling===
+'''Aggregate polls'''<br/>
+{| class="wikitable sortable" style="text-align:center;font-size:90%;line-height:17px"
+!Source of poll<br/>aggregation
+!Dates<br/>administered
+!Dates<br/>updated
+! style="width:100px;"| Antonio<br/>Delgado
+! style="width:100px;"| Kathy<br/>Hochul
+! style="width:100px;"| Undecided{{Efn|Calculated by taking the difference of 100% and all other candidates combined.|name=|group=}}
+!Margin
+|-
+|[[RealClearPolitics]]<ref name="RCP">{{cite web |title=2026 New York Governor - Democratic Primary|url=https://www.realclearpolling.com/polls/governor/democratic-primary/2026/new-york |website=RealClearPolitics |access-date=September 13, 2025}}</ref>
+|March 26 – February 3, 2026
+|December 16, 2025
+|11.0%
+|{{party shading/Democratic}}|'''57.5%'''
+|31.5%
+|{{party shading/Democratic}}|'''Hochul +46.5%'''
+|}
+
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br/>administered
+! Sample<br/>size{{efn|Key:<br/>A – all adults<br/>RV – registered voters<br/>LV – likely voters<br/>V – unclear|name="Key"}}
+! Margin<br/>of error
+! style="width:75px;"| Antonio<br/>Delgado
+! style="width:75px;"| Kathy<br/>Hochul
+! Other
+! Undecided
+|-style="background:lightyellow;" 
+| style="border-right-style:hidden; background:lightyellow;" |
+| style="border-right-style:hidden; " | February 10, 2026
+| colspan="7" | Delgado withdraws from the race
+|-
+|style="text-align:left;"|[[Siena College Research Institute|Siena College]]<ref name="SienaJan2026"/>
+|January 26–28, 2026
+|– (RV)
+|–
+|11%
+|{{party shading/Democratic}}|'''64%'''
+|2%{{efn|name="SE2"}}
+|23%
+|-
+|style="text-align:left;"|[[John Zogby|John Zogby Strategies]]<ref name="ZogbyJan2026"/>
+|January 6–8, 2026
+|– (LV)
+|–
+|12%
+|{{party shading/Democratic}}|'''64%'''
+|–
+|24%
+|-
+|style="text-align:left;"|[[Siena College Research Institute|Siena College]]<ref name="SienaDecember2025">{{cite web|url=https://sri.siena.edu/2025/12/16/hochul-holds-19-point-lead-over-stefanik-leads-blakeman-by-25-points/?_gl=1*klln4g*_ga*MTIyMjU3OTkzNi4xNzU3NDIwNzQ4*_ga_XN3VDZ9ZYZ*czE3NjU5MTI3MDAkbzMkZzEkdDE3NjU5MTMwMjYkajU2JGwwJGgw|title=Hochul Holds 19-Point Lead Over Stefanik & Leads Blakeman by 25 Points|website=Siena College Research Institute|access-date=December 16, 2025}}</ref>
+|December 8–12, 2025
+|–
+|±&nbsp;4.1%
+|13%
+|{{party shading/Democratic}}|'''56%'''
+|2%{{efn|name="SE2"}}
+|29%
+|-
+|style="text-align:left;"|[[Siena College Research Institute|Siena College]]<ref name="SienaNovember2025">{{Cite web|url=https://sri.siena.edu/2025/11/18/hochul-approval-favorability-ratings-down-a-little-maintains-huge-lead-over-delgado-among-dems-leads-stefanik-by-20-points-down-from-25-in-september/|title=Hochul Approval/Favorability Ratings Down a Little; Maintains Huge Lead Over Delgado Among Dems; Leads Stefanik by 20 Points, down from 25 in September|website=Siena College Research Institute|date=November 18, 2025|access-date=November 18, 2025}}</ref>
+|November 10–12, 2025
+|–
+|±&nbsp;4.0%
+|16%
+|{{party shading/Democratic}}|'''56%'''
+|3%{{efn|name="SE3"}}
+|25%
+|-
+|style="text-align:left;"|GrayHouse (R)<ref name="GrayHouseSeptember2025">{{Cite web|url=https://www.politico.com/f/?id=00000199-c16d-d575-ab9d-c36f30520000|title=New York Statewide Survey – Hochul Enters 2026 Deeply Vulnerable|website=Politico|date=October 6, 2025|access-date=October 9, 2025}}</ref>{{efn-ua|Poll sponsored by a Stefanik-affiliated PAC.<ref>{{cite web |title=Hochul's lead over Stefanik narrows in poll |url=https://www.msn.com/en-us/news/insight/poll-hochul-s-lead-over-stefanik-in-governor-s-race-narrows/gm-E917231891?gemSnapshotKey=E917231891-snapshot-0&ocid=SNYDHP |website=MSN |access-date=November 18, 2025}}</ref>|name=Stef}}
+|September 20–26, 2025
+|605 (LV)
+|–
+|14%
+|{{party shading/Democratic}}|'''43%'''
+|15%{{efn|"Someone else" with 15%}}
+|28%
+|-
+|style="text-align:left;"|[[Siena College Research Institute|Siena College]]<ref name="SienaAugust2025">{{Cite web|url=https://sri.siena.edu/wp-content/uploads/2025/08/SNY-August-2025-Poll-Release-8-12-25-FINAL.pdf|title=Hochul Approval & Favorability Ratings Up a Little; Hochul Lead Over Stefanik In 2026 Race Falls to 14 Points, 45-31%, from 23 Points, 47-24%, in June; Voters Say if Stefanik Runs & Is Elected Gov, It Would Be Bad for NY, 49-37%|website=Siena College Research Institute|date=August 12, 2025|access-date=August 12, 2025}}</ref>
+|August 4–7, 2025
+|813 (RV)
+|±&nbsp;4.2%
+|15%
+|{{party shading/Democratic}}|'''50%'''
+|4%
+|31%
+|-
+|}
+
+{{hidden begin|titlestyle=background:#cff|title=Hypothetical polling|contentstyle=border:solid 1px silver; padding:8px; background:var(--background-color-base); color:var(--color-base);}}
+<!-- = = = don't edit the line above = = = -->
+;Kathy Hochul vs. Antonio Delgado vs. Ritchie Torres
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br/>administered
+! Sample<br/>size{{efn|Key:<br/>A – all adults<br/>RV – registered voters<br/>LV – likely voters<br/>V – unclear|name="Key"}}
+! Margin<br/>of error
+! style="width:75px;"| Kathy<br/>Hochul
+! style="width:75px;"| Antonio<br/>Delgado
+! style="width:75px;"| Ritchie<br/>Torres
+! Other
+! Undecided
+|-
+|style="text-align:left;"|[[Siena College Research Institute|Siena College]]<ref name="SienaJune2025">{{Cite web|url=https://scri.siena.edu/wp-content/uploads/2025/06/SNY-June-2025-Poll-Release-STATE-7-1-25-Final.pdf|title=Siena College Poll Conducted by the Siena College Research Institute|website=Siena College Research Institute|date=July 1, 2025|access-date=July 1, 2025}}</ref>
+|June 23–26, 2025
+|800 (RV)
+|±&nbsp;4.4%
+|{{party shading/Democratic}}|'''49%'''
+|12%
+|10%
+|4%
+|26%
+|-
+|style="text-align:left;"|[[Siena College Research Institute|Siena College]]<ref name="SienaMay2025">{{Cite web|url=https://scri.siena.edu/wp-content/uploads/2025/05/SNY0525-Crosstabs.pdf|title=Siena College Poll Conducted by the Siena College Research Institute|website=Siena College Research Institute|date=May 20, 2025|access-date=May 20, 2025}}</ref>
+|May 12–15, 2025
+|805 (RV)
+|±&nbsp;4.3%
+|{{party shading/Democratic}}|'''46%'''
+|12%
+|10%
+|4%{{efn|name="SE4"}}
+|28%
+|-
+|style="text-align:left;"|GrayHouse (R)<ref name="GrayHouseApril2025"/>
+|April 22–24, 2025
+|262 (RV)
+|–
+|{{party shading/Democratic}}|'''24%'''
+|6%
+|7%
+|8%{{efn|Jamaal Bowman with 8%}}
+|{{party shading/Undecided}}|'''55%'''
+|-
+|style="text-align:left;"|[[Siena College Research Institute|Siena College]]<ref name="SienaApril2025">{{Cite web|url=https://scri.siena.edu/wp-content/uploads/2025/04/SNY0425-Crosstabs.pdf|title=Siena College Poll Conducted by the Siena College Research Institute|website=Siena College Research Institute|date=April 22, 2025|access-date=April 24, 2025}}</ref>
+|April 14–16, 2025
+|802 (RV)
+|±&nbsp;4.4%
+|{{party shading/Democratic}}|'''44%'''
+|12%
+|9%
+|5%{{efn|"Someone else" with 5%}}
+|30%
+|-
+|style="text-align:left;"|[[Data for Progress]] (D)<ref>{{Cite web|url=https://www.dataforprogress.org/blog/2025/4/7/incumbent-hochul-has-large-lead-in-2026-new-york-gubernatorial-race|title=Incumbent Hochul Has Large Lead in 2026 New York Gubernatorial Race|website=Data for Progress|date=April 7, 2025|access-date=April 7, 2025}}</ref>
+|March 26–31, 2025
+|767 (LV)
+|±&nbsp;4.0%
+|{{party shading/Democratic}}|'''51%'''
+|11%
+|11%
+|–
+|27%
+|-
+|style="text-align:left;"|[[Siena College Research Institute|Siena College]]<ref name="SienaMarch2025">{{Cite web|url=https://scri.siena.edu/2025/03/10/hochul-with-a-big-lead-in-a-very-early-democratic-primary-look-gets-good-grades-from-voters-on-protecting-constitutional-rights-ensuring-quality-affordable-healthcare-but-no/|title=Hochul – with a Big Lead in a Very Early Democratic Primary Look – Gets Good Grades from Voters on Protecting Constitutional Rights & Ensuring Quality Affordable Healthcare, But Not on Making NY More Affordable|website=Siena College Research Institute|date=March 20, 2025|access-date=March 20, 2025}}</ref>
+|March 2–6, 2025
+|400 (RV)
+|–
+|{{party shading/Democratic}}|'''46%'''
+|11%
+|10%
+|4%{{efn|name="SE4"}}
+|28%
+|-
+|style="text-align:left;"|Citizen Data<ref name="CitizenDataMarch2025">{{Cite web|url=https://mylittlefalls.com/unite-ny-poll-hochul-leads-lawler-by-single-digits/|title=Unite NY Poll: Hochul Leads Lawler by Single Digits|website=The Daily Post|date=February 25, 2025|access-date=March 20, 2025}}</ref>{{Efn-ua|name=UniteNY|Poll sponsored by Unite NY}}
+|February 10, 2025
+|– (RV)
+|±&nbsp;4.4%
+|{{party shading/Democratic}}|'''52%'''
+|15%
+|12%
+|–
+|21%
+|}
+{{hidden end}}
+
+==Republican primary==
+U.S. representative [[Elise Stefanik]] was considered a potential gubernatorial candidate throughout 2025. She formally announced her candidacy on November 7, 2025.<ref>{{cite web |title=Rep. Elise Stefanik announces run for New York governor, challenging Kathy Hochul in 2026 election - CBS New York |url=https://www.cbsnews.com/newyork/news/elise-stefanik-running-for-new-york-governor/ |website=CBS |access-date=November 7, 2025 |date=November 7, 2025}}</ref> A July 2025 Siena poll showed Stefanik leading two other potential Republican gubernatorial candidates, U.S. representative [[Mike Lawler]] and Nassau County executive [[Bruce Blakeman]].<ref>{{Cite web|url=https://spectrumlocalnews.com/nys/central-ny/politics/2025/06/30/poll--stefanik-leads-potential-gop-field-for-n-y--governor|title=Poll: Stefanik leads potential GOP field for N.Y. governor; Hochul leads all 3|website=spectrumlocalnews.com|last=Parsnow|first=Luke}}</ref> In May 2025, President [[Donald Trump]] endorsed Lawler and Blakeman for re-election to their current posts "in a not-so-subtle attempt to clear the field for upstate Congresswoman Elise Stefanik to get the GOP nomination".<ref>{{Cite web|url=https://www.cbsnews.com/newyork/news/trump-bruce-blakeman-mike-lawler-endorsements/|title=Ahead of N.Y. governor's race, President Trump's endorsements send "loud message" |last=Kramer|first=Marcia|date=May 7, 2025|website=www.cbsnews.com}}</ref> On July 23, 2025, Mike Lawler announced that he would run for re-election to Congress.<ref>{{Cite web |last1=Anderson |first1=Renee |last2=Kramer |first2=Marcia |last3=Woodall |first3=Hunter |date=July 23, 2025 |title=Mike Lawler to sit out New York governor's race and run for reelection in House district |url=https://www.cbsnews.com/newyork/news/mike-lawler-reelection-new-york-governor-race-elise-stefanik-republicans/ |access-date=July 30, 2025 |website=[[CBS News]] |language=en-US}}</ref>
+
+Bruce Blakeman was re-elected to the post of Nassau County executive by a double-digit margin in November 2025.<ref>{{Cite web|url=https://gothamist.com/news/blakeman-reelected-as-nassau-county-exec-and-gop-hopes-for-a-bulwark-against-mamdani|title=Blakeman reelected as Nassau County exec and GOP hopes for a bulwark against Mamdani|first=Jimmy|last=Vielkind|date=November 5, 2025|website=Gothamist}}</ref> When asked about Blakeman's potential gubernatorial candidacy, Trump stated that Blakeman and Stefanik were "both great people".<ref>{{Cite web|url=https://abcnews.com/Politics/county-gop-leader-bruce-blakeman-announces-run-new/story?id=128244979|title=County GOP leader Bruce Blakeman announces run for New York governor, taking on fellow Trump ally Elise Stefanik|first=Oren|last=Oppenheim|website=ABC News|date=December 9, 2025}}</ref> On December 9, 2025, Blakeman launched his campaign for the 2026 Republican gubernatorial nomination.<ref>{{Cite web |title=Bruce Blakeman launches bid for New York governor|url=https://www.cbsnews.com/newyork/video/bruce-blakeman-launches-bid-for-new-york-governor/ |access-date=December 9, 2025 |website=www.cbsnews.com |language=en-US}}</ref> According to ''[[The New York Times]]'', Trump's decision to remain neutral and not to attempt to clear the field for Stefanik "sent shock waves through Republican circles".<ref>{{Cite web|url=https://www.nytimes.com/2025/12/10/nyregion/blakeman-trump-stefanik.html|title=Trump Didn't Clear a Path for Stefanik in the N.Y. Governor's Race|first=Grace|last=Ashford|work=The New York Times |date=December 10, 2025|via=NYTimes.com}}</ref> On December 19, Stefanik announced she was withdrawing her candidacy.<ref name="sq">{{Cite web |last=Jacobs |first=Ben |date=December 19, 2025 |title=Stefanik Quits Governor's Race, Will Not Run for Reelection |url=https://nymag.com/intelligencer/article/elise-stefanik-new-york-governor-interview.html |access-date=December 19, 2025 |website=Intelligencer |language=en}}</ref> President Trump endorsed Blakeman's candidacy on December 20.<ref name="te"/>
+
+In February 2026, Libertarian nominee Larry Sharpe announced his intention to petition his way onto the Republican primary ballot.<ref>{{Cite web|url=https://www.cityandstateny.com/politics/2026/02/state-gop-formally-designates-blakeman-nominee-governor/411361/|title=State GOP formally designates Blakeman as nominee for governor|first=Rebecca C.|last=Lewis|date=February 11, 2026|website=City & State NY}}</ref>
+
+===Candidates===
+====Nominee====
+*[[Bruce Blakeman]], [[Nassau County Executive|Nassau County executive]] (2021–present)<ref>{{Cite news|last=Capellini|first=Jeff |title=Bruce Blakeman announces run for New York governor, challenging Elise Stefanik in Republican primary| url=https://www.cbsnews.com/newyork/news/bruce-blakeman-running-for-new-york-governor-2026/ |access-date=December 9, 2025 |work=[[CBS News]]}} </ref>
+**Running mate: Todd Hood, [[Madison County, New York|Madison County]] sheriff (2018–present)<ref name="HoodLtGov">{{Cite web |last1=Campanile |first1=Carl |last2=Golden |first2=Vaughn |date=2026-02-09 |title=GOP's Bruce Blakeman taps Madison County Sheriff Todd Hood as running mate |url=https://nypost.com/2026/02/09/us-news/gops-bruce-blakeman-taps-madison-county-sheriff-todd-hood-as-running-mate/ |access-date=2026-02-09 |website=New York Post |language=en-US}}</ref>
+
+==== Did not qualify ====
+* [[Larry Sharpe (political activist)|Larry Sharpe]], business training company founder and perennial candidate<ref>{{Cite web |last=Parsnow |first=Luke |date=February 7, 2026 |title=Libertarian Larry Sharpe enters Republican primary for New York governor |url=https://spectrumlocalnews.com/nys/central-ny/politics/2026/02/06/libertarian-larry-sharpe-enters-republican-primary-for-new-york-governor |access-date=February 7, 2026 |publisher=[[Spectrum News]]}}</ref><ref>{{Cite web |title=NYSBOE Public Reporting System : Who Filed |url=https://publicreporting.elections.ny.gov/WhoFiled/WhoFiled |access-date=2026-06-14 |website=publicreporting.elections.ny.gov}}</ref>
+** Running mate: Mike Carpinelli, [[Lewis County, New York|Lewis County]] sheriff (2006–present)<ref>{{cite news |title=GOP, Libertarian Gubernatorial Candidate Campaigns in Hartwick |quote=Sharpe’s running mate, Lewis County Sheriff Mike Carpinelli... |author=Santomauro-Stenzel, Eric |url=https://www.allotsego.com/gop-libertarian-gubernatorial-candidate-campaigns-in-hartwick/ |work=AllOtsego}}</ref>
+*Pat Hahn, union leader<ref name="Candidate Filings"/>
+*David Tulley, cannabis shop owner<ref>{{cite web|title=List of Filers|website=New York State Board of Elections|url=https://publicreporting.elections.ny.gov/ActiveDeactiveFiler/ActiveDeactiveFiler|access-date=August 17, 2025}}</ref>
+
+==== Withdrawn ====
+*Carl Hyde Jr., town supervisor of [[Bethany, New York|Bethany]]<ref>{{cite news |date=October 31, 2025 |title=Hyde announces he's suspending his campaign |url=https://www.thedailynewsonline.com/news/hyde-announces-hes-suspending-his-campaign/article_3851b30f-ac1b-44f3-a88a-27d570a67ca4.html |access-date=December 5, 2025 |work=[[The Daily News (Batavia)|The Daily News]] |language=en}}</ref>
+*[[Elise Stefanik]], [[U.S. representative]] from {{ushr|NY|21}} (2015–present)<ref name="sq"/>
+
+====Declined====
+*[[Mike Lawler]], [[U.S. representative]] from {{ushr|NY|17}} (2023–present) ''([[2026 United States House of Representatives elections in New York#District 17|running for re-election]], endorsed Stefanik)''<ref>{{cite news |last1=Fandos |first1=Nicholas |last2=Haberman |first2=Maggie |title=Lawler Will Seek Re-election to House, Forgoing Run for N.Y. Governor |url=https://www.nytimes.com/2025/07/23/nyregion/mike-lawler-governor-reelection.html |access-date=July 23, 2025 |work=[[The New York Times]] |date=July 23, 2025}}</ref>
+
+=== Endorsements ===
+{{Endorsements box
+|title=Bruce Blakeman
+|list= 
+;Executive branch officials
+*[[Donald Trump]], [[president of the United States]] (2017–2021, 2025–present)<ref>{{cite news|url= https://www.politico.com/news/2025/12/20/trump-new-york-governor-endorsement-bruce-blakeman-00702013 |title= Trump endorses in New York governor race the day after Stefanik drops out |work=Politico|date=December 20, 2025}}</ref>
+
+;U.S. representatives
+*[[Nick LaLota]], [[NY-01]] (2023–present)<ref name="AxiosLaLota">{{cite web |last1=Santaliz |first1=Kate |last2=Solender |first2=Andrew |title=Stefanik drops bid for N.Y. gov, retiring from Congress |url=https://www.axios.com/2025/12/19/elise-stefanik-retirement-ny-governor |website=Axios |access-date=2026-02-15 |language=en |date=2025-12-19}}</ref>
+
+;Statewide officials
+*[[George Pataki]], former [[Governor of New York|governor]] of [[New York (state)|New York]] (1995–2006) ''(previously endorsed Stefanik)''<ref name="beacon23"/>
+*[[Jenniffer González-Colón]], [[Governor of Puerto Rico|governor]] of [[Puerto Rico]] (2025–present)<ref>{{cite news|url= https://nypost.com/2026/05/25/us-news/puerto-rico-governor-endorses-bruce-blakeman-over-kathy-hochul-in-ny-election-race/ |last1=McCarthy |first1=Craig |last2=Fierick |first2=Hannah |title=Puerto Rico governor endorses Bruce Blakeman over Kathy Hochul in NY election race |work=[[New York Post]] |date=May 25, 2026}}</ref>{{bsn|date=May 2026}}
+
+;Party officials
+*[[Edward F. Cox]], chair of the [[New York Republican Party]] (2009–2019, 2023–present) ''(previously endorsed Stefanik)''<ref>{{cite news|url=https://www.politico.com/news/2025/12/19/rep-elise-stefanik-set-to-drop-her-bid-for-nys-governor-00700879|title= Rep. Elise Stefanik set to drop her bid for NYS governor|work=Politico|date=December 19, 2025}}</ref>
+*[[Gerard Kassar|Jerry Kassar]], chair of the [[Conservative Party of New York State]] (2019–present) ''(previously endorsed Stefanik)''<ref>{{cite web |title=Labor troubles in Mamdani's backyard |url=https://www.politico.com/newsletters/new-york-playbook-pm/2026/01/05/diana-moreno-union-nice-mamdani-assembly-astoria-queens-00711456 |website=POLITICO |access-date=January 7, 2026 |language=en |date=January 5, 2026 |quote=Conservative Party Chair Jerry Kassar announced today he's backing Nassau County Executive Bruce Blakeman's gubernatorial bid — a crucial endorsement for the likely Republican nominee and a signal the party likely won't run an opposing candidate.}}</ref>
+
+;Labor unions
+*[[Transport Workers Union of America|Transport Workers Union]] Locals 106 and 252<ref>{{cite web |title=Bruce Blakeman Candidate for Governor will be at our office in the Bronx on May 29th-Join us! |url=https://twu106.org/bruce-blakeman-candidate-for-governor-will-be-at-our-office-in-the-bronx-on-june-29th-join-us/ |website=Transit Supervisors Organization Local 106 |access-date=30 May 2026 |date=26 May 2026}}</ref>
+
+;Political parties
+*[[Clinton County, New York|Clinton County]] [[Republican Party of New York|Republican Committee]]<ref name="Clint5"/>
+*[[Conservative Party of New York State]]<ref name="wins">{{cite web |title=Blakeman Wins Conservative Party Endorsement for Governor |url=https://southshorepress.com/stories/678139062-blakeman-wins-conservative-party-endorsement-for-governor |website=South Shore Press |access-date=January 7, 2026 |language=en}}</ref> ''(previously endorsed Stefanik)''<ref name="bcourts">{{cite web |last1=Lewis |first1=Rebecca C. |title=Blakeman courts right-wing voters at state Conservative Party conference |url=https://www.cityandstateny.com/politics/2026/02/blakeman-courts-right-wing-voters-state-conservative-party-convention/411132/ |website=City & State NY |access-date=2026-02-06 |language=en |date=2026-02-02}}</ref>
+*[[New York Republican State Committee]]<ref>{{cite web |last1=Wade |first1=Chris |title=Blakeman accepts GOP nomination for New York governor |url=https://www.thecentersquare.com/new_york/article_a1221a6c-f2b7-414a-9a91-e5646957e94e.html |website=The Center Square |access-date=2026-02-12 |language=en |date=2026-02-11}}</ref>
+}}
+{{Endorsements box
+|title=Elise Stefanik ''(withdrawn)''
+|colwidth=60
+|list= 
+;U.S. representatives
+*[[Tom Emmer]], [[Party leaders of the United States House of Representatives|House majority whip]] (2023–present) from [[Minnesota's 6th congressional district|MN-06]] (2015–present)<ref>{{cite news |title=Tom Emmer posts endorsements and criticism of Democrats on social media |url=https://nwtwincities.com/stories/676109286-tom-emmer-posts-endorsements-and-criticism-of-democrats-on-social-media |access-date=November 19, 2025 |work=NW Twin Cities |date=November 7, 2025}}</ref>
+*[[Nick Langworthy]], [[New York's 23rd congressional district|NY-23]] (2023–present)<ref name="Reaction">{{cite news |title=Stefanik announcement sparks political reaction |url= https://cbs6albany.com/news/local/elise-stefanik-gains-key-endorsements-in-new-york-governor-race-hochul-cbs6-wrgb |access-date=November 8, 2025 |work=[[WRGB]] |date=November 7, 2025}}</ref>
+*[[Nicole Malliotakis]], [[New York's 11th congressional district|NY-11]] (2021–present)<ref name="Reaction"/>
+*[[Claudia Tenney]], [[New York's 24th congressional district|NY-24]] (2023–present), [[New York's 22nd congressional district|NY-22]] (2017–2019, 2021–2023)<ref>{{cite news |last=Manore |first=Alexis |title= Stefanik secures endorsements from area Republicans in governor campaign |url= https://www.romesentinel.com/news/elise-stefanik-governor-new-york-kathy-houchul-ny21-congres/article_95fbf00e-c76f-46d8-9023-8e52aa8bdde8.html |access-date=November 11, 2025 |work= The Daily Sentinel |date=November 7, 2025}}</ref>
+*[[Mike Lawler]], [[New York's 17th congressional district|NY-17]] (2023–present)<ref>{{cite web |last1=O'Keefe |first1=Ross |title=Mike Lawler backs rival Elise Stefanik's gubernatorial campaign |url=https://www.washingtonexaminer.com/news/campaigns/state/3897562/elise-stefanik-rival-mike-lawler-new-york-gubernatorial-endorsement/ |website=Washington Examiner |access-date=November 24, 2025 |date=November 24, 2025}}</ref>
+
+;Statewide officials
+*<s>[[George Pataki]], former [[Governor of New York|governor]] of [[New York (state)|New York]] (1995–2006)</s><ref>{{cite news |last=Marbone |first=Aaron |title=Stefanik announces run for governor |url=https://www.adirondackdailyenterprise.com/news/local-news/2025/11/stefanik-announces-run-for-governor/ |access-date=November 8, 2025 |work= Adirondack Daily Enterprise |date=November 8, 2025}}</ref> ''(later endorsed Blakeman)''<ref name="beacon23">{{cite web |title=State Republicans rally around Blakeman - Babylon Beacon |url=https://www.babylonbeacon.com/articles/state-republicans-rally-around-blakeman/ |website=Babylon Beacon |access-date=2026-02-23 |date=2026-02-19}}</ref>
+
+;State legislators
+*[[Rob Ortt]], minority leader of the [[New York State Senate]] (2020–present) from [[New York's 62nd State Senate district|SD-62]] (2015–present)<ref name="Reaction"/> 
+*[[Jake Ashby]], [[New York's 43rd State Senate district|SD-43]] (2023–present)<ref name="Official">{{cite news |title=It's Official: Elise Stefanik Launches Bid for New York Governor, Pledges to Restore Prosperity & Safety |url= https://5townscentral.com/2025/11/07/its-official-elise-stefanik-launches-bid-for-new-york-governor-pledges-to-restore-prosperity-safety/ |access-date=November 8, 2025 |work=[[WRGB]] |date=November 7, 2025}}</ref>
+*[[George Borrello]], [[New York's 57th State Senate district|SD-57]] (2019–present)<ref name="Official"/>
+*[[Steve Chan (American politician)|Steve Chan]], [[New York's 17th State Senate district|SD-17]] (2025–present)<ref name="Official"/>
+*[[Joseph Griffo]], [[New York's 47th State Senate district|SD-47]] (2007–present)<ref name="Official"/>
+*[[Pam Helming]], [[New York's 54th State Senate district|SD-54]] (2017–present)<ref name="Official"/>
+*[[Andrew Lanza]], [[New York's 24th State Senate district|SD-24]] (2007–present)<ref name="Official"/>
+*[[Peter Oberacker]], [[New York's 51st State Senate district|SD-51]] (2021–present)<ref name="Official"/>
+*[[Robert Rolison]], [[New York's 39th State Senate district|SD-39]] (2023–present)<ref name="Official"/>
+*[[Dan Stec]], [[New York's 45th State Senate district|SD-45]] (2021–present)<ref name="Official"/>
+*[[Jim Tedisco]], [[New York's 44th State Senate district|SD-44]] (2017–present)<ref name="Official"/>
+*[[Mark Walczyk]], [[New York's 49th State Senate district|SD-49]] (2023–present)<ref name="Reaction"/>
+*[[Bill Weber (New York politician)|Bill Weber]], [[New York's 38th State Senate district|SD-38]] (2023–present)<ref>{{cite web |title=Elise Stefanik Holds Rally in Rockland County, Gaining Support of Local Officials |url=https://www.rocklanddaily.com/news/elise-stefanik-holds-rally-in-rockland-county-gaining-support-of-local-officials/ |website=Rockland Daily |access-date=November 24, 2025}}</ref>
+*[[Sue Serino]], [[Dutchess County, New York|county executive of Dutchess County]] (2024–present) and former [[New York's 41st State Senate district|SD-41]] (2015–2022)<ref name="executive"/>
+*[[William A. Barclay]], minority leader of the [[New York State Assembly]] (2020–present) from the [[New York's 120th State Assembly district|120th district]] (2003–present)<ref name="Reaction"/>
+*[[Joe Angelino]], [[New York's 121st State Assembly district|AD-121]] (2021–present)<ref name="Files">{{cite news |title=Elise Stefanik officially files & announces run for New York governor |url= https://www.wnypapers.com/news/article/current/2025/11/07/164518/elise-stefanik-officially-files-announces-run-for-new-york-governor |access-date=November 9, 2025 |work=Niagara Frotier Publications |date=November 7, 2025}}</ref>
+*[[Andrea Bailey]], [[New York's 133rd State Assembly district|AD-133]] (2025–present)<ref name="Files"/>
+*[[Anil Beephan Jr.]], [[New York's 105th State Assembly district|AD-105]] (2023–present)<ref name="Files"/>
+*[[Scott Bendett]], [[New York's 107th State Assembly district|AD-107]] (2023–present)<ref name="Files"/>
+*[[Ken Blankenbush]], [[New York's 117th State Assembly district|AD-117]] (2011–present)<ref name="Files"/>
+*[[Paul Bologna]], [[New York's 144th State Assembly district|AD-144]] (2025–present)<ref name="Files"/>
+*[[Karl A. Brabenec]], [[New York's 98th State Assembly district|AD-98]] (2014–present)<ref name="Files"/>
+*[[Alec Brook-Krasny]], [[New York's 46th State Assembly district|AD-46]] (2006–2015, 2023–present)<ref name="Files"/>
+*[[Lester Chang]], [[New York's 49th State Assembly district|AD-49]] (2023–present)<ref name="Files"/>
+*[[Patrick Chludzinski]], [[New York's 143rd State Assembly district|AD-143]] (2025–present)<ref name="Files"/>
+*[[David DiPietro]], [[New York's 147th State Assembly district|AD-147]] (2023–present)<ref name="Files"/>
+*[[Christopher S. Friend]], [[New York's 124th State Assembly district|AD-124]] (2011–present)<ref name="Files"/>
+*[[Jeff Gallahan]], [[New York's 131st State Assembly district|AD-131]] (2021–present)<ref name="Files"/>
+*[[Scott Gray (politician)|Scott Gray]], [[New York's 116th State Assembly district|AD-116]] (2023–present)<ref name="Files"/>
+*[[Stephen Hawley]], [[New York's 139th State Assembly district|AD-139]] (2006–present)<ref name="Files"/>
+*[[Josh Jensen (politician)|Josh Jensen]], [[New York's 134th State Assembly district|AD-134]] (2021–present)<ref name="Files"/>
+*[[John Lemondes Jr.]], [[New York's 126th State Assembly district|AD-126]] (2021–present)<ref name="Files"/>
+*[[Brian Maher]], [[New York's 101st State Assembly district|AD-101]] (2023–present)<ref name="Files"/>
+*[[Michael Tannousis]], [[New York's 64th State Assembly district|AD-64]] (2021–present) and chair of the [[Staten Island Republican Party]] (2022–present)<ref name="Files"/>
+*[[Brian Manktelow]], [[New York's 130th State Assembly district|AD-130]] (2019–present)<ref name="Files"/>
+*[[Brian Miller (New York politician)|Brian Miller]], [[New York's 122nd State Assembly district|AD-122]] (2017–present)<ref name="Files"/>
+*[[Andrew Molitor]], [[New York's 150th State Assembly district|AD-150]] (2025–present)<ref name="Files"/>
+*[[Angelo Morinello]], [[New York's 145th State Assembly district|AD-145]] (2017–present)<ref name="Files"/>
+*[[Michael Novakhov]], [[New York's 45th State Assembly district|AD-45]] (2023–present)<ref name="Files"/>
+*[[Phil Palmesano]], [[New York's 132nd State Assembly district|AD-132]] (2011–present)<ref name="Files"/>
+*[[Sam Pirozzolo]], [[New York's 63rd State Assembly district|AD-63]] (2023–present)<ref name="Files"/>
+*[[Michael Reilly (New York politician)|Michael Reilly]], [[New York's 62nd State Assembly district|AD-62]] (2019–present)<ref name="Files"/>
+*[[Joe Sempolinski]], [[New York's 148th State Assembly district|AD-148]] (2025–present)<ref name="Files"/>
+*[[Matt Simpson (New York politician)|Matt Simpson]], [[New York's 114th State Assembly district|AD-114]] (2021–present)<ref name="Files"/>
+*[[Matt Slater (politician)|Matt Slater]], [[New York's 94th State Assembly district|AD-94]] (2023–present)<ref name="Files"/>
+*[[Robert Smullen]], [[New York's 118th State Assembly district|AD-118]] (2019–present)<ref name="Files"/>
+*[[Christopher Tague]], [[New York's 102nd State Assembly district|AD-102]] (2018–present)<ref name="Files"/>
+*[[Mary Beth Walsh]], [[New York's 112th State Assembly district|AD-112]] (2017–present)<ref name="Files"/>
+
+;County officials
+*[[Kevin Byrne (New York politician)|Kevin Byrne]], [[Putnam County, New York|county executive for Putnam County]] (2023–present)<ref name="executive">{{cite news |last1=Day |first1=Felix |title= Nine county executives back Stefanik for New York Governor |url= https://cbs6albany.com/news/local/nine-county-executives-back-congresswoman-elise-stefanik-for-ny-governor-tony-picente-kevin-byrne-steve-mclaughlin-paul-wendel-christopher-moss-susan-serino-peter-vroman-tony-picente-ryan-mcmahon-ii-steve-neuhaus-kevin-byrne-steve-mclaughlin-cbs6-wrgb |access-date=November 10, 2025 |work=[[WRGB]] |date=November 10, 2025}}</ref>
+*[[Steven McLaughlin]], [[Rensselaer County, New York|county executive for Rensselaer County]] [[County executive]] (2018–present)<ref name="executive"/>
+*[[Steve Neuhaus]], [[Orange County, New York|county executive for Orange County]] (2024–present)<ref name="executive"/>
+
+;Local officials
+*[[Inna Vernikov]], [[New York City Council|New York City councilmember]] from the [[New York City's 48th City Council district|48th district]] (2021–present)<ref name="Antisemitism">{{cite news |last1=LAPIN |first1=ANDREW |title=Elise Stefanik, Republican who dominated House antisemitism hearings, to run for New York governor |url=https://jweekly.com/2025/11/10/elise-stefanik-republican-who-dominated-house-antisemitism-hearings-to-run-for-new-york-governor/ |access-date=November 10, 2025 |work=J. |date=November 10, 2025}}</ref>
+
+;Party officials
+*[[Andrea Catsimatidis]], chair of the [[Manhattan Republican Party]] (2017–present)<ref name="Files"/>
+*<s>[[Edward F. Cox]], chair of the [[New York Republican Party]] (2009–2019, 2023–present)</s> ''(later endorsed Blakeman)''<ref>{{cite news |last1=Anderson |first1=Renee |last2=Kramer |first2=Marcia |title= Rep. Elise Stefanik announces run for New York governor, potentially challenging Kathy Hochul in 2026 election |url= https://www.cbsnews.com/newyork/news/elise-stefanik-running-for-new-york-governor/ |access-date=November 8, 2025 |work=[[Politico]] |date=November 8, 2025}}</ref>
+*<s>[[Gerard Kassar]], chair of the [[Conservative Party of New York State]] (2019–present)</s> ''(later endorsed Blakeman)''<ref name="Reaction"/>
+*[[Curtis Sliwa]], former chair of the [[Reform Party of New York State]] (2016–2018)<ref>{{cite news |last=Reisman |first=Nick |title= Mamdani is Kinda Sorta Almost with Hochul |url= https://www.politico.com/live-updates/2025/10/16/nyc-mayoral-debate-mamdani-cuomo-sliwa/mandani-is-kinda-sorta-almost-with-hochul-00613007 |access-date=October 19, 2025 |work=[[CBS News]] |date=October 16, 2025}}</ref>
+
+;Individuals
+*[[Miriam Adelson]], owner of the [[Las Vegas Sands]]<ref>{{cite news |last=Feldman |first=Joseph |title=Miriam Adelson Praises Stefanik at Sunday Zoa Gala, Signals Support for NY Governor Bid |url= https://vinnews.com/2025/11/10/miriam-adelson-praises-stefanik-at-sunday-zoa-gala-signals-support-for-ny-governor-bid/ |access-date=November 10, 2025 |work=[[VINnews]] |date=November 10, 2025}}</ref>
+*[[Sid Rosenberg]], radio personality<ref>{{citation |title= Elise Stefanik Congresswoman 11-07-25 |url= https://wabcradio.com/episode/elise-stefanik-congresswoman-11-07-25/ |access-date=November 8, 2025 |work=[[WABC (AM)|77 WABC]] |date=November 7, 2025}}</ref>
+*[[Leo Terrell]], civil rights attorney<ref name="Antisemitism"/>
+
+;Organizations
+*[[New York State Rifle and Pistol Association]]<ref>{{cite web |title=We are proud to support and endorse our next Governor, Elise Stefanik! |url=https://www.facebook.com/share/p/1H1hoTw2A7/ |website=New York State Rifle and Pistol Association on Facebook |access-date=November 25, 2025}}</ref>
+*[[Maggie's List]]<ref name="MaggiesListDecember">{{cite web |last1=Biddison |first1=Jennifer |title=Maggie's List Endorses Eight More Candidates |url=https://maggieslist.org/maggies-list-endorses-eight-more-candidates/ |website=Maggie's List |access-date=December 4, 2025 |date=December 3, 2025}}</ref>
+
+;Political parties
+*<s>[[Conservative Party of New York State]]</s><ref name="wins"/> ''(later endorsed Blakeman)''<ref name="bcourts"/>
+}}
+
+===Polling===
+{{hidden begin|titlestyle=background:#cff|title=Hypothetical polling|contentstyle=border:solid 1px silver; padding:8px; background:var(--background-color-base); color:var(--color-base);}}
+<!-- = = = don't edit the line above = = = -->
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br/>administered
+! Sample<br/>size{{efn|name="Key"}}
+! Margin<br/>of error
+! style="width:75px;"| Bruce<br/>Blakeman
+! style="width:75px;"| Another<br/>candidate
+! Undecided
+|-
+|style="text-align:left;"|[[John Zogby|John Zogby Strategies]]<ref name="ZogbyJan2026"/>
+|January 6–8, 2026
+|– (LV)
+|–
+|{{party shading/Republican}}|'''34%'''
+|21%
+|{{party shading/Undecided}}|'''45%'''
+|}
+
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br/>administered
+! Sample<br/>size{{efn|Key:<br/>A – all adults<br/>RV – registered voters<br/>LV – likely voters<br/>V – unclear|name="Key"}}
+! Margin<br/>of error
+! style="width:75px;"| Bruce<br/>Blakeman
+! style="width:75px;"| Elise<br/>Stefanik
+! Other
+! Undecided
+|-
+|style="text-align:left;"|[[Siena College Research Institute|Siena College]]<ref name="SienaDecember2025"/>
+|December 8–12, 2025
+|–
+|±&nbsp;4.1%
+|17%
+|{{party shading/Republican}}|'''48%'''
+|1%{{efn|name="SE1"}}
+|34%
+|-
+|style="text-align:left;"|J.L. Partners (R)<ref>{{Cite web|url=https://static1.squarespace.com/static/663253f0bc87b7070102f41f/t/69146bd5727a1a0835e3a461/1762946005171/NY+GOP+Primary+Toplines.pdf|title=NY GOP Primary Poll|work=J.L. Partners|date=November 12, 2025|access-date=November 12, 2025}}</ref>
+|November 9–10, 2025
+|400 (LV)
+|±&nbsp;4.9%
+|5%
+|{{party shading/Republican}}|'''74%'''
+|7%{{efn|"Someone else" with 7%}}
+|14%
+|}
+
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br/>administered
+! Sample<br/>size{{efn|name="Key"}}
+! Margin<br/>of error
+! style="width:75px;"| Bruce<br/>Blakeman
+! style="width:75px;"| Mike<br/>Lawler
+! style="width:75px;"| Elise<br/>Stefanik
+! Other
+! Undecided
+|-
+|style="text-align:left;"|[[Siena College Research Institute|Siena College]]<ref name="SienaJune2025"/>
+|June 23–26, 2025
+|800 (RV)
+|±&nbsp;4.4%
+|7%
+|18%
+|{{party shading/Republican}}|'''35%'''
+|1%
+|{{party shading/Undecided}}|'''39%'''
+|-
+|style="text-align:left;"|co/efficient (R)<ref name="c/eJune2025">{{Cite web|url=https://nypost.com/2025/06/29/us-news/one-ny-republican-has-a-massive-edge-in-possible-primary-to-face-gov-kathy-hochul-poll/|title=One NY Republican opens massive lead in possible primary to face Gov. Kathy Hochul: poll|first=Carl|last=Campanile|website=[[New York Post]]|date=June 29, 2025|access-date=June 29, 2025}}</ref>
+|June 18–20, 2025
+|1108 (LV)
+|±&nbsp;3.8%
+|6%
+|8%
+|{{party shading/Republican}}|'''64%'''
+|–
+|22%
+|-
+|style="text-align:left;"|[[Siena College Research Institute|Siena College]]<ref name="SienaMay2025"/>
+|May 12–15, 2025
+|805 (RV)
+|±&nbsp;4.3%
+|11%
+|22%
+|{{party shading/Republican}}|'''35%'''
+|2%{{efn|name="SE2"|"Someone else" with 2%}}
+|30%
+|-
+|style="text-align:left;"|co/efficient (R)<ref name="c/eMay2025">{{Cite web|url=https://nypost.com/2025/05/21/us-news/elise-stefanik-in-dead-heat-with-kathy-hochul-in-potential-governor-race-as-trump-beats-democrat-in-favorability-poll/|title=Elise Stefanik in dead heat with Kathy Hochul in potential governor race, as Trump edges Democrat in favorability: poll|first=Carl|last=Campanile|website=[[New York Post]]|date=May 21, 2025|access-date=May 21, 2025}}</ref>
+|May 1–2, 2025
+|1163 (LV)
+|±&nbsp;3.3%
+|8%
+|9%
+|{{party shading/Republican}}|'''56%'''
+|–
+|27%
+|-
+|style="text-align:left;"|GrayHouse (R)<ref name="GrayHouseApril2025">{{Cite web|url=https://www.politico.com/f/?id=00000196-794c-d38d-ad9f-fdde91da0000|title=New York Poll Results - GrayHouse|website=Politico|date=April 28, 2025|access-date=April 28, 2025}}</ref>
+|April 22–24, 2025
+|400 (RV)
+|±&nbsp;5.0%
+|5%
+|7%
+|{{party shading/Republican}}|'''44%'''
+|–
+|{{party shading/Undecided}}|'''44%'''
+|-
+|style="text-align:left;"|[[Siena College Research Institute|Siena College]]<ref name="SienaApril2025"/>
+|April 14–16, 2025
+|802 (RV)
+|±&nbsp;4.4%
+|{{party shading/Republican}}|'''28%'''
+|22%
+|–
+|4%{{efn|name="SE4"|"Someone else" with 4%}}
+|{{party shading/Undecided}}|'''46%'''
+|-
+|style="text-align:left;"|[[Siena College Research Institute|Siena College]]<ref name="SienaMarch2025"/>
+|March 2–6, 2025
+|400 (RV)
+|–
+|13%
+|{{party shading/Republican}}|'''25%'''
+|–
+|3%{{efn|name="SE3"|"Someone else" with 3%}}
+|{{party shading/Undecided}}|'''60%'''
+|}
+{{hidden end}}
+
+==Conservative convention==
+The [[New York State Conservative Party]] held its annual conference and nominating convention in Albany in February 2026, officially endorsing Blakeman for governor. Because New York utilizes a fusion voting system, Blakeman accepted the third-party ballot line to run concurrently on both the Republican and Conservative lines.<ref name="ConservativeLine">{{cite web |title=Bruce Blakeman receives nomination for governor from NY State Conservative Party |url=https://longisland.news12.com/bruce-blakeman-receives-nomination-for-governor-from-ny-state-conservative-party |website=News 12 |access-date=2026-02-15}}</ref>
+===Candidates===
+====Nominee====
+*[[Bruce Blakeman]], [[Nassau County Executive|Nassau County executive]] (2021–present)<ref name="ConservativeLine"/>
+**Running mate: Todd Hood, [[Madison County, New York|Madison County]] sheriff (2018–present)<ref name="HoodLtGov"/>
+
+==Working Families convention==
+The [[Working Families Party|New York Working Families Party]] declined to nominate Hochul or Delgado, instead opting for a "placeholder candidate" to appear on their ballot line. The party has stated that the placeholder candidate will later be replaced by the Democratic nominee.<ref name="Placeholder"/> A convention attendee told ''[[City & State]]'' that Delgado won 41% of the weighted party committee vote to Hochul's 3%, while "placeholder candidate" won 56% of the vote. State party leaders Jasmine Gripper and [[Ana María Archila]] disputed the claim, but did not share the exact vote totals.<ref name="Placeholder"/>
+
+On August 21, the Working Families Party nominated Hochul and Adams.<ref name="WFPLine"/>
+===Candidates===
+====Nominee====
+*[[Kathy Hochul]], [[governor of New York]] (2021–present)<ref name="WFPLine">{{Cite web |last1=Mahoney |first1=Bill |date=2026-08-21 |url=https://subscriber.politicopro.com/article/2026/08/working-families-party-gives-its-ballot-line-to-hochul-01045637 |title=Working Families Party gives its ballot line to Hochul |access-date=2026-08-27 |website=Politico |language=en-US}}</ref>
+**Running mate: [[Adrienne Adams (politician)|Adrienne Adams]], former speaker of the [[New York City Council]] (2022–2025) from the [[New York City's 28th City Council district|28th district]] (2017–2025) and candidate for [[mayor of New York City]] in [[2025 New York City mayoral election|2025]]<ref name="WFPLine"/>
+ 
+== Independents and other parties ==
+The [[New York State Board of Elections]] rejected all petitions for non-qualified party ballot access in May 2026.<ref name="BOEDisqualification">{{cite web |title=2026 General Prima Facie and Hearing Report |url=https://elections.ny.gov/2026-general-prima-facie-and-hearing-report |website=New York State Board of Elections |date=June 4, 2026 |access-date=June 26, 2026}}</ref>
+=== Candidates ===
+====Declared====
+*Jonathan Makeley ([[Prohibition Party|Prohibition]]), chair of the [[Prohibition Party]] of New York ''(write-in)''<ref>{{cite web |last1=Willow Evans |first1=Jordan |title=Prohibition Party of New York Chair Jonathan Makeley Announces Write-In Campaign for Governor |url=https://independentpoliticalreport.com/2026/06/prohibition-party-of-new-york-chair-jonathan-makeley-announces-write-in-campaign-for-governor/ |website=Independent Political Report |access-date=28 June 2026 |date=3 June 2026}}</ref>
+====Disqualified====
+*[[Larry Sharpe (political activist)|Larry Sharpe]] ([[Libertarian Party (United States)|Libertarian]]), business training company founder and perennial candidate<ref>{{cite news |last=Day |first=Lucas |date=October 27, 2025 |title=Larry Sharpe Nominated as Libertarian Candidate for Governor |url=https://www.fingerlakesdailynews.com/regional-state-congressional/larry-sharpe-nominated-as-libertarian-candidate-for-governor/ |work=Finger Lakes Daily News |access-date=November 7, 2025}}</ref><ref name="BOEDisqualification"/>
+*Kevin Gay<ref name="Candidate Filings">{{cite web|url=https://publicreporting.elections.ny.gov/ActiveDeactiveFiler/ActiveDeactiveFiler|website=New York State Board of Elections|title=New York State Board of Elections Public Reporting System - List of Filers|access-date=September 6, 2025}}</ref>
+*Carl Gottstein (Independent), conservative activist<ref name="BaseBlues">{{cite web |last1=Reisman |first1=Nick |last2=Ngo |first2=Emily |title=Blakeman's base blues |url=https://www.politico.com/newsletters/new-york-playbook/2026/01/09/blakemans-base-blues-00718269 |website=POLITICO |access-date=January 13, 2026 |language=en |date=January 9, 2026}}</ref>
+
+==General election==
+
+===Predictions===
+{| class="wikitable" style=text-align:center
+!Source
+!Ranking
+!As of
+|-
+|-
+|align=left|''[[The Cook Political Report]]''<ref>{{cite web|title=2026 CPR Governor Race ratings|url=https://www.cookpolitical.com/ratings/governor-race-ratings|website=[[The Cook Political Report]]|access-date=January 23, 2025}}</ref>
+|{{USRaceRating|Solid|D}}
+|September 17, 2026
+|-
+|align=left|[[Decision Desk HQ]]<ref name="DDHQ">{{cite web |title=2026 Governor Forecast |url=https://votes.decisiondeskhq.com/forecast/2026/governor |website=Decision Desk HQ |access-date=22 September 2026}}</ref>
+|{{USRaceRating|Likely|D}}
+|September 23, 2026
+|-
+|align=left|[[Fox News]]<ref>{{cite web |title=Fox News Power Rankings: The top races to watch as 36 states choose their next governor |url=https://www.foxnews.com/politics/fox-news-power-rankings-top-races-watch-36-states-choose-next-governor |website=[[Fox News]] |publisher=Rémy Numa |access-date=24 July 2026}}</ref>
+|{{USRaceRating|Solid|D}}
+|July 23, 2026
+|-
+|align=left|''[[Inside Elections]]''<ref>{{Cite web|title=Gubernatorial Ratings|url=https://insideelections.com/ratings/governor|access-date=February 7, 2025|website=[[Inside Elections]]}}</ref>
+|{{USRaceRating|Likely|D}}
+|September 3, 2026
+|-
+|align="left"|[[RealClearPolitics]]<ref>{{Cite web|title=2026 Governor Races {{!}} RealClearPolitics|url=https://www.realclearpolling.com/maps/governor/2026/toss-up|access-date=June 5, 2026|website=[[RealClearPolitics]]|archive-url=https://web.archive.org/web/20260601183127/https://www.realclearpolling.com/maps/governor/2026/toss-up|archive-date=June 1, 2026|url-status=dead}}</ref>
+|{{USRaceRating|Solid|D}}
+|June 5, 2026
+|-
+|align=left|''[[Sabato's Crystal Ball]]''<ref>{{cite web|title=2026 Governor|url=https://centerforpolitics.org/crystalball/2026-governor/|website=[[Sabato's Crystal Ball]]|access-date=May 1, 2025}}</ref>
+|{{USRaceRating|Safe|D}}
+|September 29, 2026
+|-
+| style="text-align: left;" |[[Silver Bulletin]]<ref name=":Silver">{{Cite web |last=Silver |first=Nate |date=2026-08-20 |title=FLIPR 2026 midterm election forecast |url=https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model |url-access=subscription |access-date=2026-08-20 |website=www.natesilver.net |language=en}}</ref>
+| {{US political race rating|Solid|D}}
+|August 25, 2026
+|}
+
+===Post-primary endorsements===
+{{Endorsements box
+|title=Kathy Hochul (D)
+|colwidth=60
+|list=
+;State legislators
+*4 state senators{{Efn|
+*[[Erik Bottcher]], [[New York's 47th State Senate district|SD-47]] (2026–present)<ref name="Bott"/>
+*[[Nathalia Fernandez]], [[New York's 34th State Senate district|SD-34]] (2023–present)<ref name="Gibson"/>
+*[[Luis R. Sepúlveda]], [[New York's 32nd State Senate district|SD-32]] (2018–present)<ref name="Gibson"/>
+*[[José M. Serrano]], [[New York's 29th State Senate district|SD-29]] (2005–present)<ref name="Gibson"/>}}
+*8 state assemblymembers{{Efn|
+*[[George Alvarez (politician)|George Alvarez]], [[New York's 78th State Assembly district|AD-78]] (2023–present)<ref name="Gibson"/>
+*[[Michael Benedetto]], [[New York's 82nd State Assembly district|AD-82]] (2005–present)<ref name="Gibson"/>
+*[[Landon Dais]], [[New York's 77th State Assembly district|AD-77]] (2024–present)<ref name="Gibson"/>
+*[[Jeffrey Dinowitz]], [[New York's 81st State Assembly district|AD-81]] (1994–present)<ref name="Gibson"/>
+*[[Chantel Jackson]], [[New York's 79th State Assembly district|AD-79]] (2021–present)<ref name="Gibson"/>
+*[[Karines Reyes]], [[New York's 87th State Assembly district|AD-87]] (2019–present)<ref name="Gibson"/>
+*[[Emerita Torres]], [[New York's 85th State Assembly district|AD-85]] (2025–present)<ref name="Gibson"/>
+*[[John Zaccaro Jr.|John Zaccaro]], [[New York's 80th State Assembly district|AD-80]] (2023–present)<ref name="Gibson"/>}}
+
+;Local officials
+*[[Vanessa Gibson]], [[Bronx Borough President|borough president of the Bronx]] (2022–present)<ref name="Gibson">{{cite web |title=Bronx elected officials overwhelmingly endorse Governor Kathy Hochul for re-election |url=https://www.bxtimes.com/bronx-elected-officials-endorse-gov-kathy-hochul/ |website=Bronx Times |access-date=1 July 2026 |date=30 June 2026}}</ref>
+*[[Brad Hoylman-Sigal]], [[Manhattan Borough President|borough president of Manhattan]] (2026–present)<ref name="Bott"/>
+*[[Julie Menin]], speaker of the [[New York City Council]] (2026–present) from [[New York City's 5th City Council district|CD-05]] (2022–present)<ref name="Bott">{{cite web |last1=Sommerfeldt |first1=Chris |last2=Reisman |first2=Nick |title=Frank Carone's alleged other income stream |url=https://www.politico.com/newsletters/new-york-playbook/2026/07/07/frank-carones-alleged-other-income-stream-00988006 |website=POLITICO |access-date=9 July 2026 |language=en |date=7 July 2026 |quote=New York City Council Speaker Julie Menin, Manhattan Borough President Brad Hoylman-Sigal and state Sen. Erik Bottcher are among those backing the governor’s campaign. All told, 23 Manhattan Democrats endorsed her Monday — including state and city lawmakers.}}</ref>
+*8 other New York City councilmembers{{Efn|
+*[[Shirley Aldebol]], [[New York City's 13th City Council district|CD-13]] (2026–present)<ref name="Gibson"/>
+*[[Eric Dinowitz]], [[New York City's 11th City Council district|CD-11]] (2021–present)<ref name="Gibson"/>
+*[[Elsie Encarnacion]], [[New York City's 8th City Council district|CD-08]] (2026–present)<ref name="Gibson"/>
+*[[Amanda Farías]], [[New York City's 18th City Council district|CD-18]] (2022–present)<ref name="Gibson"/>
+*[[Oswald Feliz]], [[New York City's 15th City Council district|CD-15]] (2021–present)<ref name="Gibson"/>
+*[[Kevin Riley (politician)|Kevin Riley]], [[New York City's 12th City Council district|CD-12]] (2021–present)<ref name="Gibson"/>
+*[[Justin Sanchez]], [[New York City's 17th City Council district|CD-17]] (2026–present)<ref name="Gibson"/>
+*[[Pierina Sanchez]], [[New York City's 14th City Council district|CD-14]] (2022–present)<ref name="Gibson"/>}}
+*[[Jumaane Williams]], [[New York City Public Advocate]] (2019-present)<ref>{{cite news |last= Roper |first=Nila |date=2026-10-03 |title=Jumaane Williams isn’t slowing down on pushing for progress|url=https://www.cityandstateny.com/personality/2026/10/jumaane-williams-isnt-slowing-down-pushing-progress/416407/ |work=City & State |location= |publisher= |access-date=2026-10-09 |archive-url=https://web.archive.org/web/20261004013525/https://www.cityandstateny.com/personality/2026/10/jumaane-williams-isnt-slowing-down-pushing-progress/416407/|archive-date=2026-10-04 |url-status=live}}</ref>
+;Labor unions
+*[[1199SEIU United Healthcare Workers East]]<ref name="HotLoud">{{cite web |last1=Rivard |first1=Ry |title=New York's hot, loud, busy weekend |url=https://www.politico.com/newsletters/new-york-playbook-pm/2026/07/01/new-yorks-hot-loud-busy-weekend-00983994 |website=POLITICO |access-date=2 July 2026 |language=en |date=1 July 2026}}</ref>
+*[[Actors' Equity Association]]<ref name="Holly">{{cite web |last1=Huston |first1=Caitlin |title=Kathy Hochul Nabs Three Entertainment Union Endorsements In New York Governor's Race |url=https://www.hollywoodreporter.com/news/politics-news/kathy-hochul-new-york-governors-endorsements-1236640445/ |website=The Hollywood Reporter |access-date=9 July 2026 |date=8 July 2026}}</ref>
+*[[American Federation of Musicians]] Local 802<ref name="Holly"/>
+*[[Communications Workers of America]] District 1<ref>{{cite web |title=Communications Workers of America District 1 Announces Endorsement of Kathy Hochul for Governor, Adrienne Adams for Lieutenant Governor, and Letitia James for Attorney General |url=https://cwad1.org/press-releases/communications-workers-america-district-1-announces-endorsement-kathy |website=Communications Workers of America |access-date=2 July 2026 |language=en |date=29 June 2026}}</ref>
+*[[IATSE]] District 10<ref name="Holly"/>
+*[[North America's Building Trades Unions|New York City Building and Construction Trades Council]]<ref>{{cite web |title=NYS Building & Construction Trades Council Endorses Governor Hochul for Re-Election |url=https://www.laborpress.org/nys-building-construction-trades-council-endorses-governor-hochul-for-re-election/ |website=LaborPress |access-date=10 September 2026}}</ref>
+*New York State [[AFL-CIO]]<ref name="DontE">{{cite news |last1=Lewis |first1=Rebecca C. |title=TWU to Big Labor: don't endorse Hochul |url=https://www.cityandstateny.com/politics/2026/07/twu-big-labor-dont-endorse-hochul/414555/ |work=City & State NY |language=en |date=1 July 2026 |archive-url=https://web.archive.org/web/20260923120123/https://www.cityandstateny.com/politics/2026/07/twu-big-labor-dont-endorse-hochul/414555/ |archive-date=2026-09-23 |url-status=live}}</ref>
+*New York State [[International Association of Fire Fighters|Professional Fire Fighters Association]]<ref name="uniformed"/>
+*[[Professional Staff Congress]]<ref name="DontE"/>
+*[[Public Employees Federation]]<ref name="PEF1">{{cite web |title=PEF Executive Board votes to endorse Governor Kathy Hochul |url=https://www.pef.org/articles/news/pef-executive-board-votes-to-endorse-governor-kathy-hochul/ |website=PEF |access-date=19 September 2026 |date=18 September 2026}}</ref>
+*[[Uniformed Firefighters Association]]<ref name="uniformed">{{cite news |last1=Krichevsky |first1=Sophie |title=Hochul secures firefighter unions' endorsements |url=https://www.cityandstateny.com/politics/2026/09/hochul-secures-firefighter-unions-endorsements/415924/ |work=City & State |access-date=13 September 2026 |language=en |date=11 September 2026 |archive-url=https://web.archive.org/web/20261005171805/https://www.cityandstateny.com/politics/2026/09/hochul-secures-firefighter-unions-endorsements/415924/ |archive-date=2026-10-05 |url-status=live}}</ref>
+*[[Uniformed Fire Officers Association]]<ref name="uniformed"/>
+
+;Organizations
+*[[Eleanor's Legacy]]<ref>{{cite web |title=Eleanor's Legacy Endorsements |url=https://www.eleanorslegacy.com/endorsements26 |website=Eleanor's Legacy |access-date=31 July 2026}}</ref>
+*[[Everytown for Gun Safety]]<ref>{{cite web |title=Everytown for Gun Safety Action Fund Announces New Round of Statewide Endorsements, Backing 40 Statewide Candidates in 15 States |url=https://momsdemandaction.org/press/everytown-for-gun-safety-action-fund-announces-new-round-of-statewide-endorsements-backing-40-statewide-candidates-in-15-states/ |website=Moms Demand Action |access-date=September 15, 2026 |language=en-us}}</ref>
+*[[Human Rights Campaign]]<ref name="HRCAugust">{{cite web |title=Human Rights Campaign PAC Endorses Slate of Pro-Equality Candidates |url=https://www.hrc.org/press-releases/human-rights-campaign-pac-endorses-slate-of-pro-equality-candidates-for-governor-in-key-states |website=HRC |access-date=30 August 2026 |date=27 August 2026}}</ref>
+*[[New York League of Conservation Voters]]<ref name="LCV1">{{cite web |title=New York conservation group endorses Hochul for reelection |url=https://www.fingerlakes1.com/2026/07/23/new-york-conservation-group-endorses-hochul-for-reelection/ |website=FingerLakes1 |access-date=25 July 2026 |date=23 July 2026}}</ref>
+*[[Planned Parenthood]] of Greater New York<ref name="MeninMoment">{{cite web |last1=Anuta |first1=Joe |title=Menin's AI moment |url=https://www.politico.com/newsletters/new-york-playbook-pm/2026/09/28/menins-ai-moment-01095807 |website=POLITICO |access-date=30 September 2026 |language=en |date=28 September 2026}}</ref> 
+}}
+{{Endorsements box
+|title=Bruce Blakeman (R)
+|colwidth=
+|list=
+;Local officials
+*[[Robert Holden (politician)|Robert Holden]], former member of the New York City Council from [[New York City's 30th City Council district|CD-30]] (2018–2025) ''(Democratic)''<ref name="RBH">{{cite web |title=Blakeman pitches himself as Republican Democrats can back |url=https://ny1.com/nyc/all-boroughs/politics/2026/09/23/bruce-blakeman-kathy-hochul-democrats |website=ny1.com |access-date=24 September 2026 |language=en}}</ref>
+;Tribal officials
+* JC Seneca, President of the Seneca Nation<ref>{{cite news |last=Ironcloud |first=Petala |date=2026-10-06 |title='Our enemy of our enemy is still our enemy': Seneca Nation members protest tribal president's Blakeman fundraiser|url=https://www.cityandstateny.com/politics/2026/10/our-enemy-our-enemy-still-our-enemy-seneca-nation-members-protest-tribal-presidents-blakeman-fundraiser/416434/ |work=City & State |archive-url=https://web.archive.org/web/20261007023726/https://www.cityandstateny.com/politics/2026/10/our-enemy-our-enemy-still-our-enemy-seneca-nation-members-protest-tribal-presidents-blakeman-fundraiser/416434/ |archive-date=2026-10-07 |url-status=live|location= |publisher= |access-date=2026-10-09}}</ref>
+;Labor unions
+*[[Correction Officers' Benevolent Association]]<ref name="NYSCOBA">{{cite web |last1=Harding |first1=Robert |title=NY correction officers union overwhelmingly endorses Blakeman for governor |url=https://auburnpub.com/news/local/government-politics/article_a7e1854a-8f32-45b5-bc9e-094545431b53.html |website=The Citizen |access-date=16 September 2026 |language=en |date=15 September 2026}}</ref>
+*[[United Association|United Association Steamfitters]] Local 638<ref name="L638">{{cite web |title=Steamfitters Local 638 endorses Bruce Blakeman for New York governor |url=https://www.fingerlakes1.com/2026/09/02/steamfitters-local-638-endorses-bruce-blakeman-for-new-york-governor/ |website=FingerLakes1 |access-date=5 September 2026 |date=2 September 2026}}</ref>
+
+;Individuals
+*[[Debra Messing]], actress<ref>{{cite web |last=Campanile |first=Carl |title=Star Dem-Backer Debra Messing endorses GOP's Bruce Blakeman for NY governor: 'What we need' |url=https://nypost.com/2026/10/04/us-news/star-dem-backer-debra-messing-endorses-gops-bruce-blakeman-for-ny-governor-what-we-need/ |website=[[New York Post]] |date=October 4, 2026 |access-date=October 5, 2026}}</ref>
+}}
+
+=== Fundraising ===
+''Italics'' indicate a disqualified candidate.
+{| class="wikitable"
+|+
+! colspan="4" |Campaign finance reports as of July 11, 2026<ref name="TransparencyUSA">{{cite web |title=Governor of New York Election |url=https://www.transparencyusa.org/ny/race/governor-of-new-york-76790 |website=Transparency USA |access-date=29 July 2026}}</ref>
+|-
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|Kathy Hochul (D)
+|$16,594,119
+|$12,983,887
+|$3,610,232
+|-
+|{{party shading/Republican}}|Bruce Blakeman (R)
+|$13,445,025
+|$10,455,186
+|$2,989,839
+|-
+|{{party shading/Libertarian}}|''Larry Sharpe (L)''
+|$121,604
+|$114,470
+|$7,134
+|}
+
+===Polling===
+'''Aggregate polls'''<br/>
+{| class="wikitable sortable" style="text-align:center;font-size:90%;line-height:17px"
+!Source of poll<br/>aggregation
+!Dates<br/>administered
+!Dates<br/>updated
+! style="width:75px;" | Kathy <br/>Hochul
+! style="width:75px;" | Bruce <br/>Blakeman
+! style="width:75px;"| Other/undecided<br/>{{Efn|Calculated by taking the difference of 100% and all other candidates combined.|name=|group=}}
+!Margin
+|-
+|[[270toWin]]<ref>{{cite web |title=2026 Polls: New York Governor |url=https://www.270towin.com/2026-governor-polls/new-york |website=[[270toWin]] |access-date=24 September 2026}}</ref>
+|September 23, 2026
+|September 24, 2026
+|{{party shading/Democratic}}|'''54.0%'''
+|40.0%
+|6.0%
+|{{party shading/Democratic}}|'''Hochul +14.0%'''
+|-
+|[[Decision Desk HQ]]<ref>{{cite web |title=2026 New York Governor Polling |url=https://votes.decisiondeskhq.com/races/2026-11-03/new-york-governor-general-election/polling |website=[[Decision Desk HQ]] |access-date=13 September 2026}}</ref>
+|through October 5, 2026
+|October 8, 2026
+|{{party shading/Democratic}}|'''52.6%'''
+|41.0%
+|6.4%
+|{{party shading/Democratic}}|'''Hochul +11.6%'''
+|-
+|[[G. Elliott Morris|FiftyPlusOne]]<ref name="FPOGeneral">{{cite web |title=New York General Governor Election |url=https://fiftyplusone.news/polls/governor/general/new-york |website=FiftyPlusOne |access-date=17 August 2026}}</ref>
+|through October 5, 2026
+|October 8, 2026
+|{{party shading/Democratic}}|'''52.2%'''
+|40.2%
+|7.6%
+|{{party shading/Democratic}}|'''Hochul +12.0%'''
+|-
+|[[RealClearPolitics]]<ref>{{cite web |title=2026 New York Governor - Blakeman vs. Hochul |url=https://www.realclearpolling.com/polls/governor/general/2026/new-york/hochul-vs-blakeman |website=[[RealClearPolitics]] |access-date=February 26, 2026}}</ref>
+|September 11 – October 5, 2026
+|October 8, 2026
+|{{party shading/Democratic}}|'''53.3%'''
+|40.5%
+|6.2%
+|{{party shading/Democratic}}|'''Hochul +12.8%'''
+|-
+|''[[Silver Bulletin]]''<ref name="Silver">{{Cite web |url=https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model |title=FLIPR 2026 midterm election forecast |last1=Silver |first1=Nate |author1-link=Nate Silver |last2=McKown-Dawson |first2=Eli |website=[[Silver Bulletin]] |via=[[Substack]] |date=August 11, 2026 |access-date=August 13, 2026 |archive-date=August 11, 2026 |archive-url=https://web.archive.org/web/20260811192328/https://pbs.twimg.com/media/HPddawZXsAA34S_?format=jpg |url-status=live |url-access=subscription}}</ref>
+|through October 5, 2026
+|October 8, 2026
+|{{party shading/Democratic}}|'''52.8%'''
+|40.4%
+|6.8%
+|{{party shading/Democratic}}|'''Hochul +12.4%'''
+|-
+|colspan="3"|'''Average'''
+|{{party shading/Democratic}}|'''53.0%'''
+|40.4%
+|6.6%
+|{{party shading/Democratic}}|'''Hochul +12.6%'''
+|}
+
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br/>administered
+! Sample<br/>size{{efn|name="Key"}}
+! Margin<br/>of error
+! style="width:100px;"| Kathy<br/>Hochul (D)
+! style="width:100px;"| Bruce<br/>Blakeman (R)
+! Other
+! Undecided
+|-
+| style="text-align:left;"|[[Emerson College]]<ref>{{cite web|url=https://emersoncollegepolling.com/new-york-2026-poll-governor-hochul-leads-blakeman-by-12/|title=New York 2026 Poll: Governor Hochul Leads Blakeman by 12|date=October 8, 2026|access-date=October 8, 2026|website=[[Emerson College Polling]]}}</ref>{{efn-ua|name=WPIX|Poll sponsored by [[WPIX]]}}
+|October 3–5, 2026
+|900 (LV)
+|±&nbsp;3.3%
+|{{party shading/Democratic}}|'''52%'''
+|40%
+|—
+|8%
+|-
+| style="text-align:left;"|[[Marist University]]<ref>{{cite web|url= https://maristpoll.marist.edu/wp-content/uploads/2026/10/Marist-Poll_NYS_NOS-and-Tables_202610051034565bVw9_q.pdf |title=Midterm Elections in New York, October 2026|date=October 7, 2026|access-date=October 7, 2026|website=[[Marist University]]}}</ref>
+|October 1–4, 2026
+|1,361 (RV)
+|±&nbsp;3.6%
+|{{party shading/Democratic}}|'''53%'''
+|42%
+|1%{{efn|"Another candidate" with 1%}}
+|5%
+|-
+|style="text-align:left;"|co/efficient (R)<ref>{{cite web |last1=Campanile |first1=Carl |title=More than half of New York voters ‘concerned’ about rise of socialism: poll |url=https://nypost.com/2026/10/05/us-news/more-than-half-of-new-york-voters-concerned-about-rise-of-socialism-poll/ |publisher=[[New York Post]] |access-date=October 6, 2026 |date=October 5, 2026}}</ref>{{Efn-ua|name=CPNT}}
+|September 23–25, 2026
+|1,046 (LV)
+|±&nbsp;3.0%
+|{{party shading/Democratic}}|'''48%'''
+|41%
+|–
+|11%
+|-
+|style="text-align:left;"|[[Quinnipiac University Polling Institute|Quinnipiac University]]<ref>{{cite web|url=https://poll.qu.edu/poll-release?releaseid=3967|title=NY Governor's Race: Hochul Up 19 Points Over Blakeman With The Cost Of Living & Economy Top Of Voters' Minds, Quinnipiac University New York State Poll Finds; Senator Chuck Schumer's Job Approval: 36%|date=September 23, 2026|access-date=September 23, 2026|website=[[Quinnipiac University Polling Institute|Quinnipiac University]]}}</ref>
+|September 17–20, 2026
+|1,026 (LV)
+|±&nbsp;4.1%
+|{{party shading/Democratic}}|'''58%'''
+|39%
+|1%{{efn|"Refused" with 1%}}
+|2%
+|-
+|style="text-align:left;"|[[Siena College Research Institute|Siena College]]<ref>{{Cite web|url=https://sri.siena.edu/2026/09/23/siena-poll-of-likely-new-york-state-voters-hochul-50-blakeman-41/|title=Siena Poll Of Likely New York State Voters: Hochul 50%, Blakeman 41% (Hochul 49-39% in August) |website=[[Siena College Research Institute|Siena College]]|date=September 23, 2026|access-date=September 23, 2026}}</ref>
+|September 11–17, 2026
+|1,144 (LV)
+|±&nbsp;3.9%
+|{{party shading/Democratic}}|'''50%'''
+|41%
+|–
+|9%
+|-
+|style="text-align:left;"|[[McLaughlin & Associates]] (R)<ref>{{cite web |last1=Campanile |first1=Carl |title=Bruce Blakeman poll claims he’s within 4 points of toppling Hochul in NY governor’s race |url=https://nypost.com/2026/09/08/us-news/blakeman-poll-claims-hes-within-4-points-of-toppling-hochul/ |publisher=[[New York Post]] |access-date=September 8, 2026 |date=September 8, 2026}}</ref>{{Efn-ua|name=Blakeman}}
+|August 27–31, 2026
+|800 (LV)
+|±&nbsp;4.7%
+|{{party shading/Democratic}}|'''50%'''
+|46%
+|–
+|5%
+|-
+|style="text-align:left;"|Concord Public Opinion Partners (D)<ref>{{Cite web|url=https://www.politico.com/f/?id=000001a0-63f8-d286-a1b8-fffc39b00000|title=NEW YORK'S K-12 OPPORTUNITY:THE FEDERAL SCHOLARSHIP TAX CREDIT |website=[[Politico]]|date=September 3, 2026|access-date=September 3, 2026}}</ref>{{efn-ua|name=EFN|Poll sponsored by Education Reform Now}}
+|August 19–21, 2026
+|505 (LV)
+|±&nbsp;4.4%
+|{{party shading/Democratic}}|'''50%'''
+|34%
+|5%{{efn|"Someone else" with 5%}}
+|11%
+|-
+|style="text-align:left;"|[[Siena College Research Institute|Siena College]]<ref>{{Cite web|url=https://sri.siena.edu/2026/08/12/siena-poll-of-likely-new-york-state-voters-hochul-49-blakeman-39/|title=Siena Poll Of Likely New York State Voters: Hochul 49%, Blakeman 39% |website=[[Siena College Research Institute|Siena College]]|date=August 12, 2026|access-date=August 12, 2026}}</ref>
+|August 3–6, 2026
+|811 (LV)
+|±&nbsp;4.2%
+|{{party shading/Democratic}}|'''49%'''
+|39%
+|1%{{efn|name="SE1"}}
+|11%
+|-
+|style="text-align:left;"|Moxie Strategies<ref>{{cite web |title=POLL: NEW YORK VOTERS OVERWHELMINGLY SAY IT’S TIME TO QUADRUPLE THE VOLUNTEER FIREFIGHTER TAX CREDIT |url=https://empirereportnewyork.com/poll-new-york-voters-overwhelmingly-say-its-time-to-quadruple-the-volunteer-firefighter-tax-credit/ |publisher=Empire Report |access-date=September 20, 2026 |date=September 18, 2026}}</ref>{{efn-ua|Poll sponsored by the Firefighters Association of the State of New York}}
+|July 22–28, 2026
+|813 (RV)
+|±&nbsp;4.3%
+|{{party shading/Democratic}}|'''49%'''
+|37%
+|7%{{Efn|"Would not vote" with 7%}}
+|7%
+|-
+|style="text-align:left;"|Red Oak Strategic (R)<ref>{{cite web |last1=Feldman |first1=Joseph |title=NYP: Hochul Leads Blakeman by 4 Points in GOP-Backed Poll as New York Governor’s Race Tightens {{!}} VINnews |url=https://vinnews.com/2026/07/28/nyp-hochul-leads-blakeman-by-4-points-in-gop-backed-poll-as-new-york-governors-race-tightens/ |website=VINNews |access-date=29 July 2026 |date=28 July 2026}}</ref>{{efn-ua|name=Strong|Poll sponsored by Strong And Safe, a super PAC supporting Blakeman}}
+|July 7–12, 2026
+|2,000 (RV)
+|±&nbsp;2.2%
+|{{party shading/Democratic}}|'''47%'''
+|43%
+|–
+|10%
+|-
+|style="text-align:left;"|co/efficient (R)<ref>{{Cite web|url=https://nypost.com/2026/07/06/us-news/nyc-ny-state-politics-live-updates-on-governors-race-more/|title=NYC, NY state politics live updates: Bruce Blakeman trails Kathy Hochul by just 6 points in governor's race, shocking poll claims|first=Carl|last= Campanile|website=[[New York Post]]|date=July 6, 2026|access-date=July 7, 2026}}</ref>{{efn-ua|name=CPNT|Poll sponsored by Coalition to Protect Nassau Taxpayers}}
+|June 30 – July 2, 2026
+|1,085 (LV)
+|±&nbsp;3.0%
+|{{party shading/Democratic}}|'''47%'''
+|41%
+|–
+|12%
+|-
+|style="text-align:left;"|[[Siena College Research Institute|Siena College]]<ref>{{Cite web|url=https://sri.siena.edu/2026/06/25/hochul-favorability-approval-ratings-edge-up-as-does-her-general-election-lead-over-blakeman-now-52-32-from-49-33/|title=Hochul Favorability & Approval Ratings Edge Up, As Does Her General Election Lead over Blakeman, Now 52-32%, from 49-33%|website=[[Siena College Research Institute|Siena College]]|date=June 25, 2026|access-date=June 25, 2026}}</ref>
+|June 17–23, 2026
+|1,120 (RV)
+|±&nbsp;3.6%
+|{{party shading/Democratic}}|'''52%'''
+|32%
+|1%{{efn|name="SE1"}}
+|15%
+|-
+|style="text-align:left;" rowspan="2"|Pollfinity Research<ref>{{cite web|date=June 16, 2026|title=Hochul Leads Blakeman by 11 Points in New York Governor's Race; Majority Say It's Time for New Leadership|url=https://pollfinity.com/polls/ny-governor-2026|archive-url=https://web.archive.org/web/20260622182312/https://pollfinity.com/polls/ny-governor-2026|archive-date=June 22, 2026|access-date=June 22, 2026|publisher=Pollfinity Research}}</ref>
+|rowspan="2"|June 11–14, 2026
+|rowspan="2"|229 (RV)
+|rowspan="2"|±&nbsp;6.5%
+|{{party shading/Democratic}}|'''50%'''
+|40%
+|–
+|10%
+|-
+|{{party shading/Democratic}}|'''46%'''
+|35%
+|4%{{Efn|Larry Sharpe (L) with 4%}}
+|14%
+|-
+|style="text-align:left;"|[[Siena College Research Institute|Siena College]]<ref>{{Cite web|url=https://sri.siena.edu/wp-content/uploads/2026/05/SNY0426-Release-Crosstabs.pdf|title=Hochul Favorability & Approval Ratings Each Drop 8 Points To Lowest Levels In Last Year; Her Lead Over Blakeman Grows 3 Points to 49-33% |website=[[Siena College Research Institute|Siena College]]|date=May 5, 2026|access-date=May 5, 2026}}</ref>
+|April 27–30, 2026
+|806 (RV)
+|±&nbsp;4.2%
+|{{party shading/Democratic}}|'''49%'''
+|33%
+|3%{{efn|name="SE3"}}
+|16%
+|-
+|style="text-align:left;"|[[Siena College Research Institute|Siena College]]<ref>{{Cite web|url=https://sri.siena.edu/wp-content/uploads/2026/03/SNY-March-2026-Poll-Release-3-31-26-FINAL.pdf|title=Hochul Lead Over Still Largely Unknown Blakeman Drops 7 Points to 47-34%, from 51-31%; Her Favorability & Approval Ratings Unchanged in Last Month|website=[[Siena College Research Institute|Siena College]]|date=March 31, 2026|access-date=March 30, 2026}}</ref>
+|March 23–26, 2026
+|804 (RV)
+|±&nbsp;4.5%
+|{{party shading/Democratic}}|'''47%'''
+|34%
+|3%{{efn|name="SE3"}}
+|16%
+|-
+|style="text-align:left;"|Echelon Insights/Tusk Strategies<ref>{{Cite web|url=https://www.politico.com/f/?id=0000019d-407c-d107-a19d-e6ff72210000|title=Tusk Strategies – New York Startup Tax & Jobs Survey – Topline|work=Echelon Insights|date=March 30, 2026|access-date=March 30, 2026|via=[[Politico]]}}</ref>
+|March 24–26, 2026
+|500 (RV)
+|±&nbsp;5.4%
+|{{party shading/Democratic}}|'''55%'''
+|40%
+|–
+|5%
+|-
+|style="text-align:left;"|[[McLaughlin & Associates]] (R)<ref>{{Cite web|url=https://www.politico.com/newsletters/new-york-playbook/2026/03/25/bruce-is-no-lee-00843339|title=Bruce is no Lee|first1=Nick|last1=Reisman|first2=Chris|last2=Sommerfeldt|first3=Jason|last3= Beeferman|first4=Madison|last4=Fernandez|website=[[Politico]]|date=March 25, 2026|access-date=March 25, 2026}}</ref>{{efn-ua|name=Blakeman|Poll sponsored by Blakeman's campaign}}
+|March 4–8, 2026
+|800 (LV)
+|±&nbsp;3.5%
+|{{party shading/Democratic}}|'''52%'''
+|43%
+|–
+|5%
+|-
+|style="text-align:left;"|[[Siena College Research Institute|Siena College]]<ref>{{Cite web|url=https://sri.siena.edu/2026/03/04/strong-majorities-of-democrats-nyc-voters-support-gov-leg-giving-nyc-ability-to-raise-income-tax-on-its-residents-earning-at-least-1m/|title=Strong Majorities of Democrats & NYC Voters Support Gov. & Leg. Giving NYC Ability to Raise Income Tax on Its Residents Earning At Least $1M|website=[[Siena College Research Institute|Siena College]]|date=March 4, 2026|access-date=March 4, 2026}}</ref>
+|February 23–26, 2026
+|805 (RV)
+|±&nbsp;4.5%
+|{{party shading/Democratic}}|'''51%'''
+|31%
+|3%{{efn|name="SE3"}}
+|15%
+|-
+|style="text-align:left;"|[[Marist Poll|Marist University]]<ref>{{Cite web|url=https://maristpoll.marist.edu/polls/the-state-of-new-york-in-an-election-year-february-2026/|title=The State of New York in an Election Year, February 2026|website=[[Marist Poll|Marist University]]|date=February 26, 2026|access-date=February 26, 2026}}</ref>
+|February 16–19, 2026
+|1,442 (RV)
+|±&nbsp;3.3%
+|{{party shading/Democratic}}|'''50%'''
+|33%
+|2%{{efn|"Another party's candidate" with 2%}}
+|15%
+|-
+|style="text-align:left;"|MAD Global Strategy<ref>{{Cite web|url=https://yonkerstimes.com/new-poll-shows-new-york-voters-support-hochuls-pragmatic-leadership-on-natural-gas-and-renewables-by-wide-margins/|title=New Poll Shows New York Voters Support Hochul's Pragmatic Leadership on Natural Gas and Renewables by Wide Margins|website=Yonkers Times|date=February 14, 2026|access-date=February 15, 2026}}</ref>{{efn-ua|Poll sponsored by Natural Allies for a Clean Energy Future}}
+|February 2–4, 2026
+|600 (LV)
+|±&nbsp;4.0%
+|{{party shading/Democratic}}|'''47%'''
+|34%
+|–
+|19%
+|-
+|style="text-align:left;"|[[Siena College Research Institute|Siena College]]<ref name="SienaJan2026">{{Cite web|url=https://sri.siena.edu/2026/02/03/hochul-with-her-best-ever-favorability-rating-49-40-continues-to-hold-commanding-leads-over-blakeman-54-28-among-dems-delgado-64-11/|title=Hochul – With Her Best Ever Favorability Rating, 49-40% – Continues to Hold Commanding Leads Over Blakeman (54-28%) & Among Dems, Delgado (64-11%)|website=[[Siena College Research Institute|Siena College]]|date=February 3, 2026|access-date=February 3, 2026}}</ref>
+|January 26–28, 2026
+|802 (RV)
+|±&nbsp;4.3%
+|{{party shading/Democratic}}|'''54%'''
+|28%
+|1%{{efn|name="SE1"|"Someone else" with 1%}}
+|17%
+|-
+|style="text-align:left;" rowspan="2"|[[John Zogby|John Zogby Strategies]]<ref name="ZogbyJan2026">{{Cite web|url=https://johnzogbystrategies.com/new-john-zogby-strategies-poll-hochul-leads-comfortably-today-but-could-lose-support-from-independents-and-upstate/|title=New John Zogby Strategies Poll: Hochul Leads Comfortably Today, But Could Lose Support from Independents and Upstate|first1=John|last1=Zogby|website=[[John Zogby|John Zogby Strategies]]|date=January 13, 2026|access-date=January 13, 2026}}</ref>
+|rowspan="2"|January 6–8, 2026
+|rowspan="2"|844 (LV)
+|rowspan="2"|±&nbsp;3.4%
+|{{party shading/Democratic}}|'''53%'''
+|39%
+|–
+|8%
+|-
+|{{party shading/Democratic}}|'''49%'''
+|34%
+|8%{{efn|Larry Sharpe (L) with 8%}}
+|9%
+|-
+|style="text-align:left;"|[[Siena College Research Institute|Siena College]]<ref name="SienaDecember2025"/>
+|December 8–12, 2025
+|801 (RV)
+|±&nbsp;4.1%
+|{{party shading/Democratic}}|'''50%'''
+|25%
+|4%{{efn|name="SE4"}}
+|21%
+|-
+|style="text-align:left;"|J.L. Partners (R)<ref name="JLPNov2025"/>
+|November 9–10, 2025
+|500 (LV)
+|±&nbsp;4.4%
+|{{party shading/Democratic}}|'''47%'''
+|36%
+|–
+|17%
+|-
+|style="text-align:left;"|[[Siena College Research Institute|Siena College]]<ref name="SienaJune2025"/>
+|June 23–26, 2025
+|800 (RV)
+|±&nbsp;4.4%
+|{{party shading/Democratic}}|'''44%'''
+|19%
+|–
+|37%
+|-
+|style="text-align:left;"|GrayHouse (R)<ref name="GrayHouseApril2025"/>
+|April 22–24, 2025
+|600 (RV)
+|±&nbsp;4.0%
+|{{party shading/Democratic}}|'''44%'''
+|36%
+|–
+|20%
+|}
+
+{{hidden begin|titlestyle=background:#cff|title=Hypothetical polling|contentstyle=border:solid 1px silver; padding:8px; background:var(--background-color-base); color:var(--color-base);}}
+'''Kathy Hochul vs. Elise Stefanik'''<br/>
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br/>administered
+! Sample<br/>size{{efn|name="Key"}}
+! Margin<br/>of error
+! style="width:100px;"| Kathy<br/>Hochul (D)
+! style="width:100px;"| Elise<br/>Stefanik (R)
+! Other
+! Undecided
+|-
+|style="text-align:left;"|[[Siena College Research Institute|Siena College]]<ref name="SienaDecember2025"/>
+|December 8–12, 2025
+|801 (RV)
+|±&nbsp;4.1%
+|{{party shading/Democratic}}|'''49%'''
+|30%
+|1%
+|20%
+|-
+|style="text-align:left;"|[[Siena College Research Institute|Siena College]]<ref name="SienaNovember2025"/>
+|November 10–12, 2025
+|802 (RV)
+|±&nbsp;4.0%
+|{{party shading/Democratic}}|'''52%'''
+|32%
+|2%{{efn|name="SE2"}}
+|14%
+|-
+|style="text-align:left;"|J.L. Partners (R)<ref name="JLPNov2025">{{Cite web|url=https://static1.squarespace.com/static/663253f0bc87b7070102f41f/t/69146bc572175e2b24eca5d1/1762945989294/NY+Statewide+Toplines.pdf|title=NY Statewide Poll|work=J.L. Partners|date=November 12, 2025|access-date=November 12, 2025}}</ref>
+|November 9–10, 2025
+|500 (LV)
+|±&nbsp;4.4%
+|{{party shading/Democratic}}|'''46%'''
+|43%
+|–
+|11%
+|-
+|style="text-align:left;"|[[Manhattan Institute for Policy Research|Manhattan Institute]] (R)<ref name="MIOct2025">{{Cite web|url=https://manhattan.institute/article/blue-city-purple-state-new-york-poll-shows-mamdani-ahead-despite-unpopular-agenda-stefanik-leads-democrats-statewide|title=Blue City, Purple State? New York Poll Shows Mamdani Ahead, Despite Unpopular Agenda; Stefanik Leads Democrats Statewide|first1=Jesse|last1=Arm|website=[[Manhattan Institute for Policy Research|Manhattan Institute]]|date=October 28, 2025|access-date=October 29, 2025}}</ref>
+|October 22–26, 2025
+|900 (LV/RV)
+|±&nbsp;3.3%
+|42%
+|{{party shading/Republican}}|'''43%'''
+|9%{{efn|"Someone else" with 9%}}
+|6%
+|-
+|style="text-align:left;"|GrayHouse (R)<ref name="GrayHouseSeptember2025"/>{{efn-ua|name=Stef}}
+|September 20–26, 2025
+|1,250 (LV)
+|±&nbsp;2.6%
+|{{party shading/Democratic}}|'''48%'''
+|43%
+|–
+|9%
+|-
+|style="text-align:left;"|[[Siena College Research Institute|Siena College]]<ref name="SienaSeptember2025">{{Cite web|url=https://sri.siena.edu/2025/09/16/hochul-approval-favorability-ratings-up-a-little-favorability-best-since-jan-24-majority-hochul-works-hard-demonstrates-honesty-integrity-plurality-gets-things-done-provides-dec/|title=Hochul Approval/Favorability Ratings Up a Little; Favorability Best Since Jan. '24; Majority: Hochul Works Hard, Demonstrates Honesty & Integrity; Plurality: Gets Things Done, Provides Decisive Leadership and Cares About People Like You|work=Siena University Research Institute|date=September 16, 2025|access-date=September 16, 2025}}</ref>
+|September 8–10, 2025
+|802 (RV)
+|±&nbsp;4.2%
+|{{party shading/Democratic}}|'''52%'''
+|27%
+|3%
+|17%
+|-
+|style="text-align:left;"|[[Siena College Research Institute|Siena College]]<ref name="SienaAugust2025"/>
+|August 4–7, 2025
+|813 (RV)
+|±&nbsp;4.2%
+|{{party shading/Democratic}}|'''45%'''
+|31%
+|3%
+|20%
+|-
+|style="text-align:left;"|[[Siena College Research Institute|Siena College]]<ref name="SienaJune2025"/>
+|June 23–26, 2025
+|800 (RV)
+|±&nbsp;4.4%
+|{{party shading/Democratic}}|'''47%'''
+|24%
+|–
+|29%
+|-
+|style="text-align:left;"|[[Harper Polling]] (R)<ref name="HarperJune2025">{{Cite web|url=https://nypost.com/2025/06/16/us-news/rep-mike-lawler-has-better-shot-at-defeating-gov-kathy-hochul-than-elise-stefanik-poll/|title=Rep. Mike Lawler has better shot at defeating Gov. Kathy Hochul than Elise Stefanik: poll|first=Carl|last=Campanile|website=[[New York Post]]|date=June 16, 2025|access-date=June 17, 2025}}</ref>{{efn-ua|name=Undisclosed|Poll conducted for an undisclosed Republican client}}
+|May 7–9, 2025
+|600 (LV)
+|±&nbsp;4.0%
+|{{party shading/Democratic}}|'''50%'''
+|39%
+|–
+|11%
+|-
+|style="text-align:left;"|co/efficient (R)<ref name="c/eMay2025"/>
+|May 1–2, 2025
+|1,163 (LV)
+|±&nbsp;3.3%
+|{{party shading/Democratic}}|'''43%'''
+|42%
+|–
+|15%
+|-
+|style="text-align:left;"|GrayHouse (R)<ref name="GrayHouseApril2025"/>
+|April 22–24, 2025
+|600 (RV)
+|±&nbsp;4.0%
+|{{party shading/Democratic}}|'''46%'''
+|40%
+|–
+|14%
+|}
+
+'''Kathy Hochul vs. Mike Lawler'''<br/>
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br/>administered
+! Sample<br/>size{{efn|name="Key"}}
+! Margin<br/>of error
+! style="width:100px;"| Kathy<br/>Hochul (D)
+! style="width:100px;"| Mike<br/>Lawler (R)
+! Other
+! Undecided
+|-
+|style="text-align:left;"|[[Siena College Research Institute|Siena College]]<ref name="SienaJune2025"/>
+|June 23–26, 2025
+|800 (RV)
+|±&nbsp;4.4%
+|{{party shading/Democratic}}|'''44%'''
+|24%
+|–
+|32%
+|-
+|style="text-align:left;"|[[Harper Polling]] (R)<ref name="HarperJune2025"/>{{efn-ua|name=Undisclosed}}
+|May 7–9, 2025
+|600 (LV)
+|±&nbsp;4.0%
+|{{party shading/Democratic}}|'''48%'''
+|41%
+|–
+|11%
+|-
+|style="text-align:left;"|GrayHouse (R)<ref name="GrayHouseApril2025"/>
+|April 22–24, 2025
+|600 (RV)
+|±&nbsp;4.0%
+|{{party shading/Democratic}}|'''45%'''
+|38%
+|–
+|17%
+|-
+|style="text-align:left;"|Citizen Data<ref name="CitizenDataMarch2025"/>{{Efn-ua|name=UniteNY}}
+|February 10, 2025
+|1,000 (RV)
+|±&nbsp;3.1%
+|{{party shading/Democratic}}|'''46%'''
+|38%
+|10%
+|6%{{efn|"I don't plan to vote in this election" with 6%}}
+|}
+
+'''Kathy Hochul vs. different candidate'''<br/>
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br/>administered
+! Sample<br/>size{{efn|Key:<br/>A – all adults<br/>RV – registered voters<br/>LV – likely voters<br/>V – unclear|name="Key"}}
+! Margin<br/>of error
+! style="width:100px;"| Kathy<br/>Hochul (D)
+! style="width:100px;"| Different<br/>Candidate
+! Undecided
+|-
+|style="text-align:left;"|[[Siena College Research Institute|Siena College]]<ref name="SienaJan2026"/>
+|January 26–28, 2026
+|802 (RV)
+|±&nbsp;4.3%
+|42%
+|{{party shading/Other}}|'''51%'''
+|7%
+|-
+|style="text-align:left;"|[[Siena College Research Institute|Siena College]]<ref name="SienaNovember2025"/>
+|November 10–12, 2025
+|802 (RV)
+|±&nbsp;4.0%
+|42%
+|{{party shading/Other}}|'''48%'''
+|10%
+|-
+|style="text-align:left;"|J.L. Partners (R)<ref name="JLPNov2025"/>
+|November 9–10, 2025
+|500 (LV)
+|±&nbsp;4.4%
+|37%
+|{{party shading/Other}}|'''55%'''
+|7%
+|-
+|style="text-align:left;"|GrayHouse (R)<ref name="GrayHouseSeptember2025"/>
+|September 20–26, 2025
+|1,250 (LV)
+|±&nbsp;2.6%
+|34%
+|{{party shading/Other}}|'''59%'''
+|7%
+|-
+|style="text-align:left;"|[[Siena College Research Institute|Siena College]]<ref name="SienaSeptember2025"/>
+|September 8–10, 2025
+|802 (RV)
+|±&nbsp;4.2%
+|37%
+|{{party shading/Other}}|'''51%'''
+|12%
+|-
+|style="text-align:left;"|[[Siena College Research Institute|Siena College]]<ref name="SienaAugust2025"/>
+|August 4–7, 2025
+|813 (RV)
+|±&nbsp;4.2%
+|35%
+|{{party shading/Other}}|'''53%'''
+|12%
+|-
+|style="text-align:left;"|[[Siena College Research Institute|Siena College]]<ref name="SienaJune2025"/>
+|June 23–26, 2025
+|800 (RV)
+|±&nbsp;4.4%
+|37%
+|{{party shading/Other}}|'''55%'''
+|8%
+|-
+|style="text-align:left;"|[[Siena College Research Institute|Siena College]]<ref name="SienaMay2025"/>
+|May 12–15, 2025
+|805 (RV)
+|±&nbsp;4.3%
+|36%
+|{{party shading/Other}}|'''55%'''
+|9%
+|-
+|style="text-align:left;"|GrayHouse (R)<ref name="GrayHouseApril2025"/>
+|April 22–24, 2025
+|600 (RV)
+|±&nbsp;4.0%
+|27%
+|{{party shading/Other}}|'''61%'''
+|12%
+|-
+|style="text-align:left;"|[[Siena College Research Institute|Siena College]]<ref name="SienaApril2025"/>
+|April 14–16, 2025
+|802 (RV)
+|±&nbsp;4.4%
+|39%
+|{{party shading/Other}}|'''48%'''
+|13%
+|-
+|style="text-align:left;"|[[Siena College Research Institute|Siena College]]<ref name="SienaMarch2025"/>
+|March 2–6, 2025
+|806 (RV)
+|±&nbsp;4.3%
+|34%
+|{{party shading/Other}}|'''56%'''
+|10%
+|-
+|style="text-align:left;"|[[Siena College]]<ref>{{cite web |title=Siena College Poll Conducted by the Siena College Research Institute |url=https://scri.siena.edu/wp-content/uploads/2025/01/SNY0125-Crosstabs.pdf |website=[[Siena College]] | date=February 3, 2025|access-date=February 9, 2025}}</ref>
+|January 27–30, 2025
+|803 (RV)
+|±&nbsp;4.2%
+|31%
+|{{party shading/Other}}|'''57%'''
+|12%
+|-
+|style="text-align:left;"|[[Siena College]]<ref>{{cite web |title=Siena College Poll Conducted by the Siena College Research Institute |url=https://scri.siena.edu/wp-content/uploads/2024/12/SNY1224-Crosstabs.pdf |website=[[Siena College]] |date=December 10, 2024 |access-date=December 11, 2024}}</ref>
+|December 2–5, 2024
+|1,059 (RV)
+|±&nbsp;4.1%
+|33%
+|{{party shading/Other}}|'''57%'''
+|11%
+|-
+|style="text-align:left;"|Slingshot Strategies (D)<ref>{{Cite web|url=https://www.politico.com/f/?id=0000018f-5fb0-dcc8-addf-dfbf84e10000|title=Slingshot New York State Topline|website=Politico|date=May 11, 2024|access-date=March 20, 2025}}</ref>
+|May 2–3, 2024
+|1,059 (RV)
+|±&nbsp;5.0%
+|34%
+|{{party shading/Other}}|'''44%'''
+|21%
+|}
+
+'''Kathy Hochul vs. generic Republican'''<br/>
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br/>administered
+! Sample<br/>size{{efn|name="Key"}}
+! Margin<br/>of error
+! style="width:100px;"| Kathy<br/>Hochul (D)
+! style="width:100px;"| Generic<br/>Republican
+! Undecided
+|-
+|style="text-align:left;"|J.L. Partners (R)<ref name="JLPNov2025"/>
+|November 9–10, 2025
+|500 (LV)
+|±&nbsp;4.4%
+|{{party shading/Democratic}}|'''45%'''
+|42%
+|13%
+|}
+
+'''Antonio Delgado vs. Elise Stefanik'''<br/>
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br/>administered
+! Sample<br/>size{{efn|name="Key"}}
+! Margin<br/>of error
+! style="width:100px;"| Antonio<br/>Delgado (D)
+! style="width:100px;"| Elise<br/>Stefanik (R)
+! Undecided
+|-
+|style="text-align:left;"|[[Manhattan Institute for Policy Research|Manhattan Institute]] (R)<ref name="MIOct2025"/>
+|October 22–26, 2025
+|900 (LV/RV)
+|±&nbsp;3.3%
+|37%
+|{{party shading/Republican}}|'''43%'''
+|20%
+|}
+{{hidden end}}
+
+=== Results ===
+{{Election box begin
+| title = 2026 New York gubernatorial election
+}}
+{{Election box candidate with party link|candidate={{ubl|''Kathy Hochul''|''Adrienne Adams''}}|party=New York State Democratic Committee|votes=|percentage=|change=}}
+{{Election box candidate with party link|candidate={{ubl|''Kathy Hochul''|''Adrienne Adams''}}|party=Working Families Party|votes=|percentage=|change=}}
+{{Election box candidate
+| candidate = {{ubl|[[Kathy Hochul]] (incumbent)|[[Adrienne Adams (politician)|Adrienne Adams]]}}
+| party = Total
+| votes = 
+| percentage = 
+| change = 
+}}
+{{Election box candidate with party link|candidate={{ubl|''Bruce Blakeman''|''Todd Hood''}}|party=New York Republican State Committee|votes=|percentage=|change=}}
+{{Election box candidate with party link|candidate={{ubl|''Bruce Blakeman''|''Todd Hood''}}|party=Conservative Party of New York State|votes=|percentage=|change=}}
+{{Election box candidate|candidate={{ubl|''Bruce Blakeman''|''Todd Hood''}}|party=Vote Affordable|votes=|percentage=|change=}}
+{{Election box candidate
+| candidate = {{ubl|[[Bruce Blakeman]]|Todd Hood}}
+| party = Total
+| votes = 
+| percentage = 
+| change = 
+}}
+{{Election box write-in with party link
+| votes = 
+| percentage = 
+| change     =
+}}
+{{Election box total
+| votes =
+| percentage = 100.0
+| change     = 
+}}
+{{Election box end}}
+
+== See also ==
+*[[2026 United States gubernatorial elections]]
+*[[2022 New York gubernatorial election]]
+*[[2024 United States presidential election in New York]]
+
+==Notes==
+{{notelist}}
+'''Partisan clients'''<br/>
+{{notelist-ua}}
+
+==References==
+{{reflist}}
+
+==External links==
+;Official campaign websites
+*[https://www.blakemanfornewyork.com/ Bruce Blakeman (R)]
+*[https://kathyhochul.com/ Kathy Hochul (D)]
+
+{{2026 United States elections}}
+
+[[Category:New York (state) gubernatorial elections]]
+[[Category:2026 New York (state) elections|Gubernatorial]]
+[[Category:2026 United States gubernatorial elections|New York]]

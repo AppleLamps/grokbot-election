@@ -1,0 +1,222 @@
+{{short description|none}}
+{{for|related races|2026 United States gubernatorial elections}}
+{{Use American English|date=January 2025}}
+{{use mdy dates|date=January 2025}}
+{{Infobox election
+| election_name      = 2026 Hawaii gubernatorial election
+| country            = Hawaii
+| type               = presidential
+| ongoing            = yes
+| previous_election  = 2022 Hawaii gubernatorial election
+| previous_year      = 2022
+| next_election      = 2030 Hawaii gubernatorial election
+| next_year          = 2030
+| election_date      = November 3, 2026
+| image1             = File:Josh Green Official Photo 2022 (cropped) (cropped).jpg
+| nominee1           = [[Josh Green (politician)|Josh Green]]
+| party1             = Democratic Party (United States)
+| running_mate1      = [[Derek Kawakami]]
+| popular_vote1      = 
+| percentage1        = 
+| image2             = Gary Cordery Hawaii.jpg
+| nominee2           = Gary Cordery
+| party2             = Republican Party (United States)
+| running_mate2      = Daniel Anthony
+| popular_vote2      = 
+| percentage2        = 
+| map_image          = 
+| map_size           = 
+| map_caption        = 
+| title              = [[Governor of Hawaii|Governor]]
+| before_election    = [[Josh Green (politician)|Josh Green]]
+| before_party       = Democratic Party (United States)
+| after_election     =
+| after_party        =
+}}
+{{ElectionsHI}}
+The '''2026 Hawaii gubernatorial election''' will be held on November 3, 2026, to elect the [[governor of Hawaii]]. [[Democratic Party (United States)|Democratic]] incumbent [[Josh Green (politician)|Josh Green]] is seeking a second term.<ref name=":1">{{cite web|date=May 14, 2026|title=2026 Candidate Report|url=https://olvr.hawaii.gov/Controls/CandidateFiling.aspx?elid=94|access-date=June 1, 2026|website=[[Hawaii Secretary of State]]}}</ref> He is being challenged by [[Republican Party (United States)|Republican]] businessman Gary Cordery.
+
+[[Primary elections]] took place on August 8, 2026.<ref>{{Cite web|author=The Sunshine Blog|date=May 9, 2025|title=2026 State Primary Election Dates|url=https://www.ncsl.org/elections-and-campaigns/2026-state-primary-election-dates|archive-url=https://web.archive.org/web/20260523194629/https://www.ncsl.org/elections-and-campaigns/2026-state-primary-election-dates|archive-date=May 23, 2026|url-status=live|website=[[National Conference of State Legislatures]]|access-date=August 5, 2025}}</ref> Green secured the Democratic nomination with 88.5% of the vote against three other candidates. Cordery defeated Ken Fujiyama in the Republican primary with 75.9% of the vote. 
+
+Republicans have not won a gubernatorial election in Hawaii since [[2006 Hawaii gubernatorial election|2006]].
+
+==Democratic primary==
+===Governor===
+====Candidates====
+=====Nominee=====
+*[[Josh Green (politician)|Josh Green]], incumbent governor (2022–present)<ref name=":1" />
+=====Eliminated in primary=====
+*Duke Bourgoin<ref name=":0">{{Cite web |title=State of Hawaii : Office of Elections Online Voter Registration |url=https://olvr.hawaii.gov/Controls/CandidateFiling.aspx?elid=94 |access-date=2026-06-20 |website=olvr.hawaii.gov}}</ref>
+*George (Teva) Lucas-Tadeo<ref name=":0" />
+*Lauren Kapoliahi'iaka Shim<ref name=":0" />
+=====Declined=====
+*[[Mike Gabbard]], [[Hawaii Senate|state senator]] from SD-21 (2006–present)<ref name="JGreen">{{cite news|work=[[Honolulu Civil Beat]]|title=The Sunshine Blog: Mike Gabbard For Governor?|url=https://www.civilbeat.org/2024/11/the-sunshine-blog-mike-gabbard-for-governor/|date=November 18, 2024|archive-url=https://web.archive.org/web/20241118103132/https://civilbeat.org/2024/11/the-sunshine-blog-mike-gabbard-for-governor/|archive-date=November 18, 2024|url-status=live|access-date=June 14, 2026}}</ref>
+
+===Results===
+[[File:2026 Hawaii gubernatorial Democratic Primary.png|thumb|310px|Results by county:
+{{legend|#584CDE|Green—70–80%}}
+]]
+{{Election box begin no change|title=Democratic primary results<ref name="NYT">{{Cite web|title=Hawaii Primary 2026: Live Election Results|url=https://www.nytimes.com/interactive/2026/08/08/us/elections/results-hawaii-primary.html|access-date=August 9, 2026|work=[[The New York Times]]}}</ref>}}
+{{Election box winning candidate with party link no change|candidate=[[Josh Green (politician)|Josh Green]] (incumbent)|party=Democratic Party (United States)|votes=184,289|percentage=88.5}}
+{{Election box candidate with party link no change|candidate=Lauren Kapoliahi’iaka Shim|party=Democratic Party (United States)|votes=11,199|percentage=5.4}}
+{{Election box candidate with party link no change|candidate=George Lucas-Tadeo|party=Democratic Party (United States)|votes=8,134|percentage=3.9}}
+{{Election box candidate with party link no change|candidate=Duke Bourgoin|party=Democratic Party (United States)|votes=4,595|percentage=2.2}}
+{{Election box total no change|votes=208,217|percentage=100.0}}
+{{Election box end}}
+
+===Lieutenant governor===
+====Candidates====
+=====Nominee=====
+*[[Derek Kawakami]], [[mayor of Kauai]] (2018–present)<ref>{{cite web|last=Fujii-Oride|first=Noelle|date=March 17, 2026|title=Kaua‘i Mayor Kawakami To Challenge Luke For Lieutenant Governor|url=https://www.civilbeat.org/2026/03/kauai-mayor-kawakami-to-challenge-luke-for-lieutenant-governor/|archive-url=https://web.archive.org/web/20260318071716/https://www.civilbeat.org/2026/03/kauai-mayor-kawakami-to-challenge-luke-for-lieutenant-governor/|archive-date=March 18, 2026|url-status=live|website=[[Honolulu Civil Beat]]|access-date=March 17, 2026}}</ref>
+
+=====Eliminated in primary=====
+*[[Della Au Belatti]], [[Hawaii State Representative|state representative]] from HD-26 (2006–present)<ref>{{Cite web|last=Grube|first=Nick|date=May 28, 2026|title=Belatti Drops Bid For Congress To Run For Lieutenant Governor|url=https://www.civilbeat.org/2026/05/belatti-drops-bid-for-congress-to-run-for-lieutenant-governor/|archive-url=https://web.archive.org/web/20260528232146/https://civilbeat.org/2026/05/belatti-drops-bid-for-congress-to-run-for-lieutenant-governor/|archive-date=May 28, 2026|url-status=live|access-date=June 2, 2026|website=[[Honolulu Civil Beat]]}}</ref>
+*John Choi, civil trial attorney<ref>{{cite web|title=Honolulu civil trial attorney announces candidacy for lieutenant governor|url=https://kauainownews.com/2026/04/24/honolulu-civil-trial-attorney-announces-candidacy-for-lieutenant-governor/|archive-url=https://web.archive.org/web/20260430131831/https://kauainownews.com/2026/04/24/honolulu-civil-trial-attorney-announces-candidacy-for-lieutenant-governor/|archive-date=April 30, 2026|url-status=live|publisher=Kaua'i Now|access-date=April 28, 2026|date=April 24, 2026}}</ref>
+*Ku L. (Bobby) Cuadra<ref name=":0" />
+*Sam Puletasi<ref name=":0" />
+
+=====Withdrawn=====
+*[[Sylvia Luke]], incumbent [[Lieutenant Governor of Hawaii|lieutenant governor]] (2022–present)<ref>{{Cite web|last=Jedra|first=Christina|date=April 20, 2026|title=Lt. Gov. Sylvia Luke Abandons Reelection Bid|url=https://www.civilbeat.org/2026/04/lt-gov-sylvia-luke-abandons-reelection-bid/|archive-url=https://web.archive.org/web/20260528232158/https://www.civilbeat.org/2026/04/lt-gov-sylvia-luke-abandons-reelection-bid/|archive-date=May 28, 2026|url-status=live|access-date=April 20, 2026|website=[[Honolulu Civil Beat]]}}</ref>
+
+=====Declined=====
+*[[Kai Kahele]], chair of the [[Office of Hawaiian Affairs#Board of trustees|Office of Hawaiian Affairs Board of Trustees]] (2024–present)<ref>{{cite news|access-date=February 18, 2026|url=https://www.hawaiitribune-herald.com/2026/02/16/hawaii-news/questions-over-lt-gov-sylvia-luke-likely-to-inspire-challengers/|archive-url=https://web.archive.org/web/20260218135002/https://www.hawaiitribune-herald.com/2026/02/16/hawaii-news/questions-over-lt-gov-sylvia-luke-likely-to-inspire-challengers/|archive-date=February 18, 2026|url-status=live|date=February 16, 2026|author=Nakaso, Dan|title=Questions over Lt. Gov. Sylvia Luke likely to inspire challengers|publisher=[[Hawaii Tribune-Herald]]}}</ref>
+
+====Endorsements====
+{{Endorsements box|title=Della Belatti
+|list=
+;Organizations
+*[[Indivisible (organization)|Indivisible Hawaiʻi]]<ref>{{cite web |title=Indivisible Hawaiʻi endorses Della Au Belatti for Lieutenant Governor |url=https://indivisiblehawaii.org/resources/endorsement-della-au-belatti-for-lieutenant-governor/ |website=Indivisible Hawaiʻi Statewide Network |publisher=Indivisible Hawaiʻi Statewide Network |access-date=29 June 2026}}</ref>
+;Labor Unions
+* [[University of Hawaiʻi]] [[American Federation of Teachers|Professional Assembly]]<ref>{{cite web |title=University of Hawaii Professional Assembly Hawaii Hawaii Endorsements |url=https://bluevoterguide.org/endorser-org/University_of_Hawaii_Professional_Assembly/HI/4610 |website=Blue Voter Guide |publisher=Blue Voter Guide |access-date=29 June 2026}}</ref>
+}}
+{{Endorsements box|title=Derek Kawakami
+|list=
+;Organizations
+*[[Pacific Resource Partnership]] PAC<ref>{{Cite web|last=Huff|first=Daryl|date=April 1, 2026|title=Rich, controversial PAC backing Kawakami in lieutenant governor race|url=https://www.hawaiinewsnow.com/2026/04/02/rich-controversial-pac-backing-kawakami-lieutenant-governor-race/|archive-url=https://web.archive.org/web/20260402070902/https://www.hawaiinewsnow.com/2026/04/02/rich-controversial-pac-backing-kawakami-lieutenant-governor-race/|archive-date=April 2, 2026|url-status=live|access-date=April 17, 2026|website=Hawaii News Now}}</ref>
+}}
+{{Endorsements box
+|title=Sylvia Luke ''(withdrawn)''
+|list=
+;Labor unions
+*[[University of Hawaiʻi]] [[American Federation of Teachers|Professional Assembly]]<ref>{{cite web|title=University of Hawaiʻi Professional Assembly endorses Sylvia Luke for lieutenant governor|url=https://mauinow.com/2026/03/17/university-of-hawai%CA%BBi-professional-assembly-endorses-sylvia-luke-for-lieutenant-governor/|archive-url=https://web.archive.org/web/20260318132325/https://mauinow.com/2026/03/17/university-of-hawai%ca%bbi-professional-assembly-endorses-sylvia-luke-for-lieutenant-governor/|archive-date=March 18, 2026|url-status=live|website=Maui Now|access-date=17 March 2026|date=17 March 2026}}</ref>
+}}
+
+===Results===
+[[File:2026 Hawaii lieutenant gubernatorial Democratic Primary.png|thumb|310px|Results by county:
+{{legend|#6674de|Kawakami—70–80%}}
+{{legend|#7996e2|Kawakami—60–70%}}
+]]
+{{Election box begin no change|title=Democratic primary results<ref name="NYT"/>}}
+{{Election box winning candidate with party link no change|candidate=[[Derek Kawakami]]|party=Democratic Party (United States)|votes=140,247|percentage=66.1}}
+{{Election box candidate with party link no change|candidate=[[Della Au Belatti]]|party=Democratic Party (United States)|votes=55,245|percentage=26.1}}
+{{Election box candidate with party link no change|candidate=John Choi|party=Democratic Party (United States)|votes=13,009|percentage=6.1}}
+{{Election box candidate with party link no change|candidate=Sam Puletasi|party=Democratic Party (United States)|votes=2,152|percentage=1.0}}
+{{Election box candidate with party link no change|candidate=Ku L. Cuadra|party=Democratic Party (United States)|votes=1,417|percentage=0.7}}
+{{Election box total no change|votes=212,070|percentage=100.0}}
+{{Election box end}}
+
+==Republican primary==
+===Governor===
+====Candidates====
+=====Nominee=====
+*Gary Cordery, businessman and candidate for governor in [[2022 Hawaii gubernatorial election|2022]]<ref>{{Cite web|last=Blair|first=Chad|date=May 17, 2026|title=Hawaiʻi GOP: We Need The 'Trump People' To Turn Out The Vote|url=https://www.civilbeat.org/2026/05/hawaii-republicans-we-need-the-trump-people-to-turn-out-the-vote/|archive-url=https://web.archive.org/web/20260604202214/https://civilbeat.org/2026/05/hawaii-republicans-we-need-the-trump-people-to-turn-out-the-vote/|archive-date=June 4, 2026|url-status=live|access-date=May 24, 2026|website=[[Honolulu Civil Beat]]}}</ref>
+
+====Eliminated in primary====
+*Ken Fujiyama<ref name=":0" />
+====Withdrawn====
+*Bu Laia Hill<ref name=":1"/>
+
+=====Declined=====
+*[[Mike Gabbard]], [[Hawaii Senate|state senator]] from SD-21 (2006–present) ''(Democratic)''<ref name="JGreen"/>
+
+===Results===
+[[File:2026 Hawaii gubernatorial Republican Primary.png|thumb|310px|Results by county:
+{{legend|#cc2f4a|Cordery—70–80%}}
+]]
+{{Election box begin no change|title=Republican primary results<ref name="NYT"/>}}
+{{Election box winning candidate with party link no change|candidate=Gary Cordery|party=Republican Party (United States)|votes=36,428|percentage=75.8}}
+{{Election box candidate with party link no change|candidate=Ken Fujiyama|party=Republican Party (United States)|votes=11,599|percentage=24.2}}
+{{Election box total no change|votes=48,027|percentage=100.0}}
+{{Election box end}}
+
+===Lieutenant governor===
+====Candidates====
+=====Nominee=====
+*Daniel Anthony<ref name=":0" />
+=====Eliminated in primary=====
+*Hopelin (Hope) Cresencia<ref name=":0" />
+*Margaret Rose Mejia<ref name=":0" />
+*Robert E. Peters<ref name=":0" />
+=====Withdrawn=====
+*Ku-Lono Cuadra<ref name=":1" />
+
+===Results===
+[[File:2026 Hawaii lieutenant gubernatorial Republican Primary.png|thumb|310px|Results by county:
+{{legend|#f2b3be|Anthony—40–50%}}
+{{legend|#ffdee3|Anthony—30–40%}}
+]]
+{{Election box begin no change|title=Republican primary results<ref name="NYT"/>}}
+{{Election box winning candidate with party link no change|candidate=Daniel Anthony|party=Republican Party (United States)|votes=16,982|percentage=37.9}}
+{{Election box candidate with party link no change|candidate=Margaret Rose Mejia|party=Republican Party (United States)|votes=10,833|percentage=24.2}}
+{{Election box candidate with party link no change|candidate=Robert E. Peters|party=Republican Party (United States)|votes=8,899|percentage=19.9}}
+{{Election box candidate with party link no change|candidate=Hopelin Cresencia|party=Republican Party (United States)|votes=8,070|percentage=18.0}}
+{{Election box total no change|votes=44,784|percentage=100.0}}
+{{Election box end}}
+
+== General election ==
+===Predictions===
+{| class="wikitable" style=text-align:center
+!Source
+!Ranking
+!As of
+|-
+|align=left|''[[The Cook Political Report]]''<ref>{{cite web|title=2026 CPR Governor Race ratings|url=https://www.cookpolitical.com/ratings/governor-race-ratings|website=[[The Cook Political Report]]|access-date=January 23, 2025}}</ref>
+|{{USRaceRating|Solid|D}}
+|September 11, 2025
+|-
+|align=left|[[Decision Desk HQ]]<ref name="DDHQ">{{cite web |title=2026 Governor Forecast |url=https://votes.decisiondeskhq.com/forecast/2026/governor |website=Decision Desk HQ |access-date=22 September 2026}}</ref>
+|{{USRaceRating|Safe|D}}
+|September 23, 2026
+|-
+|align=left|[[Fox News]]<ref>{{cite web |title=Fox News Power Rankings: The top races to watch as 36 states choose their next governor |url=https://www.foxnews.com/politics/fox-news-power-rankings-top-races-watch-36-states-choose-next-governor |website=[[Fox News]] |publisher=Rémy Numa |access-date=24 July 2026}}</ref>
+|{{USRaceRating|Solid|D}}
+|July 23, 2026
+|-
+|align=left|''[[Inside Elections]]''<ref>{{Cite web|title=Gubernatorial Ratings|url=https://insideelections.com/ratings/governor|access-date=February 7, 2025|website=[[Inside Elections]]}}</ref>
+|{{USRaceRating|Solid|D}}
+|August 28, 2025
+|-
+|align="left"|[[RealClearPolitics]]<ref>{{Cite web|title=2026 Governor Races {{!}} RealClearPolitics|url=https://www.realclearpolling.com/maps/governor/2026/toss-up|access-date=June 5, 2026|website=[[RealClearPolitics]]|archive-url=https://web.archive.org/web/20260601183127/https://www.realclearpolling.com/maps/governor/2026/toss-up|archive-date=June 1, 2026|url-status=dead}}</ref>
+|{{USRaceRating|Solid|D}}
+|June 5, 2026
+|-
+|align=left|''[[Sabato's Crystal Ball]]''<ref>{{cite web|title=2026 Governor|url=https://centerforpolitics.org/crystalball/2026-governor/|website=[[Sabato's Crystal Ball]]|access-date=May 1, 2025}}</ref>
+|{{USRaceRating|Safe|D}}
+|September 4, 2025
+|-
+| style="text-align: left;" |[[Silver Bulletin]]<ref name=":Silver">{{Cite web |last=Silver |first=Nate |date=2026-08-20 |title=FLIPR 2026 midterm election forecast |url=https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model |url-access=subscription |access-date=2026-08-20 |website=www.natesilver.net |language=en}}</ref>
+| {{US political race rating|Solid|D}}
+|August 25, 2026
+|}
+
+== See also ==
+*[[2026 United States elections]]
+*[[2026 Hawaii elections]]
+
+==References==
+{{reflist}}
+
+== External links ==
+;Official gubernatorial campaign websites
+*[https://joshgreenforhawaii.com/ Josh Green (D)]
+*[https://www.garycorderyforgovernor.com/ Gary Cordery (R)]
+*[https://bu4gov.com// Bu La'ia Hill (I)]
+;Official lieutenant gubernatorial campaign websites
+*[https://derekkawakami.com/ Derek Kawakami (D)]
+*[https://danielanthonyforhawaii.com/ Daniel Anthony (R)]
+{{2026 United States elections}}
+{{Elections in Hawaii footer}}
+
+[[Category:Hawaii gubernatorial elections]]
+[[Category:2026 Hawaii elections|Gubernatorial]]
+[[Category:2026 United States gubernatorial elections|Hawaii]]

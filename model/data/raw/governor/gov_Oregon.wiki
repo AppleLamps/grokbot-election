@@ -1,0 +1,679 @@
+{{short description|none}}
+{{for|related races|2026 United States gubernatorial elections}}
+{{Use American English|date=January 2025}}
+{{Use mdy dates|date=September 2026}}
+{{Infobox election
+| election_name = 2026 Oregon gubernatorial election
+| country = Oregon
+| type = presidential
+| ongoing = yes
+| previous_election = 2022 Oregon gubernatorial election
+| previous_year = 2022
+| next_election = 2030 Oregon gubernatorial election
+| next_year = 2030
+| election_date = November 3, 2026
+| image1 = Tina Kotek (cropped)1.jpg
+| nominee1 = [[Tina Kotek]]
+| party1 = Democratic Party of Oregon
+| alliance1 = [[Working Families Party|Working Families]]
+| running_mate1 = 
+| popular_vote1 = 
+| percentage1 = 
+| image2 = Christine Drazan in August 2022 (cropped).jpg
+| nominee2 = [[Christine Drazan]]
+| party2 = Oregon Republican Party
+| alliance2 = [[Libertarian Party of Oregon|Libertarian]]
+| running_mate2 = 
+| popular_vote2 = 
+| percentage2 = 
+| title = [[Governor of Oregon|Governor]]
+| before_election = [[Tina Kotek]]
+| before_party = Democratic Party of Oregon
+| after_election = 
+| after_party = 
+}}
+{{ElectionsOR}}
+
+The '''2026 Oregon gubernatorial election''' will be held on November 3, 2026, to elect the [[governor of Oregon]]. [[Democratic Party of Oregon|Democratic]] incumbent [[Tina Kotek]] is seeking a second term. She is being challenged by 2022 [[Oregon Republican Party|Republican]] gubernatorial nominee [[Christine Drazan]]. 
+
+[[Primary elections]] took place on May 19, 2026.<ref>{{Cite web|date=May 9, 2025 |title=2026 State Primary Election Dates|url=https://www.ncsl.org/elections-and-campaigns/2026-state-primary-election-dates|website=[[National Conference of State Legislatures]]|access-date=August 5, 2025}}</ref> Kotek won the Democratic nomination with 84% of the vote, while Drazan won the Republican nomination with 41% of the vote.
+
+This election will mark Oregon's first gubernatorial rematch since [[1978 Oregon gubernatorial election|1978]].
+
+== Democratic primary ==
+=== Candidates ===
+==== Nominee ====
+*[[Tina Kotek]], incumbent governor (2023–present)<ref>{{cite news |last1=Dake|first1=Lauren |title=Oregon Gov. Tina Kotek inches closer to reelection announcement |url=https://www.opb.org/article/2025/11/21/oregon-governer-reelection-announcement/ |access-date=November 22, 2025 |work=[[Oregon Public Broadcasting]] |date=November 21, 2025 |language=en}}</ref><ref>{{cite web |title=Gov. Kotek announces campaign for reelection |url=https://www.kptv.com/2025/12/04/gov-kotek-announces-campaign-re-relection/ |access-date=December 4, 2025 |work=[[KPTV]] |date=December 4, 2025}}</ref><ref name=":2">{{Cite web |title=Governor (Democratic primary) {{!}} Voter Guide: 2026 Primary Election • Oregon |url=https://oregoncapitalchronicle.com/voter-guides/contests/2026-democratic-primary-governor/ |url-status=live |access-date=May 7, 2026 |website=Oregon Capital Chronicle |language=en-US}}</ref>
+
+==== Eliminated in primary ====
+*Forest "Fora" Alexander, rabbi and political activist<ref name=":2" />
+*James Atkinson IV, inventor and [[2024 Portland, Oregon mayoral election|2024 Portland mayoral candidate]]<ref>{{cite web |title=Atkinson, James |url=https://secure.sos.state.or.us/orestar/cfDetail.do;JSESSIONID_ORESTAR=dV9uC5m2v3lZSwzw-zGLnqiIng62cqw_tjqPO7Y0z8DS6IdBr9iI!1820177633?page=search&cfRsn=23336&OWASP_CSRFTOKEN=IS7M-LK1U-81RR-K6CW-CFKD-G19C-8UUQ-AINV |website=Secretary of State, Oregon |access-date=February 3, 2026}}</ref><ref name=":2" />
+*Donnie Beckwith, businessman<ref name=":2" />
+*David Beem, salesperson<ref name=":2" />
+*Brittany N. Jones, political activist and non-profit founder<ref>{{cite web |last= |first= |title=Brittany Jones discusses plan to unseat Gov. Tina Kotek in May’s Democratic primary |url=https://www.koin.com/nwpolitics/brittany-jones-gubernatorial-race-may-democratic-primary/ |website=KOIN |publisher=KOIN 6 News |date= |access-date=April 6, 2026}}</ref><ref name=":2" />
+*Cal Kishawi<ref>{{cite news |last1=Oliver |first1=John |title=Oregon Governor Hopeful Cal Kishawi Says His Mission Is to “Stand United,” Centering Schools, Infrastructure, and Practical Problem-Solving |url=https://www.grantspasstribune.com/oregon-governor-hopeful-cal-kishawi-says-his-mission-is-to-stand-united-centering-schools-infrastructure-and-practical-problem-solving/ |access-date=March 2, 2026 |work=[[Grants Pass Tribune]] |date=January 6, 2026}}</ref><ref name=":2" />
+*Steve Laible, children's author<ref name=":2" />
+*Tristan Sheppard, volunteer firefighter<ref>{{cite web |title=Sheppard, Tristan |url=https://secure.sos.state.or.us/orestar/cfDetail.do?page=search&cfRsn=24194&OWASP_CSRFTOKEN=2XDI-UFYC-RS61-AHGM-29WZ-5HEY-HAI8-7ZJT |website=Secretary of State, Oregon |access-date=February 3, 2026}}</ref><ref name=":2" />
+*Miranda Weigler, policy and strategy consultant<ref name=":2" />
+
+=== Endorsements ===
+{{Endorsements box
+|title=Tina Kotek
+|colwidth=60
+|list=
+;U.S. senators
+*[[Jeff Merkley]], [[Oregon]] (2009–present)<ref name="ListDec">{{cite web |title=Oregon Gov. Tina Kotek announces that she's running for reelection in 2026 |url=https://www.kgw.com/article/news/politics/gov-kotek-announces-run-for-reelection-2026/283-58bc9b5a-07c1-430b-a60c-3966c769e88a |website=KGW |access-date=December 5, 2025 |date=December 4, 2025}}</ref>
+*[[Ron Wyden]], [[Oregon]] (1996–present)<ref name="ListDec"/>
+;U.S. representatives
+*[[Suzanne Bonamici]], [[OR-01]] (2012–present)<ref name="ListDec"/>
+*[[Maxine Dexter]], [[OR-03]] (2025–present)<ref name="ListDec"/>
+*[[Val Hoyle]], [[OR-04]] (2023–present)<ref name="ListDec"/>
+*[[Janelle Bynum]], [[OR-05]] (2025–present)<ref name="ListDec"/>
+*[[Andrea Salinas]], [[OR-06]] (2023–present)<ref name="ListDec"/>
+;Statewide officials
+*[[Dan Rayfield]], [[Attorney General of Oregon|attorney general of Oregon]] (2024–present)<ref name="ListDec"/>
+*[[Elizabeth Steiner]], [[treasurer of Oregon]] (2025–present)<ref name="KTVZ"/>
+*[[Christina Stephenson]], [[Oregon Commissioner of Labor|labor commissioner of Oregon]] (2023–present)<ref name="KTVZ"/>
+;State legislators
+*[[Rob Wagner (politician)|Rob Wagner]], [[List of presidents of the Oregon State Senate|president of the Oregon Senate]] (2023–present) from the [[Oregon's 19th Senate district|19th district]] (2018–present)<ref name="KTVZ"/>
+*[[Julie Fahey]], [[List of speakers of the Oregon House of Representatives|speaker of the Oregon House of Representatives]] (2024–present) from the [[Oregon's 14th House district|14th district]] (2017–present)<ref name="KTVZ"/>
+;Local officials
+*[[Keith Wilson (mayor)|Keith Wilson]], [[Mayor of Portland, Oregon|mayor of Portland]] (2025–present)<ref name="Flurry">{{cite web |last1=Fuentes |first1=Carlos |title=Oregon Gov. Kotek announces 2026 reelection bid, setting up Drazan rematch |url=https://www.oregonlive.com/politics/2025/12/oregon-gov-kotek-announces-2026-reelection-bid-setting-up-drazan-rematch.html |website=[[The Oregonian]] |access-date=December 5, 2025 |language=en |date=December 4, 2025}}</ref>
+;Labor unions
+*[[International Union of Painters and Allied Trades]]<ref name="KTVZ"/>
+*[[International Association of Bridge, Structural, Ornamental and Reinforcing Iron Workers|Ironworkers]] Local 29<ref name="KTVZ">{{cite web |title=Governor Tina Kotek announces she will run for re-election, could again face Republican Christine Drazan |url=https://ktvz.com/news/2025/12/04/governor-tina-kotek-announces-she-will-run-for-re-election-could-again-face-republican-christine-drazan/ |website=KTVZ |access-date=December 5, 2025 |date=December 4, 2025}}</ref>
+*[[International Brotherhood of Electrical Workers]] Local 48<ref name="ListDec"/>
+*[[North America's Building Trades Unions|Oregon Building Trades Unions]]<ref name="ListDec"/>
+*[[Oregon AFL-CIO]]<ref>{{cite web |title=Gov. Kotek loses out on two previous endorsements as 2026 election looms|url=https://www.koin.com/news/oregon/gov-kotek-loses-two-previous-endorsements-2026-election/|website=KOIN|first=Mia|last=Villanueva|date=March 4, 2026}}</ref>
+*[[American Nurses Association|Oregon Nurses Association]]<ref name="ListDec"/>
+*[[SEIU]] Local 503<ref>{{cite web |title=SEIU Members Endorse Governor Tina Kotek! |url=https://seiu503.org/member_news/seiu-members-endorse-governor-tina-kotek/ |website=SEIU503 Local |access-date=April 8, 2026}}</ref>
+*[[International Association of Sheet Metal, Air, Rail and Transportation Workers|SMART Union]]<ref name="KTVZ"/>
+*[[United Brotherhood of Carpenters and Joiners of America|Western States Regional Council of Carpenters]]<ref name="KTVZ"/>
+;Organizations
+*[[EMILYs List]]<ref>{{cite web |title=Oregon Gov. Tina Kotek announces reelection bid |url=https://www.opb.org/article/2025/12/04/oregon-governor-tina-kotek-announces-reelection-bid/ |website=OPB |access-date=December 5, 2025 |language=en}}</ref>
+*[[Giffords]]<ref>{{cite web |title=Endorsements |url=https://giffords.org/elections/endorsements/ |website=GIFFORDS |access-date=April 26, 2026}}</ref>
+*[[Human Rights Campaign]]<ref name="KTVZ"/>}}
+
+{{Endorsements box
+|title=Declined to endorse
+|colwidth=
+|list=
+;Labor unions
+*[[Oregon Education Association]]<ref name="WFP1">{{cite web |title=Oregon Working Families Party, state’s largest teachers union decline to endorse in governor’s race |url=https://oregoncapitalchronicle.com/briefs/oregon-working-families-party-states-largest-teachers-union-decline-to-endorse-in-governors-race/ |website=Oregon Capital Chronicle |access-date=March 4, 2026}}</ref>
+;Political parties & organizations
+*Oregon [[Working Families Party]]<ref name="WFP1"/>
+*[[Democratic Socialists of America|Portland DSA]]<ref>{{cite web |title=Our Voter Guide for the May 2026 Primary  |url=https://portlanddsa.org/our-voter-guide-for-the-may-2026-primary/ |date=May 7, 2026 |archive-url=https://web.archive.org/web/20260507215255/https://portlanddsa.org/our-voter-guide-for-the-may-2026-primary/ |archive-date=May 7, 2026 |publisher=Portland DSA |access-date=May 6, 2026}}</ref>
+;News publications
+*[[Portland Mercury]]<ref>{{cite web |title=The Mercury’s May 2026 Election Endorsements  |url=https://www.portlandmercury.com/election/the-mercurys-may-2026-election-endorsements/ |archive-url=https://web.archive.org/web/20260501071617/https://www.portlandmercury.com/election/the-mercurys-may-2026-election-endorsements/ |archive-date=May 1, 2026 |publisher=Portland Mercury |access-date=May 6, 2026}}</ref>
+}}
+
+===Results===
+[[File:2026 Oregon gubernatorial Democratic primary election results map by county.svg|thumb|260px|Results by county
+{{collapsible list
+| title = {{legend|#7996e2|Kotek}}
+|{{legend|#7996e2|50–60%}}
+|{{legend|#6674de|60–70%}}
+|{{legend|#584cde|70–80%}}
+|{{legend|#3933e5|80–90%}}
+}}
+]]
+{{Election box begin no change |title = Democratic primary results<ref name=results>{{cite web|url=https://results.oregonvotes.gov/resultsSW.aspx?type=SWPAR&map=CTY|title=Unofficial Results: 2026 Primary - Governor|publisher=Oregon Secretary of State|date=May 19, 2026|access-date=May 20, 2026}}</ref>}}
+{{Election box winning candidate with party link no change
+| candidate = [[Tina Kotek]] (incumbent)
+| party = Democratic Party of Oregon
+| votes = 385,999
+| percentage = 83.6
+}}
+{{Election box candidate with party link no change
+| candidate = Brittany N. Jones
+| party = Democratic Party of Oregon
+| votes = 13,939
+| percentage = 3.0
+}}
+{{Election box candidate with party link no change
+| candidate = Forest "Fora" Alexander
+| party = Democratic Party of Oregon
+| votes = 12,684
+| percentage = 2.8
+}}
+{{Election box candidate with party link no change
+| candidate = Miranda Weigler
+| party = Democratic Party of Oregon
+| votes = 10,161
+| percentage = 2.2
+}}
+{{Election box candidate with party link no change
+| candidate = Tristan Sheppard
+| party = Democratic Party of Oregon
+| votes = 6,006
+| percentage = 1.3
+}}
+{{Election box candidate with party link no change
+| candidate = James Atkinson IV
+| party = Democratic Party of Oregon
+| votes = 5,902
+| percentage = 1.3
+}}
+{{Election box candidate with party link no change
+| candidate = David Beem
+| party = Democratic Party of Oregon
+| votes = 4,863
+| percentage = 1.1
+}}
+{{Election box candidate with party link no change
+| candidate = Steve Laible
+| party = Democratic Party of Oregon
+| votes = 3,692
+| percentage = 0.8
+}}
+{{Election box candidate with party link no change
+| candidate = Cal Kishawi
+| party = Democratic Party of Oregon
+| votes = 2,422
+| percentage = 0.5
+}}
+{{Election box candidate with party link no change
+| candidate = Donnie Beckwith
+| party = Democratic Party of Oregon
+| votes = 1,799
+| percentage = 0.4
+}}
+{{Election box write-in with party link no change
+| votes = 14,228
+| percentage = 3.1
+}}
+{{Election box total no change
+| votes = 461,695
+| percentage = 100.0
+}}
+{{Election box end}}
+
+== Republican primary ==
+=== Candidates ===
+==== Nominee ====
+*[[Christine Drazan]], [[Oregon State Senate|state senator]] (2025–present), former minority leader of the [[Oregon House of Representatives]] (2019–2021, 2025) and nominee for governor in [[2022 Oregon gubernatorial election|2022]]<ref>{{Cite web |last=Fuentes |first=Carlos |date=October 27, 2025 |title=Republican Christine Drazan will run for governor in 2026 |url=https://www.oregonlive.com/politics/2025/10/republican-christine-drazan-will-run-for-governor-in-2026.html |access-date=October 27, 2025 |website=[[The Oregonian]] |language=en}}</ref>
+==== Eliminated in primary ====
+*Danielle Bethell, [[Marion County, Oregon#County commission|Marion County]] commissioner<ref name=":0">{{Cite web |last=Moore |first=Madeleine |date=April 27, 2025 |title=Danielle Bethell, former Keizer chamber official, announces run for governor |url=https://www.keizertimes.com/2025/04/27/danielle-bethell-former-keizer-chamber-official-announces-run-for-governor/ |access-date=May 26, 2025 |website=[[Keizertimes]] |language=en-US}}</ref>
+*Hope Dalrymple
+*[[Ed Diehl]], [[Oregon House of Representatives|state representative]] from the [[Oregon's 17th House district|17th district]] (2023–present)<ref>{{Cite web |last=Fuentes |first=Carlos |date=January 20, 2025 |title=Oregon Republican who led anti-tax referendum effort will run for governor |url=https://www.oregonlive.com/politics/2026/01/oregon-republican-who-led-anti-tax-referendum-effort-will-run-for-governor.html |access-date=January 20, 2026 |website=[[The Oregonian]] |language=en}}</ref>
+*[[Chris Dudley]], wealth management executive, former [[Portland Trail Blazers]] basketball player, and nominee for governor in [[2010 Oregon gubernatorial election|2010]]<ref>{{Cite web |last=Fuentes |first=Carlos |date=January 26, 2026 |title=Former Blazer Chris Dudley will run for Oregon governor, setting up heated Republican primary |url=https://www.oregonlive.com/politics/2026/01/former-blazer-chris-dudley-will-run-for-oregon-governor-setting-up-heated-republican-primary.html |access-date=January 26, 2026 |website=oregonlive |language=en}}</ref>
+*Kyle Duyck, [[genomics]] researcher<ref name=":0" />
+*David Medina, podcaster, participant in the [[January 6 United States Capitol attack]]<ref>{{cite news|url=https://www.kptv.com/2026/01/20/man-charged-jan-6-rioter-running-oregon-governor/|title=Man charged as Jan. 6 rioter running for Oregon governor|location=[[Portland, Oregon]]|publisher=[[KPTV]]|date=January 20, 2026|access-date=January 20, 2026}}</ref>
+*Robert Neuman, business manager and candidate for labor commissioner in [[2022 Oregon Commissioner of Labor election|2022]]<ref name=":0" />
+*Brad Peters
+*Paul Romero
+*DeAngelo Turner
+*Wen Waddell
+*Martin Ward
+*Tim Youker
+
+=== Endorsements ===
+{{Endorsements box
+|title=Danielle Bethell
+|list=
+;Local officials
+*[[Kevin Cameron (politician)|Kevin Cameron]], [[Marion County, Oregon#County commission|Marion County]] commissioner (2014–present)<ref name="These"/>
+}}
+{{Endorsements box
+|title=Ed Diehl
+|list=
+;Organizations
+*[[Oregon Right to Life]] ''(co-endorsement with Drazan)''<ref name="These">{{cite web |title=These Republicans running for Oregon governor are raising the most money, readying TV ad blitz |url=https://www.oregonlive.com/politics/2026/04/these-republicans-running-for-oregon-governor-are-raising-the-most-money-readying-tv-ad-blitz.html |website=Oregon Live |access-date=April 5, 2026}}</ref>
+}}
+{{Endorsements box
+|title=Christine Drazan
+|list=
+;Organizations
+*[[Associated General Contractors of America|Associated General Contractors Oregon-Columbia]]<ref>{{cite web |title=AGC Oregon-Columbia Chapter is proud to officially endorse Christine Drazan for Oregon Governor |url=https://www.instagram.com/p/DXMfRTwFBAo/ |website=Instagram (AGC Oregon-Columbia) |date=April 16, 2026 |access-date=September 26, 2026}}</ref>
+*[[Maggie's List]]<ref>{{cite web |title=Christine Drazan - Maggie's List |url=https://maggieslist.org/candidates/christine-drazan/ |website=Maggie's List |access-date=September 26, 2026}}</ref>
+*[[Oregon Farm Bureau]]<ref name="Farm">{{cite web |title=Farm Bureau endorses Drazan |url=https://oregoncatalyst.com/94755-farm-bureau-endorses-drazan-governor.html |website=Oregon Catalyst |access-date=April 5, 2026 |date=February 17, 2026}}</ref>
+*[[Oregon Right to Life]] ''(co-endorsement with Diehl)''<ref name="These"/>
+
+;Newspapers
+*''[[The Oregonian]]''<ref>{{cite news |title=Editorial endorsement May 2026: Republicans should choose Christine Drazan for a gubernatorial rematch|url=https://www.oregonlive.com/opinion/2026/04/editorial-endorsement-may-2026-republicans-should-choose-christine-drazan-for-a-gubernatorial-rematch.html|date=April 26, 2026|access-date=May 7, 2026 |work=[[The Oregonian]]}}</ref>
+*''[[Willamette Week]]''<ref>{{cite web |title=WW’s May 2026 Endorsements: Statewide |url=https://www.wweek.com/news/2026/04/29/wws-may-2026-endorsements-statewide/ |website=Willamette Week |access-date=May 23, 2026 |language=en |date=April 29, 2026}}</ref>
+}}
+
+=== Polling ===
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"}}
+! Margin<br />of error
+! style="width:65px;"| Danielle<br />Bethell
+! style="width:65px;"| Ed<br />Diehl
+! style="width:65px;"| Christine<br />Drazan
+! style="width:65px;"| Chris<br />Dudley
+! style="width:65px;"| David<br />Medina
+! Other
+! Undecided
+|-
+|style="text-align:left;"|Hoffman Research Group (R)<ref>{{cite web |title=EXCLUSIVE: Crosstabs Releases Governor Poll |url=https://www.crosstabs.studio/p/exclusive-crosstabs-releases-governor |first1=Reagan |last1=Knopp |first2=Bryan |last2=Iverson |website=Crosstabs |date=April 28, 2026| access-date=April 28, 2026}}</ref>{{efn-ua|Poll commissioned by Crosstabs, a podcast that supports Republicans}}
+|April 23–24, 2026
+|620 (LV)
+|±&nbsp;3.9%
+|–
+|18%
+|{{party shading/Republican}}|'''35%'''
+|14%
+|–
+|8%{{efn|"Some other candidate" with 8%}}
+|25%
+|-
+|style="text-align:left;"|Nelson Research<ref>{{cite web |title=Nelson Research Republican primary poll |url=https://www.opb.org/pdf/OR_STATE_GOP%20Gov%20Track_TOPLINE_04_1776795768997.pdf |publisher=Nelson Research |access-date=April 22, 2026}}</ref>
+|April 14–17, 2026
+|515 (LV)
+|±&nbsp;4.3%
+|2%
+|18%
+|{{party shading/Republican}}|'''37%'''{{Efn|name=lean|With voters who lean towards a given candidate}}
+|18%
+|7%
+|–
+|18%
+|}
+
+===Results===
+[[File:2026 Oregon gubernatorial Republican primary election results map by county.svg|thumb|260px|Results by county
+{{collapsible list
+| title = {{legend|#e27f7f|Drazan}}|{{legend|#ffc8cd|30–40%}}|{{legend|#ffb2b2|40–50%}}|{{legend|#e27f7f|50–60%}}
+}}
+{{collapsible list
+| title = {{legend|#FACA33|Diehl}}|{{legend|#f2f2a0|30–40%}}|{{legend|#FDE387|40–50%}}|{{legend|#FACA33|50–60%}}
+}}
+]]
+{{Election box begin no change
+ | title=Republican primary results<ref name=results/>}}
+{{Election box winning candidate with party link no change
+ | party=Oregon Republican Party
+ | candidate=[[Christine Drazan]]
+ | votes= 172,474
+ | percentage= 40.5}}
+{{Election box candidate with party link no change
+ | party=Oregon Republican Party
+ | candidate=[[Ed Diehl]]
+ | votes= 140,458
+ | percentage= 33.0}}
+{{Election box candidate with party link no change
+ | party=Oregon Republican Party
+ | candidate=[[Chris Dudley]]
+ | votes= 71,929
+ | percentage= 16.9}}
+{{Election box candidate with party link no change
+ | party=Oregon Republican Party
+ | candidate=David Medina
+ | votes= 21,742
+ | percentage= 5.1}}
+{{Election box candidate with party link no change
+ | party=Oregon Republican Party
+ | candidate=Danielle Bethell
+ | votes= 9,629
+ | percentage= 2.3}}
+{{Election box candidate with party link no change
+ | party=Oregon Republican Party
+ | candidate=Brad Peters
+ | votes= 1,827
+ | percentage= 0.4}}
+{{Election box candidate with party link no change
+ | party=Oregon Republican Party
+ | candidate=Paul Romero
+ | votes= 1,615
+ | percentage= 0.4}}
+{{Election box candidate with party link no change
+ | party=Oregon Republican Party
+ | candidate=Kyle Duyck
+ | votes= 1,562
+ | percentage= 0.4}}
+{{Election box candidate with party link no change
+ | party=Oregon Republican Party
+ | candidate=Robert Neuman
+ | votes= 680
+ | percentage= 0.2}}
+{{Election box candidate with party link no change
+ | party=Oregon Republican Party
+ | candidate=Martin Ward
+ | votes= 539
+ | percentage= 0.1}}
+{{Election box candidate with party link no change
+ | party=Oregon Republican Party
+ | candidate=Hope Dalrymple
+ | votes= 534
+ | percentage= 0.1}}
+{{Election box candidate with party link no change
+ | party=Oregon Republican Party
+ | candidate=DeAngelo Turner
+ | votes= 377
+ | percentage= 0.1}}
+{{Election box candidate with party link no change
+ | party=Oregon Republican Party
+ | candidate=Wen Waddell
+ | votes= 321
+ | percentage= 0.1}}
+{{Election box candidate with party link no change
+ | party=Oregon Republican Party
+ | candidate=Tim Youker
+ | votes= 248
+ | percentage= 0.1}}
+{{Election box write-in with party link no change
+| votes = 1,622
+| percentage = 0.4
+}}
+{{Election box total no change
+ | votes= 425,557
+ | percentage= 100.0}}
+{{Election box end}}
+
+== Third-party and independent candidates ==
+=== Declared ===
+*Brett Smith, welder, pipefitter, inventor ([[Pacific Green Party]])<ref>{{cite web |title=Candidate Information |url=https://secure.sos.state.or.us/orestar/cfDetail.do?page=search&cfRsn=25615&OWASP_CSRFTOKEN=TFZD-CV65-3GQ0-YMTR-5HOL-IWR5-P067-5N07 |website=Oregon Secretary of State |access-date=August 26, 2026}}</ref>
+
+== General election ==
+===Predictions===
+{| class="wikitable" style=text-align:center
+!Source
+!Ranking
+!As of
+|-
+|align=left|''[[The Cook Political Report]]''<ref>{{cite web|title=2026 CPR Governor Race ratings|url=https://www.cookpolitical.com/ratings/governor-race-ratings|website=[[The Cook Political Report]]|access-date=January 23, 2025}}</ref>
+|{{USRaceRating|Lean|D}}
+|September 10, 2026
+|-
+|align=left|[[Decision Desk HQ]]<ref name="DDHQ">{{cite web |title=2026 Governor Forecast |url=https://votes.decisiondeskhq.com/forecast/2026/governor |website=Decision Desk HQ |access-date=September 22, 2026}}</ref>
+|{{USRaceRating|Likely|D}}
+|September 23, 2026
+|-
+|align=left|[[Fox News]]<ref>{{cite web |title=Fox News Power Rankings: The top races to watch as 36 states choose their next governor |url=https://www.foxnews.com/politics/fox-news-power-rankings-top-races-watch-36-states-choose-next-governor |website=[[Fox News]] |publisher=Rémy Numa |access-date=July 24, 2026}}</ref>
+|{{USRaceRating|Lean|D}}
+|October 6, 2026
+|-
+|align=left|''[[Inside Elections]]''<ref>{{Cite web|title=Gubernatorial Ratings|url=https://insideelections.com/ratings/governor|access-date=February 7, 2025|website=[[Inside Elections]]}}</ref>
+|{{USRaceRating|Lean|D}}
+|September 3, 2026
+|-
+|align="left"|[[RealClearPolitics]]<ref>{{Cite web|title=2026 Governor Races {{!}} RealClearPolitics|url=https://www.realclearpolling.com/maps/governor/2026/toss-up|access-date=October 5, 2026|website=[[RealClearPolitics]]|archive-url=https://web.archive.org/web/20260601183127/https://www.realclearpolling.com/maps/governor/2026/toss-up|archive-date=June 1, 2026|url-status=dead}}</ref>
+|{{USRaceRating|Lean|D}}
+|October 5, 2026
+|-
+|align=left|''[[Sabato's Crystal Ball]]''<ref>{{cite web|title=2026 Governor|url=https://centerforpolitics.org/crystalball/2026-governor/|website=[[Sabato's Crystal Ball]]|access-date=May 1, 2025}}</ref>
+|{{USRaceRating|Lean|D}}
+|October 6, 2025
+|-
+| style="text-align: left;" |[[Silver Bulletin]]<ref name=":Silver">{{Cite web |last=Silver |first=Nate |date=August 20, 2026 |title=FLIPR 2026 midterm election forecast |url=https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model |url-access=subscription |access-date=August 20, 2026 |website=www.natesilver.net |language=en}}</ref>
+| {{US political race rating|Likely|D}}
+|August 25, 2026
+|}
+
+=== Debates ===
+{| class="wikitable mw-collapsible"  style="text-align:center;" 
+|+ class="nowrap" | 2026 Oregon gubernatorial election debates
+|- style="font-size:small;"
+!scope="col"| {{abbr|No.|Number}}
+!scope="col"| Date
+!scope="col"| Host
+!scope="col"| Moderators
+!scope="col"| Link
+!scope="col" colspan="2"| Participants
+|-
+!colspan="5" rowspan="2" |<!--
+-->{{Colors|black|#90ff90|&nbsp;P&nbsp;}} <small>Participant &nbsp;</small><!--
+-->{{Colors|black|#ff9090|&nbsp;A&nbsp;}} <small>Absent &nbsp;</small><!--
+-->{{Colors|black|#A2B2C2|&nbsp;N&nbsp;}} <small>Non-invitee &nbsp;</small><!--
+-->{{Colors|black|#CCFFCC|&nbsp;I&nbsp;}} <small>Invitee &nbsp;</small><!--
+-->{{colors|black|#f0e68c|&nbsp;W&nbsp;}} <small>Withdrawn</small>
+! scope="col" style="background:{{Party color|Democratic Party (US)}};"|
+! scope="col" style="background:#E81B23;"|
+|-
+!scope="col"| [[Tina Kotek]]
+!scope="col"| [[Christine Drazan]]
+|- style="background:#fff; font-size:small;"
+!scope="row"| 1
+|style="white-space:nowrap;"| October 1, 2026
+|style="white-space:nowrap;"| [[University of Oregon]]
+|style="white-space:nowrap;"| Kendall Bartley
+|style="white-space:nowrap;"|<ref>{{Cite web|url=https://www.youtube.com/watch?v=VUR0fsIADZU|publisher=[[KATU]]|title=ELECTION 2026: Kotek, Drazan face off in televised debate in Oregon governor’s race |date=October 1, 2026 |access-date=October 2, 2026 |via=YouTube}}</ref>
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+|- style="background:#fff; font-size:small;"
+|}
+
+===Post-primary endorsements===
+{{Endorsements box
+| title = Tina Kotek (D)
+| list =
+;Individuals
+*[[Jane Fonda]], actress and activist<ref name="Fonda">{{cite web |last1=Kavanaugh |first1=Shane |title=Jane Fonda weighs in on governor’s race: The latest on Oregon’s 2026 election |url=https://www.oregonlive.com/politics/2026/09/jane-fonda-weighs-in-on-governors-race-the-latest-on-oregons-2026-election.html |website=OregonLive |access-date=30 September 2026 |date=September 30, 2026}}</ref>
+
+;Labor unions
+*[[AFSCME|Oregon AFSCME]]<ref name="AFSCME">{{cite web |title=Oregon AFSCME 2026 Endorsements |url=https://www.politicalaction.oregonafscme.org/elections2026?fbclid=IwY2xjawUqKZxleHRuA2FlbQIxMABwZG9mAWJyaWQRMTNHMEpLVlRpdHRFT0x0QjlzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEel9_Z1ecgFCCPoTDUYRWXuel-ze_9rlSUKn20KmvUCfcocF2XJ97f5xXxVDo_aem_a-M7XoCG80cdMi_ZhJRupw |website=Oregon AFSCME |access-date=30 September 2026}}</ref>
+
+;Organizations
+*[[End Citizens United]]<ref>{{cite web|title=Endorsements{{Em dash}}End Citizens United|url=https://www.endcitizensunited.org/endorsements#|access-date=June 6, 2026|publisher=[[End Citizens United]]}}</ref>
+*[[Sierra Club]] Oregon<ref name="Sierra">{{cite web |title=2026 General Election Candidate Endorsements |url=https://www.sierraclub.org/oregon/2026-general-election-candidate-endorsements |website=Sierra Club Oregon Chapter |access-date=30 September 2026}}</ref>
+
+;Political parties
+*Oregon [[Working Families Party]]<ref name=opb>{{cite web|url=https://www.opb.org/article/2026/08/21/kotek-drazan-smith-minor-parties-three-way-race-oregon-governor/|title=Kotek snags final minor-party nomination, likely cementing a three-way race for Oregon governor|first=Dirk|last=VanderHart|publisher=[[Oregon Public Broadcasting]]|date=August 21, 2026|access-date=August 27, 2026}}</ref>
+}}
+
+{{Endorsements box
+| title = Christine Drazan (R)
+| list =
+;Labor unions
+*Oregon [[Fraternal Order of Police]]<ref>{{cite web|title=For Immediate Release: Oregon Fraternal Order of Police and Oregon State FOP Labor Coalition|url=https://www.facebook.com/foporegon/posts/for-immediate-releaseoregon-fraternal-order-of-police-and-oregon-state-fop-labor/1539992758162276/|publisher=Facebook|access-date=August 28, 2026}}</ref>
+
+;Organizations
+*[[National Federation of Independent Business]]<ref name="NFIB">{{cite web |title=NFIB Endorses Christine Drazan for Oregon Governor |url=https://www.nfib.com/news/press-release/nfib-endorses-christine-drazan-for-oregon-governor/ |website=[[National Federation of Independent Business]] |access-date=30 September 2026 |date=September 29, 2026}}</ref>
+
+;Political parties
+*[[Libertarian Party of Oregon]] ''(cross-nomination)''<ref name=opb />
+}}
+
+{{Endorsements box
+| title = Declined to endorse
+| list =
+;Organizations
+*[[No Labels]]<ref name=opb />
+
+;Political parties
+*[[Oregon Progressive Party]]<ref name=opb />
+*[[Independent Party of Oregon]]<ref name=opb />
+}}
+
+=== Polling ===
+'''Aggregate polls'''
+{| class="wikitable sortable" style="text-align:center;font-size:90%;line-height:17px"
+!Source of poll<br />aggregation
+!Dates<br />administered
+!Dates<br />updated
+! style="width:100px;"| Tina<br />Kotek (D)
+! style="width:100px;"| Christine<br />Drazan (R)
+! style="width:100px;"| Other/Undecided<br />{{Efn|Calculated by taking the difference of 100% and all other candidates combined.|name=|group=}}
+! Margin
+|-
+|''[[Silver Bulletin]]''<ref>{{Cite web|title=FLIPR 2026 midterm election forecast|url=https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model|work=[[Silver Bulletin]]|access-date=September 13, 2026}}</ref>
+|through October 1, 2026
+|October 8, 2026
+|{{party shading/Democratic}}|'''45.9%'''
+|43.9%
+|7.2%
+|{{Party shading/Democratic}}|'''Kotek +2.0%'''
+|}
+
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"}}
+! Margin<br />of error
+! style="width:100px;"| Tina<br />Kotek (D)
+! style="width:100px;"| Christine<br />Drazan (R)
+! Other
+! Undecided
+|-
+|style="text-align:left;"|GBAO (D)<ref>{{cite web|url=https://www.opb.org/article/2026/10/08/new-polls-kotek-may-lead/|title=2 new polls suggest Kotek may lead in Oregon governor’s race|last=VanderHart|first=Dirk|date=October 8, 2026|access-date=October 9, 2026|website=[[Oregon Public Broadcasting]]}}</ref>{{efn-ua|Poll sponsored by Kotek's campaign}}
+|October 1–4, 2026
+|800 (LV)
+|±&nbsp;3.5%
+|{{party shading/Democratic}}|'''46%'''
+|42%
+|6%{{efn|Brett Smith (G) with 6%}}
+|6%
+|-
+|style="text-align:left;"|DHM Research<ref>{{Cite web|url=https://www.oregonlive.com/politics/2026/10/oregon-governors-race-may-be-shifting-new-poll-shows.html|title=Oregon governor’s race may be shifting, new poll shows|first=Carlos|last=Fuentes|website=The Oregonian|date=October 8, 2026|access-date=October 8, 2026}}</ref>{{efn-ua|Poll conducted on behalf of [[The Oregonian]]}}
+|September 24 – October 1, 2026
+|549 (LV)
+|±&nbsp;4.0%
+|{{party shading/Democratic}}|'''46%'''
+|44%
+|3%{{efn|name=S3}}
+|7%
+|-
+|rowspan="2" style="text-align:left;"|DHM Research<ref>{{cite web |last1=VanderHart |first1=Dirk |title=OPB poll shows Oregon governor’s race virtually deadlocked |url=https://www.opb.org/article/2026/09/30/opb-poll-shows-oregon-governors-race-virtually-deadlocked/ |website=[[Oregon Public Broadcasting]] |access-date=30 September 2026 |date=September 30, 2026}}</ref>{{efn-ua|Poll conducted on behalf of [[Oregon Public Broadcasting]]}}
+|rowspan="2" |September 17–27, 2026
+|rowspan="2" |915 (LV)
+|rowspan="2" |±&nbsp;3.2%
+|46%{{efn|With voters who lean towards a given candidate}}
+|{{party shading/Republican}}|'''47%'''
+|3%{{efn|name=S3|Brett Smith (G) with 3%}}
+|5%
+|-
+|44%
+|{{party shading/Republican}}|'''46%'''
+|3%{{efn|name=S3}}
+|8%
+|-
+|style="text-align:left;"|DHM Research<ref>{{Cite web|url=https://www.oregonjournalismproject.org/new-poll-shows-drazan-with-slight-lead-in-governors-race|title=New Poll Shows Drazan With Slight Lead in Governor’s Race|first=Nigel|last=Jaquiss|website=Oregon Journalism Project|date=September 15, 2026|access-date=September 15, 2026}}</ref>{{efn-ua|Poll conducted on behalf of Grow Oregon}}
+|September 3–9, 2026
+|600 (LV)
+|±&nbsp;4.0%
+|43%
+|{{party shading/Republican}}|'''45%'''
+|4%{{efn|Brett Smith (G) with 4%}}
+|13%
+|-
+|style="text-align:left;"|Public Opinion Strategies (R)<ref>{{Cite web|url=https://www.oregonlive.com/politics/2026/07/new-poll-shows-oregon-governors-race-is-far-from-settled.html|title=New poll shows Oregon governor's race is far from settled|first=Carlos|last=Fuentes|website=[[The Oregonian]]|date=July 9, 2026|access-date=July 9, 2026}}</ref>{{efn-ua|name=Drazan|Poll sponsored by Drazan's campaign}}
+|June 22–24, 2026
+|600 (RV)
+|±&nbsp;4.0%
+|44%
+|{{party shading/Republican}}|'''48%'''
+|{{sdash}}
+|8%
+|-
+|- style="background:lightyellow;"
+| style="border-right-style:hidden; background:lightyellow;" |
+| style="border-right-style:hidden; " | May 19, 2026
+| colspan="16"| Primary elections
+|-
+|style="text-align:left;"|Hoffman Research Group (R)<ref name="HoffmanMay2026"/>{{efn-ua|name=Dudley|Poll sponsored by Dudley's campaign}}
+|May 11–12, 2026
+|603 (LV)
+|±&nbsp;4.0%
+|'''45%'''
+|'''45%'''
+|{{sdash}}
+|10%
+|-
+|style="text-align:left;"|FM3 Research (D)<ref name="FM3Feb2026"/>{{efn-ua|name=Health}}
+|January 28 – February 4, 2026
+|1,065 (LV)
+|±&nbsp;3.1%
+|{{party shading/Democratic}}|'''45%'''
+|40%
+|{{sdash}}
+|15%
+|}
+
+<!-- = = = don't edit the line below = = = -->
+{{hidden begin|titlestyle=background:#cff|title=Hypothetical polling|contentstyle=border:solid 1px silver; padding:8px; background:var(--background-color-base); color:var(--color-base);}}
+<!-- = = = don't edit the line above = = = -->
+'''Tina Kotek vs. Ed Diehl'''
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|Key:<br />A – all adults<br />RV – registered voters<br />LV – likely voters<br />V – unclear|name="Key"}}
+! Margin<br />of error
+! style="width:100px;"| Tina<br />Kotek (D)
+! style="width:100px;"| Ed<br />Diehl (R)
+! Undecided
+|-
+|style="text-align:left;"|FM3 Research (D)<ref name="FM3Feb2026">{{Cite web |last=Fuentes |first=Carlos |date=February 13, 2026 |title=Who will be Oregon's next governor? First poll of 2026 names this candidate |url=https://www.oregonlive.com/politics/2026/02/who-will-be-oregons-next-governor-first-poll-of-2026-names-this-candidate.html |access-date=February 13, 2026 |website=[[The Oregonian]] |url-access=subscription |language=en}}</ref>{{efn-ua|name=Health|Poll commissioned by Charlie Health, an online behavioral health provider}}
+|January 28 – February 4, 2026
+|1,065 (A)
+|±&nbsp;3.1%
+|{{party shading/Democratic}}|'''43%'''
+|37%
+|20%
+|}
+
+'''Tina Kotek vs. Chris Dudley'''
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"}}
+! Margin<br />of error
+! style="width:100px;"| Tina<br />Kotek (D)
+! style="width:100px;"| Chris<br />Dudley (R)
+! Undecided
+|-
+|style="text-align:left;"|Hoffman Research Group (R)<ref name="HoffmanMay2026">{{cite web |last1=Mason |first1=Anastasia |title=Poll shows candidate leading Kotek in hypothetical general election |url=https://www.yahoo.com/news/articles/poll-shows-candidate-leading-kotek-225944696.html |website=Yahoo |access-date=May 15, 2026}}</ref>{{efn-ua|name=Dudley}}
+|May 11–12, 2026
+|603 (LV)
+|±&nbsp;4.0%
+|44%
+|{{party shading/Republican}}|'''48%'''
+|9%
+|-
+|style="text-align:left;"|FM3 Research (D)<ref name="FM3Feb2026"/>{{efn-ua|name=Health}}
+|January 28 – February 4, 2026
+|1,065 (LV)
+|±&nbsp;3.1%
+|{{party shading/Democratic}}|'''45%'''
+|35%
+|20%
+|}
+{{hidden end}}
+
+===Results===
+{{Election box begin
+| title = 2026 Oregon gubernatorial election
+}}
+{{Election box candidate with party link|candidate=[[Tina Kotek]] (incumbent)|party=Democratic Party (United States)|votes=|percentage=|change=}}
+{{Election box candidate with party link|candidate=[[Christine Drazan]]|party=Republican Party (United States)|votes=|percentage=|change=}}
+{{Election box candidate with party link|candidate=Brett Smith|party=Pacific Green Party|votes=|percentage=|change=}}
+{{Election box write-in with party link|votes=|percentage=|change=}}
+{{Election box total
+| votes = 
+| percentage = 100.0
+| change =N/A
+}}
+{{Election box end}}
+
+== See also ==
+*[[2026 United States elections]]
+*[[2026 Oregon elections]]
+*[[2026 United States Senate election in Oregon]]
+*[[2026 United States House of Representatives elections]]
+
+==Notes==
+{{notelist}}
+'''Partisan clients'''<br />
+{{notelist-ua}}
+
+==References==
+{{Reflist}}
+
+==External links==
+;Official campaign websites
+*[https://www.christinefororegon.com/ Christine Drazan (R)]
+*[https://www.tinafororegon.com/ Tina Kotek (D)]
+*[https://brett-smith.us/ Brett Smith (PG)]
+
+{{2026 United States elections}}
+{{Elections in Oregon footer}}
+
+[[Category:Oregon gubernatorial elections]]
+[[Category:2026 Oregon elections|Gubernatorial]]
+[[Category:2026 United States gubernatorial elections|Oregon]]

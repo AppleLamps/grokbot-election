@@ -1,0 +1,513 @@
+{{short description|none}}
+{{for|related races|2026 United States gubernatorial elections}}
+{{Use American English|date=January 2025}}
+{{Use mdy dates|date=June 2026}}
+
+<!-- "none" is preferred when the title alone is adequate; see [[WP:SDNONE]] -->
+{{Infobox election
+| election_name = 2026 Kansas gubernatorial election
+| country = Kansas
+| type = presidential
+| ongoing = yes
+| previous_election = 2022 Kansas gubernatorial election
+| previous_year = 2022
+| next_election = 2030 Kansas gubernatorial election
+| next_year = 2030
+| election_date = November 3, 2026
+| image1 = Cindy 2 cropped.jpg
+| nominee1 = [[Cindy Holscher]]
+| party1 = Democratic Party (United States)
+| running_mate1 = [[KC Ohaebosim]]
+| popular_vote1 = 
+| percentage1 = 
+| image2 = TY mASTERSON (cropped).jpg
+| image_size = 150x150px
+| nominee2 = [[Ty Masterson]]
+| party2 = Republican Party (United States)
+| running_mate2 = [[Jeff Klemp]]
+| popular_vote2 = 
+| percentage2 = 
+| map_image = 
+| map_caption = 
+| title = [[Governor of Kansas|Governor]]
+| before_election = [[Laura Kelly]]
+| before_party = Democratic Party (United States)
+| after_election = 
+| after_party = 
+| turnout = 
+}}
+{{ElectionsKS}}
+The '''2026 Kansas gubernatorial election''' is scheduled to take place on November 3, 2026, to elect the next [[List of governors of Kansas|governor of Kansas]]. The primary elections took place on August 4, 2026.<ref>{{Cite web|date=May 9, 2025 |title=2026 State Primary Election Dates |url=https://www.ncsl.org/elections-and-campaigns/2026-state-primary-election-dates|publisher=NCSL |access-date=August 5, 2025}}</ref> Incumbent [[Democratic Party (United States)|Democratic]] governor [[Laura Kelly]] is term-limited and ineligible to seek a third consecutive term. This will be one of five Democratic-held governorships up for election in 2026 in a state that [[Donald Trump]] won in the [[2024 United States presidential election|2024 presidential election]] and the only one of those states that Trump won by a double-digit margin.
+
+==Background==
+Kansas has a long tradition of ticket-splitting at the gubernatorial level: despite the state's consistent support for Republican presidential nominees, Democratic candidates have won the governor's office for the majority of years since the late 1960s, reflecting a pattern of voters distinguishing between state executive and federal races.
+
+This competitive tradition continued in the [[2018 Kansas gubernatorial election|2018 election]], when Laura Kelly won the open seat in a favorable national environment during the [[2018 United States elections|2018 midterms]] and benefited from widespread dissatisfaction with the outgoing administration of [[Sam Brownback]], who had departed mid-term after being nominated by President [[Donald Trump]] to serve as [[United States Ambassador-at-Large for International Religious Freedom]] in 2017.<ref>{{Cite news |last=Paul |first=Kari |date=November 7, 2018 |title=Kansas sees its own blue wave: 'If you can flip it here, you can flip it anywhere' |url=https://www.marketwatch.com/story/kansas-sees-its-own-blue-wave-if-you-can-flip-it-here-you-can-flip-it-anywhere-2018-11-07 |access-date=September 29, 2024 |work=[[MarketWatch]]}}</ref> Kelly won re-election in [[2022 Kansas gubernatorial election|2022]] on the strength of her own personal popularity, with the negative reaction to the [[Dobbs v. Jackson Women's Health Organization|overturning of ''Roe v. Wade'']] providing additional tailwind, amplified by the presence of an [[2022 Kansas abortion referendum|abortion referendum]] on the ballot a few months prior.<ref>{{Cite web |last=Bahl |first=Andrew |title=National poll: More than half of residents approve of Gov. Laura Kelly's job performance |url=https://www.cjonline.com/story/news/politics/elections/2021/11/18/kansas-governor-laura-kelly-approval-rating-ahead-reelection-run-poll/8665879002/ |access-date=September 29, 2024 |website=[[The Topeka Capital-Journal]] |language=en-US}}</ref><ref>{{Cite news |last=Hanna |first=John |date=November 9, 2022 |title=Abortion rights support helps Kansas Gov. Kelly win 2nd term |url=https://apnews.com/article/2022-midterm-elections-biden-donald-trump-kansas-topeka-39afdff811fd2f30a212036d5ec6e3fa |access-date=September 29, 2024 |publisher=[[Associated Press]] |language=en}}</ref>
+
+Since her re-election, Kelly has seen a continued rise in personal popularity, and as of 2024 ranks among the ten most popular governors in the country, which some commentators have attributed to her frequent use of her veto powers and extensive travel across the state.<ref>{{Cite web |date=April 23, 2024 |title=Report: Kansas gov. is one of the top 10 most popular in the nation |url=https://www.yahoo.com/news/report-kansas-gov-one-top-203024475.html |access-date=September 29, 2024 |website=[[Yahoo News]] |language=en-US}}</ref><ref>{{Cite web |author=A. O. L. Staff |date=May 4, 2024 |title=Are Gov. Laura Kelly's rising approval numbers because of her frequent use of veto powers? |url=https://www.aol.com/gov-laura-kellys-rising-approval-090237691.html |access-date=September 29, 2024 |via=AOL news |language=en-US}}</ref>
+While Democratic candidates have remained competitive at the gubernatorial level, the [[Republican Party (United States)|Republican Party]] has historically dominated Kansas in federal and legislative politics. After the [[2024 United States House of Representatives elections in Kansas|2024 elections]], Republicans maintained their 3-1 majority in Kansas's U.S. House delegation.<ref>{{Cite news |last=Mesa |first=Blaise |date=January 6, 2026 |title=Kansas Republicans don't have the votes for redistricting in 2026, house speaker says |url=https://www.kcur.org/politics-elections-and-government/2026-01-06/kansas-republicans-redistricting-congress-sharice-davids |archive-url=https://web.archive.org/web/20260107132748/https://www.kcur.org/politics-elections-and-government/2026-01-06/kansas-republicans-redistricting-congress-sharice-davids |archive-date=January 7, 2026 |access-date=January 16, 2026 |publisher=[[NPR]] Kansas City}}</ref> Kansas has been represented in the U.S. Senate exclusively by Republicans since 1939.<ref>{{Cite news |last=Rudin |first=Ken |date=December 8, 2008 |title=Longest Losing Streaks In The Senate |url=https://www.npr.org/sections/politicaljunkie/2008/12/longest_losing_streaks_in_the_1.html |url-status=live |archive-url=https://web.archive.org/web/20230412212226/https://www.npr.org/sections/politicaljunkie/2008/12/longest_losing_streaks_in_the_1.html |archive-date=April 12, 2023 |access-date=January 16, 2026 |publisher=[[NPR]]}}</ref> Both chambers of the [[Kansas Legislature]] also have Republican supermajorities.<ref>{{Cite news |last=Self |first=Matthew |date=December 3, 2024 |title=Kansas Republicans retain supermajority control in the state Legislature |url=https://www.ksnt.com/elections/kansas-republicans-retain-supermajority-control-in-the-state-legislature/ |url-status=live |archive-url=https://web.archive.org/web/20250127190450/https://www.ksnt.com/elections/kansas-republicans-retain-supermajority-control-in-the-state-legislature/ |archive-date=January 27, 2025 |access-date=January 16, 2026 |publisher=[[KSNT]] |location=Topeka}}</ref> Since 1957, neither major political party has held the Kansas governor's office for longer than two consecutive terms, reflecting the ongoing competitiveness of the state's executive elections.<ref>{{Cite web |title=Ballotpedia - Kansas State Government |url=https://ballotpedia.org/Party_control_of_Kansas_state_government |url-status=live |archive-url=https://web.archive.org/web/20251102082632/https://ballotpedia.org/Party_control_of_Kansas_state_government |archive-date=November 2, 2025 |access-date=January 16, 2026 |website=[[Ballotpedia]]}}</ref>
+
+==Democratic primary==
+===Candidates===
+====Nominee====
+*[[Cindy Holscher]], [[Kansas Senate|state senator]] from the 8th district (2021–present)<ref>{{cite web|url=https://www.kansascity.com/news/politics-government/article308411560.html|title=This Overland Park Democrat is launching a campaign for Kansas governor|last=Shorman|first=Jonathan|date=June 12, 2025|access-date=June 12, 2025|website=[[The Kansas City Star]]}}</ref>
+** Running mate: [[KC Ohaebosim]], [[Kansas House of Representatives|state representative]] from the 89th district (2017–present)<ref>{{cite web|url=https://kansasreflector.com/2026/05/14/democratic-ticket-in-kansas-governors-race-pairs-legislators-from-johnson-sedgwick-counties/|title=Democratic ticket in Kansas governor's race pairs legislators from Johnson Sedgwick counties|last=Carpenter|first=Tim|date=May 14, 2026|website=Kansas Reflector |access-date=May 14, 2026}}</ref>
+====Eliminated in primary====
+*[[Ethan Corson]], [[Kansas Senate|state senator]] from the 7th district (2021–present)<ref>{{cite web|last=Carpenter|first=Tim|title=Kansas Sen. Ethan Corson enters race for Democratic Party's nomination for governor|date=July 22, 2025|url=https://kansasreflector.com/2025/07/22/kansas-sen-ethan-corson-enters-race-for-democratic-partys-nomination-for-governor/|website=[[Kansas Reflector]]|access-date=July 22, 2025}}</ref>
+** Running mate: Renee Duxler, president and CEO of the [[Salina, Kansas|Salina]] Area Chamber of Commerce (2023–present)<ref>{{cite web|url=https://kansasreflector.com/2026/05/20/democratic-governor-candidate-ethan-corson-joins-forces-with-salina-business-director/|title=Democratic gubernatorial candidate Ethan Corson joins forces with Salina business director|last=Carpenter|first=Tim|date=May 20, 2026|website=Kansas Reflector |access-date=May 21, 2026}}</ref>
+*[[Curt Skoog]], mayor of [[Overland Park]] (2021–present)<ref name=skoog>{{cite news |last=Cooper|first=Brad|title=UPDATED: Overland Park mayor to file for governor Monday, sources say |url=https://sunflowerstatejournal.com/overland-park-mayor-to-file-for-governor-tuesday-sources-say/|access-date=May 31, 2026 |work=Sunflower State Journal|date=May 31, 2026}}</ref>
+** Running mate: Jennifer Bacani McKenny, physician<ref name=skoog/>
+
+====Withdrawn====
+*Marty Tuley, teacher ''(failed to find running mate)''<ref>{{cite web |last1=Anderson |first1=Phil |last2=Baum |first2=Jake |title=Democrat Marty Tuley announces candidacy for 2026 Kansas governor |url=https://www.wibw.com/2025/07/28/democrat-marty-tuley-announces-candidacy-2026-kansas-governor/ |publisher=[[WIBW-TV]] |location=Topeka |language=en |date=July 28, 2025}}</ref>
+
+====Declined====
+*Matt All, president and CEO of [[Blue Cross Blue Shield Association|Blue Cross Blue Shield]] of Kansas (2018–present)<ref name="Others">{{cite web|url=https://sunflowerstatejournal.com/eyes-turning-toward-26-governors-race/|title=Eyes turning toward '26 governor's race|last=Cooper|first=Brad|date=January 3, 2025|access-date=January 4, 2025|website=Sunflower State Journal|url-access=subscription}}</ref>
+*[[Dinah Sykes]], minority leader of the [[Kansas Senate]] (2021–present)<ref>{{Cite news |work=[[KSNW]] |location=Wichita |access-date=July 9, 2025 |url=https://www.ksn.com/news/politics/state-senate-minority-leader-dinah-sykes-considers-run-for-kansas-governor/ |date=July 4, 2025 |author=Ketz, Jonathan |title=State Senate Minority Leader Dinah Sykes considers run for Kansas governor}}</ref> ''(running for [[Kansas Insurance Commissioner|insurance commissioner]])''<ref>{{cite web |last1=Kaminski |first1=Anna |title=Kansas Senate minority leader challenges GOP House speaker for state insurance commissioner |url=https://kansasreflector.com/briefs/kansas-senate-minority-leader-challenges-gop-house-speaker-for-state-insurance-commissioner/ |access-date=January 8, 2026 |work=[[Kansas Reflector]] |date=January 8, 2026}}</ref>
+*[[David Toland]], [[lieutenant governor of Kansas]] (2021–present)<ref>{{cite news|last=Alatidd|first=Jason|title=Lt. Gov. David Toland isn't running for Kansas governor — or any other office|newspaper=[[The Topeka Capital-Journal]]|date=July 22, 2025|location=[[Topeka, Kansas]]|url=https://www.cjonline.com/story/news/politics/elections/2025/07/22/david-toland-isnt-running-for-kansas-governor-or-other-elected-office/85320776007/|access-date=July 22, 2025}}</ref> ''(endorsed Corson)''<ref name=Toland1/>
+
+===Endorsements===
+{{Endorsements box
+| title= Ethan Corson
+| list=
+;Executive branch officials
+*[[Kathleen Sebelius]], former [[secretary of health and human services]] (2009–2014)<ref>{{cite web |last1=Carpenter |first1=Tim |title=Former Kansas Gov. Kathleen Sebelius endorses Sen. Ethan Corson in Democratic race for governor |url=https://kansasreflector.com/briefs/former-kansas-gov-kathleen-sebelius-endorses-sen-ethan-corson-in-democratic-race-for-governor/ |access-date=January 21, 2026 |work=[[Kansas Reflector]] |date=January 21, 2026}}</ref>
+
+;Statewide officials
+*[[Laura Kelly]], [[governor of Kansas]] (2019–present)<ref name="CorsonEndorsement">{{cite web|url=https://www.kake.com/home/gov-kelly-endorses-state-senator-ethan-corson-as-he-launches-gubernatorial-campaign/article_2b3eab4d-ea75-4e71-804c-36c0ca54a926.html|title=Gov. Kelly endorses state senator Ethan Corson as he launches gubernatorial campaign|date=July 22, 2025|access-date=July 23, 2025|publisher=[[KAKE]] |location=Wichita}}</ref>
+*[[David Toland]], [[Lieutenant Governor of Kansas|lieutenant governor of Kansas]] (2021–present) and [[Kansas Secretary of Commerce|secretary of commerce of Kansas]] (2019–present)<ref name=Toland1>{{cite web |title=Corson wins lieutenant governor's endorsement |url=https://sunflowerstatejournal.com/corson-wins-lieutenant-governors-endorsement/ |website=Sunflower State Journal |access-date=January 16, 2026 |date=January 15, 2026}}</ref>
+
+;Organizations
+<!--*[[AFL-CIO]] Kansas<ref>{{Cite AV media |url=https://www.youtube.com/shorts/0_Z0xRCZjXU |title=Kansas AFL-CIO Endorses Ethan Corson for Governor #union #labor |date=April 30, 2026 |last=KS AFL-CIO |access-date=May 3, 2026 |via=YouTube}}</ref>-->
+*[[End Citizens United]]<ref>{{cite web |title=End Citizens United Endorses Ethan Corson for Kansas Governor |url=https://www.endcitizensunited.org/end-citizens-united-endorses-ethan-corson-for-kansas-governor |publisher=End Citizens United |date=March 6, 2026 |access-date=March 9, 2026}}</ref>
+*[[Planned Parenthood]] [[Great Plains]]<ref>{{cite web |title=Corson wins endorsement from Planned Parenthood |url=https://sunflowerstatejournal.com/corson-wins-endorsement-from-planned-parenthood/ |website=Sunflower State Journal |access-date=March 24, 2026 |date=March 23, 2026}}</ref>
+}}
+
+{{Endorsements box
+| title= Cindy Holscher
+| list=
+;Statewide officials
+*[[John W. Carlin|John Carlin]], former [[governor of Kansas]] (1979–1987)<ref name="Carlin">{{cite web |last1=Johnson |first1=Olivia |title=Who will win? Three Democrats compete in Kansas gubernatorial primary |url=https://fox4kc.com/politics/your-local-election-headquarters/who-will-win-three-democrats-compete-in-kansas-gubernatorial-primary/ |website=FOX4 |access-date=4 August 2026 |date=August 4, 2026}}</ref>
+*[[Lynn Rogers (politician)|Lynn Rogers]], former [[Kansas State Treasurer|state treasurer of Kansas]] (2021–2023)<ref name="HolscherEndorsement">{{cite web |last1=Cooper |first1=Brad |title=Holscher announces run for governor |url=https://sunflowerstatejournal.com/holscher-announces-run-for-governor/ |date=June 12, 2025 |work=Sunflower State Journal|url-access=subscription}}</ref>
+
+;Newspapers
+*''[[The Kansas City Star]]'' ''(Democratic primary only)''<ref name="KCS">{{cite web |title=The Kansas City Star Editorial Board's recommendations for Aug. 4 primary |url=https://www.kansascity.com/opinion/article316750654.html |website=The Kansas City Star |access-date=4 August 2026 |date=August 4, 2026}}</ref>
+}}
+
+{{Endorsements box
+| title= Declined to endorse
+| list=
+;Labor unions
+*[[National Education Association|Kansas National Education Association]]<ref name="KNEA">{{cite web |last1=Cooper |first1=Brad |title=UPDATED: Corson piles up key union support in Democratic primary for governor |url=https://sunflowerstatejournal.com/corson-piles-up-key-union-support-in-democratic-primary-for-governor/?rcp_w=781ca67b0daff18b3ff2d422668f2ac2 |website=Sunflower State Journal |access-date=4 August 2026 |date=January 7, 2026}}</ref>
+}}
+
+=== Polling ===
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name=Key|Key:<br />A – all adults<br />RV – registered voters<br />LV – likely voters<br />V – unclear}}
+! Margin<br />of error
+! style="width:70px;" |Ethan<br/>Corson
+! style="width:70px;" |Cindy<br/>Holscher
+! style="width:70px;" |Curt<br/>Skoog
+! Other
+! Undecided
+|-
+|style="text-align:left;"|[[Change Research]] (D)<ref>{{cite web |title=Civic Clarity poll — Kansas Democratic primaries |url=https://forecast.capitolbee.com/polls/civic-clarity-2026-06 |website=Capitol Bee |access-date=June 19, 2026}}</ref>{{efn-ua|Poll commissioned by Civic Clarity}}
+|June 11–15, 2026
+|1,022 (LV)
+|±&nbsp;3.0%
+|10%
+|{{party shading/Democratic}} |'''37%'''
+|7%
+|2%{{efn|"Would not vote" with 2%}}
+|{{party shading/Undecided}} |'''44%'''
+|-
+|style="text-align:left;"|[[Public Policy Polling]] (D)<ref>{{cite web |last1=Carpenter |first1=Tim |title=Early poll of Democratic primary race for Kansas governor reveals most voters undecided |url=https://kansasreflector.com/2026/01/15/early-poll-of-democratic-primary-race-for-kansas-governor-reveals-most-voters-undecided/ |website=Kansas Reflector |access-date=January 18, 2026 |date=January 15, 2026}}</ref>{{efn-ua|name=Holscher|Poll sponsored by Holscher's campaign}}
+|January 8–9, 2026
+|699 (V)
+|–
+|9%
+|{{party shading/Democratic}} |'''33%'''
+|—
+|—
+|{{party shading/Undecided}} |'''58%'''
+|}
+
+=== Results ===
+[[File:2026 Kansas Democratic gubernatorial primary election results map by county.svg|thumb|250px|Primary results by county:
+{{collapsible list
+| title = {{legend|#7996E2|Holscher}}
+|{{legend|#BDD3FF|30–40%}}
+|{{legend|#A5B0FF|40–50%}}
+|{{legend|#7996E2|50–60%}}
+|{{legend|#6674DE|60–70%}}
+}}
+{{collapsible list
+| title = {{legend|#51C2C2|Corson}}
+|{{legend|#7DDDDD|40–50%}}
+|{{legend|#51C2C2|50–60%}}
+|{{legend|#2AACAC|60–70%}}
+}}
+{{collapsible list
+| title = {{legend|#F1C92A|Skoog}}
+|{{legend|#FFDD55|40–50%}}
+|{{legend|#F1C92A|50–60%}}
+}}
+{{collapsible list
+| title = {{legend|#AE8BB1|Tie}}
+|{{legend|#D2B1D9|40–50%}}
+}}
+]]
+{{Election box begin no change|title=Democratic primary results}}
+{{Election box winning candidate with party link no change|candidate=[[Cindy Holscher]]<br>[[KC Ohaebosim]]|party=Democratic Party (United States)|votes=108,478|percentage=48.6}}
+{{Election box candidate with party link no change|candidate=[[Ethan Corson]]<br>Renee Duxler|party=Democratic Party (United States)|votes=86,623|percentage=38.8}}
+{{Election box candidate with party link no change|candidate=[[Curt Skoog]]<br>Jennifer Bacani McKenny|party=Democratic Party (United States)|votes=28,024|percentage=12.6}}
+{{Election box total no change|votes=223,125|percentage=100.0}}
+{{Election box end}}
+
+==Republican primary==
+===Candidates===
+====Nominee====
+*[[Ty Masterson]], president of the [[Kansas Senate]] (2021–present) from the 16th district (2009–present)<ref>{{Cite web |last=Carpenter |first=Tim |date=July 20, 2025 |title=Kansas Senate President Ty Masterson launches Republican campaign for governor |url=https://kansasreflector.com/2025/07/20/kansas-senate-president-ty-masterson-launches-republican-campaign-for-governor/ |access-date=July 20, 2025 |website=[[Kansas Reflector]] |language=en-US}}</ref>
+** Running mate: [[Jeff Klemp]], [[Kansas Senate|state senator]] from the 5th district (2025–present)<ref>{{cite news |author=Cooper, Brad |date=June 1, 2026 |work=Sunflower State Journal |access-date=June 1, 2026 |url=https://sunflowerstatejournal.com/masterson-names-running-mate/ |title=Masterson names running mate}}</ref>
+====Eliminated in primary====
+*[[Charlotte O'Hara]], former [[Johnson County, Kansas|Johnson County]] commissioner (2021–2025) and former [[Kansas House of Representatives|state representative]] from the 17th district (2011–2013)<ref>{{cite news |author=Hammill, Roxie |date=March 10, 2025 |work=[[Johnson County Post]] |access-date=March 11, 2025 |url=https://johnsoncountypost.com/2025/03/10/charlotte-ohara-kansas-governor-bid-254803/ |title=Former JoCo commissioner Charlotte O'Hara announces bid for governor}}</ref>
+** Running mate: Michelle Dombrosky, member of the [[Kansas State Board of Education]]<ref>{{cite news |author=Cooper, Brad|date=May 28, 2026 |work=Sunflower State Journal |access-date=May 28, 2026 |url=https://sunflowerstatejournal.com/ohara-pushes-ahead-with-governors-race-names-state-school-board-member-running-mate/|title=O'Hara pushes ahead with governor's race; names state school board member running mate}}</ref>
+*Nick Reinecker, restaurant manager and husband of Katy Reinecker<ref name="Reinecker">{{cite web|url=https://www.ksnt.com/elections/kansas-couple-enter-race-for-governor/|title=Kansas couple enter race for governor|last=Self|first=Matthew|date=June 1, 2026|access-date=August 6, 2026|website=[[KSNT]]}}</ref>
+** Running mate: Katy Reinecker, restaurant manager and wife of Nick Reinecker<ref name="Reinecker"/>
+*Stacy Rogers, consignment sale business owner<ref>{{cite news |last1=Burnett|first1=Cameron|title=Wichitan Stacy Rogers announces candidacy for Kansas Governor |url=https://www.kake.com/news/wichitan-stacy-rogers-announces-candidacy-for-kansas-governor/article_8298d24e-ea47-11ef-aa00-ab042b86252d.html|access-date=March 6, 2025 |publisher=[[KAKE (TV)|KAKE]] |location=Wichita |date=February 13, 2025}}</ref>
+** Running mate: Michael Smith, former mayor of [[Lansing, Kansas|Lansing]]<ref>{{cite web|url=https://www.ksnt.com/capitol-bureau/what-kansas-governor-candidates-have-named-their-running-mates-in-leadup-to-the-2026-midterms|last=Day|first=Brayden |title=What Kansas governor candidates have named their running mates in leadup to the 2026 midterms|access-date=May 21, 2026 |publisher=[[KSNT]] |location=Topeka |date=May 20, 2026}}</ref>
+*Philip Sarnecki, financial services executive<ref>{{cite news |author=Carpenter, Tim |date=September 2, 2025 |work=[[Kansas Reflector]] |access-date=September 3, 2025 |url=https://kansasreflector.com/briefs/johnson-county-businessman-launches-campaign-to-win-gop-nomination-for-governor/ |title=Johnson County businessman launches campaign to win GOP nomination for governor}}</ref>
+** Running mate: Joy Eakins, former [[Wichita USD 259|Wichita Schools]] board member (2013–2018)<ref>{{cite news |author=Cooper, Brad |date=June 1, 2026 |work=Sunflower State Journal |access-date=June 1, 2026 |url=https://sunflowerstatejournal.com/sarnecki-names-gop-rival-as-running-mate/ |title=Sarnecki names GOP rival as running mate}}</ref>
+*[[Vicki Schmidt]], [[Kansas Insurance Commissioner|Kansas insurance commissioner]] (2019–present)<ref>{{cite news |last1=Brunner |first1=Melissa |title=Schmidt jumps into Kansas Governor's race |url=https://www.wibw.com/2025/07/09/schmidt-jumps-into-kansas-governors-race/ |access-date=July 9, 2025 |publisher=[[WIBW-TV]] |location=Topeka |date=July 9, 2025 |language=en}}</ref>
+** Running mate: [[Joe Newland]], president of the Kansas Farm Bureau (2022–present)<ref>{{cite news |last=Carpenter|first=Tim|title=GOP governor candidate Vicki Schmidt's running mate will be Kansas Farm Bureau president |url=https://kansasreflector.com/2026/05/18/gop-governor-candidate-vicki-schmidts-running-mate-will-be-kansas-farm-bureau-president/|access-date=May 21, 2026 |work=Kansas Reflector|date=May 18, 2026}}</ref>
+*[[Scott Schwab]], [[Kansas Secretary of State|Kansas secretary of state]] (2019–present)<ref>{{cite news |last1=Robinson|first1=Colter|title=Scott Schwab announces run for Kansas Governor |url=https://www.ksnt.com/news/local-news/scott-schwab-announces-run-for-kansas-governor/ |access-date=January 8, 2025 |publisher=[[KSNT]] |location=Topeka |date=January 8, 2025}}</ref>
+** Running mate: [[Ken Rahjes]], [[Kansas House of Representatives|state representative]] from the 110th district (2016–present) ''([[2026 Kansas Secretary of State election|previously ran for secretary of state]])''<ref>{{cite news|last=Anderson|first=Phil|title=Republican Scott Schwab names Ken Rahjes as running mate |url=https://www.wibw.com/2026/05/29/republican-scott-schwab-names-ken-rahjes-running-mate/ |access-date=May 29, 2026 |publisher=[[WIBW-TV|WIBW]] |location=Topeka |date=May 29, 2026}}</ref>
+
+====Withdrawn====
+*[[Jeff Colyer]], former governor (2018–2019) ''(endorsed Masterson)''<ref>{{cite news |author=Cooper, Brad |date=June 1, 2026 |work=Sunflower State Journal |access-date=June 1, 2026 |url=https://sunflowerstatejournal.com/colyer-doesnt-file-for-governor// |title=Colyer doesn't file for governor}}</ref>
+*Joy Eakins, former [[Wichita USD 259|Wichita Schools]] board member (2013–2018) ''(unsuccessfully ran for [[Lieutenant Governor of Kansas|lieutenant governor]] with Sarnecki)''<ref>{{cite news |author=Cooper, Brad |date=June 1, 2026 |work=Sunflower State Journal |access-date=June 1, 2026 |url=https://sunflowerstatejournal.com/sarnecki-names-gop-rival-as-running-mate/ |title=Sarnecki names GOP rival as running mate}}</ref>
+
+====Declined====
+*[[Ron Estes]], [[U.S. representatives]] from [[KS-04]] (2017–present)<ref>{{cite news |last1=Cooper|first1=Brad|title=UPDATED: Schwab first candidate to join 2026 governor's race|url=https://sunflowerstatejournal.com/breaking-schwab-running-for-governor/ |access-date=January 8, 2025 |work=Sunflower State Journal|date=January 8, 2025|url-access=subscription}}</ref>
+*[[Jake LaTurner]], [[U.S. representatives]] from [[KS-02]] (2021–2025)<ref>{{Cite web |last=Hanna |first=John |date=April 18, 2024 |title=Kansas GOP congressman Jake LaTurner is not running again, citing family reasons |url=https://apnews.com/article/congress-kansas-republican-laturner-retiring-4b080bfe5bd79168c44f6690dc892762 |access-date=September 29, 2024 |publisher=[[Associated Press]] |quote=[LaTurner said] also that he wouldn't seek any office in 2026. Democratic Gov. Laura Kelly is term-limited and Republicans had mentioned LaTurner as a possible candidate for the job that year. |language=en}}</ref>
+*[[Dayton Moore]], former [[Kansas City Royals]] executive (2006–2022)<ref>{{cite web |last1=Nir |first1=David |last2=Singer |first2=Jeff |title=Morning Digest: A surprise Trump endorsement triggers a surprise Senate bid |url=https://www.the-downballot.com/i/185249432/ks-gov |publisher=The Downballot |access-date=January 21, 2026 |date=January 21, 2026}}</ref>
+*[[Ken Rahjes]], [[Kansas House of Representatives|state representative]] from the 110th district (2016–present)<ref>{{cite news |last1=Cooper|first1=Brad|title=Rahjes planning to mount campaign for secretary of state|url=https://sunflowerstatejournal.com/rahjes-planning-to-mount-campaign-for-secretary-of-state/|access-date=April 30, 2025 |work=Sunflower State Journal|date=April 30, 2025|url-access=subscription}}</ref>
+*Jon Rolph, member of the [[Kansas Board of Regents]] (2019–present)<ref name="Others"/>
+
+===Endorsements===
+{{Endorsements box
+|title=Ty Masterson
+|list=
+;Executive branch officials
+*[[Donald Trump]], [[president of the United States]] (2017–2021, 2025–present)<ref name="MarshallTrump">{{cite web |last1=Carter |first1=Aja |title=President Trump, Sen. Marshall endorse Ty Masterson for Kansas Governor |url=https://www.wibw.com/2026/05/24/president-trump-endorses-ty-masterson-kansas-governor/ |website=WIBW |access-date=May 25, 2026 |language=en |date=May 24, 2026}}</ref>
+
+;U.S. senators
+*[[Roger Marshall]], [[Kansas]] (2021–present)<ref name="MarshallTrump"/>
+
+;Statewide officials
+*[[Jeff Colyer]], 47th [[governor of Kansas]] (2018–2019) and former candidate for this seat<ref name="ColyerMasterson">{{cite web |last1=Goldstein |first1=Adam |title=Former Gov. Colyer endorses Masterson for governor in August primary |url=https://pro.stateaffairs.com/ks/elections/colyer-endorses-masterson-kansas-governor |website=Hawver's Capitol Report |access-date=4 August 2026 |date=July 29, 2026}}</ref>
+
+;Labor unions
+*[[International Association of Fire Fighters|Kansas State Council of Fire Fighters]]<ref name="KSCFF">{{cite web |last1=Carpenter |first1=Tim |title=Kansas gubernatorial race descends into phase dominated by attacks and counterpunches |url=https://kansasreflector.com/2026/07/07/kansas-gubernatorial-race-descends-into-phase-dominated-by-attacks-and-counterpunches/ |website=Kansas Reflector |access-date=4 August 2026 |date=July 7, 2026}}</ref>
+
+;Organizations
+*[[Americans for Prosperity]]<ref name="AFP">{{cite web |last1=Cooper |first1=Brad |title=UPDATED: Masterson lands AFP endorsement in governor’s race |url=https://sunflowerstatejournal.com/masterson-lands-afp-endorsement-in-governors-race/?rcp_w=39f109b8baa2717abeaf3ba91a119f72&mc_cid=a8f77350c6&mc_eid=92a3bc1218 |website=Sunflower State Journal |access-date=4 August 2026 |date=June 17, 2026}}</ref>
+*[[NRA Political Victory Fund]]<ref name="NRA">{{cite web |last1=Johnson |first1=Olivia |title=President Donald Trump to join Ty Masterson for Kansas tele-rally Wednesday |url=https://fox4kc.com/politics/your-local-election-headquarters/president-donald-trump-to-join-ty-masterson-for-kansas-tele-rally-wednesday/ |website=FOX4 |access-date=4 August 2026 |date=July 28, 2026}}</ref>
+}}
+{{Endorsements box
+|title=Philip Sarnecki
+|list=
+;State legislators
+*[[Mark Steffen]], former [[Kansas's 34th Senate district|SD-34]] (2021–2025) ''(previously endorsed Colyer)''<ref name="Allegiance">{{cite web |title=Former senator switches allegiances in governor's race |url=https://sunflowerstatejournal.com/former-senator-switches-allegiances-in-governors-race/ |website=Sunflower State Journal |access-date=March 24, 2026 |date=March 23, 2026}}</ref>
+}}
+{{Endorsements box
+|title=Vicki Schmidt
+|list=
+;Organizations
+*[[Maggie's List]]<ref>{{cite web |last1=Biddison |first1=Jennifer |title=Maggie's List Closes 2025 With Four More Endorsements |url=https://maggieslist.org/maggies-list-closes-2025-with-four-more-endorsements/ |publisher=Maggie's List |access-date=January 3, 2026 |date=December 29, 2025}}</ref>
+
+;Newspapers
+*''[[The Kansas City Star]]'' ''(Republican primary only)''<ref name="KCS" />
+}}
+{{Endorsements box
+|title=Doug Billings ''(withdrawn)''
+|list=
+;Executive branch officials
+*[[Michael Flynn]], former [[National Security Advisor (United States)|national security advisor]] (2017)<ref name="BallotEndorsements"/>
+;Individuals
+*[[Ryan Fournier]], cofounder of [[Students for Trump]]<ref name="BallotEndorsements">{{cite web |title=Gubernatorial election endorsements |url=https://ballotpedia.org/Gubernatorial_election_endorsements |website=Ballotpedia |access-date=October 22, 2025 |language=en}}</ref>
+*[[Chad Prather]], political commentator<ref name="BallotEndorsements"/>
+}}
+{{Endorsements box
+|title=Jeff Colyer ''(withdrawn)''
+|list=
+;Executive branch officials
+*[[Ben Carson]], former [[secretary of housing and urban development]] (2017–2021)<ref>{{cite web |url=https://kansasreflector.com/2025/06/02/kansas-governor-candidate-scott-schwab-certain-voting-secure-eager-to-cut-property-taxes/ |title=Kansas governor candidate Scott Schwab certain voting secure, eager to cut property taxes |author=Carpenter, Tim |date=June 2, 2025 |website=Kansas Reflector |access-date=April 19, 2026}}</ref>
+
+;State legislators
+* [[Susan Estes (politician)|Susan Estes]], HD-87 (2021–present)<ref>{{Cite web|url=https://www.kmuw.org/news/2025-05-15/former-kansas-governor-jeff-colyer-jumps-into-2026-race|title=Former Kansas governor Jeff Colyer jumps into 2026 race|first=Mia|last=Hennen|date=May 15, 2025|website=KMUW}}</ref>
+}}
+
+===Results===
+[[File:2026 Kansas Republican gubernatorial primary election results map by county.svg|thumb|250px|Primary results by county:
+{{collapsible list
+| title = {{legend|#E27F7F|Masterson}}
+|{{legend|#FFE0EA|20–30%}}
+|{{legend|#FFC8CD|30–40%}}
+|{{legend|#FFB2B2|40–50%}}
+|{{legend|#E27F7F|50–60%}}
+|{{legend|#D75D5D|60–70%}}
+}}
+{{collapsible list
+| title = {{legend|#FF9A50|Sarnecki}}
+|{{legend|#FFCCA9|30–40%}}
+|{{legend|#FFB580|40–50%}}
+|{{legend|#FF9A50|50–60%}}
+}}
+{{collapsible list
+| title = {{legend|#5FD35F|Schwab}}
+|{{legend|#87DE87|40–50%}}
+}}
+{{collapsible list
+| title = {{legend|#AE8BB1|Tie}}
+|{{legend|#DECDE6|30–40%}}
+}}
+]]
+{{Election box begin no change|title=Republican primary results}}
+{{Election box winning candidate with party link no change|candidate=[[Ty Masterson]]<br>[[Jeff Klemp]]|party=Republican Party (United States)|votes=147,213|percentage=43.2}}
+{{Election box candidate with party link no change|candidate=Philip Sarnecki<br>Joy Eakins|party=Republican Party (United States)|votes=76,292|percentage=22.4}}
+{{Election box candidate with party link no change|candidate=[[Vicki Schmidt]]<br>[[Joe Newland]]|party=Republican Party (United States)|votes=46,693|percentage=13.7}}
+{{Election box candidate with party link no change|candidate=[[Scott Schwab]]<br>[[Ken Rahjes]]|party=Republican Party (United States)|votes=37,318|percentage=10.9}}
+{{Election box candidate with party link no change|candidate=[[Charlotte O'Hara]]<br>Michelle Dombrosky|party=Republican Party (United States)|votes=14,493|percentage=4.3}}
+{{Election box candidate with party link no change|candidate=Stacy Rogers<br>Michael Smith|party=Republican Party (United States)|votes=11,789|percentage=3.5}}
+{{Election box candidate with party link no change|candidate=Nick Reinecker<br>Katy Reinecker|party=Republican Party (United States)|votes=7,122|percentage=2.1}}
+{{Election box total no change|votes=340,920|percentage=100.0}}
+{{Election box end}}
+
+== General election ==
+===Post-primary endorsements===
+{{Endorsements box
+| title = Cindy Holscher (D)
+| list =
+;Statewide officials
+*[[Laura Kelly]], [[governor of Kansas]] (2019–present)<ref>{{Cite web |last=Kelly |first=Matthew |date=August 6, 2026 |title=‘We’re in a new battle’: KS Gov. Laura Kelly endorses Cindy Holscher as successor |url=https://www.kansascity.com/news/politics-government/article316781040.html |access-date=August 13, 2026 |website=Kansas City Star}}</ref>
+*[[Kathleen Sebelius]], former [[governor of Kansas]] (2003–2009) and former [[HHS Secretary]] (2009–2014)<ref>{{Cite web |last=Kelly |first=Matthew |date=September 16, 2026 |title=‘The year to break curses’: Sebelius backs Holscher for Kansas governor |url=https://www.kansascity.com/news/politics-government/article317266471.html |access-date=September 16, 2026 |website=Kansas City Star}}</ref>
+
+;Labor unions
+*Kansas [[AFL-CIO]]<ref name="AFLCIO">{{cite web |last1=Cooper |first1=Brad |title=Holscher wins endorsement from AFL-CIO |url=https://sunflowerstatejournal.com/holscher-wins-endorsement-from-afl-cio/ |website=Sunflower State Journal |access-date=18 September 2026 |date=September 4, 2026}}</ref>
+
+;Organizations
+*[[EMILYs List]]<ref>{{cite web |url=https://emilyslist.org/news/emilys-list-announces-four-new-gubernatorial-endorsements-expanding-its-slate-of-democratic-women-governors/ |title=EMILYs List Announces Four New Gubernatorial Endorsements, Expanding Its Slate of Democratic Women Governors |website=emilyslist.org |date=October 1, 2026 |access-date=October 1, 2026}}</ref>
+}}
+
+{{Endorsements box
+| title = Ty Masterson (R)
+| list =
+;Labor unions
+*[[International Brotherhood of Electrical Workers]] Local 124<ref name="IBEW">{{cite web |last1=Cooper |first1=Brad |title=Masterson snags third labor union endorsement in governor’s race |url=https://sunflowerstatejournal.com/masterson-snags-third-labor-union-endorsement-in-governors-race/ |website=Sunflower State Journal |access-date=18 September 2026 |date=August 25, 2026}}</ref>
+*[[International Association of Sheet Metal, Air, Rail and Transportation Workers|SMART-TD]]<ref>{{cite web |title=SMART-TD Kansas Makes Historic Break with Political Tradition, Endorses Ty Masterson for Governor |url=https://www.smart-union.org/smart-td-kansas-makes-historic-break-with-political-tradition-endorses-ty-masterson-for-governor/ |website=SMART Union |date=August 16, 2026}}</ref>
+
+}}
+
+===Predictions===
+{| class="wikitable" style=text-align:center
+!Source
+!Ranking
+!As of
+|-
+|align=left|''[[The Cook Political Report]]''<ref>{{cite web|title=2026 CPR Governor Race ratings|url=https://www.cookpolitical.com/ratings/governor-race-ratings|website=[[The Cook Political Report]]|access-date=January 23, 2025}}</ref>
+|{{USRaceRating|Lean|R|flip}}
+|October 1, 2026
+|-
+|align=left|[[Decision Desk HQ]]<ref name="DDHQ">{{cite web |title=2026 Governor Forecast |url=https://votes.decisiondeskhq.com/forecast/2026/governor |website=Decision Desk HQ |access-date=22 September 2026}}</ref>
+|{{USRaceRating|Lean|R|Flip}}
+|September 23, 2026
+|-
+|align=left|[[Fox News]]<ref>{{cite web|last=Numa|first=Rémy|date=July 23, 2026|title=Fox News Power Rankings: The top races to watch as 36 states choose their next governor|url=https://www.foxnews.com/politics/fox-news-power-rankings-top-races-watch-36-states-choose-next-governor|website=[[Fox News]]|access-date=July 24, 2026}}</ref>
+|{{USRaceRating|Lean|R|(flip)}}
+|July 23, 2026
+|-
+|align=left|''[[Inside Elections]]''<ref>{{Cite web|title=Gubernatorial Ratings|url=https://insideelections.com/ratings/governor|access-date=February 7, 2025|website=[[Inside Elections]]}}</ref>
+|{{USRaceRating|Tilt|R|Flip}}
+|October 1, 2026
+|-
+|align="left"|[[RealClearPolitics]]<ref>{{Cite web|title=2026 Governor Races {{!}} RealClearPolitics|url=https://www.realclearpolling.com/maps/governor/2026/toss-up|access-date=June 5, 2026|website=[[RealClearPolitics]]|archive-url=https://web.archive.org/web/20260601183127/https://www.realclearpolling.com/maps/governor/2026/toss-up|archive-date=June 1, 2026|url-status=dead}}</ref>
+|{{USRaceRating|Tossup}}
+|September 9, 2026
+|-
+|align=left|''[[Sabato's Crystal Ball]]''<ref>{{cite web|title=2026 Governor|url=https://centerforpolitics.org/crystalball/2026-governor/|website=[[Sabato's Crystal Ball]]|access-date=May 1, 2025}}</ref>
+|{{USRaceRating|Lean|R|flip}}
+|September 29, 2026
+|-
+| style="text-align: left;" |[[Silver Bulletin]]<ref name=":Silver">{{Cite web |last=Silver |first=Nate |date=2026-08-20 |title=FLIPR 2026 midterm election forecast |url=https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model |url-access=subscription |access-date=2026-08-20 |website=www.natesilver.net |language=en}}</ref>
+| {{US political race rating|Lean|R|flip}}
+|September 23, 2026
+|}
+
+=== Polling ===
+;Aggregate polls
+{| class="wikitable sortable" style="text-align:center;font-size:90%;line-height:17px"
+!Source of poll<br>aggregation
+! Dates<br />administered
+! Dates<br />updated
+! style="width:100px;" | Cindy<br />Holscher (D)
+! style="width:100px;" | Ty<br />Masterson (R)
+! style="width:100px;" |Other/<br />Undecided{{Efn|name=calculated|Calculated by taking the difference of 100% and all other candidates combined.}}
+! Margin
+|-
+|[[270toWin]]<ref>{{cite web |title=2026 Polls: Kansas Governor |url=https://www.270towin.com/2026-governor-polls/kansas |access-date=September 18, 2026 |website=[[270toWin]]}}</ref>
+|September 11 – October 4, 2026
+|October 4, 2026
+|44.8%
+|{{party shading/Republican}} |'''50.8%'''
+|4.4%
+|{{party shading/Republican}} |'''Masterson +6.0%'''
+|-
+|[[RealClearPolitics]]<ref>{{cite web |title=2026 Kansas Governor - Masterson vs. Holscher |url=https://www.realclearpolling.com/polls/governor/general/2026/kansas/masterson-vs-holscher |access-date=October 2, 2026 |website=[[RealClearPolitics]]}}</ref>
+|September 8 – October 4, 2026
+|October 6, 2026
+|43.8%
+|{{party shading/Republican}} |'''49.5%'''
+|6.7%
+|{{party shading/Republican}} |'''Masterson +5.7%'''
+|-
+|''[[Silver Bulletin]]''<ref name="Silver">{{cite web |last1=Silver |first1=Nate |title=FLIPR 2026 midterm election forecast |url=https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model |website=Silver Bulletin |access-date=18 September 2026}}</ref>
+|through October 4, 2026
+|October 6, 2026
+|44.9%
+|{{party shading/Republican}} |'''49.1%'''
+|6.0%
+|{{party shading/Republican}} |'''Masterson +4.2%'''
+|-
+|colspan="3" |'''Average'''
+|44.5%
+|{{party shading/Republican}} |'''49.8%'''
+|5.7%
+|{{party shading/Republican}} |'''Masterson +5.3%'''
+|}
+
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name=Key}}
+! Margin<br />of error
+! style="width:100px;" |Cindy<br/>Holscher (D)
+! style="width:100px;" |Ty<br/>Masterson (R)
+! Undecided
+|-
+| style="text-align: left;" |[[YouGov]]<ref>{{Cite web |title=Kansas General Election 2026 – Likely Voters |url=https://d3nkl3psvxxpe9.cloudfront.net/documents/ttw_ks_20260921_lv.pdf |access-date=October 6, 2026 |website=YouGov}}</ref>
+|September 24 – October 4, 2026
+|2,255 (LV)
+|±{{nbsp}}3.2%
+|44%
+|{{Party shading/Republican}} | '''47%'''
+|7%
+|-
+|style="text-align:left"|[[New York Times]]/[[Siena University (New York)|Siena University]]<ref>{{cite web |title=Toplines: September 2026 Times/Siena Poll of the Likely Electorate in Kansas |url=https://www.nytimes.com/interactive/2026/10/03/polls/times-siena-kansas-poll-toplines.html |website=The New York Times |date=October 3, 2026 |access-date=October 3, 2026}}</ref>
+|September 22–30, 2026
+|605 (LV)
+|±&nbsp;2.1%
+|44%
+|{{party shading/Republican}}|'''49%'''
+|7%
+|-
+| style="text-align: left;" |Wedgewood Polls<ref>{{cite web |url=https://drive.google.com/file/d/1MxCohCdxLl3Gy2iIUBnctm4oPipKwjSg/view |title=2026 Kansas General Election – Senate & Governor: Toplines & Crosstabs |work=Wedgewood Polls |access-date=September 24, 2026}}</ref>
+|September 22–24, 2026
+|500 (LV)
+|±&nbsp;4.4%
+|48%
+|{{party shading/Republican}}|'''52%'''
+|{{sdash}}
+|-
+| style="text-align: left;" |[[Emerson College]]<ref>{{Cite web |title=Kansas 2026: Hamilton and Marshall in Tight Senate Race; Masterson Leads for Governor |url=https://emersoncollegepolling.com/kansas-2026/ |access-date=September 18, 2026 |website=Emerson College}}</ref>{{efn-ua|name=ICP|Poll sponsored by [[Nexstar Media Group]]}}
+|September 15–16, 2026
+|750 (LV)
+|±&nbsp;3.6%
+|44%
+|{{party shading/Republican}}|'''51%'''
+|6%
+|-
+|style="text-align: left;"|[[Global Strategy Group]] (D)<ref>{{cite web |url=https://static.politico.com/0f/52/d84e43ae45cf803b787113de4d91/daga-ks-interested-parties-memo-10-01-26.pdf |title=New Poll Results: Kansas Attorney General Race is Highly Competitive |work=[[Global Strategy Group]] |via=[[Politico]] |date=October 2, 2026 |access-date=October 2, 2026}}</ref>{{efn-ua|Poll sponsored by the [[Democratic Attorneys General Association]]}}
+|September 13–16, 2026
+|800 (LV)
+|±&nbsp;3.5%
+|{{Party shading/Democratic}} | '''49%'''
+|46%
+|5%
+|-
+|style="text-align:left;"|co/efficient (R)<ref>{{cite web |title=Kansas U.S. Senate {{!}} Senate Battlegrounds 2026 |url=https://battlegrounds.coefficient.org/ks/ |publisher=co/efficient |access-date=September 11, 2026}}</ref>
+|September 8–10, 2026
+|915 (LV)
+|±&nbsp;3.2%
+|43%
+|{{party shading/Republican}}|'''51%'''
+|6%
+|-
+|style="text-align:left;"|[[Global Strategy Group]] (D)<ref>{{cite web |title=NEW POLL RESULTS: Democrat Holscher leads Republican Masterson in Kansas race for Governor |url=https://www.politico.com/f/?id=000001a0-45c2-dd5a-a9f6-7df322f70000 |publisher=[[Global Strategy Group]] |access-date=August 28, 2026}}</ref>{{efn-ua|name=Holscher}}
+|August 13–16, 2026
+|600 (LV)
+|±&nbsp;4.0%
+|{{party shading/Democratic}}|'''47%'''
+|46%
+|7%
+|}
+
+===Results===
+{{Election box begin
+ | title=2026 Kansas gubernatorial election}}
+{{Election box candidate with party link
+ | party=Democratic Party (United States)
+ | candidate={{ubl|[[Cindy Holscher]]|[[KC Ohaebosim]]}}
+ | votes= 
+ | percentage=
+ |change     =
+}}
+{{Election box candidate with party link 
+ | party=Republican Party (United States)
+ | candidate={{ubl|[[Ty Masterson]]|[[Jeff Klemp]]}}
+ | votes=
+ | percentage=
+ | change    =
+}}
+{{Election box total no change
+ | votes= 
+ | percentage= 100.0
+ | change = 
+}}
+{{Election box end}}
+
+==See also==
+*[[Elections in Kansas]]
+*[[Political party strength in Kansas]]
+*[[Kansas Democratic Party]]
+*[[Kansas Republican Party]]
+*[[Government of Kansas]]
+*[[2026 United States Senate election in Kansas]]
+<!-- *[[2026 United States House of Representatives elections in Kansas]] -->
+<!-- *[[2026 Kansas House of Representatives election]] -->
+<!-- *[[2026 Kansas elections]] -->
+*[[2026 United States gubernatorial elections]]
+*[[2026 United States elections]]
+
+==Notes==
+{{notelist}}
+;Partisan clients
+{{notelist-ua}}
+
+==References==
+<references />
+
+==External links==
+;Official campaign websites
+*[https://www.cindyforkansas.com/ Cindy Holscher (D)]
+*[https://www.mastersonforgovernor.com/ Ty Masterson (R)]
+
+{{2026 United States elections}}
+
+[[Category:Kansas gubernatorial elections|2022]]
+[[Category:2026 United States gubernatorial elections|Kansas]]
+[[Category:2026 Kansas elections|Governor]]

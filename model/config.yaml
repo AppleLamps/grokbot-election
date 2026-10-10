@@ -169,6 +169,24 @@ house:
     unrated_as_safe: true
     env_shift: 0.0            # de-bias shift added to rating-implied margins (0 = take October ratings at face value)
 
+# ---- Governors (added 2026-10-10) ----------------------------
+# 36 governor races (data/governor_races.csv, built by scripts/build_governor_data.py).
+# Governor races are much less nationalized than federal races (Phil Scott R in a D+17 state,
+# Shapiro D+23 in an R+1 state), so a PVI + generic-ballot prior is a poor fit. The PRIOR here is
+# the average of 7 forecaster ratings (Cook, DDHQ, Fox, Inside Elections, RCP, Sabato, Silver
+# Bulletin; Oct 1-8 2026) converted to a margin with the same table the House uses. It is then
+# blended with the polling average using the Senate poll weights / race sds / poll cleanup.
+# No herding or candidate-quality terms. Errors share the SAME national, state, regional and
+# Hispanic draws as the Senate/House (so a polling miss hits every race together), scaled by
+# national_error_scale. Governor draws are taken AFTER the Senate/House draws, so adding
+# governors does not change any Senate/House number. (All coefficients are assumptions.)
+governor:
+  enabled: true
+  rating_score_to_margin: {0: 0.0, 0.5: 2.0, 1: 4.5, 2: 9.0, 3: 16.0}
+  national_error_scale: 1.0   # share of the national polling miss applied to governor races
+  extra_race_sd: 1.0          # governor races are less predictable than Senate ones: add (in quadrature) to the Senate race sd
+  rcv: {AK: 2.0}              # Alaska governor general uses RCV (Maine's governor general does NOT)
+
 # ---- Early vote ----------------------------------------------
 # Early-vote volume does NOT reveal vote choice, so these default to 0.
 early_vote_adjustment: {VA: 0.0, FL: 0.0, OH: 0.0, MI: 0.0, TX: 0.0}

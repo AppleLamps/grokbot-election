@@ -36,7 +36,30 @@ def summarize(name, label, r):
         house_D_mean=float(hd.mean()), house_D_median=int(np.median(hd)), house_D_p10=int(np.percentile(hd, 10)), house_D_p90=int(np.percentile(hd, 90)),
         senate_tipping=[(row.state, round(row.tipping_freq, 3)) for row in tip_s.itertuples()],
         house_tipping=[(row.district, round(row.tipping_freq, 3)) for row in tip_h.itertuples()],
+        **governor_summary(r),
     )
+
+
+GOV_NOT_UP = {"D": 6, "R": 8}   # 24 D / 26 R governors now; 18 D + 18 R seats are up in 2026
+
+
+def governor_summary(r):
+    gd = r.get("governor_d")
+    if gd is None:
+        return {}
+    tot = GOV_NOT_UP["D"] + gd
+    return dict(gov_races=int(len(r["governor"])), gov_D_wins_mean=float(gd.mean()),
+                gov_D_total_mean=float(tot.mean()), gov_D_total_median=int(np.median(tot)),
+                gov_D_total_p10=int(np.percentile(tot, 10)), gov_D_total_p90=int(np.percentile(tot, 90)),
+                gov_p_D_majority=float((tot >= 26).mean()))
+
+
+def governor_table(gov):
+    t = gov[["state", "state_name", "holder", "incumbent", "inc_status", "dem_candidate", "rep_candidate", "challenger_party", "pvi_d", "rating_score",
+             "prior_margin", "poll_margin_d", "poll_sources", "poll_end_date", "poll_weight", "est_margin", "race_sd",
+             "sim_p10", "sim_p90", "p_dem", "market_p_dem_polymarket", "poll_note"]].copy()
+    t["p_rep"] = 1 - t["p_dem"]
+    return t.sort_values("p_dem", ascending=False)
 
 
 def seat_distributions(r, cfg):
@@ -180,6 +203,26 @@ def write_report(results, cfg, outdir, chart_paths):
         L.append("")
     L += ["Columns: pvi_d = Cook PVI (two-party share points); poll_margin_d = polling average margin; fundamentals_margin = 2×PVI + generic ballot + incumbency + candidate adj.; "
           "est_margin = blended pre-error estimate; p_dem_side = P(D or Dem-side independent wins) after polling-error simulation.", ""]
+    if results[names[0]]["raw"].get("governor") is not None:
+        L += ["## Governors", "",
+              "Prior = average of 7 forecaster ratings (Cook, DDHQ, Fox, Inside Elections, RCP, Sabato, Silver Bulletin; Oct 1-8 2026) converted to a margin; "
+              "blended with the polling average (mean of Wikipedia-listed aggregators, or recent nonpartisan polls where no aggregate exists). "
+              "Shares the national/state/regional polling-error draws with the Senate and House. Polymarket odds are shown for comparison only.", "",
+              "| Scenario | D governors after election (median, 80% range, of 50) | D wins of 36 races (mean) | P(D hold 26+ governorships) |", "|---|---|---|---|"]
+        for nm in names:
+            s_ = results[nm]["summary"]
+            L.append(f"| {s_['label']} | {s_['gov_D_total_median']} ({s_['gov_D_total_p10']}–{s_['gov_D_total_p90']}) | {s_['gov_D_wins_mean']:.1f} | {pct(s_['gov_p_D_majority'])} |")
+        L.append("")
+        g0 = governor_table(results[names[0]]["raw"]["governor"])
+        for nm in names[1:]:
+            g0[f"p_dem_{nm}"] = results[nm]["raw"]["governor"].set_index("state").loc[g0["state"], "p_dem"].values
+        g0["candidates"] = g0["dem_candidate"] + " (D) vs " + g0["rep_candidate"] + " (" + g0["challenger_party"] + ")"
+        L.append(md_table(g0, ["state", "candidates", "holder", "rating_score", "prior_margin", "poll_margin_d", "poll_sources", "est_margin", "p_dem"]
+                          + [f"p_dem_{nm}" for nm in names[1:]] + ["market_p_dem_polymarket"],
+                          {"rating_score": lambda v: f"{v:+.2f}", "prior_margin": fm, "poll_margin_d": fm, "poll_sources": lambda v: str(int(v)),
+                           "est_margin": fm, "p_dem": pct, **{f"p_dem_{nm}": pct for nm in names[1:]},
+                           "market_p_dem_polymarket": lambda v: "–" if pd.isna(v) else pct(v)}))
+        L.append("")
     L += ["## Most competitive House seats (unbiased scenario)", ""]
     h = results[names[0]]["raw"]["house"]
     hc = h[(h.p_dem > 0.1) & (h.p_dem < 0.9)].copy()
@@ -229,10 +272,15 @@ def main():
         r["house"][["district", "member", "inc_party", "inc_running", "pvi_d", "consensus_rating_score", "rating_margin", "rating_weight",
                     "census_region", "hispanic_share", "fundamentals_margin", "est_margin",
                     "sim_mean_margin", "p_dem", "tipping_freq"]].assign(scenario=k).to_csv(os.path.join(a.out, f"house_districts_{k}.csv"), index=False)
+        if r.get("governor") is not None:
+            governor_table(r["governor"]).assign(scenario=k).to_csv(os.path.join(a.out, f"governor_races_{k}.csv"), index=False)
         print(f"\n=== {v['label']}  (bias {v['poll_bias_mean']:+.1f} ± {v['poll_bias_sd']}) ===")
         print(f"Senate: P(D)={pct(s['senate_p_D'])}  P(R)={pct(s['senate_p_R'])}  P(none)={pct(s['senate_p_none'])}  "
               f"D+I seats mean {s['senate_D_mean']:.1f} [{s['senate_D_p10']}-{s['senate_D_p90']}]  tipping {s['senate_tipping'][:3]}")
         print(f"House : P(D)={pct(s['house_p_D'])}  D seats median {s['house_D_median']} [{s['house_D_p10']}-{s['house_D_p90']}]  tipping {s['house_tipping'][:3]}")
+        if "gov_races" in s:
+            print(f"Gov   : D governors after election median {s['gov_D_total_median']} [{s['gov_D_total_p10']}-{s['gov_D_total_p90']}] of 50; "
+                  f"D wins {s['gov_D_wins_mean']:.1f} of {s['gov_races']} races; P(D majority of governorships)={pct(s['gov_p_D_majority'])}")
     if a.scenario == "all":
         sens = {}
         for key, lab, bm in [("pres_style_3p8", "Presidential-year average miss: polls overstate D by 3.8 (sd 3)", 3.8),
@@ -243,6 +291,9 @@ def main():
         json.dump(sens, open(os.path.join(a.out, "sensitivity.json"), "w"), indent=2, default=float)
     # combined per-race CSV
     pd.concat([senate_table(results[k]["raw"]["senate"]).assign(scenario=k) for k in results]).to_csv(os.path.join(a.out, "senate_race_probabilities_all_scenarios.csv"), index=False)
+    if all(results[k]["raw"].get("governor") is not None for k in results):
+        pd.concat([governor_table(results[k]["raw"]["governor"]).assign(scenario=k) for k in results]).to_csv(
+            os.path.join(a.out, "governor_race_probabilities_all_scenarios.csv"), index=False)
     json.dump({k: results[k]["summary"] for k in results}, open(os.path.join(a.out, "summary.json"), "w"), indent=2, default=float)
     compact_json({k: dict(scenario=k, label=results[k]["label"], **results[k]["dist"]) for k in results},
                  os.path.join(a.out, "seat_distributions.json"))

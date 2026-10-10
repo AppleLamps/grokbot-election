@@ -1,0 +1,1433 @@
+{{short description|none}}
+{{for|related races|2026 United States gubernatorial elections}}
+{{Use American English|date=January 2025}}
+<!-- "none" is preferred when the title alone is adequate; see WP:SDNONE -->
+{{Use mdy dates|date=September 2026}}
+{{Infobox election
+| election_name      = 2026 South Carolina gubernatorial election
+| country            = South Carolina
+| type               = presidential
+| ongoing            = yes
+| previous_election  = 2022 South Carolina gubernatorial election
+| previous_year      = 2022
+| next_election      = 2030 South Carolina gubernatorial election
+| next_year          = 2030
+| election_date      = November 3, 2026
+| image1             = Alan Wilson in August 2025.jpg
+| nominee1           = [[Alan Wilson (politician)|Alan Wilson]]
+| party1             = Republican Party (United States)
+| running_mate1      = [[Mike Reichenbach (politician)|Mike Reichenbach]]
+| popular_vote1      = 
+| percentage1        = 
+| image2             = 3x4.svg
+| nominee2           = [[Jermaine Johnson (politician)|Jermaine Johnson]]
+| party2             = Democratic Party (United States)
+| running_mate2      = Sam Skardon
+| popular_vote2      = 
+| percentage2        = 
+| map_image          = 
+| map_size           = 
+| map_caption        = 
+| title              = [[Governor of South Carolina|Governor]]
+| before_election    = [[Henry McMaster]]
+| before_party       = Republican Party (United States)
+| after_election     =
+| after_party        =
+}}
+{{ElectionsSC}}
+
+The '''2026 South Carolina gubernatorial election''' will be held on November 3, 2026, to elect the next [[governor of South Carolina]]. [[Republican Party (United States)|Republican]] state attorney general [[Alan Wilson (politician)|Alan Wilson]] and [[Democratic Party (United States)|Democratic]] state representative [[Jermaine Johnson (politician)|Jermaine Johnson]] are the nominees for their respective parties. Republican incumbent [[Henry McMaster]] is ineligible to seek a third consecutive term. 
+
+In the Republican primary on June 9, Lieutenant Governor [[Pamela Evette]] emerged as the top vote-getter with the help of an endorsement from President [[Donald Trump]], but did not secure a majority needed to win the nomination, triggering a June 23 runoff between her and Wilson. After Trump announced his support for both Wilson and Evette, Wilson was nominated in the runoff with 68.6% of the vote. Johnson won the Democratic nomination in the June 9 primary with 59.7% of the vote against Billy Webster, the chief of staff for former governor [[Richard Riley]].
+
+Democrats have not won a gubernatorial election in South Carolina since [[1998 South Carolina gubernatorial election|1998]].<ref>{{Cite web |last=Holdman |first=Jessica |date=October 28, 2025 |title=SC Democratic Rep. Jermaine Johnson announces campaign for governor |url=https://scdailygazette.com/2025/10/28/sc-democratic-rep-jermaine-johnson-announces-campaign-for-governor/ |access-date=June 16, 2026 |website=SC Daily Gazette |language=en-US}}</ref> 
+{{toclimit|4}}
+
+==Republican primary==
+[[File:Pamela Evette 2019.jpg|thumb|x170px|[[Lieutenant Governor of South Carolina]] [[Pamela Evette]], who was defeated in the Republican primary runoff.]]
+[[File:Ralph Norman official photo (cropped 3).jpg|thumb|x170px|[[U.S. Representative]] [[Ralph Norman]], who finished third in the Republican primary.]]
+[[File:Nancy Mace.jpg|thumb|x170px|[[U.S. Representative]] [[Nancy Mace]], who finished fifth in the Republican primary.]]
+===Candidates===
+====Nominee====
+*[[Alan Wilson (politician)|Alan Wilson]], [[attorney general of South Carolina]] (2011–present)<ref>{{cite news |last1=Kinnard |first1=Meg |title=Alan Wilson, South Carolina's four-term Republican attorney general, enters 2026 governor's race |url=https://www.wyff4.com/article/alan-wilson-south-carolina-attorney-general-enters-2026-governors-race/65162744 |access-date=June 23, 2025 |work=[[Associated Press]] |date=June 23, 2025 |language=en}}</ref>
+** Running mate: [[Mike Reichenbach (politician)|Mike Reichenbach]], [[South Carolina Senate|state senator]] from the 31st district (2022–present)<ref>{{cite web |last1=Renaud |first1=Tim |title=Wilson taps SC Sen. Mike Reichenbach as running mate in bid for governor |url=https://www.counton2.com/news/your-local-election-hq/wilson-taps-sc-sen-mike-reichenbach-as-running-mate-in-bid-for-governor/ |access-date=January 9, 2026 |work=[[WCBD]] |date=January 9, 2026}}</ref>
+====Eliminated in runoff====
+*[[Pamela Evette]], [[lieutenant governor of South Carolina]] (2019–present)<ref>{{Cite news |last=Bustos |first=Joseph |date=July 14, 2025 |title=Lt. Gov. Pamela Evette joins race for South Carolina governor. 5 things to know |url=https://www.thestate.com/news/politics-government/article305247001.html |access-date=July 14, 2025 |work=[[The State (newspaper)|The State]]}}</ref>
+
+====Eliminated in primary====
+*[[Nancy Mace]], [[United States House of Representatives|U.S. representative]] for {{ushr|SC|1}} (2021–present) and candidate for [[United States Senate|U.S. Senate]] in [[2014 United States Senate election in South Carolina|2014]]<ref>{{Cite web |url=https://www.washingtonpost.com/politics/2025/08/04/mace-governor-south-carolina-trump/ |title=Rep. Nancy Mace, Trump critic-turned-ally, to run for South Carolina governor |website=[[The Washington Post]] |date=August 4, 2025 |access-date=August 4, 2025 |language=en-US |last=Goba |first=Kadia}}</ref> ''(endorsed Wilson)''<ref name=mace_wilson/>
+*[[Ralph Norman]], [[U.S. representative]] for {{ushr|SC|5}} (2017–present)<ref>{{cite news |last1=Kinnard |first1=Meg |title=Rep. Ralph Norman, among House's most conservative, set to enter South Carolina governor's race |url=https://apnews.com/article/ralph-norman-election-2026-governor-south-carolina-a3175ade72b18813d47c9bdf6f4e568b |access-date=July 25, 2025 |work=[[Associated Press]] |date=July 25, 2025 |language=en}}</ref> ''(endorsed Wilson)''<ref name="norman_wilson"/>
+**Running mate: [[Adam Morgan (politician)|Adam Morgan]], former [[South Carolina House of Representatives|state representative]] from the 20th district (2018–2024) and candidate for {{ushr|SC|4}} in [[2024 United States House of Representatives elections in South Carolina#District 4|2024]]<ref>{{cite web|url=https://www.wyff4.com/article/ralph-norman-running-mate-adam-morgan/71459792|title=Ralph Norman picks Adam Morgan as running mate in South Carolina governor race|last=Moore|first=Stephanie|date=June 1, 2026|access-date=June 1, 2026|website=[[WYFF]]}}</ref> 
+*Rom Reddy, businessman<ref>{{Cite web |last=Ashford |first=Adrian |title=Isle of Palms millionaire Rom Reddy joins GOP primary for governor |url=https://scdailygazette.com/briefs/isle-of-palms-millionaire-rom-reddy-joins-gop-primary-for-governor/ |date=March 16, 2026 |access-date=March 17, 2026 |website=[[South Carolina Daily Gazette]] |language=en-US}}</ref>
+
+====Withdrawn====
+*[[Josh Kimbrell]], [[South Carolina Senate|state senator]] from the 11th district (2020–present)<ref>{{cite web|url=https://www.thestate.com/news/politics-government/article316000782.html|title=State Sen. Kimbrell ends his 2026 GOP bid for SC gov days before June 9 primary|last=Bustos|first=Joseph|date=June 4, 2026|access-date=June 4, 2026|website=[[The State (newspaper)|The State]]}}</ref> ''(endorsed Wilson, remained on ballot)''<ref name="KimbrellWilson">{{cite news |last1=Russell |first1=Colin |title=Kimbrell endorses Alan Wilson for Governor after ending campaign |url=https://abcnews4.com/news/local/kimbrell-endorses-alan-wilson-for-governor-after-ending-campaign-race-politics-news-charleston-governor-senate-lowcountry-south-carolina-news-republican-part-former-candidate-dropped-out-and-endorses-the-attorney-general-of-the-state |access-date=June 4, 2026 |work=[[WCIV]] |date=June 4, 2026 |language=en}}</ref>
+*[[Thomas Ravenel]], former [[South Carolina State Treasurer|state treasurer of South Carolina]] (2007), candidate for U.S. Senate in [[2004 United States Senate election in South Carolina|2004]] and independent candidate in [[2014 United States Senate election in South Carolina|2014]]<ref>{{cite news |date=February 11, 2025 |access-date=February 11, 2025 |url=https://scdailygazette.com/2025/02/11/former-sc-treasurer-and-reality-tv-star-ends-bid-for-governor-days-after-announcement/ |work=[[South Carolina Daily Gazette]] |author=Chornobroff, Shaun |title=Former SC treasurer and reality TV star ends bid for governor, days after announcement}}</ref>
+
+====Decertified====
+*Jacqueline Hicks DuBose, bus driver (''remained on ballot)''<ref>{{Cite web |last=Moore |first=Stephanie |date=May 7, 2026 |title=Candidate for SC governor decertified from race |url=https://www.wyff4.com/article/governor-candidate-south-carolina-decertified/71243732 |access-date=May 8, 2026 |website=WYFF |language=en}}</ref>
+
+====Declined====
+*[[Mark Sanford]], former governor (2003–2011), [[United States House of Representatives|U.S. representative]] for [[South Carolina's 1st congressional district]] (1995–2001, 2013–2019), and candidate for [[President of the United States|president]] in [[2020 United States presidential election|2020]] ''([[2026 United States House of Representatives elections in South Carolina#District 1|ran for congress]])''<ref>{{cite web |last1=Cybrd |first1=Caitlin |title=Mark Sanford files to run for his old congressional seat by sounding alarm on national debt |url=https://www.postandcourier.com/politics/mark-sanford-sc-congress-republican/article_7b1c70f5-8320-4dbe-8ef7-dfe2a28043aa.html |access-date=March 30, 2026 |work=Palmetto Politics |date=March 30, 2026}}</ref>
+
+===First round===
+====Endorsements====
+{{Endorsements box
+| title=Pamela Evette
+| colwidth=60
+| list=
+;Executive branch officials
+*[[Donald Trump]], [[president of the United States]] (2017–2021, 2025–present)<ref>{{cite web |last1=Reynolds |first1=Nick |title=Friday night bombshell: Donald Trump endorses Pamela Evette for governor of South Carolina |url=https://www.postandcourier.com/politics/donald-trump-pamela-evette-endorsement-governor/article_821d67be-33be-46c4-b90c-5f78f8cd1653.html |website=[[The Post and Courier]] |access-date=May 29, 2026 |language=en |date=May 29, 2026}}</ref> ''(co-endorsed Wilson in the runoff)''
+*[[Mick Zais]], former [[United States Deputy Secretary of Education|deputy secretary of education]] (2018–2021)<ref>{{cite web |last1=Scott |first1=Tyler |title=Former US Deputy Secretary of Education endorses SC Lt Gov Evette for governor |url=https://www.foxcarolina.com/2026/03/17/former-us-deputy-secretary-education-endorses-sc-lt-gov-evette-governor/ |website=Fox Carolina |access-date=March 17, 2026 |language=en |date=March 17, 2026}}</ref>
+
+;Statewide officials
+*[[Henry McMaster]], [[governor of South Carolina]] (2017–present)<ref>{{cite web |title=McMaster backs Evette to replace him as South Carolina governor. Is Trump's endorsement next? |url=https://www.king5.com/article/syndication/associatedpress/mcmaster-backs-evette-to-replace-him-as-south-carolina-governor-is-trumps-endorsement-next/616-edca4031-e637-4d8d-90fd-6f1356ead47f |website=King5 |access-date=February 12, 2026 |date=February 11, 2026}}</ref>
+
+;State legislators
+*[[Bruce W. Bannister|Bruce Bannister]], HD-24 (2006–present)<ref>{{Cite news |title=SC Rep. Bruce Bannister endorses Pamela Evette for South Carolina governor |url=https://www.greenvilleonline.com/story/news/politics/2025/09/24/south-carolina-elections-bruce-bannister-endorses-pamela-evette/86330109007/ |newspaper=[[The Greenville News]] |date=September 24, 2025 |access-date=September 26, 2025 |last=Carpentier |first=Bella}}</ref>
+*[[Case Brittain]], HD-107 (2020–present)<ref name="Lands">{{cite web |last1=Brown |first1=Andrew |title=Lt. Gov. Pamela Evette lands major endorsements in Horry County |url=https://www.myhorrynews.com/news/lt-gov-pamela-evette-lands-major-endorsements-in-horry-county/article_444a4a6c-5e30-4e80-acfd-b67cb534c8ae.html |website=MyHorryNews.com |access-date=November 16, 2025 |language=en |date=October 29, 2025}}</ref>
+*[[Cal Forrest]], HD-39 (2016–present)<ref name="Lackey"/>
+*[[Gil Gatch]], HD-94 (2020–present)<ref>{{cite web |last1=Deanne |first1=Emily |title=Rep. Gatch backs Evette, stressing shared goals on transparency and business policies |url=https://abcnews4.com/news/lowcountry-and-state-politics/rep-gatch-backs-evette-stressing-shared-goals-on-transparency-and-business-policies-south-carolina-governors-race-governor |website=WCIV |access-date=December 1, 2025 |language=en |date=November 19, 2025}}</ref>
+*[[Val Guest (politician)|Val Guest]], HD-106 (2022–present)<ref name="Lands"/>
+*[[Kevin Hardee]], HD-105 (2012–present)<ref name="Lands"/>
+*[[Davey Hiott]], House majority leader (2022–present) from [[South Carolina House of Representatives|HD-04]] (2005–present)<ref name="gVo">{{cite web |title=Mace wants Trump to force mass layoffs to motivate Democrats on spending plan |url=https://www.greenvilleonline.com/story/news/politics/2025/10/23/south-carolina-nancy-mace-government-shutdown/86824754007/ |website=The Greenville News |access-date=December 1, 2025 }}</ref>
+*[[Bill Hixon]], HD-83 (2010–present)<ref name="Lackey"/>
+*[[Tim McGinnis]], HD-56 (2018–present)<ref name="Lands"/>
+*[[Melissa Lackey Oremus]], HD-84 (2019–present)<ref name="Lackey">{{cite web |last1=Bustos |first1=Joseph |title=With 3rd quarter fundraising reports in, who has edge in SC GOP governor's race |url=https://www.thestate.com/news/politics-government/article312531822.html |website=The State |access-date=December 1, 2025 |date=October 21, 2025}}</ref>
+*[[Carla Schuessler]], HD-61 (2022–present)<ref name="Lands"/>
+*[[Jeff Zell]], [[South Carolina Senate|SD-36]] (2025–present)<ref name="Lackey"/>
+
+;Party officials
+*[[Karen Floyd]], former chair of the [[South Carolina Republican Party]] (2009–2011)<ref>{{cite news |date=April 14, 2025 |access-date=April 14, 2025 |url=https://www.thestate.com/news/politics-government/article302997499.html |work=[[The State (newspaper)|The State]] |last=Bustos |first=Joseph |title=Top GOP figures dominate buzz for SC governor's race. Can others gain traction?}}</ref>
+
+;Individuals
+*[[James E. Livingston|James Livingston]], retired [[U.S. Marine Corps]] major general<ref>{{cite news |date=July 22, 2025 |access-date=July 29, 2025 |url=https://www.postandcourier.com/politics/james-livingston-pam-evette-sc-governor-endorsement/article_6645c85f-e08d-49f4-9ee5-01cb1d7248a8.html |last=Byrd |first=Caitlin |title=SC Medal of Honor recipient James Livingston backs Pam Evette for governor in 2026 GOP primary |work=[[The State (newspaper)|The State]]}}</ref>
+
+;Organizations
+*[[Susan B. Anthony Pro-Life America]]<ref name="SBA">{{cite web |last1=Snipes |first1=Anisa |title=SBA Pro-Life America endorses Evette for SC governor |url=https://www.foxcarolina.com/2026/04/08/big-abortion-industrys-nightmare-sba-pro-life-america-endorses-evette-sc-governor/ |website=FOX Carolina |access-date=April 9, 2026 |language=en |date=April 8, 2026}}</ref>
+}}
+{{Endorsements box
+| title=Ralph Norman
+| list=
+;Executive branch officials
+*[[Nikki Haley]], former [[List of ambassadors of the United States to the United Nations|ambassador to the United Nations]] (2017–2018) and former [[governor of South Carolina]] (2011–2017)<ref name="Norman Launch"/>
+*[[Mark Meadows]], former [[White House chief of staff]] (2020–2021)<ref name="Norman Launch">{{cite web|url=https://www.postandcourier.com/politics/nikki-haley-and-jim-demint-endorse-ralph-norman-for-sc-governor-as-he-launches-campaign/article_a8789fed-5486-413e-98be-efba6206b6a8.html|title=Nikki Haley and Jim DeMint endorse Ralph Norman for SC governor as he launches campaign in Rock Hill|last=Atkinson|first=Macon|date=July 27, 2025|access-date=July 28, 2025|website=[[The Post and Courier]]}}</ref>
+
+;U.S. senators
+*[[Jim DeMint]], former [[South Carolina]] (2005–2013)<ref name="Norman Launch"/>
+
+;State legislators
+*[[Nathan Ballentine]], HD-71 (2004–present)<ref name="Lackey"/> ''(endorsed Wilson in the runoff)''<ref name=SC_hopefuls/>
+*[[Wes Climer]], SD-15 (2016–present)<ref name="heraldrep">{{Cite web |url=https://www.heraldonline.com/news/politics-government/article311540366.html |title=SC senator announces run for Ralph Norman's 5th District seat in Congress |website=[[The Herald (Rock Hill)|Rock Hill Herald]] |date=August 1, 2025 |access-date=August 4, 2025 |language=en-US |last=O'Neill |first=Nora}}</ref>
+*[[Brandon Guffey]], HD-48 (2023–present)<ref name=SC_hopefuls/>
+*[[Jay Kilmartin]], HD-85 (2022–present) ''(endorsed Wilson in the runoff)''<ref name=SC_hopefuls/>
+*[[Jackie Terribile]], HD-66 (2025–present) ''(endorsed Wilson in the runoff)''<ref name=SC_hopefuls/>
+*[[Joe White (South Carolina politician)|Joe White]], HD-40 (2022–present) ''(endorsed Wilson in the runoff)''<ref name=SC_hopefuls/>
+
+;Organizations
+*[[South Carolina Freedom Caucus]]<ref name="Lackey"/>
+*[[Students for Life of America]]<ref>{{cite web |last1=Horlander |first1=Mary Kate |title=Students for Life Action Endorses Congressman Ralph Norman for South Carolina Governor |url=https://www.studentsforlifeaction.org/students-for-life-action-endorses-congressman-ralph-norman-for-south-carolina-governor/ |website=SFL Action |access-date=May 15, 2026 |date=May 14, 2026}}</ref>
+}}
+{{Endorsements box
+| title=Rom Reddy
+| list=
+;Individuals
+*[[Lucas v. South Carolina Coastal Council|David Lucas]], real estate developer and petitioner in ''[[Lucas v. South Carolina Coastal Council]]''<ref name="Rom Reddy">{{cite web |last1=Reynolds |first1=Nick |title=Rom Reddy says his ascent from immigrant to SC governor candidate emblematic of American Dream |url=https://www.postandcourier.com/politics/rom-reddy-immigrant-sc-state-governor/article_ec6884bb-b5d6-4a00-af54-1d69cb1264d7.html |website=Post and Courier |access-date=May 28, 2026 |language=en |date=May 3, 2026}}</ref>
+}}
+{{Endorsements box
+| title=Alan Wilson
+| list=
+;Executive branch officials
+*[[Hugh Hewitt]], former deputy director of the [[United States Office of Personnel Management|Office of Personnel Management]] (1988–1989)<ref name="Lackey"/>
+
+;Statewide officials
+*[[Derek Brown (politician)|Derek Brown]], [[attorney general of Utah]] (2025–present)<ref name="snipes" />
+*[[Mike Hilgers]], [[attorney general of Nebraska]] (2023–present)<ref name="snipes" />
+*[[Kris Kobach]], [[attorney general of Kansas]] (2023–present)<ref name="snipes" />
+*[[J.B. McCuskey]], [[attorney general of West Virginia]] (2025–present)<ref name="snipes" />
+*[[Liz Murrill]], [[attorney general of Louisiana]] (2024–present)<ref name="snipes" />
+*[[Todd Rokita]], [[attorney general of Indiana]] (2021–present)<ref name="snipes">{{cite news |url=https://www.foxcarolina.com/2026/03/17/seven-attorneys-general-endorse-sc-ag-alan-wilson-governor/ |title=Seven attorneys general endorse SC AG Alan Wilson for governor |date=March 17, 2026 |website=[[WHNS-TV]] |first=Anisa |last=Snipes |access-date=March 26, 2026}}</ref>
+*[[Dave Sunday (politician)|Dave Sunday]], [[attorney general of Pennsylvania]] (2025–present)<ref name="snipes" />
+
+;State legislators
+*[[JD Chaplin]], SD-29 (2024–present)<ref name="Lackey"/>
+*[[Josh Kimbrell]], SD-11 (2020–present) and former gubernatorial candidate<ref name="KimbrellWilson"/>
+
+;Local officials
+*23 county sheriffs<ref>{{cite news |date=July 22, 2025 |access-date=July 29, 2025 |url=https://www.wsav.com/news/local-news/south-carolina-news/alan-wilson-endorsed-for-governor-by-22-republican-sheriffs/ |last=Dorsch |first=Eric |title=Alan Wilson endorsed for Governor by 22 Republican sheriffs |work=[[WSAV-TV]]}}</ref>
+
+;Individuals
+*[[Bob Jones III]], former president of [[Bob Jones University]] (1971–2005)<ref name="BJones">{{cite web |title=Former Upstate university president endorses Alan Wilson for governor |url=https://www.wistv.com/2026/02/19/former-upstate-university-president-endorses-alan-wilson-governor/ |website=FOX Carolina News |access-date=February 20, 2026 |language=en |date=February 19, 2026}}</ref>
+
+;Newspapers
+*''[[The Post and Courier]]''<ref name="PandC">{{cite web |title=Editorial: South Carolina's Job 1 today is voting; here are our picks |url=https://www.postandcourier.com/opinion/editorials/sc-republican-primary-june-9-wilson-stumbo-pascoe/article_dedd0c95-fab4-49dd-8768-4fe1d48bf397.html |website=Post and Courier |access-date=June 10, 2026 |language=en |date=June 9, 2026}}</ref>
+}}
+{{Endorsements box
+|title=Josh Kimbrell ''(withdrawn)''
+|list=
+;State legislators
+*[[Matt Leber]], SD-41 (2024–present)<ref name="Lackey"/>
+*[[David Martin (South Carolina politician)|David Martin]], HD-26 (2024–present)<ref name="Lackey"/> ''(endorsed Wilson in the runoff)''<ref name="SC_hopefuls"/>
+}}
+
+====Polling====
+'''Aggregate polls'''<br />
+{| class="wikitable sortable" style="text-align:center;font-size:90%;line-height:17px"
+!Source of poll<br />aggregation
+!Dates<br />administered
+!Dates<br />updated
+! style="width:60px;"| Pamela<br />Evette
+! style="width:60px;"| Nancy<br />Mace
+! style="width:60px;"| Ralph<br />Norman
+! style="width:60px;"| Rom<br />Reddy
+! style="width:60px;"| Alan<br />Wilson
+! style="width:60px;"| Other/<br />Undecided{{Efn|Calculated by taking the difference of 100% and all other candidates combined.|name=|group=}}
+!Margin
+|-
+|[[RealClearPolitics]]<ref name="RCP">{{cite web |title=2026 South Carolina Governor – Republican Primary {{!}} RealClearPolling |url=https://www.realclearpolling.com/polls/governor/republican-primary/2026/south-carolina |website=RCP |access-date=November 18, 2025 |language=en}}</ref>
+|June 1–7, 2026
+|June 9, 2026
+|{{party shading/Republican}}|'''20.2%'''
+|12.2%
+|14.2%
+|14.6%
+|{{party shading/Republican}}|'''18.2%'''
+|20.6%{{efn|Josh Kimbrell with 2.3%}}
+|{{party shading/Republican}}|'''Evette +2.0%'''
+|-
+|Race to the WH<ref>{{cite web |title=Latest Polling for Governor Races – 2025-2026 |url=https://www.racetothewh.com/governor/26polls |website=Race to the WH |access-date=November 18, 2025}}</ref>
+|through June 6, 2026
+|June 9, 2026
+|{{party shading/Republican}}|'''19.3%'''
+|13.7%
+|13.8%
+|14.5%
+|{{party shading/Republican}}|'''17.6%'''
+|21.1%{{efn| Josh Kimbrell with 2.0%; Sean Bennett with 1.2%; Jacqueline DuBose with 1.1%}}
+|{{party shading/Republican}} |'''Evette +1.7%'''
+|-
+|[[Decision Desk HQ]]<ref>{{cite web |title=SC Gov 2026 |url=https://votes.decisiondeskhq.com/races/2026-06-09/south-carolina-governor-republican-primary?tab=polling |website=DDHQ |access-date=November 18, 2025}}</ref>
+|through June 7, 2026
+|June 9, 2026
+|{{party shading/Republican}}|'''19.6%'''
+|13.5%
+|14.4%
+|16.0%
+|{{party shading/Republican}}|'''18.5%'''
+|18.0%
+|{{party shading/Republican}} |'''Evette +1.1%'''
+|-
+|[[270toWin]]<ref name="renamed_from_270_on_20260510201050">{{cite web |title=2026 Polls: South Carolina Governor |url=https://www.270towin.com/2026-governor-polls/south-carolina |website=270toWin |access-date=May 10, 2026}}</ref>
+|June 2–8, 2026
+|June 9, 2026
+|{{party shading/Republican}}|'''18.7%'''
+|12.8%
+|13.5%
+|14.3%
+|{{party shading/Republican}}|'''18.8%'''
+|21.9%{{efn|Josh Kimbrell with 1.0%}}
+|{{party shading/Republican}} |'''Wilson +0.1%'''
+|-
+|FiftyPlusOne<ref name="FPO">{{cite web |title=South Carolina Republican Governor Primary |url=https://fiftyplusone.news/polls/governor/republican-primary/south-carolina |website=FiftyPlusOne |access-date=May 10, 2026}}</ref>
+|through June 7, 2026
+|June 9, 2026
+|{{party shading/Republican}}|'''20.1%'''
+|13.1%
+|13.8%
+|14.5%
+|{{party shading/Republican}}|'''17.4%'''
+|21.1%
+|{{party shading/Republican}} |'''Evette +2.7%'''
+|-
+| colspan="3" |'''Average'''
+|{{party shading/Republican}}|'''19.6%'''
+|13.1%
+|13.9%
+|14.8%
+|{{party shading/Republican}}|'''18.1%'''
+|20.5%
+|{{party shading/Republican}}|'''Evette +1.5%'''
+|}
+
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- style="vertical-align:bottom"
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"|Key:<br />A – all adults<br />RV – registered voters<br />LV – likely voters<br />V – unclear}}
+! Margin<br />of error
+! style="width:60px;"| Pamela<br/>Evette
+! style="width:60px;"| Josh<br/>Kimbrell
+! style="width:60px;"| Nancy<br/>Mace
+! style="width:60px;"| Ralph<br/>Norman
+! style="width:60px;"| Rom<br/>Reddy
+! style="width:60px;"| Alan<br/>Wilson
+! Other
+! Undecided
+|-
+| style="text-align: left;" |[[Trafalgar Group]] (R)<ref>{{Cite web |title=South Carolina Governor GOP Primary Poll – June 2026 |url=https://www.thetrafalgargroup.org/wp-content/uploads/2026/06/SC-GOP-Statewide-0608.pdf |date=June 9, 2026 |access-date=June 9, 2026 |website=[[Trafalgar Group]]}}</ref>
+|June 5–7, 2026
+|1,200 (LV)
+|±&nbsp;2.9%
+|{{party shading/Republican}}|'''22%'''
+|1%
+|14%
+|16%
+|18%
+|{{party shading/Republican}}|'''21%'''
+|1%{{efn|name=Dubose1}}
+|7%
+|-
+| style="text-align: left;" |InsiderAdvantage (R)<ref>{{cite web|url=https://insideradvantage.com/south-carolina-gop-primary-graham-above-50-evette-and-wilson-top-race-for-governor-ag-race-is-up-for-grabs-with-goldfinch-leading/|title=South Carolina GOP Primary: Graham Above 50%; Evette and Wilson Top Race for Governor; AG Race is Up for Grabs With Goldfinch Leading|website=InsiderAdvantage|date=June 7, 2026|access-date=June 8, 2026}}</ref>
+|June 5–6, 2026
+|800 (LV)
+|±&nbsp;3.5%
+|{{party shading/Republican}}|'''19%'''
+|4%
+|13%
+|12%
+|13%
+|{{party shading/Republican}}|'''16%'''
+|1%{{efn|name=Dubose1|Jacqueline Dubose with 1%}}
+|{{party shading/Undecided}}|'''22%'''
+|-
+|- style="background:lightyellow;"
+| style="border-right-style:hidden; background:lightyellow;" |
+| style="border-right-style:hidden; " | June 4, 2026
+| colspan="10" | Kimbrell withdraws from the race
+|-
+| style="text-align: left;" |Starboard Communications<ref name="6/5 FITS">{{cite web|url=https://www.fitsnews.com/2026/06/05/poll-position-alan-wilson-leads-2026-s-c-governors-race-entering-homestretch/|title=Poll Position: Alan Wilson Leads 2026 S.C. Governor's Race Entering Homestretch|last=Folks|first=Will|date=June 5, 2026|access-date=June 6, 2026|website=[[FITSNews]]}}</ref>
+|June 3–4, 2026
+|500 (LV)
+|±&nbsp;4.4%
+|{{party shading/Republican}}|'''19%'''
+|–
+|12%
+|13%
+|14%
+|{{party shading/Republican}}|'''19%'''
+|–
+|{{party shading/Undecided}}|'''22%'''
+|-
+|style="text-align: left;" |The Public Sentiment Institute<ref>{{cite web|url=https://tpsiofficial.substack.com/p/tpsi-south-carolina-republican-primary|title=TPSI - South Carolina Republican Primary Poll|date=June 6, 2026|access-date=June 6, 2026}}</ref>
+|June 3–4, 2026
+|388 (LV)
+|±&nbsp;5.0%
+|{{party shading/Republican}}|'''25%'''
+|–
+|{{party shading/Republican}}|'''30%'''
+|15%
+|13%
+|12%
+|–
+|5%
+|-
+|style="text-align: left;" |co/efficient (R)<ref>{{cite web|url=https://coefficient.org/our-work/sc-gop-primary-jun-2026/|title=South Carolina 2026 Republican Primary|date=June 6, 2026|access-date=June 6, 2026}}</ref>
+|June 2–4, 2026
+|879 (LV)
+|±&nbsp;3.3%
+|{{party shading/Republican}}|'''23%'''
+|2%
+|11%
+|15%
+|{{party shading/Republican}}|'''17%'''
+|16%
+|–
+|{{party shading/Undecided}}|'''17%'''
+|-
+| style="text-align: left;" |[[Trafalgar Group]] (R)<ref name="6/5 FITS"/>
+|June 2–4, 2026
+|982 (LV)
+|±&nbsp;2.9%
+|{{party shading/Republican}}|'''24%'''
+|1%
+|13%
+|15%
+|18%
+|{{party shading/Republican}}|'''19%'''
+|1%{{efn|name=Dubose1}}
+|11%
+|-
+| style="text-align: left;" |Tyson Group<ref name="6/5 FITS"/>
+|June 1–3, 2026
+|500 (LV)
+|±&nbsp;4.4%
+|{{party shading/Republican}}|'''18%'''
+|–
+|11%
+|15%
+|11%
+|{{party shading/Republican}}|'''19%'''
+|–
+|{{party shading/Undecided}}|'''25%'''
+|-
+| style="text-align: left;" |Opinion Diagnostics (R)<ref name="6/5 FITS"/>
+|June 1–2, 2026
+|675 (LV)
+|±&nbsp;3.8%
+|{{party shading/Republican}}|'''17%'''
+|2%
+|12%
+|12%
+|16%
+|{{party shading/Republican}}|'''22%'''
+|–
+|{{party shading/Undecided}}|'''20%'''
+|-
+| style="text-align: left;" |[[Trafalgar Group]] (R)<ref>{{Cite tweet|user=RobertCahaly |number=2061534484260917295 |first=Robert C.|last=Cahaly |title=BREAKING: @trafalgar_group SC GOP 2026 Governor Primary Tracking Poll (05/29-05/31)|access-date=June 1, 2026}}</ref>
+|May 29–31, 2026
+|(LV)
+|–
+|{{party shading/Republican}}|'''26%'''
+|2%
+|15%
+|16%
+|{{party shading/Republican}}|'''17%'''
+|{{party shading/Republican}}|'''17%'''
+|2%{{efn|name=Dubose2|Jacqueline Dubose with 2%}}
+|4%
+|-
+| style="text-align: left;" |[[The Citadel]]<ref name="CitadelMay2026">{{cite web|url=https://poll.citadel.edu/wp-content/uploads/2026/06/The-Citadel-SC-Voter-Survey-May-2026.pdf|title=The Citadel SC Voter Survey May 2026|website=[[The Citadel]]|date=June 3, 2026|access-date=June 3, 2026}}</ref>
+|May 21–31, 2026
+|600 (LV)
+|±&nbsp;4.5%
+|{{party shading/Republican}}|'''17%'''
+|1%
+|{{party shading/Republican}}|'''16%'''
+|13%
+|14%
+|{{party shading/Republican}}|'''16%'''
+|–
+|{{party shading/Undecided}}|'''23%'''
+|-
+|- style="background:lightyellow;"
+| style="border-right-style:hidden; background:lightyellow;" |
+| style="border-right-style:hidden; " | May 29, 2026
+| colspan="10" | Trump endorses Evette
+|-
+| style="text-align: left;" |[[John McLaughlin (pollster)|McLaughlin & Associates]] (R)<ref>{{cite web|url=https://www.fitsnews.com/2026/05/31/crossroads-2026-s-c-republican-gubernatorial-status-check/|title=Crossroads 2026: S.C. Republican Gubernatorial Status Check|last=Folks|first=Will|date=June 1, 2026|access-date=June 1, 2026|website=[[FITSNews]]}}</ref>
+|May 26–28, 2026
+|600 (LV)
+|±&nbsp;4.0%
+|13%
+|2%
+|14%
+|17%
+|{{party shading/Republican}}|'''20%'''
+|{{party shading/Republican}}|'''21%'''
+|–
+|13%
+|-
+| style="text-align: left;" |[[Trafalgar Group]] (R)<ref>{{Cite web |title=South Carolina Governor GOP Primary Poll – May 2026 |url=https://www.thetrafalgargroup.org/wp-content/uploads/2026/05/SC-GOP-Primary-Full-Report-0526.pdf |date=May 26, 2026 |access-date=May 26, 2026 |website=[[Trafalgar Group]]}}</ref>
+|May 21–24, 2026
+|1,125 (LV)
+|±&nbsp;2.9%
+|{{party shading/Republican}}|'''20%'''
+|2%
+|15%
+|16%
+|{{party shading/Republican}}|'''19%'''
+|{{party shading/Republican}}|'''19%'''
+|3%{{efn|name=Dubose3|Jacqueline Dubose with 3%}}
+|6%
+|-
+|style="text-align:left;"|Cygnal (R)<ref name="Cygnal521" />{{Efn-ua|name=Reddy}}
+|May 20–21, 2026
+|600 (LV)
+|–
+|12%
+|–
+|14%
+|13%
+|{{party shading/Republican}}|'''16%'''
+|{{party shading/Republican}}|'''19%'''
+|–
+|{{party shading/Undecided}}|'''24%'''
+|-
+|style="text-align:left;"|Conquest Communications Group/[[South Carolina Policy Council]]<ref name="SCPC">{{cite web |last1=Aaron |first1=Sam |title=SCPC Primary Poll: May 2026 |url=https://www.scpolicycouncil.org/scpc_primary_poll_may_2026 |website=South Carolina Policy Council |access-date=May 26, 2026 |date=May 26, 2026}}</ref>
+|May 18–21, 2026
+|500 (LV)
+|±&nbsp;3.2%
+|{{party shading/Republican}}|'''16%'''
+|1%
+|13%
+|{{party shading/Republican}}|'''15%'''
+|10%
+|14%
+|–
+|{{party shading/Undecided}}|'''27%'''
+|-
+|style="text-align:left;"|Cygnal (R)<ref name="Cygnal521" />{{Efn-ua|name=Reddy}}
+|May 7–8, 2026
+|600 (LV)
+|–
+|{{party shading/Republican}}|'''19%'''
+|–
+|14%
+|12%
+|9%
+|{{party shading/Republican}}|'''15%'''
+|–
+|{{party shading/Undecided}}|'''29%'''
+|-
+|style="text-align: left;" |[[Trafalgar Group]] (R)<ref name="Trafalgar">{{cite web |title=South Carolina Governor GOP Primary Poll May 2026 |url=https://www.thetrafalgargroup.org/wp-content/uploads/2026/05/SC-GOP-Governor-Full-Report-0507.pdf |website=The Trafalgar Group |access-date=May 7, 2026 |date=May 7, 2026}}</ref>
+|May 2–5, 2026
+|1,089 (LV)
+|±&nbsp;2.9%
+|{{party shading/Republican}}|'''25%'''
+|4%
+|15%
+|20%
+|10%
+|{{party shading/Republican}}|'''23%'''
+|3%{{efn|name=Dubose3}}
+|–
+|-
+|style="text-align: left;" |co/efficient (R)<ref>{{Cite web|url=https://coefficient.org/our-work/south-carolina-gop-primary-apr-30-2026/|title=South Carolina 2026 Republican Primary|website=co/efficient|date=April 30, 2026|access-date=May 10, 2026}}</ref>
+|April 29–30, 2026
+|813 (LV)
+|±&nbsp;3.4%
+|{{party shading/Republican}}|'''21%'''
+|2%
+|12%
+|13%
+|11%
+|{{party shading/Republican}}|'''18%'''
+|–
+|{{party shading/Undecided}}|'''22%'''
+|-
+|style="text-align:left;"|Cygnal (R)<ref name="Cygnal521" />{{Efn-ua|name=Reddy}}
+|April 13–14, 2026
+|600 (LV)
+|–
+|15%
+|–
+|{{party shading/Republican}}|'''17%'''
+|10%
+|6%
+|{{party shading/Republican}}|'''17%'''
+|–
+|{{party shading/Undecided}}|'''34%'''
+|-
+|style="text-align: left;" |Starboard Communications<ref>{{cite web|url=https://www.fitsnews.com/2026/04/23/south-carolina-governors-race-polling-drought-ends/|title=South Carolina Governor's Race: Polling Drought Ends|last=Folks|first=Will|date=April 24, 2026|access-date=April 24, 2026|website=[[FITSNews]]}}</ref>
+|April 8–14, 2026
+|604 (LV)
+|±&nbsp;4.4%
+|12%
+|3%
+|13%
+|{{party shading/Republican}}|'''14%'''
+|–
+|{{party shading/Republican}}|'''20%'''
+|–
+|{{party shading/Undecided}}|'''28%'''
+|-
+|style="text-align: left;" |co/efficient (R)<ref>{{Cite web|url=https://coefficient.org/our-work/south-carolina-gop-primary-mar-27-2026/|title=South Carolina 2026 Republican Primary|website=co/efficient|date=March 27, 2026|access-date=March 27, 2026}}</ref>
+|March 26–27, 2026
+|805 (LV)
+|±&nbsp;3.5%
+|{{party shading/Republican}}|'''19%'''
+|1%
+|{{party shading/Republican}}|'''18%'''
+|13%
+|5%
+|15%
+|–
+|{{party shading/Undecided}}|'''30%'''
+|-
+|- style="background:lightyellow;"
+| style="border-right-style:hidden; background:lightyellow;" |
+| style="border-right-style:hidden; " | March 16, 2026
+| colspan="10" | Reddy enters the race
+|-
+|style="text-align: left;" |co/efficient (R)<ref>{{Cite web|url=https://coefficient.org/our-work/south-carolina-gop-primary-mar-2026/|title=South Carolina 2026 Republican Primary|website=co/efficient|date=March 17, 2026|access-date=March 17, 2026}}</ref>
+|March 12–13, 2026
+|810 (LV)
+|±&nbsp;3.4%
+|{{party shading/Republican}}|'''21%'''
+|1%
+|{{party shading/Republican}}|'''22%'''
+|8%
+|–
+|19%
+|–
+|{{party shading/Undecided}}|'''29%'''
+|-
+|style="text-align: left;" |Stratus Intelligence (R)<ref>{{Cite web|url=https://nancymace.org/wp-content/uploads/2026/03/MACE-public-memo-MARCH.pdf|title=Republican Primary Survey for South Carolina Governor|first=Clare|last=Considine|work=Stratus Intelligence|date=March 16, 2026|access-date=March 17, 2026}}</ref>{{efn-ua|name=MaceStratus}}
+|March 9–11, 2026
+|600 (LV)
+|±&nbsp;4.0%
+|15%
+|–
+|{{party shading/Republican}}|'''24%'''
+|14%
+|–
+|{{party shading/Republican}}|'''18%'''
+|–
+|{{party shading/Undecided}}|'''29%'''
+|-
+|style="text-align: left;" rowspan="2"|Quantus Insights (R)<ref>{{Cite web|url=https://quantusinsights.org/f/south-carolina-gop-governor-primary-still-wide-open|title=South Carolina GOP Governor Primary Still Wide Open|website=Quantus Insights|date=March 12, 2026|access-date=March 12, 2026}}</ref>
+|rowspan="2"|March 10–11, 2026
+|rowspan="2"|806 (LV)
+|rowspan="2"|±&nbsp;3.5%
+|16%{{efn|name="lean"}}
+|3%
+|{{party shading/Republican}}|'''22%'''
+|11%
+|–
+|{{party shading/Republican}}|'''22%'''
+|–
+|{{party shading/Undecided}}|'''26%'''
+|-
+|13%
+|2%
+|{{party shading/Republican}}|'''19%'''
+|9%
+|–
+|{{party shading/Republican}}|'''18%'''
+|–
+|{{party shading/Undecided}}|'''39%'''
+|-
+|style="text-align: left;" |National Public Affairs (R)<ref>{{Cite web|url=https://www.fitsnews.com/2026/02/09/new-poll-shows-alan-wilson-leading-fragmented-s-c-governors-race/|title=New Poll Shows Alan Wilson Leading 'Fragmented' S.C. Governor's Race |first1=Will|last1=Folks|website=[[FITSNews]]|date=February 9, 2026|access-date=February 10, 2026}}</ref>{{efn-ua|name=Wilson|Poll sponsored by Wilson's campaign}}
+|February 2–5, 2026
+|800 (LV)
+|±&nbsp;3.5%
+|16%
+|2%
+|{{party shading/Republican}}|'''17%'''
+|12%
+|–
+|{{party shading/Republican}}|'''23%'''
+|–
+|{{party shading/Undecided}}|'''30%'''
+|-
+|style="text-align: left;" |Targoz Market Research/<br/>[[South Carolina Policy Council]]<ref name="SCPCFeb2026">{{Cite web|url=https://www.scpolicycouncil.org/the_south_carolina_policy_council_s_2026_winter_poll|title=The South Carolina Policy Council’s 2026 Winter Poll|first1=Sam|last1=Aaron|website=[[South Carolina Policy Council]]|date=February 4, 2026|access-date=February 4, 2026}}</ref>
+|January 24 – February 1, 2026
+|540 (LV)
+|–
+|{{party shading/Republican}}|'''12%'''
+|4%
+|{{party shading/Republican}}|'''18%'''
+|11%
+|–
+|{{party shading/Republican}}|'''12%'''
+|–
+|{{party shading/Undecided}}|'''43%'''
+|-
+| style="text-align: left;" |[[Trafalgar Group]] (R)<ref>{{Cite web |title=South Carolina Governor GOP Primary Poll January 2026 |url=https://www.thetrafalgargroup.org/wp-content/uploads/2026/01/SC-GOP-Governor-Report-0121.pdf |access-date=January 22, 2026 |website=Trafalgar Group}}</ref>
+|January 15–16, 2026
+|1,076 (LV)
+|±&nbsp;2.9%
+|{{party shading/Republican}}|'''22%'''
+|2%
+|17%
+|10%
+|–
+|{{party shading/Republican}}|'''20%'''
+|–
+|{{party shading/Undecided}}|'''29%'''
+|-
+|style="text-align:left;"|Stratus Intelligence (R)<ref>{{cite web |last1=Reynolds |first1=Nick |title=Nancy Mace touts polling memo showing her leading the governor's race by four points over Alan Wilson. MOE 3.7 percent. The pollster is Clare Considine — who was quoted in national media as a Mace advisor as recently as November. Not on the website, but told she is 'former.' |url=https://x.com/IAmNickReynolds/status/2011187314324570416 |via=[[Twitter|X]] |access-date=January 14, 2026 |date=January 13, 2026}}</ref>{{Efn-ua|name=MaceStratus|Poll sponsored by Mace's campaign and conducted by a former Mace campaign advisor}}
+|January 7–9, 2026
+|700 (LV)
+|±&nbsp;3.7%
+|14%
+|–
+|{{party shading/Republican}}|'''23%'''
+|11%
+|–
+|{{party shading/Republican}}|'''19%'''
+|–
+|{{party shading/Undecided}}|'''32%'''
+|-
+|style="text-align:left;"|Cygnal (R)<ref name="Cygnal521">{{cite web |last1=Buchanan |first1=Brent |title=South Carolina GOP Gubernatorial Primary Polling Memo |url=https://drive.google.com/file/d/1y73nVnRE8f0xhi86fIAmtNKb_94XlNjP/view |website=Cygnal |access-date=May 23, 2026 |date=May 21, 2026}}</ref>{{Efn-ua|name=Reddy|Poll sponsored by Reddy's campaign}}
+|January 5–6, 2026
+|402 (LV)
+|–
+|12%
+|–
+|{{party shading/Republican}}|'''15%'''
+|8%
+|–
+|{{party shading/Republican}}|'''19%'''
+|–
+|{{party shading/Undecided}}|'''45%'''
+|-
+|style="text-align:left;"|Wick<ref>{{cite web|url=https://www.thestate.com/news/politics-government/article314455391.html|title=3 recent SC governor GOP race polls. 3 different leaders. Why the difference?|last=Bustos|first=Joseph|date=January 26, 2026|access-date=January 26, 2026|website=[[The State (newspaper)|The State]]}}</ref>{{efn-ua|Poll sponsored by the [[Palmetto Promise Institute]]}}
+|December 16–19, 2025
+|800 (LV)
+|±&nbsp;3.5%
+|{{party shading/Republican}}|'''17%'''
+|2%
+|13%
+|13%
+|–
+|{{party shading/Republican}}|'''23%'''
+|–
+|{{party shading/Undecided}}|'''33%'''
+|-
+|style="text-align:left;"|Wick<ref name="Wick">{{cite web |last1=Burrell |first1=David |title=New SC GOP Primary Poll |url=https://www.wick.io/post/new-south-carolina-gop-primary-poll |website=Wick |access-date=December 2, 2025 |date=December 1, 2025}}</ref>
+|November 24–26, 2025
+|600 (LV)
+|±&nbsp;4.0%
+|{{party shading/Republican}}|'''16%'''
+|2%
+|11%
+|12%
+|–
+|{{party shading/Republican}}|'''22%'''
+|–
+|{{party shading/Undecided}}|'''38%'''
+|-
+|style="text-align:left;"|[[Winthrop University]]<ref>{{cite web|url=https://www.winthrop.edu/winthroppoll/2025-october-winthroppoll-results.aspx|title=October 2025 Winthrop Poll|website=[[Winthrop University]]|date=October 28, 2025|access-date=October 28, 2025}}</ref>
+|October 2–19, 2025
+|1,331 (RV)
+|±&nbsp;3.9%
+|{{party shading/Republican}}|'''16%'''
+|3%
+|{{party shading/Republican}}|'''17%'''
+|8%
+|–
+|8%
+|1%{{efn|"Prefer not to say" with 1%}}
+|{{party shading/Undecided}}|'''47%'''
+|-
+|rowspan="2" style="text-align:left;|Quantus Insights (R)<ref>{{cite web|url=https://drive.google.com/file/d/1tCibFinGXezZsQigFPTDtiHP0IwzoB5-/view?pli=1|title=South Carolina Republican Primary Survey|first1=Jason|last1=Corley|work=Quantus Insights|date=October 7, 2025|access-date=October 7, 2025}}</ref>{{efn-ua|name=Trending|Poll sponsored by Trending Politics, a conservative news website}}
+|rowspan="2"|October 1–4, 2025
+|rowspan="2"|600 (RV)
+|rowspan="2"|±&nbsp;4.2%
+|{{party shading/Republican}}|'''17%'''
+|5%
+|{{party shading/Republican}}|'''16%'''
+|11%
+|–
+|{{party shading/Republican}}|'''16%'''
+|–
+|{{party shading/Undecided}}|'''35%'''
+|-
+|{{party shading/Republican}}|'''22%'''{{efn|name="lean"}}
+|6%
+|20%
+|13%
+|–
+|{{party shading/Republican}}|'''23%'''
+|–
+|16%
+|-
+|style="text-align:left;"|[[Trafalgar Group]] (R)<ref>{{cite web|url=https://www.thetrafalgargroup.org/wp-content/uploads/2025/10/SC-GOP-Governor-Full-Report-1006.pdf|title=South Carolina Governor GOP Primary Poll|website=[[The Trafalgar Group]]|date=October 6, 2025|access-date=October 6, 2025}}</ref>
+|September 30 – October 2, 2025
+|1,094 (LV)
+|±&nbsp;2.9%
+|{{party shading/Republican}}|'''20%'''
+|1%
+|{{party shading/Republican}}|'''16%'''
+|9%
+|–
+|12%
+|–
+|{{party shading/Undecided}}|'''41%'''
+|-
+|style="text-align:left;"|co/efficient (R)<ref>{{cite web|url=https://coefficient.org/wp-content/uploads/2025/09/SC-Governor-GOP-Primary-2026.pdf|title=South Carolina 2026 Republican Primary|website=co/efficient|date=September 19, 2025|access-date=September 22, 2025}}</ref>
+|September 18–19, 2025
+|1,094 (LV)
+|±&nbsp;3.2%
+|{{party shading/Republican}}|'''18%'''
+|2%
+|{{party shading/Republican}}|'''19%'''
+|10%
+|–
+|16%
+|–
+|{{party shading/Undecided}}|'''35%'''
+|-
+|style="text-align:left;" rowspan="2"|Meeting Street Insights (R)<ref>{{cite web|url=https://drive.google.com/file/d/148u1gEMRcHuaghlOUgNrYUPZ9yyE9SUF/view|title=Key Survey Data Among South Carolina Republican Primary Voters|work=Meeting Street Insights|date=August 13, 2025|access-date=August 19, 2025}}</ref>{{efn-ua|Poll sponsored by Mace's campaign}}
+|rowspan="2"|August 11–12, 2025
+|rowspan="2"|600 (LV)
+|rowspan="2"|±&nbsp;4.0%
+|6%
+|3%
+|{{party shading/Republican}}|'''25%'''
+|10%
+|–
+|{{party shading/Republican}}|'''17%'''
+|–
+|{{party shading/Undecided}}|'''38%'''
+|-
+|7%{{efn|name=lean|With voters who lean towards a given candidate}}
+|4%
+|{{party shading/Republican}}|'''30%'''
+|12%
+|–
+|{{party shading/Republican}}|'''21%'''
+|–
+|{{party shading/Undecided}}|'''26%'''
+|-
+|style="text-align:left;"|Targoz Market Research/<br/>[[South Carolina Policy Council]]<ref>{{cite web |title=Mace leading South Carolina Republican gubernatorial primary polling |url=https://thehill.com/homenews/campaign/5425772-nancy-mace-2026-gop-governor/amp/ |first=Julia |last=Mueller |publisher=[[The Hill (newspaper)|The Hill]] |date=July 29, 2025 |access-date=July 29, 2025}}</ref>
+|July 21–25, 2025
+|1,200 (RV)
+|±&nbsp;2.8%
+|8%
+|3%
+|{{party shading/Republican}}|'''16%'''
+|6%
+|–
+|{{party shading/Republican}}|'''15%'''
+|–
+|{{party shading/Undecided}}|'''52%'''
+|- 
+|style="text-align:left;"|yes. every kid. (D)<ref>{{cite web |title=South Carolina Republican Primary Survey |url=https://yeseverykidfoundation.org/wp-content/uploads/YESF_South-Carolina-GOP-Primary-Voters-Survey_Topline_09.08.25.pdf |website=yes. every kid. Foundation |access-date=November 18, 2025}}</ref>
+|July 18–21, 2025
+|406 (LV)
+|±&nbsp;4.86%
+|9%
+|3%
+|{{party shading/Republican}}|'''19%'''
+|8%
+|–
+|{{party shading/Republican}}|'''20%'''
+|2%
+|{{party shading/Undecided}}|'''37%'''
+|-
+|style="text-align:left;"|First Tuesday Strategies (R)<ref>{{cite web |title=SCGOP Primary – March 2025 |url=https://www.fitsnews.com/wp-content/uploads/securepdfs/2025/03/SCGOP_Primary_March_2025-Public_Report-Smart_Charts.pdf |publisher=[[FITSNews]] |access-date=March 28, 2025}}</ref>
+|March 19–21, 2025
+|500 (LV)
+|±&nbsp;4.4%
+|7%
+|2%
+|{{party shading/Republican}}|'''16%'''
+|6%
+|–
+|{{party shading/Republican}}|'''21%'''
+|1%{{Efn|[[Sean Bennett (politician)|Sean Bennett]] with 1%}}
+|{{party shading/Undecided}}|'''47%'''
+|-
+|style="text-align:left;"|[[Trafalgar Group]] (R)<ref>{{cite news |last1=Reagan |first1=Nick |title=Early poll gives SC lieutenant governor edge in 2026 race |url=https://www.live5news.com/2025/03/12/early-poll-gives-sc-lieutenant-governor-edge-2026-race/ |access-date=March 12, 2025 |work=[[WCSC-TV]] |date=March 12, 2025 |language=en}}</ref>
+|March 8–10, 2025
+|1,127 (LV)
+|±&nbsp;2.9%
+|{{party shading/Republican}}|'''31%'''
+|–
+|{{party shading/Republican}}|'''29%'''
+|11%
+|–
+|27%
+|–
+|2%
+|}
+
+====Debates====
+{| class="wikitable" style="text-align:center;"
+|+ Republican primary debates
+|-
+! scope="col" | {{abbr|No.|Number}}
+! scope="col" | Date
+! scope="col" | Host
+! scope="col" | Moderator
+! scope="col" | Link
+! scope="col"| <small>[[Republican Party (US)|Republican]]</small>
+! scope="col"| <small>[[Republican Party (US)|Republican]]</small>
+! scope="col"| <small>[[Republican Party (US)|Republican]]</small>
+! scope="col"| <small>[[Republican Party (US)|Republican]]</small>
+! scope="col"| <small>[[Republican Party (US)|Republican]]</small>
+! scope="col"| <small>[[Republican Party (US)|Republican]]</small>
+|-
+! colspan="5" rowspan="2" |Key:<br>{{Colors|black|#90ff90|&nbsp;P&nbsp;}} <small>Participant&nbsp;</small> {{Colors|black|#ff9090|&nbsp;N&nbsp;}} <small>Not invited&nbsp;</small> {{Colors|black|#CCFFCC|&nbsp;I&nbsp;}} <small>Invited&nbsp;</small>
+! scope="col" style="background:{{party color|Republican Party (US)}}"|
+! scope="col" style="background:{{party color|Republican Party (US)}}"|
+! scope="col" style="background:{{party color|Republican Party (US)}}"|
+! scope="col" style="background:{{party color|Republican Party (US)}}"|
+! scope="col" style="background:{{party color|Republican Party (US)}}"|
+! scope="col" style="background:{{party color|Republican Party (US)}}"|
+|-
+! scope="col" | [[Pamela Evette]]
+! scope="col" | [[Josh Kimbrell]]
+! scope="col" | [[Nancy Mace]]
+! scope="col" | [[Ralph Norman]]
+! scope="col" | Rom Reddy
+! scope="col" | [[Alan Wilson (politician)|Alan Wilson]]
+|-
+!1
+| style="white-space:nowrap;" | April 1, 2026
+| style="white-space:nowrap;" | [[Newberry Opera House]]<br>[[Gray Media]]
+| style="white-space:nowrap;" | Justin Dougherty
+| style="white-space:nowrap;" | [https://www.youtube.com/watch?v=RqckE0qvwuU YouTube]
+| {{No|'''N'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{No|'''N'''}}
+| {{Yes|'''P'''}}
+|-
+!2
+| style="white-space:nowrap;" | April 21, 2026
+| style="white-space:nowrap;" | [[College of Charleston]]<br>Gray Media
+| style="white-space:nowrap;" | Justin Dougherty
+| style="white-space:nowrap;" | [https://www.youtube.com/watch?v=35JbOjwM0FE YouTube]
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+|-
+!3
+| style="white-space:nowrap;" | May 26, 2026
+| style="white-space:nowrap;" | [[Wofford College]]<br>Gray Media
+| style="white-space:nowrap;" | Justin Dougherty
+| style="white-space:nowrap;" | [https://www.youtube.com/watch?v=m4uiHKDVZPI YouTube]
+| {{D-I|'''I'''}}
+| {{No|'''N'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+|}
+
+====Results====
+{{Switcher|
+[[File:2026 South Carolina gubernatorial Republican primary election results map by county.svg|thumb|230px|County results
+{{collapsible list
+| title = {{legend|#E27F7F|Evette}}|{{legend|#FFE0EA|20–30%}}|{{legend|#FFC8CD|30–40%}}|{{legend|#FFB2B2|40–50%}}|{{legend|#E27F7F|50–60%}}
+}}{{collapsible list
+| title = {{legend|#FF9A50|Wilson}}|{{legend|#FFDAC1|20–30%}}|{{legend|#FFCCA9|30–40%}}|{{legend|#FFB580|40–50%}}|{{legend|#FF9A50|50–60%}}
+}}{{collapsible list
+| title = {{legend|#5FD35F|Norman}}|{{legend|#C0F0C0|20–30%}}|{{legend|#AAE5AA|30–40%}}
+}}
+]]|County results|
+[[File:2026 South Carolina gubernatorial Republican primary election results map by congressional district.svg|thumb|230px|Congressional district results
+{{collapsible list
+| title = {{legend|#E27F7F|Evette}}|{{legend|#FFE0EA|20–30%}}|{{legend|#FFB2B2|40–50%}}
+}}{{collapsible list
+| title = {{legend|#FF9A50|Wilson}}|{{legend|#FFDAC1|20–30%}}|{{legend|#FFCCA9|30–40%}}
+}}{{collapsible list
+| title = {{legend|#5FD35F|Norman}}|{{legend|#C0F0C0|20–30%}}|{{legend|#AAE5AA|30–40%}}
+}}
+]]|Congressional district results}}
+{{Election box begin no change
+ | title=Republican primary results}}
+{{Election box winning candidate with party link no change
+ | party=South Carolina Republican Party
+ | candidate=[[Pamela Evette]]
+ | votes=136,480
+ | percentage=28.9}}
+{{Election box winning candidate with party link no change
+ | party=South Carolina Republican Party
+ | candidate=[[Alan Wilson (politician)|Alan Wilson]]
+ | votes=123,643
+ | percentage=26.2}}
+{{Election box candidate with party link no change
+ | party=South Carolina Republican Party
+ | candidate=[[Ralph Norman]]
+ | votes=80,790
+ | percentage=17.1}}
+{{Election box candidate with party link no change
+ | party=South Carolina Republican Party
+ | candidate=Rom Reddy
+ | votes=66,992
+ | percentage=14.1}}
+{{Election box candidate with party link no change
+ | party=South Carolina Republican Party
+ | candidate=[[Nancy Mace]]
+ | votes=57,380
+ | percentage=12.1}}
+{{Election box candidate with party link no change
+ | party=South Carolina Republican Party
+ | candidate=[[Josh Kimbrell]] ''(withdrawn)''
+ | votes=3,957
+ | percentage=0.8}}
+{{Election box candidate with party link no change
+ | party=South Carolina Republican Party
+ | candidate=Jacqueline DuBose ''(decertified)''
+ | votes=3,714
+ | percentage=0.8}}
+{{Election box total no change
+ | votes=472,956
+ | percentage=100.0}}
+{{Election box end}}
+
+===Runoff===
+====Endorsements====
+{{Endorsements box
+| title=Pamela Evette
+| list=
+;Executive branch officials
+*[[Donald Trump]], [[president of the United States]] (2017–2021, 2025–present)<ref name="Trump">{{cite web|last=Reynolds|first=Nick|title=Trump Co-Endorses Wilson along with Evette|url=https://www.wistv.com/2026/06/19/trump-announces-co-endorsement-wilson-evette-ahead-june-23-runoffs/|access-date=June 20, 2026|website=WIS 10 News}}</ref> ''(co-endorsement with Wilson)''
+;Statewide officials
+*[[Curtis Loftis]], [[treasurer of South Carolina]] (2011–present)<ref name="SC_hopefuls">{{cite web |last1=Bustos |first1=Joseph |title=Where SC gov hopefuls did well, who supported them. Who are they after in runoff |url=https://www.thestate.com/news/politics-government/article316096287.html |website=[[The State (newspaper)|The State]] |access-date=June 13, 2026 |date=June 13, 2026}}</ref>
+;State legislators
+*[[Jeff Bradley (politician)|Jeff Bradley]], HD-123 (2014–present)<ref name=SC_hopefuls/>
+*[[Mike Burns (South Carolina politician)|Mike Burns]], HD-17 (2013–present)<ref name=norman_wilson/>
+*[[Bill Chumley]], HD-35 (2010–present)<ref name=norman_wilson/>
+*[[Chris Huff]], HD-28 (2024–present)<ref name=norman_wilson/>
+*[[Tommy Pope (politician)|Tommy Pope]], [[speaker pro tempore]] (2014–present) from HD-47 (2010–present)<ref name=norman_wilson/>
+*[[Ashley Trantham]], former HD-28 (2018–2024)<ref name=norman_wilson/>
+;Organizations
+*[[Turning Point Action]]<ref name="mace_wilson"/>
+}}
+{{Endorsements box
+| title=Alan Wilson
+|list=
+;Executive branch officials
+*[[Donald Trump]], [[president of the United States]] (2017–2021, 2025–present)<ref name="Trump"/> ''(co-endorsement with Evette)''
+;U.S. senators
+*[[Ted Cruz]], [[Texas]] (2013–present)<ref>{{cite web |last1=Carpentier |first1=Bella |title=Ted Cruz endorses Alan Wilson in South Carolina governor runoff |url=https://www.greenvilleonline.com/story/news/politics/elections/2026/06/13/ted-cruz-endorses-alan-wilson-sc-governor/90537257007/ |publisher=[[The Greenville News]] |access-date=June 13, 2026 |date=June 13, 2026}}</ref>
+*[[Tim Scott]], [[South Carolina]] (2013–present)<ref name="Trump"/>
+;U.S. representatives
+*[[Nancy Mace]], {{ushr|SC|1|SC-01}} (2021–present) and former gubernatorial candidate<ref name="mace_wilson">{{cite web |last1=Coakley |first1=Kelly |title=Mace ends bid for governor, backs Wilson |url=https://www.abccolumbia.com/2026/06/09/mace-ends-bid-for-governor-backs-wilson/ |website=[[ABC 25 Columbia]] |access-date=June 9, 2026 |date=June 9, 2026}}</ref>
+*[[Ralph Norman]], {{ushr|SC|5|SC-05}} (2017–present) and former gubernatorial candidate<ref name="norman_wilson">{{cite web |last1=Alsup |first1=Blake |last2=Reynolds |first2=Nick |title=Congressman Ralph Norman endorses Alan Wilson for governor in SC Republican runoff election |url=https://www.postandcourier.com/politics/ralph-norman-endorses-alan-wilson-governor/article_e2d971ec-71a4-4fb1-a750-76928915c5ff.html |website=[[The Post and Courier]] |access-date=June 15, 2026 |date=June 15, 2026}}</ref>
+;Statewide officials
+*[[Patrick Morrisey]], [[governor of West Virginia]] (2025–present)<ref name="Patrick">{{cite web |title=Alan Wilson, boosted by Trump's late co-endorsement, wins South Carolina governor runoff |url=https://www.politico.com/news/2026/06/23/wilson-wins-south-carolina-governor-primary-00973028 |website=POLITICO |access-date=June 24, 2026 |language=en |date=June 23, 2026}}</ref>
+;State legislators
+*[[Nathan Ballentine]], HD-71 (2004–present) ''(previously endorsed Norman)''<ref name=SC_hopefuls/>
+*[[Tom Davis (South Carolina politician)|Tom Davis]], SD-46 (2009–present)<ref>{{cite web|url=https://www.fitsnews.com/2026/06/15/tom-davis-proud-to-support-alan-wilson-for-governor/#|title=Tom Davis: Proud to Support Alan Wilson for Governor|date=June 15, 2026|access-date=June 15, 2026|last=Folks|first=Will|website=[[FITSNews]]}}</ref>
+*[[Brandon Guffey]], HD-48 (2023–present)<ref name=SC_hopefuls/>
+*[[Michael Johnson (South Carolina politician)|Michael Johnson]], SD-16 (2020–present)<ref name=SC_hopefuls/>
+*[[Jay Kilmartin]], HD-85 (2022–present) ''(previously endorsed Norman)''<ref name=SC_hopefuls/>
+*[[David Martin (South Carolina politician)|David Martin]], HD-26 (2024–present)<ref name=SC_hopefuls/> ''(previously endorsed Kimbrell)''<ref name="Lackey"/>
+*[[Heath Sessions]], HD-46 (2022–present)<ref name=SC_hopefuls/>
+*[[Everett Stubbs]], SD-17 (2025–present)<ref name=SC_hopefuls/>
+*[[Jackie Terribile]], HD-66 (2025–present) ''(previously endorsed Norman)''<ref name=SC_hopefuls/>
+*[[Joe White (South Carolina politician)|Joe White]], HD-40 (2022–present) ''(previously endorsed Norman)''<ref>{{cite web |title=Top Freedom Caucus Leader Backs Alan Wilson for Governor |url=https://www.fitsnews.com/2026/06/12/top-freedom-caucus-leader-backs-alan-wilson-for-governor/ |publisher=[[FITSNews]] |access-date=June 12, 2026 |archive-url=https://web.archive.org/web/20260612193042/https://www.fitsnews.com/2026/06/12/top-freedom-caucus-leader-backs-alan-wilson-for-governor/ |archive-date=June 12, 2026 |date=June 12, 2026 |url-status=live}}</ref>
+}}
+{{Endorsements box
+| title=Declined to endorse
+| list=
+;Individuals
+*Rom Reddy, businessman and former gubernatorial candidate<ref name="Sprint123">{{cite web |last1=Reynolds |first1=Nick |last2=Kropf |first2=Schuyler |title=The Sprint: What's the latest in SC governor's race? Pam Evette won't be at fighting match. |url=https://www.postandcourier.com/politics/sc-election-runoff-governor-wilson-evette/article_c8a0d53c-7ab7-429e-8e16-fd06793cb244.html |website=[[The Post and Courier]] |access-date=June 14, 2026 |language=en |date=June 13, 2026}}</ref>
+}}
+
+====Polling====
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- style="vertical-align:bottom"
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"}}
+! Margin<br />of error
+! style="width:75px;"| Pamela<br/>Evette
+! style="width:75px;"| Alan<br/>Wilson
+! Undecided
+|-
+| style="text-align: left;" |Opinion Diagnostics (R)<ref>{{cite tweet|user=PDSebastian|first=Patrick|last=Sebastian|number=2069199074394361892|title=Our latest survey from @Opinion_Dx of the South Carolina Republican gubernatorial runoff: @AGAlanWilson: 65%, @PamelaEvette: 23%. Wilson has successfully consolidated the June 9 primary field while Evette has collapsed.|access-date=June 23, 2026}}</ref>
+|June 21–22, 2026
+|875 (LV)
+|±&nbsp;3.3%
+|23%
+|{{party shading/Republican}}|'''65%'''
+|12%
+|-
+|style="text-align: left;" |JMC Analytics (R)<ref>{{cite web|url=https://winwithjmc.com/wp-content/uploads/2026/06/Toplines-JMC-Statewide-South-Caroline-GOP-Runoff-Survey-June-13-15-2026.pdf|title=SC-Statewide JMC Analytics GOP Primary Runoff|date=June 16, 2026|access-date=June 18, 2026|website=JMC Analytics}}</ref>
+|June 13–15, 2026
+|500 (LV)
+|±&nbsp;4.4%
+|28%
+|{{party shading/Republican}}|'''63%'''
+|9%
+|-
+|style="text-align: left;" |National Public Affairs (R)<ref>{{cite web|url=https://www.fitsnews.com/2026/06/15/another-s-c-gop-runoff-poll-shows-alan-wilson-in-the-lead/|title=Another S.C. GOP Runoff Poll Shows Alan Wilson in the Lead|last=Folks|first=Will|date=June 15, 2026|access-date=June 15, 2026|website=[[FITSNews]]}}</ref>{{efn-ua|name=Wilson}}
+|June 10–11, 2026
+|600 (LV)
+|±&nbsp;4.0%
+|36%
+|{{party shading/Republican}}|'''52%'''
+|13%
+|-
+| style="text-align: left;" |Opinion Diagnostics (R)<ref>{{cite web |title=Runoff Poll: Alan Wilson Enjoys Sizable Lead Over Pamela Evette |url=https://www.fitsnews.com/2026/06/13/runoff-poll-alan-wilson-enjoys-sizable-lead-over-pamela-evette/ |website=Fits News |access-date=June 14, 2026 |date=June 13, 2026}}</ref>
+|June 10–11, 2026
+|625 (LV)
+|±&nbsp;3.9%
+|39%
+|{{party shading/Republican}}|'''46%'''
+|15%
+|-
+| style="text-align: left;" |Opinion Diagnostics (R)<ref>{{cite web |title=South Carolina Republican Runoff: Early Incoming Fire |url=https://www.fitsnews.com/2026/06/10/south-carolina-republican-runoff-election-early-incoming-fire/ |website=Fits News |access-date=June 14, 2026 |date=June 10, 2026}}</ref>
+|June 1–2, 2026
+|675 (LV)
+|±&nbsp;3.8%
+|29%
+|{{party shading/Republican}}|'''48%'''
+|22%
+|}
+
+====Debate====
+{| class="wikitable" style="text-align:center;"
+|+ Republican primary runoff debate
+|-
+! scope="col" | {{abbr|No.|Number}}
+! scope="col" | Date
+! scope="col" | Host
+! scope="col" | Moderator
+! scope="col" | Link
+! scope="col"| <small>[[Republican Party (US)|Republican]]</small>
+! scope="col"| <small>[[Republican Party (US)|Republican]]</small>
+|-
+! colspan="5" rowspan="2" |Key:<br>{{Colors|black|#90ff90|&nbsp;P&nbsp;}} <small>Participant&nbsp;</small>
+! scope="col" style="background:{{party color|Republican Party (US)}}"|
+! scope="col" style="background:{{party color|Republican Party (US)}}"|
+|-
+! scope="col" | [[Pamela Evette]]
+! scope="col" | [[Alan Wilson (politician)|Alan Wilson]]
+|-
+!1
+| style="white-space:nowrap;" | June 16, 2026
+| style="white-space:nowrap;" | [[Coastal Carolina University]]<br>[[Gray Media]]
+| style="white-space:nowrap;" | Justin Dougherty
+| style="white-space:nowrap;" | [https://www.youtube.com/watch?v=S-zG0lYzzzQ YouTube]
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+|}
+
+====Results====
+{{Switcher|
+[[File:2026 South Carolina gubernatorial Republican primary runoff election results map by county.svg|thumb|230px|County results
+{{collapsible list
+| title = {{legend|#FF9A50|Wilson}}|{{legend|#FF9A50|50–60%}}|{{legend|#EE8E50|60–70%}}|{{legend|#D69850|70–80%}}
+}}
+{{collapsible list
+| title = {{legend|#E27F7F|Evette}}|{{legend|#e27f7f|50–60%}}|{{legend|#d75d5d|60–70%}}
+}}
+]]|County results|
+[[File:2026 South Carolina gubernatorial Republican primary runoff election results map by congressional district.svg|thumb|230px|Congressional district results
+{{collapsible list
+| title = {{legend|#FF9A50|Wilson}}|{{legend|#FF9A50|50–60%}}|{{legend|#EE8E50|60–70%}}|{{legend|#D69850|70–80%}}
+}}
+]]|Congressional district results}}
+{{Election box begin no change
+ | title=Republican primary runoff results}}
+{{Election box winning candidate with party link no change
+ | party=South Carolina Republican Party
+ | candidate=[[Alan Wilson (politician)|Alan Wilson]]
+ | votes=218,569
+ | percentage=68.6}}
+{{Election box candidate with party link no change
+ | party=South Carolina Republican Party
+ | candidate=[[Pamela Evette]]
+ | votes=100,227
+ | percentage=31.4}}
+{{Election box total no change
+ | votes=318,796
+ | percentage=100.0}}
+{{Election box end}}
+
+==Democratic primary==
+===Candidates===
+====Nominee====
+*[[Jermaine Johnson (politician)|Jermaine Johnson]], state representative from the 80th district{{efn|Multiple districts; 52nd district since 2024}} (2020–present)<ref>{{cite web |last1=Bustos |first1=Joseph |title='I'm not a sacrificial lamb.' Jermaine Johnson launches his bid for SC governor |url=https://www.thestate.com/news/politics-government/article312619356.html |access-date=October 28, 2025 |work=[[The State (newspaper)|The State]] |date=October 28, 2025}}</ref><ref>{{Cite web |last=Lund |first=Genevieve|date=June 10, 2026 |title=South Carolina governor's race heads to GOP runoff as Democrats select Johnson |url=https://www.wsav.com/news/local-news/south-carolina-news/south-carolina-governors-race-heads-to-gop-runoff-as-democrats-select-johnson/ |access-date=June 10, 2026 |publisher=[[WSAV-TV|WSAV]].com}}</ref>
+** Running mate: Sam Skardon, former chair of the [[Charleston County]] Democratic Party<ref name="skardon">{{Cite web |last=Grenier |first=Ian |date=July 30, 2026 |title=Charleston Democrat picked as gubernatorial nominee Jermaine Johnson's Lt. Gov. running mate |url=https://www.postandcourier.com/politics/jermaine-johnson-sam-skardon-sc-demoractic-governor/article_3b7cd8b1-d9c8-41ff-b1e8-e5c928a5c998.html |access-date=July 30, 2026 |quote="...former state Sen. Katrina Shealy, a Lexington Republican who also lost her seat in a 2024 primary that hinged on abortion ... introduced Johnson in front of the Statehouse on July 30. 'He believes leadership is not defined by party or politics, but by character, compassion and the courage to do what is right,' Shealy said." |website=Post and Courier |language=en}}</ref>
+
+====Eliminated in primary====
+*Mullins McLeod, trial attorney and candidate for governor in [[2010 South Carolina gubernatorial election|2010]]<ref>{{Cite web |last=Reynolds |first=Nick |date=August 11, 2025 |title=With little publicity, Charleston attorney Mullins McLeod enters Democratic race for governor |url=https://www.postandcourier.com/politics/south-carolina-mullins-mcleod-governor-2026/article_2cd1ea51-360d-4153-9497-e3428c7c37f3.html |access-date=August 11, 2025 |website=[[The Post and Courier]] |language=en}}</ref>
+*Billy Webster, former chief of staff for [[Richard Riley]] and businessman<ref>{{cite news |last1=Folks |first1=Will |title=Upstate Businessman to Seek South Carolina Governor's Office |url=https://www.fitsnews.com/2026/03/04/upstate-businessman-to-seek-south-carolina-governors-office/ |access-date=March 24, 2026 |work=[[FITSNews]] |date=March 4, 2026}}</ref><ref>{{cite news |title=Greenville businessman announces candidacy for SC governor |url=https://www.southcarolinapublicradio.org/sc-news/2026-03-25/greenville-businessman-announces-candidacy-for-sc-governor |access-date=March 25, 2026 |work=[[South Carolina Public Radio]] |date=March 25, 2026}}</ref>
+
+====Declined====
+*[[Russell Ott]], state senator from the 26th district (2024–present)<ref>{{cite news |last1=Bustos |first1=Joseph |title=Who might run for South Carolina governor and US senator in 2026? Here are names to watch |url=https://www.thestate.com/news/politics-government/article295397559.html |access-date=November 14, 2024 |work=[[The State (newspaper)|The State]] |date=November 14, 2024}}</ref>
+
+===Endorsements===
+{{Endorsements box
+| title=Jermaine Johnson
+| colwidth = 60
+| list=
+;U.S. representatives
+*[[Ro Khanna]], {{ushr|CA|17|CA-17}} (2017–present)<ref name=what_to_know/>
+;State legislators
+*[[Carl Anderson (South Carolina politician)|Carl Anderson]], [[South Carolina House of Representatives|HD-103]] (2005–present)<ref name=JJ>{{Cite news|last=Moore|first=Perrin|date=November 18, 2025|title=Democrat candidate for governor announces slate of endorsements from state legislators|url=https://abcnews4.com/news/local/democrat-candidate-for-governor-announces-slate-of-endorsements-from-state-legislators-jermaine-johnson-south-carolina-governors-race-mullins-mcleod|archive-url=https://web.archive.org/web/20251231184801/https://abcnews4.com/news/local/democrat-candidate-for-governor-announces-slate-of-endorsements-from-state-legislators-jermaine-johnson-south-carolina-governors-race-mullins-mcleod|archive-date=December 31, 2025|website=[[WCIV|ABC News 4]]}}</ref>
+*[[Heather Bauer]], HD-75 (2022–present)<ref name=JJ/>
+*[[Bill Clyburn]], HD-82 (1995–present)<ref name=JJ/>
+*[[Kambrell Garvin]], HD-77 (2018–present)<ref name=JJ/>
+*[[Jerry Govan Jr.]], HD-93 (1992–2022, 2024–present)<ref name=JJ/>
+*[[Hamilton R. Grant]], HD-79 (2025–present)<ref name=JJ/>
+*[[Rosalyn Henderson-Myers]], HD-31 (2017–present)<ref name=JJ/>
+*[[Leon Howard (South Carolina politician)|Leon Howard]], HD-76 (1995–present)<ref name=JJ/>
+*[[Wendell K. Jones]], HD-25 (2022–present)<ref name=JJ/>
+*[[John Richard C. King]], HD-49 (2009–present)<ref name=JJ/>
+*[[Annie McDaniel]], HD-41 (2018–present)<ref name=JJ/>
+*[[Robert Reese]], HD-70 (2024–present)<ref name=JJ/>
+*[[Michael F. Rivers Sr.]], HD-121 (2016–present)<ref name=JJ/>
+*[[Seth Rose]], HD-72 (2018–present)<ref name=JJ/>
+*[[Courtney Waters]], HD-113 (2025–present)<ref name=JJ/>
+*[[J. David Weeks]], HD-51 (2000–present)<ref name=JJ/>
+*[[Robert Q. Williams]], HD-62 (2007–present)<ref name=JJ/>
+
+;Labor unions
+*South Carolina [[AFL-CIO]]<ref>{{cite web|last=Folks|first=Will|date=December 10, 2025|title=Crossroads 2026: Big Labor Backs Jermaine Johnson for S.C. Governor|url=https://www.fitsnews.com/2025/12/10/organized-labor-backs-jermaine-johnson-for-s-c-governor/|archive-url=https://web.archive.org/web/20260320180942/https://www.fitsnews.com/2025/12/10/organized-labor-backs-jermaine-johnson-for-s-c-governor/|archive-date=March 20, 2026|website=FitsNews|access-date=January 7, 2026}}</ref>
+}}
+{{Endorsements box
+| title=Mullins McLeod
+| list=
+;State legislators
+*[[Wendell Gilliard]], HD-111 (2009–present)<ref>{{cite web|last=Bailey|first=Michael|date=March 15, 2026|title=“I'm in Line”: SC Rep. Wendell Gilliard Stands With Mullins McLeod|url=https://theminorityeye.com/im-in-line-sc-rep-wendell-gilliard-stands-with-mullins-mcleod/|website=The Minority Eye|access-date=March 15, 2026}}</ref>
+}}
+{{Endorsements box
+| title=Billy Webster
+| list=
+;Executive branch officials
+*[[Stephen K. Benjamin]], former director of the [[White House Office of Public Liaison|Office of Public Engagement]] (2023–2025) and [[mayor of Columbia]] (2010–2022)<ref name="benjamin_webster">{{cite web |last1=Bustos |first1=Joseph |title=Webster's weekslong blitz for Democratic bid for SC gov includes $2M of own cash |url=https://www.thestate.com/news/politics-government/article315913856.html |website=[[The State (newspaper)|The State]] |access-date=June 2, 2026 |date=June 2, 2026}}</ref>
+*[[Bill Clinton]], former [[president of the United States]] (1993–2001)<ref name="what_to_know">{{cite web |last1=Moore |first1=Perrin |title=What to know before SC's governor primaries: candidates, issues, and endorsements |url=https://cbs12.com/news/nation-world/what-to-know-before-scs-governor-primaries-candidates-issues-and-endorsements-pam-evette-nancy-mace-ralph-norman-rom-reddy-alan-wilson-jermaine-johnson-mullins-mcleod-billy-webster-june-9-primary-election-preview-south-carolina |website=[[WPEC]] |access-date=June 9, 2026 |date=June 8, 2026}}</ref>
+
+;Newspapers
+*''[[Charleston City Paper]]''<ref name="charleston_city_paper">{{cite web |title=Our View: Vote June 9 in South Carolina primary, despite legislature's pesky meddling |url=https://charlestoncitypaper.com/2026/05/21/our-view-vote-june-9-in-south-carolina-primary-despite-legislatures-pesky-meddling/ |website=Charleston City Paper |access-date=June 9, 2026 |date=May 21, 2026}}</ref>
+}}
+
+===Polling===
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- style="vertical-align:bottom"
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"|Key:<br />A – all adults<br />RV – registered voters<br />LV – likely voters<br />V – unclear}}
+! Margin<br />of error
+! style="width:75px;"| Jermaine<br/>Johnson
+! style="width:75px;"| Mullins<br/>McLeod
+! style="width:75px;"| Billy<br/>Webster
+! Undecided
+|-
+| style="text-align: left;" |[[The Citadel]]<ref name="CitadelMay2026"/>
+|May 21–31, 2026
+|427 (LV)
+|±&nbsp;4.7%
+|{{party shading/Democratic}}|'''33%'''
+|6%
+|{{party shading/Democratic}}|'''18%'''
+|{{party shading/Undecided}}|'''43%'''
+|-
+|style="text-align:left;"|Conquest Communications Group/<br />[[South Carolina Policy Council]]<ref name="SCPC"/>
+|May 18–21, 2026
+|500 (LV)
+|±&nbsp;3.2%
+|{{party shading/Democratic}}|'''27%'''
+|6%
+|{{party shading/Democratic}}|'''14%'''
+|{{party shading/Undecided}}|'''49%'''
+|-
+|style="text-align: left;" |Targoz Market Research/<br/>[[South Carolina Policy Council]]<ref name="SCPCFeb2026"/>
+|January 24 – February 1, 2026
+|348 (LV)
+|–
+|{{party shading/Democratic}}|'''25%'''
+|{{party shading/Democratic}}|'''8%'''
+|–
+|{{party shading/Undecided}}|'''67%'''
+|}
+
+===Debate===
+{| class="wikitable" style="text-align:center;"
+|+ Democratic primary debate
+|-
+! scope="col" | {{abbr|No.|Number}}
+! scope="col" | Date
+! scope="col" | Host
+! scope="col" | Moderator
+! scope="col" | Link
+! scope="col"| <small>[[Democratic Party (US)|Democratic]]</small>
+! scope="col"| <small>[[Democratic Party (US)|Democratic]]</small>
+! scope="col"| <small>[[Democratic Party (US)|Democratic]]</small>
+|-
+! colspan="5" rowspan="2" |Key:<br>{{Colors|black|#90ff90|&nbsp;P&nbsp;}} <small>Participant&nbsp;</small>
+! scope="col" style="background:{{party color|Democratic Party (US)}}"|
+! scope="col" style="background:{{party color|Democratic Party (US)}}"|
+! scope="col" style="background:{{party color|Democratic Party (US)}}"|
+|-
+! scope="col" | [[Jermaine Johnson (politician)|Jermaine Johnson]]
+! scope="col" | Mullins McLeod
+! scope="col" | Billy Webster
+|-
+!1
+| style="white-space:nowrap;" | June 3, 2026
+| style="white-space:nowrap;" | [[SCETV]]
+| style="white-space:nowrap;" | Gavin Jackson
+| style="white-space:nowrap;" | [https://www.youtube.com/watch?v=9eiZ9juUPt8 YouTube]
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+|}
+
+===Results===
+[[File:2026 South Carolina gubernatorial Democratic primary election results map by county.svg|thumb|230px|Results by county
+{{collapsible list
+| title = {{legend|#7996e2|Johnson}}
+|{{legend|#7996e2|50–60%}}
+|{{legend|#6674de|60–70%}}
+|{{legend|#584cde|70–80%}}
+}}
+{{collapsible list
+| title = {{legend|#51C2C2|Webster}}
+|{{legend|#7DDDDD|40–50%}}
+}}
+]]
+{{Election box begin no change
+ | title=Democratic primary results}}
+{{Election box winning candidate with party link no change
+ | party=South Carolina Democratic Party
+ | candidate=[[Jermaine Johnson (politician)|Jermaine Johnson]]
+ | votes=221,951
+ | percentage=59.7}}
+{{Election box candidate with party link no change
+ | party=South Carolina Democratic Party
+ | candidate=Billy Webster
+ | votes=110,303
+ | percentage=29.6}}
+{{Election box candidate with party link no change
+ | party=South Carolina Democratic Party
+ | candidate=William Mullins McLeod Jr.
+ | votes=39,739
+ | percentage=10.7}}
+{{Election box total no change
+ | votes=371,993
+ | percentage=100.0}}
+{{Election box end}}
+
+==United Citizens Party convention ==
+* Michael Addison, nominee ([[United Citizens Party]]), Democratic candidate for [[South Carolina's 6th congressional district|SC-6]] in [[2022 United States House of Representatives elections in South Carolina#District 6|2022]]<ref>{{Cite news |date=March 17, 2026 |title=Candidates enter political races for Charleston, statewide seats |url=https://charlestoncitypaper.com/2026/03/17/candidates-enter-political-races-for-charleston-statewide-seats/ |access-date=March 22, 2026 |newspaper=Charleston City Paper |language=en-US}}</ref><ref>{{cite news |url=https://www.abccolumbia.com/2022/06/15/review-2022-south-carolina-primary-election/ |title=Review: 2022 South Carolina primary election |date=January 15, 2022 |website=[[WOLO-TV]] |access-date=March 25, 2026}}</ref> 
+**Running mate: Candace Brewer, activist<ref>{{cite news |url=https://www.southcarolinapublicradio.org/sc-news/2026-03-17/the-state-house-gavel-new-gov-hopefuls-enter-2026-race-as-filing-opens-hemp-to-lead-week-10 |title=The State House Gavel: New gov hopefuls enter 2026 race as filing opens |date=March 17, 2026 |website=[[South Carolina Public Radio]] |first1=Maayan |last1=Schechter
+|first2=Gavin |last2=Jackson |access-date=March 25, 2026}}</ref><ref>{{cite news |url=https://www.postandcourier.com/black-history/12-black-leaders-to-know-sc-candace-brewer/article_07e0a5e7-1248-4236-af29-3f73fb3a3d2d.html |title=Candace Brewer, motivated by personal tragedy, fights for others in anti-gun violence cause |date=February 15, 2026 |newspaper=[[The Post and Courier]] |first=Eric |last=Connor |access-date=March 25, 2026}}</ref>
+==Green Party convention ==
+* Walid Hakim,nominee ([[South Carolina Green Party]]), veteran<ref name="marks">{{Cite news |last=Marks |first=John |date=March 20, 2026 |title=Rock Hill region election filing is underway. Check here for candidate updates |url=https://www.heraldonline.com/news/politics-government/election/local-election/article315045616.html |access-date=March 22, 2026 |work=The Herald}}</ref>
+
+==South Carolina Workers Party convention==
+=== Withdrawn ===
+*Gary Votour, nominee ([[South Carolina Workers Party]]), Democratic candidate for governor in [[2022 South Carolina gubernatorial election|2022]]<ref>{{Cite news |last=Bustos |first=Joe |date=May 2, 2022 |title=South Carolina candidate for governor says he's switching parties after $15 wage split |url=https://www.thestate.com/news/politics-government/article257900388.html |access-date=March 22, 2026 |newspaper=[[The State (newspaper)|The State]]}}</ref><ref>{{Cite news |first=Seanna |last=Adcox |date=August 10, 2022 |title=SC Democrats sue to keep Labor candidates off ballots, as 4th District Democrat withdraws |url=https://www.postandcourier.com/politics/sc-democrats-sue-to-keep-labor-candidates-off-ballots-as-4th-district-democrat-withdraws/article_adef8956-18e4-11ed-b9b3-d3691d85292e.html |access-date=March 22, 2026 |newspaper=[[The Post and Courier]] |language=en}}</ref><ref name="marks"/> ''(endorsed Johnson)''<ref name="votour_johnson">{{cite web |last1=Rhue |first1=Alyse |title=Johnson pledges South Carolina-first campaign after Wilson wins SC GOP runoff |url=https://abcnews4.com/news/state/2026-06-23-johnson-pledges-south-carolina-first-campaign-after-wilson-wins-sc-gop-runoff-voters-election |website=[[WCIV]] |access-date=June 24, 2026 |date=June 23, 2026}}</ref>
+
+==General election==
+===Predictions===
+{| class="wikitable" style=text-align:center
+!Source
+!Ranking
+!As of
+|-
+|-
+|align=left|''[[The Cook Political Report]]''<ref>{{cite web|title=2026 CPR Governor Race ratings|url=https://www.cookpolitical.com/ratings/governor-race-ratings|website=[[The Cook Political Report]]|access-date=January 23, 2025}}</ref>
+|{{USRaceRating|Solid|R}}
+|January 23, 2025
+|-
+|align=left|[[Decision Desk HQ]]<ref name="DDHQ">{{cite web |title=2026 Governor Forecast |url=https://votes.decisiondeskhq.com/forecast/2026/governor |website=Decision Desk HQ |access-date=October 5, 2026}}</ref>
+|{{USRaceRating|Lean|R}}
+|October 5, 2026
+|-
+|align=left|[[Fox News]]<ref>{{cite web |title=Fox News Power Rankings: The top races to watch as 36 states choose their next governor |url=https://www.foxnews.com/politics/fox-news-power-rankings-top-races-watch-36-states-choose-next-governor |website=[[Fox News]] |publisher=Rémy Numa |access-date=July 24, 2026}}</ref>
+|{{USRaceRating|Solid|R}}
+|July 23, 2026
+|-
+|align=left|''[[Inside Elections]]''<ref>{{Cite web|title=Gubernatorial Ratings|url=https://insideelections.com/ratings/governor|access-date=February 7, 2025|website=[[Inside Elections]]}}</ref>
+|{{USRaceRating|Solid|R}}
+|August 28, 2025
+|-
+|align="left"|[[RealClearPolitics]]<ref>{{Cite web|title=2026 Governor Races {{!}} RealClearPolitics|url=https://www.realclearpolling.com/maps/governor/2026/toss-up|access-date=June 5, 2026|website=[[RealClearPolitics]]|archive-url=https://web.archive.org/web/20260601183127/https://www.realclearpolling.com/maps/governor/2026/toss-up|archive-date=June 1, 2026|url-status=dead}}</ref>
+|{{USRaceRating|Likely|R}}
+|June 5, 2026
+|-
+|align=left|''[[Sabato's Crystal Ball]]''<ref>{{cite web|title=2026 Governor|url=https://centerforpolitics.org/crystalball/2026-governor/|website=[[Sabato's Crystal Ball]]|access-date=May 1, 2025}}</ref>
+|{{USRaceRating|Safe|R}}
+|September 4, 2025
+|-
+| style="text-align: left;" |[[Silver Bulletin]]<ref name=":Silver">{{Cite web |last=Silver |first=Nate |date=August 20, 2026 |title=FLIPR 2026 midterm election forecast |url=https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model |url-access=subscription |access-date=August 20, 2026 |website=www.natesilver.net |language=en}}</ref>
+| {{US political race rating|Solid|R}}
+|August 25, 2026
+|}
+
+===Post-primary endorsements===
+{{Endorsements box
+| title=Alan Wilson (R)
+| list=
+;Organizations
+*[[National Fraternal Order of Police|South Carolina Fraternal Order of Police]]<ref name="FOP">{{cite web |title=Crossroads 2026: Alan Wilson Gets Key Law Enforcement Endorsement |url=https://www.fitsnews.com/2026/08/31/crossroads-2026-alan-wilson-gets-key-law-enforcement-endorsement/ |website=FITS News |access-date=September 2, 2026 |date=August 31, 2026}}</ref>
+}}
+{{Endorsements box
+| title=Jermaine Johnson (D)
+| list=
+;Statewide officials
+*[[Andy Beshear]], [[governor of Kentucky]] (2019–present)<ref>{{cite web |last1=Reynolds |first1=Nick |title=Buttigieg endorses Dr. Annie Andrews amid mounting national interest in SC's Senate race |url=https://www.postandcourier.com/politics/sc-buttigieg-andrews-endorsement-2026-senate/article_bfe6b63d-0438-490e-8759-ca1b9423292a.html |website=[[The Post and Courier]] |quote=Jermaine Johnson ... has already earned the support of potential 2028 presidential candidates like Maryland Gov. Wes Moore and Kentucky Gov. Andy Beshear. |access-date=August 13, 2026 |date=August 13, 2026}}</ref>
+*[[Wes Moore]], [[governor of Maryland]] (2023–present)<ref>{{cite news |last1=Wood |first1=Pamela |title=Wes Moore hits campaign trail with a mission: Elect other Black governors |url=https://www.thebanner.com/politics-power/state-government/wes-moore-only-black-governor-ZKNYIWIMMFCHZG46HDQUEEXNUM/ |access-date=July 18, 2026 |work=[[The Baltimore Banner]] |date=July 18, 2026 |language=en}}</ref>
+*[[Gavin Newsom]], [[governor of California]] (2019–present)<ref>{{cite news |last1=Mason |first1=Melanie |last2=Gardiner |first2=Dustin |last3=Jones |first3=Blake |title=Newsom’s 2028 audition heads south |url=https://www.politico.com/newsletters/california-playbook/2026/09/02/newsoms-2028-audition-heads-south-01061290 |access-date=September 2, 2026 |work=[[Politico]] |date=September 2, 2026 |language=en}}</ref>
+
+;State legislators
+*[[Katrina Shealy]], [[South Carolina Senate|SD-23]] (2013–2024) ''(Republican)''<ref name="skardon"/>
+
+;Individuals
+*Gary Votour, former gubernatorial candidate ''(third-party)''<ref name=votour_johnson/>
+}}
+
+===Polling===
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- style="vertical-align:bottom"
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"}}
+! Margin<br />of error
+! style="width:100px;"| Alan<br/>Wilson (R)
+! style="width:100px;"| Jermaine<br/>Johnson (D)
+! Other
+! Undecided
+|-
+| style="text-align: left;" |Resonance Media<ref>{{cite web|url=https://www.fitsnews.com/wp-content/uploads/securepdfs/2026/10/Resonance-Governor-Poll-Summary-Oct-5-2026.pdf|title=Wilson Leads Johnson by 10 Points|date=October 5, 2026|access-date=October 6, 2026|website=[[FITSNews]]}}</ref>
+|September 29 – October 3, 2026
+|638 (RV)
+|±&nbsp;3.7%
+|{{party shading/Republican}}|'''45%'''
+|35%
+|4%{{efn|Michael Addison (UC) with 3%; Walid Hakim (G) with 1%}}
+|16%
+|-
+| style="text-align: left;" |Hart Research (D)<ref>{{cite web |url=https://www.washingtonexaminer.com/news/campaigns/state/4702087/poll-south-carolina-governor-race-democrat-jermaine-johnson/ |title=New poll puts South Carolina governor’s race in play for Democrat Jermaine Johnson |first=Christian|last=Datoc |website=[[Washington Examiner]] |access-date=August 4, 2026}}</ref>{{Efn-ua|name=Johnson|Poll sponsored by Jermaine Johnson's campaign.}}
+|August 12–15, 2026
+|600 (V)
+|—
+|{{party shading/Republican}}|'''50%'''
+|42%
+|—
+|8%
+|-
+| style="text-align: left;" |[[Public Policy Polling]] (D)<ref>{{cite web |title=South Carolina Survey Results |url=https://data.ddhq.io/polls/2026/07/30/Public-Policy-Polling/Annie-Andrews-South-Carolina-2026-07-16-2026-07-17 |publisher=[[Public Policy Polling]] |access-date=August 4, 2026}}</ref>{{Efn-ua|Poll sponsored by the campaign of [[Annie Andrews (pediatrician)|Annie Andrews]], Democratic nominee for U.S. Senate}}
+|July 16–17, 2026
+|577 (V)
+|—
+|{{party shading/Republican}}|'''45%'''
+|37%
+|—
+|17%
+|}
+
+===Results===
+{{Election box begin
+  | title=2026 South Carolina gubernatorial election}}
+{{Election box candidate with party link
+  |party= South Carolina Republican Party
+  |candidate={{ubl|[[Alan Wilson (politician)|Alan Wilson]]|[[Mike Reichenbach (politician)|Mike Reichenbach]]}}
+  |votes=
+  |percentage=
+  |change=}}
+{{Election box candidate with party link|party=South Carolina Democratic Party|candidate={{ubl|[[Jermaine Johnson (politician)|Jermaine Johnson]]|Sam Skardon}}|votes=|percentage=|change=}}
+{{Election box candidate with party link|party=Green Party (United States)|candidate={{ubl|Walid Hakim|Arnold E. Karr}}|votes=|percentage=|change=}}
+{{Election box candidate with party link|party=United Citizens Party|candidate={{ubl|Michael Addison|Candace Brewer}}|votes=|percentage=|change=}}
+{{Election box write-in with party link
+  |votes=
+  |percentage=
+  |change=}}
+{{Election box total 
+  |votes      =
+  |percentage =100.0 
+  |change     = 
+}}
+{{Election box end}}
+
+==See also==
+*[[2026 United States gubernatorial elections]]
+*[[2026 South Carolina elections]]
+
+==Notes==
+{{notelist}}
+'''Partisan clients'''<br />
+{{notelist-ua}}
+
+==References==
+{{reflist}}
+
+==External links==
+;Official campaign websites
+{{columns-list|colwidth=30em|
+*[https://johnsonforsc.com/ Jermaine Johnson (D)]
+*[https://wilsonforsc.com/ Alan Wilson (R)]
+*[https://www.walidnhakim.com/ Walid Hakim (G)]
+*[https://www.addisonforsc.com/ Michael Addison (U)]
+}}
+{{2026 United States elections}}
+
+[[Category:South Carolina gubernatorial elections]]
+[[Category:2026 South Carolina elections|Gubernatorial]]
+[[Category:2026 United States gubernatorial elections|South Carolina]]

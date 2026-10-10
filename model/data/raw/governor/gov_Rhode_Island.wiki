@@ -1,0 +1,933 @@
+{{Short description|none}}
+{{see also|2026 United States gubernatorial elections}}
+{{Use American English|date=January 2025}}
+{{Use mdy dates|date=September 2023}}
+<!-- This short description is INTENTIONALLY "none" - please see WP:SDNONE before you consider changing it! -->
+
+{{Infobox election
+| election_name = 2026 Rhode Island gubernatorial election
+| country = Rhode Island
+| type = presidential
+| ongoing = yes
+| previous_election = 2022 Rhode Island gubernatorial election
+| previous_year = 2022
+| next_election = 2030 Rhode Island  gubernatorial election
+| next_year = 2030
+| image1 = HelenaFoulkes CROP (cropped).jpg
+| image_size = 150x150px
+| party1 = Democratic Party (United States)
+| nominee1 = [[Helena Foulkes]]
+| image2 = 3x4.svg
+| party2 = Republican Party (United States)
+| nominee2 = Aaron Guckian
+| image3 = 3x4.svg
+| party3 = Independent politician
+| nominee3 = [[Ken Block (politician)|Ken Block]]
+| election_date = November 3, 2026
+| title = [[Governor of Rhode Island|Governor]]
+| before_election = [[Dan McKee]]
+| before_party = Democratic Party (United States)
+| after_election = 
+| after_party = 
+}}
+{{ElectionsRI}}
+The '''2026 Rhode Island gubernatorial election''' will be held on November 3, 2026, to elect the [[governor of Rhode Island]]. Incumbent [[Democratic Party (United States)|Democratic]] governor [[Dan McKee]] ran for re-election to a second full term but was defeated in the primary by [[Helena Buonanno Foulkes|Helena Foulkes]]. [[Primary elections]] took place on September 9, 2026.<ref>{{Cite web|date=September 26, 2025|title=2026 State Primary Election Dates|url=https://www.ncsl.org/elections-and-campaigns/2026-state-primary-election-dates|archive-url=https://web.archive.org/web/20260509222424/https://www.ncsl.org/elections-and-campaigns/2026-state-primary-election-dates|archive-date=May 9, 2026|url-status=live|access-date=September 27, 2025|website=[[National Conference of State Legislatures]]}}</ref> 
+
+Republicans have not won a statewide election in Rhode Island since [[2006 Rhode Island gubernatorial election|2006]]. While Rhode Island is generally a safely Democratic state, the Democratic primary was predicted to be competitive due to McKee's high unpopularity. The election has also been noted as not following national trends of progressives versus moderates, with both Democrats being relatively moderate and the primary instead largely boiling down to anger over the longtime closure of the [[Washington Bridge (Providence, Rhode Island)|Washington Bridge]].<ref name="politico-20260808">{{Cite web |last1=Okun |first1=Eli |date=August 8, 2026 |title=Why Rhode Island may oust a sitting governor over a bridge |url=https://www.politico.com/news/2026/08/08/rhode-island-governor-bridge-01030024 |access-date=2026-08-12 |website=POLITICO |language=en}}</ref>
+
+This is the first election since [[2014 Hawaii gubernatorial election|2014]] in which an elected state governor lost renomination.{{efn|Governor [[Jeff Colyer]] of Kansas, who had taken office after the resignation of [[Sam Brownback]], was defeated by [[Kris Kobach]] in the [[2018 Kansas gubernatorial election|2018]] Republican primary election.}} It is also the first time since [[1994 Rhode Island gubernatorial election|1994]] in which an incumbent governor of Rhode Island lost renomination.
+
+==Democratic primary==
+===Candidates===
+====Nominee====
+*[[Helena Foulkes]], former [[CVS Pharmacy|CVS]] executive, niece of former U.S. senator [[Chris Dodd]], and candidate for governor in [[2022 Rhode Island gubernatorial election|2022]]<ref name=foulkes>{{cite news |last1=Anderson |first1=Patrick |title=Helena Foulkes launches second bid for governor. What we know. |url=https://www.providencejournal.com/story/news/politics/2025/09/09/helena-foulkes-launches-bid-to-unseat-mckee-as-ri-governor-in-2026/86055267007/ |access-date=September 9, 2025 |work=[[The Providence Journal]] |date=September 9, 2025 |archive-url=https://archive.today/20250910110603/https://www.providencejournal.com/story/news/politics/2025/09/09/helena-foulkes-launches-bid-to-unseat-mckee-as-ri-governor-in-2026/86055267007/ |archive-date=September 10, 2025}}</ref>
+====Eliminated in primary====
+*[[Dan McKee]], incumbent governor (2021–present)<ref>{{cite news |last1=Fortier |first1=Marc |title=RI Gov. Dan McKee announces reelection campaign |url=https://www.nbcboston.com/news/local/ri-gov-dan-mckee-announces-reelection-campaign/3646001/ |access-date=March 3, 2025 |work=[[NBC10 Boston]] |date=March 3, 2025}}</ref>
+
+====Disqualified====
+*Wil Gregersen, librarian<ref>{{cite web |last1=Grenier |first1=Deanna |title=From the Stacks to the State House: Warwick Librarian Wil Gregerson Announces Run for Governor |url= https://online.fliphtml5.com/nwhhm/ifgl/#p=6 |access-date=April 18, 2026  |work=The Rhode Island Wave |date=January 31, 2026}}</ref>
+*Gregory Stevens, restaurateur<ref>{{cite web |last1=Baccari |first1=Raymond |title=Business owner Gregory Stevens announces 2026 run for governor |url=https://www.wpri.com/news/elections/business-owner-gregory-stevens-announces-2026-run-for-governor/ |access-date=November 14, 2025 |work=[[WPRI.com]] |date=November 12, 2025}}</ref>
+
+====Declined====
+*[[Gregg Amore]], [[Rhode Island Secretary of State]] (2023–present) ''([[2026 Rhode Island Secretary of State election|running for re-election]])''<ref name="ShekarchisShadow">{{Cite web |last=Anderson |first=Patrick |title=How Shekarchi's shadow looms large in the 2026 RI governor's race |url=https://www.providencejournal.com/story/news/politics/2025/01/13/who-will-run-for-rhode-island-governor-2026-dan-mckee-helena-foulkes-joseph-shekarchi/77491510007/ |access-date=2025-04-09 |website=The Providence Journal |language=en-US}}</ref>
+*[[Alana DiMario]], state senator from the 36th district (2021–present)<ref>{{cite news |last1=Donnis |first1=Ian |title=State Sen. Alana DiMario on Trump and what's next in the Rhode Island Senate |url=https://thepublicsradio.org/political-roundtable/state-sen-alana-dimario-on-trump-and-whats-next-in-the-rhode-island-senate/ |access-date=March 7, 2025 |work=[[The Public's Radio]] |date=March 7, 2025 |quote=I'll break it to you right here. I am not running for governor in 2026. You can take me right off that list.}}</ref>
+*[[Sabina Matos]], [[Lieutenant Governor of Rhode Island|lieutenant governor of Rhode Island]] (2021–present) and candidate for [[Rhode Island's 1st congressional district]] in [[2023 Rhode Island's 1st congressional district special election|2023]] ''([[2026 Rhode Island lieutenant gubernatorial election|running for re-election]], endorsed McKee)''<ref>{{cite news |last1=Anderson |first1=Patrick |title=How Shekarchi's shadow looms large in the 2026 RI governor's race |url=https://www.providencejournal.com/story/news/politics/2025/01/13/who-will-run-for-rhode-island-governor-2026-dan-mckee-helena-foulkes-joseph-shekarchi/77491510007/?gnt-cfr=1&gca-cat=p&gca-uir=false&gca-epti=undefined&gca-ft=0&gca-ds=sophi |access-date= January 1, 2026 |work=[[The Providence Journal]] |date=January 13, 2025}}</ref><ref>{{cite news |last1=Donnis |first1=Ian |title=Approval for McKee and Matos falls in new Pell Center poll |url=https://thepublicsradio.org/politics/approval-for-mckee-and-matos-falls-in-new-pell-center-poll/ |access-date= January 1, 2026 |work=[[Rhode Island PBS]] |date=September 30, 2024}}</ref>
+*[[Peter Neronha]], [[Rhode Island Attorney General]] (2019–present) ''(endorsed Buonanno Foulkes)''<ref>{{cite news |last1=Lavin |first1=Nancy |title=Rhode Island AG Neronha will not run for governor |url=https://rhodeislandcurrent.com/briefs/rhode-island-ag-neronha-will-not-run-for-governor/ |access-date=October 3, 2025 |work=[[Rhode Island Current]] |date=October 3, 2025}}</ref><ref name="NeronhaFoulkes">{{Cite web |last=Anderson |first=Patrick |title=AG Neronha wades into governor race to endorse Helena Foulkes. Here's why. |url=https://www.providencejournal.com/story/news/politics/state/2026/03/05/ri-attorney-general-endorses-gov-dan-mckees-challenger-what-it-means/89000137007/ |access-date=2026-03-05 |website=The Providence Journal |language=en-US}}</ref>
+*[[Joe Shekarchi]], [[List of speakers of the Rhode Island House of Representatives|Speaker of the Rhode Island House of Representatives]] (2021–2026) from the 23rd district (2013–present)<ref>{{Cite web |last=Nesi |first=Ted |last2=Sherman |first2=Eli |date=2026-02-03 |title=Shekarchi won’t run for governor, leaving McKee to face Foulkes in primary |url=https://www.wpri.com/news/elections/shekarchi-wont-run-for-governor-leaving-mckee-to-face-foulkes-in-primary/ |access-date=2026-02-03 |website=WPRI 12}}</ref>
+
+===Endorsements===
+{{Endorsements box
+| title = Helena Foulkes 
+| list =
+;U.S representatives
+*[[Patrick J. Kennedy]], former [[RI-01]] (1995–2011)<ref name="PJK1">{{cite web |last1=Heimsch |first1=Maddie |title=Former U.S. Representative Patrick Kennedy endorses Foulkes for governor |url=https://turnto10.com/news/money-watcher-old/former-us-representative-patrick-kennedy-endorses-foulkes-for-governor |website=WJAR |access-date=6 September 2026 |language=en |date=1 September 2026}}</ref>
+*[[Nancy Pelosi]], former [[Speaker of the United States House of Representatives|speaker of the House]] (2007–2011, 2019–2023) from [[California's 11th congressional district|CA-11]] (1987–present)<ref name="Pelosi">{{cite web |title=Endorsements by Nancy Pelosi |url=https://ballotpedia.org/Endorsements_by_Nancy_Pelosi |website=[[Ballotpedia]] |access-date=27 August 2026}}</ref>
+
+;Statewide officials
+*[[Peter Neronha]], [[Rhode Island Attorney General|attorney general of Rhode Island]] (2019–present)<ref>{{cite news |last1=Anderson |first1=Patrick |title=How Shekarchi's shadow looms large in the 2026 RI governor's race |url=https://www.providencejournal.com/story/news/politics/2025/01/13/who-will-run-for-rhode-island-governor-2026-dan-mckee-helena-foulkes-joseph-shekarchi/77491510007/?gnt-cfr=1&gca-cat=p&gca-uir=false&gca-epti=undefined&gca-ft=0&gca-ds=sophi |access-date= January 1, 2026 |work=[[The Providence Journal]] |date=January 13, 2025}}</ref>
+
+;State legislators
+*12 [[Rhode Island Senate|state senators]]{{efn|
+*[[Louis DiPalma|Lou DiPalma]], 12th district (2009–present)<ref name="Foulkes26" />
+*[[Meghan Kallman]], 15th district (2021–present)<ref name="ValleyBreeze826" />
+*[[Pamela J. Lauria|Pamela Lauria]], 32nd district (2023–present)<ref name="Foulkes26" />
+*[[Tiara Mack]], 6th district (2021–present)<ref name="Foulkes26" />
+*[[Mark McKenney]], 30th district (2019–2021, 2023–present)<ref name="Foulkes26" />
+*[[Melissa Murray (politician)|Melissa Murray]], 24th district (2019–present)<ref name="ValleyBreeze826">{{cite web |title=Foulkes announces four General Assembly endorsements |url=https://www.valleybreeze.com/news/foulkes-announces-four-new-general-assembly-endorsements/article_29351866-7582-41bc-a7bc-9347aa335bb3.html |website=The Valley Breeze |access-date=27 August 2026 |date=August 26, 2026}}</ref>
+*[[Ryan W. Pearson|Ryan Pearson]], majority leader (2023–2025) from the 19th district (2013–present)<ref name="ValleyBreeze826" />
+*[[Ana Quezada]], 2nd district (2017–present)<ref name="Foulkes26" />
+*[[Brian Thompson (politician)|Brian Thompson]], 20th district (2025–present)<ref name="ValleyBreeze826" />
+*[[Linda Ujifusa]], 11th district (2023–present)<ref name="Foulkes26" />
+*[[Lammis Vargas]], 28th district (2025–present)<ref name="Foulkes26" />
+*[[Sam Zurier]], 3rd district (2021–present)<ref name="Foulkes26" />}}
+*18 [[Rhode Island House of Representatives|state representatives]]{{efn|
+*[[Edith Ajello]], 1st district (1993–present)<ref name="Foulkes26">{{cite web |title=Foulkes Announces 26 New Endorsements, Opens Broad Street Campaign Office |url=https://lprnews.org/foulkes-announces-26-new-endorsements-opens-broad-street-campaign-office/ |website=LPR News |access-date=19 August 2026 |date=July 15, 2026}}</ref>
+*[[Karen Alzate]], 60th district (2019–present)<ref name="ValleyBreeze826" />
+*[[Nathan Biah]], 3rd district (2021–present)<ref name="Foulkes26" />
+*[[Jennifer Boylan (politician)|Jennifer Boylan]], 66th district (2023–present)<ref name="Foulkes26" />
+*[[Lauren H. Carson|Lauren Carson]], 75th district (2015–present)<ref name="Foulkes26" />
+*[[Julie Casimiro]], 31st district (2017–present)<ref name="Foulkes26" />
+*[[Terri-Denise Cortvriend]], 72nd district (2019–present)<ref name="Foulkes26" />
+*[[Gregory Costantino]], 44th district (2013–present)<ref name="Foulkes26" />
+*[[Cherie Cruz]], 58th district (2023–present)<ref name="ValleyBreeze826" />
+*[[Grace Diaz]], 11th district (2005–present) and former chair of the [[Rhode Island Democratic Party]] (2014)<ref name="Foulkes26" />
+*[[Susan R. Donovan|Susan Donovan]], 69th district (2017–present)<ref name="ValleyBreeze826" />
+*[[Rebecca Kislak]], 4th district (2019–present)<ref name="ValleyBreeze826" />
+*[[Michelle McGaw]], 71st district (2021–present)<ref name="Foulkes26" />
+*[[Robert Phillips (politician)|Robert Phillips]], 51st district (2011–present)<ref name="Foulkes26" />
+*[[Brandon Potter (politician)|Brandon Potter]], 16th district (2021–present)<ref name="ValleyBreeze826" />
+*[[Scott A. Slater|Scott Slater]], 10th district (2009–present)<ref name="Foulkes26" />
+*[[Jennifer Stewart]], 59th district (2023–present)<ref name="ValleyBreeze826" />
+*[[Teresa Tanzi]], 34th district (2011–present)<ref name="Foulkes26" />}}
+
+;Local officials
+*[[Joseph Polisena Jr.]], mayor of [[Johnston, Rhode Island|Johnston]] (2023–present)<ref name="DoThey">{{cite web |last1=Gregg |first1=Katherine |title=Do endorsements actually sway votes? Why candidates fight for them. |url=https://www.providencejournal.com/story/news/politics/elections/2026/04/27/ri-political-races-are-bringing-in-endorsements-but-do-they-matter/89588970007/ |website=The Providence Journal |access-date=19 June 2026}}</ref>
+
+;Labor unions
+* [[International Union of Operating Engineers]] Local 57<ref name="Foulkes Unions">https://helenafoulkes.com/endorsements/</ref>
+*Rhode Island [[SEIU]]<ref>{{cite news |last1=Tavares |first1=Jordan |date=July 2, 2026 |title=Rhode Island SEIU endorses Foulkes for governor |url=https://www.wpri.com/news/elections/rhode-island-seiu-endorses-foulkes-for-governor/ |work=WPRI-TV |access-date=August 15, 2026}}</ref>
+* [[Communications Workers of America|Rhode Island Troopers Association]]<ref name="Foulkes Unions"/>
+*[[UNITE HERE]] Local 26<ref>{{cite news |last1=Nesi |first1=Ted |title=Dem city, town chairs endorse Foulkes over McKee in race for governor |url=https://www.wpri.com/news/elections/dem-city-town-chairs-endorse-foulkes-over-mckee-in-race-for-governor/ |access-date=June 15, 2026 |work=[[WPRI-TV]] |date=June 8, 2026}}</ref>
+
+;Organizations
+*[[350.org|Climate Action Rhode Island]]<ref name="CARI">{{cite web |last1=Smith |first1=Rob |title=Environmental Organizations Endorse Foulkes for Governor, Citing Stances on Transit, Electric Rates |url=https://ecori.org/environmental-organizations-endorse-foulkes-for-governor-citing-stances-on-transit-electric-rates/ |website=Eco RI News |access-date=19 August 2026 |date=July 24, 2026}}</ref>
+*[[High School Democrats of America]]<ref>{{cite web |title=We are proud to endorse Helena Buonanno Foulkes for Governor of Rhode Island |url=https://www.facebook.com/hsdems/posts/we-are-proud-to-endorse-helena-buonanno-foulkes-for-governor-of-rhode-island-as-/1491994472968470/ |website=Facebook |publisher=High School Democrats of America |access-date=6 September 2026}}</ref>
+
+;Newspapers
+*''[[The Boston Globe]]''<ref>{{cite web |title=Globe endorses Helena Buonanno Foulkes in R.I. gubernatorial primary |url=https://www.bostonglobe.com/2026/09/01/opinion/rhode-island-governor-endorsement/ |website=The Boston Globe |access-date=6 September 2026 |date=2 September 2026}}</ref>
+}}
+
+{{Endorsements box
+| title = Dan McKee 
+| list =
+;Statewide officials
+*[[Gregg Amore]], [[secretary of state of Rhode Island]] (2023–present)<ref name="LPR87">{{cite web |title=Four Weeks Out, It’s “A Winning Week for Governor McKee” |url=https://lprnews.org/four-weeks-out-its-a-winning-week-for-governor-mckee/ |website=LPR News |access-date=27 August 2026 |date=August 7, 2026}}</ref>
+*[[James Diossa]], [[General Treasurer of Rhode Island|treasurer of Rhode Island]] (2023–present)<ref name="LPR87" />
+*[[Sabina Matos]], [[Lieutenant Governor of Rhode Island|lieutenant governor of Rhode Island]] (2021–present)<ref>{{cite news |last1=Anderson |first1=Patrick |title=How Shekarchi's shadow looms large in the 2026 RI governor's race |url=https://www.providencejournal.com/story/news/politics/2025/01/13/who-will-run-for-rhode-island-governor-2026-dan-mckee-helena-foulkes-joseph-shekarchi/77491510007/ |access-date= January 1, 2026 |work=[[The Providence Journal]] |date=January 13, 2025}}</ref>
+
+;Local officials
+*[[Roberto DaSilva]], mayor of [[East Providence, Rhode Island|East Providence]] (2019–present)<ref name="RI-Current-20260616">{{cite news |last1=Lavin |first1=Nancy |title=Home turf snub for McKee as Cumberland Democrats back Foulkes for governor |url=https://rhodeislandcurrent.com/2026/06/16/home-turf-snub-for-mckee-as-cumberland-democrats-back-foulkes-for-governor/ |access-date=June 30, 2026 |work=Rhode Island Current |date=June 16, 2026 |archive-url=https://web.archive.org/web/20260625163607/https://rhodeislandcurrent.com/2026/06/16/home-turf-snub-for-mckee-as-cumberland-democrats-back-foulkes-for-governor/ |archive-date=June 25, 2026 |url-status=live}}</ref>
+
+;Labor unions
+*[[American Federation of State, County and Municipal Employees]] Rhode Island Council 94<ref name="RICurrent-20260722">{{cite web |last1=Lavin |first1=Nancy |title=McKee picks up union endorsements as Democratic primary countdown continues |url=https://rhodeislandcurrent.com/briefs/mckee-picks-up-union-endorsements-as-democratic-primary-countdown-continues/ |access-date=August 2, 2026 |website=Rhode Island Current |date=July 22, 2026 |archive-url=https://web.archive.org/web/20260801065441/https://rhodeislandcurrent.com/briefs/mckee-picks-up-union-endorsements-as-democratic-primary-countdown-continues/ |archive-date=August 1, 2026 |url-status=live}}</ref>
+*[[National Education Association]] of Rhode Island<ref>{{cite web |last1=Lavin |first1=Nancy |title=McKee picks up second teachers union endorsement |url=https://rhodeislandcurrent.com/2026/07/29/mckee-picks-up-second-teachers-union-endorsement/ |access-date=August 2, 2026 |work=Rhode Island Current |date=July 29, 2026 |archive-url=https://web.archive.org/web/20260801070923/https://rhodeislandcurrent.com/2026/07/29/mckee-picks-up-second-teachers-union-endorsement/ |archive-date=August 1, 2026 |url-status=live}}</ref>
+*[[Operative Plasterers' and Cement Masons' International Association]] Local 40<ref name="OPCMIA">{{cite web |title=Gubernatorial race heats up as endorsements pour in |url=https://turnto10.com/news/local/gubernatorial-race-heats-up-as-endorsements-pour-in-july-29-2026 |website=WJAR 10 |access-date=19 August 2026 |date=July 29, 2026}}</ref>
+*[[North America's Building Trades Unions|Rhode Island Building & Construction Trades Council]]<ref name="LPR87" />
+*[[Rhode Island Federation of Teachers and Health Professionals]]<ref>{{cite web |last1=Lavin |first1=Nancy |title=McKee backed a charter school moratorium. Now a major teachers union has endorsed him. |url=https://rhodeislandcurrent.com/2026/07/27/mckee-backed-a-charter-school-moratorium-now-a-major-teachers-union-has-endorsed-him/ |access-date=August 2, 2026 |work=Rhode Island Current |date=July 27, 2026 |archive-url=https://web.archive.org/web/20260730053815/https://rhodeislandcurrent.com/2026/07/27/mckee-backed-a-charter-school-moratorium-now-a-major-teachers-union-has-endorsed-him/ |archive-date=July 30, 2026 |url-status=live}}</ref>
+*[[International Association of Fire Fighters|Rhode Island State Association of Fire Fighters]]<ref name="LPR87" />
+*[[Teamsters]] Local 251<ref name="RICurrent-20260722" />
+*[[United Food and Commercial Workers]]<ref name="UFCM">{{cite web |last1=Belmore |first1=Ryan |title=Building trades council endorses Matos for re-election as lieutenant governor |url=https://whatsupnewp.com/2026/06/building-trades-council-endorses-matos-for-re-election-as-lieutenant-governor/ |website=What's Up News |access-date=19 August 2026 |date=June 15, 2026}}</ref>
+*[[United Nurses and Allied Professionals]]<ref>{{cite web |title=United Nurses & Allied Professionals Endorses Governor Dan McKee for Re-Election |url=https://lprnews.org/united-nurses-allied-professionals-endorses-governor-dan-mckee-for-re-election/ |website=LPR News |access-date=19 June 2026}}</ref>
+
+;Organizations
+*[[Planned Parenthood]] Votes Rhode Island<ref name="politico-20260808" /><ref>{{cite press release |author=<!-- not stated --> |date=July 23, 2026 |title=Planned Parenthood Votes! Rhode Island PAC Announces 2026 Election Endorsements |url=https://www.plannedparenthoodaction.org/planned-parenthood-votes-rhode-island/news-room/planned-parenthood-votes-rhode-island-pac-announces-2026-election-endorsements |publisher=Planned Parenthood Action |access-date=August 15, 2026}}</ref>
+}}
+
+{{Endorsements box
+| title = Declined to endorse
+| list =
+;Party officials
+*[[Liz Beretta-Perik]], chair of the [[Rhode Island Democratic Party]] (2023–present)<ref name="RIDems" />
+
+;Political parties
+*[[Rhode Island Democratic Party]]<ref name="RIDems">{{cite news |last1=Lavin |first1=Nancy |title=A party divided: RI Dems convention split leaves no endorsements for governor, LG and AG |url=https://rhodeislandcurrent.com/2026/06/22/a-party-divided-ri-dems-convention-split-leaves-no-endorsements-for-governor-lg-and-ag/ |access-date=June 30, 2026 |work=Rhode Island Current |date=June 22, 2026 |archive-url=https://web.archive.org/web/20260625030152/https://rhodeislandcurrent.com/2026/06/22/a-party-divided-ri-dems-convention-split-leaves-no-endorsements-for-governor-lg-and-ag/ |archive-date=June 25, 2026 |url-status=live}}</ref>
+
+;Labor unions
+*[[Rhode Island AFL-CIO]]<ref>{{cite news |last1=Nesi |first1=Ted |title=AFL-CIO won’t endorse for governor, dealing fresh blow to McKee |url=https://www.wpri.com/news/elections/afl-cio-wont-endorse-for-governor-dealing-fresh-blow-to-mckee/ |access-date=July 16, 2026 |work=WPRI-TV |date=July 15, 2026
+}}</ref>
+}}
+
+===Debates and forums===
+{| class="wikitable mw-collapsible" style="text-align:center;"
+|+ class="nowrap" | 2026 Rhode Island Democratic gubernatorial primary debates
+|- style="font-size:small;"
+!scope="col"| {{abbr|No.|Number}}
+!scope="col"| Date
+!scope="col"| Host
+!scope="col"| Moderator
+!scope="col"| Link
+!scope="col" colspan="4"| Participants
+|-
+!colspan="5" rowspan="2" |<!--
+-->{{Colors|black|#90ff90|{{nbsp}}P{{nbsp}}}} <small>Participant </small><!--
+-->{{Colors|black|#ff9090|{{nbsp}}A{{nbsp}}}} <small>Absent </small><!--
+-->{{Colors|black|#A2B2C2|{{nbsp}}N{{nbsp}}}} <small>Non-invitee </small><!--
+-->{{Colors|black|#CCFFCC|{{nbsp}}I{{nbsp}}}} <small>Invitee<!--
+-->{{color box|#f0e68c|W}} Withdrawn</small>
+! scope="col" style="background:#3333FF;"|
+! scope="col" style="background:#3333FF;"|
+|-
+!scope="col"| [[Helena Buonanno Foulkes|Foulkes]]
+!scope="col"| [[Dan McKee|McKee]]
+|-
+|- style="background:#FFFFFF;font-size:small;"
+!scope="row"| 1
+|style="white-space:nowrap;"| Aug 3, 2026
+|style="white-space:nowrap;"| [[WPRO (AM)|WPRO]]
+|style="white-space:nowrap;"| Bill Bartholomew
+|style="white-space:nowrap;"| [[YouTube]]<ref name="83Debate">[https://www.youtube.com/watch?v=ZcjKSFoLodg&t=17s BartholomewTown Candidate Forum Series: RI Governor]</ref>
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+|- style="background:#FFFFFF;font-size:small;"
+|-
+|- style="background:#FFFFFF;font-size:small;"
+!scope="row"| 2
+|style="white-space:nowrap;"| Aug 12, 2026
+|style="white-space:nowrap;"| [[WJAR]]
+|style="white-space:nowrap;"| Gene Valicenti
+|style="white-space:nowrap;"| [[YouTube]]<ref name="812Debate">[https://www.youtube.com/watch?v=J1KS5-XKGxk Election 2026 Debate: Democratic candidates for Rhode Island governor]</ref>
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+|- style="background:#FFFFFF;font-size:small;"
+|-
+|- style="background:#FFFFFF;font-size:small;"
+!scope="row"| 3
+|style="white-space:nowrap;"| Aug 18, 2026
+|style="white-space:nowrap;"| [[WPRI-TV]]<br />[[Rhode Island College]]
+|style="white-space:nowrap;"| Ted Nesi<br />Tim White
+|style="white-space:nowrap;"| [[YouTube]]<ref name="818Debate">[https://www.youtube.com/watch?v=vf3toNyObk8 RI Governor Democratic Primary Debate]</ref>
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+|- style="background:#FFFFFF;font-size:small;"
+|}
+
+===Polling===
+'''Aggregate polls'''<br />
+{| class="wikitable sortable" style="text-align:center;font-size:90%;line-height:17px"
+!Source of poll<br />aggregation
+!Dates<br />administered
+!Dates<br />updated
+! style="width:75px;"| Helena<br />Foulkes
+! style="width:75px;"| Dan<br />McKee
+! style="width:75px;"| Gregory<br />Stevens
+! style="width:75px;"| Other/Undecided<br />{{Efn|Calculated by taking the difference of 100% and all other candidates combined.|name=|group=}}
+!Margin
+|-
+|[[270toWin]]<ref>{{Cite web |title=2026 Polls: Rhode Island Governor |url=https://www.270towin.com/2026-governor-polls/rhode-island |access-date=2026-03-25|website=270toWin.com}}</ref>
+|August 18–27, 2026
+|August 27, 2026
+|{{party shading/Democratic}}|'''49.7%'''
+|25.3%
+|{{sdash}}
+|25.0%
+|{{party shading/Democratic}}|'''Foulkes +24.4%'''
+|-
+|Race to the WH<ref>{{cite web |title=Latest Polling for Governor Races – 2025-2026 |url=https://www.racetothewh.com/governor/26polls |website=Race to the WH |access-date=25 March 2026}}</ref>
+|through August 11, 2026
+|August 19, 2026
+|{{party shading/Democratic}}|'''46.0%'''
+|27.6%
+|1.3%
+|25.1%
+|{{party shading/Democratic}}|'''Foulkes +18.4%'''
+|-
+| colspan="3" |'''Average'''
+|{{party shading/Democratic}}|'''47.9%'''
+|26.5%
+|1.3%
+|24.3%
+|{{party shading/Democratic}}|'''Foulkes +21.4%'''
+|}
+
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|Key:<br />A – all adults<br />RV – registered voters<br />LV – likely voters<br />V – unclear|name="Key"}}
+! Margin<br />of error
+! style="width:75px;"| Helena<br />Foulkes
+! style="width:75px;"| Dan<br />McKee
+! style="width:75px;"| Gregory<br />Stevens
+! Other
+! Undecided
+|-
+| style="text-align:left;"|[[University of New Hampshire]]<ref name=UNHAugust2026>{{cite web |title=Approval of McKee Remains Low, Foulkes Opens Wide Lean in Democratic Rhode Island Gubernatorial Primary |url=https://scholars.unh.edu/cgi/viewcontent.cgi?article=1992&context=survey_center_polls |date=August 27, 2026 |access-date=August 28, 2026}}</ref>
+|August 20–24, 2026
+|451 (LV)
+|±{{nbsp}}4.6%
+|{{party shading/Democratic}}|'''56%'''
+|18%
+|—
+|2%
+|23%
+|-
+| style="text-align:left;"|[[Emerson College]]/[[WPRI-TV]]<ref name=Emerson8.25>{{cite web |title=12 News/Emerson College Poll Results – August 2026 |url=https://www.wpri.com/12-news-emerson-college-poll-results-august-2026 |publisher=[[WPRI-TV]] |access-date=August 25, 2026}}</ref>
+|August 21–22, 2026
+|528 (LV)
+|±{{nbsp}}4.2%
+|{{party shading/Democratic}}|'''45%'''
+|30%
+|—
+|—
+|24%
+|-
+|style="text-align:left;"|Embold Research<ref name="SVUAug2026">{{Cite web|url=https://salve.edu/documents/pell-center-vov-august-2026-report|title=August 2026 Survey Report|first=Katie|last=Sonder|website=[[Salve Regina University]]|date=August 18, 2026|access-date=August 18, 2026}}</ref>{{efn-ua|name=SVU|Poll sponsored by [[Pell Center for International Relations and Public Policy]].}}
+|August 3–11, 2026
+|(LV)
+|—
+|{{party shading/Democratic}}|'''48%'''
+|28%
+|—
+|1%{{Efn|"Would not vote" with 1%}}
+|22%
+|-
+|style="text-align:left;"|Tavern Research (D)<ref>{{Cite web|url=https://www.bostonglobe.com/2026/07/22/metro/mckee-foulkes-union-group-poll/|title=Union-backed group's poll shows Governor McKee closer to Foulkes than in independent polls|first=Edward|last=Fitzpatrick|website=[[The Boston Globe]]|date=July 22, 2026|access-date=July 22, 2026}}</ref>{{efn-ua|name=WRIF|Poll commissioned by Working Rhode Island Forward, which supports McKee}}
+|July 10–14, 2026
+|777 (LV)
+|—
+|{{party shading/Democratic}}|'''39%'''
+|33%
+|—
+|—
+|28%
+|-
+|style="text-align:left;"|[[University of New Hampshire]]<ref name="UNHJune2026">{{Cite web|last1=McKinley|first1=Sean P.|last2=Smith|first2=Andrew E.|last3=Azem|first3=Zachary S.|last4=Keirn|first4=Tracy|date=June 30, 2026|title=Foulkes Continues To Lead Gubernatorial Primary In Rhode Island|url=https://scholars.unh.edu/cgi/viewcontent.cgi?article=1970&context=survey_center_polls|access-date=June 30, 2026|website=[[University of New Hampshire]]}}</ref>
+|June 18–23, 2026
+|337 (LV)
+|±{{nbsp}}5.0%
+|{{party shading/Democratic}}|'''42%'''
+|22%
+|1%
+|4%{{Efn|Gregerson with 1%; "Another candidate" with 3%}}
+|31%
+|-
+| style="text-align:left;"|[[Emerson College]]/[[WPRI-TV]]<ref name=Emerson5.26>{{cite web |title=12 News/Emerson College Poll Results – May 2026 |url=https://www.wpri.com/12-news-emerson-college-poll-results-may-2026/ |publisher=[[WPRI-TV]] |access-date=May 20, 2026}}</ref>
+|May 14–16, 2026
+|565 (LV)
+|±{{nbsp}}4.1%
+|{{party shading/Democratic}}|'''40%'''
+|20%
+|—
+|3%{{efn|name=Another3}}
+|37%
+|-
+| style="text-align:left;"|[[University of New Hampshire]]<ref>{{cite web |title=Reed Comfortably Leads in U.S. Senate Election, Foulkes Expands Lead in RI Gubernatorial Primary |url=https://scholars.unh.edu/cgi/viewcontent.cgi?article=1945&context=survey_center_polls|first1=Sean P.|last1=McKinley|first2=Andrew E.|last2=Smith|first3=Zachary S.|last3=Azem|first4=Tracy|last4=Keirns|website=[[University of New Hampshire]]|date=April 23, 2026|access-date=April 23, 2026}}</ref>
+|April 16–20, 2026
+|327 (LV)
+|±{{nbsp}}5.4%
+|{{party shading/Democratic}}|'''45%'''
+|11%
+|3%
+|2%{{efn|"Another candidate" with 2%}}
+|39%
+|-
+|style="text-align:left;"|Expedition Strategies (D)<ref>{{cite web|title=Poll: Foulkes still ahead of McKee in RI gov primary, but many undecided|first=Ted|last= Nesi|url=https://www.yahoo.com/news/articles/poll-foulkes-still-ahead-mckee-164350417.html|website=Yahoo News|date=April 22, 2026|access-date=April 22, 2026}}</ref>
+|March 24–29, 2026
+|800 (LV)
+|±{{nbsp}}3.5%
+|{{party shading/Democratic}}|'''34%'''
+|20%
+|8%
+|—
+|{{party shading/Undecided}}|'''38%'''
+|-
+| style="text-align:left;"|Concord Public Opinion Partners (D)<ref>{{cite web |title=Rhode Island's race for governor is wide open, a new poll shows|url=https://www.bostonglobe.com/2026/03/24/metro/governors-race-democratic-primary-foukles-mckee-ri/|first1=Dan|last1=McGowan|website=[[The Boston Globe]]|date=March 24, 2026|access-date=March 25, 2026}}</ref>{{efn-ua|name=DFER|Poll sponsored by [[Democrats for Education Reform]]}}
+|February 28, 2026
+|319 (LV)
+|—
+|{{party shading/Democratic}}|'''24%'''
+|15%
+|3%
+|—
+|{{party shading/Undecided}}|'''58%'''
+|-
+| style="text-align:left;"|[[University of New Hampshire]]<ref>{{cite web |title=Foulkes Retains Lead in RI DEM Gubernatorial Primary, McKee Approval Falls to New Low|url=https://scholars.unh.edu/cgi/viewcontent.cgi?article=1931&context=survey_center_polls|first1=Sean P.|last1=McKinley|first2=Andrew E.|last2=Smith|first3=Zachary S.|last3=Azem|first4=Tracy|last4=Keirns|website=[[University of New Hampshire]]|date=February 24, 2026|access-date=February 24, 2026}}</ref>
+|February 12–16, 2026
+|364 (LV)
+|±{{nbsp}}5.1%
+|{{party shading/Democratic}}|'''34%'''
+|18%
+|4%
+|3%{{efn|name=Another3|"Another candidate" with 3%}}
+|{{party shading/Undecided}}|'''40%'''
+|-
+| style="text-align:left;"|[[University of New Hampshire]]<ref>{{cite web |title=Approval of McKee Remains Low in RI, Few Likely Democratic Primary Voters Back Him Against Foulkes|url=https://scholars.unh.edu/cgi/viewcontent.cgi?article=1889&context=survey_center_polls|first1=Sean P.|last1=McKinley|first2=Andrew E.|last2=Smith|first3=Zachary S.|last3=Azem|first4=Tracy|last4=Keirns|website=[[University of New Hampshire]]|date=September 29, 2025|access-date=September 29, 2025}}</ref>
+|September 17–23, 2025
+|275 (LV)
+|±{{nbsp}}5.9%
+|{{party shading/Democratic}}|'''35%'''
+|19%
+|—
+|6%{{efn|"Someone else" with 6%}}
+|{{party shading/Undecided}}|'''40%'''
+|}
+
+<!-- = = = don't edit the line below = = = -->
+{{hidden begin|titlestyle=background:#cff|title=Hypothetical polling|contentstyle=border:solid 1px silver; padding:8px; background:var(--background-color-base); color:var(--color-base);}}
+<!-- = = = don't edit the line above = = = -->
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|Key:<br />A – all adults<br />RV – registered voters<br />LV – likely voters<br />V – unclear|name="Key"}}
+! Margin<br />of error
+! style="width:60px;"| Helena<br />Foulkes
+! style="width:60px;"| Dan<br />McKee
+! style="width:60px;"| Peter<br />Neronha
+! style="width:60px;"| Joe<br />Shekarchi
+! Other
+! Undecided
+|-
+|style="text-align:left;"|[[University of New Hampshire]]<ref name="UNHNov">{{cite web |title=Rhode Island Democratic Gubernatorial Primary Muddied by High Number of Undecided Likely Voters |url=https://scholars.unh.edu/cgi/viewcontent.cgi?article=1911&context=survey_center_polls |first1=Sean P.|last1=McKinley|first2=Andrew E.|last2=Smith|first3=Zachary S.|last3=Azem|first4=Tracy|last4=Keirns|website=[[University of New Hampshire]] |access-date=25 November 2025 |date=24 November 2025}}</ref>
+|November 13–17, 2025
+|364 (LV)
+|±{{nbsp}}5.1%
+|{{Party shading/Democratic}}|'''29%'''
+|11%
+|—
+|13%
+|6%{{efn|'Write in someone else' with 6%}}
+|42%
+|-
+| style="text-align:left;"|[[University of Rhode Island|URI]]/[[YouGov]]<ref>{{cite web |title=McKee leads – just barely – in hypothetical four-way primary race, according to new URI poll|first=Katherine|last=Gregg|url=https://www.providencejournal.com/story/news/politics/2025/09/15/uri-poll-rhode-island-governor-mckee-leads-by-a-hair-hypothetical-four-way-primary-race/86110391007/|website=Providence Journal|date=September 15, 2025|access-date=September 15, 2025}}</ref>
+|August 1–18, 2025
+|500 (A)
+|±{{nbsp}}6.0%
+|14%
+|{{party shading/Democratic}}|'''19%'''
+|15%
+|7%
+|4%
+|{{party shading/Undecided}}|'''41%'''
+|}
+{{hidden end}}
+
+===Results===
+{{Switcher
+|[[File:2026 Rhode Island gubernatorial Democratic primary election results.png|thumb|250px|Primary results by county:
+{{collapsible list
+| title = {{legend|#939fea|Foulkes}}
+|{{legend|#939fea|50–60%}}
+|{{legend|#6575dd|60–70%}}
+|{{legend|#574cdb|70–80%}}
+}}]]
+|Results by county
+|[[File:2026 Rhode Island Democratic gubernatorial primary election results map by municipality.svg|thumb|250px|Primary results by municipality:
+{{collapsible list
+| title = {{legend|#7996E2|Foulkes}}
+|{{legend|#6674DE|60–70%}}
+|{{legend|#584CDE|70–80%}}
+|{{legend|#3933E5|80–90%}}
+}}]]
+|Results by municipality}}
+{{Election box begin no change
+| title = Democratic primary results
+}}
+{{Election box winning candidate with party link no change
+| candidate = [[Helena Foulkes]]
+| party = Democratic Party (United States)
+| votes = 81,314
+| percentage = 62.5
+}}
+{{Election box candidate with party link no change
+| candidate = [[Dan McKee]] (incumbent)
+| party = Democratic Party (United States)
+| votes = 48,872
+| percentage = 37.5
+}}
+{{Election box total no change
+| votes = 130,186
+| percentage = 100.0
+}}
+{{Election box end}}
+
+==Republican primary==
+2022 lieutenant governor nominee Aaron Guckian defeated actress Elaine Pelino for the Republican nomination. Pelino requested a recount, which was approved by the Rhode Island Board of Elections, however it did not change the outcome.<ref>{{Cite web |last=NEWS |first=NBC 10 |date=2026-09-15 |title=Recount does not change outcome of Republican primary in governor's race |url=https://turnto10.com/news/local/officials-begin-recount-of-republican-primary-for-rhode-island-governor-sept-15-2026 |access-date=2026-09-15 |website=WJAR |language=en}}</ref>
+
+===Candidates===
+====Nominee====
+*Aaron Guckian, former chair of the [[Warwick, Rhode Island|Warwick]] Sewer Authority and nominee for lieutenant governor in [[2022 Rhode Island lieutenant gubernatorial election|2022]]<ref name="Pelino"/><ref>{{cite web |title=Republican Guckian Is Running for Governor |url=https://www.golocalprov.com/politics/Republican-Guckian-Is-Running-for-Governor |access-date=November 30, 2025 |work=[[GoLocalProv]] |date=November 30, 2025}}</ref>
+
+====Eliminated in primary====
+*Elaine Pelino, former actress and model<ref name="Pelino">{{cite web |last=Baccari |first=Raymond |url=https://www.wpri.com/news/elections/republican-elaine-pelino-is-running-for-ri-governor-next-year/ |title=Republican Elaine Pelino is running for RI governor next year |date=November 14, 2025|access-date=February 26, 2026|publisher=[[WPRI-TV|WPRI]].com}}</ref>
+
+====Disqualified====
+*Robert Raimondo, businessman and cousin of former Democratic Governor [[Gina Raimondo]]<ref>{{Cite web |last=Allen |first=Christopher |date=November 20, 2025 |title=Robert Raimondo enters R.I. governor's race |url=https://pbn.com/robert-raimondo-enters-r-i-governors-race/ |access-date=November 20, 2025 |website=Providence Business News |language=en-US}}</ref>
+
+====Declined====
+*[[Jessica de la Cruz]], minority leader of the [[Rhode Island Senate]] (2022–present) from the 23rd district (2019–present) ''([[2026 Rhode Island Senate election|running for re-election]])''<ref>{{Cite web |last=Kalunian |first=Kim |last2=Baccari |first2=Raymond |date=2026-01-21 |title=Community Focus: RI Senate Minority Leader Jessica de la Cruz |url=https://www.wpri.com/news/local-news/community-focus/community-focus-ri-senate-minority-leader-jessica-de-la-cruz-3/ |access-date=2026-01-21 |website=WPRI 12 News}}</ref>
+*[[Kenneth Hopkins]], mayor of [[Cranston, Rhode Island|Cranston]] (2021–present)<ref>{{cite web|url=https://www.wpri.com/news/local-news/ted-nesi/nesis-notes-july-19/|title=Nesi's Notes: July 19|last=Nesi|first=Ted|date=July 19, 2025|access-date=July 22, 2025|website=[[WPRI-TV]]}}</ref>
+
+===Endorsements===
+
+{{Endorsements box
+| title = Aaron Guckian
+| list =
+;Organizations
+* [[Rhode Island Republican Party]]<ref>{{cite news |last1=Lavin |first1=Nancy |title=RI GOP endorses Aaron Guckian for governor |url=https://rhodeislandcurrent.com/2026/06/26/ri-gop-endorses-aaron-guckian-for-governor/ |access-date=July 3, 2026 |work=Rhode Island Current |date=June 26, 2026 |archive-url=https://web.archive.org/web/20260630015116/https://rhodeislandcurrent.com/2026/06/26/ri-gop-endorses-aaron-guckian-for-governor/ |archive-date=June 30, 2026 |url-status=live}}</ref>
+}}
+
+===Debates and forums===
+{| class="wikitable mw-collapsible" style="text-align:center;"
+|+ class="nowrap" | 2026 Rhode Island Republican gubernatorial primary debates
+|- style="font-size:small;"
+!scope="col"| {{abbr|No.|Number}}
+!scope="col"| Date
+!scope="col"| Host
+!scope="col"| Moderator
+!scope="col"| Link
+!scope="col" colspan="4"| Participants
+|-
+!colspan="5" rowspan="2" |<!--
+-->{{Colors|black|#90ff90|{{nbsp}}P{{nbsp}}}} <small>Participant </small><!--
+-->{{Colors|black|#ff9090|{{nbsp}}A{{nbsp}}}} <small>Absent </small><!--
+-->{{Colors|black|#A2B2C2|{{nbsp}}N{{nbsp}}}} <small>Non-invitee </small><!--
+-->{{Colors|black|#CCFFCC|{{nbsp}}I{{nbsp}}}} <small>Invitee<!--
+-->{{color box|#f0e68c|W}} Withdrawn</small>
+! scope="col" style="background:#E81B23;"|
+! scope="col" style="background:#E81B23;"|
+|-
+!scope="col"| Guckian
+!scope="col"| Pelino
+|-
+|- style="background:#FFFFFF;font-size:small;"
+!scope="row"| 1
+|style="white-space:nowrap;"| Aug 12, 2026
+|style="white-space:nowrap;"| [[WJAR]]
+|style="white-space:nowrap;"| Gene Valicenti
+|style="white-space:nowrap;"| [[YouTube]]<ref name="812GOPDebate">[https://www.youtube.com/watch?v=wpYTVFNmDO4 Election 2026 Debate: Republican candidates for Rhode Island governor]</ref>
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+|- style="background:#FFFFFF;font-size:small;"
+|}
+
+===Polling===
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"}}
+! Margin<br />of error
+! style="width:75px;"| Aaron<br />Guckian
+! style="width:75px;"| Elaine<br />Pelino
+! style="width:75px;"| Robert<br />Raimondo
+! Other
+! Undecided
+|-
+|style="text-align:left;"|Embold Research<ref name="SVUAug2026"/>{{efn-ua|name=SVU}}
+|August 3–11, 2026
+|(LV)
+|—
+|17%
+|{{party shading/Republican}}|'''37%'''
+|—
+|2%{{Efn|"Write-in" with 2%}}
+|{{party shading/Undecided}}|'''44%'''
+|-
+|style="text-align:left;"|[[University of New Hampshire]]<ref name="UNHJune2026"/>
+|June 18–23, 2026
+|145 (LV)
+|±{{nbsp}}8.1%
+|17%
+|{{party shading/Republican}}|'''42%'''
+|1%
+|1%{{Efn|"Write-in" with 1%}}
+|39%
+|-
+|}
+
+===Results===
+[[File:2026 Rhode Island Republican gubernatorial primary election results map by municipality.svg|thumb|250px|Primary results by municipality:
+{{collapsible list
+| title = {{legend|#E27F7F|Guckian}}
+|{{legend|#E27F7F|50–60%}}
+|{{legend|#D75D5D|60–70%}}
+|{{legend|#D72F30|70–80%}}
+}}
+{{collapsible list
+| title = {{legend|#FF9A50|Pelino}}
+|{{legend|#FF9A50|50–60%}}
+|{{legend|#EE8E50|60–70%}}
+}}
+]]
+{{Election box begin no change
+ | title=Republican primary results}}
+{{Election box winning candidate with party link no change
+ | party=Republican Party (United States)
+ | candidate=Aaron Guckian
+ | votes= 11,691
+ | percentage=50.6
+}}
+{{Election box candidate with party link no change
+ | party=Republican Party (United States)
+ | candidate=Elaine Pelino
+ | votes= 11,432
+ | percentage=49.4
+}}
+{{Election box total no change
+ | votes= 23,123
+ | percentage=100.0}}
+{{Election box end}}
+
+==Independents==
+===Candidates===
+====Declared====
+*[[Ken Block (politician)|Ken Block]], founder of the [[Moderate Party of Rhode Island]], Moderate Party nominee for governor in [[2010 Rhode Island gubernatorial election|2010]] and Republican candidate in [[2014 Rhode Island gubernatorial election|2014]]<ref>{{cite news |title=Ken Block drops into Rhode Island's governor's race as independent |url=https://turnto10.com/politics/ken-block-drops-into-rhode-island-governor-race-independent-democrats-republicans-april-2-2026 |access-date=April 2, 2026 |work=[[WJAR]] |date=April 2, 2026}}</ref>
+*Jasjit Gotra, businessman<ref name="Candidates">{{cite web |title=Candidates for GOVERNOR |url=https://vote.sos.ri.gov/Candidates/CandidateSearchSummary?OfficeType=549&Election=18144 |website=Rhode Island Department of State}}</ref>
+*CD Reynolds, perennial candidate<ref name="Candidates"/>
+
+====Did not qualify====
+*Paul Rianna Jr., independent candidate for governor in [[2022 Rhode Island gubernatorial election|2022]]<ref>{{cite news |title=TGIF: Ian Donnis’ Rhode Island politics roundup for May 8, 2026 |url=https://www.oceanstatemedia.org/tgif-ian-donnis-rhode-island-politics-roundup-for-may-8-2026 |access-date=May 9, 2026 |work=[[Ocean State Media]] |date=May 8, 2026}}</ref>
+*Julian J. Smith, photographer (''previously ran for [[2026 United States House of Representatives elections in Rhode Island#district 1|Rhode Island’s 1st congressional district]]'')<ref>{{Cite web |last=Bessette |first=James |date=2023-06-30 |title=Field for 1st Congressional District seat expands to 35 candidates |url=https://pbn.com/field-for-1st-congressional-district-seat-expands-to-35-candidates/ |access-date=2026-02-22 |website=Providence Business News |language=en-US}}</ref>
+
+====Declined====
+*[[Helena Buonanno Foulkes]], former [[CVS Pharmacy|CVS]] executive, candidate for governor in [[2022 Rhode Island gubernatorial election|2022]], granddaughter of former U.S. senator [[Thomas J. Dodd|Thomas Dodd]] and niece of former U.S. senator [[Chris Dodd]]<ref>{{Cite web |last=Donnis |first=Ian |date=2025-06-03 |title=Six big questions about Rhode Island's 2026 race for governor |url=http://thepublicsradio.org/politics/six-big-questions-about-rhode-islands-2026-race-for-governor/ |access-date=2025-06-05 |website=[[The Public's Radio]] |quote=Via campaign spokesman Jon Romano, Foulkes is ruling out running as an independent |language=en-US}}</ref> ''(running as a Democrat)''<ref name=foulkes/>
+
+== General election ==
+===Predictions===
+{| class="wikitable" style=text-align:center
+!Source
+!Ranking
+!As of
+|-
+|align=left|''[[The Cook Political Report]]''<ref>{{cite web|title=2026 CPR Governor Race ratings|url=https://www.cookpolitical.com/ratings/governor-race-ratings|website=[[The Cook Political Report]]|access-date=January 23, 2025}}</ref>
+|{{USRaceRating|Solid|D}}
+|September 11, 2025
+|-
+|align=left|[[Decision Desk HQ]]<ref name="DDHQ">{{cite web |title=2026 Governor Forecast |url=https://votes.decisiondeskhq.com/forecast/2026/governor |website=Decision Desk HQ |access-date=22 September 2026}}</ref>
+|{{USRaceRating|Safe|D}}
+|September 23, 2026
+|-
+|align=left|[[Fox News]]<ref>{{cite web |title=Fox News Power Rankings: The top races to watch as 36 states choose their next governor |url=https://www.foxnews.com/politics/fox-news-power-rankings-top-races-watch-36-states-choose-next-governor |website=[[Fox News]] |publisher=Rémy Numa |access-date=24 July 2026}}</ref>
+|{{USRaceRating|Solid|D}}
+|July 23, 2026
+|-
+|align=left|''[[Inside Elections]]''<ref>{{Cite web|title=Gubernatorial Ratings|url=https://insideelections.com/ratings/governor|access-date=February 7, 2025|website=[[Inside Elections]]}}</ref>
+|{{USRaceRating|Solid|D}}
+|August 28, 2025
+|-
+|align="left"|[[RealClearPolitics]]<ref>{{Cite web|title=2026 Governor Races {{!}} RealClearPolitics|url=https://www.realclearpolling.com/maps/governor/2026/toss-up|access-date=June 5, 2026|website=[[RealClearPolitics]]|archive-url=https://web.archive.org/web/20260601183127/https://www.realclearpolling.com/maps/governor/2026/toss-up|archive-date=June 1, 2026|url-status=dead}}</ref>
+|{{USRaceRating|Solid|D}}
+|June 5, 2026
+|-
+|align=left|''[[Sabato's Crystal Ball]]''<ref>{{cite web|title=2026 Governor|url=https://centerforpolitics.org/crystalball/2026-governor/|website=[[Sabato's Crystal Ball]]|access-date=May 1, 2025}}</ref>
+|{{USRaceRating|Safe|D}}
+|September 4, 2025
+|-
+| style="text-align: left;" |[[Silver Bulletin]]<ref name=":Silver">{{Cite web |last=Silver |first=Nate |date=2026-08-20 |title=FLIPR 2026 midterm election forecast |url=https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model |url-access=subscription |access-date=2026-08-20 |website=www.natesilver.net |language=en}}</ref>
+| {{US political race rating|Solid|D}}
+|August 25, 2026
+|}
+
+===Endorsements===
+{{Endorsements box
+| title = Ken Block (I) 
+| list =
+;Party officials
+*[[Andrew Yang]], chair of the [[Forward Party (United States)|Forward Party]] (2022–present) and [[Andrew Yang 2020 presidential campaign|2020 presidential candidate]]<ref>{{Cite web|url=https://www.golocalprov.com/politics/block-is-a-true-pioneer-of-the-independent-movement-and-worthy-of-a-nod-for-ri-governor-andrew-yang|title=Andrew Yang — Block Is a True Pioneer of the Independent Movement and Worthy of a Nod for RI Governor|last=Yang|first=Andrew|date=September 27, 2026|access-date=September 29, 2026|website=golocalprov.com}}</ref>
+
+;Political parties
+*[[Forward Party (United States)|Forward Party]]<ref>{{cite web |title=Candidates |url=https://www.forwardparty.com/candidates/ |website=Forward Party |access-date=16 May 2026}}</ref>
+*[[Reform Party of the United States of America|Reform Party]]<ref>{{cite news |last1=Evans |first1=Jordan Willow |title=Reform Party Makes Candidate Endorsements in Rhode Island, Tennessee, and Montana |url=https://independentpoliticalreport.com/2026/08/reform-party-makes-candidate-endorsements-in-rhode-island-tennessee-and-montana/ |access-date=August 26, 2026 |work=[[Independent Political Report]] |date=August 26, 2026}}</ref>
+}}
+{{Endorsements box
+|title=Helena Foulkes (D)
+|list=
+;Organizations
+*[[EMILYs List]]<ref>{{cite web |url=https://emilyslist.org/news/emilys-list-announces-four-new-gubernatorial-endorsements-expanding-its-slate-of-democratic-women-governors/ |title=EMILYs List Announces Four New Gubernatorial Endorsements, Expanding Its Slate of Democratic Women Governors |website=emilyslist.org |date=October 1, 2026 |access-date=October 1, 2026}}</ref>
+}}
+
+===Polling===
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"}}
+! Margin<br />of error
+! style="width:100px;"| Helena<br />Foulkes (D)
+! style="width:100px;"| Aaron<br />Guckian (R)
+! style="width:100px;"| Ken<br />Block (I)
+! Other
+! Undecided
+|-
+|rowspan="2" style="text-align:left;"|Opinion Diagnostics<ref>{{cite web|url=https://www.golocalprov.com/politics/new-blocks-campaign-poll-shows-he-leads-foulkes-head-to-head-in-race-for-gov-guckian-on-track-for-the-worst-gop-result-on-record|title=NEW: Block’s Campaign Poll Shows He Leads Foulkes Head-to-Head in Race for Gov; Guckian on Track for the Worst GOP Result on Record|website=GoLocalProv|date=September 29, 2026|access-date=September 29, 2026}}</ref>{{efn-ua|name=Block}}
+|rowspan="2"|September 23–25, 2026
+|rowspan="2"|800 (LV)
+|rowspan="2"|±{{nbsp}}3.5%
+|{{party shading/Democratic}}|'''41%'''
+|19%
+|24%
+|–
+|16%
+|-
+|39%
+|–
+|{{party shading/Independent}}|'''44%'''
+|colspan="2"| 17%
+|-
+| style="text-align:left;"|[[University of New Hampshire]]<ref>{{cite web|url=https://scholars.unh.edu/survey_center_polls/1009/|title=Democrats Foulkes & Reed Enjoy Wide Leads in Rhode Island While Matos Embattled in Lt. Governor Race|date=September 24, 2026|access-date=September 24, 2026}}</ref>
+|September 17–21, 2026
+|598 (LV)
+|±{{nbsp}}4.0%
+|{{party shading/Democratic}}|'''44%'''
+|17%
+|25%
+|4%{{efn|CD Reynolds and "Another candidate" with 2%; Jasjit Gotra with 0%}}
+|10%
+|-
+|- style="background:lightyellow;"
+| style="border-right-style:hidden; background:lightyellow;" |
+| style="border-right-style:hidden; " | September 9, 2026
+| colspan="16"| Primary elections
+|-
+| style="text-align:left;"|[[University of New Hampshire]]<ref name=UNHAugust2026/>
+|August 20–24, 2026
+|750 (LV)
+|±{{nbsp}}3.6%
+|{{party shading/Democratic}}|'''40%'''
+|15%
+|19%
+|6%{{efn|"Write in someone else" and Jasjit Gotra with 3%; CD Reynolds with 0%}}
+|19%
+|-
+| style="text-align:left;"|[[Emerson College]]/[[WPRI-TV]]<ref name=Emerson8.25/>
+|August 21–22, 2026
+|1,000 (LV)
+|±{{nbsp}}3.0%
+|{{party shading/Democratic}}|'''45%'''
+|18%
+|21%
+|2%
+|14%
+|-
+|style="text-align:left;"|[[University of New Hampshire]]<ref name="UNHJune2026"/>
+|June 18–23, 2026
+|664 (LV)
+|±{{nbsp}}3.9%
+|{{party shading/Democratic}}|'''38%'''
+|22%
+|19%
+|{{sdash}}
+|21%
+|-
+|style="text-align:left;"| Opinion Diagnostics<ref name="OPApr2026"/>{{efn-ua|name=Block}}
+|April 13–16, 2026
+|802 (LV)
+|{{sdash}}
+|{{party shading/Democratic}}|'''33%'''
+|16%
+|18%
+|{{sdash}}
+|{{party shading/Undecided}}|'''33%'''
+|}
+
+<!-- = = = don't edit the line below = = = -->
+{{hidden begin|titlestyle=background:#cff|title=Hypothetical polling|contentstyle=border:solid 1px silver; padding:8px; background:var(--background-color-base); color:var(--color-base);}}
+<!-- = = = don't edit the line above = = = -->
+
+'''Helena Foulkes vs. Elaine Pelino vs. Ken Block'''
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"}}
+! Margin<br />of error
+! style="width:100px;"| Helena<br />Foulkes (D)
+! style="width:100px;"| Elaine<br />Pelino (R)
+! style="width:100px;"| Ken<br />Block (I)
+! Other
+! Undecided
+|-
+| style="text-align:left;"|[[University of New Hampshire]]<ref name=UNHAugust2026/>
+|August 20–24, 2026
+|750 (LV)
+|±{{nbsp}}3.6%
+|{{party shading/Democratic}}|'''42%'''
+|20%
+|18%
+|4%{{efn|"Write in someone else" with 2%; CD Reynolds and Jasjit Gotra with 1%}}
+|17%
+|}
+
+'''Dan McKee vs. Aaron Guckian vs. Ken Block'''
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|Key:<br />A – all adults<br />RV – registered voters<br />LV – likely voters<br />V – unclear|name="Key"}}
+! Margin<br />of error
+! style="width:100px;"| Dan<br />McKee (D)
+! style="width:100px;"| Aaron<br />Guckian (R)
+! style="width:100px;"| Ken<br />Block (I)
+! Other
+! Undecided
+|-
+| style="text-align:left;"|[[University of New Hampshire]]<ref name=UNHAugust2026/>
+|August 20–24, 2026
+|750 (LV)
+|±{{nbsp}}3.6%
+|{{party shading/Democratic}}|'''27%'''
+|17%
+|26%
+|10%{{efn|"Write in someone else" with 6%; Jasjit Gotra with 3%; CD Reynolds with 1%}}
+|20%
+|-
+| style="text-align:left;"|[[Emerson College]]/[[WPRI-TV]]<ref name=Emerson8.25/>
+|August 21–22, 2026
+|1,000 (LV)
+|±{{nbsp}}3.0%
+|{{party shading/Democratic}}|'''36%'''
+|17%
+|26%
+|3%
+|19%
+|-
+|style="text-align:left;"|[[University of New Hampshire]]<ref name="UNHJune2026"/>
+|June 18–23, 2026
+|664 (LV)
+|±{{nbsp}}3.9%
+|{{party shading/Democratic}}|'''27%'''
+|23%
+|{{party shading/Independent}}|'''27%'''
+|{{sdash}}
+|23%
+|-
+|style="text-align:left;"| Opinion Diagnostics<ref name="OPApr2026">{{cite web|url=https://www.golocalprov.com/politics/new-poll-on-governors-race-turns-race-upside-down|title=New Poll on RI's Governor's Race Turns Race Upside Down|website=GoLocalProv|date=April 20, 2026|access-date=April 20, 2026}}</ref>{{efn-ua|name=Block|Poll sponsored by Block's campaign.}}
+|April 13–16, 2026
+|802 (LV)
+|{{sdash}}
+|{{party shading/Democratic}}|'''28%'''
+|15%
+|20%
+|{{sdash}}
+|{{party shading/Undecided}}|'''37%'''
+|}
+
+
+'''Dan McKee vs. Elaine Pelino vs. Ken Block'''
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"}}
+! Margin<br />of error
+! style="width:100px;"| Dan<br />McKee (D)
+! style="width:100px;"| Elaine<br />Pelino (R)
+! style="width:100px;"| Ken<br />Block (I)
+! Other
+! Undecided
+|-
+| style="text-align:left;"|[[University of New Hampshire]]<ref name=UNHAugust2026/>
+|August 20–24, 2026
+|750 (LV)
+|±{{nbsp}}3.6%
+|{{party shading/Democratic}}|'''26%'''
+|19%
+|25%
+|9%{{efn|"Write in someone else" with 5%; Jasjit Gotra with 3%; CD Reynolds with 1%}}
+|20%
+|}
+
+'''Helena Foulkes vs. Republican nominee vs. Ken Block'''
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"}}
+! Margin<br />of error
+! style="width:60px;"| Helena<br />Foulkes (D)
+! style="width:60px;"| Republican<br />nominee
+! style="width:60px;"| Ken<br />Block (I)
+! Other
+! Undecided
+|-
+|style="text-align:left;"|[[University of New Hampshire]]<ref name="UNHJune2026"/>
+|June 18–23, 2026
+|664 (LV)
+|±{{nbsp}}3.9%
+|{{party shading/Democratic}}|'''38%'''
+|22%
+|19%
+|1%{{Efn|"Write in" with 1%}}
+|20%
+|-
+|style="text-align:left;"|[[Emerson College]]/[[WPRI-TV]]<ref name=Emerson5.26/>
+|May 14–16, 2026
+|1,000 (LV)
+|±{{nbsp}}3.0%
+|{{Party shading/Democratic}}|'''39%'''
+|21%
+|19%
+|3%{{efn|"Someone else" with 6%}}
+|19%
+|}
+
+'''Dan McKee vs. Republican nominee vs. Ken Block'''
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"}}
+! Margin<br />of error
+! style="width:60px;"| Dan<br />McKee (D)
+! style="width:60px;"| Republican<br />nominee
+! style="width:60px;"| Ken<br />Block (I)
+! Other
+! Undecided
+|-
+|style="text-align:left;"|[[University of New Hampshire]]<ref name="UNHJune2026"/>
+|June 18–23, 2026
+|664 (LV)
+|±{{nbsp}}3.9%
+|'''27%'''
+|23%
+|'''27%'''
+|2%{{Efn|"Write in" with 2%}}
+|21%
+|-
+|style="text-align:left;"|[[Emerson College]]/[[WPRI-TV]]<ref name=Emerson5.26/>
+|May 14–16, 2026
+|1,000 (LV)
+|±{{nbsp}}3.0%
+|{{Party shading/Democratic}}|'''33%'''
+|23%
+|22%
+|6%{{efn|"Someone else" with 6%}}
+|17%
+|}
+{{hidden end}}
+
+== See also ==
+*[[2026 United States gubernatorial elections]]
+*[[2026 Rhode Island elections]]
+
+==Notes==
+{{notelist}}
+'''Partisan clients'''<br />
+{{notelist-ua}}
+
+==References==
+{{Reflist}}
+
+==External links==
+'''Official campaign websites'''
+*[https://www.blockforgovernor.com/ Ken Block (I)]
+*[https://helenafoulkes.com/ Helena Foulkes (D)]
+*[https://governorgotra.com/ Jasjit Gotra (I)]
+*[https://www.aaronforri.com/ Aaron Guckian (R)]
+
+{{2026 United States elections}}
+
+[[Category:Rhode Island gubernatorial elections]]
+[[Category:2026 Rhode Island elections|Gubernatorial]]
+[[Category:2026 United States gubernatorial elections|Rhode Island]]

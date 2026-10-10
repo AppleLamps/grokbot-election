@@ -1,0 +1,828 @@
+{{pp|small=yes}}
+{{short description|none}}{{for|related races|2026 United States gubernatorial elections}}
+{{Use American English|date=January 2025}}
+<!-- "none" is preferred when the title alone is adequate; see [[WP:SDNONE]] -->
+{{Use mdy dates|date=September 2023}}
+{{Infobox election
+| election_name      = 2026 Oklahoma gubernatorial election
+| country            = Oklahoma
+| type               = presidential
+| ongoing            = yes
+| previous_election  = 2022 Oklahoma gubernatorial election
+| previous_year      = 2022
+| next_election      = 2030 Oklahoma gubernatorial election
+| next_year          = 2030
+| election_date      = November 3, 2026
+| image1             = Mike Mazzei OK Senate Headshot.jpg
+| nominee1           = [[Mike Mazzei]]
+| party1             = Republican Party (United States)
+| running_mate1      = 
+| popular_vote1      = 
+| percentage1        = 
+| image2             = Cyndi Munson.jpg
+| nominee2           = [[Cyndi Munson]]
+| running_mate2      = 
+| party2             = Democratic Party (United States)
+| popular_vote2      = 
+| percentage2        = 
+| title              = [[Governor of Oklahoma|Governor]]
+| before_election    = [[Kevin Stitt]]
+| before_party       = Republican Party (United States)
+| after_election     = 
+| after_party        = 
+}}
+{{ElectionsOK}}
+The '''2026 Oklahoma gubernatorial election''' will take place on November 3, 2026, to elect the next [[governor of Oklahoma]]. [[Republican Party (United States)|Republican]] former state senator [[Mike Mazzei]] and [[Democratic Party (United States)|Democratic]] state representative [[Cyndi Munson]] are the nominees for their respective parties. Incumbent Republican governor [[Kevin Stitt]] is term-limited and cannot seek re-election to a third term in office. Primary elections were held on June 16, 2026, and in races where no candidate receives over 50% of the vote, runoff elections took place on August 25, 2026. Democrats have not won a gubernatorial election in Oklahoma  since [[2006 Oklahoma gubernatorial election|2006]].
+
+==Republican primary==
+===Campaign===
+In August 2023, [[KOSU]] noted that Attorney General [[Gentner Drummond]] had raised significantly more than other statewide elected officials in 2023, fueling rumors of a gubernatorial run.<ref name="Drummond 2023 fundraising">{{cite news |last1=Nissley |first1=Isabel |title=Oklahoma Attorney General raises $225K, topping state officials' campaign contributions |url=https://www.kosu.org/politics/2023-08-08/oklahoma-attorney-general-raises-225k-topping-state-officials-campaign-contributions |access-date=25 August 2023 |work=[[KOSU]] |date=August 8, 2023}}</ref> The same month, ''[[The Black Wall Street Times]]'' reported State Superintendent of Public Instruction [[Ryan Walters (American politician)|Ryan Walters]] was preparing for a 2026 gubernatorial campaign.<ref name="BWST-Walters2023">{{cite news |title=Sources: Ryan Walters mulls bid for governor amid attacks on TPS |url=https://theblackwallsttimes.com/2023/08/07/sources-ryan-walters-mulls-bid-for-governor-amid-attacks-on-tps/ |access-date=25 August 2023 |work=[[The Black Wall Street Times]] |date=August 7, 2023}}</ref> U.S. Representative [[Kevin Hern]] was the first major contender to public acknowledge he was considering a campaign in August 2024, but ruled out a run that December after House Republicans won a narrow majority in the [[2024 United States House of Representatives elections|2024 elections]].<ref>{{cite news |last1=Krehbiel |first1=Randy |title=Could Congressman Kevin Hern be Oklahoma's next governor? |url=https://tulsaworld.com/news/state-regional/government-politics/could-congressman-kevin-hern-be-oklahomas-next-governor/article_dfbf99fe-6585-11ef-a997-3319440d32fb.html |access-date=August 30, 2024 |work=[[Tulsa World]] |date=August 29, 2024 |language=en}}</ref><ref name="Hern decline" /> In early January 2025, former state senator [[Mike Mazzei]] posted a gubernatorial campaign logo to [[Facebook]].<ref name="NOTUS-1">{{Cite news |first1= Reese |last1=Gorman |last2=Luetkemeyer |first2=Em |date=January 12, 2025 |title=Oklahoma Attorney General Prepares to Jump in Governor's Race |url=https://www.notus.org/oklahoma/oklahoma-attorney-general-prepares-governor-race |access-date=January 12, 2025 |work=NOTUS |language=en-US}}</ref>
+
+On January 13, 2025, Drummond announced his campaign for governor. He was the first major candidate to enter the race and the second overall after Leisa Mitchell Haynes.<ref name="DrummondOK" /> On February 18, former Oklahoma House Speaker [[Charles McCall]] officially announced his campaign.<ref name="McCall announce" /> Mazzei officially launched his campaign on April 3.<ref name="ND-M" /> In May, former state senator [[Jake A. Merrick|Jake Merrick]] entered the race followed by businessman Kenneth Sturgell.<ref name="Merrick" /><ref name="Sturgell" /> On October 1, former Governor [[Frank Keating]]'s son, [[Chip Keating]], entered the race.<ref name="Keating announce" />
+
+===Candidates===
+====Nominee====
+*[[Mike Mazzei]], former Oklahoma Secretary of Budget (2019–2020), former [[Oklahoma Senate|state senator]] from the 25th district (2004–2016), and candidate for [[Oklahoma State Treasurer|state treasurer]] in [[2022 Oklahoma State Treasurer election|2022]]<ref>{{cite news |last1=Media |first1=Griffin |title=Oklahoma Governor race: Former State Sen. Mike Mazzei announces candidacy |url=https://www.newson6.com/story/67ea7ca61e03566cb076c088/oklahoma-governor-race-mike-mazzei |access-date=March 31, 2025 |work=[[KOTV-DT]] |date=March 31, 2025 |language=en}}</ref>
+
+====Eliminated in runoff====
+*[[Gentner Drummond]], [[Oklahoma Attorney General]] (2023–present)<ref name="DrummondOK">{{cite news |last1=Evans |first1=Murray |title=AG Gentner Drummond announces bid for Oklahoma governor in 2026 election |url=https://www.oklahoman.com/story/news/politics/state/2025/01/13/oklahoma-elections-gentner-drummond-campaign-governor-2026/77603880007/ |access-date=January 13, 2025 |work=The Oklahoman |date=January 13, 2025}}</ref>
+
+====Eliminated in primary====
+*Jennifer Domenico, small business owner<ref name="filingofficial-April1">{{cite web |title=Candidate filing |url=https://filings.okelections.gov/ViewCandidates/2026040120260403/99/all |website=filings.okelections.gov |publisher=[[Oklahoma State Election Board]] |access-date=April 1, 2026}}</ref>
+*Leisa Mitchell Haynes, former [[Mangum, Oklahoma|Mangum]] City Manager<ref name="DrummondOK" />
+*[[Chip Keating]], former [[Oklahoma Secretary of Public Safety]] (2019–2020) and son of former governor [[Frank Keating]]<ref name="Keating announce">{{cite news |last1=Hoberock |first1=Barbara |title=Chip Keating announces run for Oklahoma governor |url=https://oklahomavoice.com/briefs/chip-keating-announces-run-for-oklahoma-governor/ |access-date=October 1, 2025 |work=Oklahoma Voice |date=October 1, 2025}}</ref>
+*[[Charles McCall]], former [[List of speakers of the Oklahoma House of Representatives|Speaker of the Oklahoma House of Representatives]] (2017–2025) from the 22nd district (2013–2024)<ref name="McCall announce">{{cite news |last1=Carter |first1=M. Scott |title=Former Oklahoma House Speaker Charles McCall announces bid for governor |url=https://www.oklahoman.com/story/news/politics/elections/2025/02/18/charles-mccall-running-for-oklahoma-governor-election-2026/79061233007/ |date=February 18, 2025 |access-date=February 18, 2025 |work=[[The Oklahoman]]}}</ref>
+*[[Jake A. Merrick|Jake Merrick]], former [[Oklahoma Senate|state senator]] from the 22nd district (2021–2022)<ref name="Merrick">{{cite news |last1=Ramos |first1=Lionel |title=Former lawmaker Jake Merrick joins race for Oklahoma Governor |url=https://www.kosu.org/politics/2025-05-01/former-lawmaker-jake-merrick-joins-race-for-oklahoma-governor |access-date=May 1, 2025 |work=[[KOSU]] |date=May 1, 2025 |language=en}}</ref>
+*Kenneth Sturgell, HVAC business owner<ref name="Sturgell">{{cite news |last1=Anderson |first1=Kayden |title=Meet two new Republican candidates in the race for Oklahoma governor |url=https://www.oklahoman.com/story/news/politics/2025/07/10/oklahoma-elections-2026-republican-governor/84520635007/ |access-date=July 22, 2025 |work=[[The Oklahoman]] |date=July 10, 2025 |quote=Former state Sen. Jake Merrick and small business owner Kenneth Sturgell are the most recent candidates to join the race to replace current Gov. Kevin Stitt |archive-url=https://archive.today/20250710150628/https://www.oklahoman.com/story/news/politics/2025/07/10/oklahoma-elections-2026-republican-governor/84520635007/ |archive-date=July 10, 2025}}</ref>
+*Calup Anthony Taylor<ref name="filingofficial-April1" />
+
+====Declined====
+*[[G. T. Bynum]], former [[Mayor of Tulsa]] (2016–2024)<ref>{{cite news |last1=Canfield |first1=Kevin |title=Former Tulsa mayor talks about regrets, bloody primaries and more at Press Club luncheon |url=https://tulsaworld.com/news/local/government-politics/former-tulsa-mayor-talks-about-regrets-bloody-primaries-and-more-at-press-club-luncheon/article_765c62e6-dcf2-11ef-a0f8-d798b23520f7.html |access-date=January 28, 2025 |work=[[Tulsa World]] |date=January 28, 2025 |quote=He is not running for governor. 'I like being married. I choose Susan Bynum over losing in a gubernatorial primary in Oklahoma' |language=en}}</ref>
+*[[Kevin Hern]], [[United States House of Representatives|U.S. representative]] from [[Oklahoma's 1st congressional district]] (2018–present) ''([[2026 United States Senate election in Oklahoma|running for U.S. Senate]])''<ref name="Hern decline">{{cite web|url=https://www.axios.com/2024/12/09/kevin-hern-oklahoma-governor-house-gop-majority|title=House GOP's tiny majority helps kill a bid for governor|last=Solender|first=Andrew|date=December 9, 2024|access-date=December 9, 2024|website=[[Axios (website)|Axios]]}}</ref>
+*[[James Lankford]], [[United States Senate|U.S. Senator]] (2015–present)<ref name="lankford">{{cite news |title='Not Running': US Sen. Lankford Dismisses Rumors Of Running For Oklahoma Governor |url=https://www.news9.com/story/667ad54e988402114dfa111e/not-running:-us-sen-lankford-dismisses-rumors-of-running-for-oklahoma-governor |access-date=November 12, 2024 |work=[[KWTV-DT]] |date=June 25, 2024 |language=en}}</ref>
+*[[Matt Pinnell]], Lieutenant Governor of Oklahoma (2019–present)<ref>{{cite news |last1=Dowers |first1=Graham |title=Lt. Gov. Matt Pinnell announces he will not run for governor |url=https://www.newson6.com/politics/matt-pinnell-not-running-oklahoma-governor |access-date=March 9, 2026 |work=[[KOTV-DT]] |date=March 9, 2026}}</ref>
+
+===First round===
+====Endorsements====
+{{Endorsements box
+|title=Gentner Drummond
+|list=
+;Labor unions
+*Oklahoma City [[International Association of Fire Fighters|Firefighters Association]]<ref name="fire">{{cite news |last1=Krehbiel |first1=Randy |title=Political notebook: Stitt objects to federal plan to bar AI regulation by states |url=https://tulsaworld.com/news/state-regional/government-politics/article_42b13096-3859-4780-8418-d13bcdf3ec06.html |access-date=June 29, 2025 |work=[[Tulsa World]] |date=June 29, 2025}}</ref>
+*Oklahoma [[Fraternal Order of Police]]<ref name="DrummondOK" />
+;Organizations
+*<s>[[National Cattlemen's Beef Association|Oklahoma Cattlemen's Association]]</s><ref>{{cite web |last1=White |first1=Stevie |title=Oklahoma Cattlemen’s Association Endorses Attorney General Gentner Drummond for Governor of Oklahoma - Oklahoma Farm Report |url=https://www.oklahomafarmreport.com/okfr/2025/01/23/oklahoma-cattlemens-association-endorses-attorney-general-gentner-drummond-for-governor-of-oklahoma/ |website=Oklahoma Farm Report |access-date=22 January 2026 |date=23 January 2025}}</ref> ''(endorsement rescinded)''<ref>{{cite web |last1=Davenport |first1=Carli |title=Oklahoma Cattlemens Association Rescinds Endorsement For Drummond Following Policy Meeting - Oklahoma Farm Report |url=https://www.oklahomafarmreport.com/okfr/2026/01/21/oklahoma-cattlemens-association-rescinds-endorsement-for-drummond-following-policy-meeting/ |website=Oklahoma Farm Report |access-date=22 January 2026 |date=21 January 2026}}</ref>
+}}
+{{Endorsements box
+|title=Chip Keating
+|list=
+;Statewide officials
+*[[Kevin Stitt]], [[governor of Oklahoma]] (2019–present)<ref name="StittEndorse">{{cite news |last1=Savage |first1=Tres |title=Mike Mazzei declines TV debate invite for Aug. 25 runoff |url=https://nondoc.com/2026/07/08/mike-mazzei-declines-tv-debate-invite-for-aug-25-runoff/ |access-date=July 8, 2026 |work=NonDoc |date=July 8, 2026}}</ref>
+;Individuals
+*[[Mike Gundy]], former [[Oklahoma State Cowboys football]] coach (2005–2025)<ref>{{cite news |last1=Krehbiel |first1=Randy |title=Political notebook: Stitt navigates difficult week in Washington |url=https://tulsaworld.com/news/state-regional/government-politics/article_675c0e2d-c469-4df5-8ece-f2092b4c2ea3.html |access-date=February 23, 2026 |work=[[Tulsa World]] |date=February 22, 2026 |language=en}}</ref>
+*[[Harold Hamm]], oilman<ref name="Hamm">{{cite news |last1=Pozadas |first1=Victor A. |title=Chip Keating endorsements including from Harold Hamm, Barry Switzer announced at campaign event |url=https://www.newson6.com/oklahoma-elections/oklahoma-governor-chip-keating-endorsements-harold-hamm-barry-switzer |access-date=June 12, 2026 |work=[[KOTV-DT]] |date=June 11, 2026}}</ref>
+*[[Barry Switzer]], former football coach<ref name="Hamm" />
+*[[Bob Stoops]], former football coach<ref name="Hamm" />
+;Organizations
+*[[Oil & Gas Workers Association]]<ref>{{cite web |last1=Bohnen |first1=Jerry |title=Oil and gas workers Endorse Chip Keating for Governor - 2026 |url=https://www.okenergytoday.com/2026/03/ogwa-endorses-chip-keating-governor-oklahoma/ |website=OKEnergyToday |access-date=3 March 2026 |date=2 March 2026}}</ref>
+}}
+{{Endorsements box
+|title=Mike Mazzei
+|list=
+;Executive branch officials
+*[[Donald Trump]], 45th and 47th [[President of the United States]] (2017–2021, 2025–present)<ref>{{cite news |last1=Hill |first1=April |title=President Donald Trump endorses an Oklahoma gubernatorial candidate |url=https://krmg.com/2026/05/29/president-donald-trump-endorses-and-oklahoma-gubernatorial-candidate/ |access-date=May 29, 2026 |work=[[KRMG-FM]] |date=May 29, 2025 |language=en}}</ref>
+
+;U.S. representatives
+*[[Josh Brecheen]], {{ushr|OK|2|OK-02}} (2023–present)<ref>{{cite news |last1=Krehbiel |first1=Randy |title=Political notebook: Republican lawmakers sign oil and gas industry letter |url=https://tulsaworld.com/news/state-regional/government-politics/article_d62e3151-97b5-4ad5-8202-8af487b83a1f.html |access-date=April 7, 2025 |work=[[Tulsa World]] |date=April 6, 2025 |language=en}}</ref>
+*[[David McIntosh (politician)|David McIntosh]], former [[IN-2]] (1995–2001)<ref name="CFG">{{cite web|url=https://www.clubforgrowth.org/club-for-growth-pac-endorses-mike-mazzei-in-ok-gov-race/|title=Club for Growth PAC Endorses Mike Mazzei in OK-GOV Race|last=Mitola|first=Will|date=June 22, 2026|access-date=September 15, 2026}}</ref>
+
+;Statewide officials
+*[[Sean Kouplen]], former [[Oklahoma Secretary of Commerce|secretary of commerce of Oklahoma]] (2019–2021)<ref name="ND-M" />
+*[[John M. O'Connor|John O'Connor]], former [[Oklahoma Attorney General|attorney general of Oklahoma]] (2021–2023)<ref>{{cite news |last1=Krehbiel |first1=Randy |title=Political notebook: Oklahoma's child and maternal mortality rates among nation's worst |url=https://tulsaworld.com/news/state-regional/government-politics/article_3996874d-8125-482b-b7e9-32a64faa48e0.html |access-date=October 5, 2025 |work=[[Tulsa World]] |date=October 5, 2025 |language=en}}</ref>
+
+;State legislators
+*[[Gary Stanislawski]], former [[Oklahoma Senate|state senator]] from the 35th district (2008–2021)<ref name="ND-M">{{cite news |last1=Loveless |first1=Tristan |title=Mike Mazzei kicks off gubernatorial campaign with U.S. Rep. Brecheen's endorsement |url=https://nondoc.com/2025/04/04/mike-mazzei-kicks-off-gubernatorial-campaign-with-u-s-rep-brecheens-endorsement/ |access-date=April 7, 2025 |work=NonDoc |date=April 4, 2025}}</ref>
+
+;Individuals
+*[[Roger Stone]]<ref>{{cite news |last1=Savage |first1=Tres |title='Tremendous honor': Donald Trump endorses Mike Mazzei for governor of Oklahoma |url=https://nondoc.com/2026/05/29/tremendous-honor-donald-trump-endorses-mike-mazzei-for-governor-of-oklahoma/ |access-date=May 30, 2026 |work=NonDoc |date=May 29, 2026}}</ref>
+
+;Organizations
+*[[Club for Growth]] PAC<ref name="CFG"/>
+}}
+{{Endorsements box
+|title=Jake Merrick
+|list=
+;State legislators
+*[[Shane Jett]], [[Oklahoma Senate|state senator]] from the 17th district (2021–present)<ref name="Merrick" />
+*[[Jim Shaw (Oklahoma politician)|Jim Shaw]], [[Oklahoma House of Representatives|state representative]] from the 32nd district (2024–present)<ref name="Merrick" />
+}}
+{{Endorsements box
+|title=Declined to endorse
+|list=
+;U.S. representatives
+*[[Tom Cole]], {{ushr|OK|4|OK-04}} (2003–present)<ref name="No endorse">{{cite news |last1=Luetkemeyer |first1=Em |title=Federal Lawmakers are Steering Clear of State Politics When It Comes to the Gubernatorial Race |url=https://oklahomawatch.org/2025/06/12/federal-lawmakers-are-steering-clear-of-state-politics-when-it-comes-to-the-gubernatorial-race/ |access-date=June 12, 2025 |work=[[Oklahoma Watch]] |date=June 12, 2025}}</ref>
+*[[Kevin Hern]], {{ushr|OK|1|OK-01}} (2018–present)<ref name="No endorse" />
+*[[Frank Lucas (Oklahoma politician)|Frank Lucas]], {{ushr|OK|3|OK-03}} (2003–present)<ref name="No endorse" />
+
+;Statewide officials
+*<s>[[Kevin Stitt]], [[governor of Oklahoma]] (2019–present)</s><ref name="KOCO 11.24.25">{{cite news |last1=Hickey |first1=Olivia |title=Gov. Kevin Stitt weighs in on crowded gubernatorial race, says he won't back AG Drummond |url=https://www.koco.com/article/kevin-stitt-governors-gubernatorial-race-ag-gentner-drummond/69533056 |access-date=November 25, 2025 |work=[[KOCO-TV]] |date=November 24, 2025 |language=en}}</ref>
+}}
+
+====Polling====
+{|class="wikitable" style="font-size:90%;text-align:center;"
+|- style="vertical-align:bottom"
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|Key:<br />A – all adults<br />RV – registered voters<br />LV – likely voters<br />V – unclear|name="Key"}}
+! Margin<br />{{nowrap|of error}}
+! style="width:60px;"|Gentner<br />Drummond
+! style="width:60px;"|Chip<br />Keating
+! style="width:60px;"|Mike<br />Mazzei
+! style="width:60px;"|Jake<br />Merrick
+! style="width:60px;"|Charles<br />McCall
+! Other
+! Undecided
+|-
+|style="text-align:left;"|JMC Analytics (R)<ref>{{cite web|url=https://winwithjmc.com/wp-content/uploads/2026/06/JMC-OK-GOP-Primary-June-2-3-2026-Toplines.pdf|title=OK-Statewide-JMC Analytics-RepPrimary-2026-06-02|work=JMC Analytics|date=June 4, 2026|access-date=June 4, 2026}}</ref>
+|June 2–3, 2026
+|550 (LV)
+|±&nbsp;4.2%
+|{{party shading/Republican}}|'''21%'''
+|12%
+|{{party shading/Republican}}|'''26%'''
+|12%
+|8%
+|4%{{efn|Jennifer Domenico with 2%; Leisa Haynes and Kenneth Sturgell with 1%; Calup Taylor with 0%}}
+|17%
+|-
+|- style="background:lightyellow;"
+| style="border-right-style:hidden; background:lightyellow;" |
+| style="border-right-style:hidden; " | May 29, 2026
+| colspan="10" | Trump endorses Mazzei
+|-
+|style="text-align:left;"|Pulse Decision Science (R)<ref name="PulseMay2026">{{cite web|url=https://www.clubforgrowth.org/wp-content/uploads/securepdfs/2026/05/CfG_OK-Gov_PrimaryBrushfire_PollingMemo_V3.pdf|title=Recent Pulse poll shows that Gentner Drummond's image is now 13-points net-negative and his lead in the Republican primary for governor has evaporated|first1=Bryon|last1=Allen|work=Pulse Decision Science|date=May 29, 2026|access-date=May 31, 2026}}</ref>{{efn-ua|name=CFG|Poll sponsored by [[Club for Growth]], which opposes Drummond}}
+|May 26–28, 2026
+|608 (LV)
+|±&nbsp;4.0%
+|{{party shading/Republican}}|'''24%'''
+|17%
+|{{party shading/Republican}}|'''22%'''
+|–
+|12%
+|12%{{efn|"5 others combined" with 12%}}
+|13%
+|-
+|style="text-align:left;"|NonDoc Media<ref name="NonDoc">{{cite web |title=2026 GOP State Election Survey |url=https://nondoc.com/wp-content/uploads/2026/05/NDM-survey-_Toplines_-May-2026-GOP-primary-and-AI-use.pdf |website=NonDoc Media |access-date=26 May 2026 |date=May 26, 2026}}</ref>
+|May 21–25, 2026
+|457 (RV)
+|–
+|{{party shading/Republican}}|'''22%'''
+|21%
+|{{party shading/Republican}}|'''22%'''
+|7%
+|18%
+|10%{{efn|Kenneth Sturgell with 3%; Jennifer Domenico with 3%; Leisa Haynes with 2%; Calup Taylor with 1%}}
+|–
+|-
+|style="text-align:left;"|Pulse Decision Science (R)<ref name="PulseMay2026"/>{{efn-ua|name=CFG}}
+|April 7–9, 2026
+|– (LV)
+|–
+|{{party shading/Republican}}|'''33%'''
+|{{party shading/Republican}}|'''21%'''
+|15%
+|–
+|12%
+|8%{{efn|"5 others combined" with 8%}}
+|11%
+|-
+|style="text-align:left;"|Cole Hargrave Snodgrass & Associates (R)<ref>{{cite web|url=https://chs-inc.com/ok-gubernatorial-2026/|title=Drummond Holding Steady|first1=Pat|last1=McFerron|website=Cole Hargrave Snodgrass & Associates|date=February 9, 2026|access-date=February 10, 2026}}</ref>
+|January 26–30, 2026
+|600 (LV)
+|±&nbsp;4.3%
+|{{party shading/Republican}}|'''36%'''
+|13%
+|13%
+|5%
+|{{party shading/Republican}}|'''14%'''
+|–
+|19%
+|-
+|style="text-align:left;"|yes. every kid.<ref>{{cite web |last1=Murray |first1=Nick |title=Oklahoma Republicans Want More Education Freedom and Will Reward Leaders Who Deliver |url=https://yeseverykidfoundation.org/oklahoma-republicans-want-more-education-freedom-and-will-reward-leaders-who-deliver/ |website=yes. every kid. foundation. |access-date=18 November 2025 |date=17 November 2025}}</ref>
+|October 29–31, 2025
+|513 (LV)
+|±&nbsp;4.3%
+|{{party shading/Republican}}|'''22%'''
+|7%
+|2%
+|2%
+|{{party shading/Republican}}|'''22%'''
+|1%{{efn|"Someone else" with 1%}}
+|{{party shading/Undecided}}|'''44%'''
+|-
+|style="text-align:left;"|co/efficient (R)<ref>{{cite news |title=Oklahoma Gubernatorial 2026 Republican Primary |url=https://coefficient.org/our-work/oklahoma-governor-gop-primary-oct-2025/ |access-date=October 28, 2025 |work=co/efficient |date=October 30, 2025}}</ref>
+|October 25–27, 2025
+|855 (LV)
+|±&nbsp;3.2%
+|{{party shading/Republican}}|'''20%'''
+|5%
+|1%
+|3%
+|{{party shading/Republican}}|'''31%'''
+|3%{{efn|"Someone else" with 3%}}
+|{{party shading/Undecided}}|'''38%'''
+|-
+|style="text-align:left;"|Stratus Intelligence (R)<ref>{{cite news |title=New Poll Shows Charles McCall Leading GOP Primary |url=https://theokpost.com/news/new-poll-shows-charles-mccall-leading-gop-primary/2025/10/22/ |first1=Robbie |last1=Robertson |access-date=October 23, 2025 |work=The Oklahoma Post |date=October 22, 2025}}</ref>{{efn-ua|name=McCall}}
+|October 15–17, 2025
+|806 (LV)
+|±&nbsp;3.5%
+|{{party shading/Republican}}|'''30%'''
+|7%
+|1%
+|4%
+|{{party shading/Republican}}|'''32%'''
+|–
+|{{party shading/Undecided}}|'''19%'''
+|-
+|style="text-align:left;"|Stratus Intelligence (R)<ref>{{cite news |title=Numbers Game: Drummond, McCall, and the road to the 2026 Oklahoma Governor election |url=https://www.readfrontier.org/stories/numbers-game-drummond-mccall-and-the-road-to-the-2026-oklahoma-governor-election/ |access-date=October 19, 2025 |work=[[The Frontier (website)|The Frontier]] |date=October 8, 2025}}</ref>{{efn-ua|name=McCall|Poll sponsored by McCall's campaign}}
+|September 23–25, 2025
+|–
+|±&nbsp;3.5%
+|{{party shading/Republican}}|'''35%'''
+|–
+|–
+|–
+|{{party shading/Republican}}|'''33%'''
+|–
+|{{party shading/Undecided}}|'''32%'''
+|-
+|style="text-align:left;"|Cole Hargrave Snodgrass & Associates (R)<ref name="CHSAug2025">{{cite web |last1=McFerron |first1=Pat |title=Drummond Expands Lead |url=https://chs-inc.com/2026-gubernatorial-drummond/ |website=Cole Hargrave Snodgrass & Associates |access-date=August 26, 2025 |date=August 25, 2025}}</ref>
+|August 4–10, 2025
+|400 (LV)
+|±&nbsp;4.3%
+|{{party shading/Republican}}|'''48%'''
+|4%
+|2%
+|4%
+|{{party shading/Republican}}|'''10%'''
+|–
+|{{party shading/Undecided}}|'''33%'''
+|-
+|style="text-align:left;"|Victory Insights (R)<ref>{{cite web |title=OKLAHOMA GOVERNOR POLL: Gentner Drummond Dominates the Republican Primary Field |url=https://irp.cdn-website.com/07e08705/files/uploaded/PollReport_OK-2026_2-26-25.pdf |work=Victory Insights |access-date=February 27, 2025 |date=February 27, 2025}}</ref>{{Efn-ua|Poll sponsored by the Calvin Coolidge Project}}
+|February 23–25, 2025
+|506 (LV)
+|–
+|{{party shading/Republican}}|'''37%'''
+|3%
+|1%
+|–
+|{{party shading/Republican}}|'''6%'''
+|–
+|{{party shading/Undecided}}|'''52%'''
+|-
+|style="text-align:left;"|Cole Hargrave Snodgrass & Associates (R)<ref name="CHSFeb2025">{{cite web |last1=McFerron |first1=Pat |title=First Look at the 2026 Governor's Contest |url=https://chs-inc.com/2026-gov-contest/ |website=Cole Hargrave Snodgrass & Associates |access-date=February 18, 2025 |date=February 18, 2025}}</ref>
+|February 10–15, 2025
+|500 (RV)
+|±&nbsp;4.3%
+|{{party shading/Republican}}|'''50%'''
+|7%
+|–
+|–
+|7%
+|–
+|37%
+|}
+
+<!-- = = = don't edit the line below = = = -->
+{{hidden begin|titlestyle=background:#cff|title=Hypothetical polling|contentstyle=border:solid 1px silver; padding:8px; background:var(--background-color-base); color:var(--color-base);}}
+<!-- = = = don't edit the line above = = = -->
+'''with Ryan Walters'''<br />
+{|class="wikitable" style="font-size:90%;text-align:center;"
+|- style="vertical-align:bottom"
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"}}
+! Margin<br />of error
+! style="width:60px;"|Gentner<br />Drummond
+! style="width:60px;"|Chip<br />Keating
+! style="width:60px;"|Mike<br />Mazzei
+! style="width:60px;"|Jake<br />Merrick
+! style="width:60px;"|Charles<br />McCall
+! style="width:60px;"|Matt<br />Pinnell
+! style="width:60px;"|Ryan<br />Walters
+! Undecided
+|-
+|style="text-align:left;"|Cole Hargrave Snodgrass & Associates (R)<ref name="CHSAug2025"/>
+|August 4–10, 2025
+|500 (RV)
+|±&nbsp;4.3%
+|{{party shading/Republican}}|'''43%'''
+|4%
+|2%
+|3%
+|{{party shading/Republican}}|'''8%'''
+|–
+|{{party shading/Republican}}|'''8%'''
+|{{party shading/Undecided}}|'''33%'''
+|-
+|style="text-align:left;"| Cole Hargrave Snodgrass & Associates (R)<ref>{{cite web |last1=McFerron |first1=Pat |title=Drummond Maintains Lead over Walters |url=https://chs-inc.com/2026-drummond-walters/ |website=Cole Hargrave Snodgrass & Associates |access-date=June 6, 2025}}</ref>
+|May 5–9, 2025
+|500 (RV)
+|±&nbsp;4.3%
+|{{party shading/Republican}}|'''39%'''
+|3%
+|1% 
+|1% 
+|5%
+|10%
+|{{party shading/Republican}}|'''12%'''
+|{{party shading/Undecided}}|'''31%'''
+|-
+|style="text-align:left;" rowspan="2"|Cole Hargrave Snodgrass & Associates (R)<ref name="CHSFeb2025"/>
+|February 10–15, 2025
+|500 (RV)
+|±&nbsp;4.3%
+|{{party shading/Republican}}|'''44%'''
+|6%
+|–
+|–
+|5%
+|–
+|{{party shading/Republican}}|'''14%'''
+|{{party shading/Undecided}}|'''32%'''
+|}
+{{Hidden end}}
+==== Debate and forum ====
+{| class="wikitable" style="text-align:center;"
+|+ 2026 Oklahoma gubernatorial election Republican primary debate and candidate forum
+|-
+! scope="col" | {{abbr|No.|Number}}
+! scope="col" | Date
+! scope="col" | Host
+! scope="col" | Moderator
+! scope="col" | Link
+! scope="col"| <small>[[Republican Party (US)|Republican]]</small>
+! scope="col"| <small>[[Republican Party (US)|Republican]]</small>
+! scope="col"| <small>[[Republican Party (US)|Republican]]</small>
+! scope="col"| <small>[[Republican Party (US)|Republican]]</small>
+|-
+! colspan="5" rowspan="2" |Key:<br>{{Colors|black|#90ff90|&nbsp;P&nbsp;}} <small>Participant&nbsp;</small> {{Colors|black|#FFFFDD|&nbsp;A&nbsp;}} <small>Absent&nbsp;</small> {{Colors|black|#ff9090|&nbsp;N&nbsp;}} <small>Not invited&nbsp;</small> {{Colors|black|#CCFFCC|&nbsp;I&nbsp;}} <small>Invited {{color box|#f0e68c|W}} Withdrawn</small>
+! scope="col" style="background:{{party color|Republican Party (US)}}"|
+! scope="col" style="background:{{party color|Republican Party (US)}}"|
+! scope="col" style="background:{{party color|Republican Party (US)}}"|
+! scope="col" style="background:{{party color|Republican Party (US)}}"|
+|-
+! scope="col" | [[Gentner Drummond]]
+! scope="col" | [[Chip Keating]]
+! scope="col" | [[Mike Mazzei]]
+! scope="col" | [[Charles McCall]]
+|-
+!1
+| style="white-space:nowrap;" | Apr. 6, 2026
+| style="white-space:nowrap;" | Oklahoma's Own Politics<br>[[Oklahoma Hospital Association]]
+| style="white-space:nowrap;" | Jonathan Cooper<br>Haley Hetrick
+| style="white-space:nowrap;" | [https://www.youtube.com/watch?v=H5kMDvgW3Dc YouTube]
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+|-
+!2
+| style="white-space:nowrap;" | May 28, 2026
+| style="white-space:nowrap;" | [[KSWO-TV]]<br>NonDoc
+| style="white-space:nowrap;" | Jennah James<br>Tres Savage
+| style="white-space:nowrap;" | [https://www.youtube.com/watch?v=Z1dHIAKW12g YouTube]
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+|}
+
+====Results====
+[[File:2026 Oklahoma gubernatorial Republican primary election results map by county.svg|thumb|300px|Primary results by county:
+{{collapsible list
+| title = {{legend|#ed8783|Drummond}}
+| {{legend|#fdeeee|20–30%}}
+| {{legend|#fbdedd|30–40%}}
+}}
+{{collapsible list
+| title = {{legend|#81d0d0|Mazzei}}
+| {{legend|#ecfafa|20–30%}}
+| {{legend|#daf5f5|30–40%}}
+}}
+{{collapsible list
+| title = {{legend|#87be51|Keating}}
+| {{legend|#eef8e4|20–30%}}
+| {{legend|#ddf0ca|30–40%}}
+}}
+{{collapsible list
+| title = {{legend|#c0a32f|Merrick}}
+| {{legend|#f8f2de|20–30%}}
+| {{legend|#f0e6be|30–40%}}
+| {{legend|#d7c477|40–50%}}
+}}
+{{collapsible list
+| title = {{legend|#8e8ee3|McCall}}
+| {{legend|#eeeefd|20–30%}}
+| {{legend|#dedefb|30–40%}}
+| {{legend|#b5b5ed|40–50%}}
+| {{legend|#6767d8|60–70%}}
+}}
+]]
+
+<!-- Needs source/proof of data being accurate in file description [[File:2026 Oklahoma gubernatorial Republican primary election results map.svg|thumb|350px|Results by precinct:
+{{collapsible list
+| title = {{legend|#E27F90|Drummond}}
+| {{legend|#FFDFE1|20–30%}}
+| {{legend|#FFCCD0|30–40%}}
+| {{legend|#F2B3BE|40–50%}}
+| {{legend|#E27F90|50–60%}}
+| {{legend|#CC2F4A|60–70%}}
+| {{legend|#D40000|70–80%}}
+}}
+{{collapsible list
+| title = {{legend|#FFB380|Mazzei}}
+| {{legend|#FEEFDF|20–30%}}
+| {{legend|#FEE5D5|30–40%}}
+| {{legend|#FFCCAA|40–50%}}
+| {{legend|#FFB380|50–60%}}
+| {{legend|#FF7F2A|70–80%}}
+| {{legend|#D45500|90–100%}}
+}}
+{{collapsible list
+| title = {{legend|#2CA089|Keating}}
+| {{legend|#AFE9DD|20–30%}}
+| {{legend|#87DECD|30–40%}}
+| {{legend|#5FD3BC|40–50%}}
+| {{legend|#2CA089|50–60%}}
+| {{legend|#0B2822|80–90%}}
+| {{legend|#051411|90–100%}}
+}}
+{{collapsible list
+| title = {{legend|#5FD35F|Merrick}}
+| {{legend|#C0F0C0|20–30%}}
+| {{legend|#AAE5AA|30–40%}}
+| {{legend|#87DE87|40–50%}}
+| {{legend|#5FD35F|50–60%}}
+| {{legend|#37C837|60–70%}}
+}}
+{{collapsible list
+| title = {{legend|#B380FF|McCall}}
+| {{legend|#EEDCFF|20–30%}}
+| {{legend|#E6CDFF|30–40%}}
+| {{legend|#CCAAFF|40–50%}}
+| {{legend|#B380FF|50–60%}}
+| {{legend|#9955FF|60–70%}}
+| {{legend|#7A44CC|70–80%}}
+| {{legend|#5C3399|80–90%}}
+| {{legend|#3D2266|90–100%}}
+}}
+{{collapsible list
+| title = {{legend|#BDBDBD|Other (4 candidates)}}
+| {{legend|#EDEDED|20–30%}}
+| {{legend|#D9D9D9|40–50%}}
+}}
+]] -->
+
+{{Election box begin no change
+ | title=Republican primary results<ref name="June results">{{cite web |title=Oklahoma Unofficial Results |url=https://results.okelections.gov/OKER/?elecDate=20260616 |website=results.okelections.gov |publisher=[[Oklahoma State Election Board]] |access-date=June 17, 2026}}</ref>}}
+{{Election box winning candidate with party link no change
+ | party=Oklahoma Republican Party
+ | candidate= [[Gentner Drummond]]
+ | votes= 105,832
+ | percentage= 26.3
+}}
+{{Election box winning candidate with party link no change
+ | party=Oklahoma Republican Party
+ | candidate= [[Mike Mazzei]]
+ | votes= 104,691
+ | percentage= 26.0
+}}
+{{Election box candidate with party link no change
+ | party=Oklahoma Republican Party
+ | candidate= [[Chip Keating]]
+ | votes= 74,379
+ | percentage= 18.5
+}}
+{{Election box candidate with party link no change
+ | party=Oklahoma Republican Party
+ | candidate= [[Jake A. Merrick]]
+ | votes= 58,341
+ | percentage= 14.5
+}}
+{{Election box candidate with party link no change
+ | party=Oklahoma Republican Party
+ | candidate= [[Charles McCall]]
+ | votes= 47,519
+ | percentage= 11.8
+}}
+{{Election box candidate with party link no change
+ | party=Oklahoma Republican Party
+ | candidate= Leisa Mitchell Haynes
+ | votes= 4,121
+ | percentage= 1.0
+}}
+{{Election box candidate with party link no change
+ | party=Oklahoma Republican Party
+ | candidate= Jennifer Domenico 
+ | votes= 3,796
+ | percentage= 0.9
+}}
+{{Election box candidate with party link no change
+ | party=Oklahoma Republican Party
+ | candidate= Kenneth Sturgell
+ | votes= 2,935
+ | percentage= 0.7
+}}
+{{Election box candidate with party link no change
+ | party=Oklahoma Republican Party
+ | candidate= Calup Anthony Taylor
+ | votes= 1,485
+ | percentage= 0.4
+}}
+{{Election box total no change
+ | votes= 403,099
+ | percentage=100.0}}
+{{Election box end}}
+
+===Runoff===
+====Endorsements====
+<!---- Please only include endorsements made during the runoff in this section ---->
+{{Endorsements box
+|title=Gentner Drummond
+|list=
+;State legislators
+*[[Trey Caldwell (politician)|Trey Caldwell]], state representative<ref name="TW-6.29.26">{{cite news |last1=Krehbiel |first1=Randy |title=Political notebook: Health Care Authority says no provider cuts |url=https://tulsaworld.com/news/state-regional/government-politics/article_33daafec-7fde-4958-9565-62594cfd3404.html |access-date=June 29, 2026 |work=[[Tulsa World]] |date=June 29, 2026 |language=en}}</ref>
+*[[Mike Kelley (Oklahoma politician)|Mike Kelley]], state representative<ref name="TW-8.2.26" />
+*[[Spencer Kern]], state senator<ref name="TW-8.2.26">{{cite news |last1=Krehbiel |first1=Randy |title=Political notebook: Data center power plants ruled exempt from acid rain rules |url=https://tulsaworld.com/news/state-regional/government-politics/article_898e5bb6-bd6e-496c-93ab-1574d3db41ea.html |access-date=August 3, 2026 |work=[[Tulsa World]] |date=August 2, 2026 |language=en}}</ref>
+*[[Mark Lawson (politician)|Mark Lawson]], House Majority Leader<ref name="TW-7.26.26">{{cite news |last1=Krehbiel |first1=Randy |title=Political notebook: Another Oklahoma legislator under investigation |url=https://tulsaworld.com/news/state-regional/government-politics/article_ba51a8e8-d1be-420e-9135-73738d5e4ac8.html |access-date=July 27, 2026 |work=[[Tulsa World]] |date=July 26, 2026 |language=en}}</ref>
+*[[Dick Lowe (politician)|Dick Lowe]], state representative<ref name="TW-7.16.26">{{cite news |last1=Krehbiel |first1=Randy |title=Trump reiterates Mazzei endorsement for governor, calls Drummond 'RINO' |url=https://tulsaworld.com/news/state-regional/government-politics/elections/article_d354c0d1-7bab-4176-8514-916688ff1f4e.html |access-date=July 18, 2026 |work=[[Tulsa World]] |date=July 16, 2026 |language=en}}</ref>
+*[[Anthony Moore (politician)|Anthony Moore]], speaker pro-tempore<ref>{{cite news |title=Oklahoma House Speaker Pro Tem Anthony Moore Endorses Gentner Drummond for Governor |url=https://www.kecofm.com/featured/oklahoma-house-speaker-pro-tem-anthony-moore-endorses-gentner-drummond-for-governor/ |access-date=July 19, 2026 |work=[[KECO]] |date=July 6, 2026}}</ref>
+*[[Daniel Pae]], state representative<ref name="TW-6.29.26" />
+*[[Paul Rosino]], state senator<ref name="TW-8.2.26" />
+*[[Brenda Stanley]], state senator<ref name="TW-8.16.26" />
+;County officials
+*Terry Park, [[Choctaw County, Oklahoma|Choctaw County]] sheriff<ref name="TW-8.2.26" />
+}}
+{{Endorsements box
+|title=Mike Mazzei
+|list=
+;Federal executive officials
+*[[Markwayne Mullin]], Secretary of Homeland Security and former U.S. senator from Oklahoma<ref>{{cite news |last1=Hancock |first1=Andrea |title='Edge of your seats': Trump support propels Mike Mazzei past Gentner Drummond |url=https://nondoc.com/2026/08/25/edge-of-your-seats-trump-support-propels-mike-mazzei-past-gentner-drummond/ |access-date=August 26, 2026 |work=NonDoc |date=August 26, 2026}}</ref>
+;Statewide elected officials
+*[[John M. O'Connor]], former attorney general of Oklahoma<ref name="TW-8.16.26" />
+*[[Sarah Huckabee Sanders]], governor of Arkansas<ref name="TW-7.16.26" />
+*[[Kevin Stitt]], governor of Oklahoma (2019–present)<ref name="StittEndorse" />
+;State legislators
+*[[David Bullard (politician)|David Bullard]], state senator<ref name="TW-7.19.26">{{cite news |last1=Krehbiel |first1=Randy |title=Political notebook: ‘Orphan tax’ axed |url=https://tulsaworld.com/news/state-regional/government-politics/article_e5edc54a-fafe-49b6-898c-988df6ef8fde.html |access-date=July 19, 2026 |work=[[Tulsa World]] |date=July 19, 2026 |language=en}}</ref>
+*[[George Burns (American politician)|George Burns]], state senator<ref name="TW-8.16.26" />
+*[[Chad Caldwell]], state representative<ref name="TW-8.16.26" />
+*[[Mark Chapman (politician)|Mark Chapman]], state representative<ref name="TW-8.16.26" />
+*[[Randy Grellner]], state senator<ref name="TW-7.19.26" />
+*[[Brian Guthrie]], state senator<ref name="TW-7.26.26" />
+*[[David Hardin]], state representative<ref name="TW-7.19.26" />
+*[[Molly Jenkins]], state senator<ref name="TW-8.2.26" />
+*[[Shane Jett]], state senator<ref name="Nondoc-8.24.26">{{cite news |last1=Savage |first1=Tres |title='Policy, personality, politics': Mum on loan details, Mike Mazzei touts tax plan, Trump support in GOP runoff |url=https://nondoc.com/2026/08/24/mum-on-loan-details-mike-mazzei-touts-tax-plan-trump-support-in-gop-runoff/ |access-date=August 25, 2026 |work=NonDoc |date=August 24, 2026}}</ref>
+*[[Mark Lepak]], state representative<ref name="TW-7.26.26" />
+*[[Jake A. Merrick]], former state senator and 2026 candidate for governor<ref name="TW-8.16.26">{{cite news |last1=Krehbiel |first1=Randy |title=Political notebook: Early in-person voting begins Thursday |url=https://tulsaworld.com/news/state-regional/government-politics/article_c7e41677-acb0-4e95-82e5-93c33eacf360.html |access-date=August 16, 2026 |work=[[Tulsa World]] |date=August 16, 2026 |language=en}}</ref>
+*[[Dan Newberry]], state senator<ref name="TW-8.2.26" />
+*[[Kendal Sacchieri]], state senator<ref name="TW-8.2.26" />
+*[[Danny Williams (Oklahoma politician)|Danny Williams]], state representative<ref>{{cite news |last1=Savage |first1=Tres |title=Rep. Danny Williams under investigation for 'serious allegations' of 'improper behavior' |url=https://nondoc.com/2026/07/23/rep-danny-williams-under-investigation-for-serious-allegations-of-improper-behavior/ |access-date=July 25, 2026 |work=NonDoc |date=July 23, 2026}}</ref>
+;County officials
+*[[Steve Kunzweiler]], [[Tulsa]] County district attorney<ref name="Nondoc-8.24.26" />
+*Allan Star, [[Adair County, Oklahoma|Adair County]] commissioner<ref name="TW-7.19.26" /> 
+*Larry Wood, Adair County commissioner<ref name="TW-7.19.26" /> 
+;Organizations
+*[[Oklahoma Republican Party]] State Committee<ref>{{cite news |last1=Aston |first1=Alexia |title=Oklahoma GOP state committee backs Mike Mazzei for governor |url=https://www.oklahoman.com/story/news/politics/elections/2026/08/24/oklahoma-runoffs-2026-governor-gop-state-committee-backs-mike-mazzei/91439442007/ |access-date=August 24, 2026 |work=[[The Oklahoman]] |date=August 24, 2026}}</ref>
+}}
+
+====Polling====
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"|Key:<br />A – all adults<br />RV – registered voters<br />LV – likely voters<br />V – unclear}}
+! Margin<br />of error
+! style="width:75px;"| Gentner<br />Drummond
+! style="width:75px;"| Mike<br />Mazzei
+! Undecided
+|-
+|style="text-align:left;"|CHS & Associates (R)<ref>{{Cite web|url=https://chs-inc.com/drummond-mazzei-tie/|title=Drummond and Mazzei Tied at 44% |last1=McFerron|first1=Pat|website=CHS-Inc.|date=August 11, 2026|access-date=August 11, 2026}}</ref>
+|August 2–4, 2026
+|600 (LV)
+|±&nbsp;4.0%
+|'''44%'''
+|'''44%'''
+|12%
+|-
+|style="text-align:left;"|Pulse Decision Science (R)<ref>{{Cite tweet|user=MazzeiMike|number=2086551468665122848|title= Mike Mazzei Leads Gentner Drummond In The Republican Primary Runoff For Oklahoma Governor, Maintaining The Six-Point Advantage He Held After The Primary |access-date=August 11, 2026}}</ref>{{efn-ua|name=CFG}}
+|August 2–4, 2026
+|600 (LV)
+|±&nbsp;4.0%
+|38%
+|{{party shading/Republican}}|'''44%'''
+|18%
+|-
+|style="text-align:left;"|Pulse Decision Science (R)<ref>{{Cite web|url=https://www.clubforgrowth.org/wp-content/uploads/securepdfs/2026/06/CfG_OK-Gov_PrimaryRunoffBenchmark_PollingMemo_V3.pdf|title=RECENT PULSE POLL SHOWS THAT MIKE MAZZEI LEADS BY SIX POINTS IN  THE REPUBLICAN PRIMARY RUNOFF FOR OKLAHOMA GOVERNOR|last1=Allen|first1=Bryon |website=[[Club for Growth]]|date=June 24, 2026|access-date=June 25, 2026}}</ref>{{efn-ua|name=CFG}}
+|June 21–23, 2026
+|606 (LV)
+|±&nbsp;4.0%
+|38%
+|{{party shading/Republican}}|'''44%'''
+|18%
+|-
+|style="text-align:left;"|Cygnal (R)<ref>{{Cite web|url=https://x.com/MattParker_USA/status/2069923895147372631|title=New Statewide Poll: Drummond Leads GOP Primary Runoff Election|last1=Rogers|first1=John| last2= Buchanan| first2= Brent|website=[[Twitter]]|date=June 23, 2026|access-date=June 25, 2026}}</ref>
+|June 18–19, 2026
+|600 (LV)
+|±&nbsp;4.0%
+|{{party shading/Republican}}|'''44%'''
+|42%
+|14%
+|-
+|}
+
+====Results====
+<!-- Needs source/proof of data being accurate in file description [[File:2026 Oklahoma gubernatorial Republican primary runoff election results map.svg|thumb|350px|Results by precinct:
+{{collapsible list
+| title = {{legend|#D72F30|Drummond}}
+| {{legend|#D72F30|50–60%}}
+| {{legend|#C21B18|60–70%}}
+| {{legend|#A80000|70–80%}}
+| {{legend|#8B0000|80–90%}}
+| {{legend|#5C0000|90–100%}}
+}}
+{{collapsible list
+| title = {{legend|#FFB380|Mazzei}}
+| {{legend|#FFB380|50–60%}}
+| {{legend|#FF9955|60–70%}}
+| {{legend|#FF7F2A|70–80%}}
+| {{legend|#FF6600|80–90%}}
+| {{legend|#D45500|90–100%}}
+}}
+]]
+-->
+{{Election box begin no change |title=Republican primary runoff results}}
+{{Election box winning candidate with party link no change
+ | party=Oklahoma Republican Party
+ | candidate= [[Mike Mazzei]]
+ | votes= 186,734
+ | percentage= 50.3
+}}
+{{Election box candidate with party link no change
+ | party=Oklahoma Republican Party
+ | candidate= [[Gentner Drummond]]
+ | votes= 184,681
+ | percentage= 49.7
+}}
+{{Election box total no change
+ | votes= 371,415
+ | percentage=100.0}}
+{{Election box end}}
+
+== Democratic primary ==
+<!-- Needs source/proof of data being accurate in file description [[File:2026 Oklahoma gubernatorial Democratic primary election results map.svg|thumb|350px|Results by precinct:
+{{collapsible list
+| title = {{legend|#86B6F2|Munson}}
+| {{legend|#D3E7FF|30–40%}}
+| {{legend|#B9D7FF|40–50%}}
+| {{legend|#86B6F2|50–60%}}
+| {{legend|#4389E3|60–70%}}
+| {{legend|#1666CB|70–80%}}
+| {{legend|#0645B4|80–90%}}
+| {{legend|#002B84|90–100%}}
+}}
+{{collapsible list
+| title = {{legend|#FF80B2|Connie Johnson}}
+| {{legend|#FFAACC|40–50%}}
+| {{legend|#FF80B2|50–60%}}
+| {{legend|#FF5599|60–70%}}
+| {{legend|#FF2A7F|70–80%}}
+| {{legend|#e62672|80–90%}}
+| {{legend|#b31d59|90–100%}}
+}}
+]]
+-->
+===Candidates===
+====Nominee====
+*[[Cyndi Munson]], minority leader of the [[Oklahoma House of Representatives]] (2022–present) from the 85th district (2015–present)<ref>{{cite news |last1=Media |first1=Griffin |title=Oklahoma House Rep. Cyndi Munson announces run for governor |url=https://www.newson6.com/story/67fe3542ef0ad866d416aaad/oklahoma-house-rep-cyndi-munson-announces-run-for-governor |access-date=April 15, 2025 |work=[[KOTV-DT]] |date=April 15, 2025 |language=en}}</ref>
+====Eliminated in primary====
+*Arya Azma, securities trader and candidate for [[U.S. Senate]] in [[2022 United States Senate election in Oklahoma|2022]]<ref name="KOCO 11.24.25" />
+*[[Constance N. Johnson|Connie Johnson]], former [[Oklahoma Senate|state senator]] from the 48th district (2005–2014), nominee for U.S. Senate in [[2014 United States Senate special election in Oklahoma|2014]], and candidate for governor in [[2018 Oklahoma gubernatorial election|2018]] and [[2022 Oklahoma gubernatorial election|2022]]<ref>{{cite news |work=[[Oklahoma Voice]] |access-date=April 9, 2026 |url=https://oklahomavoice.com/briefs/candidate-filing-brings-surprises-one-new-oklahoma-statewide-office-seeker-wins-by-default/ |author=Hoberock, Barbara |date=April 6, 2026 |title=Candidate filing brings surprises. One new Oklahoma statewide office seeker wins by default.}}</ref>
+===Results===
+[[File:2026 Oklahoma gubernatorial Democratic primary election results map by county.svg|thumb|300px|Primary results by county:
+{{collapsible list
+| title = {{legend|#7996e2|Munson}}
+|{{legend|#7996e2|50–60%}}
+|{{legend|#6674de|60–70%}}
+|{{legend|#584cde|70–80%}}
+|{{legend|#3933e5|80–90%}}
+}}
+]]
+
+{{Election box begin no change
+ | title=Democratic primary results<ref name="June results"/>}}
+{{Election box winning candidate with party link no change
+ | party=Oklahoma Democratic Party
+ | candidate= [[Cyndi Munson]]
+ | votes= 129,225
+ | percentage= 74.9
+}}
+{{Election box candidate with party link no change
+ | party=Oklahoma Democratic Party
+ | candidate= [[Constance Johnson]]
+ | votes= 38,414
+ | percentage= 22.3
+}}
+{{Election box candidate with party link no change
+ | party=Oklahoma Democratic Party
+ | candidate= Arya Azma
+ | votes= 4,824
+ | percentage=2.8
+}}
+{{Election box total no change
+ | votes= 172,463
+ | percentage=100.0}}
+{{Election box end}}
+
+== Independents ==
+===Candidates===
+====Declared====
+*Robert Brooks Sr., farmer<ref name="filingofficial-April1" />
+*Orlando Lynn Bush<ref name="filingofficial-April1" />
+*Jerry Griffin, former [[Tulsa Public Schools|Tulsa school board]] member<ref name="filingofficial-April1" />
+
+== General election ==
+===Predictions===
+{| class="wikitable" style=text-align:center
+!Source
+!Ranking
+!As of
+|-
+|-
+|align=left|''[[The Cook Political Report]]''<ref>{{cite web|title=2026 CPR Governor Race ratings|url=https://www.cookpolitical.com/ratings/governor-race-ratings|website=[[The Cook Political Report]]|access-date=January 23, 2025}}</ref>
+|{{USRaceRating|Solid|R}}
+|September 11, 2025
+|-
+|align=left|[[Decision Desk HQ]]<ref name="DDHQ">{{cite web |title=2026 Governor Forecast |url=https://votes.decisiondeskhq.com/forecast/2026/governor |website=Decision Desk HQ |access-date=22 September 2026}}</ref>
+|{{USRaceRating|Safe|R}}
+|September 23, 2026
+|-
+|align=left|[[Fox News]]<ref>{{cite web |title=Fox News Power Rankings: The top races to watch as 36 states choose their next governor |url=https://www.foxnews.com/politics/fox-news-power-rankings-top-races-watch-36-states-choose-next-governor |website=[[Fox News]] |publisher=Rémy Numa |access-date=24 July 2026}}</ref>
+|{{USRaceRating|Solid|R}}
+|July 23, 2026
+|-
+|align=left|''[[Inside Elections]]''<ref>{{Cite web|title=Gubernatorial Ratings|url=https://insideelections.com/ratings/governor|access-date=October 1, 2026|website=[[Inside Elections]]}}</ref>
+|{{USRaceRating|Likely|R}}
+|October 1, 2026
+|-
+|align="left"|[[RealClearPolitics]]<ref>{{Cite web|title=2026 Governor Races {{!}} RealClearPolitics|url=https://www.realclearpolling.com/maps/governor/2026/toss-up|access-date=June 5, 2026|website=[[RealClearPolitics]]|archive-url=https://web.archive.org/web/20260601183127/https://www.realclearpolling.com/maps/governor/2026/toss-up|archive-date=June 1, 2026|url-status=dead}}</ref>
+|{{USRaceRating|Solid|R}}
+|June 5, 2026
+|-
+|align=left|''[[Sabato's Crystal Ball]]''<ref>{{cite web|title=2026 Governor|url=https://centerforpolitics.org/crystalball/2026-governor/|website=[[Sabato's Crystal Ball]]|access-date=May 1, 2025}}</ref>
+|{{USRaceRating|Safe|R}}
+|September 4, 2025
+|-
+| style="text-align: left;" |[[Silver Bulletin]]<ref name=":Silver">{{Cite web |last=Silver |first=Nate |date=2026-08-28 |title=FLIPR 2026 midterm election forecast |url=https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model |url-access=subscription |access-date=2026-08-28 |website=www.natesilver.net |language=en}}</ref>
+| {{US political race rating|Likely|R}}
+|August 28, 2026
+|}
+
+===Post-primary endorsements===
+{{Endorsements box
+|title=Mike Mazzei (R)
+|list=
+;Organizations
+*[[Oklahoma Farm Bureau]]<ref>{{cite news |last1=Krehbiel |first1=Randy |title=Political notebook: Lawmaker seeks kratom ban |url=https://tulsaworld.com/news/state-regional/government-politics/article_219b1bad-1130-4027-a0a8-bca184440926.html |access-date=September 20, 2026 |work=[[Tulsa World]] |date=September 20, 2026 |language=en}}</ref>
+}}
+{{Endorsements box
+|title=Cyndi Munson (D)
+|list=
+;Organizations
+*[[EMILYs List]]<ref>{{cite web |url=https://emilyslist.org/news/emilys-list-announces-four-new-gubernatorial-endorsements-expanding-its-slate-of-democratic-women-governors/ |title=EMILYs List Announces Four New Gubernatorial Endorsements, Expanding Its Slate of Democratic Women Governors |website=emilyslist.org |date=October 1, 2026 |access-date=October 1, 2026}}</ref>
+*[[Everytown for Gun Safety]]<ref>{{cite web |title=Everytown for Gun Safety Action Fund Announces New Round of Statewide Endorsements, Backing 40 Statewide Candidates in 15 States |url=https://momsdemandaction.org/press/everytown-for-gun-safety-action-fund-announces-new-round-of-statewide-endorsements-backing-40-statewide-candidates-in-15-states/ |website=Moms Demand Action |access-date=September 15, 2026 |language=en-us}}</ref>
+*[[National Women's Political Caucus]]<ref>{{Cite web |url=https://nwpc.org/endorsed-candidates/ |title=National Women’s Political Caucus Endorsed Candidates |website=[[National Women's Political Caucus]] |access-date=14 July 2026}}</ref>
+}}
+
+== See also ==
+*[[2026 United States gubernatorial elections]]
+
+==Notes==
+{{notelist}}
+'''Partisan clients'''<br />
+{{notelist-ua}}
+
+==References==
+{{Reflist}}
+
+==External links==
+;Official campaign websites
+*[https://www.mikeforok.com/ Mike Mazzei (R)]
+*[https://www.cyndimunson.com/ Cyndi Munson (D)]
+*[https://governorgriffin2027.com/ Jerry Griffin (I)]
+
+{{2026 United States elections}}
+
+[[Category:Oklahoma gubernatorial elections|2026]]
+[[Category:2026 Oklahoma elections|Gubernatorial]]
+[[Category:2026 United States gubernatorial elections|Oklahoma]]

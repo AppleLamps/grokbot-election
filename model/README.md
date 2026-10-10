@@ -1,6 +1,6 @@
 # 2026 Midterm Forecast Model
 
-Transparent Monte Carlo model for 2026 Senate & House control. See `METHODOLOGY.md` for every assumption and source; results land in `output/REPORT.md`.
+Transparent Monte Carlo model for 2026 Senate & House control, plus the 36 governor races. See `METHODOLOGY.md` for every assumption and source; results land in `output/REPORT.md`.
 
 ```
 cd model                                          # from the repo root
@@ -11,6 +11,7 @@ python run.py --scenario custom --bias 1.5 --bias-sd 2.5
 python run.py --scenario all --generic-ballot 5 --sims 20000
 python scripts/build_data.py              # rebuild data/house_districts.csv from data/raw/
 python scripts/factor_attribution.py      # marginal effect of each v2 factor (add-one / drop-one)
+python scripts/build_governor_data.py     # rebuild data/governor_races.csv from data/raw/governor + markets snapshot
 python scripts/export_site_data.py        # rebuild ../data/results.json
 ```
 
@@ -18,6 +19,8 @@ Layout:
 - `config.yaml` – all tunable assumptions (generic ballot, poll-error scenarios, incumbency, sds, caucus probs)
 - `data/senate_races.csv` – 35 Senate races: PVI, polls, sources, notes, candidate adjustments
 - `data/house_districts.csv` – 435 districts (2026 maps): PVI, incumbent party, running/open, consensus rating score
+- `data/governor_races.csv` – 36 governor races: 7-forecaster rating average, polling average, sources, Polymarket odds (see METHODOLOGY §9)
+- `data/markets/` – Polymarket + Kalshi snapshots (2026-10-10), comparison only
 - `data/house_district_polls.csv` – optional district polls (empty by default)
 - `data/state_demographics.csv` – Census region + 2020 Census Hispanic share for all 50 states (v2 demographic/regional error)
 - `reports/additional_factors.md` – research behind the eight v2 factors

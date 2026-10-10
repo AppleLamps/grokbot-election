@@ -1,0 +1,578 @@
+{{short description|none}}
+{{for|related races|2026 United States gubernatorial elections}}
+{{Use American English|date=January 2025}}
+<!-- "none" is preferred when the title alone is adequate; see [[WP:SDNONE]] -->
+{{use mdy dates|date=September 2023}}
+{{Infobox election
+| election_name = 2026 Alabama gubernatorial election
+| country = Alabama
+| type = presidential
+| ongoing = yes
+| previous_election = 2022 Alabama gubernatorial election
+| previous_year = 2022
+| next_election = 2030 Alabama gubernatorial election
+| next_year = 2030
+| election_date = November 3, 2026
+| image1 = Tommy Tuberville, official portrait, 118th Congress (slight crop).jpg
+| nominee1 = [[Tommy Tuberville]]
+| party1 = Republican Party (United States)
+| popular_vote1 = 
+| percentage1 = 
+| image2 = File:Senator Doug Jones official photo (cropped) 2.jpg
+| nominee2 = [[Doug Jones (politician)|Doug Jones]]
+| party2 = Democratic Party (United States)
+| popular_vote2 = 
+| percentage2 = 
+| title = [[Governor of Alabama|Governor]]
+| before_election = [[Kay Ivey]]
+| before_party = Republican Party (United States)
+| after_election = 
+| after_party = 
+| map_image          = <!-- Please keep this map hidden until election day. {{switcher |[[File:2026 Alabama gubernatorial election results map by county.svg|250px]] |County results}}-->
+| map_caption        = 
+| turnout = 
+}}
+{{ElectionsAL}}
+The '''2026 Alabama gubernatorial election''' will be held on November 3, 2026, to elect the [[governor of Alabama]]. [[Republican Party (United States)|Republican]] senator [[Tommy Tuberville]] and [[Democratic Party (United States)|Democratic]] former senator [[Doug Jones (politician)|Doug Jones]] are the nominees for their respective parties. Republican incumbent [[Kay Ivey]] is [[Term limits in the United States|term-limited]] and ineligible to seek a third full consecutive term.
+
+[[Primary elections]] were held on May 19, 2026.<ref>{{cite web |title=Alabama Election Cycle Calendar |url=https://www.sos.alabama.gov/sites/default/files/2025-06/Alabama%20Election%20Chart%202026-2036%206.12.2025.pdf |website=Alabama Secretary of State |access-date=21 March 2025}}</ref> This is a rematch of the [[2020 United States Senate election in Alabama|2020 Senate election]], where Tuberville defeated incumbent senator Jones. Democrats have not won a gubernatorial election in Alabama since [[1998 Alabama gubernatorial election|1998]].
+
+{{toclimit|3}}
+
+==Republican primary==
+===Candidates===
+==== Nominee ====
+*[[Tommy Tuberville]], [[United States Senate|U.S. senator]] (2021–present)<ref name="Tuberville">{{cite news |last1=Angle |first1=Alex |title=Tuberville makes it official: he's running for governor in 2026 |url=https://aldailynews.com/tuberville-to-announce-run-for-governor-in-2026/ |access-date=May 27, 2025 |work=Alabama Daily News |date=May 27, 2025}}</ref>
+
+==== Eliminated in primary ====
+*Ken McFeeters, insurance agent and candidate for [[Alabama's 6th congressional district]] in [[2024 United States House of Representatives elections in Alabama#District 6|2024]]<ref>{{Cite web|url=https://alpolitics.com/ken-mcfeeters-to-challenge-tuberville-for-republican-gubernatorial-nomination/|title=Ken McFeeters to Challenge Tuberville for Republican Gubernatorial Nomination|last=Chitwood|first=Bill|website=ALPolitics.com|date=May 28, 2025|accessdate=May 28, 2025}}</ref>
+*Will Santivasci, event center operations manager<ref>{{Cite web|url=https://www.al.com/politics/2026/02/alabama-2026-election-everyone-running-for-governor.html|title=Alabama 2026 election: Everyone running for governor|last=Gann|first=Heather|website=AL.com|date=February 5, 2026|access-date=February 8, 2026}}</ref>
+
+====Declined====
+*[[Will Ainsworth]], [[lieutenant governor of Alabama]] (2019–present)<ref>{{cite news |last1=Keenum |first1=Lynne |title=Alabama Lt. Gov. Ainsworth not running for governor in 2026 |url=https://www.wvtm13.com/article/alabama-lt-gov-ainsworth-not-running-governor-2026/64837345 |access-date=May 21, 2025 |work=[[WVTM-TV]] |date=May 21, 2025 |language=en}}</ref> ''(endorsed Tuberville)''<ref name="AinsworthEndorse" />
+*[[Lynda Blanchard]], [[List of ambassadors of the United States to the United Nations Agencies for Food and Agriculture|U.S. Ambassador to the Food and Agriculture Organization]] (2025-present), former [[U.S. ambassador to Slovenia]] (2019–2021), and candidate for governor in [[2022 Alabama gubernatorial election|2022]]<ref>{{Cite web |last=Taylor |date=July 26, 2024 |first=Caleb |title='It's always a possibility': Lindy Blanchard on 2026 bid for governor… |url=https://1819news.com/news/item/its-always-a-possibility-lindy-blanchard-on-2026-bid-for-governor |access-date=July 28, 2024 |website=[[1819 News]] |language=en-US}}</ref>
+*[[Mo Brooks]], former [[U.S. representative]] from {{ushr|AL|5}} (2011–2023)<ref>{{cite web |title=Mo Brooks leaves door open for Senate? |url=https://1819news.com/news/item/mo-brooks-leaves-door-open-for-senate |website=1819 News |access-date=30 May 2025}}</ref>
+*[[Steve Marshall]], [[attorney general of Alabama]] (2017–present)<ref>{{cite news |work=Alabama Daily News |access-date=January 1, 2025 |url=https://aldailynews.com/from-iap-steve-marshall-wont-run-for-governor/ |author=Stacy, Todd |date=January 1, 2025 |title=From IAP: Steve Marshall won't run for governor}}</ref> ''([[2026 United States Senate election in Alabama|ran for U.S Senate]])''<ref>{{cite web |last1=Baker |first1=Trent |title='The nation needs strong conservative leadership': Steve Marshall announces U.S. Senate bid |url=https://1819news.com/news/item/the-nation-needs-strong-conservative-leadership-steve-marshall-announces-us-senate-bid |website=1819 News |access-date=29 May 2025}}</ref>
+*[[Rick Pate]], commissioner of the [[Alabama Department of Agriculture and Industries|Alabama department of agriculture and industries]] (2019–present) ''([[2026 Alabama lieutenant gubernatorial election|ran for lieutenant governor]])''<ref>{{cite web |last1=Gann |first1=Heather |title=Tuberville's possible run changed one Republican's plans: Only Nick Saban 'could beat him' |url=https://www.al.com/politics/2025/03/tubervilles-possible-run-changed-one-republicans-plans-only-nick-saban-could-beat-him.html |publisher=[[The Huntsville Times|al.com]] |access-date=28 April 2025 |date=12 March 2025}}</ref><ref>{{Cite web|url=https://aldailynews.com/pate-not-running-for-governor-considering-bid-for-lieutenant-gov/|title=Pate not running for governor, considering bid for lieutenant gov|first=Mary|last=Sell|date=May 21, 2025|website=Alabama Daily News}}</ref>
+
+===Endorsements===
+{{Endorsements box
+| title = Ken McFeeters
+| list =
+;Organizations
+*[[Alabama Cannabis Coalition]]<ref>{{cite web |title=2025 / 2025 ACC Endorsements |url=https://www.alabamacannabiscoalition.org/endorsements?pgid=mf4lc68b-02ce1e1a-7afa-4f8e-b751-df0be78bcfa0 |website=Alabama Cannabis Coalition |access-date=4 September 2025}}</ref>
+}}
+{{Endorsements box
+| title = Tommy Tuberville
+| colwidth=60
+| list =
+;Executive branch officials
+*[[Donald Trump]], [[president of the United States]] (2017–2021, 2025–present)<ref>{{cite web |last1=Darrington |first1=Patrick |title=Trump officially endorses Sen. Tommy Tuberville to be Alabama's next governor |url=https://www.al.com/news/2026/01/trump-officially-endorses-sen-tommy-tuberville-to-be-alabamas-next-governor.html |website=AL.com |access-date=23 January 2026 |date=January 22, 2026}}</ref>
+;U.S. senators
+*[[Katie Britt]], [[Alabama]] (2023–present)<ref>{{cite web |last1=Sell |first1=Mary |title=Britt endorses Tuberville for governor |url=https://aldailynews.com/britt-endorses-tuberville-for-governor/ |website=Alabama Daily News |date=June 18, 2025 |access-date=18 June 2025}}</ref>
+*[[Rick Scott]], [[Florida]] (2019–present)<ref>{{cite web |last1=Taylor |first1=Daniel |title=Florida U.S. Sen. Rick Scott endorses Tuberville for governor — 'Alabama is going to become this unbelievable state' |url=https://1819news.com/news/item/florida-u-s-sen-rick-scott-endorses-tuberville-for-governor-alabama-is-going-to-become-this-unbelievable-state |website=1819 News |access-date=9 July 2025}}</ref>
+
+;State officials
+*[[Will Ainsworth]], [[Lieutenant Governor of Alabama|lieutenant governor of Alabama]] (2019–present)<ref name="AinsworthEndorse">{{cite web |last1=Monger |first1=Craig |title=Ainsworth endorses Tuberville for governor — 'Coach Tuberville will bring needed reforms' |url=https://1819news.com/news/item/ainsworth-endorses-tuberville-for-governor-coach-tuberville-will-bring-needed-reforms |website=1819 News |access-date=19 June 2025}}</ref>
+*[[Jere Beasley]], lieutenant governor of Alabama (1971–1979) and acting [[governor of Alabama]] (1972) ''(Democratic)''<ref>{{Cite web|url=https://www.al.com/politics/2026/02/im-still-a-democrat-former-alabama-governor-explains-why-hes-one-of-tubervilles-biggest-donors.html|title=‘I’m still a Democrat’: Former Alabama governor explains why he’s one of Tuberville’s biggest donors|last=Koplowitz|first=Howard|website=AL.com|date=February 4, 2026|access-date=February 4, 2026}}</ref>
+*[[Mike Braun]], [[governor of Indiana]] (2025–present)<ref>{{cite web |last1=Monger |first1=Craig |title=Indiana Gov. Mike Braun endorses Tuberville in gubernatorial bid — 'He's going to be the next governor of Alabama' |url=https://1819news.com/news/item/indiana-gov-mike-braun-endorses-tuberville-in-gubernatorial-bid-hes-going-to-be-the-next-governor-of-alabama |website=1819 News |access-date=25 June 2025}}</ref>
+;State legislators
+*[[Garlan Gudger]], president pro tempore of the [[Alabama Senate]] (2025–present) from [[Alabama's 4th Senate district|SD-04]] district (2018–present)<ref>{{cite web |last1=Everett |first1=Grayson |title='Battlefield general': Alabama Senate Pro Tem Garlan Gudger endorses Tommy Tuberville for Governor |url=https://yellowhammernews.com/battlefield-general-alabama-senate-pro-tem-garlan-gudger-endorses-tommy-tuberville-for-governor/ |website=[[Yellowhammer News]] |date=September 4, 2025 |access-date=6 November 2025}}</ref>
+*[[Nathaniel Ledbetter]], speaker of the [[Alabama House of Representatives]] (2023–present) from HD-24 (2014–present) ''(previously endorsed Ainsworth)''<ref>{{cite web |last1=Everett |first1=Grayson |title=Speaker Ledbetter endorses Senator Tuberville for Governor of Alabama as 'unapologetically conservative leader' |url=https://yellowhammernews.com/speaker-ledbetter-endorses-senator-tuberville-for-governor-of-alabama-as-unapologetically-conservative-leader/ |website=[[Yellowhammer News]] |date=August 18, 2025 |access-date=18 August 2025}}</ref>
+*[[Scott Stadthagen]], majority leader of the [[Alabama House of Representatives]] (2023–present) HD-09 (2019–present)<ref>{{cite news |last1=Monger |first1=Craig |title=House Majority Leader Scott Stadthagen endorses Tuberville for… |url=https://1819news.com/news/item/house-majority-leader-scott-stadthagen-endorses-tuberville-for-governor-he-is-the-right-man-for-the-job |access-date=May 28, 2025 |work=1819 News |date=May 28, 2025}}</ref>
+
+;Individuals
+*[[Taylor Hicks]], singer<ref>{{cite web |last1=Shipley |first1=Austen |title=Taylor Hicks jumps into Alabama politics – to throw his support behind Tuberville for Governor in 2026 |url=https://yellowhammernews.com/taylor-hicks-jumps-into-alabama-politics-to-throw-his-support-behind-tuberville-for-governor-in-2026/ |website=[[Yellowhammer News]] |access-date=19 August 2025 |date=August 19, 2025}}</ref>
+*[[A. J. McCarron]], former professional football player and candidate for lieutenant governor in [[2026 Alabama lieutenant gubernatorial election|2026]]<ref>{{cite web |last1=Sharp |first1=John |title=Former Alabama football star drops out of lieutenant governor's race |url=https://www.al.com/politics/2025/12/former-alabama-football-star-drops-out-of-lieutenant-governors-race.html |website=AL.com |access-date=19 December 2025 |date=December 17, 2025}}</ref>
+
+;Organizations
+*[[Republicans for National Renewal]]<ref>{{cite web |title=Endorsement Archives |url=https://rnrenewal.org/tag/endorsement/ |website=Republicans for National Renewal |access-date=25 November 2025}}</ref>
+*[[Alabama Farmers Federation]]<ref>{{cite web |last1=Everett |first1=Grayson |title=ALFA endorses Tuberville for Governor |url=https://yellowhammernews.com/alfa-endorses-tuberville-for-governor/ |website=[[Yellowhammer News]] |date=July 17, 2025 |access-date=17 July 2025}}</ref>
+*[[Alabama Forestry Association]]<ref>{{cite web |title=Forestry Association endorses Tommy Tuberville for governor |url=https://www.alreporter.com/2025/06/27/forestry-association-endorses-tommy-tuberville-for-governor/ |website=Alabama Political Reporter |date=June 27, 2025 |access-date=27 June 2025}}</ref>
+*[[Alabama Realtors PAC]]<ref name="RealtorEndorse">{{cite web |title=Alabama REALTORS PAC announces endorsements ahead of May 19 Republican primary |url=https://yellowhammernews.com/alabama-realtors-pac-announces-endorsements-ahead-of-may-19-republican-primary/ |website=Yellowhammer News |access-date=26 March 2026 |date=March 26, 2026}}</ref>
+*[[Associated Builders and Contractors]] Alabama<ref name="ABCChapter">{{cite web |last1=Shipley |first1=Austen |title=Tuberville endorsed by both Alabama Chapters of Associated Builders & Contractors, Inc. |url=https://yellowhammernews.com/tuberville-endorsed-by-both-alabama-chapters-of-associated-builders-contractors-inc/ |website=[[Yellowhammer News]] |date=July 22, 2025 |access-date=22 July 2025}}</ref>
+*[[Associated Builders and Contractors]] North Alabama<ref name="ABCChapter"/>
+*[[Business Council of Alabama]]<ref>{{cite web |title=Business Council endorses Tommy Tuberville for governor |url=https://www.alreporter.com/2025/06/27/business-council-endorses-tommy-tuberville-for-governor/ |website=Alabama Political Reporter |date=June 27, 2025 |access-date=27 June 2025}}</ref>
+*[[Club for Growth]]<ref>{{Cite web|url=https://yellowhammernews.com/club-for-growth-endorses-tommy-tuberville-for-governor-of-alabama-in-2026/|title=Club for Growth endorses Tommy Tuberville for Governor of Alabama in 2026|last=Everett|first=Grayson|website=[[Yellowhammer News]]|date=May 21, 2025|access-date=May 21, 2025}}</ref>
+*[[Electric Cooperatives of Alabama]]<ref>{{cite web |last1=Monger |first1=Craig |title=Electric co-ops endorse Tuberville for governor — 'We are proud to back him' |url=https://1819news.com/news/item/electric-co-ops-endorse-tuberville-for-governor-we-are-proud-to-back-him |website=1819 News |access-date=2 December 2025 |date=July 29, 2025}}</ref>
+*[[Manufacture Alabama]]<ref>{{Cite web|url=https://aldailynews.com/tuberville-gets-endorsement-from-manufacture-alabama-in-his-gubernatorial-bid/|title=Tuberville gets endorsement from Manufacture Alabama in his gubernatorial bid|website=Alabama Daily News|date=June 5, 2025|accessdate=June 5, 2025|last=Angle|first=Alex}}</ref>
+*[[Political Victory Fund|National Rifle Association Political Victory Fund]]<ref name="NRA">{{cite web |last1=Fogel |first1=Apryl Marie |title=NRA PAC makes primary endorsements; Passes on several key races |url=https://1819news.com/news/item/nra-pac-makes-primary-endorsements-passes-on-several-key-races |website=1819 News |access-date=29 April 2026 |date=April 29, 2026}}</ref>
+|columns}}
+{{Endorsements box
+| title = Will Ainsworth ''(declined)''
+| list =
+;State legislators
+*[[Nathaniel Ledbetter]], speaker of the [[Alabama House of Representatives]] (2023–present) from HD-24 (2014–present) ''(later endorsed Tuberville)''<ref>{{Cite web|url=https://1819news.com/news/item/house-speaker-ledbetter-endorses-ainsworth-for-governor-in-2026-at-annual-henagar-event|title=House Speaker Ledbetter endorses Ainsworth for governor in 2026 at annual Henagar event|last=Poor|first=Jeff|work=[[1819 News]]|date=July 5, 2023|access-date=July 5, 2023}}</ref>
+|columns}}
+
+===Fundraising===
+{| class="wikitable sortable"
+|-
+! colspan=6 |Campaign finance reports as of May 18, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Other receipts
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|Ken McFeeters (R)
+|$353
+|$20,000
+|$13,275
+|$7,077
+|-
+|{{party shading/Republican}}|Tommy Tuberville (R)
+|$12,885,564
+|$89,295
+|$3,666,061
+|$9,308,797
+|-
+! colspan="6" |<small>Source: Alabama FCPA<ref name="Finance">{{cite web |title=Political Race Search |url=https://fcpa.alabamavotes.gov/page.request.do?page=page.acfPublicPoliticalRaceSearch |website=Alabama FCPA |access-date=October 5, 2026}}</ref></small>
+|}
+
+===Polling===
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|Key:<br />A – all adults<br />RV – registered voters<br />LV – likely voters<br />V – unclear|name="Key"}}
+! Margin<br />of error
+! style="width:75px;"| Ken<br />McFeeters
+! style="width:75px;"| Will<br />Santivasci
+! style="width:75px;"| Tommy<br />Tuberville
+! Other
+! Undecided
+|-
+|style="text-align:left;"|Cygnal (R)<ref>{{cite web |last1=Hardison |first1=Jonathan |title=Alabama GOP primary voters optimistic on state direction as Tuberville dominates governor’s race |url=https://www.wbrc.com/2026/05/05/alabama-gop-primary-voters-optimistic-state-direction-tuberville-dominates-governors-race/ |website=[[WBRC]] |access-date=May 7, 2026 |date=May 5, 2026}}</ref>
+|April 29–30, 2026
+|500 (LV)
+|±&nbsp;4.38%
+|7%
+|3%
+|{{party shading/Republican}}|'''65%'''
+|–
+|25%
+|-
+|style="text-align:left;"|Quantus Insights (R)<ref>{{cite web |last1=Corley |first1=Jason |title=Alabama Republican Primary Survey |url=https://drive.google.com/file/d/1WRYbrj1K7ZsQvsx0jRwmHDpjJLR2xdW0/view |website=Quantus Insights |access-date=16 October 2025 |date=October 16, 2025}}</ref>
+|October 13–14, 2025
+|1,050 (RV)
+|±&nbsp;3.2%
+|4%
+|–
+|{{party shading/Republican}}|'''63%'''
+|11%
+|22%
+|-
+|}
+{{hidden begin|titlestyle=background:#cff|title=Hypothetical polling|contentstyle=border:solid 1px silver; padding:8px; background:var(--background-color-base); color:var(--color-base);}}
+;Will Ainsworth vs. Rick Pate
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|Key:<br />A – all adults<br />RV – registered voters<br />LV – likely voters<br />V – unclear|name="Key"}}
+! Margin<br />of error
+! style="width:75px;"| Will<br />Ainsworth
+! style="width:75px;"| Rick<br />Pate
+! Undecided
+|-
+|style="text-align:left;"|Remington Research Group (R)<ref>{{cite web |title=New polling shows Will Ainsworth has big lead over Rick Pate in 2026 governor's race | first=Grayson |last=Everett |url=https://yellowhammernews.com/new-polling-shows-will-ainsworth-has-big-lead-over-rick-pate-in-2026-governors-race/ |website=[[Yellowhammer News]] | date=December 20, 2024 | access-date=12 June 2025}}</ref>
+|December 2024
+|– (RV)
+|–
+|{{party shading/Republican}}|'''34%'''
+|5%
+|{{party shading/Undecided}}|'''61%'''
+|}
+
+{{hidden end}}
+
+===Results===
+[[File:2026 Alabama Republican gubernatorial primary election results map by county.svg|thumb|250px|Primary results by county:
+{{collapsible list
+| title = {{legend|#E27F7F|Tuberville}}
+|{{legend|#D72F30|70–80%}}
+|{{legend|#C21B18|80–90%}}
+|{{legend|#A80000|>90%}}
+}}
+]]
+{{Election box begin no change
+| title = Republican primary<ref name="Primary">{{cite web |title=Unofficial Election Night Results |url=https://www2.alabamavotes.gov/electionNight/statewideResultsByContest.aspx?ecode=1001290 |website=Secretary of State of Alabama |access-date=20 May 2026}}</ref>
+}}
+{{Election box winning candidate with party link no change
+| candidate = [[Tommy Tuberville]]
+| party = Republican Party (United States)
+| votes = 421,754
+| percentage = 85.4
+}}
+{{Election box candidate with party link no change
+| candidate = Ken McFeeters
+| party = Republican Party (United States)
+| votes = 47,166
+| percentage = 9.6
+}}
+{{Election box candidate with party link no change
+| candidate = "Alabama" Will Santivasci
+| party = Republican Party (United States)
+| votes = 24,456
+| percentage = 5.0
+}}
+{{Election box total no change
+| votes = 493,376
+| percentage = 100.00
+}}
+{{Election box end}}
+
+== Democratic primary ==
+=== Candidates ===
+==== Nominee ====
+*[[Doug Jones (politician)|Doug Jones]], former U.S. senator (2018–2021)<ref>{{cite web |last1=Vakil |first1=Caroline |title=Doug Jones launches Alabama governor bid |url=https://thehill.com/homenews/campaign/5620923-doug-jones-alabama-governor-race-tuberville/ |website=The Hill |access-date=24 November 2025 |date=November 24, 2025}}</ref>
+
+==== Eliminated in primary ====
+*[[Will Boyd]], former [[Greenville, Illinois]] city councilor and [[perennial candidate]]<ref name="Boyd">{{cite news |last1=Barrett |first1=Anna |title=Democrat Will Boyd announces 2026 campaign for Alabama governor |url=https://alabamareflector.com/2025/06/11/democrat-will-boyd-announces-2026-campaign-for-alabama-governor/ |access-date=June 11, 2025 |work=Alabama Reflector |date=June 11, 2025}}</ref>
+*Ja'Mel Brown, online pastor<ref>{{cite web |title=CAMPAIGN 2026: Montgomery community activist joins governor's race |url=https://www.waka.com/2025/06/14/campaign-2026-montgomery-community-activist-joins-governors-race/ |website=[[WAKA]] |access-date=June 15, 2025 |date=June 14, 2025}}</ref>
+*Yolanda Flowers, educator and nominee for governor in [[2022 Alabama gubernatorial election|2022]]<ref>{{cite web |last1=Moseley |first1=Brandon |title=Yolanda Flowers announces candidacy in 2026 Governor's race |url=https://www.alabamagazette.com/story/2025/09/29/news/yolanda-flowers-announces-candidacy-in-2026-governors-race/8252.html |website=The Alabama Gazette |access-date=3 October 2025 |date=September 29, 2025}}</ref>
+*Chad Chig Martin, hemp business owner and candidate for governor in [[2022 Alabama gubernatorial election|2022]]<ref>{{cite web |last1=Smith |first1=Robert |title=Enterprise businessman has eyes set on Alabama governorship |url=https://www.wdhn.com/your-local-election-headquarters/enterprise-businessman-hopes-to-be-alabamas-next-governor/ |website=[[WDHN]] |access-date=May 30, 2025 |date=May 29, 2025}}</ref>
+*[[Nathan Mathis]], former state representative from the 87th district (1983–1995) and perennial candidate<ref>{{cite web |last1=Sell |first1=Mary |title=Wahl, Brooks and others shake-up GOP primaries on final day to qualify |url=https://aldailynews.com/wahl-brooks-and-others-shake-up-gop-primaries-on-final-day-to-qualify/ |website=Alabama Daily News |access-date=24 January 2026 |date=January 23, 2026}}</ref>
+
+=== Endorsements ===
+{{Endorsements box
+| title = Will Boyd
+| list =
+;Party officials
+*[[Jaime Harrison]], former chair of the [[Democratic National Committee]] (2021–2025)<ref>{{cite web |title=Will Boyd's campaign welcomes Vision Blue Strategies as national consultant |url=https://www.alreporter.com/2025/07/15/will-boyds-campaign-welcomes-vision-blue-strategies-as-national-consultant/ |website=Alabama Political Reporter |access-date=July 15, 2025 |date=July 15, 2025}}</ref>
+
+;Organizations
+*[[Alabama Cannabis Coalition]]<ref>{{cite web |last1=Chitwood |first1=Bill |title=Alabama Cannabis Coalition Endorses Dr. Will Boyd in 2026 Governor's Race |url=https://alpolitics.com/alabama-cannabis-coalition-endorses-dr-will-boyd-in-2026-governors-race/ |website=ALPolitics.com |date=July 28, 2025 |access-date=29 July 2025}}</ref>
+}}
+{{Endorsements box
+| title = Doug Jones
+| list =
+;U.S. representatives
+*[[Terri Sewell]], {{ushr|AL|7|AL-07}} (2011–present)<ref name="JonesFile">{{cite web |last1=Britt |first1=Bill |title=Doug Jones files paperwork to run for Alabama governor in 2026 |url=https://www.alreporter.com/2025/11/24/doug-jones-files-paperwork-to-run-for-alabama-governor-in-2026/ |website=Alabama Political Reporter |access-date=24 November 2025 |date=November 24, 2025}}</ref>
+;Statewide officials
+*[[Wes Moore]], [[governor of Maryland]] (2023–present)<ref>https://www.facebook.com/reel/938973308543016/</ref>
+*[[Ron Sparks (politician)|Ron Sparks]], former [[Alabama Commissioner of Agriculture and Industries|commissioner of agriculture and industries]] (2003–2011) and nominee for the position in [[2026 Alabama Commissioner of Agriculture and Industries election|2026]]<ref>{{cite web |last1=Hagan |first1=Victor |title=UACD hosts Democratic candidate for Alabama commissioner of agriculture, industries |url=https://thecrimsonwhite.com/127641/news/uacd-hosts-democratic-candidate-for-alabama-commissioner-of-agriculture-industries/ |website=The Crimson White |access-date=13 March 2026 |date=March 11, 2026}}</ref>
+;State legislators
+*[[Bobby Singleton (politician)|Bobby Singleton]], minority leader of the [[Alabama Senate]] (2019–present) from [[Alabama's 24th Senate district|SD-24]] (2005–present)<ref name="ReflectorLaunch"/>
+*[[Anthony Daniels (politician)|Anthony Daniels]], minority leader of the [[Alabama House of Representatives]] (2017–present) from HD-53 (2014–present)<ref name="JonesFile"/>
+*[[Phillip Ensler]], [[Alabama House of Representatives|HD-74]] (2022–present) and nominee for lieutenant governor in [[2026 Alabama lieutenant gubernatorial election|2026]]<ref name="ReflectorLaunch">{{cite web |last1=Barrett |first1=Anna |title=Doug Jones kicks off Alabama gubernatorial campaign with vision of 'crowded table' |url=https://alabamareflector.com/2025/12/12/doug-jones-kicks-off-alabama-gubernatorial-campaign-with-vision-of-crowded-table/ |website=Alabama Reflector |access-date=16 December 2025 |date=December 12, 2025}}</ref>
+;Individuals
+*[[Jason Isbell]], singer-songwriter<ref>{{cite web |last1=Yaffee |first1=Michael |title=Doug Jones hosting kickoff event for longshot '26 gubernatorial bid in Birmingham |url=https://yellowhammernews.com/doug-jones-hosting-kickoff-event-for-longshot-26-gubernatorial-bid-in-birmingham/ |website=Yellowhammer News |access-date=8 December 2025 |date=December 8, 2025}}</ref>
+}}
+
+===Fundraising===
+{| class="wikitable sortable"
+|-
+! colspan=6 |Campaign finance reports as of May 18, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Other receipts
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|Will Boyd (D)
+|$72,795
+|$220
+|$64,092
+|$9,247
+|-
+|{{party shading/Democratic}}|Ja'Mel Brown (D)
+|$2,310
+|$1,600
+|$0
+|$3,910
+|-
+|{{party shading/Democratic}}|Yolanda Flowers (D)
+|$2,015
+|$4,966
+|$6,106
+|$874
+|-
+|{{party shading/Democratic}}|Doug Jones (D)
+|$2,251,815
+|$0
+|$1,122,798
+|$1,129,516
+|-
+|{{party shading/Democratic}}|Chad Chig Martin (D)
+|$28,663
+|$0
+|$28,936
+|$2,228
+|-
+|{{party shading/Democratic}}|Nate Mathis (D)
+|$11,000
+|$0
+|$11,000
+|$0
+|-
+! colspan="6" |<small>Source: Alabama FCPA<ref name="Finance"/></small>
+|}
+
+===Campaign===
+[[Will Boyd]] was the first candidate to enter the race, in June 2025.<ref name="Boyd"/> [[Doug Jones (politician)|Doug Jones]] did not rule out a bid in the same month, while campaigning for a Democrat in a state legislative special election.<ref>{{cite web |last1=Barrett |first1=Anna |title=Doug Jones endorses, plans to campaign for Cullman County Democrat |url=https://alabamareflector.com/2025/07/02/doug-jones-endorses-plans-to-campaign-for-cullman-county-democrat/ |website=Alabama Reflector |access-date=6 February 2026 |date=July 2, 2025}}</ref> He officially launched his campaign in November 2025.<ref>{{cite web |last1=Taylor |first1=Drew |title=Doug Jones files paperwork to run for Alabama governor 5 years after losing Senate seat to Tommy Tuberville |url=https://www.cbs42.com/news/local/doug-jones-files-paperwork-to-run-for-alabama-governor-5-years-after-losing-senate-seat-to-tommy-tuberville/ |website=CBS 42 |access-date=6 February 2026 |date=November 24, 2025}}</ref> Following reports that Jones would announce a campaign, Boyd's campaign responded by stating that he would not be dropping out of the race.<ref>{{cite web |last1=Chitwood |first1=Bill |title=Dr. Will Boyd Responds to Reports of Doug Jones Governors Run |url=https://alpolitics.com/dr-will-boyd-responds-to-reports-of-doug-jones-governors-run/ |website=ALPolitics.com |access-date=6 February 2026 |date=November 23, 2025}}</ref>
+
+Jones has expressed support for a state [[lottery]] in Alabama.<ref>{{cite web |last1=Cortes |first1=Tony |title=Doug Jones visits Huntsville, speaks on campaign for governor |url=https://whnt.com/news/alabama-news/doug-jones-visits-huntsville-speaks-on-campaign-for-governor/ |website=WHNT |access-date=6 February 2026 |date=February 1, 2026}}</ref> He has also pledged to remove members of the [[Alabama Public Library Service]] and replace them with nonpartisan members.<ref>{{cite web |last1=Holmes |first1=Jacob |title=Jones vows to remove APLS members if elected governor |url=https://www.alreporter.com/2026/02/09/jones-vows-to-remove-apls-members-if-elected-governor/ |website=Alabama Political Reporter |access-date=9 February 2026 |date=February 9, 2026}}</ref>
+
+===Results===
+[[File:2026 Alabama Democratic gubernatorial primary election results map by county.svg|thumb|250px|Primary results by county:
+{{collapsible list
+| title = {{legend|#7996E2|Jones}}
+|{{legend|#A5B0FF|40–50%}}
+|{{legend|#7996E2|50–60%}}
+|{{legend|#6674DE|60–70%}}
+|{{legend|#584CDE|70–80%}}
+|{{legend|#3933E5|80–90%}}
+}}
+]]
+{{Election box begin no change
+| title = Democratic primary<ref name="Primary"/>
+}}
+{{Election box winning candidate with party link no change
+| candidate = [[Doug Jones (politician)|Doug Jones]]
+| party = Democratic Party (United States)
+| votes = 286,612
+| percentage = 78.6
+}}
+{{Election box  candidate with party link no change
+| candidate = [[Will Boyd]]
+| party = Democratic Party (United States)
+| votes = 35,267
+| percentage = 9.7
+}}
+{{Election box candidate with party link no change
+| candidate = Yolanda Rochelle Flowers
+| party = Democratic Party (United States)
+| votes = 18,230
+| percentage = 5.0
+}}
+{{Election box candidate with party link no change
+| candidate = Jamel J. Brown
+| party = Democratic Party (United States)
+| votes = 15,808
+| percentage = 4.3
+}}
+{{Election box candidate with party link no change
+| candidate = Chad "Chig" Martin
+| party = Democratic Party (United States)
+| votes = 5,765
+| percentage = 1.6
+}}
+{{Election box candidate with party link no change
+| candidate = [[Nathan Mathis|Nathan "Nate" Mathis]]
+| party = Democratic Party (United States)
+| votes = 2,953
+| percentage = 0.8
+}}
+{{Election box total no change
+| votes = 364,635
+| percentage = 100.0
+}}
+{{Election box end}}
+
+== Independent and third-party candidates ==
+===Candidates===
+====Declared====
+*[[File:Ronald Burnette Jr. 2026.jpg|thumb|upright=0.5|Ronald Burnette Jr.]] Ronald Burnette Jr., businessman (independent, write-in)<ref>{{cite news |last1=Haymond |first1=Abby |title=Doug Jones kicks off Alabama gubernatorial campaign |url=https://www.fox10tv.com/2025/12/13/doug-jones-kicks-off-alabama-gubernatorial-campaign/ |access-date=December 17, 2025 |work=[[WALA-TV|FOX 10]] |date=December 12, 2025}}</ref>
+*Darren Knight, comedian (independent, write-in)<ref>{{Cite web|url=https://www.al.com/politics/2026/02/southern-mama-comedian-darren-knight-announces-run-for-governor-of-alabama.html|title='Southern Mama' comedian Darren Knight announces run for governor of Alabama|last=Gann|first=Heather|work=AL.com|date=February 20, 2026|access-date=February 20, 2026}}</ref>
+
+== General election ==
+===Predictions===
+{| class="wikitable" style=text-align:center
+!Source
+!Ranking
+!As of
+|-
+|-
+|align=left|''[[The Cook Political Report]]''<ref>{{cite web|title=2026 CPR Governor Race ratings|url=https://www.cookpolitical.com/ratings/governor-race-ratings|website=[[The Cook Political Report]]|access-date=January 23, 2025}}</ref>
+|{{USRaceRating|Solid|R}}
+|September 10, 2026
+|-
+|align=left|[[Decision Desk HQ]]<ref name="DDHQ">{{cite web |title=2026 Governor Forecast |url=https://votes.decisiondeskhq.com/forecast/2026/governor |website=Decision Desk HQ |access-date=22 September 2026}}</ref>
+|{{USRaceRating|Likely|R}}
+|September 22, 2026
+|-
+|align=left|[[Fox News]]<ref>{{cite web |title=Fox News Power Rankings: The top races to watch as 36 states choose their next governor |url=https://www.foxnews.com/politics/fox-news-power-rankings-top-races-watch-36-states-choose-next-governor |website=[[Fox News]] |publisher=Rémy Numa |access-date=24 July 2026}}</ref>
+|{{USRaceRating|Solid|R}}
+|July 23, 2026
+|-
+|align=left|''[[Inside Elections]]''<ref>{{Cite web|title=Gubernatorial Ratings|url=https://insideelections.com/ratings/governor|access-date=February 7, 2025|website=[[Inside Elections]]}}</ref>
+|{{USRaceRating|Solid|R}}
+|September 3, 2026
+|-
+|align="left"|[[RealClearPolitics]]<ref>{{Cite web|title=2026 Governor Races {{!}} RealClearPolitics|url=https://www.realclearpolling.com/maps/governor/2026/toss-up|access-date=June 5, 2026|website=[[RealClearPolitics]]|archive-url=https://web.archive.org/web/20260601183127/https://www.realclearpolling.com/maps/governor/2026/toss-up|archive-date=June 1, 2026|url-status=dead}}</ref>
+|{{USRaceRating|Solid|R}}
+|June 5, 2026
+|-
+|align=left|''[[Sabato's Crystal Ball]]''<ref>{{cite web|title=2026 Governor|url=https://centerforpolitics.org/crystalball/2026-governor/|website=[[Sabato's Crystal Ball]]|access-date=May 1, 2025}}</ref>
+|{{USRaceRating|Safe|R}}
+|September 3, 2026
+|-
+| style="text-align: left;" |[[Silver Bulletin]]<ref name=":Silver">{{Cite web |last=Silver |first=Nate |date=2026-08-20 |title=FLIPR 2026 midterm election forecast |url=https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model |url-access=subscription |access-date=2026-08-20 |website=www.natesilver.net |language=en}}</ref>
+| {{US political race rating|Solid|R}}
+|August 25, 2026
+|}
+
+===Post-primary endorsements===
+{{Endorsements box
+| title = Doug Jones (D)
+| list =
+;Statewide officials
+*[[Andy Beshear]], [[governor of Kentucky]] (2019–present)<ref>{{cite web |last1=Tinker |first1=Andrea |title=Kentucky Gov. Andy Beshear stumps for Doug Jones’ gubernatorial campaign |url=https://alabamareflector.com/2026/05/20/kentucky-gov-andy-beshear-campaigns-for-doug-jones-gubernatorial-campaign/ |website=Alabama Reflector |access-date=21 May 2026 |date=May 20, 2026}}</ref>
+;State legislators
+*[[Stacey Abrams]], former member of the [[Georgia House of Representatives]] (2007–2017) and nominee for governor of Georgia in [[2018 Georgia gubernatorial election|2018]] and [[2022 Georgia gubernatorial election|2022]]<ref>{{cite web |last1=Dunigan |first1=Jonece Starr |title=Stacey Abrams joining Doug Jones during Huntsville rally |url=https://www.al.com/news/huntsville/2026/10/stacey-abrams-joining-doug-jones-during-huntsville-rally.html |website=AL.com |access-date=7 October 2026 |date=October 5, 2026}}</ref>
+;Organizations
+* [[Center for New Liberalism]]<ref>https://www.instagram.com/p/Ddo_1o7EWOB/?img_index=7&stkn=MXJ4eGVxaWd4ZG96cQ==</ref>
+*[[Omega Psi Phi|Omega Network for Action]]<ref>https://omeganetworkforaction.org/doug-jones-2/</ref>
+;Labor unions
+*Alabama [[AFL-CIO]]<ref name="AFLCIO">{{cite web |title=Alabama AFL-CIO |url=https://bluevoterguide.org/endorser-org/Alabama_AFL-CIO/AL/8263 |website=Blue Voter Guide |access-date=11 September 2026}}</ref>
+}}
+
+===Polling===
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"}}
+! Margin<br />of error
+! style="width:100px;"| Tommy<br />Tuberville (R)
+! style="width:100px;"| Doug<br />Jones (D)
+! Undecided
+|-
+|style="text-align:left;"|RMG Research (R)<ref>{{cite web |last1=Everett |first1=Grayson |title=Report: Doug Jones is polling worse than 2020 blowout election |url=https://yellowhammernews.com/report-doug-jones-is-polling-worse-than-2020-blowout-election/ |website=Yellowhammer News |access-date=1 October 2026 |date=October 1, 2026}}</ref>{{Efn-ua|Poll conducted for Alabama Policy Action}}
+|September 21–25, 2026
+|800 (RV)
+|±&nbsp;3.5%
+|{{party shading/Republican}}|'''50%'''
+|37%
+|13%
+|-
+|style="text-align:left;"|yes. every kid.<ref>{{cite web |last1=Foster |first1=Scott|title=Alabama l⁠i⁠kely vo⁠t⁠ers suppor⁠t⁠ fully fund⁠i⁠ng ⁠t⁠he CHOOSE Ac⁠t⁠ |url=https://yeseverykidfoundation.org/alabama-likely-voters-support-fully-funding-the-choose-act/ |website=yes.every kid. |access-date=August 4, 2026 |date=August 3, 2026}}</ref>
+|July 8–11, 2026
+|601 (LV)
+|±&nbsp;4.0%
+|{{party shading/Republican}}|'''49%'''
+|41%
+|11%
+|-
+|style="text-align:left;"|[[List of polling organizations#United States|Cygnal]] (R)<ref>{{cite web |title=Tuberville in Control While Jones Faces Impossible Odds |url=https://www.cygn.al/wp-content/uploads/2025/11/AL-Gov-Gen-Elect-Poll-Memo.pdf |website=Cygnal |access-date=18 November 2025 |date=November 17, 2025}}</ref>
+|November 12–13, 2025
+|605 (LV)
+|±&nbsp;4.0%
+|{{party shading/Republican}}|'''53%'''
+|34%
+|13%
+|}
+
+===Fundraising===
+{| class="wikitable sortable"
+|-
+! colspan=6 |Campaign finance reports as of September 30, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Other receipts
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|Tommy Tuberville (R)
+|$15,668,398
+|$152,329
+|$9,259,733
+|$6,560,994
+|-
+|{{party shading/Democratic}}|Doug Jones (D)
+|$5,873,022
+|$0
+|$3,695,172
+|$2,178,350
+|-
+! colspan="6" |<small>Source: Alabama FCPA<ref name="Finance"/></small>
+|}
+
+===Results===
+{{Election box begin no change
+ | title=2026 Alabama gubernatorial election
+}}
+{{Election box candidate with party link no change
+ | party=Alabama Republican Party
+ | candidate=[[Tommy Tuberville]]
+ | votes=
+ | percentage=}}
+{{Election box candidate with party link no change
+ | party=Alabama Democratic Party
+ | candidate=[[Doug Jones (politician)|Doug Jones]]
+ | votes=
+ | percentage=}}
+{{Election box write-in with party link no change
+ | votes=
+ | percentage=}}
+{{Election box total no change
+ | votes=
+ | percentage=100.00}}
+{{Election box end}}
+
+== Challenges to Tuberville's eligibility ==
+Alabama's governors, unlike its U.S. senators, must satisfy three conditions set out in Article V, Section 117 of the [[Constitution of Alabama]]:<blockquote>The governor and lieutenant governor shall each be at least thirty years of age when elected, and shall have been citizens of the United States ten years and resident citizens of this state at least seven years next before the date of their election.<ref>{{Cite web|title=SECTION 117|url=https://law.justia.com/constitution/alabama/CA-245654.html|access-date=January 30, 2026|website=[[Justia]]}}</ref> </blockquote>Throughout Tuberville's gubernatorial campaign, many have alleged that he does not satisfy the seven-year residency condition, which would render him ineligible to hold the office.
+
+=== Background ===
+[[File:Map of Alabama and Florida with Lee County, AL and Walton County, FL highlighted.png|thumb|Tuberville owns residences in Lee County, Alabama, and Walton County, Florida.]]
+Tuberville is originally from Arkansas. In addition to his 9-year tenure at [[Auburn University]] in Alabama, Tuberville's football coaching career variously placed him in Florida, Mississippi, Texas, and Ohio.<ref>{{Cite news |last=Brassil |first=Gillian R. |date=2020-07-15 |title=Tuberville Advances: Will Alabama Send an Auburn Coach to the Senate? |url=https://www.nytimes.com/2020/07/15/sports/tommy-tuberville-alabama-auburn.html |access-date=2026-07-09 |work=The New York Times |language=en-US |issn=0362-4331}}</ref> In July 2017, having retired from coaching and joined [[ESPN]] as an analyst, Tuberville recorded a promotional video at his residence in [[Santa Rosa Beach, Florida]], in which he says, "Six months ago, after 40 years of coaching football, I hung up my whistle and moved to Santa Rosa Beach, Florida, with the white sands and the blue water. What a great place to live."<ref>{{Cite web |last=Volner |first=Derek |date=2017-07-19 |title=Greetings from the beach: New ESPN, ABC CFB analyst Tommy Tuberville |url=https://www.espnfrontrow.com/2017/07/greetings-beach-new-espn-abc-cfb-analyst-tommy-tuberville/ |access-date=2026-07-09 |website=ESPN Front Row |language=en-US}}</ref> Tuberville purchased the 4,000-square-foot Florida residence through an [[Limited liability company|LLC]] in 2004,<ref>{{Cite news |last=Hakim |first=Danny |date=2020-10-12 |title=Tommy Tuberville’s Financial Fumbles |url=https://www.nytimes.com/2020/10/12/us/elections/senate-alabama-tuberville-jones.html |access-date=2026-07-09 |work=The New York Times |language=en-US |issn=0362-4331}}</ref> and its value was estimated at $5.6 million in 2026.<ref>{{Cite web |last=Press |first=Associated |date=2026-06-14 |title=Tuberville residency hearing today in Hoover |url=https://aldailynews.com/tuberville-residency-hearing-today-in-hoover/ |access-date=2026-07-09 |website=Alabama Daily News |language=en-US}}</ref>
+
+In March 2017, Tuberville filed preliminary paperwork to run for governor of Alabama in the [[2018 Alabama gubernatorial election|2018 election]],<ref>{{Cite web |last=Stevens |first=Matthew |title=Tuberville files paperwork & receives $100K loan for potential governor run |url=https://www.montgomeryadvertiser.com/story/news/2017/03/31/tuberville-files-paperwork-receives-100k-loan-potential-governor-run/99890632/ |access-date=2026-07-09 |website=Montgomery Advertiser |language=en-US}}</ref> but he withdrew less than a month later, citing the seven-year residency requirement as a concern.<ref>{{Cite web |last=Rapp |first=Timothy |title=Former Auburn HC Tommy Tuberville Announces He Will Not Run for Alabama Governor |url=https://bleacherreport.com/articles/2705689-former-auburn-hc-tommy-tuberville-announces-he-will-not-run-for-alabama-governor |access-date=2026-07-09 |website=bleacherreport.com |language=en}}</ref> 
+
+Tuberville was issued an Alabama driver's license in March 2019, shortly before declaring his candidacy in [[2020 United States Senate election in Alabama|the state's 2020 U.S. Senate race]].<ref>{{Cite web |last=Knowles |first=Sawyer |date=2026-06-15 |title=Alabama Republican Party rules that Tuberville fully meets residency requirements |url=https://256today.com/alabama-republican-party-rules-that-tuberville-fully-meets-residency-requirements/ |access-date=2026-07-09 |website=256 Today |language=en-US}}</ref> During the campaign, Tuberville claimed that he had moved to Alabama in August of 2018, despite having voted in Florida in the [[2018 United States elections|November 2018 midterm elections]].<ref>{{Cite web |last=Jackson |first=Dale |date=2019-05-02 |title=Tuberville moved to Alabama to run for Senate in August 2018 -- but voted in Florida in last November's election |url=https://yellowhammernews.com/tuberville-moved-to-alabama-to-run-for-senate-in-august-2018-but-voted-in-florida-in-last-novembers-election/ |access-date=2026-07-09 |website=Yellowhammer News |language=en-US}}</ref> Tuberville cited a 1,551-square-foot home on Cherry Street in [[Auburn, Alabama]], as his primary residence.<ref name=":0">{{Cite web |last=jsharp@al.com |first=John Sharp {{!}} |date=2025-03-26 |title=Tommy Tuberville not the first to raise election residency questions: Do Alabama voters care? |url=https://www.al.com/politics/2025/03/tommy-tuberville-not-the-first-to-raise-election-residency-questions-do-alabama-voters-care.html |access-date=2026-07-09 |website=al |language=en}}</ref> The home was purchased under the names of Tuberville's wife and son in March 2017,<ref name=":0" /> and they claimed a [[homestead exemption]] in October 2018.<ref>{{Cite web |last=Sell |first=Mary |date=2025-04-29 |title=Tax records show Tuberville's Auburn homestead exemption since 2018 |url=https://aldailynews.com/tax-records-show-tubervilles-auburn-homestead-exemption-since-2018/ |access-date=2026-07-09 |website=Alabama Daily News |language=en-US}}</ref> Tuberville did not appear on the deed for the property himself until 2024.<ref>{{Cite web |last=Moon |first=Josh |date=2026-06-17 |title=The first, and most daunting, legal challenge to Tuberville's candidacy has been filed |url=https://www.alreporter.com/2026/06/17/the-first-and-most-daunting-legal-challenge-to-tubervilles-candidacy-has-been-filed/ |access-date=2026-07-09 |website=Alabama Political Reporter |language=en-US}}</ref>
+
+During the 2020 Republican primary for U.S. Senate, Republican opponent [[Bradley Byrne]] said of Tuberville, "We don’t like [[Carpetbagger (politics)|carpetbaggers]] in Alabama,"<ref>{{Cite web |last=Poor |first=Jeff |date=2019-05-04 |title=Byrne on Tuberville's Florida voter registration: 'We don't like carpetbaggers in Alabama' |url=https://yellowhammernews.com/byrne-on-tubervilles-florida-voter-registration-we-dont-like-carpetbaggers-in-alabama/ |access-date=2026-07-09 |website=Yellowhammer News |language=en-US}}</ref> to which Tuberville commented at an August 2019 campaign event, "I’m not an everyday resident of Alabama. [...] I’ve been here most of the last 20 years. I’ve had property. So, you’ll see that on TV – ‘He’s a carpetbagger.’ Yeah, I’m a carpetbagger of this country. I love this country. I love this state. I’m a carpetbagger."<ref>{{Cite web |last=Poor |first=Jeff |date=2019-08-04 |title=Tuberville dings Trump for veterans' health care problems, addresses 'carpetbagger' label, tax dodging allegations in Shoals appearances |url=https://yellowhammernews.com/tuberville-dings-trump-for-veterans-health-care-problems-addresses-carpetbagger-label-tax-dodging-allegations-in-shoals-appearances/ |access-date=2026-07-09 |website=Yellowhammer News |language=en-US}}</ref> Republican primary opponent [[Jeff Sessions]] commissioned advertisements labeling Tuberville a "[[Florida Man]]"<ref>{{Cite web |last=Lesniewski |first=Niels |date=2020-03-06 |title=Jeff Sessions’ campaign calls Tuberville a ‘Florida man’ |url=https://rollcall.com/2020/03/06/jeff-sessions-campaign-calls-tuberville-a-florida-man/ |access-date=2026-07-09 |website=Roll Call |language=en-US}}</ref> and referred to him as a "tourist from Florida."<ref>{{Cite web |url=https://www.pbs.org/newshour/politics/trump-attacks-sessions-ahead-of-senate-primary-runoff |access-date=2026-07-09 |website=www.pbs.org|title=Trump attacks Sessions ahead of Senate primary runoff|date=2020-03-04|last=Chandler|first=Kim}}</ref>
+
+In March 2025, amid speculation that Tuberville would mount a gubernatorial bid, Alabama state senator [[Sam Givhan]], a Republican, expressed concerns about Tuberville's ability to meet the residency requirement, saying during a radio appearance, "Owning a house in Alabama is not enough. You’ve got to live here seven years. [...] So that’s going to be a hurdle."<ref>{{Cite web |last=Cason |first=Mike |date=2025-03-18 |title=Can Tuberville run for governor? Alabama Republican questions whether he meets residency requirement |url=https://www.al.com/politics/2025/03/can-tuberville-run-for-governor-alabama-republican-questions-whether-he-meets-residency-requirement.html |access-date=2026-07-15 |website=al |language=en}}</ref>
+
+During Tuberville's tenure as Senator, expense records have shown significant spending on air travel, transportation, and dining in the area near his Florida property.<ref>{{Cite web |last=Britt |first=Bill |date=2025-04-24 |title=Tuberville’s travel trail points to home in Florida, not Alabama |url=https://www.alreporter.com/2025/04/24/tubervilles-travel-trail-points-to-home-in-florida-not-alabama/ |access-date=2026-07-09 |website=Alabama Political Reporter |language=en-US}}</ref> In May 2026, speaking to reporters after his induction into the [[Alabama Sports Hall of Fame]], Tuberville said, "I go back to Auburn three or four ball games a year. Actually, I live in Auburn, but living mostly in [[Washington, D.C.|D.C]]., you know, during the week."<ref>{{Cite AV media |url=https://www.youtube.com/watch?v=iPdiCn7lUl4 |title=Alabama Sports Hall of Fame interviews: Tommy Tuberville |date=2026-05-08 |last=ABC 33/40 |access-date=2026-07-10 |via=YouTube}}</ref>
+
+=== Challenges from Ken McFeeters ===
+[[File:Ken McFeeters - Ralph Chapoco, Alabama Reflector.jpg|thumb|300x300px|Ken McFeeters announced a lawsuit against Tuberville on March 24, 2026.]]
+On January 27, 2026, after the filing deadline for the Republican Party primary had passed, Tuberville's gubernatorial primary opponent, Ken McFeeters, submitted a challenge to the [[Alabama Republican Party]], formally alleging that Tuberville did not satisfy the state's residency requirement. McFeeters alleged in his petition that Tuberville primarily resides at his beachfront house in Santa Rosa Beach, Florida.<ref>{{Cite web|author=NBC 15|title=Tuberville's Alabama residency formally challenged by gubernatorial opponent|url=https://mynbc15.com/news/local/tubervilles-alabama-residency-questioned-gop-urged-to-decide-on-eligibility|date=January 27, 2026|access-date=January 30, 2026|website=[[WMTV]]}}</ref> A spokesperson for Tuberville described the challenge as "a ridiculous PR stunt from a desperate candidate,"<ref>{{Cite web|last1=Davis|first1=Kayla|title=Republican candidate challenges Sen. Tommy Tuberville's residency, saying he lives in Florida|url=https://www.wvtm13.com/article/tuberville-mcfeeter-senator-alabama-governor-election/70176207|date=January 28, 2026|access-date=January 30, 2026|website=[[WVTM]]}}</ref> and Tuberville dismissed the allegation, stating, "What a joke. I guess they think, you know, I hadn't done my homework."<ref>{{Cite web|last1=Conlon|first1=Riley|last2=Higdon|first2=Michal|title='What a joke': Sen. Tommy Tuberville dismisses challenge to his Alabama residency|url=https://www.wvtm13.com/article/tuberville-residency-governor-challenge-alabama-florida/70193402|date=January 29, 2026|access-date=January 30, 2026|website=[[WVTM]]}}</ref>
+
+The Alabama Republican Party's 21-member steering committee reviewed the challenge on February 2, 2026, and rejected it, clearing the path for Tuberville to be on the primary ballot.<ref>{{cite web |last1=Marie Fogel |first1=Apryl |title=ALGOP steering committee votes down Tuberville, Wahl ballot challenges |url=https://1819news.com/news/item/algop-steering-committee-votes-down-tuberville-wahl-ballot-challenges |website=1819 News |access-date=2 February 2026 |date=February 2, 2026}}</ref> In a press release following the committee's decision, Tuberville's campaign chairman Jordan Doufexis celebrated that "common sense has prevailed and this made-up 'residency' hoax will be put to bed for good."<ref>{{Cite web |last=Press |first=Coach Tuberville |date=2026-02-02 |title=ALGOP Unanimously Votes to Dismiss Ridiculous "Residency" Challenge Against Coach Tuberville |url=https://www.coachforgovernor.com/post/algop-unanimously-votes-to-dismiss-ridiculous-residency-challenge-against-coach-tuberville |access-date=2026-07-09 |website=Coach Tommy Tuberville for Governor |language=en}}</ref> 
+
+In March 2026, McFeeters announced on the steps of the [[Alabama State Capitol|Alabama Capitol]] that he had filed a lawsuit against Tuberville in the [[Covington County, Alabama|Covington County]] Circuit Court.<ref>{{Cite web |last=Chapoco |first=Ralph |date=2026-03-24 |title=Republican gubernatorial candidate files lawsuit against U.S. Sen. Tommy Tuberville |url=https://alabamareflector.com/2026/03/24/republican-gubernatorial-candidate-files-lawsuit-against-u-s-sen-tommy-tuberville/ |access-date=2026-07-09 |website=Alabama Reflector |language=en-US}}</ref> McFeeters, though not a lawyer, litigated the case ''[[Pro se legal representation in the United States|pro se]]'' and listed “God’s Law Team” as his law firm in the complaint.<ref>PLAINTIFF’S RESPONSE IN OPPOSITION TO DEFENDANT TUBERVILLE’S MOTION TO DISMISS AND MOTION FOR THRESHOLD DETERMINATION OF CONSTITUTIONAL ELIGIBILITY<nowiki/>https://bloximages.chicago2.vip.townnews.com/lagniappemobile.com/content/tncms/assets/v3/editorial/c/1e/c1e5cf02-ffb6-499b-a514-fd3140bd74ce/6a0c7e77a1d9f.pdf.pdf</ref><ref>{{Cite web |last=Chapoco |first=Ralph |date=2026-03-24 |title=Republican gubernatorial candidate files lawsuit against U.S. Sen. Tommy Tuberville |url=https://alabamareflector.com/2026/03/24/republican-gubernatorial-candidate-files-lawsuit-against-u-s-sen-tommy-tuberville/ |access-date=2026-07-10 |website=Alabama Reflector |language=en-US}}</ref> McFeeters pledged that he would drop out of the race if Tuberville released records demonstrating proof of residency.<ref>{{Cite web |last=Harrison |first=Claire |date=2026-03-25 |title=McFeeters files lawsuit challenging Tuberville’s residency |url=https://aldailynews.com/mcfeeters-files-lawsuit-challenging-tubervilles-residencyr/ |access-date=2026-07-15 |website=Alabama Daily News |language=en-US}}</ref> Tuberville did not release any records, and the lawsuit was dismissed for improper venue on May 18, 2026, the day before the primary election.<ref>{{Cite web |last=Chapoco |first=Ralph |date=2026-05-20 |title=Judge dismisses lawsuit challenging Tommy Tuberville's eligibility to be governor |url=https://alabamareflector.com/2026/05/19/judge-dismisses-lawsuit-challenging-tommy-tubervilles-eligibility-to-be-governor/ |access-date=2026-07-09 |website=Alabama Reflector |language=en-US}}</ref>
+
+On May 27, 2026, the week after the primary election, McFeeters filed another challenge with the Alabama Republican Party, arguing that the party should void Tuberville's nomination on eligibility grounds.<ref>{{Cite web |last=JOHNSON |first=SCOTT |date=2026-05-27 |title=Candidate seeks to void Tuberville nomination |url=https://www.lagniappemobile.com/news/alabama/election_2026/candidate-seeks-to-void-tuberville-nomination/article_eeee2816-55e1-499c-88d1-e9994197cacd.html |access-date=2026-07-09 |website=Lagniappe Daily |language=en}}</ref> The party's Candidate Committee voted to proceed with the contest, surprising McFeeters, who said he was "totally shocked."<ref>{{Cite web |last=JOHNSON |first=SCOTT |date=2026-06-01 |title=ALGOP advances Tuberville nomination challenge |url=https://www.lagniappemobile.com/news/alabama/algop-advances-tuberville-nomination-challenge/article_ce1da93a-071a-4c52-9cd5-d0fe5b246228.html |access-date=2026-07-09 |website=Lagniappe Daily |language=en}}</ref> During the proceedings, Tuberville produced seven years of heavily redacted Alabama tax returns, from 2018 to 2024.<ref>{{Cite web |last=Barrett |first=Anna |date=2026-06-02 |title=Tuberville submits income tax returns, expert says it's not enough to prove residency |url=https://alabamareflector.com/2026/06/02/tuberville-submits-income-tax-returns-expert-says-its-not-enough-to-prove-residency/ |access-date=2026-07-09 |website=Alabama Reflector |language=en-US}}</ref> However, by failing to adequately redact scannable [[PDF417|PDF417 barcodes]] in the corners of the document, the unredacted contents of the tax returns were inadvertently made available to the involved parties.<ref>{{Cite web |last=JOHNSON |first=SCOTT |date=2026-06-05 |title=Campaign exposes Tuberville’s tax, financial history |url=https://www.lagniappemobile.com/news/alabama/campaign-exposes-tuberville-s-tax-financial-history/article_578d2e17-d57a-4863-8682-3e3b65fe9a3a.html |access-date=2026-07-09 |website=Lagniappe Daily |language=en}}</ref> McFeeters, unconvinced that the tax returns sufficiently demonstrated proof of residency, shared plans to continue his challenge, telling [[AL.com]], “I want his wife to tell me, with a straight face, that she lives in a one-bathroom house with her husband and adults and guests. A woman like that is not going to share a bathroom.”<ref>{{Cite web |last=Smith |first=Ruth Serven |date=2026-06-02 |title=Tuberville releases long-awaited tax returns, says he’s lived in Alabama since 2018 |url=https://www.al.com/news/2026/06/tuberville-releases-long-awaited-tax-returns-says-hes-lived-in-alabama-since-2018.html |access-date=2026-07-09 |website=al |language=en}}</ref>
+
+Following an internal closed-door hearing on June 14, 2026, the Alabama Republican Party Candidate Committee unanimously dismissed the challenge.<ref>{{Cite web |last=Knowles |first=Sawyer |date=2026-06-15 |title=Alabama Republican Party rules that Tuberville fully meets residency requirements |url=https://256today.com/alabama-republican-party-rules-that-tuberville-fully-meets-residency-requirements/ |access-date=2026-07-09 |website=256 Today |language=en-US}}</ref>
+
+In July 2026, McFeeters filed a second lawsuit with similar allegations in the [[Jefferson County, Alabama|Jefferson County]] Circuit Court.<ref>{{Cite web |last=Shelley |first=Jonathan |date=July 30, 2026 |title=Back to court: Ken McFeeters sues (again) over Tuberville's residency, eligibility for governor |url=https://www.rocketcitynow.com/article/news/state/back-to-court-ken-mcfeeters-sues-again-over-tubervilles-residency-eligibility-for-governor/525-4cec25e8-bc59-4143-9721-479fa17644dc}}</ref> The case was dismissed on August 18, 2026 for lack of jurisdiction.<ref>{{Cite web |last=Moon |first=Josh |date=2026-08-20 |title=Another Tuberville residency challenge has been dismissed |url=https://www.alreporter.com/2026/08/20/another-tuberville-residency-challenge-has-been-dismissed/ |access-date=2026-08-20 |website=Alabama Political Reporter |language=en-US}}</ref> On August 13, 2026, McFeeters additionally filed a federal lawsuit, which was dismissed one day later for lack of [[Standing (law)|standing]].<ref>{{Cite web |last=Shelley |first=Jonathan |date=August 14, 2026 |title=Judge dismisses federal lawsuit seeking to block Sen. Tuberville's run for governor |url=https://www.rocketcitynow.com/article/news/local/judge-dismisses-federal-lawsuit-seeking-to-block-sen-tubervilles-run-for-governor/525-dca50942-69d5-43d0-85b6-dc0f2678ce49}}</ref>
+
+=== Quo warranto lawsuit ===
+[[File:Barry Ragsdale - Anna Barrett, Alabama Reflector.jpg|thumb|219x219px|Birmingham lawyer Barry Ragsdale is an attorney for the plaintiffs.]]
+On June 17, 2026, plaintiffs Brook Dorgan and Justin LeBlanc filed a lawsuit against Tuberville in the [[Montgomery County, Alabama|Montgomery County]] Circuit Court, which seeks a [[Quo warranto|writ of ''quo warranto'']] to invalidate Tuberville's candidacy. The complaint, citing voter registration records, tax records, campaign finance records, and quotes from Tuberville himself, alleges that Tuberville has not consistently maintained residence at his Auburn, Alabama property.<ref>{{Cite web |title=EXPEDITED COMPLAINT FOR QUO WARRANTO AND DECLARATORY RELIEF |url=https://whnt.com/wp-content/uploads/sites/20/2026/06/Tuberville-Residency-Challenge-Lawsuit.pdf}}</ref> The complaint requested an expedited jury trial, with plaintiffs' attorney Barry Ragsdale saying on a podcast, "We think that your average person who sits on a jury is just never, ever going to believe the stories that Tuberville makes up about where he lives."<ref>{{Cite web |title=Barry Ragsdale on the Tuberville Lawsuit |url=https://podcasts.apple.com/us/podcast/barry-ragsdale-on-the-tuberville-lawsuit/id1845915473?i=1000774023089 |access-date=2026-07-09 |website=Apple Podcasts |language=en-US}}</ref> Tuberville filed a motion to dismiss the suit on June 22, 2026.<ref>{{Cite web |last=Harrison |first=Claire |date=2026-06-23 |title=Tuberville files motion to dismiss in latest residency case |url=https://aldailynews.com/tuberville-files-motion-to-dismiss-in-latest-residency-case/ |access-date=2026-07-09 |website=Alabama Daily News |language=en-US}}</ref> 
+
+On July 9, 2026, Montgomery County Circuit Judge Brooke Reid dismissed the lawsuit for insufficient jurisdiction.<ref name=":1">{{Cite web |last=Barrett |first=Anna |date=2026-07-09 |title=Tommy Tuberville residency lawsuit dismissed by Montgomery judge |url=https://alabamareflector.com/2026/07/09/tommy-tuberville-residency-lawsuit-dismissed-by-montgomery-judge/ |access-date=2026-07-09 |website=Alabama Reflector |language=en-US}}</ref> The dismissal order cites a lack of case law concerning whether ''quo warranto'' may be applied for party nominees. However, Reid did affirm that the state constitution allows the judiciary to determine whether an individual satisfies the "clearly set forth and unambiguous" requirements to hold office, which Tuberville's lawyers had disputed.<ref name=":1" /> Reid did not render a verdict on the underlying question of Tuberville's eligibility. 
+
+On July 14, 2026, Ragsdale filed an appeal to the [[Supreme Court of Alabama|Alabama Supreme Court]].<ref>{{Cite web |title=Barry Ragsdale appeals dismissed lawsuit challenging Tuberville’s… |url=https://1819news.com/news/item/barry-ragsdale-appeals-dismissed-lawsuit-challenging-tubervilles-residency-to-alabama-supreme-court |access-date=2026-07-14 |website=[[1819 News]] |language=en-US}}</ref>  The Supreme Court dismissed the appeal in a 7-0 ruling.<ref>{{Cite web |title=Alabama Supreme Court rules 7-0 for Tuberville, ends ‘residency hoax’ in courts for good |url=https://yellowhammernews.com/alabama-supreme-court-rules-7-0-for-tuberville-ends-residency-hoax-in-courts-for-good/ |access-date=2026-10-09 |website=[[Yellowhammer News]] |language=en-US}}</ref>
+
+== See also ==
+*[[2026 United States elections]]
+*[[2026 Alabama elections]]
+
+==Notes==
+{{notelist}}
+'''Partisan clients'''<br/>
+{{notelist-ua}}
+
+==References==
+{{reflist}}
+
+==External links==
+;Official campaign websites
+*[https://www.dougjones.com/ Doug Jones (D)]
+*[https://www.coachforgovernor.com/ Tommy Tuberville (R)]
+
+{{2026 United States elections}}
+{{Elections in Alabama footer}}
+[[Category:Alabama gubernatorial elections]]
+[[Category:2026 Alabama elections|Gubernatorial]]
+[[Category:2026 United States gubernatorial elections|Alabama]]

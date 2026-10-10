@@ -142,6 +142,7 @@
             </table>
           </div>
           <p class="footnote">Seat ranges are the 10th&ndash;90th percentile of simulations. Senate D+I counts independents only when they caucus with Democrats in that simulation. The highlighted row is the scenario selected above.</p>
+          <p class="footnote" data-field="market-chambers" hidden></p>
         </div>
       </div>
     </section>
@@ -193,7 +194,7 @@
           <table class="race-table" id="race-table">
             <colgroup>
               <col class="c-state"><col class="c-held"><col class="c-cand"><col class="c-poll"><col class="c-margin">
-              <col class="c-p"><col class="c-p"><col class="c-p"><col class="c-tip">
+              <col class="c-p"><col class="c-p"><col class="c-p"><col class="c-tip"><col class="c-mkt">
             </colgroup>
             <thead>
               <tr>
@@ -206,12 +207,48 @@
                 <th scope="col" data-sort="p_pres_style_D_overstatement" aria-sort="descending" class="num" data-col="pres_style_D_overstatement"><button type="button"><span>P(D)<small>Dems +3</small></span></button></th>
                 <th scope="col" data-sort="p_r_overstatement_2025" aria-sort="none" class="num" data-col="r_overstatement_2025"><button type="button"><span>P(D)<small>Reps +6</small></span></button></th>
                 <th scope="col" data-sort="tipping_freq" aria-sort="none" class="num"><button type="button">Tipping %</button></th>
+                <th scope="col" data-sort="market_p_dem" aria-sort="none" class="num"><button type="button"><span>Market<small>Polymarket</small></span></button></th>
               </tr>
             </thead>
             <tbody></tbody>
           </table>
         </div>
-        <p class="footnote"><strong>Poll avg / Model margin:</strong> Democratic margin in points (D+ / R+); the number in parentheses is how many polls went into the average. <strong>&ldquo;No polls&rdquo;</strong> means no public polling was found for that race (mostly safe seats), so the model margin there comes from fundamentals alone. <strong>Model margin</strong> blends the polling average with fundamentals (partisan lean, generic ballot, incumbency, candidate quality) before polling error is simulated. Poll weight shrinks when a poll average is stale, partisan-sponsored, or far from fundamentals (possible herding). <strong>Tipping %:</strong> how often the race delivers the decisive 51st Democratic seat; values under 0.1% are shown as &ldquo;&lt;0.1%&rdquo;. On small screens the table scrolls sideways.</p>
+        <p class="footnote"><strong>Poll avg / Model margin:</strong> Democratic margin in points (D+ / R+); the number in parentheses is how many polls went into the average. <strong>&ldquo;No polls&rdquo;</strong> means no public polling was found for that race (mostly safe seats), so the model margin there comes from fundamentals alone. <strong>Model margin</strong> blends the polling average with fundamentals (partisan lean, generic ballot, incumbency, candidate quality) before polling error is simulated. Poll weight shrinks when a poll average is stale, partisan-sponsored, or far from fundamentals (possible herding). <strong>Tipping %:</strong> how often the race delivers the decisive 51st Democratic seat; values under 0.1% are shown as &ldquo;&lt;0.1%&rdquo;. <strong>Market:</strong> Polymarket price for the Democratic (or Dem-side independent) candidate, <span data-field="market-asof">Oct 10</span>; shown for comparison only, not a model input. On small screens the table scrolls sideways.</p>
+      </div>
+    </section>
+
+    <!-- Governor races -->
+    <section id="governors" class="section alt">
+      <div class="wrap">
+        <h2 class="section-title">Governor races</h2>
+        <p class="section-lede">36 governorships are up (18 held by each party; today 24 D, 26 R). Because governor races are far less nationalized than Senate races, each race starts from the average of seven forecasters' ratings (Cook, DDHQ, Fox, Inside Elections, RCP, Sabato, Silver Bulletin; Oct 1&ndash;8), blended with the polling average, and shares the same national polling-error draws as the Senate and House. The column for the scenario selected above is highlighted.</p>
+        <p class="gov-summary" data-field="gov-summary" aria-live="polite"></p>
+        <div class="filters">
+          <label class="check"><input type="checkbox" id="gov-competitive" checked> Competitive only <span class="muted">(10&ndash;90% in any scenario)</span></label>
+        </div>
+        <div class="table-scroll race-scroll" tabindex="0" role="region" aria-label="Governor race table (scrolls horizontally on small screens)">
+          <table class="race-table gov-table" id="gov-table">
+            <colgroup>
+              <col class="c-state"><col class="c-held"><col class="c-cand"><col class="c-poll"><col class="c-margin">
+              <col class="c-p"><col class="c-p"><col class="c-p"><col class="c-mkt">
+            </colgroup>
+            <thead>
+              <tr>
+                <th scope="col">State</th>
+                <th scope="col">Held</th>
+                <th scope="col">Candidates</th>
+                <th scope="col" class="num">Poll avg</th>
+                <th scope="col" class="num">Model margin</th>
+                <th scope="col" class="num" data-col="unbiased"><span>P(D)<small>Unbiased</small></span></th>
+                <th scope="col" class="num" data-col="pres_style_D_overstatement"><span>P(D)<small>Dems +3</small></span></th>
+                <th scope="col" class="num" data-col="r_overstatement_2025"><span>P(D)<small>Reps +6</small></span></th>
+                <th scope="col" class="num"><span>Market<small>Polymarket</small></span></th>
+              </tr>
+            </thead>
+            <tbody></tbody>
+          </table>
+        </div>
+        <p class="footnote"><strong>Poll avg:</strong> mean of the polling aggregators listed on each race's Wikipedia page (270toWin, DDHQ, FiftyPlusOne, RCP, Race to the WH, Silver Bulletin), or, where no aggregate exists or it is stale (Alaska, South Carolina, Vermont, Wisconsin, Rhode Island), the mean of recent nonpartisan polls; Alaska uses the final ranked-choice round. Rhode Island is modeled as Foulkes (D) vs independent Ken Block, who polls second (UNH Sep 17&ndash;21: Foulkes 44, Block 25, Guckian (R) 17). <strong>&ldquo;Ratings only&rdquo;</strong> means no poll was used (mostly unanimous Safe/Solid races). <strong>Model margin</strong> blends the polling average with the ratings-implied margin (Toss-up 0, Tilt 2, Lean 4.5, Likely 9, Safe 16 points). <strong>Market:</strong> Polymarket price for the Democratic nominee, shown for comparison only.</p>
       </div>
     </section>
 
@@ -255,6 +292,7 @@
         <aside class="limits" aria-labelledby="limits-title">
           <h2 id="limits-title"><span class="limits-icon" aria-hidden="true">!</span>Honest limitations</h2>
           <ul>
+            <li><strong>Governor races use a simpler model</strong> than the Senate: forecaster ratings plus polls, no fundamentals or candidate terms, so they inherit the forecasters' judgment.</li>
             <li><strong>Snapshot as of October 10, 2026.</strong> Polls, candidates and ratings change; nothing here updates automatically.</li>
             <li><strong>The House model is still simple.</strong> It now blends in expert ratings, but has no district polls, district-level candidate data or fundraising, and uses each state's Hispanic share as a stand-in for district demographics on the new maps. It still sits a few seats above the pros' 224&ndash;234 range in the unbiased case.</li>
             <li><strong>Every coefficient is our assumption.</strong> The herding, demographic, candidate-quality, incumbency and ranked-choice settings are judgment calls informed by published research, not values fitted to past elections. The herding evidence comes from one source and is not proof.</li>

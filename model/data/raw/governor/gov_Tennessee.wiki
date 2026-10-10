@@ -1,0 +1,685 @@
+{{short description|none}}
+{{for|related races|2026 United States gubernatorial elections}}
+{{Use American English|date=January 2025}}
+<!-- "none" is preferred when the title alone is adequate; see [[WP:SDNONE]] -->
+{{use mdy dates|date=September 2023}}
+{{Infobox election
+| election_name = 2026 Tennessee gubernatorial election
+| country = Tennessee
+| type = presidential
+| ongoing = yes
+| previous_election = 2022 Tennessee gubernatorial election
+| previous_year = 2022
+| next_election = 2030 Tennessee gubernatorial election
+| next_year = 2030
+| election_date = November 3, 2026
+| image1 = Sen. Marsha Blackburn (R-TN) official headshot - 116th Congress (cropped).jpg
+| nominee1 = [[Marsha Blackburn]]
+| party1 = Republican Party (United States)
+| running_mate1 = 
+| popular_vote1 = 
+| percentage1 = 
+| image2 = Jerri Green (cropped).3 (cropped).jpg
+| nominee2 = Jerri Green
+| party2 = Democratic Party (United States)
+| running_mate2 = 
+| popular_vote2 = 
+| percentage2 = 
+| map_image = 
+| map_size = 
+| map_caption = 
+| title = [[Governor of Tennessee|Governor]]
+| before_election = [[Bill Lee (Tennessee politician)|Bill Lee]]
+| before_party = Republican Party (United States)
+| after_election = 
+| after_party = 
+}}
+{{ElectionsTN}}
+The '''2026 Tennessee gubernatorial election''' is scheduled to take place on November 3, 2026, to elect the [[governor of Tennessee]]. [[Primary elections]] took place on August 6, 2026.<ref>{{Cite web|date=May 9, 2025 |title=2026 State Primary Election Dates |url=https://www.ncsl.org/elections-and-campaigns/2026-state-primary-election-dates|website= NCSL |access-date=5 August 2025}}</ref> [[Republican Party (United States)|Republican]] senator [[Marsha Blackburn]] and [[Democratic Party (United States)|Democratic]] city councilor Jerri Green are the nominees for their respective parties. Republican incumbent [[Bill Lee (Tennessee politician)|Bill Lee]] is [[Term limits in the United States|term-limited]] and cannot seek a third consecutive term.
+
+Democrats have not won a statewide election in Tennessee since [[Phil Bredesen]] was re-elected governor in [[2006 Tennessee gubernatorial election|2006]]. Either major party nominee would be the first female governor of Tennessee.<ref>{{Cite web |last=Jarrett |first=Kim |date=2026-08-06 |title=Tennessee poised to have its first female governor |url=https://www.themountaineer.com/news/national/tennessee-poised-to-have-its-first-female-governor/article_a34121c2-26dc-503a-8fac-d4ae12051c66.html |access-date=2026-08-13 |website=The Mountaineer |language=en}}</ref>
+
+{{toclimit|2}} 
+==Republican primary==
+=== Candidates ===<!-- Do not add Matt Walsh as a potential, interested, or declined candidate to this section unless sources appear that aren't opinionated local tabloids. Walsh's response on his YouTube channel to the idea of a gubernatorial run is rife with sarcasm, at several points plainly declaring his opposition to the idea. -->
+====Nominee====
+*[[Marsha Blackburn]], U.S. senator (2019–present)<ref>{{cite news |last1=Taylor |first1=Sarah Grace |title=Marsha Blackburn announces run for Governor of Tennessee |url=https://nashvillebanner.com/2025/08/06/marsha-blackburn-tennessee-governor-campaign-launch/ |access-date=August 6, 2025 |work=[[Nashville Banner]] |date=August 6, 2025}}</ref>
+====Eliminated in primary====
+*[[Monty Fritts]], [[Tennessee House of Representatives|state representative]] from the 32nd district (2023–present)<ref>{{cite news |last1=Grace Taylor |first1=Sarah |title=State Rep. Monty Fritts announces 2026 governor run |url=https://nashvillebanner.com/2025/09/08/ascend-amphitheater-opry-entertainment-group/ |access-date=September 8, 2025 |work=Nashville Banner |date=September 8, 2025}}</ref>
+*[[John Rose (Tennessee politician)|John Rose]], [[U.S. representative]] from {{ushr|TN|6}} (2019–present)<ref>{{cite news |last1=Jones |first1=Vivian |title=US Rep. John Rose launches 2026 bid for Tennessee governor |url=https://www.tennessean.com/story/news/politics/2025/03/20/john-rose-launches-2026-campaign-tennessee-governor/82544003007/ |access-date=March 20, 2025 |work=[[The Tennessean]] |date=March 20, 2025}}</ref>
+
+====Declined====
+*[[Mark Green (Tennessee politician)|Mark Green]], former [[U.S. representative]] from {{ushr|TN|7}} (2019–2025)<ref>{{cite news |work=[[Axios (website)|Axios]] |url=https://www.axios.com/2024/12/12/juan-ciscomani-arizona-governor-2026 |date=December 12, 2024 |access-date=December 12, 2024 |author=Solender, Andrew |title=GOP Rep. Ciscomani passes on run for Arizona governor|quote=Rep. Mark Green (R-Tenn.) will not run for governor in 2026, according to a source familiar with his thinking.}}</ref>
+*[[Bill Hagerty]], U.S. senator (2021–present) ''([[2026 United States Senate election in Tennessee|running for re-election]]; endorsed Blackburn)''<ref>{{cite news|last=Feinberg|first=Allie|date=February 11, 2025|title=U.S. Sen. Bill Hagerty will seek reelection, quashing talk of a run for Tennessee governor|work=[[Knoxville News Sentinel]]|publisher=[[Gannett]]|url=https://www.knoxnews.com/story/news/politics/2025/02/11/sen-bill-hagerty-will-run-for-reelection-not-tennessee-governor/78429575007/|access-date=August 23, 2025}}</ref><ref name="Hagerty"/>
+*[[Tre Hargett]], [[Tennessee Secretary of State|secretary of state of Tennessee]] (2009–present)<ref>{{cite news |last1=Sher |first1=Andy |title=Hargett opts out of joining Tennessee governor's race |url=https://pro.stateaffairs.com/tn/news/tennessee-gubernatorial-race-2026 |access-date=August 28, 2025 |work=State Affairs |date=August 28, 2025 |language=en}}</ref>
+*[[Diana Harshbarger]], [[U.S. representative]] from {{ushr|TN|1}} (2021–present)<ref>{{cite news|last=Smith|first=Ben|date=July 16, 2025|title=Race for the next Tenn. governor begins to take form|work=Johnson City Press|publisher=Six Rivers Media|url=https://www.johnsoncitypress.com/news/race-for-the-next-tenn-governor-begins-to-take-form/article_898d05c9-ce6d-4329-ac06-df59fc5e73d0.html|access-date=August 23, 2025}}</ref> ''([[2026 United States House of Representatives elections in Tennessee#District 1|running for re-election]])''
+*[[Pete Hegseth]], [[United States Secretary of Defense]] (2025–present)<ref>{{cite web|url=https://www.nbcnews.com/politics/trump-administration/pete-hegseth-discussed-running-political-office-tennessee-rcna221681|title=Pete Hegseth has discussed running for political office in Tennessee, sources say|last1=Lubold|last2=Kube|last3=Bowman|last4=Tsirkin|first1=Gordon|first2=Courtney|first3=Bridget|first4=Julie|date=July 29, 2025|access-date=July 29, 2025|website=[[NBC News]]}}</ref>
+*[[Kane (wrestler)|Glenn Jacobs]], former mayor of [[Knox County, Tennessee|Knox County]] (2018–2026) ''(endorsed, and later appointed as campaign treasurer to, Blackburn)''<ref name="Kane">{{cite news |last1=Feinberg |first1=Allie |title=Knox County Mayor Glenn Jacobs endorses Sen. Marsha Blackburn for governor |url=https://www.knoxnews.com/story/news/politics/2025/01/14/knox-county-mayor-glenn-jacobs-endorses-sen-marsha-blackburn-for-tennessee-governor/77703180007/ |access-date=January 14, 2025 |work=[[Knoxville News Sentinel]] |date=January 14, 2025 |quote=Jacobs spent months laying the groundwork for a run for governor in 2026, but endorsed Blackburn the night of Jan. 14}}</ref><ref>{{Cite web|url=https://www.wate.com/news/politics/knox-county-mayor-glenn-jacobs-to-be-campaign-treasurer-in-blackburns-run-for-governor/|title=Knox County Mayor Glenn Jacobs to be campaign treasurer in Blackburn's run for governor|website=Wate.com|date=August 7, 2025|access-date=August 6, 2026}}</ref>
+*Stuart McWhorter, Tennessee Commissioner of Economic & Community Development (2022–present)<ref>{{Cite web |author=Schelzig |first=Erik |date=December 6, 2024 |title=Gubernatorial rumblings: McWhorter decides against '26 bid, Jacobs launches fundraising arm |url=https://pro.stateaffairs.com/tn/elections/tennessee-gubernatorial-rumblings |access-date=December 9, 2024 |website=State Affairs |language=en}}</ref>
+*[[Barry Wilmore]], retired [[NASA]] astronaut and [[United States Navy]] [[test pilot]]<ref>{{cite web |last1=Sauter |first1=Danica |title=Barry 'Butch' Wilmore opts out of TN governor bid, says candidacy was never official |url=https://www.wvlt.tv/2026/03/08/barry-butch-wilmore-opts-out-tn-governor-bid-says-candidacy-was-never-official/ |publisher=[[WVLT-TV]] |access-date=10 March 2026 |date=8 March 2026}}</ref>
+
+===Endorsements===
+{{Endorsements box
+|title=Marsha Blackburn
+|list=
+;U.S. senators
+*[[Bill Hagerty]], [[Tennessee]] (2021–present)<ref name="Hagerty">{{cite web |last1=Teague |first1=Slater |title=Sen. Bill Hagerty endorses Marsha Blackburn for Tennessee governor |url=https://www.wjhl.com/news/your-local-election-hq/sen-bill-hagerty-endorses-marsha-blackburn-for-tennessee-governor/ |website=WJHL11 |access-date=28 July 2026 |date=July 23, 2026}}</ref>
+;U.S. representatives
+*[[Tim Burchett]], {{ushr|TN|2|TN-02}} (2019–present)<ref name="Burchett">{{cite web |last1=Morgan-Rumsey |first1=Camruinn |title=Rep. Tim Burchett endorses Blackburn for Tennessee governor |url=https://www.wvlt.tv/2025/08/18/rep-tim-burchett-endorses-blackburn-tennessee-governor/ |website=[[WVLT-TV]] |access-date=18 August 2025 |date=August 18, 2025}}</ref>
+*[[Chuck Fleischmann]], {{ushr|TN|3|TN-03}} (2011–present)<ref>{{Cite web |last=Housler |first=Kaitlin |date=2025-03-06 |title=Tennessee U.S. Rep. Chuck Fleischmann Endorses Marsha Blackburn for Governor |url=https://tennesseestar.com/news/tennessee-u-s-rep-chuck-fleischmann-endorses-marsha-blackburn-for-governor/khousler/2025/03/06/ |access-date=2025-03-09 |website=[[The Tennessee Star]] |language=en-US}}</ref>
+*[[Matt Van Epps]], {{ushr|TN|7|TN-07}} (2025–present)<ref>{{Cite web |date=3 June 2026 |title=Congressman Matt Van Epps endorses Marsha Blackburn for Governor
+|url=https://www.wbbjtv.com/2026/06/03/congressman-matt-van-epps-endorses-marsha-blackburn-governor/ |access-date=16 July 2026|website=WBBJTV |language=en-US}}</ref>
+*[[Jimmy Duncan (politician)|Jimmy Duncan]], former {{ushr|TN|2|TN-02}} (1988–2019)<ref>{{Cite web |last=Housler |first=Kaitlin |date=2025-09-16 |title=Former TN Congressman Jimmy Duncan Endorses Marsha Blackburn for Governor |url=https://tennesseestar.com/news/former-tn-congressman-jimmy-duncan-endorses-marsha-blackburn-for-governor/khousler/2025/09/16/ |access-date=2025-09-24 |website=[[The Tennessee Star]] |language=en-US}}</ref>
+
+;State legislators
+*[[Jack Johnson (American politician)|Jack Johnson]], majority leader of the [[Tennessee Senate]] (2019–present) from [[Tennessee's 27th Senate district|SD-27]] (2007–present)<ref name = "TN">{{Cite web |last=Schmidt |first=Zachery |date=2025-08-06 |title=Tennessee Republicans Back Marsha Blackburn for Tennessee Governor|url=https://tennesseestar.com/politics/tennessee-republicans-back-marsha-blackburn-for-tennessee-governor/zschmidt/2025/08/06/ |access-date=2025-08-06 |website=[[The Tennessee Star]] |language=en-US}}</ref>
+*[[William Lamberth]], majority leader of the [[Tennessee House of Representatives]] (2019–present) from HD-44 (2013–present)<ref>{{Cite web |last=Rau |first=Nate |date=2025-08-07 |title=Blackburn reshapes 2026 race for Tennessee governor|url=https://www.axios.com/local/nashville/2025/08/07/blackburn-reshapes-2026-race-for-tennessee-governor |access-date=2025-08-07 |website=[[Axios (website)|Axios]] |language=en-US}}</ref>
+*3 other state senators{{Efn|
+*[[Tom Hatcher (politician)|Tom Hatcher]], [[Tennessee's 2nd Senate district|SD-02]] (2025–present)<ref>{{Cite web |last=Harbison |first=Glenn |date=2025-08-19 |title=Blackburn brings campaign to Polk County |url=https://www.thenewsobserver.com/local-news-newsletter/blackburn-brings-campaign-polk-county |access-date=2026-07-28 |website=The News Observer |language=en-US}}</ref>
+*[[Ken Yager]], [[Tennessee's 12th Senate district|SD-12]] (2009–present)<ref name="TN" />
+*[[Page Walley]], [[Tennessee's 24th Senate district|SD-24]] (2021–present)<ref name="Walley">{{cite web |last1=Walley |first1=Page |title=Blackburn is best equipped to lead Tennessee to brighter future {{!}} Opinion |url=https://www.jacksonsun.com/story/news/local/2026/07/11/opinion-why-blackburn-is-best-equipped-to-lead-tennessee/90560602007/ |website=Jackson Sun |access-date=28 July 2026 |date=July 11, 2026}}</ref>}}
+*3 other state representatives{{Efn|
+*[[Aron Maberry]], HD-68 (2025–present)<ref name="TN" />
+*[[Jake McCalmon]], HD-63 (2023–present)<ref name="RunMarsha">{{cite web |last1=Housler |first1=Kaitlin |title=U.S. Senator Marsha Blackburn Launches Bid for Tennessee Governor |url=https://tennesseestar.com/politics/u-s-senator-marsha-blackburn-launches-bid-for-tennessee-governor/khousler/2025/08/06/ |website=Tennessee Star |access-date=14 November 2025 |date=6 August 2025}}</ref>
+*[[Lee Reeves (politician)|Lee Reeves]], HD-65 (2025–present)<ref name="TN" />}}
+
+;Local officials
+*[[Kane (wrestler)|Glenn Jacobs]], former mayor of [[Knox County, Tennessee|Knox County]] (2018–2026)<ref name="Kane" />
+
+;Individuals
+*[[Riley Gaines]], conservative activist and former college athlete<ref name="Gaines">{{cite web |last1=Masters |first1=Matt |title=Endorsements Roll in Ahead of Election Day |url=https://www.nashvillescene.com/news/pithinthewind/tennessee-endorsements-2026-elections/article_e5a7838f-d3c1-57f5-857b-1eaef2ada405.html |website=Nashville Scene |access-date=6 August 2026 |date=August 5, 2026}}</ref>
+*[[Dave Ramsey]], radio personality<ref name="Gaines" />
+
+;Organizations
+*[[Americans For Prosperity]]<ref name="AFP State PAC">{{cite web|url= https://tristardaily.com/afp-endorses-marsha-blackburn-for-governor/|title=AFP Endorses Marsha Blackburn for Governor|website=Tristardaily|date=February 26, 2026|access-date=May 19, 2026}}</ref>
+*[[Club for Growth]]<ref name="CFG">{{cite web|url=https://www.clubforgrowth.org/icymi-cfg-pac-endorses-sen-blackburn-in-tn-gov-race/|title=ICYMI: CfG PAC Endorses Sen. Blackburn in TN-GOV Race|last=Mitola|first=Will|date=September 4, 2025|access-date=September 5, 2025|work=Club for Growth PAC}}</ref>
+*[[National Rifle Association Political Victory Fund]]<ref>{{cite web |last1=Housler |first1=Kaitlin |title=NRA Backing Blackburn for Tennessee Governor| url=https://tennesseestar.com/elections/nra-backing-blackburn-for-tennessee-governor/khousler/2026/07/14/|website=Tennessee Star |access-date=15 July 2026 |date=14 July 2026}}</ref>
+*Tennessee Chamber of Commerce & Industry<ref name="Chamber">{{cite web |last1=Wigginton |first1=Tim |title=Tennessee Chamber of Commerce & Industry Endorses Senator Marsha Blackburn For Governor |url=https://www.theblueridgetimes.com/news/tennessee-chamber-of-commerce-amp-industry-endorses-senator-marsha-blackburn-for-governornbspnbsp |website=The Blue Ridge Times |access-date=28 July 2026 |date=May 29, 2026}}</ref>
+*[[Fraternal Order of Police|Tennessee Fraternal Order of Police]]<ref name="Gaines" />
+*[[International Association of Fire Fighters|Tennessee Professional Fire Fighters Association]]<ref name="TPFFA">{{cite web |last1=Housler |first1=Kaitlin |title=Tennessee Professional Fire Fighters Backing Blackburn for Governor |url=https://tennesseestar.com/elections/tennessee-professional-fire-fighters-backing-blackburn-for-governor/khousler/2026/05/25/ |website=The Tennessee Star |access-date=28 July 2026 |date=May 25, 2026}}</ref>
+*[[Turning Point Action]]<ref>{{cite web |last1=Housler |first1=Kaitlin |title=Turning Point Action Backs Marsha Blackburn in Tennessee 2026 Governor's Race |url=https://tennesseestar.com/elections/turning-point-action-backs-marsha-blackburn-in-tennessee-2026-governors-race/khousler/2025/12/08/ |website=Tennessee Star |access-date=9 December 2025 |date=8 December 2025}}</ref>
+}}
+
+{{Endorsements box
+|title=John Rose
+|list=
+;U.S. representatives
+*[[Diane Black]], former [[TN-06]] (2011–2019)<ref name="Endorse">{{cite web |last1=Stockard |first1=Sam |title=Candidates bank on endorsements as primary draws near |url=https://tennesseelookout.com/2026/07/28/candidates-bank-on-endorsements-as-primary-draws-near/ |website=Tennessee Lookout |access-date=28 July 2026 |date=July 28, 2026}}</ref>
+
+;State legislators
+*[[Mae Beavers]], [[Tennessee's 17th Senate district|SD-17]] (2003–2017)<ref> {{cite web |title=Former State Senator Mae Beavers Endorses John Rose for Tennessee Governor|url=https://tristardaily.com/former-state-senator-mae-beavers-endorses-john-rose-for-tennessee-governor/ |website=TriStar Daily |access-date=15 July 2026 |date=26 May 2026}}</ref>
+
+;Individuals
+*[[Burwell B. Bell III]], retired [[United States Army]] [[four-star general]]<ref>{{cite web |title=John Rose receives endorsements to be next governor
+|url=https://mainstreetmediatn.com/articles/cheathamcountyexchange/john-rose-receives-endorsements-to-be-next-governor/ |website=Main Street Media TN |access-date=16 July 2026 |language=en |date=15 July 2026}}</ref>
+}}
+{{Endorsements box
+|title=Declined to endorse
+|list=
+;Executive branch officials
+*[[Donald Trump]], [[president of the United States]] (2017–2021, 2025–present)<ref>{{cite web |last1=Taylor |first1=Sarah Grace |title=Trump says he won't endorse in Tennessee's governor's race despite relationships with Blackburn, Rose |url=https://www.newschannel5.com/news/trump-says-he-wont-endorse-in-tennessees-governors-race-despite-relationships-with-blackburn-rose |website=News Channel 5 Nashville (WTVF) |access-date=14 June 2026 |language=en |date=8 June 2026}}</ref>
+;Statewide officials
+*[[Bill Lee (Tennessee politician)|Bill Lee]], [[governor of Tennessee]] (2019–present)<ref>{{cite news |last1=Sauter |first1=Danica |title=Gov. Lee says he won't endorse anyone following Sen. Marsha Blackburn's gubernatorial announcement |url=https://www.wsmv.com/2025/08/13/gov-lee-says-he-wont-endorse-anyone-following-sen-marsha-blackburns-gubernatorial-announcement/ |access-date=August 13, 2025 |work=[[WEMU]] |date=August 13, 2025 |language=en-US}}</ref>}}
+
+=== Polling ===
+'''Aggregate polls'''<br />
+{| class="wikitable sortable" style="text-align:center;font-size:90%;line-height:17px"
+!Source of poll<br />aggregation
+!Dates<br />administered
+!Dates<br />updated
+! style="width:70px;"| Marsha<br />Blackburn
+! style="width:70px;"| John<br />Rose
+! style="width:70px;"| Monty<br />Fritts
+! style="width:60px;"| Other/<br />Undecided{{Efn|Calculated by taking the difference of 100% and all other candidates combined.|name=|group=}}
+!Margin
+|-
+|Race to the WH<ref>{{cite web |title=Latest Polling for Governor Races – 2025-2026 |url=https://www.racetothewh.com/governor/26polls |website=Race to the WH |access-date=30 July 2026}}</ref>
+|through August 1, 2026
+|August 5, 2026
+|{{party shading/Republican}}|'''39.1%'''
+|28.3%
+|22.1%
+|10.5%
+|{{party shading/Republican}}|'''Blackburn +10.8%'''
+|-
+|}
+
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- style="vertical-align:bottom"
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"|Key:<br />A – all adults<br />RV – registered voters<br />LV – likely voters<br />V – unclear}}
+! Margin<br />of error
+! style="width:75px;"| Marsha<br />Blackburn
+! style="width:75px;"| John<br />Rose
+! style="width:75px;"| Monty<br />Fritts
+! Other
+! Undecided
+|-
+|style="text-align:left;" rowspan="2"|Wick<ref>{{Cite web|url=https://wick.io/fortress-tn-gov-poll|title=TN Elections Poll — August 2026|website=Wick|date=August 5, 2026|access-date=August 6, 2026}}</ref>{{efn|Password to access poll is "govols"}}{{efn-ua|name=AFP|Poll sponsored by [[Americans for Prosperity]]}}
+|rowspan="2"|July 29 – August 1, 2026
+|rowspan="2"|600 (LV)
+|rowspan="2"|±&nbsp;4.0%
+|{{party shading/Republican}}|'''51%'''
+|32%
+|17%
+|–
+|–
+|-
+|{{party shading/Republican}}|'''45%'''
+|28%
+|17%
+|–
+|9%
+|-
+|style="text-align:left;"|[[Tony Fabrizio|Fabrizio, Lee & Associates]] (R)<ref>{{Cite web|url=https://nashvillebanner.com/2026/08/01/blackburn-unreleased-poll-tennessee-governors-race/|title=Blackburn Shares Unreleased Poll to Combat Claims of Rose's Momentum in Tennessee Governor's Race |first=Sarah Grace|last=Taylor|website=[[Nashville Banner]]|date=August 1, 2026|access-date=August 6, 2026|url-access=subscription}}</ref>{{efn-ua|name=Blackburn}}
+|July 26–28, 2026
+|800 (LV)
+|±&nbsp;3.5%
+|{{party shading/Republican}}|'''42%'''
+|25%
+|22%
+|–
+|11%
+|-
+|style="text-align:left;"|OnMessage Inc.<ref>{{Cite web|url=https://nashvillebanner.com/2026/07/30/tennessee-republican-primary-poll-blackburn-rose/|title=Dueling Polls Show Rose Closing in on Blackburn in Tennessee Governor’s Race; Fritts Gaining Traction|first=Sarah Grace|last=Taylor|website=[[Nashville Banner]]|date=July 30, 2026|access-date=July 30, 2026|url-access=subscription}}</ref>
+|July 23–25, 2026
+|800 (LV)
+|±&nbsp;3.5%
+|{{party shading/Republican}}|'''35%'''
+|31%
+|26%
+|–
+|9%
+|-
+|style="text-align:left;"|[[Tony Fabrizio|Fabrizio, Lee & Associates]] (R)<ref>{{Cite web|url=https://pro.stateaffairs.com/tn/news/blackburn-poll-shows-big-lead|title=Blackburn poll indicates her lead is double the margin of Rose survey|first=Erik|last=Schelzig|website=State Affairs|date=July 13, 2026|access-date=July 13, 2026|url-access=subscription}}</ref>{{efn-ua|name=Blackburn}}
+|June 28–30, 2026
+|– (LV)
+|–
+|{{party shading/Republican}}|'''51%'''
+|20%
+|12%
+|–
+|17%
+|-
+|style="text-align:left;"|[[McLaughlin & Associates]] (R)<ref>{{Cite web|url=https://pro.stateaffairs.com/tn/news/rose-internal-poll-blackburn|title=Internal Rose poll suggests late-campaign gain on Blackburn|first=Erik|last=Schelzig|website=State Affairs|date=July 7, 2026|access-date=July 7, 2026|url-access=subscription}}</ref>{{efn-ua|name=Rose|Poll sponsored by Rose's campaign}}
+|June 28–30, 2026
+|600 (LV)
+|–
+|{{party shading/Republican}}|'''44%'''
+|29%
+|13%
+|–
+|14%
+|-
+|style="text-align:left;"|Targoz Market Research<ref name="TargozMay2026">{{Cite web|url=https://tennsight.com/polls/may-2026/|title=May 2026|website=TennSight|access-date=May 10, 2026}}</ref>{{efn-ua|name=BCT}}
+|April 20–27, 2026
+|529 (LV)
+|±&nbsp;4.2%
+|{{party shading/Republican}}|'''63%'''
+|10%
+|5%
+|–
+|22%
+|-
+|style="text-align:left;"|VictoryPhones<ref>{{Cite web|url=https://data.ddhq.io/polls/2026/03/26/VictoryPhones/Tennesseans-for-Student-Success-Tennessee-2026-03-18-2026-03-24|title=Tennessee Statewide Republican Primary Voter Survey |website=VictoryPhones|date=March 26, 2026|access-date=March 26, 2026}}</ref>{{Efn-ua|name=TSS}}
+|March 18–24, 2026
+|300 (LV)
+|±&nbsp;5.7%
+|{{party shading/Republican}}|'''56%'''
+|14%
+|11%
+|–
+|20%
+|-
+|style="text-align:left;"|Cygnal (R)<ref>{{Cite web|url=https://www.cygn.al/wp-content/uploads/2026/03/TN-GOP-Primary-Gov-Poll-Memo.pdf|title=Coronation in Progress: Blackburn Dominates...and Other Issues|first=Brent|last=Buchanan|website=Cygnal|date=March 23, 2026|access-date=March 23, 2026}}</ref>
+|March 16–17, 2026
+|500 (LV)
+|±&nbsp;4.4%
+|{{party shading/Republican}}|'''58%'''
+|7%
+|–
+|5%
+|30%
+|-
+|style="text-align:left;"|VictoryPhones<ref>{{Cite web|url=https://static1.squarespace.com/static/66a14193b569bc003b6f3326/t/6994cf4f6b92712d032f015d/1771360079303/February2026Results.pdf#page=5|title=Tennessee Statewide General Election Survey|work=Tennesseans for Student Success|date=February 17, 2026|access-date=February 20, 2026}}</ref>{{efn-ua|name=TSS|Poll sponsored by Tennesseans for Student Success}}
+|February 5–8, 2026
+|– (LV)
+|–
+|{{party shading/Republican}}|'''61%'''
+|8%
+|5%
+|–
+|26%
+|-
+|style="text-align:left;"|Targoz Market Research<ref>{{Cite web|url=https://tennsight.com/polls/january-2026/|title=January 2026 Beacon Poll|website=TennSight|date=February 2, 2026|access-date=February 3, 2026}}</ref>{{efn-ua|name=BCT}}
+|January 11–18, 2026
+|559 (LV)
+|–
+|{{party shading/Republican}}|'''56%'''
+|9%
+|7%
+|1%{{efn|"Would not vote" with 1%}}
+|27%
+|-
+|style="text-align:left;" |Targoz Market Research<ref>{{Cite web|url=https://www.beacontn.org/november-2025-beacon-poll/|title=November 2025 Beacon Poll Results|website=Beacon Center of Tennessee|date=November 5, 2025|access-date=November 6, 2025}}</ref>{{efn-ua|name=BCT}}
+|October 26–29, 2025
+|545 (RV)
+|–
+|{{party shading/Republican}}|'''58%'''
+|9%
+|5%
+|–
+|29%
+|-
+|style="text-align:left;" |Quantus Insights (R)<ref name="QuantusAug2025">{{Cite web|url=https://drive.google.com/file/d/1e3buxlVGdwvx-2H11FwX9XI_y1EWvzu6/view|title=Quantus Insights – Tennessee August 2025|work=Quantus Insights|date=August 8, 2025|access-date=August 13, 2025}}</ref>
+|August 5–7, 2025
+|–
+|–
+|{{party shading/Republican}}|'''35%'''
+|6%
+|–
+|22%{{efn|"Someone else" with 14%; Tim Burchett with 5%; Cameron Sexton with 3%}}
+|{{party shading/Undecided}}|'''37%'''
+|-
+|style="text-align:left;" |Targoz Market Research<ref>{{Cite web|url=https://www.beacontn.org/blackburn-rose-beaconpoll/|title=First Statewide Poll Shows Marsha Blackburn as Clear Frontrunner Over John Rose in GOP Primary for Governor|website=Beacon Center of Tennessee|date=August 7, 2025|access-date=August 8, 2025}}</ref>{{efn-ua|name=BCT|Poll sponsored by the Beacon Center of Tennessee}}
+|July 27 – August 1, 2025
+|623 (RV)
+|±&nbsp;2.8%
+|{{party shading/Republican}}|'''66%'''
+|14%
+|–
+|–
+|19%
+|-
+|style="text-align:left;" |[[Tony Fabrizio|Fabrizio, Lee & Associates]] (R)<ref>{{Cite web|url=https://www.axios.com/2025/01/23/blackburn-tennessee-governor-frontrunner|title=Sen. Blackburn would be 'clear frontrunner' for Tenn. governor, Trump pollster finds|first=Marc|last= Caputo|website=[[Axios (website)|Axios]]|date=January 23, 2025|access-date=June 22, 2025}}</ref><ref>{{Cite tweet|user=MarcACaputo|number=1882417647469650211|first=Marc|last=Caputo|title=Poll memo}}</ref>{{efn-ua|name=Blackburn|Poll sponsored by Blackburn's campaign}}
+|January 13–16, 2025
+|800 (LV)
+|±&nbsp;3.5%
+|{{party shading/Republican}}|'''71%'''
+|13%
+|–
+|–
+|16%
+|}
+
+=== Results ===
+{{switcher
+|[[File:2026 Tennessee gubernatorial Republican primary results by county.svg|thumb|300px|Results by county:
+{{collapsible list
+| title = {{legend|#e27f7f|Blackburn}}
+|{{legend|#ffc8cd|30–40%}}|{{legend|#ffb2b2|40–50%}}|{{legend|#e27f7f|50–60%}}|{{legend|#d75d5d|60–70%}}
+}}
+{{collapsible list
+| title = {{legend|#73D873|Rose}}
+|{{legend|#aae5aa|30–40%}}|{{legend|#87de87|40–50%}}|{{legend|#5bc75b|50–60%}}|{{legend|#41b742|60–70%}}
+}}
+{{collapsible list
+| title = {{legend|#b380ff|Fritts}}
+|{{legend|#cda6ff|40-50%}}|{{legend|#b380ff|50-60%}}
+}}
+]]
+|County results
+|{{switcher
+|[[File:2026 TN Rep Gov.svg|thumb|300px|Results by precinct:
+{{collapsible list
+| title = {{legend|#e27f7f|Blackburn}}
+|{{legend|#FFC8CD|30–40%}}
+|{{legend|#FFB2B2|40–50%}}
+|{{legend|#E27F7F|50–60%}}
+|{{legend|#D75D5D|60–70%}}
+|{{legend|#D72F30|70–80%}}
+|{{legend|#C21B18|80–90%}}
+|{{legend|#A80000|90–100%}}
+}}
+{{collapsible list
+| title = {{legend|#73D873|Rose}}
+|{{legend|#AAE5AA|30–40%}}
+|{{legend|#87DE87|40–50%}}
+|{{legend|#5FD35F|50–60%}}
+|{{legend|#37C837|60–70%}}
+|{{legend|#2CA02C|70–80%}}
+|{{legend|#217821|80–90%}}
+|{{legend|#165016|90–100%}}
+}}
+{{collapsible list
+| title = {{legend|#b380ff|Fritts}}
+|{{legend|#E6CDFF|30–40%}}
+|{{legend|#CCAAFF|40-50%}}
+|{{legend|#B380FF|50-60%}}
+|{{legend|#9955FF|60-70%}}
+}}
+{{collapsible list
+| title = {{legend|#AE8BB1|Tie}}
+|{{legend|#DECDE6|30–40%}}
+|{{legend|#D2B1D9|40–50%}}
+|{{legend|#AE8BB1|50%}}
+}}
+{{legend|#808080|'''No Votes'''}}
+]]
+|Precinct results
+}}
+}}
+{{Election box begin no change|title=Republican primary results<ref name=NYTprimary>{{cite news |title=Tennessee Governor Primary Election Results |website=The New York Times |date=August 6, 2026 |access-date=August 8, 2026 |url=https://www.nytimes.com/interactive/2026/08/06/us/elections/results-tennessee-governor-primary.html}}</ref>}}
+{{Election box winning candidate with party link no change|candidate=[[Marsha Blackburn]]|party=Republican Party (United States)|votes=311,392|percentage=43.6}}
+{{Election box candidate with party link no change|candidate=[[John Rose (Tennessee politician)|John Rose]]|party=Republican Party (United States)|votes=235,561|percentage=32.9}}
+{{Election box candidate with party link no change|candidate=[[Monty Fritts]]|party=Republican Party (United States)|votes=168,004|percentage=23.5}}
+{{Election box write-in with party link no change|votes=1|percentage=0.0}}
+{{Election box total no change|votes=714,958|percentage=100.0}}
+{{Election box end}}
+
+== Democratic primary ==
+=== Candidates ===
+==== Nominee ====
+*Jerri Green, [[Memphis City Council|Memphis city council]]or from the 2nd district (2024–present)<ref>{{Cite web |last=Finton |first=Lucas |date=July 14, 2025 |title=Memphis City Councilwoman Jerri Green officially throws hat into Tennessee governor's race |url=https://www.commercialappeal.com/story/news/local/2025/07/14/memphis-city-councilwoman-jerri-tennessee-governor/85191204007/ |access-date=2025-07-17 |website=[[The Commercial Appeal]] |language=en-US}}</ref>
+==== Eliminated in primary ====
+*Carnita Atwater, museum president, candidate for [[Governor of Tennessee|governor]] in [[2022 Tennessee gubernatorial election|2022]], and candidate for [[mayor of Memphis]] in [[2023 Memphis mayoral election|2023]]<ref name="Contested">{{cite web |last1=Cornell |first1=Josh |date=September 16, 2025 |title=The Civic Scoop: Cornell on the ongoing Tennessee governor's race |url=https://highlandecho.com/the-civic-scoop-cornell-on-the-ongoing-tennessee-governors-race/ |access-date=September 16, 2025 |website=The Highland Echo |quote=There are also four democrats running for this position: Jerri Green, Carnita Atwater, Adam Kurtz, and Tim Cyr...}}</ref>
+*Tim Cyr, home repair business owner<ref name="Contested"/>
+*Adam "Ditch" Kurtz, Nashville pedal steel musician<ref>{{cite news |work=Don't Rock The Inbox |author=Weiner, Natalie |access-date=August 13, 2025 |url=https://www.dontrocktheinbox.com/issue-106-meet-the-pedal-steel-player/ |date=July 8, 2025 |title=Issue #106: Meet the Pedal Steel Player Running for Governor of Tennessee}}</ref>
+*Kevin Lee McCants, pastor<ref>{{cite website | title=Meet Kevin Lee | url=https://www.kevinleemccants.com/about | access-date=June 12, 2026}}</ref>
+
+==== Declined ====
+*[[Steve Cohen (politician)|Steve Cohen]], [[U.S. representative]] from {{ushr|TN|9}} (2007–present)<ref name=":1">{{cite tweet |number=1861907223594652122 |user=andrewsolender |title=Here's what he told me: 'I'm flattered that I'm considered a gubernatorial candidate. But in Tennessee, the Democrat nominee has a better chance of winning than I have of being Super Bowl MVP, but not much better.' |first=Andrew |last=Solender |date=November 27, 2024 |access-date=November 28, 2024}}</ref>
+
+=== Endorsements ===
+{{Endorsements box
+|title=Jerri Green
+|list=
+;State legislators
+*[[Heidi Campbell (politician)|Heidi Campbell]], [[Tennessee's 20th Senate district|SD-20]] (2020–present)<ref>{{cite web|last=Campbell|first=Heidi|date=July 17, 2026|title=Why Jerri Green is the Common Sense Voice We Need|url= https://mainstreetmediatn.com/articles/cheathamcountyexchange/why-jerri-green-is-the-common-sense-voice-tennessee-needs/ |website=Main Street Media}}</ref>
+
+;Local officials
+*[[Lee Harris (politician)|Lee Harris]], mayor of [[Shelby County, Tennessee|Shelby County]] (2018–present)<ref>{{cite web |last=Jones |first=Vivian |date=November 24, 2025 |title=An early look at how Tennessee's 2026 governor's race is shaping up |url=https://www.tennessean.com/story/news/politics/2025/11/24/tennessee-governor-race-marcia-blackburn-john-rose/87323482007/ |website=[[The Tennessean]] |access-date= November 25, 2025}}</ref>
+
+;Organizations
+*[[Indivisible movement|Indivisible]] Tennessee<ref>{{cite web |title=Indivisible Tennessee Endorsements
+|url=https://bluevoterguide.org/endorser-org/Indivisible_Tennessee/TN/6801|website=Blue Voter Guide|access-date=16 July 2026}}</ref>
+*[[Planned Parenthood Action Fund]]<ref>{{cite web |date=April 15, 2026 |title=2026 Election Information|url=https://www.plannedparenthoodaction.org/tennessee-advocates-planned-parenthood/blog/2026-election-information |website=Planned Parenthood Action |access-date=16 July 2026}}</ref> 
+}}
+
+=== Polling ===
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- style="vertical-align:bottom"
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"|Key:<br />A – all adults<br />RV – registered voters<br />LV – likely voters<br />V – unclear}}
+! Margin<br />of error
+! style="width:60px;"| Carnita<br />Atwater
+! style="width:60px;"| Tim<br />Cyr
+! style="width:60px;"| Jerri<br />Green
+! style="width:60px;"| Adam<br />Kurtz
+! style="width:60px;"| Kevin Lee<br />McCants
+! Undecided
+|-
+|style="text-align:left;"|Targoz Market Research<ref name="TargozMay2026"/>{{efn-ua|name=BCT}}
+|April 20–27, 2026
+|400 (LV)
+|±&nbsp;4.8%
+|8%
+|3%
+|{{party shading/Democratic}}|'''14%'''
+|2%
+|11%
+|{{party shading/Undecided}}|'''62%'''
+|}
+
+=== Results ===
+{{switcher
+|[[File:2026 Tennessee gubernatorial Democratic primary results by county.svg|thumb|300px|Results by county:
+{{collapsible list
+| title = {{legend|#7996e2|Green}}
+|{{legend|#a5b0ff|40–50%}}
+|{{legend|#7996e2|50–60%}}
+|{{legend|#6674de|60–70%}}
+|{{legend|#584cde|70–80%}}
+|{{legend|#3933e5|80–90%}}
+}}
+{{collapsible list
+| title = {{legend|#ff7644|Atwater}}
+|{{legend|#ff8e65|40–50%}}
+}}]]
+<!--|County results-->
+<!-- Needs source link/proof of data being accurate in file description |{{switcher
+|[[File:2026 TN Dem Gov.svg|thumb|300px|Results by precinct:
+{{collapsible list
+| title = {{legend|#7996e2|Green}}
+|{{legend|#a5b0ff|30–40%}}
+|{{legend|#a5b0ff|40–50%}}
+|{{legend|#7996e2|50–60%}}
+|{{legend|#6674de|60–70%}}
+|{{legend|#584cde|70–80%}}
+|{{legend|#3933e5|80–90%}}
+|{{legend|#0D0596|90–100%}}
+}}
+{{collapsible list
+| title = {{legend|#FFB380|Atwater}}
+|{{legend|#FEEFDF|20–30%}}
+|{{legend|#FFCCAA|40–50%}}
+|{{legend|#FFB380|50–60%}}
+|{{legend|#FF9955|60–70%}}
+}}
+{{collapsible list
+| title = {{legend|#AE8BB1|Tie}}
+|{{legend|#EFE7F5|20–30%}}
+|{{legend|#DECDE6|30–40%}}
+|{{legend|#D2B1D9|40–50%}}
+|{{legend|#AE8BB1|50%}}
+}}
+{{legend|#808080|'''No Votes'''}}
+]]
+|Precinct results
+}} -->
+}}
+{{Election box begin no change|title=Democratic primary results<ref name=NYTprimary />}}
+{{Election box winning candidate with party link no change|candidate=Jerri Green|party=Democratic Party (United States)|votes=244,277|percentage=69.0}}
+{{Election box candidate with party link no change|candidate=Carnita Atwater|party=Democratic Party (United States)|votes=63,289|percentage=17.9}}
+{{Election box candidate with party link no change|candidate=Kevin Lee McCants|party=Democratic Party (United States)|votes=18,972|percentage=5.4}}
+{{Election box candidate with party link no change|candidate=Tim Cyr|party=Democratic Party (United States)|votes=14,799|percentage=4.2}}
+{{Election box candidate with party link no change|candidate=Adam Kurtz|party=Democratic Party (United States)|votes=12,465|percentage=3.5}}
+{{Election box total no change|votes=353,802|percentage=100.0}}
+{{Election box end}}
+
+==Independents==
+===Candidates===
+====Declared====
+*David Hatley, businessman<ref>{{cite news |last1=Rafferty |first1=Colin |title=Elizabethton-born entrepreneur announces candidacy for governor |url=https://www.wjhl.com/news/your-local-election-hq/elizabethton-born-entrepreneur-announces-candidacy-for-governor/ |access-date=March 11, 2026 |work=[[WJHL]] |date=March 10, 2026}}</ref>
+*Lauren Pinkston, former [[Lipscomb University]] professor<ref>{{cite web |last1=Rayner |first1=Ruby |title=Lauren Pinkston, an independent running for Tennessee governor, wants to give people a third option |url=https://www.timesfreepress.com/news/2025/nov/21/former-lipscomb-university-professor-launches-bid/ |website=Chattanooga Times Free Press |access-date=24 November 2025 |date=November 21, 2025}}</ref>
+*Robert Vick, educator<ref>{{cite news |title=40-Year East Tennessee Educator Dr. Vick Announces Independent Run for Governor |url=https://claiborneprogress.net/2026/01/27/40-year-east-tennessee-educator-dr-vick-announces-independent-run-for-governor/ |access-date=March 2, 2026 |work=[[Claiborne Progress]] |date=January 27, 2026}}</ref>
+== General election ==
+===Predictions===
+{| class="wikitable" style=text-align:center
+!Source
+!Ranking
+!As of
+|-
+|-
+|align=left|''[[The Cook Political Report]]''<ref>{{cite web|title=2026 CPR Governor Race ratings|url=https://www.cookpolitical.com/ratings/governor-race-ratings|website=[[The Cook Political Report]]|access-date=January 23, 2025}}</ref>
+|{{USRaceRating|Safe|R}}
+|September 11, 2025
+|-
+|align=left|[[Decision Desk HQ]]<ref name="DDHQ">{{cite web |title=2026 Governor Forecast |url=https://votes.decisiondeskhq.com/forecast/2026/governor |website=Decision Desk HQ |access-date=22 September 2026}}</ref>
+|{{USRaceRating|Likely|R}}
+|September 23, 2026
+|-
+|align=left|[[Fox News]]<ref>{{cite web |title=Fox News Power Rankings: The top races to watch as 36 states choose their next governor |url=https://www.foxnews.com/politics/fox-news-power-rankings-top-races-watch-36-states-choose-next-governor |website=[[Fox News]] |publisher=Rémy Numa |access-date=24 July 2026}}</ref>
+|{{USRaceRating|Solid|R}}
+|July 23, 2026
+|-
+|align=left|''[[Inside Elections]]''<ref>{{Cite web|title=Gubernatorial Ratings|url=https://insideelections.com/ratings/governor|access-date=February 7, 2025|website=[[Inside Elections]]}}</ref>
+|{{USRaceRating|Solid|R}}
+|August 28, 2025
+|-
+|align="left"|[[RealClearPolitics]]<ref>{{Cite web|title=2026 Governor Races {{!}} RealClearPolitics|url=https://www.realclearpolling.com/maps/governor/2026/toss-up|access-date=June 5, 2026|website=[[RealClearPolitics]]|archive-url=https://web.archive.org/web/20260601183127/https://www.realclearpolling.com/maps/governor/2026/toss-up|archive-date=June 1, 2026|url-status=dead}}</ref>
+|{{USRaceRating|Solid|R}}
+|June 5, 2026
+|-
+|align=left|''[[Sabato's Crystal Ball]]''<ref>{{cite web|title=2026 Governor|url=https://centerforpolitics.org/crystalball/2026-governor/|website=[[Sabato's Crystal Ball]]|access-date=May 1, 2025}}</ref>
+|{{USRaceRating|Safe|R}}
+|September 4, 2025
+|-
+| style="text-align: left;" |[[Silver Bulletin]]<ref name=":Silver">{{Cite web |last=Silver |first=Nate |date=2026-08-20 |title=FLIPR 2026 midterm election forecast |url=https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model |url-access=subscription |access-date=2026-08-20 |website=www.natesilver.net |language=en}}</ref>
+| {{US political race rating|Solid|R}}
+|August 25, 2026
+|}
+
+===Post-primary endorsements===
+{{Endorsements box
+|title=Marsha Blackburn (R)
+|list=
+;Executive branch officials
+*[[Donald Trump]], [[President of the United States|U.S. president]] (2017–2021, 2025–present)<ref>{{cite news |last=Fiscus |first=Kirsten |url=https://tennessean.com/story/news/politics/elections/2026/08/07/tn-governor-trump-endorsement-marsha-blackburn/91216945007/ |title=Trump backs Blackburn despite no endorsement before primaries |work=[[The Tennessean]] |date=August 7, 2026 |access-date=October 6, 2026}}</ref>
+}}
+{{Endorsements box
+|title=Jerri Green (D)
+|list=
+;Organizations
+*[[Everytown for Gun Safety]]<ref>{{cite web |title=Everytown for Gun Safety Action Fund Announces New Round of Statewide Endorsements, Backing 40 Statewide Candidates in 15 States |url=https://momsdemandaction.org/press/everytown-for-gun-safety-action-fund-announces-new-round-of-statewide-endorsements-backing-40-statewide-candidates-in-15-states/ |website=Moms Demand Action |access-date=September 15, 2026 |language=en-us}}</ref>
+}}
+{{Endorsements box
+|title=Lauren Pinkston (I)
+|list=
+;Statewide officials
+*[[Kerry Healey]], former [[lieutenant governor of Massachusetts |lieutenant governor of Massachusetts]] (2003–2007) ''([[Forward Party (United States)|Forward]]; elected as a Republican)''<ref name=CTW/>
+*[[Christine Todd Whitman]], former [[governor of New Jersey]] (1994–2001) ''([[Forward Party (United States)|Forward]]; elected as a Republican)''<ref name=CTW>{{cite web |title=Former GOP governors endorse independent for TN governor|url=https://www.tennessean.com/story/opinion/contributors/2026/06/18/republican-gop-governors-back-independent-tennessee/90601297007/ |website=The Tennessean |access-date=24 June 2026}}</ref>
+
+;Political parties
+*[[Forward Party (United States)|Forward Party]]<ref>{{cite web |title=CANDIDATES |url=https://www.forwardparty.com/candidates/ |website=Forward Party |access-date=25 April 2026}}</ref>
+*[[Reform Party of the United States of America|Reform Party]]<ref>{{cite news |last1=Evans |first1=Jordan Willow |title=Reform Party Makes Candidate Endorsements in Rhode Island, Tennessee, and Montana |url=https://independentpoliticalreport.com/2026/08/reform-party-makes-candidate-endorsements-in-rhode-island-tennessee-and-montana/ |access-date=August 26, 2026 |work=[[Independent Political Report]] |date=August 26, 2026}}</ref>
+}}
+{{Endorsements box
+|title=David Hatley (I)
+|list=
+;State legislators
+*[[Janice Bowling]], Tennessee state senator (2013–present) ''(Republican)''<ref>{{cite web |title=Bowling breaks Republican ranks by backing independent Hatley for governor|url=https://pro.stateaffairs.com/tn/elections/bowling-backs-hatley-governor|website=The Tennessee Journal|access-date=5 October 2026}}</ref> 
+}}
+
+===Polling===
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"}}
+! Margin<br />{{nowrap|of error}}
+! style="width:100px;"| Marsha<br />Blackburn (R)
+! style="width:100px;"| Jerri<br />Green (D)
+!David Hatley (I)
+!Lauren Pinkston (I)
+! Other
+! Undecided
+|-
+|style="text-align:left;"|TargetSmart<ref>{{cite web |title=Tennessee Statewide Baseline Frequencies |url=https://static1.squarespace.com/static/6a5f8cee70d79f7c81148115/t/6aac27e65ceec94e215a260b/1789667303333/TSmart_TN+Statewide+Baseline_Toplines_2026.09.14.pdf |publisher=TargetSmart |access-date=September 18, 2026}}</ref>{{efn-ua|Poll sponsored by The Progress Fund, which supports Green<ref>{{cite web |title=The Progress Fund - PAC Profile, 2026 |url=https://whofundstn.org/pacs/the-progress-fund-12314/ |publisher=Who Funds Tennessee |access-date=September 18, 2026}}</ref>}}
+|September 9–12, 2026
+|600 (LV)
+|±&nbsp;4.0%
+|{{party shading/Republican}}|'''45%'''
+|36%
+|10%
+|2%
+|
+|7%
+|-
+|style="text-align:left;"|Targoz Market Research<ref name=":2">{{Cite web|url=https://tennsight.com/wp-content/uploads/2026/08/Beacon-Poll-of-TN-August-2026-Crosstabs-Party-Ideology-and-Region-1.pdf|title=Beacon Poll of Tennessee Registered Voters Aug. 15 to 26, 2026 MOE +/- 2.77%|website=TennSight|date=August 28, 2026|access-date=September 3, 2026}}</ref>{{efn-ua|name=BCT}}
+|August 15–26, 2026
+|1,149 (RV)
+|±&nbsp;2.77%
+|{{party shading/Republican}}|'''46%'''
+|33%
+|
+|
+|8%{{efn|"An independent candidate" with 8%}}
+|14%
+|-
+| style="text-align: left;" |Targoz Market Research<ref name=":2" />{{efn-ua|name=BCT}}
+|August 15–26, 2026
+|601 (LV)
+|±&nbsp;2.77%
+|{{party shading/Republican}}|'''55%'''
+|34%
+|
+|
+|7%
+|4%
+|-
+| style="text-align:left;" |Targoz Market Research<ref name="TargozMay2026" />{{efn-ua|name=BCT}}
+|April 20–27, 2026
+|1,200 (RV)
+|±&nbsp;2.8%
+| {{party shading/Republican}} |'''51%'''
+|27%
+|
+|
+| colspan="2" |22%
+|-
+| style="text-align:left;" |Quantus Insights (R)<ref name="QuantusAug2025" />
+|August 5–7, 2025
+|600 (RV)
+|±&nbsp;3.5%
+| {{party shading/Republican}} |'''49%'''
+|28%
+|
+|
+|7%{{efn|"Wouldn't Vote for Either" with 7%}}
+|17%
+|-
+|}
+
+<!-- = = = don't edit the line below = = = -->
+{{hidden begin|titlestyle=background:#cff|title=Hypothetical polling|contentstyle=border:solid 1px silver; padding:8px; background:var(--background-color-base); color:var(--color-base);}}
+<!-- = = = don't edit the line above = = = -->
+;John Rose vs. Jerri Green
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"}}
+! Margin<br />{{nowrap|of error}}
+! style="width:100px;"| John<br />Rose (R)
+! style="width:100px;"| Jerri<br />Green (D)
+! Other
+! Undecided
+|-
+|style="text-align:left;" |Quantus Insights (R)<ref name="QuantusAug2025"/>
+|August 5–7, 2025
+|600 (RV)
+|±&nbsp;3.5%
+|{{party shading/Republican}}|'''43%'''
+|27%
+|8%{{efn|"Wouldn't Vote for Either" with 8%}}
+|23%
+|-
+|}
+{{hidden end}}
+
+== See also ==
+*[[Elections in Tennessee]]
+*[[Government of Tennessee]]
+*[[Political party strength in Tennessee]]
+*[[Tennessee Democratic Party]]
+*[[Tennessee Republican Party]]
+*[[2026 Tennessee elections]]
+*[[2026 United States Senate election in Tennessee]]
+*[[2026 United States gubernatorial elections]]
+
+==Notes==
+{{notelist}}
+;Partisan clients
+{{notelist-ua}}
+
+==References==
+{{reflist}}
+
+==External links==
+;Official campaign websites
+*[https://www.misamforgovernor.com/ Misam Abidi (I)]
+*[https://marshablackburn.com/ Marsha Blackburn (R)]
+*[https://greenforgovernor.com/ Jerri Green (D)]
+*[https://hatleyforgovernor.com/ David Hatley (I)]
+*[https://www.wendelljackson4tngov2026.com/ Wendell Jackson (I)]
+*[https://pinkstonfortn.com/ Lauren Pinkston (I)]
+*[https://drvick4tn.com/ Robert Vick (I)]
+
+{{2026 United States elections}}
+
+[[Category:Tennessee gubernatorial elections]]
+[[Category:2026 Tennessee elections|Gubernatorial]]
+[[Category:2026 United States gubernatorial elections|Tennessee]]

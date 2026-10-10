@@ -1,0 +1,1759 @@
+{{Short description|none}}
+{{for|related races|2026 United States gubernatorial elections}}
+{{Use American English|date=January 2025}}
+{{Use mdy dates|date=January 2025}}
+
+{{Infobox election
+| election_name      = 2026 Maine gubernatorial election
+| country            = Maine
+| type               = presidential
+| ongoing            = yes
+| previous_election  = 2022 Maine gubernatorial election
+| previous_year      = 2022
+| next_election      = 2030 Maine gubernatorial election
+| next_year          = 2030
+| election_date      = November 3, 2026
+| image_size         = 150x150px
+| image1             = File:Headshot of Hannah Pingree in February 2026 (cropped).jpg
+| nominee1           = [[Hannah Pingree]]
+| party1             = Democratic Party (United States)
+| alliance1          =       
+| running_mate1      = <!--- TBD --->
+| popular_vote1      = 
+| percentage1        = 
+| image2             = Robert Charles (cropped).jpg
+| nominee2           = [[Robert B. Charles|Bobby Charles]]
+| party2             = Republican Party (United States)
+| alliance2          =
+| running_mate2      = <!--- TBD --->
+| popular_vote2      = 
+| percentage2        = 
+| image3             = 3x4.svg
+| nominee3           = [[Rick Bennett (Maine politician)|Rick Bennett]]
+| party3             = Independent 
+| alliance3          =       
+| running_mate3      = 
+| popular_vote3      = 
+| percentage3        = 
+| map_image          = 
+| map_size           = 
+| map_caption        = 
+| title              = [[Governor of Maine|Governor]]
+| before_election    = [[Janet Mills]]
+| before_party       = Democratic Party (United States)
+| after_election     =
+| after_party        =
+}}
+{{ElectionsME}}
+
+The '''2026 Maine gubernatorial election''' is scheduled to take place on November 3, 2026, to elect the [[governor of Maine]]. Incumbent [[Maine Democratic Party|Democratic]] governor [[Janet Mills]] is [[Term limits in the United States|ineligible]] to seek re-election to a third consecutive term. Although Maine has adopted [[Instant-runoff voting|ranked-choice voting]], it is only used for primary and federal general elections. Therefore, the primary was conducted with ranked-choice voting, and the general election will be conducted with the traditional [[Plurality voting|plurality voting]] system. [[Primary elections]] were held on June 9, 2026.<ref>{{Cite web |title=2026 State Primary Election Dates |url=https://www.ncsl.org/elections-and-campaigns/2026-state-primary-election-dates |access-date=2025-05-23 |website=[[National Conference of State Legislatures]]}}</ref>
+
+Democrat [[Hannah Pingree]] and Republican [[Robert B. Charles|Bobby Charles]] won their respective primaries, and will be joined on the ballot by independent [[Rick Bennett (Maine politician)|Rick Bennett]].<ref name=":7">{{Cite web |date=2026-06-19 |title=Hannah Pingree wins ranked-choice runoff in Democratic primary for governor |url=https://www.pressherald.com/2026/06/19/hannah-pingree-wins-ranked-choice-runoff-in-democratic-primary-for-governor/ |access-date=2026-06-19 |website=The Portland Press Herald |language=en-US}}</ref>
+
+== Background ==
+Incumbent Democratic governor [[Janet Mills]] was re-elected with 55.69% of the vote in [[2022 Maine gubernatorial election|2022]] over Republican former governor [[Paul LePage]].<ref>{{Cite news |last=Mistler |first=Steve |date=2022-11-09 |title=Maine Gov. Janet Mills wins second term, defeating former GOP Gov. Paul LePage |url=https://www.npr.org/2022/11/09/1134198072/maine-election-results-governor-paul-lepage-janet-mills |access-date=2026-01-20 |work=NPR |language=en}}</ref> She is term-limited and not eligible to run again.
+
+A sparsely populated state in [[New England]], Maine is one of the most [[Rural areas in the United States|rural]] states in the nation and is considered to be moderately [[Red states and blue states|blue]]. Both houses of the [[Maine Legislature]] were controlled by the Maine Democratic Party in the prior session. A Republican has not received 50% or more of the vote in a gubernatorial election since [[1962 Maine gubernatorial election|1962]], when incumbent Republican [[John H. Reed]] received 50.08% of the vote.<ref name=":3">{{Cite web |title=Maine Election Returns |url=https://www.maine.gov/legis/lawlib/lldl/elections/electionshome.html |access-date=2026-01-20 |website=www.maine.gov}}</ref>
+
+==Democratic primary==
+[[Shenna Bellows]], [[Troy Jackson]], and [[Hannah Pingree]] announced an "alliance" on May 22, 2026, in which they would rank each other ahead of their opponents [[Angus King III]] and [[Nirav D. Shah|Nirav Shah]]; Shah was leading in most public polls.<ref name="PingreeJacksonBellowsAlliance">{{Cite web |last=Brodey |first=Sam |date=May 28, 2026 |title=It has famous names, wildcards, and a COVID doctor: How Maine's governor race became the primary to watch - The Boston Globe |url=https://www.bostonglobe.com/2026/05/28/nation/maine-janet-mills-governor-race-graham-platner/ |access-date=2026-05-28 |website=BostonGlobe.com |language=en-US}}</ref> Shah received the most first-preference votes, with 26.8%, followed by Pingree with 23.3%, Jackson with 21.0%, Bellows with 20.7%, and King with 8.2%. As a result of finishing last, King was eliminated and his voters' second preferences were redistributed to the remaining four candidates. Pingree was ultimately nominated after four rounds of ranked-choice tabulation, defeating Shah in the final round by a 56%–44% margin.<ref name=":7" />
+
+Following his loss in the gubernatorial primary, [[Troy Jackson]] became the Democratic nominee in the [[2026 United States Senate election in Maine|2026 United States Senate election]] after former nominee [[Graham Platner]] withdrew from the race.<ref>{{Cite web |last=Davis |first=Emma |date=2026-07-25 |title=Troy Jackson officially clinches Maine Democratic U.S. Senate nomination • Maine Morning Star |url=https://mainemorningstar.com/2026/07/25/troy-jackson-officially-clinches-maine-democratic-u-s-senate-nomination/ |access-date=2026-09-23 |website=Maine Morning Star |language=en-US}}</ref>
+
+===Candidates===
+====Nominee====
+*[[Hannah Pingree]], former director of the Maine Governor's Office of Policy Innovation, former [[Speaker of the Maine House of Representatives]] (2008–2010) from the 36th district (2002–2010), and daughter of U.S. Representative [[Chellie Pingree]]<ref>{{Cite web |last=Flisiuk |first=Francis |date=2025-06-10 |title=Hannah Pingree announces campaign for Maine Governor |url=https://www.wmtw.com/article/hannah-pingree-announces-campaign-for-maine-governor/65019587 |access-date=2025-06-10 |website=[[WMTW (TV)|WMTW]] |language=en}}</ref>
+
+====Eliminated in primary====
+*[[Shenna Bellows]], [[Maine Secretary of State]] (2021–present) and nominee for U.S. Senate in [[2014 United States Senate election in Maine|2014]]<ref name=":2">{{cite news |last1=Pendharkar |first1=Eesha |title=Maine Secretary of State Shenna Bellows officially announces bid for governor |url=https://mainemorningstar.com/2025/03/26/maine-secretary-of-state-shenna-bellows-officially-announces-bid-for-governor/ |access-date=March 26, 2025 |work=[[Maine Morning Star]] |date=March 26, 2025}}</ref>
+*[[Troy Jackson]], former [[President of the Maine Senate]] (2018–2024) and candidate for [[Maine's 2nd congressional district]] in [[2014 United States House of Representatives elections in Maine#District 2|2014]]<ref>{{cite news |last1=Hilton |first1=Annmarie |title=Former Senate President Troy Jackson enters race for governor |url=https://mainemorningstar.com/briefs/former-senate-president-troy-jackson-enters-race-for-governor/ |access-date=May 19, 2025 |work=[[Maine Morning Star]] |date=May 19, 2025}}</ref>
+*[[Angus King III]], energy executive and son of U.S. Senator and former governor [[Angus King]]<ref>{{Cite web |last=Everett |first=Burgess |date=May 6, 2025 |title=King of Maine? Angus King III launches governor bid |url=https://www.semafor.com/article/05/06/2025/king-of-maine-angus-king-iii-launches-governor-bid |website=[[Semafor (website)|Semafor]]}}</ref>
+*[[Nirav D. Shah|Nirav Shah]], former principal deputy director of the [[Centers for Disease Control and Prevention]] (2023–2025) and former director of the Maine CDC (2019–2023)<ref>{{Cite web |last=Miller |first=Kevin |date=2025-10-20 |title=Former Maine CDC director, Dr. Nirav Shah, joins Democratic race for governor |url=https://www.mainepublic.org/politics/2025-10-20/former-maine-cdc-director-dr-nirav-shah-joins-democratic-race-for-governor |access-date=2025-10-20 |website=[[Maine Public Broadcasting Network]] |language=en}}</ref>
+
+==== Failed to qualify ====
+* Kenneth Pinet, retired hotel worker<ref name="leads">{{cite news |work=[[WGME]] |access-date=July 15, 2025 |title=Angus King III leads Democrats in the 1st poll of 2026 Maine governor's race |date=June 3, 2025 |url=https://wgme.com/news/local/angus-king-iii-leads-democrats-in-the-1st-poll-of-2026-maine-governors-race}}</ref><ref name=":4">{{Cite web |date=2026-03-16 |title=Here are the Senate and Maine governor candidates who qualified for June primaries |url=https://www.pressherald.com/2026/03/16/here-are-the-maine-candidates-who-qualified-for-june-primaries/ |access-date=2026-03-17 |website=The Portland Press Herald |language=en-US}}</ref>
+
+====Withdrawn====
+*Jason Cherry, attorney and independent candidate for U.S. Senate in [[2024 United States Senate election in Maine|2024]] ''([[2026 Maine House of Representatives election|ran for State House]])''<ref>{{cite web |title=Jason Cherry drops out of gubernatorial race, switches to new campaign |url=https://www.wabi.tv/2026/03/05/jason-cherry-drops-out-gubernatorial-race-switches-new-campaign/ |publisher=[[WABI-TV]] |access-date=9 March 2026 |date=4 March 2026}}</ref>
+
+====Declined====
+*[[Joe Baldacci]], state senator (2020–present) and brother of former governor [[John Baldacci]] ''([[2026 United States House of Representatives elections in Maine#District 2|ran for U.S. House]], endorsed Jackson)''<ref name="JoeBaldacci" >{{Cite tweet|number=1906425664036864211|date=March 30, 2025|user=JoeBaldacci|title= Many, many nice people have asked if I was interested in running for Governor. I have no plans to do so because I am supporting my friend and former colleague and former Senate President Troy Jackson for Governor.}}</ref>
+*[[Jared Golden]], [[U.S. representative]] from [[Maine's 2nd congressional district]] (2019–present)<ref>{{Cite web |last=Kobin |first=Billy |date=2025-05-20 |title=Jared Golden will run for reelection in Maine's 2nd District in 2026 |url=https://www.bangordailynews.com/2025/05/20/politics/state-politics/jared-golden-seeking-reelection-maine-2nd-district-2026-joam40zk0w/ |access-date=2025-05-20 |website=[[Bangor Daily News]] |language=en-US}}</ref>
+*Dan Kleban, brewer<ref>{{Cite web |last=Shepherd |first=Michael |date=2025-05-06 |title=Angus King's son will run for governor as a Democrat in 2026 |url=https://www.bangordailynews.com/2025/05/06/politics/elections/angus-kings-son-will-run-for-maine-governor-2026-joam40zk0w/ |access-date=2025-05-08 |website=[[Bangor Daily News]] |language=en-US}}</ref> ''([[2026 United States Senate election in Maine|ran for U.S. Senate]])''<ref>{{Cite news |last=Goldmacher |first=Shane |date=2025-09-03 |title=Dan Kleban Joins Maine Democratic Primary, Seeking to Unseat Senator Susan Collins |url=https://www.nytimes.com/2025/09/03/us/politics/democrats-maine-senate-race.html |website=[[The New York Times]] |access-date=2025-09-03 |language=en}}</ref>
+*Adam Lee, car dealer<ref name=":0">{{Cite web |last1=Shepherd |first1=Michael |last2=Klobin |first2=Billy |date=2024-12-02 |title=The famous names and familiar faces considering a run for Maine governor |url=https://www.bangordailynews.com/2024/12/02/politics/elections/mainers-considering-running-for-governor-2026-joam40zk0w/ |access-date=2024-12-02 |website=[[Bangor Daily News]] |language=en-US}}</ref>
+
+===Endorsements===
+{{Endorsements box
+| title= Shenna Bellows
+| list=
+;State legislators
+*[[Troy Jackson]], candidate for governor in 2026, former [[President of the Maine Senate]] (2018–2024) ''(second choice co-endorsement with Pingree)''<ref name="PingreeJacksonBellowsAlliance" />
+*[[Hannah Pingree]], candidate for governor in 2026, former [[Speaker of the Maine House of Representatives]] (2008–2010) ''(second choice co-endorsement with Jackson)''<ref name="PingreeJacksonBellowsAlliance" />
+*[[Denise Tepler]], [[Maine Senate|state senator]] for the 24th district (2024–present) ''(co-endorsement with Pingree)''<ref>{{Cite web|url=https://www.pressherald.com/2026/05/22/if-women-lead-maine-will-respond-letter/|title=If women lead, Maine will respond — Letter|last=Tepler|first=Denise|date=May 22, 2026}}</ref>
+;Individuals
+*[[Graham Platner]], [[Sullivan, Maine|Sullivan]] harbor master, candidate for [[U.S. Senate]] in [[2026 United States Senate election in Maine|2026]] ''(second choice co-endorsement with Pingree)''<ref name="PlatnerEndorsements">{{cite news|url=https://www.bangordailynews.com/2026/05/21/politics/elections/graham-platner-votes-maines-democratic-gubernatorial-primary/|date=May 21, 2026|title=Graham Platner shares his votes in Maine's Democratic gubernatorial primary|last=Andrews|first=Ethan|work=Bangor Daily News}}</ref>
+;Labor unions
+*[[National Education Association|Maine Education Association]] ''(first choice)''<ref name="MEANEA">{{Cite web |last=Berry |first=Shawn |date=2026-04-29 |title=Maine Education Association, State's Largest Union, Ranks Three Candidates for Governor |url=https://maineea.org/news/maine-education-association-states-largest-union-ranks-three-candidates-for-governor/ |access-date=2026-04-29 |website=Maine Education Association |language=en-US}}</ref>
+*[[SEIU|MSEA-SEIU Local 1989]] ''(second choice)''<ref name="MSEA-SEIU">{{Cite web|url=https://mseaseiu.org/2026/04/27/members-of-msea-seiu-local-1989-recommend-troy-jackson-first-and-shenna-bellows-second-in-the-june-9th-ranked-choice-primary-election-for-governor/|title=Members of MSEA-SEIU Local 1989 recommend Troy Jackson first and Shenna Bellows second in the June 9th ranked-choice primary election for governor|date=April 27, 2026|work=MSEA-SEIU Local 1989}}</ref>
+;Organizations
+*[[Maine People's Resource Center|Maine People's Alliance]]<ref>{{cite web |title=Endorsements |url=https://mainepeoplesalliance.org/endorsements/ |website=Maine People's Alliance |access-date=13 November 2025}}</ref>
+*[[Sierra Club]] of Maine ''(co-endorsement with Jackson and Pingree)''<ref name="Sierra">{{cite web |last1=Steinmetz |first1=Channa |title=Sierra Club endorses Bellows, Jackson and Pingree for Maine governor - Maine Beacon |url=https://mainebeacon.com/sierra-club-endorses-bellows-jackson-and-pingree-for-maine-governor/ |website=Maine Beacon |access-date=23 April 2026 |date=22 April 2026}}</ref>
+}}
+{{Endorsements box
+| title= Troy Jackson
+| colwidth = 60
+| list=
+;U.S. senators
+*[[Bernie Sanders]], [[Vermont]] (2007–present) ''(Independent)''<ref>{{Cite news |last=Burns |first=Christopher |date=May 21, 2025 |title=Bernie Sanders endorses Troy Jackson for Maine's next governor |url=https://www.bangordailynews.com/2025/05/21/politics/elections/maine-bernie-sanders-troy-jackson-endorsement-governor-election/|access-date=May 21, 2025 |work=[[Bangor Daily News]]|language=en-US}}</ref>
+
+;U.S. representatives
+*[[Ro Khanna]], [[California's 17th congressional district|CA-17]] (2017–present)<ref>{{Cite news |last=Cohen  |first=Larry |date=February 27, 2026  |title= The Candidate From Rural Maine Fighting Big Money
+|url=https://barnraisingmedia.com/the-candidate-from-rural-maine-fighting-big-money/|access-date=April 13, 2026}}</ref>
+
+;Statewide officials
+*[[Shenna Bellows]], candidate for governor in 2026, [[Maine Secretary of State|Maine secretary of state]] (2021–present) ''(second choice co-endorsement with Pingree)''<ref name="PingreeJacksonBellowsAlliance" />
+*[[Michael E. Carpenter]], [[Maine Attorney General|former attorney general of Maine]] (1991–1995)<ref>{{Cite web|url=https://www.bangordailynews.com/2026/03/30/opinion/letters/letter-troy-jackson-should-be-maines-next-governor/|title=Letter: Troy Jackson should be Maine's next governor|last=Carpenter|first=Michael|date=March 30, 2026|accessdate=March 31, 2026}}</ref>
+
+;State legislators
+*[[Joe Baldacci]],  [[Maine Senate|state senator]] from the 9th district (2020–present) and [[2026 United States House of Representatives elections in Maine#District 2|2026 candidate]] for [[Maine's 2nd congressional district|ME-02]]<ref name="PoliticalFamilies">{{Cite news|url=https://www.bostonglobe.com/2025/06/10/nation/new-england-politicians-fresh-faces/|work=[[Boston Globe]]|last1=Brodey|first1=Sam|last2=Pindell|first2=James|title=Fresher faces, same names: Meet New England's new crop of politicians' relatives who are looking at elected office|date=June 10, 2025|access-date=June 12, 2025|language=en-US}}</ref>
+*Andy O'Brien, former [[Maine House of Representatives|state representative]] from the 44th district (2008–2012)<ref name=aflcio/>
+*[[Hannah Pingree]], candidate for governor in 2026, former [[Speaker of the Maine House of Representatives]] (2008–2010) ''(second choice co-endorsement with Bellows)''<ref name="PingreeJacksonBellowsAlliance" />
+
+;Local officials
+*[[Mark Dion (politician)|Mark Dion]], [[Mayor of Portland, Maine|mayor of Portland]] (2023–present)<ref>{{Cite web |last=McCusker |first=Cate |date=2026-02-26 |title=Portland mayor endorses Troy Jackson for Maine governor |url=https://www.wmtw.com/article/portland-mayor-endorses-jackson-for-maine-governor/70522946 |access-date=2026-02-27 |website=WMTW |language=en}}</ref>
+
+;Individuals
+*[[Graham Platner]], [[Sullivan, Maine|Sullivan]] harbor master, candidate for [[U.S. Senate]] in [[2026 United States Senate election in Maine|2026]] ''(first choice)''<ref name="PlatnerEndorsements" />
+
+;Labor unions
+*[[American Postal Workers Union]] Local 536<ref name=apwuetal>{{Cite web |url=https://www.pressherald.com/2025/05/19/troy-jackson-announces-run-for-maine-governor/ |archive-url=https://web.archive.org/web/20250520063408/https://www.pressherald.com/2025/05/19/troy-jackson-announces-run-for-maine-governor/ |url-status=live |archive-date=May 20, 2025 |language=en-US |title=Troy Jackson announces run for Maine governor |last=Graham |first=Gillian |website=[[Portland Press Herald]] |date=May 19, 2025 |access-date=August 13, 2025}}</ref>
+*[[International Association of Fire Fighters|Professional Firefighters of Maine]]<ref>{{Cite web |date=2025-09-19 |title=Professional Fire Fighters of Maine Endorse Troy Jackson for Governor {{!}} Maine AFL-CIO |url=https://maineaflcio.org/news/professional-fire-fighters-maine-endorse-troy-jackson-governor |access-date=2026-02-09 |website=maineaflcio.org |language=en}}</ref>
+*[[International Association of Machinists and Aerospace Workers]] Maine State Council<ref>{{Cite web |url=https://www.newscentermaine.com/article/news/politics/maine-politics/troy-jackson-maine-governor-campaign/97-5d6c87f0-5cb6-45cb-9cbc-53e974992efe |title=Former Maine Senate President Troy Jackson running for governor in 2026 |last=Stockford |first=Griffin |date=May 19, 2025 |access-date=August 13, 2025 |language=en-US |website=[[News Center Maine]]}}</ref>
+*[[International Brotherhood of Teamsters]] New England Joint Council 10 and Local 340<ref>{{Cite web |url=https://www.facebook.com/newenglandteamsters/posts/maine-teamsters-endorse-troy-jackson-for-governorteamsters-local-340-joined-majo/993470389605124/ |title=Maine Teamsters Endorse Troy Jackson for Governor: Teamsters Local 340 joined major unions today to back Troy Jackson's campaign for Governor of Maine |website=[[Facebook]] |date=May 20, 2025 |access-date=August 13, 2025 |author=[[Teamsters]] Joint Council 10 [@NewEnglandTeamsters] |language=en-US}}</ref>
+*[[Maine AFL-CIO]]<ref name=aflcio>{{Cite web |url=https://maineaflcio.org/news/help-us-put-working-class-candidate-blaine-house |title=Help Us Put a Working Class Candidate in the Blaine House |last=O'Brien |first=Andy |website=Maine [[AFL-CIO]] |language=en-US |date=July 21, 2025 |access-date=August 13, 2025}}</ref>
+*Maine [[North America's Building Trades Unions|Building & Construction Trades Council]]<ref name=apwuetal/>
+*[[National Education Association|Maine Education Association]] ''(second choice)''<ref name="MEANEA" />
+*[[Maine State Nurses Association]]<ref>{{cite web |title=Platner and Jackson endorsed by Maine State Nurses Association |url=https://www.wmtw.com/article/graham-platner-troy-jackson-endorsed-maine-state-nurses-association/67952381 |work=[[WMTW-TV]] |date=September 18, 2025 |access-date=September 18, 2025}}</ref>
+*[[SEIU|MSEA-SEIU Local 1989]] ''(first choice)''<ref name="MSEA-SEIU" />
+*[[Portsmouth Naval Shipyard]] [[Metal Trades Department, AFL–CIO|Metal Trades Council]]<ref name=apwuetal/>
+
+;Organizations
+*[[Democratic Socialists of America|Maine Democratic Socialists of America]]<ref>{{Cite web |url=https://www.instagram.com/p/DYCyrEbkfIn/ |title=Maine DSA proudly endorses Troy Jackson for Governor!|work=Instagram|date=May 7, 2026}}</ref>
+*[[Our Revolution]]<ref>{{Cite web |url=https://ourrevolution.com/troy-jackson-for-governor-maine/ |title=Troy Jackson for Governor – Maine |website=[[Our Revolution]] |date=May 29, 2025 |language=en-US |access-date=August 14, 2025}}</ref>
+*[[Sierra Club]] of Maine ''(co-endorsement with Bellows and Pingree)''<ref name="Sierra"/>
+}}
+{{Endorsements box
+| title= Angus King III
+| list=
+;U.S. senators
+*[[Angus King]], [[Maine]] (2013–present) ''(Independent; candidate's father)''<ref>{{Cite web |url=https://www.semafor.com/article/05/06/2025/king-of-maine-angus-king-iii-launches-governor-bid |title=King of Maine? Angus King III launches governor bid |website=[[Semafor (website)|Semafor]] |date=May 6, 2025 |last=Everett |first=Burgess |access-date=August 13, 2025 |language=en-US |quote=He's also candid about his easy endorsement from one of the state's most popular politicians: his father, who just won a third term in the Senate and served two terms as governor.}}</ref>
+}}
+{{Endorsements box
+| title= Hannah Pingree
+| colwidth = 60
+| list=
+;Executive branch officials
+*[[Jeanne Lambrew]], former deputy director of the [[White House Office of Health Reform]] (2009–2011) and commissioner of the [[Maine Department of Health and Human Services]] (2019–2024)<ref name="PingreeStar"/>
+
+;Statewide officials
+*[[Shenna Bellows]], candidate for governor in 2026, [[Maine Secretary of State|Maine secretary of state]] (2021–present) ''(second choice co-endorsement with Jackson)''<ref name="PingreeJacksonBellowsAlliance" />
+*[[Aaron Frey]], [[Maine Attorney General|Maine attorney general]] (2019–present)<ref>{{Cite web |last=McHatten |first=Brittany |date=2026-05-12 |title=Maine Attorney General Aaron Frey endorses Hannah Pingree for governor |url=https://www.wabi.tv/2026/05/12/maine-attorney-general-aaron-frey-endorses-hannah-pingree-governor/ |access-date=2026-05-12 |website=WABI-TV |language=en}}</ref>
+*[[Janet Mills]], [[governor of Maine]] (2019–present)<ref>{{Cite news|url=https://www.pressherald.com/2026/05/19/janet-mills-endorses-hannah-pingree-for-governor/|title=Janet Mills endorses Hannah Pingree for governor|last=Ohm|first=Rachel|date=May 19, 2026|work=Portland Press Herald}}</ref>
+*[[Abigail Spanberger]], governor of [[Virginia]] (2026–present)<ref>{{Cite tweet|number=2034792404486672712|title=Virginia Gov. Abigail Spanberger endorses Hannah Pingree for Maine governor.|user=aseitzwald|last=Seitz-Wald|first=Alex|date=March 19, 2026|accessdate=March 20, 2026}}</ref><!-- Do not remove this citation because it's from a tweet. WP:ENDORSE only disallows endorsements cited to tweets when cited tweet comes from someone connected to the campaign. Alex Seitz-Wald is the editor of the Midcoast Villager, a reliable, third-party source. WP:ENDORSE section 2 reads as follows: "2. Lists of endorsements should only include endorsements which have been covered by reliable independent sources. This means endorsements should not be sourced solely to a Tweet or Instagram post '''by the endorser, endorsee, or an affiliated individual or organization''', for example." This citation does not violate section 2 of WP:ENDORSE, and satisfies section 3, that endorsements must be covered by a reliable, independent source.-->
+
+;State legislators
+*[[Lynn Bromley]], former [[Maine State Senate|state senator]] from the 7th district (2000–2008)<ref>{{Cite web |last=Bromley |first=Lynn |date=2025-12-26 |title=Coalition-builder Pingree is the governor Maine needs {{!}} Letter |url=https://www.centralmaine.com/2025/12/26/coalition-builder-pingree-is-the-governor-maine-needs-letter/ |access-date=2026-01-27 |website=Centralmaine.com |language=en-US}}</ref>
+*[[Mark Eves]], former [[speaker of the Maine House of Representatives]] (2012–2016) from the 6th district (2008–2016)<ref name="PingreeStar">{{cite web |last1=McCauley |first1=Lauren |last2=Hilton |first2=AnnMarie |title=Maine House Speaker Fecteau backs Pingree for governor • Maine Morning Star |url=https://mainemorningstar.com/2025/11/07/maine-house-speaker-fecteau-backs-pingree-for-governor/ |website=Maine Morning Star |access-date=13 November 2025 |date=7 November 2025}}</ref>
+*[[Ryan Fecteau]], [[speaker of the Maine House of Representatives]] (2020–2022, 2024–present) from the 132nd district (2014–2022, 2024–present)<ref>{{cite web |last1=Flisiuk |first1=Francis |title=Maine House speaker to endorse Hannah Pingree for governor |url=https://www.wmtw.com/article/maine-house-speaker-to-endorse-hannah-pingree-for-governor/69286338 |access-date=November 7, 2025 |work=[[WMTW (TV)|WMTW]] |date=November 7, 2025}}</ref>
+*[[Drew Gattine]], [[Maine House of Representatives|state representative]] from the 34th district (2012–2020) and 126th district (2022–present)<ref>{{Cite web|url=https://www.pressherald.com/2026/02/06/hannah-pingree-will-deliver-results-for-all-mainers-opinion/|title=Hannah Pingree will deliver results for all Mainers – Opinion|date=February 6, 2026|last=Gattine|first=Drew|work=Portland Press Herald}}</ref>
+*[[Brian Hubbell]], former [[Maine House of Representatives|state representative]] from the 135th district (2012–2020)<ref>{{Cite web|url=https://www.mdislander.com/opinion/letters_to_editor/pingrees-proven-skills/article_22761424-1c22-4620-aac1-0b02e86ff64f.html|title=Pingree's proven skills|date=February 6, 2026|last=Hubbell|first=Brian|work=Mount Desert Islander}}</ref>
+*[[Troy Jackson]], candidate for governor in 2026, former [[President of the Maine Senate]] (2018–2024) ''(second choice co-endorsement with Bellows)''<ref name="PingreeJacksonBellowsAlliance" />
+*[[Matt Moonen]], majority leader of the [[Maine House of Representatives]] (2018–2020, 2024–present) from the 17th district (2022–present) and 38th district (2012–2020)<ref name="PingreeStar"/>
+*[[Linda Sanborn]], former [[Maine Senate|state senator]] (2018–2020)<ref>{{cite web|url=https://www.pressherald.com/2026/05/16/if-you-care-about-healthcare-rank-hannah-pingree-no-1-letter/|last=Sanborn|first=Lisa|date=May 16, 2026|title=If you care about healthcare, rank Hannah Pingree No. 1}}</ref>
+*[[Eloise Vitelli]], former majority leader of the [[Maine Senate]] (2021–2024) from the 24th district (2013–2014, 2016–2024)<ref name="PingreeStar"/>
+*[[Denise Tepler]], [[Maine Senate|state senator]] for the 24th district (2024–present) ''(co-endorsement with Bellows)''<ref>{{Cite web|url=https://www.pressherald.com/2026/05/22/if-women-lead-maine-will-respond-letter/|title=If women lead, Maine will respond — Letter|last=Tepler|first=Denise|date=May 22, 2026}}</ref>
+
+;Individuals
+*[[Stephen King]], author<ref>{{Cite web |last=Kobin |first=Billy |date=2026-03-11 |title=Stephen King endorses a Maine governor candidate |url=https://www.pressherald.com/2026/03/11/stephen-king-endorses-a-maine-governor-candidate/ |access-date=2026-03-11 |website=The Portland Press Herald |language=en-US}}</ref>
+*[[Graham Platner]], [[Sullivan, Maine|Sullivan]] harbor master, candidate for [[U.S. Senate]] in [[2026 United States Senate election in Maine|2026]] ''(second choice co-endorsement with Bellows)''<ref name="PlatnerEndorsements" />
+
+;Organizations
+*[[League of Conservation Voters|Maine Conservation Voters]]<ref>{{cite web |title=With rare primary endorsement, environmental PAC backs Hannah Pingree for Maine governor |url=https://mainemorningstar.com/briefs/with-rare-primary-endorsement-environmental-pac-backs-hannah-pingree-for-maine-governor/ |website=Maine Morning Star |date=December 2025 |access-date=2 December 2025}}</ref>
+*[[Sierra Club]] of Maine ''(co-endorsement with Bellows and Jackson)''<ref name="Sierra"/>
+*[[Vote Mama]]<ref>{{Cite web |title=Candidates |url=https://www.votemamapac.org/candidates |access-date=2025-10-20 |website=Vote Mama PAC |language=en}}</ref>
+}}
+{{Endorsements box
+| title= Nirav Shah
+| list=
+;Local officials
+*[[Carl Sheline]], [[Mayor of Lewiston, Maine|mayor of Lewiston]] (2022–present)<ref>{{Cite web |date=2026-04-09 |title=Lewiston mayor endorses Dr. Nirav Shah for governor |url=https://wgme.com/news/local/lewiston-mayor-endorses-dr-nirav-shah-for-governor |access-date=2026-04-09 |website=WGME |language=en}}</ref>
+
+;Labor unions
+*[[National Education Association|Maine Education Association]] ''(third choice)''<ref name="MEANEA" />
+
+;Organizations
+*[[314 Action]]<ref>{{Cite web |last1=Silva |first1=Grace |date=2025-12-16 |title=314 Action Fund Endorses Nirav Shah for Maine Governor |url=https://admin.314action.org/2025/12/16/314-action-fund-endorses-nirav-shah-for-maine-governor/ |access-date=2025-12-16 |website=3.14 Action}}</ref>
+}}
+
+===Fundraising===
+''Italics'' indicates a withdrawn or disqualified candidate
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of May 28, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|Shenna Bellows (D)
+|$1,788,987.24
+|$1,447,114.88
+|$367,068.15
+|-
+|{{party shading/Democratic}}|''Jason Cherry (D)''{{efn|name=Withdrawn|Withdrawn candidate}}
+|$0.00
+|$0.00
+|$0.00
+|-
+|{{party shading/Democratic}}|Troy Jackson (D)
+|$981,248.74
+|$747,698.62
+|$255,494.07
+|-
+|{{party shading/Democratic}}|Angus King III (D)
+|$1,921,242.73
+|$1,692,317.07
+|$228,925.66
+|-
+|{{party shading/Democratic}}|''Kenneth Forrest Pinet (D)''{{efn|name=Withdrawn}}
+|$775.00
+|$775.00
+|$0.00
+|-
+|{{party shading/Democratic}}|Hannah Pingree (D)
+|$2,123,468.39
+|$1,030,453.75
+|$420,028.18
+|-
+|{{party shading/Democratic}}|Nirav Shah (D)
+|$1,241,045.91
+|$944,715.86
+|$288,331.47
+|-
+! colspan="4" |<small>Source: Maine Ethics Commission<ref name="MEC">{{cite web |title=Maine Ethics Commission – Candidates |url=https://mainecampaignfinance.com/index.html#/exploreOfficeDetails/10/0/null/2026/0 |access-date=July 30, 2025 |archive-url=https://web.archive.org/web/20240928002211/https://mainecampaignfinance.com/index.html#/exploreOfficeDetails/10/0/null/2026/0 |archive-date=September 28, 2024 |url-status=dead}}</ref></small>
+|}
+
+===Polling===
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name=Key|Key:<br />A – all adults<br />RV – registered voters<br />LV – likely voters<br />V – unclear}}
+! Margin<br />{{nowrap|of error}}
+! Round
+! style="width:60px"| Shenna<br />Bellows
+! style="width:60px"| Troy<br />Jackson
+! style="width:60px"| Angus<br />King III
+! style="width:60px"| Hannah<br />Pingree
+! style="width:60px"| Nirav<br />Shah
+! Other
+! Undecided
+|-
+| align=left rowspan=4|[[SurveyUSA]]<ref name="SurveyUSA">{{Cite web|url=https://www.surveyusa.com/client/PollReport.aspx?g=cd7e1ef3-e886-4373-b420-f91e2d97c946|title=Maine Primary Voters Poised to Pick Bobby Charles as GOP Nominee for Governor, Joe Baldacci for Dems in CD2; Hannah Pingree Leads Narrowly in Dem Governor's Race|date=June 4, 2026}}</ref>
+| align=center rowspan=4| May 28 – June 3, 2026
+| align=center rowspan=4| 484<br>{{efn|Sample includes a mix of likely and actual voters.}}
+| align=center rowspan=4| ±&nbsp;5.4%
+| align=center| Round 1
+| align=center| 11%
+| align=center| 20%
+| align=center| 14%
+| align=center| 19%
+| align=center| 25%
+| align=center| –
+| align=center| 11%
+|-
+| align=center| Round 2
+| align=center| –
+| align=center colspan=4 |N/A{{efn|The candidates' percentages in the second round of the poll are not explicitly stated.}}
+| align=center| –
+| align=center| –
+|-
+| align=center| Round 3
+| align=center| –
+| align=center| 31%
+| align=center| –
+| align=center| 33%
+| align=center| 36%
+| align=center| –
+| align=center| –
+|-
+| align=center| Round 4
+| align=center| –
+| align=center| –
+| align=center| –
+| {{party shading/Democratic}} align=center| '''52%'''
+|48%
+| align=center| –
+| align=center| –
+|-
+|style="text-align:left;"|[[University of New Hampshire]]<ref name="UNHMay2026">{{cite web|url=https://scholars.unh.edu/cgi/viewcontent.cgi?article=1959&context=survey_center_polls|title=Platner Leads Collins in Maine Senate Race|first1=Sean P.|last1=McKinley|first2=Andrew E.|last2=Smith|first3=Zachary S.|last3=Azem|first4=Tracy|last4=Keirns|website=[[University of New Hampshire]]|date=May 27, 2026|access-date=May 27, 2026}}</ref>
+|May 21–25, 2026
+|595 (LV)
+|±&nbsp;4.0%
+|–
+|13%
+|{{party shading/Democratic}}|'''28%'''
+|7%
+|12%
+|{{party shading/Democratic}}|'''28%'''
+|1%{{efn|"Another candidate" with 1%}}
+|11%
+|-
+|style="text-align:left"|Impact Research<ref name="ImpactMay2026">{{cite tweet|number=2057904472886489236|user=JacobRubashkin|title=In Maine's governor race, Democrat Troy Jackson is now in second place in a new poll obtained by @InsideElections.|access-date=May 22, 2026}}</ref>
+|May 19–21, 2026
+|500 (LV)
+|±&nbsp;4.4%
+|''–''
+|15%
+|24%
+|9%
+|16%
+|{{party shading/Democratic}}|'''32%'''
+|–
+|4%
+|-
+|style="text-align:left"|Pan Atlantic Research<ref name="PanAtlanticMay2026">{{Cite web|url=https://drive.google.com/viewerng/viewer?url=https://21701012.fs1.hubspotusercontent-na1.net/hubfs/21701012/20260520%252069th%2520PAR%2520Omnibus%2520Poll%2520May%25202026.pdf|title=69th Omnibus Poll|date=May 20, 2026}}</ref>
+|May 8–18, 2026
+|402 (LV)
+|–
+|''–''
+|10%
+|12%
+|24%
+|9%
+|{{party shading/Democratic}}|'''29%'''
+|–
+|16%
+|-
+|style="text-align:left"|GQR (D)<ref name="GQRMay2026">{{cite tweet |number=2054934082748887155|user=Alex_Roarty |title=New internal poll from Hannah Pingree's campaign of the Maine Dem guv primary:Pingree: 20% Bellows: 18% Shah: 32% Jackson: 15% King: 12% Undecided: 3% On informed ballot (respondents given bios of each candidate), Pingree goes from 20% --> 24%, Shah shrinks from 32% --> 29%.|date=May 14, 2026|access-date=May 14, 2026 |language=en}}</ref>{{efn-ua|name=Pingree|Poll sponsored by Pingree's campaign.}}
+|May 6–9, 2026
+|500 (LV)
+|–
+|''–''
+|18%
+|15%
+|12%
+|20%
+|{{party shading/Democratic}}|'''32%'''
+|–
+|3%
+|-
+|style="text-align:left"|Schoen Cooperman Research (D)<ref name="SchoenCoopermanMay2026">{{cite tweet |number=2054539557647909323|user=AdamWren |title=New poll: Nirav Shah is leading the field in Maine Democratic gov primary.|date=May 13, 2026|access-date=May 13, 2026 |language=en}}</ref>{{efn-ua|name=314Action|Poll sponsored by [[314 Action]], which has endorsed Shah's campaign.}}
+|April 30 – May 4, 2026
+|522 (LV)
+|–
+|''–''
+|16%
+|13%
+|21%
+|15%
+|{{party shading/Democratic}}|'''28%'''
+|–
+|7%
+|-
+|style="text-align:left"|Impact Research (D)<ref name="ImpactMar2026">{{cite tweet |number=2037563029659729973|user=TroyJackson207 |title=Exciting news! New polling out today has us in 2nd in the Maine gubernatorial primary. Even more exciting: once folks learn more about the candidates, we're tied for first. We're not from the left. We're not from the right. We're from the bottom. And we're rising like crazy.|date=March 27, 2026|access-date=March 27, 2026 |language=en}}</ref>{{efn-ua|name=Jackson|Poll sponsored by Jackson's campaign.}}
+|March 19–23, 2026
+|500 (LV)
+|±&nbsp;4.4%
+|''–''
+|17%
+|18%
+|9%
+|16%
+|{{party shading/Democratic}}|'''31%'''
+|–
+|6%
+|-
+|style="text-align:left"|Pan Atlantic Research<ref name="PARMar2026">{{cite web |title=68th Omnibus Poll|url=https://drive.google.com/viewerng/viewer?url=https://21701012.fs1.hubspotusercontent-na1.net/hubfs/21701012/20260304%252068th%2520Omnibus%2520Poll%2520March%25202026.pdf&wmode=opaque|work=Pan Atlantic Research|date=March 4, 2026|access-date=March 4, 2026 |language=en}}</ref>
+|February 13 – March 2, 2026
+|367 (LV)
+|–
+|''–''
+|16%
+|10%
+|{{party shading/Democratic}}|'''24%'''
+|18%
+|{{party shading/Democratic}}|'''24%'''
+|10%{{Efn|Jason Cherry with 6%, Kenneth Pinet with 4%}}
+|–
+|-
+|style="text-align:left;"|[[University of New Hampshire]]<ref name="UNHFeb2026">{{cite web|url=https://scholars.unh.edu/cgi/viewcontent.cgi?article=1929&context=survey_center_polls|title=In Maine Senate Race, Platner Leads Mills in Primary and Collins in General Election Matchup|first1=Sean P.|last1=McKinley|first2=Andrew E.|last2=Smith|first3=Zachary S.|last3=Azem|first4=Tracy|last4=Keirns|website=[[University of New Hampshire]]|date=February 24, 2026|access-date=February 24, 2026}}</ref>
+|February 12–16, 2026
+|462 (LV)
+|±&nbsp;4.5%
+|''–''
+|19%
+|16%
+|5%
+|10%
+|{{party shading/Democratic}}|'''25%'''
+|1%{{efn|"Another candidate" with 1%; Kenneth Pinet with 0%}}
+|23%
+|-
+|style="text-align:left;"| Hart Research (D)<ref name="Hart">{{cite web |title=Dr. Nirav Shah the Leader in Just-Completed Survey of Maine Democratic Primary Voters |url= https://drive.google.com/file/d/1ahYs17I9pOyO5PnjRitDQGSKOG-x7zyS/view |work=Hart Research |date=January 26, 2026 |access-date=January 26, 2026}}</ref>{{efn-ua|name=Shah|Poll sponsored by Shah's campaign.}}
+|January 15–19, 2026
+|502 (LV)
+|±&nbsp;4.5%
+|''–''
+|11%
+|9%
+|13%
+|13%
+| {{party shading/Democratic}} | '''35%'''
+|–
+|18%
+|-
+|style="text-align:left;"| Pan Atlantic Research<ref name="Mitch">{{cite web |title=67th Omnibus Poll |url=https://hs-21701012.f.hubspotstarter.net/hubfs/21701012/67th%20Omnibus%20Poll%20December%202025.pdf? |website=Pan Atlantic Research |access-date=27 December 2025}}</ref>
+|November 29 – December 7, 2025
+|318 (LV)
+|±&nbsp;6.1%
+|''–''
+|16%
+|8%
+|19%
+|18%
+| {{party shading/Democratic}} | '''24%'''
+|–
+|15%
+|-
+|style="text-align:left"|GQR (D)<ref name="GQRMay2026"/>{{efn-ua|name=Pingree}}
+|October 2025
+|–
+|–
+|''–''
+|{{party shading/Democratic}}|'''24%'''
+|14%
+|15%
+|16%
+|16%
+|–
+|16%
+|-
+|style="text-align:left;"| Pan Atlantic Research<ref name="May">{{cite web |title=66th Omnibus Poll |url= https://wgme.com/resources/pdf/2e911883-ba36-424b-9d42-6bea2a0b3527-66thOmnibusPollJune2025.pdf |website=WGME |access-date=4 January 2026}}</ref>
+|May 12–26, 2025
+|325 (LV)
+|±&nbsp;6.1%
+|''–''
+|24%
+|13%
+| {{party shading/Democratic}} |'''33%'''
+|20%
+|–
+|–
+|10%
+|}
+
+===Debates===
+{| class="wikitable" style="text-align:center;"
+|+ 2026 Maine gubernatorial election Democratic primary debates
+|-
+! scope="col" | {{abbr|No.|Number}}
+! scope="col" | Date
+! scope="col" | Host
+! scope="col" | Moderator
+! scope="col" | Link
+! scope="col"| <small>[[Democratic Party (US)|Democratic]]</small>
+! scope="col"| <small>[[Democratic Party (US)|Democratic]]</small>
+! scope="col"| <small>[[Democratic Party (US)|Democratic]]</small>
+! scope="col"| <small>[[Democratic Party (US)|Democratic]]</small>
+! scope="col"| <small>[[Democratic Party (US)|Democratic]]</small>
+|-
+! colspan="5" rowspan="2" |Key:<br>{{Colors|black|#90ff90|&nbsp;P&nbsp;}} <small>Participant&nbsp;</small> {{Colors|black|#FFFFDD|&nbsp;A&nbsp;}} <small>Absent&nbsp;</small> {{Colors|black|#ff9090|&nbsp;N&nbsp;}} <small>Not invited&nbsp;</small> {{Colors|black|#CCFFCC|&nbsp;I&nbsp;}} <small>Invited {{color box|#f0e68c|W}} Withdrawn</small>
+! scope="col" style="background:{{party color|Democratic Party (US)}}"|
+! scope="col" style="background:{{party color|Democratic Party (US)}}"|
+! scope="col" style="background:{{party color|Democratic Party (US)}}"|
+! scope="col" style="background:{{party color|Democratic Party (US)}}"|
+! scope="col" style="background:{{party color|Democratic Party (US)}}"|
+|-
+! scope="col" | [[Shenna Bellows]]
+! scope="col" | [[Troy Jackson]]
+! scope="col" | [[Angus King III]]
+! scope="col" | [[Hannah Pingree]]
+! scope="col" | [[Nirav D. Shah|Nirav Shah]]
+|-
+!1
+| style="white-space:nowrap;" | April 30, 2026
+| style="white-space:nowrap;" | [[WMTW-TV]]<br>[[WABI-TV]]<br>[[WAGM-TV]]
+| style="white-space:nowrap;" | Terry Stackhouse
+| style="white-space:nowrap;" | [https://www.youtube.com/watch?v=__T6ZQTepcw YouTube]
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+|-
+!2
+| style="white-space:nowrap;" | May 5, 2026
+| style="white-space:nowrap;" | [[WGME-TV]]<br>[[Bangor Daily News]]
+| style="white-space:nowrap;" | Gregg Lagerquist<br>Mike Shepherd
+| style="white-space:nowrap;" | [https://www.youtube.com/watch?v=I6cn_vYt4gU YouTube]
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+|-
+!3
+| style="white-space:nowrap;" | May 14, 2026
+| style="white-space:nowrap;" | [[WCSH-TV]]
+| style="white-space:nowrap;" | Rob Caldwell<br>Phil Hirschkorn
+| style="white-space:nowrap;" | [https://www.youtube.com/watch?v=0REcX6lraXg YouTube]
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+|}
+
+===Results===
+{{Switcher|
+[[File:Maine Democratic gubernatorial primary 2026 first choice result by county.svg|280px|thumb|upright|First round results by county
+{{collapsible list
+| title = {{legend|#2affd5ff|Shah}}
+|{{legend|#2affd5ff|20–30%}}
+}}
+{{collapsible list
+| title = {{legend|#9955ffff|Pingree}}
+|{{legend|#9955ffff|30–40%}}
+}}
+{{collapsible list
+| title = {{legend|#ff0066ff|Jackson}}
+|{{legend|#ff80b2ff|20–30%}}
+|{{legend|#ff0066ff|50–60%}}
+}}
+{{collapsible list
+| title = {{legend|#ff9955ff|Bellows}}
+|{{legend|#ff9955ff|30–40%}}
+}}
+]]|Results by county|
+[[File:Maine Democratic gubernatorial primary 2026 first choice result by town.svg|280px|thumb|upright|First round results by town
+{{collapsible list
+| title = {{legend|#5FD35F|Shah}}
+|{{legend|#C0F0C0|20–30%}}
+|{{legend|#AAE5AA|30–40%}}
+|{{legend|#87DE87|40–50%}}
+|{{legend|#5FD35F|50–60%}}
+|{{legend|#37C837|60–70%}}
+|{{legend|#217821|80–90%}}
+}}
+{{collapsible list
+| title = {{legend|#7996e2|Pingree}}
+|{{legend|#DFEEFF|20–30%}}
+|{{legend|#BDD3FF|30–40%}}
+|{{legend|#A5B0FF|40–50%}}
+|{{legend|#7996E2|50–60%}}
+|{{legend|#6674DE|60–70%}}
+|{{legend|#584CDE|70–80%}}
+|{{legend|#3933E5|80–90%}}
+}}
+{{collapsible list
+| title = {{legend|#FF80B2|Jackson}}
+|{{legend|#FFDCEC|20–30%}}
+|{{legend|#FFC5DA|30–40%}}
+|{{legend|#FFAACC|40–50%}}
+|{{legend|#FF80B2|50–60%}}
+|{{legend|#FF5599|60–70%}}
+|{{legend|#FF2A7F|70–80%}}
+|{{legend|#e62672|80–90%}}
+|{{legend|#b31d59|>90%}}
+}}
+{{collapsible list
+| title = {{legend|#FFB380|Bellows}}
+|{{legend|#FEEFDF|20–30%}}
+|{{legend|#FEE5D5|30–40%}}
+|{{legend|#FFCCAA|40–50%}}
+|{{legend|#FFB380|50–60%}}
+|{{legend|#FF9955|60–70%}}
+|{{legend|#D45500|>90%}}
+}}
+{{collapsible list
+| title = {{legend|#FACA33|King}}
+|{{legend|#F2F2A0|30–40%}}
+|{{legend|#D0A828|60–70%}}
+|{{legend|#2E1F00|>90%}}
+}}
+{{collapsible list
+| title = {{legend|#AE8BB1|Tie}}
+|{{legend|#EFE7F5|20–30%}}
+|{{legend|#DECDE6|30–40%}}
+|{{legend|#D2B1D9|40–50%}}
+|{{legend|#AE8BB1|50%}}
+}}
+{{collapsible list
+}}{{legend|#808080|No Votes}}
+]]|Results by town|}}
+The Maine gubernatorial election uses [[instant-runoff voting]] as its algorithm: in each round, the candidate with the fewest [[first-preference vote]]s among the remaining candidates is eliminated, and each ballot which was formerly voting for that candidate is transferred to its new first preference.  This necessarily results in a number of rounds equal to 1 less than the number of candidates.
+
+{| class="wikitable sortable"
+|+
+! colspan="14" |Democratic primary results<ref>{{Cite web |date=2026-06-19 |title=Hannah Pingree wins ranked-choice runoff in Democratic primary for governor |url=https://www.pressherald.com/2026/06/19/hannah-pingree-wins-ranked-choice-runoff-in-democratic-primary-for-governor/ |access-date=2026-06-20 |website=The Portland Press Herald |language=en-US}}</ref>
+|-
+! colspan="2" rowspan="2" class="unsortable" |Party
+! rowspan="2" |Candidate
+! colspan="2" |Round 1
+!
+! colspan="2" |Round 2
+!
+! colspan="2" |Round 3
+!
+! colspan="2" |Round 4
+|-
+!Votes
+!%
+!Transfer
+!Votes
+!%
+!Transfer
+!Votes
+!%
+!Transfer
+!Votes
+!%
+|- style="text-align:right;"
+|style="background-color:{{party color|Democratic Party (United States)}}" |
+|style="text-align:left;"|'''[[Democratic Party (United States)|Democratic]]'''
+|style="text-align:left;"|'''[[Hannah Pingree]]'''
+|<!--RD1 votes-->50,552
+|23.3
+|'''+ 4,808'''
+|55,360
+|26.0
+|'''+ 20,311'''
+|'''75,671'''
+|'''36.3'''
+|'''+ 36,079'''
+|'''111,750'''
+|'''56.2'''
+|- style="text-align:right;"
+|style="background-color:{{party color|Democratic Party (United States)}}" |
+|style="text-align:left;"|[[Democratic Party (United States)|Democratic]]
+|style="text-align:left;"|[[Nirav D. Shah|Nirav Shah]]
+|'''<!--RD1 votes-->58,606'''
+|'''26.8'''
+| + 4,255
+|'''62,860'''
+|'''29.5'''
+| + 9,821
+|72,681
+|34.8
+| + 14,269
+|86,950
+|43.8
+|- style="text-align:right;"
+|style="background-color:{{party color|Democratic Party (United States)}}" |
+|style="text-align:left;"|[[Democratic Party (United States)|Democratic]]
+|style="text-align:left;"|[[Troy Jackson]]
+|<!--RD1 votes-->45,959
+|21.1
+| + 1,638
+|47,597
+|22.3
+| + 12,413
+|60,010
+|28.8
+|BGCOLOR=pink| - 60,010
+| colspan="2" style="text-align:center;" bgcolor="lightgray" |''Eliminated''
+|- style="text-align:right;"
+|style="background-color:{{party color|Democratic Party (United States)}}" |
+|style="text-align:left;"|[[Democratic Party (United States)|Democratic]]
+|style="text-align:left;"|[[Shenna Bellows]]
+|<!--RD1 votes-->44,770
+|20.6
+| + 2,279
+|47,049
+|22.1
+|BGCOLOR=pink| - 47,049
+| colspan="5" style="text-align:center;" bgcolor="lightgray" |''Eliminated''
+|- style="text-align:right;"
+|style="background-color:{{party color|Democratic Party (United States)}}" |
+|style="text-align:left;"|[[Democratic Party (United States)|Democratic]]
+|style="text-align:left;"|[[Angus King III]]
+|<!--RD1 votes-->17,860
+|8.3
+|BGCOLOR=pink| - 17,860
+| colspan="8" bgcolor="lightgray" style="text-align:center;" |''Eliminated''
+|- style="text-align:right;" class=sortbottom
+! scope=row colspan="3" style="text-align:right;" | Continuing ballots
+|217,747
+|100.0
+|data-sort-value=0|
+|212,848
+|97.8
+|data-sort-value=0|
+|208,542
+|95.7
+|data-sort-value=0|
+|198,700
+|91.1
+|- style="text-align:right;" class=sortbottom
+! scope=row colspan="3" style="text-align:right;" | Exhausted ballots
+| colspan="2" style="text-align:center;" | –
+| '''+4,881'''
+|4,881
+|2.2
+| + 4,504 
+|9,385
+|4.3
+| + 9,662
+|19,047
+|8.9
+|- style="text-align:right;" class=sortbottom
+! scope=row colspan="3" style="text-align:right;" | Total votes
+|217,747
+|100.0
+|data-sort-value=0|
+|217,747
+|100.0
+|data-sort-value=0|
+|217,747
+|100.0
+|data-sort-value=0|
+|217,747
+|100.0
+|}
+
+==Republican primary==
+All Republican candidates said that they opposed ranked choice voting. [[Robert B. Charles|Robert Charles]] was particularly critical of ranked choice voting and encouraged Republican primary voters to rank him across the ballot and not rank other candidates. Charles criticized what he called "back room deals" among other candidates to encourage their supporters to rank another candidate second, claiming other candidates could not be trusted to work to repeal ranked choice voting while encouraging its use.<ref>{{Cite web |last=Mistler |first=Steve |date=2026-05-15 |title=Looking to topple Bobby Charles, Maine's GOP primary candidates are turning to an unlikely tool |url=https://www.mainepublic.org/politics/2026-05-15/looking-to-topple-bobby-charles-maines-gop-primary-candidates-are-turning-to-an-unlikely-tool|access-date=2025-05-19 |website=[[MPBN]] |language=en-US}}</ref><ref>{{Cite web |last=Miller |first=Kevin |date=2026-05-08 |title=Some, but not all, GOP gubernatorial candidates are embracing ranked-choice voting |url=https://www.mainepublic.org/politics/2026-05-08/some-but-not-all-gop-gubernatorial-candidates-are-embracing-ranked-choice-voting|access-date=2025-05-19 |website=[[MPBN]] |language=en-US}}</ref> The candidates who endorsed a second choice were Robert Wessels, who endorsed [[Jonathan S. Bush|Jonathan Bush]] as his second choice, Ben Midgley, who endorsed David Jones as his second choice, and David Jones, who endorsed Midgley as his second choice.
+
+Charles would win 37.7% of the vote, with Midgley and Bush finishing with 20.1% and 19.8% respectively, and every other candidate some distance behind them. State senator [[James D. Libby|James Libby]], who had suspended his campaign in April but did not formally withdrawn from the race, finished in last.<ref name=":6">{{Cite web |date=2026-06-10 |title=What to watch for as Maine races head to ranked-choice runoffs |url=https://www.pressherald.com/2026/06/10/what-to-watch-for-as-maine-races-head-to-ranked-choice-runoffs/ |access-date=2026-06-10 |website=The Portland Press Herald |language=en-US}}</ref> After seven rounds of ranked-choice voting tabulation, Charles was declared the winner.<ref>{{Cite web |date=2026-06-19 |title=Bobby Charles holds lead to win Republican primary for governor after RCV runoff |url=https://www.pressherald.com/2026/06/19/bobby-charles-holds-lead-to-win-republican-primary-for-governor-after-rcv-runoff/ |access-date=2026-06-19 |website=The Portland Press Herald |language=en-US}}</ref> 
+
+===Candidates===
+====Nominee====
+*[[Robert B. Charles|Bobby Charles]], lawyer and former U.S. [[Assistant Secretary of State]] (2003–2005)<ref>{{Cite web |last=Kobin |first=Billy |date=2025-04-15 |title=He served under George W. Bush. Now he's running for Maine governor. |url=https://www.bangordailynews.com/2025/04/15/politics/elections/maine-election-2026-republican-governor-candidate-bobby-charles/ |access-date=2025-04-15 |website=[[Bangor Daily News]] |language=en-US}}</ref>
+
+====Eliminated in primary====
+*[[Jonathan S. Bush|Jonathan Bush]], healthcare executive and nephew of former president [[George H. W. Bush]]<ref>{{Cite web |last=Kobin |first=Billy |date=2025-10-08 |title=Jonathan Bush joins the Republican field vying to become Maine governor |url=https://www.bangordailynews.com/2025/10/08/politics/elections/jonathan-bush-joins-maine-governor-race/ |access-date=2025-10-08 |website=Bangor Daily News |language=en-US}}</ref>
+*[[Garrett Mason]], former majority leader of the Maine Senate and candidate for governor in [[2018 Maine gubernatorial election|2018]]<ref>{{Cite web |last=Shepherd |first=Michael |date=2026-01-07 |title=Garrett Mason runs for Maine governor with the help of a top JD Vance ally |url=https://www.bangordailynews.com/2026/01/07/politics/elections/garrett-mason-runs-for-maine-governor-joam40zk0w/ |access-date=2026-01-07 |website=Bangor Daily News |language=en-US}}</ref>
+*Ben Midgley, former CEO of [[Crunch Fitness]]<ref>{{Cite web |last=Kobin |first=Billy |date=2025-08-05 |title=Former fitness executive Ben Midgley joins Maine Republican governor's race |url=https://www.bangordailynews.com/2025/08/05/news/maine-ben-midgley-republican-election-2026-governor-race/ |access-date=2025-08-06 |website=[[Bangor Daily News]] |language=en-US}}</ref>
+*David Jones, real estate executive and independent candidate for governor in [[2006 Maine gubernatorial election|2006]]<ref>{{cite news |last1=Cover |first1=Susan |title=Falmouth Republican launches bid for Maine governor in 2026 |url=https://spectrumlocalnews.com/me/maine/politics/2025/05/20/falmouth-republican-launches-bid-for-maine-governor-in-2026 |access-date=May 20, 2025 |work=[[Spectrum News]] |date=May 20, 2025 |language=en}}</ref>
+*Owen McCarthy, [[University of Maine System]] trustee<ref>{{cite news |title=Businessman Owen McCarthy joins Gubernatorial race |url=https://www.wabi.tv/2025/06/11/businessman-owen-mccarthy-joins-gubernatorial-race/ |access-date=June 11, 2025 |work=[[WABI-TV]] |date=June 11, 2025 |language=en}}</ref>
+*Robert Wessels, former [[Paris, Maine|Paris]] selectman<ref name="blaine">{{Cite web |last=Patten |first=Sam |date=2025-02-24 |title=Contenders for the Blaine House in 2026 Start Lining Up |url=https://www.themainewire.com/2025/02/contenders-for-the-blaine-house-in-2026-start-lining-up/ |access-date=2025-02-25 |website=[[The Maine Wire]] |language=en-US}}</ref>
+
+==== Failed to qualify ====
+* Ken Capron, retired accountant<ref>{{cite news |title=Ken Capron announces run for Maine governor in 2026 race |url=https://www.newscentermaine.com/article/news/politics/maine-politics/ken-capron-run-for-governor-maine-republican-portland/97-a4e58125-4170-4cd3-a9fc-41714371e842 |access-date=May 27, 2025 |work=[[WCSH]] |date=May 26, 2025}}</ref><ref name=":4" />
+* David J. Foster<ref>{{Cite web |last= |title=Maine Ethics Commission – David J. Foster |url=https://mainecampaignfinance.com/index.html#/exploreDetails/555540/10/0/51/2026 |archive-url=https://web.archive.org/web/20240928002211/https://mainecampaignfinance.com/index.html#/exploreDetails/555540/10/0/51/2026 |archive-date=September 28, 2024 |access-date=2026-01-03 |website=mainecampaignfinance.com |language=en |url-status=dead}}</ref><ref name=":4" />
+* Randy Lee Wilcox<ref name=":4" />
+
+==== Withdrawn ====
+*[[James Libby]], state senator and candidate for governor in [[2002 Maine gubernatorial election|2002]]<ref>{{cite news |last1=St Pierre |first1=Ariana |title=Sen. James Libby running for governor of Maine |url=https://wgme.com/news/local/sen-james-libby-running-for-governor-of-maine-republicans-democrats-shenna-bellows-troy-jackson-angus-king-iii-david-jones-janet-mills |access-date=May 22, 2025 |work=[[WGME-TV]] |date=May 22, 2025 |language=en}}</ref><ref>{{Cite web |last=Reed |first=Russ |date=2026-04-09 |title=Republican State Sen. Jim Libby to drop out of Maine governor's race |url=https://www.wmtw.com/article/maine-governor-race-jim-libby-drops-out-republican/70977411 |access-date=2026-04-09 |website=WMTW |language=en}}</ref> ''(endorsed Bush; remained on ballot)''<ref name="LibbyBush">{{Cite web|url= https://fox23maine.com/newsletter-daily/former-republican-gubernatorial-candidate-jim-libby-throws-support-behind-jonathan-bush-maine-governor-state-senator|title= Former Republican gubernatorial candidate Jim Libby throws support behind Jonathan Bush|date=May 4, 2026|work=WPFO}}</ref>
+*Steven Sheppard, rapper<ref name="leads" /><ref>{{Cite web |title=Steven Christopher Sheppard – Maine Campaign Finance |url=https://mainecampaignfinance.com/index.html#/exploreDetails/507488/10/0/51/2026 |access-date=July 27, 2025 |website=Maine Campaign Finance |archive-url=https://web.archive.org/web/20240928002211/https://mainecampaignfinance.com/index.html#/exploreDetails/507488/10/0/51/2026 |archive-date=September 28, 2024 |url-status=dead}}</ref>
+
+====Declined====
+*[[Rick Bennett (politician)|Rick Bennett]], state senator, former President of the Maine Senate, and candidate for U.S. Senate in [[2012 United States Senate election in Maine|2012]] ''(running as an Independent)''<ref name="RickBennett">{{cite news |title=State Sen. Rick Bennett launches gubernatorial campaign for 2026 |url=https://www.newscentermaine.com/article/news/politics/maine-politics/republican-state-senator-rick-bennet-run-for-maine-governor-2026-independent-candidate/97-575d0eb1-e965-417c-a5b1-217d0ad441f3 |access-date=June 24, 2025 |work=[[WCSH]]|date=June 24, 2025}}</ref>
+*[[Laurel Libby]], state representative from the 90th district (2022–present) and the 64th district (2020–2022)<ref>{{cite web|url=https://www.wmtw.com/article/maine-rep-laurel-libby-wont-seek-re-election-announces-launch-of-conservative-super-pac/69456856|title=Maine Rep. Laurel Libby won't seek reelection, announces launch of conservative super PAC|last=Flisiuk|first=Francis|date=November 17, 2025|access-date=November 17, 2025|website=[[WMTW (TV)|WMTW]]}}</ref>
+*Shawn Moody, businessperson, nominee for governor in [[2018 Maine gubernatorial election|2018]], independent candidate for governor in [[2010 Maine gubernatorial election|2010]] ''(initially formed exploratory committee)''<ref>{{Cite web |title=Shawn Moody Suspends Gubernatorial Campaign Amid Health Concerns |url=http://wgan.com/news/074470-moody-opting-out-2018-gop-nominee-will-not-run-for-governor-in-2026/ |access-date=2026-01-05 |website=Newsradio WGAN |date=January 4, 2026 |language=en-US}}</ref>
+*Ray Richardson, political analyst and radio host<ref name=":0" />
+
+=== Endorsements ===
+{{Endorsements box
+|title=Jonathan Bush
+|list=
+;Federal officials
+*[[Peter Cianchette]], former [[United States-Costa Rica relations|U.S. ambassador to Costa Rica]] (2008–2009), Republican nominee for governor in [[2002 Maine gubernatorial election|2002]]<ref>{{Cite web|url=https://www.pressherald.com/2026/05/21/support-jonathan-bush-for-governor-letter-2/|title=Support Jonathan Bush for Governor|last=Cianchette|first=Peter|date=May 22, 2026}}</ref>
+;State legislators
+*[[James Libby]], [[Maine Senate|state senator]] from the 34th district (1996–2000) and 22nd district (2022–present), candidate for governor in [[2002 Maine gubernatorial election|2002]] and 2026<ref name="LibbyBush" />
+;Individuals
+*[[Billy Bush]], television host ''(candidate's brother)''<ref>{{Cite web |last=Reed |first=Russ |date=2025-10-08 |title=Jonathan Bush announces he's running for governor of Maine |url=https://www.wmtw.com/article/jonathan-bush-maine-governor-campaign-launch/68910077 |access-date=2025-10-08 |website=WMTW |language=en}}</ref>
+*Robert Wessels, candidate for governor in 2026 ''(second choice)''<ref>{{Cite web|url=https://www.wmtw.com/article/robert-wessels-role-jonathan-bush-campaign-maine-governor/71243975|work=[[WMTW-TV]]|title=Robert Wessels takes role in Jonathan Bush's campaign, but isn't dropping his own bid for Maine governor|quote=Wessels confirmed to Maine's Total Coverage that he is still running and will be ranking himself as his first choice on his ballot in June and Bush as his second choice.|last=Bartow|first=Adam|date=May 7, 2026}}</ref>
+}}
+{{Endorsements box
+|title=Bobby Charles
+|list=
+;U.S. representatives
+*[[Newt Gingrich]], former [[Speaker of the United States House of Representatives|speaker of the House]] (1995–1999) from [[GA-06]] (1979–1999)<ref>{{cite news |last1=Cover |first1=Susan |title=Newt Gingrich endorses Bobby Charles for Maine governor |url=https://spectrumlocalnews.com/me/maine/politics/2026/03/24/newt-gingrich-endorses-bobby-charles-for-maine-governor |access-date=March 24, 2026 |work=[[Spectrum News]] |date=March 24, 2026}}</ref>
+}}
+{{Endorsements box
+|title=David Jones
+|list=
+;Individuals
+*Ben Midgley, businessman and 2026 candidate for governor ''(second choice)''<ref name="JonesMidgley">{{Cite web |date=2026-05-14 |title=Bobby Charles is wrong to make a bogeyman of the ballot {{!}} Steve Collins |url=https://www.pressherald.com/2026/05/14/bobby-charles-is-wrong-to-make-a-bogeyman-of-the-ballot-steve-collins/ |access-date=2026-05-14 |website=The Portland Press Herald |language=en-US|quote=David Jones and Ben Midgley, both angling for Republican gubernatorial backing, cross-endorsed each other last week — asking their voters to rank the other candidate second.}}</ref>
+}}
+{{Endorsements box
+|title=Garrett Mason
+|list=
+;State legislators
+*[[Wayne R. Parry]], [[Maine House of Representatives|state representative]] for the 10th district (2010–2018, 2020–2022) and 140th district (2022–present)<ref>{{Cite web|url=https://www.pressherald.com/2026/05/07/garrett-mason-will-get-the-job-done-letter/|title=Garrett Mason will get the job done – Letter|last=Parry|first=Wayne|date=May 7, 2026}}</ref>
+}}
+{{Endorsements box
+|title=Ben Midgley
+|list=
+;Individuals
+*David Jones, real estate executive and 2026 candidate for governor ''(second choice)''<ref name="JonesMidgley" />
+}}
+
+=== Fundraising ===
+''Italics'' indicates a withdrawn or disqualified candidate
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of May 28, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|Jonathan Bush (R)
+|$1,709,651.00
+|$2,439,491.69
+|$131,659.31
+|-
+|{{party shading/Republican}}|''Kenneth Capron (R)''{{efn|name=Withdrawn}}
+|$3,511.30
+|$3,316.87
+|$194.43
+|-
+|{{party shading/Republican}}|''David J. Foster (R)''{{efn|name=Withdrawn}}
+|$0.00
+|$0.00
+|$0.00
+|-
+|{{party shading/Republican}}|Bobby Charles (R)
+|$1,020,570.20
+|$819,932.18
+|$277,293.30
+|-
+|{{party shading/Republican}}| David Jones (R)
+|$529,512.02
+|$401,943.87
+|$123,617.44
+|-
+|{{party shading/Republican}}|''James Libby (R)''{{efn|name=Withdrawn}}
+|$17,025.00
+|$17,010.39
+|$98.76
+|-
+|{{party shading/Republican}}|Owen McCarthy (R)
+|$386,142.23
+|$405,804.00
+|$115,275.00
+|-
+|{{party shading/Republican}}|Ben Midgley (R)
+|$322,263.00
+|$626,642.18
+|$445,620.82
+|-
+|{{party shading/Republican}}|Robert Wessels (R)
+|$61,162.47
+|$41,868.01
+|$19,162.91
+|-
+! colspan="4" |<small>Source: Maine Ethics Commission<ref name="MEC" /></small>
+|}
+
+===Polling===
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name=Key|Key:<br />A – all adults<br />RV – registered voters<br />LV – likely voters<br />V – unclear}}
+! Margin<br />{{nowrap|of error}}
+! style="width:60px"| Jonathan<br />Bush
+! style="width:60px"| Robert<br />Charles
+! style="width:60px"| David<br />Jones
+! style="width:60px"| James<br />Libby
+! style="width:60px"| Garrett<br />Mason
+! style="width:60px"| Owen<br />McCarthy
+! style="width:60px"| Ben<br />Midgley
+! style="width:60px"| Robert<br />Wessels
+! Other
+! Undecided
+|-
+|style="text-align:left;"|[[SurveyUSA]]<ref>{{cite web |title=SurveyUSA Election Poll #27905 |url=https://www.surveyusa.com/client/PollReport.aspx?g=cd7e1ef3-e886-4373-b420-f91e2d97c946 |publisher=[[SurveyUSA]] |access-date=June 5, 2026 |date=June 4, 2026}}</ref>{{Efn-ua|Poll sponsored by the ''[[Bangor Daily News]]'' and [[FairVote]]}}
+|May 28 – June 3, 2026
+|466 (LV)
+|±&nbsp;5.7%
+|17%
+|{{party shading/Republican}}|'''34%'''
+|2%
+|0%
+|10%
+|7%
+|11%
+|2%
+|–
+|18%
+|-
+|style="text-align:left;"|[[University of New Hampshire]]<ref name="UNHMay2026"/>
+|May 21–25, 2026
+|465 (LV)
+|±&nbsp;6.3%
+|18%
+|{{party shading/Republican}}|'''37%'''
+|7%
+|–
+|9%
+|2%
+|11%
+|6%
+|0%{{efn|"Another candidate" with 0%}}
+|9%
+|-
+|style="text-align:left"|Pan Atlantic Research<ref name="PanAtlanticMay2026" />
+|May 8–18, 2026
+|287 (LV)
+|–
+|20%
+|{{party shading/Republican}}|'''36%'''
+|20%
+|–
+|13%
+|4%
+|2%
+|1%
+|–
+|21%
+|-
+|style="text-align:left"|McLaughlin & Associates (R)<ref>{{cite tweet|number=2051410771733626960|date=May 4, 2026|user=Bobby4Maine|title=New poll!}}</ref>{{efn-ua|name=Charles}}
+|April 28 – April 30, 2026
+|300 (LV)
+|±&nbsp;5.7%
+|11%
+|{{party shading/Republican}}|'''47%'''
+|2%
+|–
+|11%
+|2%
+|10%
+|2%
+|–
+|16%
+|-
+|-style="background:lightyellow;" 
+| style="border-right-style:hidden; background:lightyellow;" |
+| style="border-right-style:hidden; " | April 9, 2026
+| colspan="12" | Libby withdraws
+|-
+|style="text-align:left"|Pan Atlantic Research<ref name="PARMar2026" />
+|February 13 – March 2, 2026
+|298 (LV)
+|–
+|4%
+|{{party shading/Republican}}|'''26%'''
+|6%
+|8%
+|11%
+|7%
+|4%
+|–
+|–
+| {{Party shading/Undecided}} |'''34%'''
+|-
+|style="text-align:left;"|[[University of New Hampshire]]<ref name="UNHFeb2026" />
+|February 12–16, 2026
+|404 (LV)
+|±&nbsp;4.9%
+|5%
+|{{party shading/Republican}}|'''28%'''
+|7%
+|2%
+|12%
+|1%
+|6%
+|4%
+|3%{{efn|"Another candidate" with 3%}}
+| {{Party shading/Undecided}} |'''31%'''
+|-
+|style="text-align:left;"| Pan Atlantic Research<ref name="Mitch" />
+|November 29 – December 7, 2025
+|312 (LV)
+|±&nbsp;6.1%
+|5%
+| {{party shading/Republican}} | '''16%'''
+|6%
+|3%
+|–
+|2%
+|–
+|–
+|–
+| {{Party shading/Undecided}} |'''68%'''
+|-
+|style="text-align:left;"| McLaughlin & Associates (R)<ref name="CharlesInternal">{{Cite web|url=https://www.themainewire.com/2025/08/bobby-charles-leads-gop-gubernatorial-field-in-his-own-internal-poll-more-than-a-third-still-undecided/|title=Bobby Charles Leads GOP Gubernatorial Field in His Own Internal Poll — More Than a Third Still Undecided|date=August 29, 2025|access-date=February 5, 2026|work=The Maine Wire}}</ref>{{efn-ua|name=Charles|Poll sponsored by Charles' campaign.}}
+|August 23–25, 2025
+|300 (LV)
+|±&nbsp;4.0%
+|4%
+| {{party shading/Republican}} | '''28%'''
+|2%
+|1%
+|1%
+|2%
+|0.3%
+|3%
+|23%{{efn|Shawn Moody with 23%}}
+| {{Party shading/Undecided}} |'''34%'''
+|- valign=bottom
+|}
+
+<!-- = = = don't edit the line below = = = -->
+{{hidden begin|titlestyle=background:#cff|title=Hypothetical polling|contentstyle=border:solid 1px silver; padding:8px; background:var(--background-color-base); color:var(--color-base);}}
+<!-- = = = don't edit the line above = = = -->
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"}}
+! Margin<br />{{nowrap|of error}}
+! style="width:60px;" |Rick<br />Bennett
+! style="width:60px;" |Jonathan<br />Bush
+! style="width:60px;" |Robert<br />Charles
+! style="width:60px;" |Laurel<br />Libby
+! style="width:60px;" |Garrett<br />Mason
+! style="width:60px;" |Shawn<br />Moody
+! style="width:60px;" |Bruce<br />Poliquin
+! style="width:60px;" |Trey<br />Stewart
+|-
+| style="text-align:left" |Pan Atlantic Research<ref name="May" />
+|May 12–26, 2025
+|293 (LV)
+|±&nbsp;8.4%
+|14%
+|9%
+|14%
+|{{party shading/Republican}} |'''27%'''
+|10%
+|21%
+|23%
+|10%
+|}
+{{hidden end}}
+
+===Debates===
+{| class="wikitable" style="text-align:center;"
+|+ 2026 Maine gubernatorial election Republican primary debates
+|-
+! scope="col" | {{abbr|No.|Number}}
+! scope="col" | Date
+! scope="col" | Host
+! scope="col" | Moderator
+! scope="col" | Link
+! scope="col"| <small>[[Republican Party (US)|Republican]]</small>
+! scope="col"| <small>[[Republican Party (US)|Republican]]</small>
+! scope="col"| <small>[[Republican Party (US)|Republican]]</small>
+! scope="col"| <small>[[Republican Party (US)|Republican]]</small>
+! scope="col"| <small>[[Republican Party (US)|Republican]]</small>
+! scope="col"| <small>[[Republican Party (US)|Republican]]</small>
+! scope="col"| <small>[[Republican Party (US)|Republican]]</small>
+|-
+! colspan="5" rowspan="2" |Key:<br>{{Colors|black|#90ff90|&nbsp;P&nbsp;}} <small>Participant&nbsp;</small> {{Colors|black|#FFFFDD|&nbsp;A&nbsp;}} <small>Absent&nbsp;</small> {{Colors|black|#ff9090|&nbsp;N&nbsp;}} <small>Not invited&nbsp;</small> {{Colors|black|#CCFFCC|&nbsp;I&nbsp;}} <small>Invited {{color box|#f0e68c|W}} Withdrawn</small>
+! scope="col" style="background:{{party color|Republican Party (US)}}"|
+! scope="col" style="background:{{party color|Republican Party (US)}}"|
+! scope="col" style="background:{{party color|Republican Party (US)}}"|
+! scope="col" style="background:{{party color|Republican Party (US)}}"|
+! scope="col" style="background:{{party color|Republican Party (US)}}"|
+! scope="col" style="background:{{party color|Republican Party (US)}}"|
+! scope="col" style="background:{{party color|Republican Party (US)}}"|
+|-
+! scope="col" | [[Jonathan S. Bush|Jonathan Bush]]
+! scope="col" | [[Robert B. Charles|Robert Charles]]
+! scope="col" | David Jones
+! scope="col" | [[Garrett Mason]]
+! scope="col" | Ben Midgley
+! scope="col" | Owen McCarthy
+! scope="col" | Robert Wessels
+|-
+!1
+| style="white-space:nowrap;" | May 5, 2026
+| style="white-space:nowrap;" | [[WMTW-TV]]
+| style="white-space:nowrap;" | Jon Chrisos
+| style="white-space:nowrap;" | [https://www.youtube.com/watch?v=0F7q2tBdVAU YouTube]
+| {{Yes|'''P'''}}
+| {{No|'''A'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+|-
+!2
+| style="white-space:nowrap;" | May 7, 2026
+| style="white-space:nowrap;" | [[Bangor Daily News]]<br>[[WGME-TV]]
+| style="white-space:nowrap;" | Gregg Lagerquist<br>Mike Shepherd
+| style="white-space:nowrap;" | [https://www.youtube.com/watch?v=0F7q2tBdVAU YouTube]
+| {{Yes|'''P'''}}
+| {{No|'''A'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{No|'''N'''}}
+|-
+!2
+| style="white-space:nowrap;" | May 14, 2026
+| style="white-space:nowrap;" | [[WCSH-TV]]
+| style="white-space:nowrap;" | Rob Caldwell<br>Phil Hirschkorn
+| style="white-space:nowrap;" | [https://www.youtube.com/watch?v=1st7WQvx7ZA YouTube]
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+|}
+
+=== Convention vote ===
+On April 25, 2026, the Maine Republican Party announced the results of a straw poll by delegates to the Maine Republican Convention. Robert Charles was declared the winner.<ref>{{Cite news|url=https://www.newscentermaine.com/article/news/politics/maine-politics/maine-republican-convention-governor-gubernatorial-candidates-election/97-de11da9a-f97e-4251-be85-b4ee45721572|work=WCSH-TV|last=Hirschkorn|first=Phil|date=April 25, 2026|title=Blaine House hopefuls make their case to delegates on second day of Maine Republican convention}}</ref> Unlike the primary, the straw poll was conducted without ranked-choice voting, and was non-binding.
+
+==== Results ====
+{{Election box begin no change|title=Republican convention straw poll results}}
+{{Election box winning candidate with party link no change|party=Republican Party (United States)|candidate=[[Robert B. Charles|Robert Charles]]|votes=269|percentage=31.87%}}
+{{Election box candidate with party link no change|party=Republican Party (United States)|candidate=Ben Midgley|votes=230|percentage=27.25%}}
+{{Election box candidate with party link no change|party=Republican Party (United States)|candidate=[[Jonathan S. Bush|Jonathan Bush]]|votes=96|percentage=11.37%}}
+{{Election box candidate with party link no change|party=Republican Party (United States)|candidate=[[Garrett Mason]]|votes=76|percentage=9.00%}}
+{{Election box candidate with party link no change|party=Republican Party (United States)|candidate=Owen McCarthy|votes=74|percentage=8.77%}}
+{{Election box candidate with party link no change|party=Republican Party (United States)|candidate=Robert Wessels|votes=54|percentage=6.34%}}
+{{Election box candidate with party link no change|party=Republican Party (United States)|candidate=David Jones|votes=45|percentage=5.33%}}
+{{Election box total no change|votes=844|percentage=100.00%}}
+{{Election box end}}
+
+=== Results ===
+<div style="overflow-x:auto;">
+{| class="wikitable"
+|+
+! colspan="23" |Republican primary results<ref>{{Cite web |date=2026-06-19 |title=Take a deeper look at Maine's ranked-choice runoff results |url=https://www.pressherald.com/2026/06/19/take-a-deeper-look-at-the-ranked-choice-runoff-results/ |access-date=2026-06-20 |website=The Portland Press Herald |language=en-US}}</ref>
+|-
+! colspan="2" rowspan="2" |Party
+! rowspan="2" |Candidate
+! colspan="2" |Round 1
+!
+! colspan="2" |Round 2
+!
+! colspan="2" |Round 3
+!
+! colspan="2" |Round 4
+!
+! colspan="2" |Round 5
+!
+! colspan="2" |Round 6
+!
+! colspan="2" |Round 7
+|-
+!Votes
+!%
+!Transfer
+!Votes
+!%
+!Transfer
+!Votes
+!%
+!Transfer
+!Votes
+!%
+!Transfer
+!Votes
+!%
+!Transfer
+!Votes
+!%
+!Transfer
+!Votes
+!%
+|- align=right
+|style="background-color:{{party color|Republican Party (United States)}}" |
+|align=left|'''[[Republican Party (United States)|Republican]]'''
+|align=left|'''[[Robert B. Charles|Robert Charles]]'''
+|'''49,129'''
+|'''38.0'''
+| + 165
+|'''49,294'''
+|38.3
+| + 486
+|'''49,780'''
+|'''39.9'''
+| + 582
+|'''50,342'''
+|'''40.0'''
+| + 574
+|'''50,916'''
+|'''41.2'''
+| + 2,330
+|'''53,246'''
+|'''45.9'''
+| + 6,627
+|'''59,873'''
+|'''60.3'''
+|- align=right
+|style="background-color:{{party color|Republican Party (United States)}}" |
+|align=left|[[Republican Party (United States)|Republican]]
+|align=left|Ben Midgley
+|25,880
+|20.0
+| + 87
+|25,967
+|20.2
+|'''+ 583'''
+|26,650
+|20.9
+|'''+ 693'''
+|27,243
+|21.6
+|'''+ 1,293'''
+|28,536
+|23.1
+| + 3,017
+|31,553
+|27.2
+|'''+ 7,946'''
+|39,499
+|39.7
+|- align=right
+|style="background-color:{{party color|Republican Party (United States)}}" |
+|align=left|[[Republican Party (United States)|Republican]]
+|align=left|[[Jonathan S. Bush|Jonathan Bush]]
+|25,449
+|19.7
+|'''+ 254'''
+|25,703
+|20.0
+| + 389
+|26,092
+|20.4
+| + 682
+|26,744
+|21.2
+| + 1,024
+|27,768
+|22.5
+|'''+ 3,336'''
+|31,104
+|26.8
+|BGCOLOR=pink| - 31,104
+| colspan="2" align="center" bgcolor="lightgray" |''Eliminated''
+|- align=right
+|style="background-color:{{party color|Republican Party (United States)}}" |
+|align=left|[[Republican Party (United States)|Republican]]
+|align=left|[[Garrett Mason]]
+|14,820
+|11.4
+| + 185
+|15,005
+|11.7
+| + 337
+|15,342
+|12.0
+| + 419
+|15,761
+|12.5
+| + 677
+|16,438
+|13.3
+|BGCOLOR=pink| - 16,438
+| colspan="5" align="center" bgcolor="lightgray" |''Eliminated''
+|- align=right
+|style="background-color:{{party color|Republican Party (United States)}}" |
+|align=left|[[Republican Party (United States)|Republican]]
+|align=left|Owen McCarthy
+|5,033
+|3.9
+| + 225
+|5,258
+|4.1
+| + 270
+|5,528
+|4.3
+| + 241
+|5,769
+|4.6
+|BGCOLOR=pink| - 5,769
+| colspan="8" align="center" bgcolor="lightgray" |''Eliminated''
+|- align="right"
+|style="background-color:{{party color|Republican Party (United States)}}" |
+|align=left|[[Republican Party (United States)|Republican]]
+|align=left|David Jones
+|3,740
+|2.9
+| + 134
+|3,874
+|3.0
+| + 174
+|4,048
+|3.2
+|BGCOLOR=pink| - 4,048
+| colspan="11" align="center" bgcolor="lightgray" |''Eliminated''
+|- align="right"
+|style="background-color:{{party color|Republican Party (United States)}}" |
+|align=left|[[Republican Party (United States)|Republican]]
+|align=left|Robert Wessels
+|3,525
+|2.7
+| + 112
+|3,637
+|2.8
+|BGCOLOR=pink| - 3,637
+| colspan="14" align="center" bgcolor="lightgray" |''Eliminated''
+|- align="right"
+|style="background-color:{{party color|Republican Party (United States)}}" |
+|align=left|[[Republican Party (United States)|Republican]]
+|align=left|[[James Libby]] (''withdrawn'')
+|1,831
+|1.4
+|BGCOLOR=pink| - 1,831
+| colspan="17" align="center" bgcolor="lightgray" |''Eliminated''
+|- align="right"
+| colspan="3" align="right" | '''Continuing ballots'''
+|129,407
+|100.0
+|<br />
+|128,738
+|99.5
+|<br />
+|127,740
+|98.4
+|<br />
+|125,859
+|97.3
+|<br />
+|123,658
+|95.6
+|
+|115,903
+|89.6
+|
+|99,372
+|76.8
+|- align="right"
+| colspan="3" | Exhausted ballots
+| colspan="2" align="center" | –
+| '''+ 669'''
+|  669||0.5
+| '''+ 1,398'''
+|  2,067||1.6
+| '''+ 1,471'''
+|  3,538||2.7
+| '''+ 2,201'''
+|  5,739||4.4
+|'''+ 7,775'''
+|13,541
+|10.4
+|'''+ 16,531'''
+|30,045
+|23.2
+|- align="right"
+| colspan="3" align="right" | '''Total votes'''
+|129,407
+|100.0
+|<br />
+|129,407
+|100.0
+|<br />
+|129,407
+|100.0
+|<br />
+|129,407
+|100.0
+|<br />
+|129,407
+|100.0
+|
+|129,407
+|100.0
+|
+|129,407
+|100.0
+|}
+</div>
+
+== Independents ==
+
+=== Candidates===
+==== Declared ====
+*[[Rick Bennett (politician)|Rick Bennett]], state senator (1996–2004, 2020–present), Republican nominee for {{ushr|ME|2|ME-2}} in [[1994 United States House of Representatives elections#Maine|1994]] and candidate for U.S. Senate in [[2012 United States Senate election in Maine|2012]]<ref name="RickBennett" />
+
+==== Failed to qualify for ballot ====
+*[[W. Edward Crockett|Ed Crockett]], state representative (2018–present)<ref>{{Cite web |last=Johnson |first=Drew |date=2025-09-24 |title=Longtime Portland lawmaker enters race for Maine governor as an independent |url=https://www.pressherald.com/2025/09/24/longtime-portland-lawmaker-enters-race-for-maine-governor-as-an-independent/ |access-date=2025-09-25 |website=[[Portland Press Herald]] |language=en-US}}</ref><ref name=":5">{{Cite web |date=2026-06-03 |title=Maine governor's race will be a 3-way contest in November |url=https://www.pressherald.com/2026/06/03/maine-governors-race-will-be-a-three-way-contest-in-november/ |access-date=2026-06-04 |website=The Portland Press Herald |language=en-US}}</ref>
+*John Glowa, retired environmental specialist<ref>{{cite news |title=Republican focused on fighting crime launches bid for Maine governor |work=[[Spectrum News]] |access-date=June 2, 2025 |date=April 18, 2025 |author=Cover, Susan |url=https://spectrumlocalnews.com/me/maine/politics/2025/04/18/republican-focused-on-fighting-crime-launches-bid-for-maine-governor |language=en-US}}</ref><ref name=":5" />
+*Derek Levasseur, former police officer and Republican candidate for U.S. Senate in [[2020 United States Senate election in Maine|2020]]<ref>{{Cite web |date=2025-11-07 |title=Derek Levasseur enters Maine governor race |url=https://wgme.com/news/local/derek-levasseur-enters-maine-governor-race-independents-domestic-violence-assault-charges-republicans-democrats |access-date=2025-11-26 |website=WGME |language=en}}</ref><ref name=":5" />
+*Alexander Murchison, mechanical engineer<ref name=":1">{{Cite web |last=Billings |first=Randy |date=2025-05-15 |title=Hannah Pingree to step down from Mills administration |url=https://www.pressherald.com/2025/05/15/hannah-pingree-to-step-down-from-mills-administration/ |access-date=2025-05-19 |website=[[Portland Press Herald]]}}</ref><ref name=":5" />
+
+===Fundraising===
+''Italics'' indicate a disqualified candidate
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of May 28, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Independent}}|Richard Bennett (I)
+|$664,631.42
+|$585,378.45
+|$78,321.02
+|-
+|{{party shading/Independent}}|''Ed Crockett'' (I)
+|$9,116.98
+|$3,982.91
+|$4,589.61
+|-
+|{{party shading/Independent}}|''John Glowa'' (I)
+|$3,146.00
+|$2,262.00
+|$946.00
+|-
+|{{party shading/Independent}}|''Alexander Murchison'' (I)
+|$0.00
+|$0.00
+|$0.00
+|-
+! colspan="4" |<small>Source: Maine Ethics Commission<ref name="MEC" /></small>
+|}
+
+== General election ==
+===Predictions===
+{| class="wikitable" style=text-align:center
+!Source
+!Ranking
+!As of
+|-
+|align=left|''[[The Cook Political Report]]''<ref>{{cite web|title=2026 CPR Governor Race ratings|url=https://www.cookpolitical.com/ratings/governor-race-ratings|website=[[The Cook Political Report]]|access-date=January 23, 2025}}</ref>
+|{{USRaceRating|Solid|D}}
+|September 10, 2026
+|-
+|align=left|[[Decision Desk HQ]]<ref name="DDHQ">{{cite web |title=2026 Governor Forecast |url=https://votes.decisiondeskhq.com/forecast/2026/governor |website=Decision Desk HQ |access-date=22 September 2026}}</ref>
+|{{USRaceRating|Likely|D}}
+|September 23, 2026
+|-
+|align=left|[[Fox News]]<ref>{{Cite web |last=Numa |first=Rémy |date=2026-07-23 |title=Fox News Power Rankings: The top races to watch as 36 states choose their next governor |url=https://www.foxnews.com/politics/fox-news-power-rankings-top-races-watch-36-states-choose-next-governor |access-date=2026-07-23 |website=Fox News |language=en-US}}</ref>
+|{{USRaceRating|Solid|D}}
+|July 23, 2026
+|-
+|align=left|''[[Inside Elections]]''<ref>{{Cite web|title=Gubernatorial Ratings|url=https://insideelections.com/ratings/governor|access-date=October 1, 2026|website=[[Inside Elections]]}}</ref>
+|{{USRaceRating|Solid|D}}
+|October 1, 2026
+|-
+|align="left"|[[RealClearPolitics]]<ref>{{Cite web|title=2026 Governor Races {{!}} RealClearPolitics|url=https://www.realclearpolling.com/maps/governor/2026/toss-up|access-date=June 5, 2026|website=[[RealClearPolitics]]|archive-url=https://web.archive.org/web/20260601183127/https://www.realclearpolling.com/maps/governor/2026/toss-up|archive-date=June 1, 2026|url-status=dead}}</ref>
+|{{USRaceRating|Likely|D}}
+|September 9, 2026
+|-
+|align=left|''[[Sabato's Crystal Ball]]''<ref>{{cite web|title=2026 Governor|url=https://centerforpolitics.org/crystalball/2026-governor/|website=[[Sabato's Crystal Ball]]|access-date=May 1, 2025}}</ref>
+|{{USRaceRating|Likely|D}}
+|September 3, 2026
+|-
+| style="text-align: left;" |[[Silver Bulletin]]<ref name=":Silver">{{Cite web |last=Silver |first=Nate |date=2026-08-20 |title=FLIPR 2026 midterm election forecast |url=https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model |url-access=subscription |access-date=2026-08-20 |website=www.natesilver.net |language=en}}</ref>
+| {{US political race rating|Solid|D}}
+|August 25, 2026
+|}
+
+=== Post-primary endorsements ===
+{{Endorsements box
+|title=Hannah Pingree (D)
+|list=
+;U.S. Senators
+*[[Angus King]], Maine (2013–present) ''(Independent)''<ref>{{Cite web |last=Mundry |first=Jackie |date=2026-09-20 |title="Vote for Hannah" {{!}} Sen. Angus King endorses Hannah Pingree for governor |url=https://www.wmtw.com/article/vote-for-hannah-sen-angus-king-endorses-hannah-pingree-for-governor/73810867 |access-date=2026-09-20 |website=WMTW |language=en}}</ref>
+
+;State legislators
+*[[W. Edward Crockett|Ed Crockett]], [[Maine House of Representatives|state representative]] for the 43rd (2018–2022) and 115th (2022–present) districts, 2026 candidate for governor ''(Independent)''<ref name="GOPforPingree" />
+*[[Roger Katz]], [[Maine Senate|state senator]] for the 24th (2010–2014) and 15th (2014–2018) districts ''(Republican)''<ref name="GOPforPingree">{{Cite web |last=Cover |first=Susan |date=September 17, 2026 |title=Hannah Pingree touts bipartisan support |url=https://spectrumlocalnews.com/me/maine/politics/2026/09/17/hannah-pingree-touts-bipartisan-support-in-maine-governor-s-race |access-date=2026-09-18 |website=spectrumlocalnews.com |language=en}}</ref>
+*[[William Pluecker]], state representative for the 44th district (2018–present) ''(Independent)''<ref name="GOPforPingree" />
+*[[Chris Rector]], state senator for the 22nd district (2008–2012) ''(Republican)''<ref>{{Cite web|url=https://www.midcoastvillager.com/news/a-small-islands-influence-shaped-hannah-pingree/article_b10a34e6-c31c-4323-884b-a58965356a9b.html|work=Midcoast Villager|last=Betts|first=Stephen|date=June 27, 2026|title=A Small Island's Influence Shaped Hannah Pingree}}</ref>
+
+;Labor unions
+*[[National Education Association|Maine Education Association]]<ref>{{Cite web |url=https://www.pressherald.com/2026/08/06/maine-teachers-union-endorses-hannah-pingree-for-governor/ |title=Maine teachers union endorses Hannah Pingree for governor |last=Ohm |first=Rachel |date= August 6, 2026 |website=[[Portland Press Herald]] |access-date= August 15, 2026}}</ref>
+
+;Organizations
+*[[EMILYs List]]<ref>{{cite web |url=https://emilyslist.org/news/emilys-list-endorses-hannah-pingree-for-maine-governor/ |title=EMILYs List Endorses Hannah Pingree for Maine Governor |website=emilyslist.org |date=June 22, 2026 |access-date=June 24, 2026}}</ref>
+*[[End Citizens United]]<ref>{{Cite tweet|number=2095520163743326407|user=StopBigMoney|date=September 3, 2026|title=🚨Endorement Alert🚨 We're proud to endorse @PingreeHannah for #MEGov. As a lifelong Mainer, Hannah has spent her career fighting to expand access to health care, increase affordable housing, and lower costs for her community. We look forward to helping her win this November.}}</ref>
+*[[Human Rights Campaign]]<ref name="HRCAugust">{{cite web |title=Human Rights Campaign PAC Endorses Slate of Pro-Equality Candidates |url=https://www.hrc.org/press-releases/human-rights-campaign-pac-endorses-slate-of-pro-equality-candidates-for-governor-in-key-states |website=HRC |access-date=30 August 2026 |date=27 August 2026}}</ref>
+*[[National Women's Political Caucus]]<ref>{{cite web |title=National Women's Political Caucus Endorsed Candidates |website=National Women's Political Caucus |url=https://nwpc.org/endorsed-candidates/ |access-date=September 16, 2026}}</ref>
+*[[Planned Parenthood]]<ref>{{cite web |last1=Pendharkar |first1=Eesha |title=Planned Parenthood endorses Pingree, says rivals can't be trusted on abortion rights |url=https://mainemorningstar.com/2026/07/22/planned-parenthood-endorses-pingree-says-rivals-cant-be-trusted-on-abortion-rights/ |website=Maine Morning Star |access-date=26 July 2026 |date=22 July 2026}}</ref>
+}}
+{{Endorsements box
+|title=Bobby Charles (R)
+|list=
+;Statewide officials
+*[[Chris Christie]], former [[Governor of New Jersey|governor of New Jersey]] (2010–2018)<ref>{{cite web|url=https://newjerseyglobe.com/presidential-election/christie-stumps-in-maine-for-gop-gubernatorial-candidate/|title=Christie stumps in Maine for GOP gubernatorial candidate|last=Wildstein|first=David|date=September 23, 2026|access-date=September 23, 2026|website=[[New Jersey Globe]]}}</ref>
+}}
+{{Endorsements box
+|title=Rick Bennett (I)
+|list=
+;Executive branch officials
+*[[Christine Todd Whitman]], former [[administrator of the Environmental Protection Agency]] (2001–2003) and governor of [[New Jersey]] (1994–2001) ''([[Forward Party (United States)|Forward]]; elected as a Republican)''<ref name="Forward">{{cite web |last1=Mundry |first1=Jackie |title=Former New Jersey governor campaigns in Maine for Rick Bennett |url=https://www.wmtw.com/article/former-new-jersey-governor-campaigns-rick-bennett/69501281 |access-date=November 20, 2025 |work=[[WMTW (TV)|WMTW]] |date=November 20, 2025}}</ref>
+*[[William Cohen]], former [[United States Secretary of Defense]] (1997–2001), [[United States senator]] (1979–1997), and [[United States representative]] (1973–1979) from [[Maine]] ''(Republican)''<ref name="Cohen">{{cite web |title=Bill Cohen endorses Rick Bennett for Maine governor |url=https://www.wabi.tv/2026/09/21/bill-cohen-endorses-rick-bennett-maine-governor/ |access-date=September 21, 2026 |work=[[WABI-TV|WABI]] |date=September 21, 2026}}</ref>
+
+;State legislators
+*[[Lydia Crafts]], [[Maine House of Representatives|state representative]] from the 90th district (2020–present) ''(Democratic)''<ref name="StateLaw">{{cite web |title=State lawmakers endorse independent Rick Bennett for governor |url=https://www.newscentermaine.com/video/news/politics/maine-politics/watch-full-state-lawmakers-endorse-independent-rick-bennett-for-governor/97-3ec3f313-b26e-4299-847c-696c9c407408 |website=News Center Maine |access-date=20 June 2026}}</ref>
+*[[Mary E. Small]], former [[Maine Senate|state senator]] from the 19th district (1994–2002) ''(Republican)''<ref name="StateLaw"/>
+*[[Matthew Pouliot]], [[Maine Senate|state senator]] from the 15th district (2018–present) ''(Republican)''<ref name="PouliotEndorsement">{{cite web |title=Political Brew |url=https://www.newscentermaine.com/video/news/political-brew/97-65e3feef-881f-46a7-93ae-7a02c57c3f33 |access-date=30 June 2026 |website=News Center Maine |quote=Matthew Pouliot endorses Rick Bennett for governor at 8:48}}</ref>
+
+;Political parties
+*[[Forward Party (United States)|Forward Party]]<ref name="Forward"/>
+}}
+
+===Polling===
+'''Aggregate polls'''
+{| class="wikitable sortable" style="text-align:center;font-size:90%;line-height:17px"
+!Source of poll<br />aggregation
+!Dates<br />administered
+!Dates<br />updated
+! style="width:100px;"| Hannah<br />Pingree (D)
+! style="width:100px;"| Bobby<br />Charles (R)
+! style="width:60px"| Rick<br />Bennett (I)
+! style="width:100px;"| Other/Undecided<br />{{Efn|Calculated by taking the difference of 100% and all other candidates combined.|name=|group=}}
+! Margin
+|-
+|[[270toWin]]<ref>{{Cite web|title=2026 Polls: Maine Governor
+|url=https://www.270towin.com/2026-governor-polls/maine|publisher=[[270toWin]]|access-date=September 2, 2026}}</ref>
+|September 17 – October 4, 2026<!--Remember that dates listed on 270toWin are poll *publication dates*, not the dates when the polls were *administered*-->
+|October 6, 2026
+|{{party shading/Democratic}}|'''49.2%'''
+|38.2%
+|6.2%
+|6.4%
+|{{party shading/Democratic}}|'''Pingree +10.0%'''
+|-
+|[[Decision Desk HQ]]<ref>{{Cite web|title=2026 Maine Governor Polling|url=https://votes.decisiondeskhq.com/races/2026-11-03/maine-governor-general-election/polling|publisher=[[Decision Desk HQ]]|access-date=October 9, 2026}}</ref>
+|through October 5, 2026
+|October 9, 2026
+|{{party shading/Democratic}}|'''50.6%'''
+|38.5%
+|–
+|10.9%
+|{{party shading/Democratic}}|'''Pingree +12.1%'''
+|-
+|[[FiftyPlusOne]]<ref>{{Cite web|title=Maine General Governor Election|url=https://fiftyplusone.news/polls/governor/general/maine|publisher=[[FiftyPlusOne]]|access-date=September 2, 2026}}</ref>
+|through October 5, 2026
+|October 9, 2026
+|{{party shading/Democratic}}|'''50.1%'''
+|38.3%
+|6.4%
+|5.2%
+|{{party shading/Democratic}}|'''Pingree +11.6%'''
+|-
+|[[RealClearPolitics]]<ref>{{Cite web|title=2026 Maine Governor - Charles vs. Pingree |url=https://www.realclearpolling.com/polls/governor/general/2026/maine/charles-vs-pingree|publisher=[[RealClearPolitics]]|access-date=September 9, 2026}}</ref>
+|September 2 – October 5, 2026
+|October 9, 2026
+|{{party shading/Democratic}}|'''49.8%'''
+|38.4%
+|–
+|11.8%
+|{{party shading/Democratic}}|'''Pingree +11.4%'''
+|-
+|''[[Silver Bulletin]]''<ref>{{cite web |title=FLIPR 2026 midterm election forecast
+|url=https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model |access-date=September 11, 2026 |website=[[Silver Bulletin]]}}</ref>
+|through October 5, 2026
+|October 9, 2026
+|{{party shading/Democratic}}|'''50.9%'''
+|38.9%
+|–
+|10.2%
+|{{party shading/Democratic}} |'''Pingree +12.0%'''
+|-
+|colspan="3" |'''Average'''
+|{{party shading/Democratic}}|'''50.1%'''
+|38.5%
+|6.3%
+|5.1%
+|{{party shading/Democratic}}|'''Pingree +11.6%'''
+|}
+
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name=Key|Key:<br />A – all adults<br />RV – registered voters<br />LV – likely voters<br />V – unclear}}
+! Margin<br />{{nowrap|of error}}
+! style="width:60px"| Hannah<br />Pingree (D)
+! style="width:60px"| Bobby<br />Charles (R)
+! style="width:60px"| Rick<br />Bennett (I)
+! Other
+! Undecided
+|-
+| style="text-align:left;"|[[The Washington Post]]/[[Schar School of Policy and Government|SSPG]]<ref>{{cite web |title=2026 Maine Poll Trend Shell |url=https://www.washingtonpost.com/documents/916dd450-a193-4312-9a75-1b14dd95cc28.pdf?itid=lk_inline_manual_1 |website=The Washington Post |access-date=October 9, 2026 |date=October 9, 2026}}</ref>
+|September 30 – October 5, 2026
+|800 (LV)
+|±&nbsp;3.6%
+|{{party shading/Democratic}}|'''49%'''
+|36%
+|11%
+|–
+|3%
+|-
+| style="text-align:left;"|[[Marist University]]<ref>{{cite web|url=https://maristpoll.marist.edu/wp-content/uploads/2026/10/Marist-Poll_Maine-NOS-and-Tables_202610051032xtc92617B.pdf|title=Midterm Elections in Maine, October 2026|date=October 6, 2026|access-date=October 6, 2026|website=[[Marist University]]}}</ref>
+|October 1–4, 2026
+|1,505 (RV)
+|±&nbsp;3.8%
+|{{party shading/Democratic}}|'''52%'''
+|40%
+|6%
+|–
+|2%
+|-
+|style="text-align:left;"|[[CBS]]/[[YouGov]]<ref>{{Cite web|url=https://www.cbsnews.com/news/maine-senate-poll-2026-10-02/ |title=CBS News poll finds voters split on state v. national focus in tied Maine Senate race |first1=Anthony |last1=Salvanto |first2=Jennifer |last2=De Pinto |first3=Fred |last3=Backus |publisher=[[CBS]] |date=October 2, 2026 |access-date=October 3, 2026}}</ref>
+|September 23 – October 1, 2026
+|1,133 (LV)
+|±{{nbsp}}4.7%
+|{{party shading/Democratic}}|'''56%'''
+|44%
+|–
+|–
+|–
+|-
+|style="text-align:left;"|co/efficient (R)<ref>{{cite web |title=Maine · U.S. Senate |url=https://battlegrounds.coefficient.org/me/ |publisher=co/efficient |date=September 30, 2026 |access-date=October 1, 2026}}</ref>
+|September 28–30, 2026
+|1,240 (LV)
+|±{{nbsp}}2.77%
+|{{party shading/Democratic}}|'''47%'''
+|38%
+|6%
+|–
+|9%
+|-
+|style="text-align:left;"|Fabrizio Ward (R)/<br />Impact Research (D)<ref>{{cite web |title=Maine Voter Survey |url=https://www.aarp.org/content/dam/aarp/research/topics/voter-opinion-research/politics/2026-midterm-election-poll-maine.doi.10.26419-2fres.01065.013.pdf |publisher=[[AARP]] |date=October 1, 2026 |access-date=October 1, 2026}}</ref>{{Efn-ua|name=AARP|Poll commissioned by [[AARP]]}}
+|September 20–22, 2026
+|982 (LV)
+|±{{nbsp}}3.1%
+|{{party shading/Democratic}}|'''52%'''
+|39%
+|6%
+|–
+|3%
+|-
+|rowspan="2" style="text-align: left;"|[[New York Times]]/[[Portland Press Herald]]/<br>[[Siena University (New York)|Siena University]]<ref>{{cite web |title=Toplines: September 2026 Times/Press Herald/Siena Poll of the Likely Electorate in Maine Results of a New York Times/Portland Press Herald/Siena |url=https://www.nytimes.com/interactive/2026/09/25/polls/times-siena-poll-me-toplines.html |website=[[NYTimes]] |date=September 23, 2026 |access-date=September 25, 2026}}</ref>
+|rowspan="2"|September 15–22, 2026
+|rowspan="2"|619 (LV)
+|rowspan="2"|±{{nbsp}}4.9%
+|{{party shading/Democratic}}|'''47%'''
+|34%
+|8%
+|–
+|10%
+|-
+|{{party shading/Democratic}}|'''53%'''
+|39%
+|–
+|–
+|7%
+|-
+|style="text-align:left;"|[[University of New Hampshire]]<ref>{{Cite web|url=https://scholars.unh.edu/cgi/viewcontent.cgi?article=2006&context=survey_center_polls |title=Jackson and Collins Remain Close in Maine Senate Race, Pingree Leads Charles for Governor |first1=Sean P. |last1=McKinley |first2=Andrew E. |last2=Smith |first3=Zachary S. |last3=Azem |first4=Tracy |last4=Keirns |publisher=[[University of New Hampshire]] |date=September 24, 2026 |access-date=September 24, 2026}}</ref>
+|September 17–21, 2026
+|1,312 (LV)
+|±{{nbsp}}2.7%
+|{{party shading/Democratic}}|'''48%'''
+|40%
+|5%
+|2%{{efn|"Another candidate" with 2%}}
+|5%
+|-
+| style="text-align: left;"|[[University of Massachusetts]]/[[YouGov]]<ref>{{cite web |title=Democrat Jackson leading in Maine's U.S. Senate race |url=https://www.uml.edu/docs/2026-Sept-Maine-Topline_tcm18-422748.pdf |website=University of Massachusetts |date=September 24, 2026 |access-date=September 24, 2026}}</ref>
+|August 28 – September 14, 2026
+|650 (LV)
+|±{{nbsp}}4.7%
+|{{party shading/Democratic}}|'''49%'''
+|38%
+|–
+|1%{{efn|"Another candidate" with 1%}}
+|10%
+|-
+|style="text-align:left;" rowspan=2|[[YouGov]]<ref>{{Cite web |date=September 9, 2026 |title=Maine General Election 2026 |url=https://d3nkl3psvxxpe9.cloudfront.net/documents/ttw_me_20260902.pdf |access-date=September 2, 2026 |website=YouGov}}</ref>
+|rowspan=2 |September 2–8, 2026
+|1,335 (LV)
+|±{{nbsp}}4.9%
+|{{party shading/Democratic}}|'''47%'''
+|36%
+|2%
+|1%{{efn|"Someone else" with 1%}}
+|14%
+|-
+|1,378 (RV)
+|±&nbsp;4.9%
+|{{party shading/Democratic}}|'''44%'''
+|35%
+|3%
+|2%{{efn|"Someone else" with 1%, "I will not vote in this race" with 1%}}
+|17%
+|-
+|style="text-align:left;"|SSRS<ref>{{Cite web|url=https://www.documentcloud.org/documents/28608783-cnn-poll-conducted-by-ssrs-maine/|title=Maine and Michigan Senate races are neck and neck, CNN polls find|first1=Aglesta|last1=Jennifer|first2=Ariel|last2=Edwards-Levy|first3=Edward|last3=Wu|website=[[CNN]]|date=September 9, 2026|access-date=September 9, 2026}}</ref>{{efn-ua|Poll conducted for [[CNN]]}}
+|August 31 – September 6, 2026
+|880 (LV)
+|±{{nbsp}}3.7%
+|{{party shading/Democratic}}|'''52%'''
+|39%
+|–
+|9%{{efn|"Neither" with 5%}}
+|–
+|-
+|style="text-align:left;" |Beacon Research (D)/<br/>Shaw & Co. Research (R)<ref>{{Cite web |last1=Blanton |first1=Dana |date=August 12, 2026 |title=Fox News Poll: New matchup, same result: Maine Senate race stays locked |url=https://www.foxnews.com/politics/fox-news-poll-new-matchup-same-result-maine-senate-race-stays-locked |access-date=August 13, 2026 |website=[[Fox News]]}}</ref>{{efn-ua|name=Fox}}
+|August 6–10, 2026
+|1,000 (RV)
+|±&nbsp;3.0%
+|{{party shading/Democratic}}|'''49%'''
+|38%
+|9%
+|–
+|3%
+|-
+|-
+|style="text-align:left;"|[[University of New Hampshire]]<ref name="UNHJuly2026">{{Cite web|url=https://scholars.unh.edu/cgi/viewcontent.cgi?article=1980&context=survey_center_polls|title=Maine Democratic Primary Voters Want Jackson as Senate Nominee, In Close Race With Collins in General}}</ref>
+|July 15–20, 2026
+|1,178 (LV)
+|±{{nbsp}}2.9%
+|{{Party shading/Democratic}}|'''49%'''
+|35%
+|6%
+|1%{{efn|''Another candidate'' with 1%}}
+|8%
+|-
+|-
+|style="text-align:left;" |Beacon Research (D)/<br/>Shaw & Co. Research (R)<ref>{{Cite web |last1=Blanton |first1=Dana |date=June 30, 2026 |title=Fox News Poll: Maine Senate race is tight, with concerns about both candidates |url=https://www.foxnews.com/politics/fox-news-poll-maine-senate-race-tight-concerns-about-both-candidates |access-date=June 30, 2026 |website=[[Fox News]]}}</ref>{{efn-ua|Poll conducted for [[Fox News]]|name=Fox}}
+|June 23–27, 2026
+|1,003 (RV)
+|±&nbsp;3.0%
+|{{party shading/Democratic}}|'''53%'''
+|42%
+|–
+|–
+|5%
+|-
+| rowspan="2" style="text-align:left;" |[[New York Times]]/[[Portland Press Herald]]/<br>[[Siena University (New York)|Siena University]]<ref>{{cite web |title=Cross-Tabs: June 2026 Times/Press Herald/Siena Poll of the Likely Electorate in Maine
+ |url=https://www.nytimes.com/interactive/2026/06/30/polls/times-pph-siena-maine-poll-crosstabs.html |work=[[The New York Times]] |access-date=June 30, 2026 |date=June 30, 2026}}</ref>
+| rowspan="2" |June 19–26, 2026
+| rowspan="2" |608 (LV)
+| rowspan="2" |±&nbsp;4.8%
+|{{party shading/Democratic}}|'''50%'''
+|36%
+|8%
+|–
+|5%
+|-
+|{{party shading/Democratic}}|'''55%'''
+|40%
+|–
+|–
+|4%
+|}
+
+== See also ==
+*[[2026 United States elections]]
+*[[2026 Maine elections]]
+*[[2026 United States Senate election in Maine]]
+*[[2026 United States House of Representatives elections in Maine]]
+
+==References==
+{{reflist}}
+{{noteslist}}
+{{notelist-ua}}
+
+==External links==
+;Official campaign websites
+*[https://bennettforgovernor.com/ Rick Bennett (I)]
+*[http://www.bobbyformaine.com/ Robert Charles (R)]
+*[https://hannahforgovernor.com/ Hannah Pingree (D)]
+{{2026 United States elections}}
+{{Elections in Maine footer}}
+
+[[Category:Maine gubernatorial elections]]
+[[Category:2026 Maine elections|Gubernatorial]]
+[[Category:2026 United States gubernatorial elections|Maine]]

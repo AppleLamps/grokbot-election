@@ -1,0 +1,1775 @@
+{{pp|small=yes}}
+{{short description|none}}
+{{for|related races|2026 United States gubernatorial elections|2026 Wisconsin elections}}
+{{Use American English|date=January 2025}}
+<!-- "none" is preferred when the title alone is adequate; see [[WP:SDNONE]] -->
+{{use mdy dates|date=September 2023}}
+{{Infobox election
+| election_name      = 2026 Wisconsin gubernatorial election
+| country            = Wisconsin
+| type               = presidential
+| ongoing            = yes
+| previous_election  = 2022 Wisconsin gubernatorial election
+| previous_year      = 2022
+| next_election      = 2030 Wisconsin gubernatorial election
+| next_year          = 2030
+| election_date      = November 3, 2026
+| image1             = David Crowley 2026 (3x4 crop).jpg
+| nominee1           = [[David Crowley (Wisconsin politician)|David Crowley]]
+| party1             = Democratic Party (United States)
+| running_mate1      = [[Sarah Godlewski]]
+| popular_vote1      = 
+| percentage1        = 
+| image2             = Tom Tiffany (3x4 crop).jpg
+| nominee2           = [[Tom Tiffany]]
+| party2             = Republican Party (United States)
+| running_mate2      = David Varnam
+| popular_vote2      = 
+| percentage2        = 
+| map_image          = 
+| map_size           = 
+| map_caption        = 
+| title              = [[Governor of Wisconsin|Governor]]
+| before_election    = [[Tony Evers]]
+| before_party       = Democratic Party (United States)
+| after_election     = TBD
+| after_party        = TBD
+}}
+{{ElectionsWI}}
+The '''2026 Wisconsin gubernatorial election''' is scheduled to take place on November 3, 2026, to elect the [[governor of Wisconsin]]. [[Democratic Party (United States)|Democratic]] Milwaukee County executive [[David Crowley (Wisconsin politician)|David Crowley]] and [[Republican Party (United States)|Republican]] U.S. representative [[Tom Tiffany]] are the nominees for their respective parties. Incumbent Democratic governor [[Tony Evers]] declined to seek re-election to a third term.
+
+[[Primary elections]] were held on August 11, 2026. Tiffany won the Republican nomination without serious challenge.<ref name=KremerWPR /> Crowley, despite having temporarily withdrawn his candidacy, won the Democratic nomination in an [[upset victory]] over state representative [[Francesca Hong]], receiving 39.8% of the vote.<ref>{{Cite web |last=Mueller |first=Julia |title=Crowley defeats democratic socialist Hong to face Tiffany in Wisconsin governor's race |url=https://thehill.com/homenews/campaign/6023019-crowley-wins-wisconsin-governor-primary/ |access-date=August 12, 2026 |website=The Hill |date=August 12, 2026 |language=en-US}}</ref>
+
+This is the first Wisconsin gubernatorial election since [[2010 Wisconsin gubernatorial election|2010]] in which the incumbent is not seeking re-election,<ref>{{Cite web |last=Beck |first=Molly |title=Wisconsin's Democratic Gov. Tony Evers won't seek a third term in 2026 |url=https://www.jsonline.com/story/news/politics/2025/07/24/wisconsin-democratic-gov-tony-evers-wont-seek-re-election-in-2026/84246291007/ |access-date=February 4, 2026 |website=Journal Sentinel |language=en-US}}</ref> along with being one of five Democratic-held governorships up for election in 2026 in a state won by [[Donald Trump]] in the [[2024 United States presidential election|2024 presidential election]].<ref name="Gilbert 2024">{{Cite web |last=Gilbert |first=Craig |title=Gilbert: How small voting shifts made Wisconsin the closest state in the nation |url=https://www.jsonline.com/story/news/politics/elections/2024/11/25/gilbert-small-voting-shifts-made-wisconsin-2024s-closest-state/76461074007/ |website=[[Milwaukee Journal Sentinel]] |language=en-US |date=November 25, 2024 |access-date=November 26, 2024}}</ref>
+
+If elected, Crowley would be the first African-American governor of Wisconsin. 
+{{toclimit|4}}
+
+== Background ==
+Wisconsin is considered to be a [[purple state]] at the federal and state levels with a uniquely competitive track record (presidential races decided by less than a point in [[2016 United States presidential election in Wisconsin|2016]], [[2020 United States presidential election in Wisconsin|2020]], and [[2024 United States presidential election in Wisconsin|2024]]; Senate races decided by roughly a point in [[2022 United States Senate election in Wisconsin|2022]] and [[2024 United States Senate election in Wisconsin|2024]]; and a governor's race decided by a point in [[2018 Wisconsin gubernatorial election|2018]]).<ref name="Gilbert 2024" /> The past two federal election cycles in Wisconsin featured split outcomes, with Democrats winning for governor and Republicans for Senate in [[2022 Wisconsin elections|2022]] and Democrats winning for Senate and Republicans for president in [[2024 Wisconsin elections|2024]]. Wisconsin has voted with the winner of the last five presidential elections, and in 2024 it had the second-highest voter turnout in the country (behind [[Minnesota]]) and one of the biggest turnout increases in the country.<ref name="Gilbert 2024" /> Both parties have seen success in the state in recent years. Republicans narrowly control both chambers of the [[Wisconsin Legislature]] and hold a majority in Wisconsin's [[United States House of Representatives|U.S. House]] delegation. However, Democrats control most statewide executive offices and have won the last two gubernatorial races.<ref>{{Cite web |last=Unger |first=Nancy C. |title=How Wisconsin Became the Ultimate Purple State |url=https://time.com/7093734/wisconsin-purple-state-history/ |website=[[TIME Magazine]] |language=en |date=October 28, 2024 |access-date=May 28, 2025}}</ref>
+
+Incumbent [[Democratic Party (United States)|Democratic]] governor [[Tony Evers]] was first elected in [[2018 Wisconsin gubernatorial election|2018]], narrowly defeating incumbent [[Republican Party (United States)|Republican]] [[Scott Walker (politician)|Scott Walker]].<ref>{{Cite news |last=Gowen |first=Annie |title=How the Democrats finally defeated Wisconsin Gov. Scott Walker |url=https://www.washingtonpost.com/politics/how-the-democrats-finally-defeated-wisconsin-gov-scott-walker/2018/11/07/3377ed17-9cbe-4537-8b2a-acd0c37a8d35_story.html |url-access=registration |date=November 7, 2018 |access-date=May 28, 2025 |newspaper=[[The Washington Post]] |language=en-US |issn=0190-8286}}</ref> He was re-elected by a slightly larger margin in [[2022 Wisconsin gubernatorial election|2022]], defeating Republican businessman Tim Michels.<ref>{{Cite news |last=Bosman |first=Julie |date=November 9, 2022 |title=Tony Evers and Ron Johnson Keep Their Seats in Wisconsin |url=https://www.nytimes.com/2022/11/09/us/politics/wisconsin-tony-evers-ron-johnson.html |access-date=May 28, 2025 |work=[[The New York Times]] |language=en-US |issn=0362-4331}}</ref> In July 2025, Evers announced he would not seek re-election to a third term. The race is widely seen as a tossup due to Evers's retirement and the state's even partisan lean.<ref>{{Cite web |last=Cavalli |first=Samantha |date=July 25, 2025 |title=Political analysts call governor's seat 'a toss-up' after Evers decides to not run for a 3rd term |url=https://www.wbay.com/2025/07/25/political-analysts-call-governors-seat-toss-up-after-evers-decides-not-run-3rd-term/ |url-status=live |archive-url=https://web.archive.org/web/20250730005208/https://www.wbay.com/2025/07/25/political-analysts-call-governors-seat-toss-up-after-evers-decides-not-run-3rd-term/ |archive-date=July 30, 2025 |access-date=March 5, 2026 |website=WBAY.com}}</ref>
+
+==Democratic primary==
+=== Governor ===
+Tony Evers's decision not to seek re-election triggered a competitive Democratic primary.<ref name=BauerAP /> The Associated Press described the process leading up to the August 11 primary as chaotic.<ref name=BauerAP>{{cite web | title=Wisconsin's 2026 primary election arrives with high-profile races for governor, two congressional seats | url=https://pbswisconsin.org/news-item/wisconsins-2026-primary-election-arrives-with-high-profile-races-for-governor-two-congressional-seats/ }}</ref> Lieutenant Governor Sara Rodriguez amassed support as a centrist candidate until she dropped out in mid-July, prompting Milwaukee County executive David Crowley to re-enter the race ten days after withdrawing.<ref name=BauerAP /> The race became a showdown between Crowley, who was endorsed by Evers and other establishment figures, and state representative Francesca Hong, a [[democratic socialist]].<ref name=BauerAP /> Crowley narrowly won the Democratic nomination in an [[upset victory]] over Hong, as polls showed him trailing Hong by nearly 20 points just a week earlier.<ref>{{Cite news |last1=Wagner |first1=Bayliss |last2=Igielnik |first2=Ruth |date=2026-08-12 |title=Why Were Polls So Wrong in the Wisconsin Governor's Race? |url=https://www.nytimes.com/2026/08/12/us/politics/crowley-hong-wisconsin-governor-primary-polls.html |access-date=2026-08-12 |work=The New York Times |language=en-US |issn=0362-4331}}</ref>
+
+==== Candidates ====
+===== Nominee =====
+*[[David Crowley (Wisconsin politician)|David Crowley]], [[List of Milwaukee County executives|Milwaukee County Executive]] (2020–present) ''(previously withdrew, endorsed Rodriguez)''<ref>{{Cite news |date=July 8, 2026 |title=Crowley drops gubernatorial bid |url=https://www.wispolitics.com/2026/crowley-drops-gubernatorial-bid/ |access-date=July 8, 2026 |work=[[WisPolitics]]}}</ref><ref>{{cite news |last1=Steed |first1=Calahan |title=David Crowley to re-enter the race for Wisconsin governor |url=https://www.wmtv15news.com/2026/07/17/david-crowley-re-enter-race-wisconsin-governor/ |access-date=July 17, 2026 |publisher=WMTV}}</ref><ref name="WPR Crowley back in race">{{Cite web |last1=JOHNSON |first1=SHAWN |last2=KREMER |first2=RICH |date=July 18, 2026 |title=Crowley returns to governor's race in last-minute effort to win Democratic primary |url=https://www.wpr.org/news/david-crowley-returns-governors-race-tony-evers-democratic-primary-2026 |url-status=live |archive-url=https://web.archive.org/web/20260718162033/https://www.wpr.org/news/david-crowley-returns-governors-race-tony-evers-democratic-primary-2026 |archive-date=July 18, 2026 |access-date=July 18, 2026 |website=[[Wisconsin Public Radio|WISCONSIN PUBLIC RADIO]]}}</ref><ref>{{Cite news |date=August 12, 2026 |title=David Crowley becomes first Black man to be major party's nominee for Wisconsin governor |url=https://www.wispolitics.com/2026/crowley-drops-gubernatorial-bid/ |access-date=August 12, 2026 |work=[[Milwaukee Courier]]}}</ref>
+
+===== Eliminated in primary =====
+*[[Joel Brennan]], former secretary of the [[Wisconsin Department of Administration]] (2019–2022)<ref>{{cite web |last1=Cooley |first1=Kourtney |title=Joel Brennan launches bid for Wisconsin governor |url=https://www.nbc26.com/news/national-politics/america-votes/joel-brennan-launches-bid-for-wisconsin-governor |website=[[WGBA-TV]] |publisher=Scripps Media, Inc. |date=December 11, 2025 |access-date=December 11, 2025}}</ref>
+*[[Francesca Hong]], [[Wisconsin State Assembly|state representative]] from the [[Wisconsin's 76th Assembly district|76th district]] (2021–present)<ref>{{cite news |first1=Kali |last1=Hanson |work=[[The Cap Times]] |access-date=September 17, 2025 |url=https://captimes.com/news/elections/francesca-hong-announces-run-for-governor-centered-on-working-class/article_14e2a74f-4f9a-40bb-a8f7-da525fb38f1b.html |date=September 17, 2025 |title=Francesca Hong announces run for governor centered on working class}}</ref>
+*[[Kelda Roys]], [[Wisconsin Senate|state senator]] from the [[Wisconsin's 26th Senate district|26th district]] (2021–present), candidate for [[Wisconsin's 2nd congressional district]] in [[2012 United States House of Representatives elections in Wisconsin#District 2|2012]], and candidate for governor in [[2018 Wisconsin gubernatorial election|2018]]<ref>{{cite news |last1=Schmidt |first1=Mitchell |title=Madison Democratic Sen. Kelda Roys launches bid for governor |url=https://madison.com/news/state-regional/government-politics/elections/article_21376a23-88fe-4ee0-ac90-768852f84bd4.html |access-date=September 15, 2025 |work=[[Wisconsin State Journal]] |date=September 15, 2025 |language=en}}</ref>
+
+=====Withdrawn=====
+*[[Mandela Barnes]], former [[Lieutenant Governor of Wisconsin|lieutenant governor]] (2019–2023) and nominee for U.S. Senate in [[2022 United States Senate election in Wisconsin|2022]] ''(remained on ballot)''<ref>{{cite web|last=Schneider|first=Elena|url=https://www.politico.com/news/2025/12/02/mandela-barnes-wisconsin-governor-00671918|title=Mandela Barnes jumps into crowded race for Wisconsin governor|website=[[Politico]] |date=December 2, 2025 |access-date=December 2, 2025}}</ref><ref>{{cite web|last1=Hill |first1 =Meredith Lee|last2=Katzenberger|first2=Tyler |url=https://www.politico.com/news/2026/07/30/mandela-barnes-wisconsin-governor-democrat-race-01017783|title=Mandela Barnes drops out of Wisconsin governor race|website=[[Politico]] |date=July 30, 2026 |access-date=August 11, 2026}}</ref>
+*[[Missy Hughes]], former CEO of the [[Wisconsin Economic Development Corporation]] (2019–2025) ''(remained on ballot; endorsed Rodriguez, later endorsed Crowley)''<ref name="HughesDropsOutCBS">{{cite news |title=Missy Hughes drops out of governor's race, endorses Lt. Gov. Sara Rodriguez |url=https://www.cbs58.com/news/missy-hughes-drops-out-of-governors-race-endorses-lt-gov-sara-rodriguez |access-date=June 22, 2026 |work=CBS 58 |date=June 22, 2026}}</ref>
+*[[Brett Hulsey]], former [[Wisconsin State Assembly|state representative]] from the [[Wisconsin's 78th Assembly district|78th district]] (2011–2015) and candidate for governor in [[2014 Wisconsin gubernatorial election|2014]] ''(endorsed Crowley)''<ref>{{Cite news |last=Dade |first=Caroline |date=July 11, 2026 |title=Democrat Brett Hulsey launches write-in campaign in Democratic gubernatorial primary |url=https://www.wqow.com/news/politics-wisconsin/democrat-brett-hulsey-launches-write-in-campaign-in-democratic-gubernatorial-primary/article_f053f9e6-5ee3-57d4-bc68-cf0ad2c24a82.html |access-date=July 21, 2026 |work=[[WQOW]]}}</ref><ref name="Hulsey">{{cite web|url=https://www.wispolitics.com/2026/hulsey-campaign-wi-gov-candidate-brett-hulsey-endorses-milwaukee-county-executive-david-crowley-for-governor-best-chance-to-beat-trump-tiffany/|title=Hulsey campaign: WI Gov. Candidate Brett Hulsey Endorses Milwaukee County Executive David Crowley for Governor, Best Chance to Beat Trump-Tiffany|date=August 7, 2026|access-date=August 9, 2026|website=[[WisPolitics]]}}</ref>
+*Tim Jacobson, [[Oshkosh Corporation#Defense|Oshkosh Defense]] assembler<ref>{{Cite web |date=August 3, 2025 |title=Friends of Tim Jacobson |url=https://campaignfinance.wi.gov/browse-data/registrant/11948229 |access-date=August 24, 2025 |website=[[Wisconsin Ethics Commission]] - Sunshine: Wisconsin Campaign Finance}}</ref> ''(ran for [[Winnebago County, Wisconsin|Winnebago County]] Board of Supervisors)''<ref>{{Cite web |last=Marville |first=Justin |title=Meet candidates Timothy Jacobson and Chris Rosenow |url=https://www.thenorthwestern.com/story/news/politics/elections/2026/03/05/winnebago-county-board-district-10-race-pits-jacobson-vs-rosenow/88966941007/ |access-date=April 4, 2026 |website=Oshkosh Northwestern |language=en-US}}</ref>
+*[[Sara Rodriguez]], [[Lieutenant Governor of Wisconsin|lieutenant governor]] (2023–present) ''(remained on ballot)''<ref>{{cite news |last1=Sirkin |first1=Jay |title=Lt. Gov. Sara Rodriguez drops out of Wisconsin governor's race |url=https://www.tmj4.com/news/state-capitol/lt-gov-sara-rodriguez-drops-out-of-wisconsin-governors-race |access-date=July 17, 2026 |work=[[WTMJ-TV]] |date=July 17, 2026 |language=en}}</ref>
+*Ryan Strnad, stadium vendor ''(endorsed Crowley)''<ref>{{Cite web |title=American Family Field beer vendor Ryan Strnad ends campaign for governor, endorses Crowley |url=https://wisconsinexaminer.com/briefs/american-family-field-beer-vendor-ryan-strnad-ends-campaign-for-governor-endorses-crowley/ |date=November 25, 2025 |access-date=November 25, 2025 |website=[[Wisconsin Examiner]] |author=Spears, Baylor |language=en-US}}</ref>
+
+===== Disqualified =====
+* [[Kirk Bangstad]], business owner<ref>{{Cite news |last=Schulz |first=Joe |date=June 9, 2026 |title=Controversial liberal Kirk Bangstad denied ballot access in bid for Wisconsin governor |url=https://www.wpr.org/news/controversial-liberal-kirk-bangstad-denied-ballot-access-wisconsin-governor |access-date=June 15, 2026 |work=[[Wisconsin Public Radio]]}}</ref>
+
+===== Declined =====
+*[[Tony Evers]], incumbent [[Governor of Wisconsin|governor]] (2019–present)<ref name="Evers">{{cite news |last=Bauer |first=Scott |date=July 24, 2025 |title=Democratic Gov. Tony Evers won't seek third term in battleground Wisconsin |url=https://apnews.com/article/wisconsin-gov-tony-evers-reelection-78b32ffc51dff53512fd7499f21e9878 |access-date=July 25, 2025 |work=[[Associated Press]] |language=en}}</ref> ''(endorsed Crowley)''<ref name="WPR Crowley back in race"/>
+*[[Sarah Godlewski]], [[Secretary of State of Wisconsin|Wisconsin Secretary of State]] (2023–present) and candidate for U.S. Senate in [[2022 United States Senate election in Wisconsin|2022]] ''(running for lieutenant governor)''<ref name=godlewski/>
+*[[Cavalier Johnson]], [[List of mayors of Milwaukee|mayor of Milwaukee]] (2021–present) ''(endorsed Crowley)''<ref name=":CavCrowley">{{Cite web |last=Beck |first=Molly |title=Milwaukee Mayor Cavalier Johnson endorses David Crowley for governor, ending speculation about his own run |url=https://www.jsonline.com/story/news/politics/2025/09/10/milwaukee-mayor-cavalier-johnson-endorses-david-crowley-for-governor/86076612007/ |access-date=September 10, 2025 |date=September 10, 2025 |website=[[Milwaukee Journal Sentinel]] |language=en-US}}</ref>
+*[[Josh Kaul]], [[Attorney General of Wisconsin]] (2019–present) ''([[2026 Wisconsin Attorney General election|running for re-election]])''<ref>{{cite news |last1=Richmond |first1=Todd |title=Wisconsin's Democratic attorney general won't run for governor and will seek reelection instead |url=https://apnews.com/article/josh-kaul-governor-wisconsin-election-2026-c503c78928212f32365c8696261180a3 |access-date=October 7, 2025 |work=[[Associated Press]] |date=October 7, 2025 |language=en}}</ref>
+*[[Tip McGuire]], [[Wisconsin State Assembly|state representative]] from the [[Wisconsin's 64th Assembly district|64th district]] (2019–present)<ref>{{Cite web |last1=Beck |first1=Molly |last2=Bice |first2=Daniel |date=May 27, 2025 |title=Which Democrats will run for governor if Tony Evers doesn't and answers to other questions |url=https://www.jsonline.com/story/news/politics/2025/05/27/which-wisconsin-democrats-will-run-for-governor-if-tony-evers-doesnt/83253118007/ |access-date=May 28, 2025 |website=[[Milwaukee Journal Sentinel]]}}</ref> ''([[2026 Wisconsin Attorney General election|running for re-election]])''
+*[[Ben Wikler]], former chair of the [[Democratic Party of Wisconsin|Wisconsin Democratic Party]] (2019–2025) and candidate for [[Democratic National Committee]] chair in [[2025 Democratic National Committee chairmanship election|2025]]<ref>{{cite news |last2=Dade |first2=Caroline |last1=Thompson |first1=Chad |title=Ben Wikler steps back from 2026 Wisconsin governor race, focuses on family and party support |url=https://www.wkow.com/news/governor-race/ben-wikler-steps-back-from-2026-wisconsin-governor-race-focuses-on-family-and-party-support/article_fe2a8782-add2-441d-a602-0569b9f89ee9.html |access-date=November 22, 2025 |work=[[WKOW]] |date=October 16, 2025}}</ref>
+
+==== Endorsements ====
+{{Endorsements box
+| title = Joel Brennan
+| columns = yes
+| list =
+;Executive branch officials
+*[[Tom Barrett (Wisconsin politician)|Tom Barrett]], former [[List of ambassadors of the United States to Luxembourg|U.S. ambassador to Luxembourg]] (2022–2025) and former Mayor of Milwaukee<ref>{{cite web |title=Former Milwaukee Mayor and U.s. Ambassador Tom Barrett Endorses Joel Brennan for Governor |url=https://urbanmilwaukee.com/pressrelease/former-milwaukee-mayor-and-u-s-ambassador-tom-barrett-endorses-joel-brennan-for-governor/ |website=Urban Milwaukee |date=February 3, 2026 |access-date=February 4, 2026 |language=en}}</ref>
+
+;Statewide officials
+*[[Dennis Conta]], former secretary of the [[Wisconsin Department of Revenue]] (1977–1979)<ref name="Brennan Former">{{cite web|url=https://pro.stateaffairs.com/wi/press-releases/brennan-campaign-20-former-wisconsin-egislators-across-the-state-endorse-joel-brennans-campaign-for-governor?ref=AAAAAAADyWUAAC2OAA|title=Brennan Campaign: 20 former Wisconsin legislators across the state endorse Joel Brennan's Campaign for Governor|date=June 1, 2026|access-date=July 28, 2026|website=[[WisPolitics]]}}</ref>
+*[[Mark Meyer (politician)|Mark Meyer]], former [[Public Service Commission of Wisconsin|Wisconsin Public Service Commissioner]] (2004–2010)<ref name="Brennan Former"/>
+*[[Dan Schooff]], former secretary of the [[Wisconsin Department of Administration]] (2010–2011)<ref name="Brennan Former"/>
+
+;State legislators
+*[[Janet Bewley (politician)|Janet Bewley]], former minority leader of the [[Wisconsin Senate]] (2020–2023) from [[Wisconsin's 25th Senate district|SD-25]] (2015–2023)<ref>{{cite web|url=https://www.wispolitics.com/2026/brennan-campaign-former-democratic-state-senate-leader-janet-bewley-endorses-joel-brennan-for-wisconsin-governor/|title=Brennan campaign: Former Democratic State Senate Leader Janet Bewley endorses Joel Brennan for Wisconsin Governor|date=July 16, 2026|access-date=July 28, 2026|website=[[WisPolitics]]}}</ref>
+*[[Chester A. Gerlach|Chester Gerlach]], [[Wisconsin's 3rd Assembly district|AD-3]] (1975–1985)<ref name="Brennan Former"/>
+*[[Jim Holperin]], [[Wisconsin's 12th Senate district|SD-12]] (2009–2013)<ref name="Brennan Former"/>
+*[[Robert Jauch]], former minority leader of the [[Wisconsin Senate]] (1993–1995) from [[Wisconsin's 25th Senate district|SD-25]] (1987–2015)<ref name="Brennan Former"/>
+*[[Shirley Krug]], former minority leader of the [[Wisconsin State Assembly]] (1998–2001) from [[Wisconsin's 12th Assembly district|AD-12]] (1985–2005)<ref name="Brennan Former"/>
+*[[Walter Kunicki]], former [[Speaker of the Wisconsin State Assembly|Assembly Speaker]] (1991–1995) from [[Wisconsin's 8th Assembly district|AD-8]] (1981–1999)<ref name="Brennan Former"/>
+*[[Brad Pfaff]], [[Wisconsin's 32nd Senate district|SD-32]] (2021–present)<ref>{{Cite web |date=May 1, 2026 |title=Brennan campaign: State Senator Brad Pfaff endorses Joel Brennan for governor
+ |url=https://www.wispolitics.com/2026/brennan-campaign-state-senator-brad-pfaff-endorses-joel-brennan-for-governor/ |access-date=May 1, 2026 |website=[[WisPolitics]]}}</ref>
+*[[Judy Robson]], former majority leader of the [[Wisconsin Senate]] (2007) from [[Wisconsin's 15th Senate district|SD-15]] (1999–2011)<ref name="Brennan Former"/>
+*[[Donna J. Seidel|Donna Seidel]], [[Wisconsin's 85th Assembly district|AD-85]] (2005–2013)<ref name="Brennan Former"/>
+*[[Michael J. Sheridan|Mike Sheridan]], former [[Speaker of the Wisconsin State Assembly|Assembly Speaker]] (2009–2011) from [[Wisconsin's 44th Assembly district|AD-44]] (2005–2011)<ref name="Brennan Former"/>
+*[[Kevin Soucie]], [[Wisconsin's 7th Assembly district|AD-7]] (1975–1981)<ref name="Brennan Former"/>
+*[[Dana Wachs]], [[Wisconsin's 91st Assembly district|AD-91]] (2013–2019)<ref name="Brennan Former"/>
+*[[James W. Wahner|James Wahner]], former majority leader of the [[Wisconsin State Assembly]] (1977–1980) from [[Wisconsin's 15th Assembly district|AD-15]] (1971–1980)<ref name="Brennan Former"/>
+
+;Local officials
+*[[John Antaramian]], former [[List of mayors of Kenosha, Wisconsin|mayor of Kenosha]] (1992–2008, 2016–2024)<ref name="Brennan Former"/>
+*[[John Medinger]], former mayor of [[La Crosse, Wisconsin|La Crosse]] (1997–2005)<ref name="Brennan Former"/>
+*[[John H. Robinson (politician)|John Robinson]], member of the [[Marathon County, Wisconsin|Marathon County]] board of supervisors (1974–1981, 2006–present)<ref name="Brennan Former"/>
+*[[Tony Staskunas]], member of the [[Milwaukee County Board of Supervisors]] from the 16th district (2013–present)<ref name="Brennan Former"/>
+
+;Party officials
+*[[Jeffrey A. Neubauer|Jeffrey Neubauer]], former chair of the [[Democratic Party of Wisconsin]] (1989–1993)<ref name="Brennan Former"/>
+}}
+{{Endorsements box
+| title = David Crowley
+| columns = yes
+| list =
+;U.S. Representatives
+*[[Gregory Meeks]], [[New York's 5th congressional district|NY-05]] (1998–present)<ref name="CBC">{{cite web|url=https://www.wispolitics.com/2026/crowley-campaign-congressional-black-caucus-pac-endorses-david-crowley-for-governor/|title=Crowley campaign: Congressional Black Caucus PAC Endorses David Crowley for Governor|date=August 3, 2026|access-date=August 9, 2026|website=[[WisPolitics]]}}</ref>
+*[[Gwen Moore]], [[Wisconsin's 4th congressional district|WI-04]] (2005–present)<ref>{{cite web|url=https://www.wispolitics.com/2026/u-s-rep-gwen-moore-endorses-david-crowley-for-governor/|title=U.S. Rep. Gwen Moore: Endorses David Crowley for governor|date=July 31, 2026|access-date=August 9, 2026|website=[[WisPolitics]]}}</ref>
+
+;Statewide officials
+*[[Tony Evers]], [[governor of Wisconsin]] (2019–present)<ref name="WPR Crowley back in race" />
+*[[Missy Hughes]], former CEO of the [[Wisconsin Economic Development Corporation]] (2019–2025) ''(previously endorsed Rodriguez)''<ref name="opoien 2026">{{cite web |last1=Opoien |first1=Jessie |date=July 18, 2026 |title=What the other Democrats said about David Crowley rejoining the race |url=https://www.jsonline.com/story/news/politics/elections/2026/07/18/what-the-other-democrats-said-about-david-crowley-rejoining-the-race/90966919007/ |website=Milwaukee Journal Sentinel |access-date=July 19, 2026}}</ref>
+
+;State legislators
+*[[Dora Drake]], [[Wisconsin's 4th Senate district|SD-4]] (2024–present)<ref>{{cite web|url=https://www.wispolitics.com/2026/crowley-campaign-wisconsin-legislative-black-caucus-chair-sen-dora-drake-endorses-david-crowley-for-governor/|title=Crowley campaign: Wisconsin Legislative Black Caucus Chair Sen. Dora Drake endorses David Crowley for Governor|date=August 6, 2026|access-date=August 9, 2026|website=[[WisPolitics]]}}</ref>
+*[[Kalan Haywood]], [[Wisconsin's 16th Assembly district|AD-16]] (2019–present)<ref>{{Cite web |date=October 3, 2025 |title=Crowley campaign: Democratic Assistant Minority Leader, Representative Kalan Haywood, endorses David Crowley for governor |url=http://wispolitics.com/2025/crowley-campaign-democratic-assistant-minority-leader-representative-kalan-haywood-endorses-david-crowley-for-governor/ |access-date=October 5, 2025 |website=[[WisPolitics]] |language=en-US}}</ref>
+*[[Brett Hulsey]], [[Wisconsin's 78th Assembly district|AD-78]] (2011–2015)<ref name="Hulsey"/>
+*[[Melissa Ratcliff]], [[Wisconsin's 16th Senate district|SD-16]] (2025–present)<ref>{{cite web|url=https://www.wispolitics.com/2026/ratcliff-campaign-senator-melissa-ratcliff-endorses-david-crowleys-campaign-for-governor-of-wisconsin/|title=Ratcliff campaign: Senator Melissa Ratcliff endorses David Crowley's Campaign for Governor of Wisconsin|date=July 20, 2026|access-date=July 28, 2026|website=[[WisPolitics]]}}</ref>
+*[[Lisa Subeck]], [[Wisconsin's 79th Assembly district|AD-79]] (2015–present)<ref>{{cite web|url=https://www.wispolitics.com/2026/crowley-campaign-assembly-democratic-caucus-chair-lisa-subeck-endorses-david-crowley-for-governor/|title=Democratic Caucus Chair Lisa Subeck endorses David Crowley for Governor|date=August 5, 2026|access-date=August 9, 2026|website=[[WisPolitics]]}}</ref>
+
+;Local officials
+*[[Alicia Halvensleben]], mayor of [[Waukesha, Wisconsin|Waukesha]] (2026–present)<ref name="Crowley Mayors">{{cite web|url=https://www.wispolitics.com/2026/crowley-campaign-mayors-of-waukesha-wauwatosa-and-sheboygan-endorse-david-crowley-for-governor/|title=Crowley campaign: Mayors of Waukesha, Wauwatosa, and Sheboygan endorse David Crowley for Governor|date=July 21, 2026|access-date=July 28, 2026|website=[[WisPolitics]]}}</ref>
+*[[Cavalier Johnson]], [[List of mayors of Milwaukee|mayor of Milwaukee]] (2021–present)<ref name=":CavCrowley" />
+*[[Dennis McBride]], mayor of [[Wauwatosa, Wisconsin|Wauwatosa]] (2020–present)<ref name="Crowley Mayors"/>
+
+;Labor unions
+*[[International Association of Fire Fighters|IAFF]] Locals 215 & 1848<ref>{{Cite web |url=https://www.wispolitics.com/2025/crowley-campaign-firefighters-local-215-endorses-david-crowley-for-governor/ |title=Crowley campaign: Firefighters Local 215 endorses David Crowley for governor |date=September 10, 2025 |access-date=September 11, 2025 |language=en-US |website=[[WisPolitics]]}}</ref><ref>{{cite web|url=https://www.wispolitics.com/2026/crowley-campaign-oak-creek-firefighters-union-endorses-david-crowley-for-governor/|title=Crowley campaign: Oak Creek Firefighters Union endorses David Crowley for governor|date=January 27, 2026|access-date=July 28, 2026|website=[[WisPolitics]]}}</ref>
+*[[International Brotherhood of Electrical Workers]] Wisconsin State Conference<ref>{{cite web|url=https://www.wispolitics.com/2026/crowley-campaign-ibew-wisconsin-state-conference-endorses-david-crowley/|title=Crowley campaign: IBEW Wisconsin State Conference endorses David Crowley |date=July 23, 2026|access-date=July 28, 2026|website=[[WisPolitics]]}}</ref>
+*[[International Union of Operating Engineers]] Local 139<ref>{{cite web|url=https://www.wispolitics.com/2026/crowley-campaign-operating-engineers-local-139-endorses-david-crowley-for-governor/|title=Crowley campaign: Operating Engineers Local 139 Endorses David Crowley for Governor|date=July 28, 2026|access-date=July 28, 2026|website=[[WisPolitics]]}}</ref>
+*[[International Association of Fire Fighters|Professional Fire Fighters of Wisconsin]]<ref>{{cite web|url=https://www.wispolitics.com/2026/crowley-campaign-professional-fire-fighters-of-wisconsin-endorses-david-crowley-for-governor/|title=Crowley campaign: Professional Fire Fighters of Wisconsin endorses David Crowley for Governor|date=June 23, 2026|access-date=July 28, 2026|website=[[WisPolitics]]}}</ref>
+*Northern Midwest Regional Council of [[United Brotherhood of Carpenters and Joiners of America|Carpenters]]<ref>{{cite web|url=https://www.wispolitics.com/2026/crowley-campaign-wisconsin-carpenters-endorse-david-crowley-for-governor/|title=Crowley campaign: Wisconsin Carpenters Endorse David Crowley for Governor|date=July 30, 2026|access-date=August 9, 2026|website=[[WisPolitics]]}}</ref>
+*[[United Association|Plumbers Union]] Local 75<ref>{{cite web|url=https://www.wispolitics.com/2026/crowley-campaign-plumbers-union-local-75-endorses-david-crowley-for-governor/|title=Crowley campaign: Plumbers Union Local 75 Endorses David Crowley for Governor|date=July 29, 2026|access-date=August 9, 2026|website=[[WisPolitics]]}}</ref>
+*Wisconsin [[Laborers' International Union of North America|Laborers']] District Council<ref>{{cite web|url=https://www.wispolitics.com/2026/crowley-campaign-wisconsin-laborers-district-council-endorses-david-crowley-for-governor/|title=Crowley campaign: Wisconsin Laborers' District Council endorses David Crowley for Governor|date=July 28, 2026|access-date=July 28, 2026|website=[[WisPolitics]]}}</ref>
+
+;Organizations
+*[[Congressional Black Caucus]] PAC<ref name="CBC"/>
+}}
+{{Endorsements box
+| title = Francesca Hong
+| columns = yes
+| list =
+;U.S. representatives
+*[[Ro Khanna]], [[California's 17th congressional district|CA-17]] (2017–present)<ref name="prog">{{cite web|url=https://www.wispolitics.com/2026/hong-campaign-democratic-gubernatorial-frontrunner-francesca-hong-draws-support-from-national-progressives/ |title=Hong campaign: Democratic gubernatorial frontrunner Francesca Hong draws support from national progressives |date=April 9, 2026 |access-date=April 9, 2026 |website=[[Wispolitics.com]]}}</ref>
+*[[Ilhan Omar]], [[Minnesota's 5th congressional district|MN-05]] (2019–present)<ref>{{cite web|url=https://www.maciverinstitute.com/news/team-trump-picksup-on-ilhan-omar-endorsement-in-wisconsin-govs-race|title= Team Trump Picks-Up on Ilhan Omar Endorsement in WI Gov Race |last1=Yount |first1=Benjamin |date=April 22, 2026 |access-date=April 22, 2026 |website=[[MacIver Institute]]}}</ref>
+
+;State legislators
+*[[Ryan Clancy]], [[Wisconsin's 19th Assembly district|AD-19]] (2023–present)<ref name="DailyCardinal">{{cite web |last1=Lopez-Stane |first1=Audrey |title=Your Wisconsin's primary election need to know |url=https://www.dailycardinal.com/article/2026/07/your-wisconsins-primary-election-need-to-know |website=Daily Cardinal |access-date=2 August 2026 |language=en}}</ref>
+*[[Gary George (Wisconsin politician)|Gary George]], former president pro tempore of the [[Wisconsin State Senate]] (1999–2003) from [[Wisconsin's 6th Senate district|SD-6]] (1981–2003)<ref>{{cite web|url=https://www.wispolitics.com/2026/former-sen-gary-george-statement-of-endorsement/|title=Former Sen. Gary George: Statement of Endorsement|date=July 29, 2026|access-date=August 9, 2026|website=[[WisPolitics]]}}</ref>
+*[[Chris Larson]], [[Wisconsin's 7th Senate district|SD-7]] (2011–present)<ref>{{cite web |last1=Bradner |first1=Eric |title=Democratic socialists face a prove-it moment in battleground Wisconsin {{!}} CNN Politics |url=https://www.cnn.com/2026/08/02/politics/democratic-socialists-wisconsin-francesca-hong |website=CNN |access-date=3 August 2026 |language=en |date=2 August 2026}}</ref>
+*[[Angelito Tenorio]], [[Wisconsin's 14th Assembly district|AD-14]] (2025–present)<ref name="DailyCardinal" />
+*[[Nina Turner]], former [[Ohio Senate|Ohio state senator]], [[Ohio's 25th senatorial district|SD-25]] (2008–2014)<ref name="prog" />
+
+;Individuals
+*[[Kat Abughazaleh]], journalist and social media influencer<ref>{{cite web |last1=Spears |first1=Baylor |title=Francesca Hong bets Wisconsin will embrace Democratic Socialism statewide • Wisconsin Examiner |url=https://wisconsinexaminer.com/2026/07/03/francesca-hong-bets-wisconsin-will-embrace-democratic-socialism-statewide/ |website=Wisconsin Examiner |access-date=2 August 2026 |date=3 July 2026}}</ref>
+*[[Hasan Piker]], political commentator<ref>{{cite web | title=Francesca Hong holds campaign rally with U.S. Rep. Ilhan Omar, controversial streamer Hasan Piker in South Milwaukee | url=https://www.cbs58.com/news/francesca-hong-holds-campaign-rally-in-milwaukee-with-rep-ilhan-omar-controversial-streamer-hasan-piker }}</ref>
+*[[Qasim Rashid]], attorney<ref name="prog" />
+
+;Labor unions
+*[[Office and Professional Employees International Union|OPEIU]] Local 39<ref>{{cite web|url=https://www.wispolitics.com/2026/opeiu-local-39-endorses-francesca-hong-for-governor/|title=OPEIU Local 39: Endorses Francesca Hong for Governor|date=July 24, 2026|access-date=July 28, 2026|website=[[WisPolitics]]}}</ref>
+*[[Service Employees International Union]] Wisconsin<ref>{{cite web|url=https://urbanmilwaukee.com/pressrelease/seiu-wisconsin-healthcare-and-service-workers-endorse-francesca-hong-for-governor/|title=SEIU Wisconsin Healthcare and Service Workers Endorse Francesca Hong for Governor|date=August 5, 2026|access-date=August 6, 2026|website=[[Urban Milwaukee]]}}</ref>
+
+;Organizations
+*[[AAPI Victory Fund]]<ref name=AAPI>{{Cite instagram |user=aapivictoryfund |author-link=AAPI Victory Fund |title=Thank you @francescahongwi for standing up for Wisconsin. |postid=DVJ7qgZAUku |date=February 24, 2026 |access-date=July 22, 2026}}</ref>
+*[[Center for Freethought Equality]] ''(co-endorsement with Roys)''<ref name=CFEDec>{{cite web |title=2026 Endorsements |url=https://www.cfequality.org/members/endorsements/2026 |website=Center for Freethought Equality |access-date=December 4, 2025}}</ref>
+*[[Citizen Action]] of Wisconsin<ref name=CACT>{{cite web|title=Citizen Action of Wisconsin: Citizen Action of Wisconsin endorses Francesca Hong for Governor|url=https://www.wispolitics.com/2026/citizen-action-of-wisconsin-citizen-action-of-wisconsin-endorses-francesca-hong-for-governor/|website=WisPolitics|date=July 15, 2026 |access-date=July 16, 2026}}</ref>
+*Madison Area [[Democratic Socialists of America]]<ref name=MADSA>{{cite Instagram |author=Madison Area DSA |user=dsamadison |title=Madison Area DSA is proud to endorse DSA member and community organizer Representative Francesca Hong (@francescahongwi) for governor! |date=January 31, 2026 |access-date=January 31, 2026 |language=en-US |postid=DUMdm9_jJDz}}</ref>
+*Milwaukee [[Democratic Socialists of America]]<ref>{{cite web |last1=Brown |first1=Gregory |title=Milwaukee DSA ready for statewide governor's race as Madison DSA joins in endorsing Francesca Hong – Milwaukee DSA |url=https://milwaukee.dsawi.org/milwaukee-dsa-ready-for-statewide-governors-race-as-madison-dsa-joins-in-endorsing-francesca-hong/ |date=February 9, 2026 |access-date=February 11, 2026}}</ref>
+*Twin Ports [[Democratic Socialists of America]]<ref>{{Cite instagram |title=Twin Ports DSA is proud to endorse Francesca Hong for Wisconsin governor! |author=Twin Ports Democratic Socialists of America |user=dsa.duluth |postid=DavDEIDxnx9 |date=July 13, 2026 |access-date=July 22, 2026}}</ref> 
+*[[Our Revolution|Our Wisconsin Revolution]]<ref name=OWR>{{cite web |title=Far-Left Our Wisconsin Revolution Endorses Francesca Hong |url=https://heartlandpost.com/far-left-our-wisconsin-revolution-endorses-francesca-hong/ |website=The Heartland Post |date=May 18, 2026 |access-date=May 28, 2026}}</ref>
+*[[Our Revolution]]<ref name=OR>{{cite web |title=Francesca Hong for Governor of Wisconsin |url=https://ourrevolution.com/francesca-hong-for-governor-of-wisconsin/ |website=Our Revolution |date=June 25, 2026 |access-date=June 30, 2026}}</ref>
+*Young [[Progressive Democrats of America]]<ref>{{cite web|url=https://www.wispolitics.com/2026/progressives-for-democracy-in-america-young-progressive-democrats-of-america-pda-and-ypda-endorse-francesca-hong-for-governor-of-wisconsin/|title=Progressives for Democracy in America, Young Progressive Democrats of America: PDA and YPDA endorse Francesca Hong for Governor of Wisconsin|date=August 5, 2026|access-date=August 9, 2026|website=[[WisPolitics]]}}</ref>
+}}
+{{Endorsements box
+| title = Kelda Roys
+| columns = yes
+| list =
+;Executive branch officials
+*[[Thomas A. Loftus|Thomas Loftus]], former [[List of ambassadors of the United States to Norway|U.S. ambassador to Norway]] (1993–1997)<ref name="Kagen">{{Cite web |date=June 25, 2026 |title=Roys Announces Congressional Endorsement |url=https://urbanmilwaukee.com/pressrelease/roys-announces-congressional-endorsement/ |access-date=June 25, 2026 |website=[[Urban Milwaukee]]}}</ref>
+
+;Statewide officials
+*[[Barbara Lawton]], former [[Lieutenant Governor of Wisconsin|lieutenant governor of Wisconsin]] (2003–2011)<ref>{{Cite web |last=Lawton |first=Barbara |author-link=Barbara Lawton |date=June 16, 2026 |title=Opinion {{!}} Only one candidate can beat Tom Tiffany |url=https://captimes.com/opinion/guest-columns/opinion-only-one-candidate-can-beat-tom-tiffany/article_b3a2b24e-19e3-4fd3-96a7-5c8ccaa962d9.html |access-date=June 17, 2026 |website=[[The Cap Times]]}}</ref>
+
+;U.S. representatives
+*[[Steve Kagen]], [[Wisconsin's 8th congressional district|WI-08]] (2007–2011)<ref name="Kagen"/>
+
+;State legislators
+*[[Brienne Brown]], [[Wisconsin's 43rd Assembly district|AD-43]] (2025–present)<ref name="Kagen"/>
+*[[Chris Danou]], [[Wisconsin's 91st Assembly district|AD-91]] (2009–2013), [[Wisconsin's 92nd Assembly district|AD-92]] (2013–2017)<ref name="Nelson">{{Cite web |date=April 27, 2026 |title=Roys campaign: Thomas Nelson endorses Kelda Roys for governor |url=https://www.wispolitics.com/2026/roys-campaign-thomas-nelson-endorses-kelda-roys-for-governor/ |access-date=April 27, 2026 |website=[[WisPolitics]]}}</ref>
+*[[Dave Hansen (politician)|Dave Hansen]], former majority leader of the [[Wisconsin Senate]] (2010–2011) from [[Wisconsin's 30th Senate district|SD-30]] (2001–2021)<ref name="Surge">{{cite web|url=https://www.wispolitics.com/2026/roys-campaign-roys-support-surges/|title=Roys campaign: Roys support surges|date=July 17, 2026|access-date=July 28, 2026|website=[[WisPolitics]]}}</ref>
+*[[Sarah Keyeski]], [[Wisconsin's 14th Senate district|SD-14]] (2025–present)<ref>{{cite web |title=Sarah Keyeski Endorses Kelda Roys for Governor |url=https://urbanmilwaukee.com/pressrelease/sarah-keyeski-endorses-kelda-roys-for-governor/ |website=Urban Milwaukee |access-date=May 26, 2026 |language=en |date=May 26, 2026}}</ref>
+*[[Jessica King]], [[Wisconsin's 18th Senate district|SD-18]] (2011–2013)<ref name="Nelson"/>
+*[[Karen Kirsch]], [[Wisconsin's 7th Assembly district|AD-7]] (2025–present)<ref name="Nelson"/>
+*[[Donna Seidel]], [[Wisconsin's 85th Assembly district|AD-85]] (2004–2013)<ref name="Nelson"/>
+*[[Gary Sherman (politician)|Gary Sherman]], [[Wisconsin's 74th Assembly district|AD-74]] (1999–2010)<ref name="Nelson"/>
+*[[Ryan Spaude]], [[Wisconsin's 89th Assembly district|AD-89]] (2025–present)<ref name="Surge"/>
+*[[Mark Spreitzer]], [[Wisconsin's 15th Senate district|SD-15]] (2023–present)<ref name="Surge"/>
+*[[Robert Wirch]], [[Wisconsin's 22nd Senate district|SD-22]] (1997–present) ''(previously endorsed Rodriguez)''<ref name="Surge"/>
+
+;Local officials
+*[[Tom Nelson (Wisconsin politician)|Tom Nelson]], [[Outagamie County, Wisconsin|Outagamie County]] [[county executive|executive]] (2011–present)<ref name="Nelson"/>
+*[[John Norquist]], former [[List of mayors of Milwaukee|mayor of Milwaukee]] (1988–2004)<ref name="Nelson"/>
+
+;Labor unions
+*[[Wisconsin Education Association Council]]<ref>{{cite news |last1=Scott |first1=John |title=WEAC endorses Kelda Roys for governor |url=https://civicmedia.us/news/2026/04/14/weac-endorses-kelda-roys-for-governor |publisher=CivicMediaUS |access-date=April 14, 2026}}</ref>
+
+;Organizations
+*[[Vote Run Lead]]<ref>{{cite news |title=Vote Run Lead Action 2026 Endorsements|url=https://voterunleadaction.org/2026-endorsements/ |publisher=voterunleadaction.org |access-date=June 23, 2026}}</ref>
+*[[Center for Freethought Equality]] ''(co-endorsement with Hong)''<ref name=CFEDec/>
+}}
+{{Endorsements box
+| title = Mandela Barnes ''(withdrawn, remained on ballot)''
+| columns = yes
+| list =
+;U.S. senators
+*[[Adam Schiff]], [[California]] (2024–present)<ref>{{Cite web|url=https://www.wispolitics.com/2025/barnes-campaign-senator-adam-schiff-endorses-mandela-barnes-for-governor-of-wisconsin/|title=Barnes campaign: Senator Adam Schiff endorses Mandela Barnes for Governor of Wisconsin|first=Wisconsin Press|last=Releases|date=December 12, 2025}}</ref>
+
+;State legislators
+*[[Angelina Cruz]], [[Wisconsin's 62nd Assembly district|AD-62]] (2025–present)<ref name="Barnes launch">{{Cite web |date=December 2, 2025 |title=Barnes campaign: Launches campaign for governor of Wisconsin |url=https://pro.stateaffairs.com/wi/press-releases/barnes-campaign-launches-campaign-for-governor-of-wisconsin |access-date=December 8, 2025 |website=State Affairs |language=en-US}}</ref>
+*[[Tod Ohnstad]], [[Wisconsin's 65th Assembly district|AD-65]] (2013–2025)<ref name="Barnes launch" />
+*[[Sandy Pasch]], [[Wisconsin's 10th Assembly district|AD-10]] (2013–2015), [[Wisconsin's 22nd Assembly district|AD-22]] (2009–2013)<ref name="Barnes launch" />
+*[[Amaad Rivera-Wagner]], [[Wisconsin's 90th Assembly district|AD-90]] (2025–present)<ref name="Barnes launch" />
+
+;Local officials
+*[[Eric Genrich]], [[List of mayors of Green Bay, Wisconsin|mayor of Green Bay]] (2019–present)<ref name="BarnesJoins">{{cite web |last1=Kremer |first1=Rich |title=Former Lt. Gov. Mandela Barnes joins race for Wisconsin governor |url=https://www.wpr.org/news/mandela-barnes-joins-2026-race-wisconsin-governor |website=WPR |date=December 2, 2025 |access-date=December 3, 2025}}</ref>
+
+;Individuals
+*[[LeVar Burton]], actor<ref>{{cite web|url=https://politicalemails.org/messages/2210414|title=Where we go from here
+|date=July 27, 2026|access-date=August 11, 2026|website=Archive of Political Emails}}</ref>
+
+;Labor unions
+*[[United Auto Workers]] Wisconsin State CAP Council<ref>{{cite web|url=https://www.wispolitics.com/2026/barnes-campaign-uaw-wisconsin-state-cap-council-endorses-mandela-barnes-for-governor/|title=Barnes campaign: UAW Wisconsin State CAP Council endorses Mandela Barnes for Governor|date=July 27, 2026|access-date=July 28, 2026|website=[[WisPolitics]]}}</ref>
+*[[United Food and Commercial Workers]] Local 1473<ref>{{Cite instagram |title=UFCW 1473 Officially Endorses Mandela Barnes for Governor of Wisconsin |author=United Food and Commercial Workers |author-link=United Food and Commercial Workers |user=ufcw1473 |postid=DRxTWMjDLJE |date=December 2, 2025 |access-date=July 22, 2026}}</ref>
+
+;Organizations
+*[[Collective PAC]]<ref>{{cite news |last1=Wren |first1=Adam |title=The 2028 Democratic primary turns visible |url=https://www.politico.com/newsletters/playbook/2026/04/10/the-2028-democratic-primary-turns-visible-00866648 |access-date=April 10, 2026 |work=[[Politico]] |date=April 10, 2026 |language=en}}</ref>
+*[[End Citizens United]]<ref>{{cite web |title=End Citizens United Endorses Mandela Barnes for Wisconsin Governor |url=https://www.endcitizensunited.org/end-citizens-united-endorses-mandela-barnes-for-wisconsin-governor |website=End Citizens United |access-date=December 5, 2025 |language=en}}</ref>
+*[[Natural Resources Defense Council|NRDC]] Action Fund<ref>{{cite web|url=https://www.wispolitics.com/2026/barnes-campaign-nrdc-action-fund-endorses-mandela-barnes-for-governor-of-wisconsin/|title=Barnes Campaign: NRDC Action Fund endorses Mandela Barnes for governor of Wisconsin|date=May 26, 2026|access-date=July 28, 2026|website=[[WisPolitics]]}}</ref>
+}}
+{{Endorsements box
+| title = Sara Rodriguez ''(withdrawn, remained on ballot)''
+| columns = yes
+| list =
+;Statewide officials
+*[[Austin Davis (politician)|Austin Davis]], [[lieutenant governor of Pennsylvania]] (2023–present)<ref name="dlga" />
+*<s>[[Missy Hughes]], former CEO of the [[Wisconsin Economic Development Corporation]] (2019–2025)</s> ''(endorsed Crowley after Rodriguez withdrew)''<ref name= "HughesDropsOutCBS" /><ref name="opoien 2026" />
+*[[Martin J. Schreiber]], former [[governor of Wisconsin]] (1977–1979)<ref>{{Cite web |last=Schreiber |first=Martin |author-link=Martin J. Schreiber |date=June 25, 2026 |title=Former Wisconsin Governor Announces Endorsement |url=https://urbanmilwaukee.com/2026/06/25/op-ed-former-wisconsin-governor-announces-endorsement/ |access-date=June 25, 2026 |website=[[Urban Milwaukee]]}}</ref>
+
+;State legislators
+*[[Ben DeSmidt]], [[Wisconsin's 65th Assembly district|AD-65]] (2025–present)<ref name="Wisconsin leaders">{{Cite web |date=August 4, 2025 |title=Rodriguez campaign: Wisconsin leaders line up behind Lt. Gov. Sara Rodriguez for governor |url=https://www.wispolitics.com/2025/rodriguez-campaign-wisconsin-leaders-line-up-behind-lt-gov-sara-rodriguez-for-governor/ |access-date=August 4, 2025 |website=[[WisPolitics]] |language=en-US}}</ref>
+*[[Joan Fitzgerald (politician)|Joan Fitzgerald]], [[Wisconsin's 46th Assembly district|AD-46]] (2025–present)<ref name = "Wisconsin leaders" />
+*[[Gary Hebl]], [[Wisconsin's 46th Assembly district|AD-46]] (2005–2023)<ref name = "Wisconsin leaders" />
+*[[Andrew Hysell]], [[Wisconsin's 48th Assembly district|AD-48]] (2025–present)<ref name = "Wisconsin leaders" />
+*[[Beth Meyers]], [[Wisconsin's 74th Assembly district|AD-74]] (2015–2023)<ref name = "Wisconsin leaders" />
+*[[Maureen McCarville]], [[Wisconsin's 42nd Assembly district|AD-42]] (2025–present)<ref name = "Wisconsin leaders" />
+*[[Sylvia Ortiz-Velez]], [[Wisconsin's 8th Assembly district|AD-8]] (2021–present)<ref name = "Wisconsin leaders" />
+*[[Janis Ringhand]], [[Wisconsin's 15th Senate district|SD-15]] (2015–2023)<ref name = "Wisconsin leaders" />
+*<s>[[Robert Wirch]], [[Wisconsin's 22nd Senate district|SD-22]] (1997–present)</s>  ''(endorsed Roys after Rodriguez withdrew)''<ref name = "Wisconsin leaders" /><ref name="Surge"/>
+
+;Municipal officials
+*<s>[[David Crowley (Wisconsin politician)|David Crowley]], Milwaukee County Executive (2020–current</s>) ''(re-entered race)'' <ref>{{cite news|url=https://www.wpr.org/news/david-crowley-returns-governors-race-tony-evers-democratic-primary-2026/|title=David Crowley }}</ref>
+*[[Paul Soglin]], former [[List of mayors of Madison, Wisconsin|mayor of Madison]] (1973–1979, 1989–1997, 2011–2019)<ref>{{cite tweet|last= Beck|first= Molly |user= MollyBeck |number= 2075994829293572260 |date=July 11, 2026  |title= Tidbit: Former longtime Madison Mayor and 2018 guv candidate Paul Soglin says he's voting for Lt. Gov. Sara Rodriguez in the Dem primary for guv. (There are two Madison state lawmakers in the race.)  |accessdate= July 12, 2026 }}</ref>
+
+;Labor unions
+*[[AFSCME]] Council 32<ref>{{cite news |last1=Beck |first1=Molly |title=Democrat Sara Rodriguez gains a key union endorsement in the 2026 Wisconsin governor's race |url=https://www.jsonline.com/story/news/politics/2025/11/19/democrat-sara-rodriguez-gains-key-union-endorsement-in-governors-race/87353549007/ |work=[[Milwaukee Journal Sentinel]] |date=November 19, 2025 |access-date=November 20, 2025}}</ref>
+
+;Organizations
+*[[314 Action]]<ref>{{Cite web |title=314 Action Fund Endorses Sara Rodriguez for Wisconsin Governor |url=https://314action.org/2025/09/30/314-action-fund-endorses-sara-rodriguez-for-wisconsin-governor/ |date=September 30, 2025 |website=[[314 Action]] |place=Philadelphia, Pennsylvania}}</ref>
+*[[Democratic Lieutenant Governors Association]]<ref name=dlga>{{Cite web |title=Release: DLGA Endorses Wisconsin Lt. Governor Sara Rodriguez for Governor |url=https://demlgs.org/release-dlga-endorses-wisconsin-lt-governor-sara-rodriguez-for-governor/ |website=[[Democratic Lieutenant Governors Association]] |date=July 25, 2025 |access-date=September 11, 2025 |language=en-US |last=Davis |first=Austin}}</ref>
+}}
+{{Endorsements box
+| title = Declined to endorse
+| list =
+;U.S. senators
+*[[Bernie Sanders]], [[Vermont]] (2007–present) ''(Independent)''<ref>{{cite web |last1=Karnopp |first1=Hope |title=Bernie Sanders doesn't plan to endorse Francesca Hong in governor race |url=https://www.jsonline.com/story/news/politics/elections/2026/08/06/bernie-sanders-francesca-hong/91200369007/ |website=[[Milwaukee Journal Sentinel]] |date=August 6, 2026 |access-date=August 9, 2026}}</ref>
+
+;U.S. representatives
+*[[Alexandria Ocasio-Cortez]], [[New York's 14th congressional district|NY-14]] (2019–present)<ref name=AOCEndorsement>{{cite web|url=https://thehill.com/homenews/house/6019083-ocasio-cortez-declines-hong-endorsement/|title=AOC declines to endorse Hong, says she's focused on 'winning back' Congress|last=Fields|first=Ashleigh|date=August 9, 2026|access-date=August 9, 2026|website=[[The Hill (newspaper)|The Hill]]}}</ref>
+*[[Mark Pocan]], [[Wisconsin's 2nd congressional district|WI-02]] (2013–present)<ref name="Pocan">{{cite web|url=https://www.wispolitics.com/2025/u-s-rep-pocan-endorses-candidates-for-statewide-office-in-2026/|title=U.S. Rep. Pocan: Endorses candidates for statewide office in 2026|date=November 14, 2025|access-date=November 17, 2025|website=[[Wispolitics.com]]}}</ref>
+
+;Organizations
+*[[Democratic Socialists of America]]<ref name=AOCEndorsement/>
+}}
+
+==== Fundraising ====
+''Italics'' indicate a withdrawn candidate
+{| class="wikitable sortable"
+! colspan="4" |Campaign finance reports as of July 15, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+| {{party shading/Democratic}} |''Mandela Barnes (D)''
+|$1,397,005
+|$1,196,887
+|$204,207
+|-
+| {{party shading/Democratic}} |Joel Brennan (D)
+|$1,231,839
+|$872,254
+|$359,583
+|-
+| {{party shading/Democratic}} |David Crowley (D)
+|$1,039,328
+|$724,579
+|$316,178
+|-
+| {{party shading/Democratic}} |Francesca Hong (D)
+|$1,077,568
+|$667,690
+|$410,563
+|-
+| {{party shading/Democratic}} |''Missy Hughes (D)''
+|$613,841
+|$588,052
+|$26,788
+|-
+| {{party shading/Democratic}} |''Sara Rodriguez (D)''
+|$1,180,101
+|$657,178
+|$34,990
+|-
+| {{party shading/Democratic}} |Kelda Roys (D)
+|$882,886
+|$612,361
+|$408,482
+|-
+! colspan="4" |<small>Source:</small> <small>[[Wisconsin Ethics Commission]]</small><ref name="campaignfinance.wi.gov">{{Cite web |title=Sunshine: Wisconsin Campaign Finance |url=https://campaignfinance.wi.gov/browse-data/reports |access-date=January 15, 2026 |website=[[Wisconsin Ethics Commission]]}}</ref>
+|}
+
+====Polling====
+;Aggregate polls
+{|class="wikitable sortable"style="text-align:center;font-size:90%;line-height:17px"
+!Source of poll<br />aggregation
+!Dates<br />administered
+!Dates<br />updated
+!style="width:100px;"|Mandela<br/>Barnes
+!style="width:100px;"|David<br/>Crowley
+!style="width:100px;"|Francesca<br/>Hong
+!style="width:100px;"|Other/<br/>Undecided{{Efn|Calculated by taking the difference of 100% and all other candidates combined.|name=C}}
+!Margin
+|-
+|[[270toWin]]<ref>{{cite web|title=2026 Polls: Wisconsin Governor|url=https://www.270towin.com/2026-governor-polls/wisconsin|access-date=August 10, 2026|publisher=[[270toWin]]}}</ref>
+|July 18 – August 6, 2026<!--Remember that dates listed on 270toWin are poll *publication dates*, not the dates when the polls were *administered*-->
+|August 7, 2026
+|19.0%
+|14.0%
+|{{party shading/Democratic}}|'''42.7%'''
+|23.9%{{Efn|Kelda Roys with 7.5%; Joel Brennan with 4.5%; Sara Rodriguez with 3.0%}}
+|{{party shading/Democratic}}|'''Hong +23.7%'''
+|-
+<!--FiftyPlusOne is hidden because the percentages being displayed currently make no sense, in that they add up to significantly more that 100%|FiftyPlusOne<ref>{{Cite web|title=Wisconsin Democratic Governor Primary|url=https://fiftyplusone.news/polls/governor/democratic-primary/wisconsin|publisher=[[FiftyPlusOne]]|access-date=August 6, 2026}}</ref>
+|through August 5, 2026
+|August 6, 2026
+|21.1%
+|17.0%
+|{{party shading/Democratic}}|'''41.9%'''
+|20.0%{{Efn|Sara Rodriguez with 4%}}
+|{{party shading/Democratic}}|'''Hong +20.8%'''
+|--->|}
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name=Key}}
+! Margin<br />{{nowrap|of error}}
+! style="width:60px"| Mandela<br />Barnes
+! style="width:60px"| Joel<br />Brennan
+! style="width:60px"| David<br />Crowley
+! style="width:60px"| Francesca<br />Hong
+! style="width:60px"| Sara<br />Rodriguez
+! style="width:60px"| Kelda<br />Roys
+! style="width:60px"| Missy<br />Hughes
+! Other
+! Undecided
+|-
+|style="text-align:left;" rowspan="3"|[[State Navigate]]<ref>{{cite web|url=https://statenavigate.org/wp-content/uploads/2026/08/WIDEMPoll2.pdf|title=Wisconsin 2026 Dem Primary Follow-Up|date=August 7, 2026|access-date=August 7, 2026|website=[[State Navigate]]}}</ref>
+|rowspan="3"|August 3–6, 2026
+|rowspan="3"|1,473 (LV)
+|rowspan="3"|±&nbsp;2.3%
+|6%{{efn|name="Lean"|With voters who lean towards a given candidate}}
+|5%
+|22%
+|{{party shading/Democratic}} |'''44%'''
+|3%
+|11%
+|0%
+|{{sdash}}
+|9%
+|-
+|3%{{efn|With voters who lean towards a given candidate and withdrawn-candidate push}}
+|5%
+|24%
+|{{party shading/Democratic}} |'''44%'''
+|3%
+|11%
+|0%
+|{{sdash}}
+|10%
+|-
+|5%
+|5%
+|21%
+|{{party shading/Democratic}} |'''42%'''
+|3%
+|10%
+|0%
+|{{sdash}}
+|14%
+|-
+|style="text-align:left;"|[[Public Policy Polling]] (D)<ref>{{Cite web|url=https://www.wisn.com/article/crowley-campaign-argues-primary-is-closer-than-polls-say-after-michigan-results/73358997|title=Crowley campaign argues primary is closer than polls say after Michigan results|first=Matt|last=Smith|website=[[WISN-TV]]|date=August 5, 2026|access-date=August 6, 2026}}</ref>{{efn-ua|name=Crowley}}
+|August 4–5, 2026
+|753 (LV)
+|{{sdash}}
+|{{sdash}}
+|{{sdash}}
+|24%
+|{{party shading/Democratic}} |'''42%'''
+|{{sdash}}
+|{{sdash}}
+|{{sdash}}
+|{{sdash}}
+|{{sdash}}
+|-
+|- style="background:lightyellow;" 
+| style="border-right-style:hidden; background:lightyellow;" |
+| style="border-right-style:hidden; " | July 30, 2026
+| colspan="11" |Barnes withdraws from the race
+|-
+|style="text-align:left;" rowspan="2"|[[Marquette University Law School|Marquette University]]<ref>{{cite web|url=https://law.marquette.edu/poll/2026/07/29/detailed-results-of-the-marquette-law-school-wisconsin-follow-up-poll-july-22-27-2026/|title=Detailed results of the Marquette Law School Wisconsin Follow-Up Poll-July 22 – 27, 2026|first=Charles|last=Franklin|date=July 29, 2026|access-date=July 29, 2026|website=[[Marquette University Law School]]}}</ref>
+|rowspan="2"|July 22–27, 2026
+|rowspan="2"|407 (RV)
+|rowspan="2"|±&nbsp;6.6%
+|21%{{efn|name="Lean"}}
+|4%
+|11%
+|{{party shading/Democratic}} |'''46%'''
+|{{sdash}}
+|4%
+|{{sdash}}
+|{{sdash}}
+|14%
+|-
+|16%
+|2%
+|7%
+|{{party shading/Democratic}} |'''38%'''
+|{{sdash}}
+|2%
+|{{sdash}}
+|{{sdash}}
+|34%
+|-
+|style="text-align:left;" rowspan="2"|[[State Navigate]]<ref>{{cite web|url=https://statenavigate.org/wp-content/uploads/2026/07/WI_DEM_Primary_July_StateNav_Briefing.pdf|title=Wisconsin 2026 Statewide Poll|date=July 28, 2026|access-date=July 28, 2026|website=[[State Navigate]]}}</ref>{{efn-ua|Poll sponsored by Main Street Action and UpNorthNews}}
+|rowspan="2"|July 23–26, 2026
+|rowspan="2"|1,085 (LV)
+|rowspan="2"|±&nbsp;3.0%
+|14%{{efn|name="Lean"}}
+|4%
+|15%
+|{{party shading/Democratic}} |'''44%'''
+|4%
+|4%
+|1%
+|{{sdash}}
+|13%
+|-
+|13%
+|4%
+|12%
+|{{party shading/Democratic}} |'''42%'''
+|3%
+|4%
+|1%
+|{{sdash}}
+|22%
+|-
+|style="text-align:left;"|[[Public Policy Polling]] (D)<ref>{{Cite tweet |last=Smith |first=Matt |user=mattsmith_news |number=2079962508454924356 |title=Crowley campaign now releasing results of its own internal. Campaign says taken the past 48 hours, results received this AM. Campaign says PPP poll surveyed 708 likely Dem primary voters |date=July 22, 2026 |access-date=July 22, 2026}}</ref><ref name="FiftyPlusOne">{{cite web |title=Wisconsin Democratic Governor Primary |url=https://fiftyplusone.news/polls/governor/democratic-primary/wisconsin |publisher=FiftyPlusOne |access-date=July 22, 2026}}</ref>{{efn-ua|name=Crowley|Poll sponsored by Crowley's campaign}}
+|July 20–22, 2026
+|708 (LV)
+|{{sdash}}
+|15%
+|3%
+|14%
+|{{party shading/Democratic}} |'''35%'''
+|{{sdash}}
+|5%
+|{{sdash}}
+|{{sdash}}
+|28%
+|-
+|style="text-align:left;"|Impact Research (D)<ref>{{Cite tweet |last=Smith |first=Matt |user=mattsmith_news |number=2079971287498145803|title=Latest internal poll conducted for Mandela Barnes campaign. Impact Research poll conducted July 18-20 with 621 likely Dem primary voters |date=July 22, 2026 |access-date=July 22, 2026}}</ref><ref name="FiftyPlusOne"/>{{efn-ua|Poll sponsored by Barnes' campaign}}
+|July 18–20, 2026
+|621 (LV)
+|{{sdash}}
+|26%
+|6%
+|11%
+|{{party shading/Democratic}} |'''39%'''
+|{{sdash}}
+|7%
+|{{sdash}}
+|{{sdash}}
+|11%
+|-
+|style="text-align:left;"|Wedgewood Polls<ref>{{cite web |title=2026 Wisconsin Democratic Gubernatorial Primary: Ballot Test & Crosstabs |url=https://drive.google.com/file/d/1PhHxkIx1sEsrzqbuuTJYWB0ohdBL6rD0/view |publisher=Wedgewood Polls |date=July 21, 2026 |access-date=July 21, 2026}}</ref>
+|July 18–20, 2026
+|505 (LV)
+|±&nbsp;4.4%
+|30%
+|{{sdash}}
+|9%
+|{{party shading/Democratic}} |'''38%'''
+|{{sdash}}
+|{{sdash}}
+|{{sdash}}
+|{{sdash}}
+|23%
+|-
+|- style="background:lightyellow;" 
+| style="border-right-style:hidden; background:lightyellow;" |
+| style="border-right-style:hidden; " | July 18, 2026
+| colspan="11" |Crowley re-enters the race
+|-
+|- style="background:lightyellow;" 
+| style="border-right-style:hidden; background:lightyellow;" |
+| style="border-right-style:hidden; " | July 17, 2026
+| colspan="11" |Rodriguez withdraws from the race
+|-
+|style="text-align:left;" rowspan="2"|[[Marquette University Law School|Marquette University]]<ref name="MarquetteJuly26"/>
+|rowspan="2"|July 8–16, 2026
+|rowspan="2"|430 (RV)
+|rowspan="2"|±&nbsp;6.1%
+|15%
+|2%
+|{{sdash}}
+|{{party shading/Democratic}} |'''26%'''
+|11%
+|1%
+|{{sdash}}
+|{{sdash}}
+|{{party shading/Undecided}} |'''45%'''
+|-
+|18%
+|5%
+|{{sdash}}
+|{{party shading/Democratic}} |'''27%'''
+|{{sdash}}
+|2%
+|{{sdash}}
+|{{sdash}}
+|{{party shading/Undecided}} |'''48%'''
+|-
+|- style="background:lightyellow;" 
+| style="border-right-style:hidden; background:lightyellow;" |
+| style="border-right-style:hidden; " | July 8, 2026
+| colspan="11" |Crowley withdraws from the race, endorses Rodriguez
+|-
+|style="text-align:left;"|Wedgewood Polls<ref name="WedgewoodJuly2026">{{cite web |last=Stanton |first=Andrew |title=Socialist Francesca Hong's Chances of Beating GOP in Wisconsin: Polls |url=https://www.newsweek.com/socialist-francesca-hongs-chances-of-beating-gop-in-wisconsin-polls-12163160 |publisher=[[Newsweek]] |access-date=July 7, 2026 |date=July 6, 2026}}</ref>{{efn-ua|name=Ithmus|Poll sponsored by the Isthmus Political Report, a progressive Wisconsin-based organization.}}
+|July 2–4, 2026
+|413 (LV)
+|±&nbsp;5.3%
+|28%
+|{{sdash}}
+|{{sdash}}
+|{{party shading/Democratic}} |'''30%'''
+|19%
+|{{sdash}}
+|{{sdash}}
+|{{sdash}}
+|23%
+|-
+|style="text-align:left;"|The Public Sentiment Institute<ref name="PSIMay2026">{{Cite web|url=https://tpsiofficial.substack.com/p/new-wisconsin-poll-shows-political?r=5nsjnk&utm_medium|title=New Wisconsin Poll shows political landscape in key battleground state - Generic Ballot, Trump Approval, 2028 Presidential Matchups, etc.|website=The Public Sentiment Institute|date=May 18, 2026 |access-date=May 20, 2026 }}</ref><ref>{{Cite web|url=https://www.newsweek.com/gops-tom-tiffanys-chances-of-beating-barnes-vs-hong-to-flip-wisconsin-11969036|title=NGOP's Tom Tiffany's Chances of Beating Barnes vs. Hong to Flip Wisconsin|website=Newsweek|date=May 19, 2026 |access-date=May 20, 2026}}</ref>{{efn-ua|name=TPSI|Poll sponsored by the Great Lakes Perspective}}
+|May 13–15, 2026
+|880 (RV) <br> 877 (LV)
+|±&nbsp;4.2%
+|{{party shading/Democratic}} |'''24%'''
+|2%
+|8%
+|9%
+|12%
+|{{sdash}}
+|0%
+|8%
+|{{party shading/Undecided}} |'''39%'''
+|-
+|style="text-align:left;"|[[Marquette University Law School|Marquette University]]<ref name="MarquetteMarch2026">{{Cite web|url=https://law.marquette.edu/poll/2026/03/24/detailed-results-of-the-marquette-law-school-wisconsin-poll-march-11-18-2026/ |title=Detailed results of the Marquette Law School Wisconsin Poll-March 11 – 18, 2026 |first=Charles |last=Franklin |website=[[Marquette University Law School]] |date=March 24, 2026 |access-date=March 24, 2026 }}</ref>
+|March 11–18, 2026
+|393 (RV)
+|±&nbsp;6.7%
+|11%
+|{{sdash}}
+|3%
+|{{party shading/Democratic}} |'''14%'''
+|3%
+|1%
+|1%
+|{{sdash}}
+|{{party shading/Undecided}} |'''65%'''
+|-
+|style="text-align:left;" |Patriot Polling (R)<ref name="PatriotMarch2026"/>
+|March 10–16, 2026
+|{{sdash}} (LV)
+|{{sdash}}
+|{{party shading/Democratic}} |'''27%'''
+|{{sdash}}
+|6%
+|18%
+|6%
+|{{sdash}}
+|{{sdash}}
+|colspan="2" {{party shading/Undecided}} |'''43%'''
+|-
+| style="text-align: left;" |[[Marquette University Law School|Marquette University]]<ref name="Franklin 2026">{{Cite web |last=Franklin |first=Charles |date=February 25, 2026 |title=New Marquette Law School Poll finds large majorities of Wisconsin voters undecided on candidates for state Supreme Court, governor |url=https://law.marquette.edu/poll/2026/02/25/mlsp87-release/ |access-date=February 25, 2026 |website=[[Marquette University Law School|Marquette University]]}}</ref>
+|February 11–19, 2026
+|394 (RV)
+|±&nbsp;6.9%
+|10%
+|2%
+|3%
+| {{party shading/Democratic}} |'''11%'''
+|6%
+|1%
+|2%
+|1%{{Efn|Brett Hulsey with 1%}}
+|{{party shading/Undecided}} |'''65%'''
+|-
+| style="text-align: left;" |TIPP Insights (R)<ref>{{Cite news |date=February 17, 2026 |title=League of American Workers Survey — Wisconsin |url=https://tippinsights.com/league-of-american-workers-survey-wisconsin-2/ |access-date=February 18, 2026 |work=TIPP Insights}}</ref>{{efn-ua|name=LoAW}}
+|February 6–12, 2026
+|1,524 (RV)
+|±&nbsp;2.7%
+| {{party shading/Democratic}} |'''28%'''
+|0%
+|7%
+|5%
+|20%
+|2%
+|1%
+|1%{{Efn|Brett Hulsey with 1%}}
+|{{party shading/Undecided}}|'''35%'''
+|-
+|-
+|- style="background:lightyellow;" 
+| style="border-right-style:hidden; background:lightyellow;" |
+| style="border-right-style:hidden; " | December 2, 2025
+| colspan="11" |Barnes enters the race
+|-
+| style="text-align: left;" |[[Marquette University Law School|Marquette University]]<ref name="MUOct2025">{{cite web |last=Franklin |first=Charles |date=October 29, 2025 |title=New Marquette Law School Poll finds large majority of Wisconsin voters not yet tuned in to who is running in major 2026 elections |url=https://law.marquette.edu/poll/2025/10/29/new-marquette-law-school-poll-finds-large-majority-of-wisconsin-voters-not-yet-tuned-in-to-who-is-running-in-major-2026-elections/ |access-date=October 29, 2025 |website=[[Marquette University Law School|Marquette University]]}}</ref>
+|October 15–22, 2025
+|378 (RV)
+|±&nbsp;6.9%
+|{{sdash}}
+|3%
+|{{sdash}}
+| {{party shading/Democratic}} |'''6%'''
+|4%
+|3%
+|2%
+|0%{{efn|Brett Hulsey and Ryan Strnad with 0%}}
+| {{party shading/Undecided}} |'''81%'''
+|}
+
+<!-- = = = don't edit the line below = = = -->
+{{hidden begin|titlestyle=background:#cff|title=Hypothetical polling|contentstyle=border:solid 1px silver; padding:8px; background:var(--background-color-base); color:var(--color-base);}}
+<!-- = = = don't edit the line above = = = -->
+'''with Josh Kaul and Sarah Godlewski'''
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name=Key}}
+! Margin<br />{{nowrap|of error}}
+! style="width:55px"| David<br />Crowley
+! style="width:55px"| Francesca<br />Hong
+! style="width:55px"| Mandela<br />Barnes
+! style="width:55px"| Sara<br />Rodriguez
+! style="width:55px"| Josh<br />Kaul
+! style="width:55px"| Sarah<br />Godlewski
+! Other
+! Undecided
+|-
+|style="text-align:left;" |TIPP Insights (R)<ref name="TIPPNov2025"/>{{efn-ua|name=LoAW}}
+|November 17–21, 2025
+|589 (LV)
+|{{sdash}}
+|6%
+|{{sdash}}
+|{{party shading/Democratic}}|'''21%'''
+|6%
+|8%
+|3%
+|3%{{efn|Kelda Roys with 1%; Missy Hughes with 2%}}
+|{{party shading/Undecided}}|'''52%'''
+|-
+|style="text-align:left;" |Platform Communications<ref name="PCSept2025"/>
+|September 28–30, 2025
+|{{sdash}} (LV)
+|{{sdash}}
+|7%
+|4%
+|{{party shading/Democratic}}|'''16%'''
+|8%
+|7%
+|{{sdash}}
+|19%{{efn|Kelda Roys with 4%; Missy Hughes with 2%; Ben Wikler with 1%; "None of the candidates" with 12%}}
+|{{party shading/Undecided}}|'''39%'''
+|}
+{{hidden end}}
+
+==== Debate and forums ====
+{| class="wikitable" style="text-align:center;"
+|+ 2026 Wisconsin gubernatorial election Democratic primary debate and candidate forums
+|-
+! scope="col" | {{abbr|No.|Number}}
+! scope="col" | Date
+! scope="col" | Host
+! scope="col" | Moderator
+! scope="col" | Link
+! scope="col"| <small>[[Democratic Party (US)|Democratic]]</small>
+! scope="col"| <small>[[Democratic Party (US)|Democratic]]</small>
+! scope="col"| <small>[[Democratic Party (US)|Democratic]]</small>
+! scope="col"| <small>[[Democratic Party (US)|Democratic]]</small>
+! scope="col"| <small>[[Democratic Party (US)|Democratic]]</small>
+! scope="col"| <small>[[Democratic Party (US)|Democratic]]</small>
+! scope="col"| <small>[[Democratic Party (US)|Democratic]]</small>
+|-
+! colspan="5" rowspan="2" |Key:<br>{{Colors|black|#90ff90|&nbsp;P&nbsp;}} <small>Participant&nbsp;</small> {{Colors|black|#FFFFDD|&nbsp;A&nbsp;}} <small>Absent&nbsp;</small> {{Colors|black|#ff9090|&nbsp;N&nbsp;}} <small>Not invited&nbsp;</small> {{Colors|black|#CCFFCC|&nbsp;I&nbsp;}} <small>Invited {{color box|#f0e68c|W}} Withdrawn</small>
+! scope="col" style="background:{{party color|Democratic Party (US)}}"|
+! scope="col" style="background:{{party color|Democratic Party (US)}}"|
+! scope="col" style="background:{{party color|Democratic Party (US)}}"|
+! scope="col" style="background:{{party color|Democratic Party (US)}}"|
+! scope="col" style="background:{{party color|Democratic Party (US)}}"|
+! scope="col" style="background:{{party color|Democratic Party (US)}}"|
+! scope="col" style="background:{{party color|Democratic Party (US)}}"|
+|-
+! scope="col" | [[Mandela Barnes]]
+! scope="col" | [[Joel Brennan]]
+! scope="col" | [[David Crowley (Wisconsin politician)|David Crowley]]
+! scope="col" | [[Francesca Hong]]
+! scope="col" | [[Missy Hughes]]
+! scope="col" | [[Sara Rodriguez]]
+! scope="col" | [[Kelda Roys]]
+|-
+!1
+| style="white-space:nowrap;" | Jan. 21, 2026
+| style="white-space:nowrap;" | Civic Media<br>Main Street Action
+| style="white-space:nowrap;" | Dan Shafer
+| style="white-space:nowrap;" | [https://www.youtube.com/watch?v=1BXSCFq9Vdw YouTube]
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+|-
+!2
+| style="white-space:nowrap;" | Apr. 14, 2026
+| style="white-space:nowrap;" | Citizen Action of Wisconsin
+| style="white-space:nowrap;" | Priscilla Bort<br>Robert Kraig
+| style="white-space:nowrap;" | [https://www.youtube.com/watch?v=-rtFDNEB5_Y YouTube]
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+|-
+!3
+| style="white-space:nowrap;" | Jul. 28, 2026
+| style="white-space:nowrap;" | [[Marquette University]]<br>[[WISN-TV]]
+| style="white-space:nowrap;" | Gerron Jordan<br>Matt Smith
+| style="white-space:nowrap;" | [https://www.youtube.com/watch?v=RHGvHPb46Q0 YouTube]
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{D-W|'''W'''}}
+| {{D-W|'''W'''}}
+| {{Yes|'''P'''}}
+|}
+
+==== Results ====
+[[File:2026 Wisconsin gubernatorial Democratic primary election results map by county.svg|thumb|Primary results by county:
+{{collapsible list
+| title = {{legend|#8da9e2|Crowley}}
+|{{legend|#dee8fb|30–40%}}
+|{{legend|#b4c7ec|40–50%}}
+}}
+{{collapsible list
+| title = {{legend|#d79346|Hong}}
+|{{legend|#f9e1c6|30–40%}}
+|{{legend|#e8ba85|40–50%}}
+}}
+]]
+{{Election box begin no change|title=Democratic primary results<ref name="primaryresults">{{cite web |title=Canvass Results for 2026 Partisan Primary - 8/11/2026 |url=https://elections.wi.gov/sites/default/files/documents/August%202026%20Partisan%20Primary_Summary%20Results.pdf |website=[[Wisconsin Elections Commission]]|date=August 27, 2026}}</ref>}}
+{{Election box winning candidate with party link no change|party=Democratic Party (United States)|candidate=[[David Crowley (Wisconsin politician)|David Crowley]]|votes=315,413|percentage=39.81}}
+{{Election box candidate with party link no change|party=Democratic Party (United States)|candidate=[[Francesca Hong]]|votes=311,740|percentage=39.35}}
+{{Election box candidate with party link no change|party=Democratic Party (United States)|candidate=[[Kelda Roys]]|votes=59,394|percentage=7.50}}
+{{Election box candidate with party link no change|party=Democratic Party (United States)|candidate=[[Joel Brennan]]|votes=37,084|percentage=4.68}}
+{{Election box candidate with party link no change|party=Democratic Party (United States)|candidate=[[Sara Rodriguez]] ''(withdrawn)''|votes=32,674|percentage=4.12}}
+{{Election box candidate with party link no change|party=Democratic Party (United States)|candidate=[[Mandela Barnes]] ''(withdrawn)''|votes=32,435|percentage=4.09}}
+{{Election box candidate with party link no change|party=Democratic Party (United States)|candidate=[[Missy Hughes]] ''(withdrawn)''|votes=3,230|percentage=0.41}}
+{{Election box candidate with party link no change|party=Democratic Party (United States)|candidate=[[Brett Hulsey]] ''(write-in; withdrawn)''|votes=13|percentage=0.00}}
+{{Election box candidate with party link no change|party=Democratic Party (United States)|candidate=Tim Reppen ''(write-in)''|votes=10|percentage=0.00}}
+{{Election box write-in with party link no change|votes=297|percentage=0.04}}
+{{Election box total no change|votes=792,290|percentage=100.0}}
+{{Election box end}}
+
+=== Lieutenant governor ===
+==== Candidates ====
+===== Nominee =====
+*[[Sarah Godlewski]], [[Secretary of State of Wisconsin|Wisconsin Secretary of State]] (2023–present) and candidate for U.S. Senate in [[2022 United States Senate election in Wisconsin|2022]]<ref name=godlewski>{{cite news |work=[[WKOW]] |access-date=August 20, 2025 |url=https://www.wkow.com/news/politics/wisconsin-secretary-of-state-sarah-godlewski-announces-run-for-lieutenant-governor/article_50a049c6-28ae-4dd0-95b5-3cf7571a4f1a.html |author=Thompson, Chad |date=August 20, 2025 |title=Wisconsin Secretary of State Sarah Godlewski announces run for lieutenant governor}}</ref><ref name="LtGovNYT">{{Cite news |last1=Balk |first1=Tim |last2=Browning |first2=Kellen |last3=Bosman |first3=Julie |last4=Bosman |first4=Julie |last5=Bosman |first5=Julie |last6=Bosman |first6=Julie |last7=Bosman |first7=Julie |last8=Bosman |first8=Julie |last9=Wagner |first9=Bayliss |last10=Wagner |first10=Bayliss |last11=Balk |first11=Tim |last12=Soler |first12=Caroline |last13=Soler |first13=Caroline |last14=Simmons |first14=Dan |last15=Simmons |first15=Dan |last16=Simmons |first16=Dan |last17=Simmons |first17=Dan |last18=Simmons |first18=Dan |last19=Simmons |first19=Dan |last20=Reynolds |first20=Evan |last21=Reynolds |first21=Evan |last22=Chiarito |first22=Robert |last23=Chiarito |first23=Robert |last24=Cabreros |first24=Irineo |last25=Cabreros |first25=Irineo |last26=Londoño |first26=Ernesto |last27=Londoño |first27=Ernesto |last28=Londoño |first28=Ernesto |last29=Londoño |first29=Ernesto |last30=Simmons |first30=Dan |display-authors=1 |url=https://www.nytimes.com/interactive/2026/08/11/us/elections/results-wisconsin-lieutenant-governor-primary.html |title=Wisconsin Lieutenant Governor Primary Election Results |work=[[The New York Times]] |date=August 11, 2026 |access-date=August 11, 2026}}</ref>
+
+===== Declined =====
+*[[Sara Rodriguez]], incumbent lieutenant governor (2023–present) ''(ran for governor)''<ref name="Schneider 2025">{{Cite web |title=Wisconsin Lt. Gov. Sara Rodriguez launches gubernatorial bid |url=https://www.politico.com/news/2025/07/25/wisconsin-lt-gov-sara-rodriguez-launches-gubernatorial-bid-00476581 |access-date=July 25, 2025 |date=July 25, 2025 |author=Schneider, Elena |website=[[Politico]]}}</ref>
+
+==== Endorsements ====
+{{Endorsements box
+| title = Sarah Godlewski
+| list =
+;U.S. representatives
+*[[Mark Pocan]], [[Wisconsin's 2nd congressional district|WI-02]] (2013–present)<ref name="Pocan"/>
+
+;Statewide officials
+*[[Barbara Lawton]], former [[lieutenant governor of Wisconsin]] (2003–2011)<ref>{{Cite news |date=August 21, 2025 |title=Godlewski announces lieutenant governor bid, vows to deliver for Wisconsin |url=https://www.wispolitics.com/2025/godlewski-announces-lieutenant-governor-bid-vows-to-deliver-for-wisconsin/ |access-date=August 21, 2025 |work=[[WisPolitics]]}}</ref>
+
+;Local officials
+*[[Eric Genrich]], [[List of mayors of Green Bay, Wisconsin|mayor of Green Bay]] (2019–present)<ref name="Godlewski Mayors" />
+*[[Cavalier Johnson]], [[List of mayors of Milwaukee|mayor of Milwaukee]] (2021–present)<ref name="Godlewski Mayors">{{cite web|url=https://www.wispolitics.com/2025/godlewski-campaign-mayors-from-across-wisconsin-endorse-sarah-godlewski-for-lieutenant-governor/|title=Godlewski campaign: Mayors from across Wisconsin endorse Sarah Godlewski for lieutenant governor|date=September 16, 2025|access-date=July 28, 2026|website=[[WisPolitics]]}}</ref>
+*[[Satya Rhodes-Conway]], [[List of mayors of Madison, Wisconsin|mayor of Madison]] (2019–present)<ref name="Godlewski Mayors"/>
+
+;Labor unions
+*Wisconsin [[AFL-CIO]]<ref>{{cite web|url=https://wisaflcio.org/candidate-endorsements|title=2026 Fall Election Endorsed Candidates|access-date=July 28, 2026}}</ref>
+
+;Organizations
+*[[Fair Wisconsin]]<ref>{{cite web|url=https://fairwisconsin.com/fair-wisconsin-pac-issues-endorsements-in-state-constitutional-offices/|title=Fair Wisconsin PAC Issues Endorsements in State Constitutional Offices|date=June 25, 2026|access-date=July 28, 2026}}</ref>
+}}
+
+==== Fundraising ====
+{| class="wikitable sortable"
+! colspan="4" |Campaign finance reports as of July 15, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+| {{party shading/Democratic}} |Sarah Godlewski (D)
+|$292,267
+|$230,391
+|$77,917
+|-
+! colspan="4" |<small>Source:</small> <small>[[Wisconsin Ethics Commission]]</small><ref name="campaignfinance.wi.gov"/>
+|}
+
+==== Results ====
+{{Election box begin no change|title=Democratic primary results<ref name="primaryresults"/>}}
+{{Election box winning candidate with party link no change|party=Democratic Party (United States)|candidate=[[Sarah Godlewski]]|votes=661,675|percentage=99.57}}
+{{Election box write-in with party link no change|votes=2,853|percentage=0.43}}
+{{Election box total no change|votes=664,528|percentage=100.0}}
+{{Election box end}}
+
+== Republican primary ==
+
+Tom Tiffany, a member of the [[House Freedom Caucus]], was expected to obtain the nomination without meaningful challenge.<ref>{{cite web | title=Wisconsin's Democratic showdown between Francesca Hong and David Crowley and more races to watch today - CBS News | website=[[CBS News]] | date=August 11, 2026 | url=https://www.cbsnews.com/news/wisconsin-governor-democratic-primary-francesca-hong-david-crowley-minnesota-graham/ }}</ref> Tiffany received an endorsement from Donald Trump, who Tiffany believes may have won the 2020 presidential election.<ref name=KremerWPR>{{cite web | title=As the Democratic primary heats up, Republican Tom Tiffany has campaigned for governor on his own terms | date=July 20, 2026 | url=https://www.wpr.org/news/republican-tom-tiffany-campaign-wisconsin-governor-primary-2026 }}</ref> As a member of the federal House, Tiffany objected to the certification of Pennsylvania's and Arizona's electoral results on January 6, 2021, and was prevented from objecting to Wisconsin's electoral results because the [[January 6 attack|Capitol building was stormed by pro-Trump insurgents]].<ref name=KremerWPR /> He has kept mention of Trump to a minimum during his primary campaign.<ref name=KremerWPR />
+
+=== Governor ===
+==== Candidates ====
+===== Nominee =====
+*[[Tom Tiffany]], U.S. representative for {{ushr|WI|7}} (2020–present)<ref>{{cite news |last1=Andrea |first1=Lawrence |title=U.S. Rep. Tom Tiffany enters the 2026 race for Wisconsin governor, 3rd Republican in the field |url=https://www.jsonline.com/story/news/politics/2025/09/23/u-s-rep-tom-tiffany-enters-the-2026-race-for-wisconsin-governor/85375533007/ |access-date=September 23, 2025 |work=[[Milwaukee Journal Sentinel]] |date=September 23, 2025 }}</ref><ref name=GovPrimaryNYT>{{Cite news |last1=Balk |first1=Tim |last2=Browning |first2=Kellen |last3=Bosman |first3=Julie |last4=Bosman |first4=Julie |last5=Bosman |first5=Julie |last6=Bosman |first6=Julie |last7=Bosman |first7=Julie |last8=Bosman |first8=Julie |last9=Wagner |first9=Bayliss |last10=Wagner |first10=Bayliss |last11=Balk |first11=Tim |last12=Soler |first12=Caroline |last13=Soler |first13=Caroline |last14=Simmons |first14=Dan |last15=Simmons |first15=Dan |last16=Simmons |first16=Dan |last17=Simmons |first17=Dan |last18=Simmons |first18=Dan |last19=Simmons |first19=Dan |last20=Reynolds |first20=Evan |last21=Reynolds |first21=Evan |last22=Chiarito |first22=Robert |last23=Chiarito |first23=Robert |last24=Cabreros |first24=Irineo |last25=Cabreros |first25=Irineo |last26=Londoño |first26=Ernesto |last27=Londoño |first27=Ernesto |last28=Londoño |first28=Ernesto |last29=Londoño |first29=Ernesto |last30=Simmons |first30=Dan |display-authors=1 |url=https://www.nytimes.com/interactive/2026/08/11/us/elections/results-wisconsin-primary.html |title=Wisconsin Governor Primary Election Results |work=[[The New York Times]] |date=August 11, 2026 |access-date=August 11, 2026}}</ref>
+
+===== Eliminated in primary =====
+*Andy Manske, medical service technician<ref>{{Cite news |last=McGroarty |first=Erin |date=October 7, 2025 |title=Wisconsin governor candidates: How can any of 11 stand out? |url=https://captimes.com/news/elections/wisconsin-governor-candidates-how-can-any-of-11-stand-out/article_aa319ff2-97fd-49d9-9c16-5f4cdf9b4918.html |access-date=October 7, 2025 |work=[[The Cap Times]]}}</ref>
+
+===== Withdrawn =====
+*Bill Berrien, manufacturing executive<ref>{{cite news |title=Wisconsin Republican Bill Berrien quits governor's race amid controversy over following explicit accounts|url=https://www.tmj4.com/news/state-capitol/republican-manufacturer-bill-berrien-drops-out-of-race-for-governor |access-date=September 26, 2025 |work=[[WTMJ-TV]] |date=September 26, 2025 |language=en|url-status=live|archive-date=27 September 2025|archive-url=https://web.archive.org/web/20250927103534/https://www.tmj4.com/news/state-capitol/republican-manufacturer-bill-berrien-drops-out-of-race-for-governor}}</ref>
+*Josh Schoemann, [[Washington County, Wisconsin|Washington County]] Executive (2020–present)<ref>{{cite news |last1=Beck |first1=Molly |title= Republican Josh Schoemann drops out of Wisconsin governor race |url= https://www.jsonline.com/story/news/politics/2026/01/28/republican-josh-schoemann-drops-out-of-wisconsin-governor-race/88396337007/ |access-date=January 28, 2026 |work=[[Milwaukee Journal Sentinel]] |date=January 28, 2026}}</ref>
+
+===== Declined =====
+*Rohn W. Bishop, mayor of [[Waupun, Wisconsin]] (2022&ndash;present)<ref>{{cite news|url=https://waupunpioneer.com/2026/03/05/waupun-mayor-rohn-bishop-decides-against-joining-wisconsin-gubernatorial-race/ |title=Waupun Mayor Rohn Bishop decides against joining Wisconsin gubernatorial race |access-date=March 26, 2026 |work=Waupun Pioneer News |date=March 5, 2026}}</ref>
+*Eric Hovde, bank executive, nominee for U.S. Senate in [[2024 United States Senate election in Wisconsin|2024]] and candidate in [[2012 United States Senate election in Wisconsin|2012]]<ref>{{Cite web |last=Tornabene |first=Juliana |date=December 17, 2025 |title=Eric Hovde will not run for Wisconsin governor |url=https://www.wmtv15news.com/2025/12/17/eric-hovde-will-not-run-wisconsin-governor/ |access-date=December 17, 2025 |website=WMTV 15 News |language=en}}</ref>
+*[[Ron Johnson]], [[United States Senate|U.S. senator]] (2011–present)<ref>{{Cite web |last=Nir |first=David |date=July 25, 2025 |title=Morning Digest: Tony Evers announces he won't run for a third term |url=https://www.the-downballot.com/p/morning-digest-tony-evers-announces |access-date=July 25, 2025 |website=The Downballot |language=en}}</ref>
+*[[Mary Felzkowski]], president of the [[Wisconsin Senate]] (2025–present) from the [[Wisconsin's 12th Senate district|12th district]] (2021–present)<ref>{{cite web|url=https://www.the-downballot.com/i/172737183/wi-gov|title=Morning Digest: Suddenly, Maine has a three-way Senate primary|last1=Nir|last2=Singer|first1=David|first2=Jeff|date=September 4, 2025|access-date=September 4, 2025|work=The Downballot}}</ref>
+*Bill McCoshen, [[WTMJ-TV]] host and owner of the [[Janesville Jets]]<ref>{{Cite web |last=Walters |first=Steven |date=August 1, 2024 |title=Who might run for Wisconsin governor in 2026? |url=https://isthmus.com/news/cover-story/who-might-run-for-wisconsin-governor-in-2026/ |access-date=August 29, 2024 |website=[[Isthmus (newspaper)|Isthmus]] |language=en-us}}</ref>
+*Tim Michels, co-owner of the [[Michels Corporation]], nominee for governor in [[2022 Wisconsin gubernatorial election|2022]] and U.S. Senate in [[2004 United States Senate election in Wisconsin|2004]]<ref name="TE">{{Cite news|url=https://pro.stateaffairs.com/wi/pm-update/wed-pm-update-trump-endorsement-boosts-tiffany-as-schoemann-drops-out|title=Wed PM Update: Trump endorsement boosts Tiffany as Schoemann drops out|access-date=January 30, 2026|work=[[WisPolitics]] - State Affairs Pro-Wisconsin}}</ref>
+*Matt Neumann, business owner<ref name="TE" />
+*[[Bryan Steil]], U.S. representative for {{ushr|WI|1}} (2019–present)<ref>{{Cite news |last1=Beck |first1=Molly |last2=Andrea |first2=Lawrence |date=January 14, 2025 |title=Republican challengers start to line up as Gov. Tony Evers considers 2026 run for 3rd term |url=https://www.jsonline.com/story/news/politics/2025/01/14/wisconsin-gov-tony-evers-signals-interest-seeking-third-term-in-2026/77517301007/ |access-date=March 6, 2025 |work=[[Milwaukee Journal Sentinel]] }}</ref> ''([[2026 United States House of Representatives elections in Wisconsin#District 1|running for re-election]]; endorsed Tiffany)''<ref>{{Cite AV media |url=https://www.youtube.com/watch?v=0GbkMDGGIt8 |title=Rep Bryan Steil expresses his support for Trump's agenda at Town Hall July 31, 2025 |date=August 1, 2025 |author=Bird, LuAnn |quote=I'm gonna be running for reelection to the House |access-date=August 2, 2025 |via=[[YouTube]]}}</ref><ref name=SteilJan>{{cite web |date=December 19, 2025 |title=Tiffany campaign: Congressman Bryan Steil endorses Tom Tiffany's gubernatorial run |url=https://www.wispolitics.com/2025/tiffany-campaign-congressman-bryan-steil-endorses-tom-tiffanys-gubernatorial-run/|access-date=December 22, 2025 |website=WisPolitics}}</ref>
+*[[Tommy Thompson]], former governor (1987–2001), former [[United States Secretary of Health and Human Services|U.S. Secretary of Health and Human Services]] (2001–2005), and nominee for [[United States Senate|U.S. Senate]] in [[2012 United States Senate election in Wisconsin|2012]]<ref>{{Cite news |date=May 8, 2026 |title=Thompson passes on gubernatorial bid, endorses Tiffany |url=https://www.wispolitics.com/2026/thompson-passes-on-gubernatorial-bid-endorses-tiffany/ |access-date=May 9, 2026 |work=[[WisPolitics]]}}</ref> ''(endorsed Tiffany)''<ref name="Thompson">{{Cite news |last=Johnson |first=Shawn |date=May 8, 2026 |title=Tommy Thompson endorses Tom Tiffany's bid for Wisconsin governor |url=https://www.wpr.org/news/tommy-thompson-endorses-tom-tiffany-wisconsin-governor |access-date=May 9, 2026 |work=[[Wisconsin Public Radio]]}}</ref>
+*[[Scott Walker (politician)|Scott Walker]], former governor (2011–2019)<ref>{{Cite web |last=Schmitz |first=Sam |date=July 27, 2025 |title=Scott Walker says he will not run for Wisconsin Governor in 2026 |url=https://www.wisn.com/article/scott-walker-says-he-will-not-run-for-wisconsin-governor-in-2026/65521561 |access-date=July 27, 2025 |website=[[WISN-TV]] |language=en}}</ref>
+
+==== Endorsements ====
+{{Endorsements box
+| title = Tom Tiffany 
+| columns = yes
+| list =
+;Executive branch officials
+*[[Tommy Thompson]], former [[United States Secretary of Health and Human Services|secretary of health and human services]] (2001–2005) and former governor (1987–2001)<ref name="Thompson" />
+*[[Donald Trump]], [[president of the United States]] (2017–2021, 2025–present)<ref name="Opoien 2026">{{cite web |last1=Opoien |first1=Jessie |title=Donald Trump endorses Tom Tiffany in Wisconsin governor race |url=https://www.jsonline.com/story/news/politics/2026/01/27/donald-triump-endorses-tom-tiffany-in-wisconsin-governor-race/88388133007/ |website=Journal Sentinel |date=January 27, 2026 |access-date=January 28, 2026}}</ref>
+*[[JD Vance]], [[vice-president of the United States]] (2025–present)<ref name="WPR_JDVANCE">{{cite web |last1=Kremer |first1=Richard |title=JD Vance stumps for Derrick Van Orden, Tom Tiffany in Wisconsin campaign event |url=https://www.wpr.org/news/jd-vance-derrick-van-orden-tom-tiffany-plover |website=Wisconsin Public Radio |date=February 26, 2026 |access-date=May 11, 2026}}</ref>
+
+;U.S. representatives
+*[[Tom Emmer]], [[House Majority Whip]] (2023–present) from [[Minnesota's 6th congressional district|MN-06]] (2015–present)<ref>{{cite web |date=November 4, 2025 |title= Tiffany campaign: House Majority Whip Tom Emmer endorses Tom Tiffany's gubernatorial run |url= https://www.wispolitics.com/2025/tiffany-campaign-house-majority-whip-tom-emmer-endorses-tom-tiffanys-gubernatorial-run/ |access-date=November 27, 2025 |website=WisPolitics}}</ref>
+*[[Scott Fitzgerald (politician)|Scott Fitzgerald]], {{ushr|WI|5|WI-05}} (2021–present)<ref>{{cite web |date=September 30, 2025 |title=Tiffany campaign: Congressman Scott Fitzgerald endorses Tom Tiffany's campaign for governor |url=https://www.wispolitics.com/2025/tiffany-campaign-congressman-scott-fitzgerald-endorses-tom-tiffanys-campaign-for-governor/ |access-date=September 30, 2025 |website=WisPolitics}}</ref>
+*[[Glenn Grothman]], {{ushr|WI|6|WI-06}} (2015–present)<ref>{{cite web |date=October 3, 2025 |title=Tiffany campaign: Congressman Glenn Grothman officially endorses Tiffany's run for governor|url=https://www.wispolitics.com/2025/tiffany-campaign-congressman-glenn-grothman-officially-endorses-tiffanys-run-for-governor/|access-date=October 3, 2025 |website=WisPolitics}}</ref>
+*[[Harriet Hageman]], {{ushr|WY|AL|WY-AL}} (2023–present)<ref>{{cite web |date=October 30, 2025 |title=Tiffany campaign: Congresswoman Harriet Hageman endorses Tom Tiffany's gubernatorial run |url=https://www.wispolitics.com/2025/tiffany-campaign-congresswoman-harriet-hageman-endorses-tom-tiffanys-gubernatorial-run/|access-date=October 31, 2025 |website=WisPolitics}}</ref>
+*[[Jim Jordan]], {{ushr|OH|4|OH-04}} (2007–present)<ref>{{cite web |date=October 13, 2025 |title=Tiffany campaign: Chairman Jim Jordan officially endorses Tiffany's run for governor|url=https://www.wispolitics.com/2025/tiffany-campaign-chairman-jim-jordan-endorses-tom-tiffanys-run-for-governor//|access-date=October 13, 2025 |website=WisPolitics}}</ref>
+*[[Troy Nehls]], {{ushr|TX|22|TX-22}} (2021–present)<ref>{{cite web |date=October 8, 2025 |title=Tiffany campaign: Congressman Troy Nehls and family endorse Tiffany's run for governor|url=https://www.wispolitics.com/2025/tiffany-campaign-congressman-troy-nehls-and-family-endorse-tiffanys-run-for-governor/|access-date=October 9, 2025 |website=WisPolitics}}</ref>
+*[[Bryan Steil]], {{ushr|WI|1|WI-01}} (2019–present)<ref name=SteilJan/>
+*[[Derrick Van Orden]], {{ushr|WI|3|WI-03}} (2023–present)<ref>{{cite web |date=October 16, 2025 |title=Tiffany campaign: Tiffany campaign: Congressman Derrick Van Orden endorses Tom Tiffany's gubernatorial run |url=https://www.wispolitics.com/2025/tiffany-campaign-congressman-derrick-van-orden-endorses-tom-tiffanys-gubernatorial-run/|access-date=October 18, 2025 |website=WisPolitics}}</ref>
+*[[Tony Wied]], {{ushr|WI|8|WI-08}} (2024–present)<ref>{{cite web |date=September 25, 2025 |title=Tiffany campaign: Congressman Tony Wied formally endorses Tom Tiffany for governor |url=https://www.wispolitics.com/2025/tiffany-campaign-congressman-tony-wied-formally-endorses-tom-tiffany-for-governor/ |access-date=September 25, 2025 |website=WisPolitics}}</ref>
+
+;State officials 
+*[[Kelly Armstrong]], [[governor of North Dakota]] (2024–present)<ref>{{cite web |date=January 6, 2026 |title= Tiffany campaign: Governor Kelly Armstrong endorses Tom Tiffany for Governor of Wisconsin
+ |url=https://www.wispolitics.com/2026/tiffany-campaign-governor-kelly-armstrong-endorses-tom-tiffany-for-governor-of-wisconsin/|access-date=January 6, 2026 |website=WisPolitics}}</ref>
+
+;State Legislators
+*[[Angie Sapik]] former [[Wisconsin State Assembly|state representative]] from the [[Wisconsin's 73rd Assembly district|73rd district]] (2023–2025)<ref name="Opoien 2026"/>
+
+;Municipal officials
+*21 county sheriffs{{efn|
+*[[Chippewa County, Wisconsin|Chippewa County]]
+*[[Clark County, Wisconsin|Clark County]]
+*[[Lincoln County, Wisconsin|Lincoln County]]
+*[[Marathon County, Wisconsin|Marathon County]]
+*[[Oneida County, Wisconsin|Oneida County]]
+*[[Polk County, Wisconsin|Polk County]]
+*[[Price County, Wisconsin|Price County]]
+*[[Rusk County, Wisconsin|Rusk County]]
+*[[Shawano County, Wisconsin|Shawano County]]
+*[[St. Croix County, Wisconsin|St. Croix County]]
+*[[Forest County, Wisconsin|Forest County]]
+*[[Langlade County, Wisconsin|Langlade County]]
+*[[Monroe County, Wisconsin|Monroe County]]
+*[[Oconto County, Wisconsin|Oconto County]]
+*[[Washburn County, Wisconsin|Washburn County]]
+*[[Pierce County, Wisconsin|Pierce County]]
+*[[Sauk County, Wisconsin|Sauk County]]
+*[[Taylor County, Wisconsin|Taylor County]]
+*[[Waukesha County, Wisconsin|Waukesha County]]
+*[[Waupaca County, Wisconsin|Waupaca County]]
+*[[Wood County, Wisconsin|Wood County]]
+}}<ref>{{cite web |date=November 19, 2025 |title=Tiffany campaign: Ten Wisconsin Sheriffs endorse Tom Tiffany's gubernatorial run
+|url=https://www.wispolitics.com/2026/tiffany-campaign-three-additional-wisconsin-sheriffs-endorse-tom-tiffany-for-governor/|access-date=January 14, 2026 |website=WisPolitics}}</ref><ref>{{cite web |date=January 13, 2026 |title=Tiffany campaign: Three additional Wisconsin sheriffs endorse Tom Tiffany for Governor
+|url=https://www.wispolitics.com/2025/tiffany-campaign-ten-wisconsin-sheriffs-endorse-tom-tiffanys-gubernatorial-run/|access-date=November 19, 2025 |website=WisPolitics}}</ref><ref>{{cite web |date=December 4, 2025 |title=Tiffany campaign: Five more Wisconsin sheriffs endorse Tom Tiffany's gubernatorial run
+|url=https://www.wispolitics.com/2025/tiffany-campaign-five-more-wisconsin-sheriffs-endorse-tom-tiffanys-gubernatorial-run/|access-date=December 4, 2025 |website=WisPolitics}}</ref><ref>{{cite web |date=December 10, 2025 |title=Tiffany campaign: Tiffany campaign: Five additional sheriffs back Tom Tiffany's bid for governor
+|url=https://www.wispolitics.com/2025/tiffany-campaign-five-additional-sheriffs-back-tom-tiffanys-bid-for-governor/|access-date=December 10, 2025 |website=WisPolitics}}</ref>
+
+;Labor unions
+*Kenosha Professional Police Association<ref>{{cite web |date=December 22, 2025 |title=Tiffany campaign: Kenosha Professional Police Association endorses Tom Tiffany for Governor of Wisconsin
+|url=https://www.wispolitics.com/2025/tiffany-campaign-kenosha-professional-police-association-endorses-tom-tiffany-for-governor-of-wisconsin/|access-date=December 29, 2025 |website=WisPolitics}}</ref>
+*Milwaukee Police Association<ref>{{cite web |date=October 8, 2025 |title=Tiffany campaign: Milwaukee Police Association endorses Tom Tiffany for governor of Wisconsin|url=https://www.wispolitics.com/2025/tiffany-campaign-milwaukee-police-association-endorses-tom-tiffany-for-governor-of-wisconsin/|access-date=November 12, 2025 |website=WisPolitics}}</ref>
+
+;Organizations
+*[[Americans for Prosperity]] Wisconsin<ref name="AFPTiffany">{{cite web |title=AFP-Wisconsin: Endorses Tom Tiffany in high-stakes governor's race |url=https://www.wispolitics.com/2026/afp-wisconsin-endorses-tom-tiffany-in-high-stakes-governors-race/ |website=WisPolitics |date=February 19, 2026 |access-date=February 20, 2026}}</ref>
+*[[College Republicans]] of America<ref>{{Cite tweet |title=Tiffany 2026 |user=Uscollegegop |number=1937997589674164575}}</ref>
+*[[Republican Party of Wisconsin]]<ref>{{cite web |date=May 16, 2026 |title=State GOP formally endorses Tiffany, who vows to 'bring common sense' back to Madison
+|url=https://www.wispolitics.com/2026/state-gop-formally-endorses-tiffany-who-vows-to-bring-common-sense-back-to-madison/|access-date=May 22, 2026 |website=WisPolitics}}</ref>
+*[[Turning Point Action]]<ref>{{Cite tweet |title=Endorsement Alert |user=TomTiffanyWI|number=1937997589674164575 }}</ref>
+*Wisconsin [[College Republicans]]<ref>{{Cite tweet |title=Tiffany 2026 |user=WICRs |number=1937997589674164575}}</ref>
+*Wisconsin [[American Farm Bureau Federation|Farm Bureau Federation]] Volunteers for Agriculture<ref>{{cite web|url=https://www.wispolitics.com/2026/wisconsin-farm-bureau-federation-volunteers-for-agriculture-endorse-tom-tiffany-for-governor/|title=Wisconsin Farm Bureau Federation: Volunteers for Agriculture® endorse Tom Tiffany for Governor|date=June 29, 2026|access-date=July 28, 2026|website=[[WisPolitics]]}}</ref>
+*Wisconsin [[Young Republicans]]<ref>{{Cite tweet |title=Endorsement Alert |user=WIYRs |number=20250708121243 |date=July 8, 2025}}</ref>
+}}
+
+==== Fundraising ====
+{| class="wikitable sortable"
+! colspan="4" |Campaign finance reports as of December 31, 2025
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+| {{party shading/Republican}} |Andy Manske (R)
+|$1,484
+|$114
+|$1,370
+|-
+| {{party shading/Republican}} |Tom Tiffany (R)
+|$10,842,318
+|$7,854,693
+|$2,998,334
+|-
+! colspan="4" |<small>Source:</small> <small>[[Wisconsin Ethics Commission]]</small><ref name="campaignfinance.wi.gov"/>
+|}
+
+====Polling====
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name=Key|Key:<br />A – all adults<br />RV – registered voters<br />LV – likely voters<br />V – unclear}}
+! Margin<br />of error
+! style="width:65px"| Bill<br />Berrien
+! style="width:65px" |Andy<br />Manske
+! style="width:65px" |Josh<br />Schoemann
+! style="width:65px" |Tom<br />Tiffany
+! Other
+! Undecided
+|-
+|style="text-align:left;"|[[Marquette University Law School|Marquette University]]<ref name="MarquetteJuly26"/>
+|July 8–16, 2026
+|399 (RV)
+|±&nbsp;6.5%
+|{{sdash}}
+|2%
+|{{sdash}}
+|{{party shading/Republican}}|'''67%'''
+|{{sdash}}
+|30%
+|-
+|style="text-align:left;"|[[Marquette University Law School|Marquette University]]<ref name="MarquetteMarch2026" />
+|March 11–18, 2026
+|396 (RV)
+|±&nbsp;6.3%
+|{{sdash}}
+|6%
+|{{sdash}}
+|{{party shading/Republican}}|'''40%'''
+|0%{{efn|"Refused" with 0%}}
+|{{party shading/Undecided}}|'''54%'''
+|-
+|style="text-align:left;" |Patriot Polling (R)<ref name="PatriotMarch2026"/>
+|March 10–16, 2026
+|{{sdash}} (LV)
+|{{sdash}}
+|{{sdash}}
+|8%
+|{{sdash}}
+|{{party shading/Republican}}|'''65%'''
+|colspan="2"|27%
+|-
+| style="text-align: left;" |[[Marquette University Law School|Marquette University]]<ref name="Franklin 2026" />
+|February 11–19, 2026
+|371 (RV)
+|±&nbsp;6.4%
+|{{sdash}}
+|2%
+|{{sdash}}
+|{{party shading/Republican}}|'''35%'''
+|{{sdash}}
+|{{party shading/Undecided}}|'''63%'''
+|-
+|-
+|- style="background:lightyellow;" 
+| style="border-right-style:hidden; background:lightyellow;" |
+| style="border-right-style:hidden; " | January 28, 2026
+| colspan="8" |Schoemann withdraws from the race
+|-
+|style="text-align:left;" |[[Marquette University Law School|Marquette University]]<ref name="MUOct2025"/>
+|October 15–22, 2025
+|406 (RV)
+|±&nbsp;6.9%
+|{{sdash}}
+|0%
+|6%
+|{{party shading/Republican}}|'''23%'''
+|{{sdash}}
+|{{party shading/Undecided}}|'''70%'''
+|-
+|- style="background:lightyellow;" 
+| style="border-right-style:hidden; background:lightyellow;" |
+| style="border-right-style:hidden; " | September 26, 2025
+| colspan="8" |Berrien withdraws from the race
+|-
+| style="text-align: left;" |Fabrizio, Lee & Associates (R)<ref name="Frabrizio">{{Cite web|url=https://dailycaller.com/2025/08/14/tom-tiffany-wisconsin-governor-race-poll/|title=Clear GOP Frontrunner Emerges For Wide Open Governor Race, Polling Shows|website=[[The Daily Caller]]|date=August 14, 2025|access-date=August 14, 2025}}</ref>
+|July 28–31, 2025
+|600 (LV)
+|±&nbsp;4.0%
+|10%
+|{{sdash}}
+|13%
+| {{party shading/Republican}} |'''40%'''
+|{{sdash}}
+|37%
+|}
+
+{{hidden begin|titlestyle=background:#cff|title=Hypothetical polling|contentstyle=border:solid 1px silver; padding:8px; background:var(--background-color-base); color:var(--color-base);}}
+<!-- = = = don't edit the line above = = = -->
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name=Key}}
+! Margin<br />of error
+! style="width:65px"| Eric<br />Hovde
+! style="width:65px"| Josh<br />Schoemann
+! style="width:65px"| Mary<br /> Felzkowski
+! style="width:65px"| Tim<br />Michels
+! style="width:65px"| Tom<br />Tiffany
+! Other
+! Undecided
+|-
+|style="text-align:left;" |TIPP Insights (R)<ref name="TIPPNov2025">{{Cite web|url=https://tippinsights.com/league-of-american-workers-survey-wisconsin/|title=League of American Workers Survey — Wisconsin|website=tippinsights|date=November 25, 2025|access-date=November 26, 2025}}</ref>{{efn-ua|name=LoAW|Poll sponsored by the League of American Workers, a conservative advocacy group founded by [[Steve Cortes]], former senior advisor to President [[Donald Trump]].}}
+|November 17–21, 2025
+|586 (LV)
+|{{sdash}}
+|{{party shading/Republican}}|'''25%'''
+|5%
+|{{sdash}}
+|12%
+|17%
+|2%{{efn|Kevin Nicholson with 2%}}
+|{{party shading/Undecided}}|'''37%'''
+|-
+|style="text-align:left;" |Platform Communications<ref name="PCSept2025">{{Cite web|url=https://www.fox6now.com/news/wisconsin-governor-race-badger-battleground-poll-offers-early-look|title=Wisconsin governor race: Badger Battleground poll offers early look|website=[[WITI (TV)|Fox6 Milwaukee]]|date=October 5, 2025|access-date=October 5, 2025}}</ref>
+|September 28–30, 2025
+|{{sdash}} (LV)
+|{{sdash}}
+|14%
+|4%
+|1%
+|9%
+|{{party shading/Republican}}|'''30%'''
+|9%{{efn|"None of the candidates" with 9%}}
+|{{party shading/Undecided}}|'''33%'''
+|}
+{{hidden end}}
+
+==== Results ====
+{{Election box begin no change|title=Republican primary results<ref name="primaryresults"/>}}
+{{Election box winning candidate with party link no change|party=Republican Party (United States)|candidate=[[Tom Tiffany]]|votes=468,019|percentage=95.32}}
+{{Election box candidate with party link no change|party=Republican Party (United States)|candidate=Andy Manske|votes=22,573|percentage=4.60}}
+{{Election box candidate with party link no change|party=Republican Party (United States)|candidate=Dennis Williams ''(write-in)''|votes=17|percentage=0.00}}
+{{Election box write-in with party link no change|votes=404|percentage=0.08}}
+{{Election box total no change|votes=491,013|percentage=100.0}}
+{{Election box end}}
+
+=== Lieutenant governor ===
+==== Candidates ====
+===== Nominee =====
+*David Varnam, former mayor of [[Lancaster, Wisconsin|Lancaster]] (2016–2022) and candidate for lieutenant governor in [[2022 Wisconsin gubernatorial election#Republican primary|2022]]<ref>{{cite news |work=Telegraph Herald |access-date=September 26, 2025 |url=https://www.telegraphherald.com/news/tri-state/article_8b75b5e0-4e8b-4d8e-ac5e-6b1ab23ad36a.html |author=Strzalka, Konrad |date=September 26, 2025 |title=Former Lancaster mayor enters Wisconsin lieutenant governor's race}}</ref><ref name="LtGovNYT"/>
+
+===== Eliminated in primary =====
+*Will Martin, former director of strategic workforce initiatives for the [[Wisconsin Department of Workforce Development]] and candidate for lieutenant governor in [[2022 Wisconsin gubernatorial election#Republican primary|2022]]<ref>{{cite web |last1=Dahmer |first1=David |title=Small business owner Will Martin announces campaign for lieutenant governor of Wisconsin |url=https://madison365.com/small-business-owner-will-martin-announces-campaign-for-lieutenant-governor-of-wisconsin/ |access-date=October 20, 2025 |work=[[Madison365]] |date=October 20, 2025}}</ref>
+
+===== Withdrawn =====
+*Nick Polce, business owner and candidate for [[Wisconsin's 1st congressional district]] in [[2018 United States House of Representatives elections in Wisconsin#District 1|2018]] ''([[2026 Wisconsin Senate election|ran for state senate]])''<ref>{{Cite news |date=April 25, 2026 |title=Polce campaign: US Army Green Beret veteran suspends lieutenant governor campaign, announces candidacy for Wisconsin State Senate District 11 to serve his home community |url=https://www.wispolitics.com/2026/polce-campaign-us-army-green-beret-veteran-suspends-lieutenant-governor-campaign-announces-candidacy-for-wisconsin-state-senate-district-11-to-serve-his-home-community/ |access-date=April 25, 2026 |work=[[WisPolitics]]}}</ref>
+
+===== Did not file =====
+*Cyril Sablich, college student
+*John Totz, [[Oakfield, Wisconsin|Oakfield]] school board member
+
+==== Endorsements ====
+{{Endorsements box
+| title = Will Martin
+| list =
+;Organizations
+*[[Republican Party of Wisconsin]]<ref>{{cite web|url=https://www.wispolitics.com/2026/gop-activists-endorse-martin-for-lg-toney-for-ag-leiber-for-treasurer-pollnow-for-secretary-of-state/|title=GOP activists endorse Martin for LG, Toney for AG, Leiber for treasurer, Pollnow for secretary of state|date=May 16, 2026|access-date=July 28, 2026|website=[[WisPolitics]]}}</ref>
+}}
+{{Endorsements box
+| title = David Varnam
+| list =
+;U.S. representatives
+*[[Derrick Van Orden]], {{ushr|WI|3|WI-03}} (2023–present)<ref>{{cite web|url=https://www.wispolitics.com/2025/varnam-campaign-congressman-derrick-van-orden-endorses-former-lancaster-mayor-david-varnam-for-lieutenant-governor-of-wisconsin/|title=Varnam campaign: Congressman Derrick Van Orden endorses former Lancaster Mayor David Varnam for Lieutenant Governor of Wisconsin|date=December 1, 2026|access-date=July 28, 2026|website=[[WisPolitics]]}}</ref>
+}}
+
+==== Fundraising ====
+{| class="wikitable sortable"
+! colspan="4" |Campaign finance reports as of July 15, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+| {{party shading/Republican}} |Will Martin (R)
+|$225,842
+|$72,031
+|$153,811
+|-
+| {{party shading/Republican}} |David Varnam (R)
+|$66,529
+|$54,748
+|$12,892
+|-
+! colspan="4" |<small>Source:</small> <small>[[Wisconsin Ethics Commission]]</small><ref name="campaignfinance.wi.gov"/>
+|}
+
+==== Results ====
+[[File:2026 Wisconsin Republican lieutenant gubernatorial primary election results map by county.svg|thumb|Primary results by county:
+{{collapsible list
+| title = {{legend|#E27F7F|Varnam}}
+|{{legend|#E27F7F|50–60%}}
+|{{legend|#D75D5D|60–70%}}
+|{{legend|#D72F30|70–80%}}
+}}
+{{collapsible list
+| title = {{legend|#FF9A50|Martin}}
+|{{legend|#FF9A50|50–60%}}
+}}
+]]
+{{Election box begin no change|title=Republican primary results<ref name="primaryresults"/>}}
+{{Election box winning candidate with party link no change|party=Republican Party (United States)|candidate=David Varnam|votes=239,042|percentage=55.48}}
+{{Election box candidate with party link no change|party=Republican Party (United States)|candidate=Will Martin|votes=190,811|percentage=44.28}}
+{{Election box write-in with party link no change|votes=1,033|percentage=0.24}}
+{{Election box total no change|votes=430,886|percentage=100.0}}
+{{Election box end}}
+
+==General election==
+===Predictions===
+{| class="wikitable" style=text-align:center
+!Source
+!Ranking
+!As of
+|-
+|align=left|''[[The Cook Political Report]]''<ref>{{cite web|title=2026 CPR Governor Race ratings|url=https://www.cookpolitical.com/ratings/governor-race-ratings|website=[[The Cook Political Report]]|access-date=January 23, 2025}}</ref>
+|{{USRaceRating|Tossup}}
+|August 20, 2026
+|-
+|align=left|[[Decision Desk HQ]]<ref name="DDHQ">{{cite web |title=2026 Governor Forecast |url=https://votes.decisiondeskhq.com/forecast/2026/governor |website=Decision Desk HQ |access-date=22 September 2026}}</ref>
+|{{USRaceRating|Lean|D}}
+|September 23, 2026
+|-
+|align=left|[[Fox News]]<ref>{{cite web |title=Fox News Power Rankings: The top races to watch as 36 states choose their next governor |url=https://www.foxnews.com/politics/fox-news-power-rankings-top-races-watch-36-states-choose-next-governor |website=[[Fox News]] |date=July 23, 2026 |publisher=Rémy Numa |access-date=24 July 2026}}</ref>
+|{{USRaceRating|Tossup}}
+|July 23, 2026
+|-
+|align=left|''[[Inside Elections]]''<ref>{{Cite web|title=Gubernatorial Ratings|url=https://insideelections.com/ratings/governor|access-date=February 7, 2025|website=[[Inside Elections]]}}</ref>
+|{{USRaceRating|Tossup}}
+|August 28, 2025
+|-
+|align="left"|[[RealClearPolitics]]<ref>{{Cite web|title=2026 Governor Races {{!}} RealClearPolitics|url=https://www.realclearpolling.com/maps/governor/2026/toss-up|access-date=June 5, 2026|website=[[RealClearPolitics]]|archive-url=https://web.archive.org/web/20260601183127/https://www.realclearpolling.com/maps/governor/2026/toss-up|archive-date=June 1, 2026|url-status=dead}}</ref>
+|{{USRaceRating|Tossup}}
+|June 5, 2026
+|-
+|align=left|''[[Sabato's Crystal Ball]]''<ref>{{cite web|title=2026 Governor|url=https://centerforpolitics.org/crystalball/2026-governor/|website=[[Sabato's Crystal Ball]]|access-date=August 12, 2026}}</ref>
+|{{USRaceRating|Lean|D}}
+|August 12, 2026
+|-
+| style="text-align: left;" |[[Silver Bulletin]]<ref name=":Silver">{{Cite web |last=Silver |first=Nate |date=2026-08-20 |title=FLIPR 2026 midterm election forecast |url=https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model |url-access=subscription |access-date=2026-08-20 |website=www.natesilver.net |language=en}}</ref>
+| {{US political race rating|Lean|D}}
+|October 3, 2026
+|}
+
+===Post-primary endorsements===
+{{Endorsements box
+| title = David Crowley (D)
+| colwidth=
+| width=
+| list =
+;Executive branch officials
+*[[Barack Obama]], former [[President of the United States|president of the United States]] (2009–2017)<ref>{{cite web|url=https://www.wpr.org/news/barack-obama-endorses-david-crowley-wisconsin-governor-2026|title=Barack Obama endorses David Crowley for Wisconsin governor|date=October 8, 2026|access-date=October 9, 2026|website=Wisconsin Public Radio}}</ref>
+
+;U.S. senators
+*[[Tammy Baldwin]], [[Wisconsin]] (2013–present)<ref>{{cite web|url=https://www.dailycardinal.com/article/2026/10/obama-endorses-crowley-for-wisconsin-governor?ct=content_open&cv=cbox_featured|title=Obama endorses Crowley for Wisconsin governor|date=October 8, 2026|access-date=October 9, 2026|website=The Daily Cardinal}}</ref>
+
+;State legislators
+*[[Francesca Hong]], [[Wisconsin's 76th Assembly district|AD-76]] (2021–present) and primary candidate for governor in 2026<ref>{{cite web|url=https://www.wpr.org/news/wisconsin-democrats-preach-unity-hong-endorses-crowley|title=Francesca Hong endorses Crowley after primary defeat|date=August 12, 2026|access-date=August 13, 2026|website=Wisconsin Public Radio}}</ref>
+;Organizations
+*[[Everytown for Gun Safety]]<ref>{{cite web |title=Everytown for Gun Safety Action Fund Announces New Round of Statewide Endorsements, Backing 40 Statewide Candidates in 15 States |url=https://momsdemandaction.org/press/everytown-for-gun-safety-action-fund-announces-new-round-of-statewide-endorsements-backing-40-statewide-candidates-in-15-states/ |website=Moms Demand Action |access-date=September 15, 2026 |language=en-us}}</ref>
+*[[Human Rights Campaign]]<ref name="HRCAugust">{{cite web |title=Human Rights Campaign PAC Endorses Slate of Pro-Equality Candidates |url=https://www.hrc.org/press-releases/human-rights-campaign-pac-endorses-slate-of-pro-equality-candidates-for-governor-in-key-states |website=HRC |access-date=30 August 2026 |date=27 August 2026}}</ref>
+}}
+
+===Polling===
+'''Aggregate polls'''
+{|class="wikitable sortable"style="text-align:center;font-size:90%;line-height:17px"
+!Source of poll<br/>aggregation
+!Dates<br/>administered
+!Dates<br/>updated
+!style="width:100px;"|David<br/>Crowley (D)
+!style="width:100px;"|Tom<br/>Tiffany (R)
+!style="width:100px;"|Other/Undecided<br />{{Efn|name=C}}
+!Margin
+|-
+<!---[[270toWin]]<ref>{{Cite web|title=2026 Polls: Wisconsin Governor
+|url=https://www.270towin.com/2026-governor-polls/wisconsin|publisher=[[270toWin]]|access-date=August 21, 2026}}</ref>--->
+|[[RealClearPolitics]]<ref>{{cite web |title=2026 Wisconsin Governor - Tiffany vs. Crowley |url=https://www.realclearpolling.com/polls/governor/general/2026/wisconsin/crowley-vs-tiffany|publisher=[[RealClearPolitics]]|access-date=August 21, 2026}}</ref>
+|July 20 – August 20, 2026
+|September 13, 2026
+|{{party shading/Democratic}}|'''47.5%'''
+|44.0%
+|8.5%
+|{{party shading/Democratic}}|'''Crowley +3.5%'''
+|-
+|''[[Silver Bulletin]]''<ref>{{Cite web|title=FLIPR 2026 midterm election forecast|url=https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model|work=[[Silver Bulletin]]|access-date=September 13, 2026}}</ref>
+|July 20 – August 20, 2026
+|September 13, 2026
+|{{party shading/Democratic}}|'''48.6%'''
+|44.6%
+|6.8%
+|{{party shading/Democratic}}|'''Crowley +4.0%'''
+|-
+|colspan="3"|'''Average'''
+|{{party shading/Democratic}}|'''48.1%'''
+|44.3%
+|7.6%
+|{{party shading/Democratic}}|'''Crowley +3.8%'''
+|}
+{|class="wikitable"style="font-size:90%;text-align:center;"
+|-valign=bottom
+!Poll source
+!Date(s)<br/>administered
+!Sample<br/>size{{efn|name=Key}}
+!Margin<br/>of error
+!style="width:100px"|David<br/>Crowley (D)
+!style="width:100px"|Tom<br/>Tiffany (R)
+!Other
+!Undecided
+|-
+|style="text-align:left;"|Z to A Research (D)<ref>{{cite web |title=NEW: @nzdunk  Z to A Research & Rust Belt Rising poll finds Democrats leading in the top races in Wisconsin, Michigan & Pennsylvania.  This is a cost-of-living election—gas, groceries & health care. Voters hold Trump responsible for price rises. 1,430-voter poll from 9/28-10/1. 🧵 |url=https://x.com/rbrtraining/status/2108302504446337272 |publisher=[[Twitter]] |access-date=October 9, 2026 |date=October 8, 2026}}</ref>{{Efn-ua|Poll sponsored by Rust Belt Rising, which supports Democrats}}
+|September 28 – October 1, 2026
+|662 (LV)
+|–
+|{{party shading/Democratic}}|'''49%'''
+|44%
+|–
+|5%
+|-
+|style="text-align:left;" rowspan="2"|[[Marquette University Law School|Marquette University]]<ref>{{cite web |last1=Franklin |first1=Charles |title=Marquette Law Poll finds that Wisconsin governor's race remains tight; Crowley 49%, Tiffany 46% among likely voters |url=https://law.marquette.edu/poll/2026/09/30/mlsp91-press-release/ |website=[[Marquette University Law School]] |date=September 30, 2026}}</ref>
+|rowspan="2"|September 16–23, 2026
+|692 (LV)
+|±&nbsp;4.8%
+|{{party shading/Democratic}}|'''49%'''
+|46%
+|–
+|5%
+|-
+|843 (RV)
+|±&nbsp;4.3%
+|{{party shading/Democratic}}|'''46%'''
+|45%
+|–
+|9%
+|-
+|style="text-align:left;" rowspan="2"|[[Marquette University Law School|Marquette University]]<ref>{{cite web |last1=Franklin |first1=Charles |title=Marquette Law Poll finds Crowley leading Tiffany among likely voters, tied among all registered voters |url=https://law.marquette.edu/poll/2026/08/26/marquette-law-poll-finds-crowley-leading-tiffany-among-likely-voters-tied-among-all-registered-voters/ |website=[[Marquette University Law School]] |date=August 26, 2026}}</ref>
+|rowspan="2"|August 12–20, 2026
+|738 (LV)
+|±&nbsp;4.5%
+|{{party shading/Democratic}}|'''49%'''
+|44%
+|–
+|7%
+|-
+|891 (RV)
+|±&nbsp;4.0%
+|'''44%'''
+|'''44%'''
+|–
+|12%
+|-
+| style="text-align: left;" rowspan="2" |TIPP Insights (R)<ref>{{cite web |title=League of American Workers Survey — Wisconsin |url=https://tippinsights.com/league-of-american-workers-survey-wisconsin-4/ |website=TIPP Insights |date=August 21, 2026}}</ref>{{Efn-ua|name=LoAW}}
+|rowspan="2"|August 14–18, 2026
+|1,199 (LV)
+|±&nbsp;3.1%
+|{{party shading/Democratic}}|'''47%'''
+|43%
+|4%{{efn|name="SE4"|"Someone else" with 4%}}
+|6%
+|-
+|1,434 (RV)
+|±&nbsp;2.9%
+|{{party shading/Democratic}}|'''43%'''
+|41%
+|5%{{efn|name="SE5"}}
+|10%
+|-
+|style="text-align:left;" |Platform Communications (R)<ref>{{Cite web |last=Kremer |first=Rich |date=2026-08-16 |title=Crowley leads Tiffany by four points in new head-to-head poll of likely voters |url=https://www.wpr.org/news/crowley-leading-tiffany-four-points-new-poll |access-date=2026-08-16 |website=[[Wisconsin Public Radio]]|language=en-US}}</ref>
+|August 12–13, 2026
+|500 (LV)
+|±&nbsp;4.4%
+|{{party shading/Democratic}}|'''48%'''
+|44%
+|–
+|–
+|-
+|- style="background:lightyellow;"
+| style="border-right-style:hidden; background:lightyellow;" |
+| style="border-right-style:hidden;"|August 11, 2026
+| colspan="7" | Primary elections
+|-
+|style="text-align:left;" |GBAO (D)<ref>{{cite web|url=https://www.politico.com/f/?id=0000019f-f6da-d9b2-a7bf-fedf3b250000|title=Headed Into the General, David Crowley Has the Advantage|work=GBAO|date=August 12, 2026|access-date=August 12, 2026|via=[[Politico]]}}</ref>{{efn-ua|name=Protect|Poll sponsored by Protect Our Wisconsin PAC, a group backed by the [[Democratic Governors Association]].<ref>{{Cite web|url=https://www.wispolitics.com/2026/democratic-governors-association-new-protect-our-wisconsin-releases-first-ads-slamming-tom-tiffanys-extreme-maga-agenda/|title=Democratic Governors Association: New: Protect Our Wisconsin releases first Ads slamming Tom Tiffany's extreme MAGA agenda|website=[[WisPolitics]]|date=July 8, 2026|access-date=August 12, 2026}}</ref>}}
+|July 30 – August 3, 2026
+|800 (LV)
+|±&nbsp;3.5%
+|{{party shading/Democratic}}|'''47%'''
+|44%
+|–
+|5%
+|-
+|style="text-align:left;" |RMG Research<ref name="RMGJuly26"/>
+|July 20–24, 2026
+|800 (RV)
+|±&nbsp;3.5%
+|{{party shading/Democratic}}|'''46%'''
+|43%
+|–
+|11%
+|-
+| style="text-align: left;" rowspan="2" |TIPP Insights (R)<ref name="TIPPMarch_2"/>{{Efn-ua|name=LoAW}}
+|rowspan="2"|March 13–19, 2026
+|1,175 (LV)
+|±&nbsp;2.9%
+|{{party shading/Democratic}}|'''42%'''
+|41%
+|5%{{efn|name="SE5"|"Someone else" with 5%}}
+|12%
+|-
+|1,495 (RV)
+|±&nbsp;2.7%
+|{{party shading/Democratic}}|'''39%'''
+|38%
+|6%{{efn|name="SE6"|"Someone else" with 6%}}
+|17%
+|}
+{{hidden begin|titlestyle=background:#cff|title=Hypothetical polling|contentstyle=border:solid 1px silver; padding:8px; background:var(--background-color-base); color:var(--color-base);}}
+<!-- = = = don't edit the line above = = = -->
+
+'''Joel Brennan vs. Tom Tiffany'''
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name=Key}}
+! Margin<br />of error
+! style="width:100px"| Joel<br />Brennan (D)
+! style="width:100px"| Tom<br />Tiffany (R)
+! Other
+! Undecided
+|-
+|style="text-align:left;" rowspan="2"|[[Marquette University Law School|Marquette University]]<ref name="MarquetteJuly26"/>
+|rowspan="2"|July 8–16, 2026
+|695 (LV)
+|±&nbsp;4.9%
+|43%
+|{{party shading/Republican}}|'''44%'''
+|{{sdash}}
+|13%
+|-
+|838 (RV)
+|±&nbsp;4.5%
+|39%
+|{{party shading/Republican}}|'''42%'''
+|{{sdash}}
+|19%
+|}
+
+'''Francesca Hong vs. Tom Tiffany'''
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name=Key}}
+! Margin<br />of error
+! style="width:100px"| Francesca<br />Hong (D)
+! style="width:100px"| Tom<br />Tiffany (R)
+! Other
+! Undecided
+|-
+|style="text-align:left;" |RMG Research<ref name="RMGJuly26"/>
+|July 20–24, 2026
+|800 (RV)
+|±&nbsp;3.5%
+|{{party shading/Democratic}}|'''44%'''
+|43%
+|{{sdash}}
+|13%
+|-
+|style="text-align:left;" rowspan="2"|[[Marquette University Law School|Marquette University]]<ref name="MarquetteJuly26"/>
+|rowspan="2"|July 8–16, 2026
+|695 (LV)
+|±&nbsp;4.9%
+|'''44%'''
+|'''44%'''
+|{{sdash}}
+|12%
+|-
+|838 (RV)
+|±&nbsp;4.5%
+|40%
+|{{party shading/Republican}}|'''43%'''
+|{{sdash}}
+|17%
+|-
+|style="text-align:left;" |Wedgewood Polls<ref name=WedgewoodJuly2026/>{{Efn-ua|name=Ithmus}}
+|July 2–4, 2026
+|707 (LV)
+|±&nbsp;4.4%
+|{{party shading/Democratic}}|'''47%'''
+|44%
+|{{sdash}}
+|9%
+|-
+| style="text-align: left;" rowspan="2" |TIPP Insights (R)<ref name="TIPPMarch_2"/><ref name=TIPP.MARCH/>{{Efn-ua|name=LoAW}}
+|rowspan="2"|March 13–19, 2026
+|1,175 (LV)
+|±&nbsp;2.9%
+|40%
+|{{party shading/Republican}}|'''43%'''
+|6%{{efn|name="SE6"}}
+|12%
+|-
+|1,495 (RV)
+|±&nbsp;2.7%
+|37%
+|{{party shading/Republican}}|'''40%'''
+|7%{{efn|name="SE7"}}
+|16%
+|-
+|style="text-align:left;" |Patriot Polling (R)<ref name="PatriotMarch2026">{{cite web|url=https://drive.google.com/file/d/1RPTJ7lVbPnf35orAIGiwW9TRZthViZY5/view|title=Wisconsin Governor Poll|work=Patriot Polling|date=March 25, 2026|access-date=March 25, 2026|via=[[Google Drive]]}}</ref>
+|March 10–16, 2026
+|812 (LV)
+|±&nbsp;3.5%
+|42%
+|{{party shading/Republican}}|'''46%'''
+|colspan="2"|12%
+|}
+
+'''Kelda Roys vs. Tom Tiffany'''
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name=Key}}
+! Margin<br />of error
+! style="width:100px"| Kelda<br />Roys (D)
+! style="width:100px"| Tom<br />Tiffany (R)
+! Other
+! Undecided
+|-
+|style="text-align:left;" rowspan="2"|[[Marquette University Law School|Marquette University]]<ref name="MarquetteJuly26"/>
+|rowspan="2"|July 8–16, 2026
+|695 (LV)
+|±&nbsp;4.9%
+|42%
+|{{party shading/Republican}}|'''44%'''
+|{{sdash}}
+|14%
+|-
+|838 (RV)
+|±&nbsp;4.5%
+|38%
+|{{party shading/Republican}}|'''42%'''
+|{{sdash}}
+|21%
+|}
+
+'''Mandela Barnes vs. Tim Michels'''
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name=Key}}
+! Margin<br />of error
+! style="width:100px"| Mandela<br />Barnes (D)
+! style="width:100px"| Tim<br />Michels (R)
+! Undecided
+|-
+|style="text-align:left;" |Impact Research (D)<ref name=IR10.25>{{cite web |last1=Nir |first1=David |title=WI-Gov: Impact Research for Long Run PAC (Oct. 2025) |url=https://www.documentcloud.org/documents/26204970-wi-gov-impact-research-for-long-run-pac-oct-2025/ |publisher=[[DocumentCloud]] |date=October 28, 2025 |access-date=October 29, 2025}}</ref>{{Efn-ua|name=LongRun|Poll sponsored by The Long Run PAC, an organization founded by Barnes}}
+|October 2–8, 2025
+|500 (LV)
+|±&nbsp;4.4%
+|{{party shading/Democratic}}|'''51%'''
+|44%
+|5%
+|}
+
+'''Mandela Barnes vs. Tom Tiffany'''
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name=Key}}
+! Margin<br />of error
+! style="width:100px"| Mandela<br />Barnes (D)
+! style="width:100px"| Tom<br />Tiffany (R)
+! Other
+! Undecided
+|-
+|style="text-align:left;" |RMG Research<ref name="RMGJuly26">{{cite web |last1=Guenther |first1=Alesha |title=IRG Poll: Inflation Still Rules, Free Markets Still Win, Race Still Open |url=https://reforminggovernment.org/irg-poll-inflation-still-rules-free-markets-still-win-race-still-open/ |website=Institute for Reforming Government |date=30 July 2026}}</ref>
+|July 20–24, 2026
+|800 (RV)
+|±&nbsp;3.5%
+|{{party shading/Democratic}}|'''47%'''
+|42%
+|{{sdash}}
+|11%
+|-
+|style="text-align:left;" rowspan="2"|[[Marquette University Law School|Marquette University]]<ref name="MarquetteJuly26">{{Cite press release|url=https://law.marquette.edu/assets/community/poll/MLSP89/MLSP89PressRelease.pdf|title=Marquette Law School Poll finds almost half of Democratic primary voters undecided amid rapid shifts in the race for the gubernatorial nomination|publisher=[[Marquette University Law School]]|date=July 22, 2026|access-date=July 22, 2026}}</ref>
+|rowspan="2"|July 8–16, 2026
+|695 (LV)
+|±&nbsp;4.9%
+|{{party shading/Democratic}}|'''47%'''
+|42%
+|{{sdash}}
+|11%
+|-
+|838 (RV)
+|±&nbsp;4.5%
+|{{party shading/Democratic}}|'''44%'''
+|40%
+|{{sdash}}
+|16%
+|-
+|style="text-align:left;" |Wedgewood Polls<ref name=WedgewoodJuly2026/>{{Efn-ua|name=Ithmus}}
+|July 2–4, 2026
+|707 (LV)
+|±&nbsp;4.4%
+|{{party shading/Democratic}}|'''48%'''
+|44%
+|{{sdash}}
+|8%
+|-
+| style="text-align: left;" rowspan="2" |TIPP Insights (R)<ref name="TIPPMarch_2">{{Cite web|url=https://tippinsights.com/league-of-american-workers-survey-wisconsin-3/|title=League of American Workers Survey — Wisconsin|website=TIPP Insights|date=March 23, 2026|access-date=March 24, 2026}}</ref><ref name=TIPP.MARCH>{{cite tweet |title=WISCONSIN POLL - Governor |user=IAPolls2022 |number=2036258027725025698 |access-date=March 24, 2026}}</ref>{{Efn-ua|name=LoAW}}
+|rowspan="2"|March 13–19, 2026
+|1,175 (LV)
+|±&nbsp;2.9%
+|{{party shading/Democratic}}|'''43%'''
+|41%
+|6%{{efn|name="SE6"}}
+|10%
+|-
+|1,495 (RV)
+|±&nbsp;2.7%
+|{{party shading/Democratic}}|'''40%'''
+|38%
+|7%{{efn|name="SE7"|"Someone else" with 7%}}
+|15%
+|-
+|style="text-align:left;" |Impact Research (D)<ref name=IR10.25/>{{Efn-ua|name=LongRun}}
+|October 2–8, 2025
+|500 (LV)
+|±&nbsp;4.4%
+|{{party shading/Democratic}}|'''50%'''
+|44%
+|{{sdash}}
+|7%
+|}
+
+'''Sara Rodriguez vs. Tom Tiffany'''
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name=Key}}
+! Margin<br />of error
+! style="width:100px"| Sara<br />Rodriguez (D)
+! style="width:100px"| Tom<br />Tiffany (R)
+! Other
+! Undecided
+|-
+|style="text-align:left;" |[[Marquette University Law School|Marquette University]]<ref name=MarquetteJuly26/>
+|July 8–16, 2026
+|838 (RV)
+|±&nbsp;4.5%
+|{{party shading/Democratic}}|'''42%'''
+|41%
+|{{sdash}}
+|17%
+|-
+|style="text-align:left;" |Wedgewood Polls<ref name=WedgewoodJuly2026/>{{Efn-ua|name=Ithmus}}
+|July 2–4, 2026
+|707 (LV)
+|±&nbsp;4.4%
+|{{party shading/Democratic}}|'''47%'''
+|42%
+|{{sdash}}
+|11%
+|-
+| style="text-align: left;" rowspan="2" |TIPP Insights (R)<ref name="TIPPMarch_2"/><ref name=TIPP.MARCH/>{{Efn-ua|name=LoAW}}
+|rowspan="2"|March 13–19, 2026
+|1,175 (LV)
+|±&nbsp;2.9%
+|{{party shading/Democratic}}|'''44%'''
+|41%
+|5%{{efn|name="SE5"}}
+|10%
+|-
+|1,495 (RV)
+|±&nbsp;2.7%
+|{{party shading/Democratic}}|'''40%'''
+|39%
+|7%{{efn|name="SE6"}}
+|15%
+|}
+
+'''Generic Democrat vs. generic Republican'''
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name=Key}}
+! Margin<br />of error
+! style="width:100px"| Generic<br />Democrat
+! style="width:100px"| Generic<br />Republican
+! Undecided
+|-
+|style="text-align:left;" |Platform Communications<ref name="PCSept2025"/>
+|September 28–30, 2025
+|500 (LV)
+|{{sdash}}
+|40%
+|{{party shading/Republican}}|'''43%'''
+|17%
+|}
+{{hidden end}}
+
+=== Results ===
+{{Election box begin |title=2026 Wisconsin gubernatorial election}}
+{{Election box candidate with party link
+  |party      = Democratic Party (United States)
+  |candidate  = {{ubl|[[David Crowley (Wisconsin politician)|David Crowley]]|[[Sarah Godlewski]]}}
+  |votes      = 
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link
+  |party      = Republican Party (United States)
+  |candidate  = {{ubl|[[Tom Tiffany]]|David Varnam}}
+  |votes      = 
+  |percentage = 
+  |change     = 
+}}
+{{Election box write-in with party link
+  |votes      = 
+  |percentage = 
+  |change     = 
+}}
+{{Election box total
+  |votes      = 
+  |percentage = 100.0%
+  |change     = 
+}}
+{{Election box end}}
+
+== See also ==
+*[[2026 United States gubernatorial elections]]
+*[[2026 Wisconsin elections]]
+
+==Notes==
+{{reflist|group=n}}
+{{notelist}}
+'''Partisan clients'''<br />
+{{notelist-ua}}
+
+==References==
+{{reflist}}
+
+==External links==
+;Official gubernatorial campaign websites
+*[https://www.crowleyforwi.com/ David Crowley (D)]
+*[https://tomtiffany.com/ Tom Tiffany (R)]
+
+;Official lieutenant gubernatorial campaign websites
+*[https://www.sarahforwisconsin.com/ Sarah Godlewski (D)]
+*[http://davidvarnam.com/ David Varnam (R)]
+
+{{2026 United States elections}}
+
+[[Category:Wisconsin gubernatorial elections]]
+[[Category:2026 Wisconsin elections|Gubernatorial]]
+[[Category:2026 United States gubernatorial elections|Wisconsin]]

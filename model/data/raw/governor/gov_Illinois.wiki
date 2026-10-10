@@ -1,0 +1,381 @@
+{{short description|none}} <!-- "none" is preferred when the title is sufficiently descriptive; see [[WP:SDNONE]] -->
+{{for|related races|2026 United States gubernatorial elections}}
+{{Use American English|date=January 2025}}
+{{Use mdy dates|date=June 2025}}
+{{Infobox election
+| election_name = 2026 Illinois gubernatorial election
+| country = Illinois
+| type = presidential
+| ongoing = yes
+| previous_election = 2022 Illinois gubernatorial election
+| previous_year = 2022
+| next_election = 2030 Illinois gubernatorial election
+| next_year = 2030
+| election_date = November 3, 2026
+| image1 = JB Pritzker 2026 (cropped 3x4).jpg
+| nominee1 = [[JB Pritzker]]
+| party1 = Democratic Party (United States)
+| running_mate1 = [[Christian Mitchell]]
+| popular_vote1 = 
+| percentage1 = 
+| image2 = Darren Bailey at a 2022 Campaign Event (cropped2).jpg
+| nominee2 = [[Darren Bailey]]
+| party2 = Republican Party (United States)
+| running_mate2 = Aaron Del Mar
+| popular_vote2 = 
+| percentage2 = 
+| map_size = 200px
+| map_caption = County results
+| title = [[Governor of Illinois|governor]]
+| before_election = [[JB Pritzker]]
+| before_party = Democratic Party (United States)
+| after_election = 
+| after_party = 
+}}
+{{ElectionsIL}}
+The '''2026 Illinois gubernatorial election''' will be held on November 3, 2026, to elect the [[governor of Illinois]]. [[Democratic Party (United States)|Democratic]] incumbent [[JB Pritzker]] is seeking a third term. He is being challenged by [[Republican Party (United States)|Republican]] former nominee [[Darren Bailey]].
+
+[[Primary elections]] were held on March 17, 2026.<ref>{{Cite web |last=Illinois State Board of Elections |title=Schedule of Future Elections |url=https://www.elections.il.gov/agencyforms/1%20SCHEDULE%20OF%20FUTURE%20ELECTIONS/Schedule%20of%20Elections%20-%20Revised.pdf |archive-url=https://web.archive.org/web/20260221135507/https://www.elections.il.gov/agencyforms/1%20SCHEDULE%20OF%20FUTURE%20ELECTIONS/Schedule%20of%20Elections%20-%20Revised.pdf |archive-date=February 21, 2026 |access-date=2025-07-21 |website=www.elections.il.gov}}</ref> Pritzker secured the Democratic nomination unopposed, while [[Darren Bailey]] secured the Republican nomination with 54% of the vote.<ref>{{cite web |title=Illinois Governor Primary Results 2026 |url=https://www.nbcnews.com/politics/2026-primary-elections/illinois-governor-results |archive-url=https://web.archive.org/web/20260411230100/https://www.nbcnews.com/politics/2026-primary-elections/illinois-governor-results |archive-date=April 11, 2026 |access-date=April 19, 2026 |website=[[NBC News]]}}</ref> Pritzker selected [[Christian Mitchell]] as his running mate, as incumbent lieutenant governor [[Julianna Stratton]] is running for [[2026 United States Senate election in Illinois|U.S. Senate]].
+
+This is the first gubernatorial rematch in Illinois since [[1986 Illinois gubernatorial election|1986]].
+
+== Background ==
+A moderately to strongly [[blue state]], Illinois has a reputation for being both the most populous and the most left-leaning state in the Midwest, traits vastly owed to the progressive and diverse [[Chicago metropolitan area]]. Though the state has historically favored Republicans for [[Governor of Illinois|governor]], Democrats have won all but one gubernatorial race in Illinois since [[2002 Illinois gubernatorial election|2002]], the exception being [[Bruce Rauner]]'s narrow victory in [[2014 Illinois gubernatorial election|2014]].<ref>{{Cite web |last=Leip |first=David |title=2014 Gubernatorial General Election Results – Illinois |url=https://uselectionatlas.org/RESULTS/state.php?year=2014&fips=17&f=0&off=5&elect=0 |archive-url=https://web.archive.org/web/20250404104935/https://uselectionatlas.org/RESULTS/state.php?fips=17&year=2014&f=0&off=5&elect=0 |archive-date=2025-04-04 |access-date=2025-04-09 |website=uselectionatlas.org}}</ref> In addition, Democrats have won Illinois by double-digit margins in every presidential race since [[1992 United States presidential election in Illinois|1992]]; and consistently occupied all of its statewide offices since [[2018 Illinois elections|2019]].  
+
+Incumbent governor [[JB Pritzker]], a member of the Democratic Party, has comfortably won in the past two elections, having first been elected with a 15.6% lead in [[2018 Illinois gubernatorial election|2018]]<ref>{{Cite web |last=Leip |first=David |title=2018 Gubernatorial General Election Results – Illinois |url=https://uselectionatlas.org/results/state.php?year=2018&fips=17&f=0&off=5&elect=0 |archive-url=https://web.archive.org/web/20240520050528/https://uselectionatlas.org/RESULTS/state.php?fips=17&year=2018&f=0&off=5&elect=0 |archive-date=2024-05-20 |access-date=2025-04-09 |website=uselectionatlas.org}}</ref> and won re-election by 12.5% in [[2022 Illinois gubernatorial election|2022]].<ref>{{Cite web |last=Leip |first=David |title=2022 Gubernatorial General Election Results – Illinois |url=https://uselectionatlas.org/results/state.php?year=2022&fips=17&f=0&off=5&elect=0 |archive-url=https://web.archive.org/web/20240419033643/https://uselectionatlas.org/RESULTS/state.php?fips=17&year=2022&f=0&off=5&elect=0 |archive-date=2024-04-19 |access-date=2025-04-09 |website=uselectionatlas.org}}</ref> Despite the state's strong Democratic lean, Republicans are comfortably favored in most of rural Illinois, especially in much of [[Forgottonia|West Central]] and [[Southern Illinois]]. Illinois is one of 16 states that do not have gubernatorial term limits. If Pritzker were to win, he would be the first governor elected to a third term since [[Jim Thompson (Illinois politician)|Jim Thompson]] in [[1982 Illinois gubernatorial election|1982]].
+
+== Democratic primary ==
+=== Candidates ===
+==== Nominee ====
+*[[JB Pritzker]], incumbent [[Governor of Illinois|governor]] (2019–present)<ref name=chaos>{{cite web |title=Gov. JB Pritzker announces run for 3rd term to protect Illinois from 'chaos and craziness' of Trump |url=https://chicago.suntimes.com/illinois-governor/2025/06/26/jb-pritzker-campaign-reelection-trump |website=[[Chicago Sun Times]] |author=Armentrout, Mitchell |access-date=June 26, 2025 |date=June 26, 2025}}</ref>
+**Running mate: [[Christian Mitchell]], former deputy governor (2019–2023) and former [[Illinois House of Representatives|state representative]] (2013–2019)<ref>{{Cite news |last=Cherone|first=Heather|title=Pritzker Taps Former Deputy Gov. Christian Mitchell as Running Mate |url=https://news.wttw.com/2025/07/01/pritzker-taps-former-deputy-gov-christian-mitchell-running-mate |date=July 1, 2025|access-date=July 1, 2025 |newspaper=[[WTTW]]}}</ref>
+
+====Disqualified====
+*Patricia Tillman, former candidate for [[Chicago City Council]]<ref>{{cite web |last1=Bishop |first1=Greg |title=Pritzker unchallenged on Democrat primary ballot after Tillman removed by board |url=https://www.thecentersquare.com/illinois/article_c3ecfadd-2529-48e5-8951-547296e45d2c.html |website=The Center Square |access-date=30 December 2025 |date=December 9, 2025}}</ref>
+**Running mate: Joseph Mosley
+
+=== Endorsements ===
+{{Endorsements box
+|title=JB Pritzker
+|width=50em
+|list=
+;Labor unions
+*Illinois [[AFL-CIO]]<ref>{{cite web|url=https://www.politico.com/f/?id=0000019b-06df-d889-a1df-ffdfb5f40000|title=Illinois AFL-CIO 2026 Primary Election Endorsements|date=December 10, 2025|access-date=December 11, 2025|website=[[Politico]]}}</ref>
+*[[International Union of Operating Engineers]] Locals 150 and 399<ref>{{cite web|url=https://local150.org/wp-content/uploads/2026/02/2026-IL-Primary-Mailer-District-1_V7.1.pdf|title=IUOE Local 150 District 1 Endorsements|access-date=March 17, 2026}}</ref><ref>{{cite web|url=https://www.iuoe399.org/media/filer_public/51/71/517191a2-0567-497b-995a-4c0069f72130/2026_lu399_endorsement_list.pdf|title=2026 Local 399 Illinois Primary Election Endorsements|access-date=March 17, 2026}}</ref>
+*[[Service Employees International Union|SEIU]] Healthcare<ref>{{cite web|url=https://seiuhcilin.org/resources/election-information/|title=Illinois Primary Election Center / Información Electoral|access-date=March 17, 2026}}</ref>
+*[[Service Employees International Union|SEIU]] Illinois State Council<ref>{{cite web|url=https://seiuilcouncil.org/elections/|title=Elections & Endorsements|access-date=March 17, 2026}}</ref>
+
+;Organizations
+*[[Cook County Democratic Party]]<ref>{{cite web|url=https://www.cookcountydems.com/cook-county-democratic-party-to-slate-candidates-for-2026-election/|title=Cook County Democratic Party Slate – 2026 Primary|date=July 18, 2025|access-date=August 28, 2025}}</ref>
+*[[Equality Illinois]]<ref>{{cite web|url=https://windycitytimes.com/2026/01/15/equality-illinois-makes-72-pro-equality-pro-family-endorsements-for-2026-primary-election/|title=Equality Illinois makes 72 pro-equality, pro-family endorsements for 2026 primary election|date=January 15, 2026|access-date=January 31, 2026|website=[[Windy City Times]]}}</ref>
+*[[New Trier Township, Illinois|New Trier]] Democrats<ref>{{cite web|url=https://newtrierdemocrats.org/2026-endorsements|title=2026 Democratic Primary Endorsements|date=January 25, 2026|access-date=January 26, 2026}}</ref>
+
+;Newspapers
+*''[[The Chicago Crusader]]''<ref>{{cite web|url=https://chicagocrusader.com/chicago-crusader-endorsements-for-march-illinois-primary/|title=Chicago Crusader Endorsements for March Illinois Primary|date=March 13, 2026|access-date=March 15, 2026|website=[[The Chicago Crusader]]}}</ref>
+}}
+
+=== Results ===
+{{Election box begin no change |title=Democratic primary results<ref name=candidates>{{#invoke:cite|web|title=Candidate Filing Search|url=https://www.elections.il.gov/ElectionOperations/CandidateFilingSearch.aspx?ID=Z2J%2fvYpKX8w%3d|website=Illinois State Board of Elections|access-date=October 27, 2025}}</ref>}}
+{{Election box winning candidate with party link no change|party=Democratic Party (United States)|candidate={{ubl|[[JB Pritzker]] (incumbent)|[[Christian Mitchell]]}}|votes=1,197,587|percentage=100.0}}
+{{Election box total no change|votes=1,197,587|percentage=100.0}}
+{{Election box end}}
+
+== Republican primary ==
+=== Candidates ===
+==== Nominee ====
+*[[Darren Bailey]], former [[Illinois Senate|state senator]] from the 55th district (2021–2023), nominee for governor in [[2022 Illinois gubernatorial election|2022]], and candidate for [[Illinois's 12th congressional district]] in [[2024 United States House of Representatives elections in Illinois#District 12|2024]]<ref name=bailey>{{cite news |last1=Ahern |first1=MaryAnn |title=Darren Bailey to seek Republican gubernatorial nomination |url=https://www.nbcchicago.com/news/local/chicago-politics/darren-bailey-to-seek-republican-gubernatorial-nomination-source/3821307/ |date=September 8, 2025 |access-date=September 9, 2025 |work=[[WMAQ-TV]] |language=en}}</ref>
+**Running mate: Aaron Del Mar, [[Palatine Township]] Highway Commissioner, chair of the [[Cook County Republican Party]], and candidate for lieutenant governor in [[2022 Illinois gubernatorial election|2022]]<ref name=bailey/>
+==== Eliminated in primary ====
+*Ted Dabrowski, conservative news website president<ref>{{cite news |work=Capitol News Illinois |access-date=August 28, 2025 |url=https://capitolnewsillinois.com/news/new-republican-to-run-for-illinois-governor-as-election-season-begins/ |author=Szalinski, Ben |title=New Republican to run for Illinois governor as election season begins |date=August 14, 2025}}</ref>
+**Running mate: Carrie Mendoza, leader of [[Foundation Against Intolerance and Racism|FAIR In Medicine]]<ref>{{cite news|last=Miller|first=Rich|title=A quick briefing on Ted Dabrowski's running mate|date=September 12, 2025|newspaper=[[Capitol Fax]]|access-date=September 15, 2025|url=https://capitolfax.com/2025/09/12/a-quick-briefing-on-ted-dabrowskis-running-mate/}}</ref>
+*Rick Heidner, real estate developer<ref name="GOPHeatsUp">{{cite web |last1=Kapos |first1=Shia |title=GOP governor's race heats up |url=https://www.politico.com/newsletters/illinois-playbook/2025/10/21/gop-governors-race-heats-up-00616227 |access-date=October 21, 2025 |website=[[Politico]] |date=October 21, 2025}}</ref>
+**Running mate: Christina Neitzke-Troike, mayor of [[Homer Glen]]<ref name="GOPHeatsUp"/>
+*James Mendrick, [[DuPage County, Illinois|DuPage County]] Sheriff (2018–present)<ref>{{cite news |date=February 27, 2025 |title=DuPage Co. Sheriff James Mendrick to run for governor of Illinois |url=https://abc7chicago.com/post/illinois-elections-2026-dupage-county-sheriff-james-mendrick-announces-candidacy-governor/15959495/ |url-status=live |archive-url=https://web.archive.org/web/20250310191907/https://abc7chicago.com/post/illinois-elections-2026-dupage-county-sheriff-james-mendrick-announces-candidacy-governor/15959495/ |archive-date=March 10, 2025 |access-date=February 27, 2025 |work=[[WLS-TV]] |language=en}}</ref>
+**Running mate: Robert Renteria, author and businessman<ref>{{cite news |author=Palermo, Gregg |access-date=July 2, 2025 |work=[[Spectrum News]] |date=June 30, 2025 |url=https://spectrumlocalnews.com/mo/st-louis/news/2025/06/30/pritzker-lt--gov-pick-process |title=Pritzker on Lt. Gov. choice: 'You'll know who my pick is sometime soon' |quote=The only declared Republican candidate for governor, DuPage County Sheriff James Mendrick, has selected author and activist Dr. Robert Renteria as his candidate for Lt. Gov.}}</ref>
+
+==== Withdrawn ====
+*Phil Perez, member of the [[Posen, Illinois|Posen]] Park District Commission<ref name="Lining">{{cite web |last=Kapos |first=Shia |date=July 14, 2025 |title=Republicans lining up against Pritzker |url=https://www.politico.com/newsletters/illinois-playbook/2025/07/14/republicans-lining-up-against-pritzker-00450761 |access-date=July 14, 2025 |website=[[Politico]]}}</ref>
+*Max Solomon, attorney and candidate for governor in [[2022 Illinois gubernatorial election|2022]]<ref name="FundraisBar">{{cite web |last1=Szalinski |first1=Ben |title=Dabrowski sets fundraising bar at $1.5M in GOP primary for governor |url=https://capitolnewsillinois.com/news/dabrowski-sets-fundraising-bar-at-1-5m-in-gop-primary-for-governor/ |access-date=October 21, 2025 |website=Capitol News Illinois |date=October 16, 2025}}</ref> ''(running a write-in campaign for State Treasurer)''
+**Running mate: Geno Young, musician and candidate for [[Illinois's 1st congressional district]] in [[2022 Illinois's 1st congressional district election|2022]] 
+
+==== Disqualified ====
+*Joseph Severino, capital management professional, nominee for {{ushr|IL|10}} in [[2022 United States House of Representatives elections in Illinois#District 10|2022]] and independent candidate in [[2024 United States House of Representatives elections in Illinois#District 10|2024]]<ref>{{cite web|url=https://www.politico.com/newsletters/illinois-playbook/2026/01/12/bear-down-reality-roars-back-00721818|title=Bear down, reality roars back|last=Kapos|first=Shia|date=January 12, 2026|access-date=January 12, 2026|website=[[Politico]]}}</ref>
+**Running mate: Rantch Isquith, bank examiner
+
+==== Declined ====
+*Scott Gartner, mayor of [[Antioch, Illinois|Antioch]] (2021–present)<ref name="FundraisBar"/>
+*[[Jeanne Ives]], former [[Illinois House of Representatives|state representative]] from the 42nd district (2013–2019), candidate for governor in [[2018 Illinois gubernatorial election|2018]], and nominee for {{ushr|IL|6}} in [[2020 United States House of Representatives elections in Illinois#District 6|2020]]<ref name="Lining"/> ''(endorsed Dabrowski)''<ref name="Lawmakers">{{cite web |last1=Talamonti |first1=Jim |date=September 29, 2025 |title=WATCH: Former state lawmakers endorse, donors support GOP candidate Dabrowski |url=https://www.thecentersquare.com/illinois/article_b482fae5-201c-45e1-8c50-5908933dce3c.html |access-date=September 29, 2025 |work=[[The Center Square]]}}</ref>
+*[[Darin LaHood]], [[U.S. representative]] from {{ushr|IL|16}} (2015–present) ''([[2026 United States House of Representatives elections in Illinois#District 16|running for re-election]])''<ref>{{cite news |last1=Ahern |first1=Mary Ann |title=Darin LaHood won't run for Illinois governor, will focus on reelection to Congress |url=https://www.nbcchicago.com/news/local/chicago-politics/rep-darin-lahood-wont-run-for-illinois-governor-he-says/3804440/ |access-date=August 5, 2025 |work=[[WMAQ-TV]] |date=August 4, 2025}}</ref>
+*[[Dan Ugaste]], [[Illinois House of Representatives|state representative]] from the 65th district (2019–present) ''(running for re-election)''<ref>{{Cite news |author=Schory, Brenda |date=July 10, 2025 |title=Geneva's Dan Ugaste a no-go for governor after all |url=https://www.shawlocal.com/kane-county-chronicle/2025/07/10/genevas-dan-ugaste-a-no-go-for-governor-after-all/ |access-date=July 10, 2025 |website=[[Shaw Media (United States)|Shaw Local]] |language=en}}</ref>
+
+===Endorsements===
+{{Endorsements box
+| title=Darren Bailey
+| list=
+;Newspapers
+*''[[Daily Herald (Arlington Heights, Illinois)|Daily Herald]]''<ref>{{cite web |title=Daily Herald endorsement: Darren Bailey in GOP gubernatorial primary |url=https://www.dailyherald.com/20250215/endorsements/daily-herald-endorsement-darren-bailey-in-gop-gubernatorial-primary/ |website=Daily Herald |access-date=16 February 2026}}</ref>
+}}
+{{Endorsements box
+| title=Ted Dabrowski
+| list=
+;State legislators
+*[[Jeanne Ives]], former [[Illinois House of Representatives|HD-42]] (2013–2019)<ref name="Lawmakers"/>
+*[[Tom Morrison (Illinois politician)|Tom Morrison]], former [[Illinois House of Representatives|HD-54]] (2011–2023)<ref name="Lawmakers"/>
+;Local officials
+*Bob Grogan, former [[DuPage County, Illinois|DuPage County]] auditor (2008–2020)<ref name="Lawmakers"/>
+}}
+{{Endorsements box
+| title=James Mendrick
+| list=
+;Local officials
+*3 county sheriffs<ref name="Lawmakers"/>
+}}
+{{Endorsements box
+|title=Declined to endorse
+|list=
+;Newspapers
+*''[[Chicago Tribune]]''<ref>{{cite web|url=https://www.chicagotribune.com/2026/02/22/editorial-our-thoughts-on-the-republican-primary-race-for-governor-of-illinois/|title=Editorial: Our thoughts on the Republican primary race for governor of Illinois|date=February 22, 2026|access-date=March 7, 2026|website=[[Chicago Tribune]]}}</ref>
+}}
+
+=== Polling ===
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"}}
+! Margin<br />of error
+! style="width:70px;"| Darren<br />Bailey
+! style="width:70px;"| Ted<br />Dabrowski
+! style="width:70px;"| Rick<br />Heidner
+! style="width:70px;"| James<br />Mendrick
+! Other
+! Undecided
+|-
+|style="text-align:left;"|Osage Research (R)<ref>{{Cite web|url=https://www.politico.com/f/?id=0000019c-07d8-d452-a99e-6ffee3750000|title=GOP Primary – Polling Memo|work=Osage Research|date=January 29, 2026|access-date=January 29, 2026|via=''[[Politico]]''}}</ref>{{efn-ua|name=Bailey|Poll sponsored by Bailey's campaign}}
+|January 20–23, 2026
+|412 (LV)
+|±&nbsp;5.7%
+|{{party shading/Republican}}|'''57%'''
+|8%
+|9%
+|4%
+|–
+|22%
+|-
+|style="text-align:left;"|[[Emerson College]]/[[WGN-TV]]<ref>{{Cite web|url=https://emersoncollegepolling.com/illinois-2026-poll-krishamoorthi-leads-democratic-senate-primary-plurality-still-undecided/|title=Illinois 2026 Poll: Krishnamoorthi Leads Democratic Senate Primary; Plurality Still Undecided|website=Emerson College Polling|date=January 8, 2026|access-date=January 8, 2026}}</ref>
+|January 3–5, 2026
+|432 (LV)
+|±&nbsp;4.7%
+|{{party shading/Republican}}|'''34%'''
+|8%
+|1%
+|5%
+|4%{{efn|Gregg Moore and Joseph Severino with 2%}}
+|{{party shading/Undecided}}|'''46%'''
+|}
+
+=== Results ===
+[[File:2026 Illinois gubernatorial Republican primary election results map by county.svg|thumb|160px|Results by county
+{{collapsible list
+| title = {{legend|#e27f7f|Bailey}}
+|{{legend|#ffc8cd|30–40%}}
+|{{legend|#ffb2b2|40–50%}}
+|{{legend|#e27f7f|50–60%}}
+|{{legend|#d75d5d|60–70%}}
+|{{legend|#d72f30|70–80%}}
+|{{legend|#c21b18|80–90%}}
+|{{legend|#a80000|90–100%}}
+}}
+{{collapsible list
+| title = {{legend|#FF9A50|Dabrowski}}
+|{{legend|#FFCCA9|30–40%}}
+|{{legend|#FFB580|40–50%}}
+}}
+]]
+{{Election box begin no change |title=Republican primary results<ref name=candidates />}}
+{{Election box winning candidate with party link no change
+|candidate={{ubl|[[Darren Bailey]]|Aaron Del Mar}}
+|party=Republican Party (United States)
+|votes=304,162
+|percentage=53.3
+}}
+{{Election box candidate with party link no change
+|party=Republican Party (United States)
+|candidate={{ubl|Ted Dabrowski|Carrie Mendoza}}
+|votes=165,229
+|percentage=28.9
+}}
+{{Election box candidate with party link no change
+|candidate={{ubl|James Mendrick|Robert Renteria}}
+|party=Republican Party (United States)
+|votes=54,599
+|percentage=9.6
+}}
+{{Election box candidate with party link no change
+|candidate={{ubl|Rick Heidner|Christina Neitzke-Troike}}
+|party=Republican Party (United States)
+|votes=46,374
+|percentage=8.1
+}}
+{{Election box total no change
+|votes=570,364
+|percentage=100.0
+}}
+{{Election box end}}
+
+==Third-party and independent candidates==
+
+=== Declared ===
+==== Independents ====
+*Collin Corbett, former Republican campaign strategist<ref>{{cite news |last1=Szalinski |first1=Ben |title=Former Republican strategist Collin Corbett files to run for governor as independent |url=https://capitolnewsillinois.com/news/former-republican-strategist-collin-corbett-files-to-run-for-governor-as-independent/ |access-date=27 May 2026 |work=Capitol News Illinois |date=26 May 2026}}</ref>
+**Running mate: Carolyn Schofield, Republican candidate for [[Lieutenant Governor of Illinois|lieutenant governor]] in [[2022 Illinois gubernatorial election|2022]]
+
+=== Illinois Solidarity Party ===
+==== Declared Write-In ====
+*Michael Vick, podcaster and pro-life activist<ref>{{Cite web |title=Candidate Detail CD |url=https://www.elections.il.gov/campaigndisclosure/CandidateDetailCD.aspx?ID=pQofIg08jFBDPjjSkwcnug== |access-date=2026-09-03 |website=www.elections.il.gov}}</ref>
+**Running mate: Gary Pierce, minister
+
+== General election ==
+===Predictions===
+{| class="wikitable" style=text-align:center
+!Source
+!Ranking
+!As of
+|-
+|align=left|''[[The Cook Political Report]]''<ref>{{cite web|title=2026 CPR Governor Race ratings|url=https://www.cookpolitical.com/ratings/governor-race-ratings|website=[[The Cook Political Report]]|access-date=January 23, 2025}}</ref>
+|{{USRaceRating|Solid|D}}
+|August 20, 2026
+|-
+|align=left|[[Decision Desk HQ]]<ref name="DDHQ">{{cite web |title=2026 Governor Forecast |url=https://votes.decisiondeskhq.com/forecast/2026/governor |website=Decision Desk HQ |access-date=22 September 2026}}</ref>
+|{{USRaceRating|Likely|D}}
+|September 23, 2026
+|-
+|align=left|[[Fox News]]<ref>{{cite web |title=Fox News Power Rankings: The top races to watch as 36 states choose their next governor |url=https://www.foxnews.com/politics/fox-news-power-rankings-top-races-watch-36-states-choose-next-governor |website=[[Fox News]] |publisher=Rémy Numa |access-date=24 July 2026}}</ref>
+|{{USRaceRating|Solid|D}}
+|July 23, 2026
+|-
+|align=left|''[[Inside Elections]]''<ref>{{Cite web|title=Gubernatorial Ratings|url=https://insideelections.com/ratings/governor|access-date=February 7, 2025|website=[[Inside Elections]]}}</ref>
+|{{USRaceRating|Solid|D}}
+|August 28, 2025
+|-
+|align="left"|[[RealClearPolitics]]<ref>{{Cite web|title=2026 Governor Races {{!}} RealClearPolitics|url=https://www.realclearpolling.com/maps/governor/2026/toss-up|access-date=June 5, 2026|website=[[RealClearPolitics]]|archive-url=https://web.archive.org/web/20260601183127/https://www.realclearpolling.com/maps/governor/2026/toss-up|archive-date=June 1, 2026|url-status=dead}}</ref>
+|{{USRaceRating|Solid|D}}
+|June 5, 2026
+|-
+|align=left|''[[Sabato's Crystal Ball]]''<ref>{{cite web|title=2026 Governor|url=https://centerforpolitics.org/crystalball/2026-governor/|website=[[Sabato's Crystal Ball]]|access-date=May 1, 2025}}</ref>
+|{{USRaceRating|Safe|D}}
+|August 12, 2026
+|-
+| style="text-align: left;" |[[Silver Bulletin]]<ref name=":Silver">{{Cite web |last=Silver |first=Nate |date=2026-08-20 |title=FLIPR 2026 midterm election forecast |url=https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model |url-access=subscription |access-date=2026-08-20 |website=www.natesilver.net |language=en}}</ref>
+| {{US political race rating|Solid|D}}
+|August 25, 2026
+|}
+
+===Post-primary endorsements===
+{{Endorsements box
+|title=JB Pritzker (D)
+|width=50em
+|list=
+'''State legislators'''
+*[[Jim Durkin]], former minority leader of the [[Illinois House of Representatives]] from the 82nd district (2013–2023) ''(Republican)''<ref>{{Cite web |last=Karlin |first=Ryan J. |title=Here are the Republicans backing Democratic candidates in the midterms |url=https://thehill.com/homenews/campaign/6120527-republicans-endorse-democrats-midterms/ |access-date=October 5, 2026 |website=[[The Hill (newspaper)|The Hill]]}}</ref>
+'''Organizations'''
+*[[End Citizens United]]<ref>{{Cite tweet |author=End Citizens United |author-link=End Citizens United |user=StopBigMoney |number=2059657642985828398 |title=🚨ENDORSEMENT ALERT🚨 We're proud to endorse Illinois Governor @JBPritzker for re-election. |date=May 27, 2026 |access-date=May 27, 2026}}</ref>
+*[[Giffords]]<ref>{{cite web |title=GIFFORDS PAC endorses Governor JB Pritzker and Christian Mitchell in Illinois |url=https://giffords.org/press-release/2026/04/giffords-pac-endorses-governor-jb-pritzker-and-christian-mitchell-in-illinois/ |website=[[Giffords]] |access-date=April 23, 2026 |date=23 April 2026}}</ref>
+*[[Human Rights Campaign]]<ref name="HRCAugust">{{cite web |title=Human Rights Campaign PAC Endorses Slate of Pro-Equality Candidates |url=https://www.hrc.org/press-releases/human-rights-campaign-pac-endorses-slate-of-pro-equality-candidates-for-governor-in-key-states |website=HRC |access-date=30 August 2026 |date=27 August 2026}}</ref>
+}}
+{{Endorsements box
+|title=Darren Bailey (R)
+|width=50em
+|list=
+'''U.S. Executive Branch officials'''
+*[[Donald Trump]], 45th and 47th [[president of the United States]] (2017–2021, 2025–present)<ref>https://www.chicagotribune.com/2026/09/14/donald-trump-endorses-darren-bailey/</ref>
+}}
+
+=== Polling ===
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name=Key|Key:<br />A – all adults<br />RV – registered voters<br />LV – likely voters<br />V – unclear}}
+! Margin<br />of error
+! style="width:100px;"| JB<br />Pritzker (D)
+! style="width:100px;"| Darren<br />Bailey (R)
+! Other
+! Undecided
+|-
+|style="text-align:left;"|[[Public Policy Polling]] (D)<ref>{{Cite web|url=https://www.cnwmedia.com/article/cnw-poll-pritzker-leads-bailey-by-20-points-democrats-ahead-in-four-other-statewide-races|title=CNW Poll: Pritzker Leads Bailey by 20 Points, Democrats Ahead in Four Other Statewide Races|first=Laura|last=Miller|website=Chicago News Weekly|date=October 4, 2026|access-date=October 6, 2026}}</ref>{{efn-ua|name=CNW|Poll conducted for Chicago News Weekly.}}
+|September 30 – October 1, 2026
+|569 (LV)
+|{{sdash}}
+|{{party shading/Democratic}}|'''54%'''
+|34%
+|6%{{efn|Collin Corbett (I) with 6%}}
+|6%
+|-
+|style="text-align:left;"|Victory Research<ref>{{Cite web|url=https://www.fox32chicago.com/news/illinois-jb-pritzker-poll-nov-25|title=Slight majority of Illinoisans approve of Gov. JB Pritzker as he seeks third term, poll finds|first1=Alex|last1=Ortiz|website=[[WFLD]]|date=November 30, 2025|access-date=December 1, 2025}}</ref>
+|November 20–24, 2025
+|1,208 (LV)
+|±&nbsp;2.8%
+|{{party shading/Democratic}}|'''54%'''
+|34%
+|{{sdash}}
+|12%
+|}
+
+===Results===
+{{Election box begin
+|title=2026 Illinois gubernatorial election
+}}
+{{Election box candidate with party link
+ | party      = Democratic Party (United States)
+ | candidate  = {{ubl|[[JB Pritzker]] (incumbent)|[[Christian Mitchell]]}}
+ | votes      = 
+ | percentage = 
+ | change     = 
+}}
+{{Election box candidate with party link
+ | party      = Republican Party (United States)
+ | candidate  = {{ubl|[[Darren Bailey]]|Aaron Del Mar}}
+ | votes      = 
+ | percentage = 
+ | change     = 
+}}
+{{Election box candidate with party link
+ | party      = Independent politician
+ | candidate  = {{ubl|Collin Corbett|Carolyn Schofield}}
+ | votes      = 
+ | percentage = 
+ | change     = 
+}}
+{{Election box total
+ | votes      = 
+ | percentage = 100.0
+}}
+{{Election box end}}
+
+== See also ==
+*[[2026 United States elections]]
+*[[2026 Illinois elections]] 
+*[[2026 United States Senate election in Illinois]] 
+*[[2026 United States House of Representatives elections in Illinois]]
+
+==Notes==
+{{notelist}}
+'''Partisan clients'''<br />
+{{notelist-ua}}
+
+==References==
+{{reflist}}
+
+== External links ==
+;Official campaign websites
+*[https://baileyforillinois.com/ Darren Bailey (R)]
+*[https://www.collinforil.com/ Collin Corbett (I)]
+*[https://jbpritzker.com/ JB Pritzker (D)]
+
+{{Illinois elections}}
+{{2026 United States elections}}
+
+[[Category:Illinois gubernatorial elections|2026]]
+[[Category:2026 United States gubernatorial elections|Illinois]]
+[[Category:2026 Illinois elections|Gubernatorial]]

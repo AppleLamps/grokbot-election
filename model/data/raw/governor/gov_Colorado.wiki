@@ -1,0 +1,613 @@
+{{pp|small=yes}}
+{{Short description|none}}
+{{for|related races|2026 United States gubernatorial elections}}
+{{Use American English|date=January 2025}}
+<!-- This short description is INTENTIONALLY "none" - please see WP:SDNONE before you consider changing it! -->
+{{Use mdy dates|date=September 2023}}
+{{Infobox election
+| election_name = 2026 Colorado gubernatorial election
+| country = Colorado
+| type = presidential
+| ongoing = yes
+| previous_election = 2022 Colorado gubernatorial election
+| previous_year = 2022
+| next_election = 2030 Colorado gubernatorial election
+| next_year = 2030
+| election_date = November 3, 2026
+| party1 = Democratic Party (United States)
+| image1 = AG Phil Weiser.jpg
+| nominee1 = [[Phil Weiser]]
+| running_mate1 = Lesley Dahlkemper
+| party2 = Republican Party (United States)
+| image2 = Victor Marx (52125665777) (cropped).jpg
+| nominee2 = [[Victor Marx]]
+| running_mate2 = George Markert
+| title = [[Governor of Colorado|Governor]]
+| before_election = [[Jared Polis]]
+| before_party = Democratic Party (United States)
+| after_election = 
+| after_party = 
+}}
+{{ElectionsCO}}
+
+The '''2026 Colorado gubernatorial election''' will be held on November 3, 2026, to elect the [[governor of Colorado]]. Incumbent [[Democratic Party (United States)|Democratic]] governor [[Jared Polis]] is [[Term limits in the United States|ineligible]] to seek re-election to a third consecutive term. [[Primary elections]] took place on June 30, 2026.<ref>{{Cite web|date=May 9, 2025 |title=2026 State Primary Election Dates |url=https://www.ncsl.org/elections-and-campaigns/2026-state-primary-election-dates|website= NCSL |access-date=5 August 2025}}</ref>
+
+In the Democratic primary, Colorado Attorney General [[Phil Weiser]] defeated U.S. senator [[Michael Bennet]]. If elected, Weiser would be the second consecutive Jewish governor after Polis. The [[Republican Party (United States)|Republican Party]] has not won a gubernatorial election in Colorado since [[2002 Colorado gubernatorial election|2002]] nor a statewide office since 2016.<ref>{{Cite news |last=Times |first=The New York |date=2017-08-01 |title=Colorado University Regents-At-Large Results: Heidi Ganahl Leads |url=https://www.nytimes.com/elections/2016/results/colorado-university-regents-at-large |access-date=2026-04-24 |work=The New York Times |language=en-US |issn=0362-4331}}</ref> Republican nominee [[Victor Marx]]'s candidacy has been mired in controversy; Marx has made a number of dubious claims and has notably stated he is unsure how many people he has killed.<ref name=":1">{{Cite web |date=May 27, 2026 |title=Full interview: Colorado Republican gubernatorial candidate Victor Marx |url=https://www.9news.com/video/news/politics/full-interview-colorado-republican-gubernatorial-candidate-victor-marx/73-c7e83d54-e098-41c0-b4fb-15457b261b06 |website=9News |language=en-US |access-date=May 29, 2026}}</ref> Leading to the Republican primary, both of Marx's opponents indicated they would refuse to endorse him if he won the nomination.<ref name="Luning 2026">{{Cite web |last=Luning |first=Ernest |date=May 27, 2026 |title=Republicans Kirkmeyer, Bottoms say they won’t back Marx if he wins Colorado’s gubernatorial primary |url=https://www.coloradopolitics.com/2026/05/27/republicans-kirkmeyer-bottoms-say-they-wont-back-marx-if-he-wins-colorados-gubernatorial-primary/ |website=Colorado Politics |language=en-US |access-date=July 21, 2026}}</ref>
+
+== Democratic primary ==
+=== Candidates ===
+To move forward to the primary, candidates had to petition onto the ballot or achieve 30% or more at the [[Colorado Democratic Party]] State Assembly. Michael Bennet was the only candidate to petition onto the primary ballot. All other candidates went through the State Assembly process. [[Phil Weiser]] was the only candidate to achieve 30% or more.<ref>{{cite news |work=[[Colorado Democratic Party]] |access-date=March 28, 2026 |url=https://www.coloradodems.org/press/colorado-democratic-party-concludes-2026-state-assembly-announces-results?fbclid=IwY2xjawQ1WJ9leHRuA2FlbQIxMQBicmlkETFGQmVobEtQV1Vubk5hT1M0c3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHq17U9MKJ8KzaqEtc_RpLGbfqCD74CWiN0D8uLv96FJS6y-4SGjmCPvQ-I4j_aem_tWJWw7WdgcoqyIBfcyphrw |title=Colorado Democratic Party Concludes 2026 State Assembly, Announces Results}}</ref> Bennet's petition was deemed sufficient on March 24, 2026.<ref>{{cite news |work=Colorado Secretary of State |access-date=April 15, 2026 |url=https://www.coloradosos.gov/pubs/elections/vote/primaryPetitionCandidates.html |title=2026 Primary Election Petition Candidates Who Submitted Petition Signatures}}</ref>
+
+==== Nominee ====
+*[[Phil Weiser]], [[Colorado Attorney General|attorney general of Colorado]] (2019–present)<ref>{{cite news |last1=Paul |first1=Jesse |title=Colorado Attorney General Phil Weiser launches 2026 campaign for governor |url=https://coloradosun.com/2025/01/02/phil-weiser-colorado-governor-2026/ |access-date=January 2, 2025 |work=[[The Colorado Sun]] |date=January 2, 2025}}</ref>
+**Running mate: Lesley Dahlkemper, [[Jefferson County, Colorado#Government and infrastructure|Jefferson County commissioner]]<ref>{{cite web|last=Paul|first=Jesse|title=Phil Weiser taps Jefferson County commissioner as running mate in Colorado governor's race|website=The Colorado Sun|date=July 22, 2026|url=https://coloradosun.com/2026/07/22/lesley-dahlhemper-phil-weiser-running-mate/|access-date=July 24, 2026}}</ref>
+
+====Eliminated in primary====
+*[[Michael Bennet]], [[U.S. senator]] (2009–present)<ref name=Bennet>{{cite web |last1=Kim |first1=Caitlyn |title=Sen. Michael Bennet is officially running for governor|url=https://www.cpr.org/2025/04/11/michael-bennet-running-for-colorado-governor/ |website=[[Colorado Public Radio]] |access-date=April 11, 2025 |date=April 11, 2025}}</ref>
+
+==== Declined ====
+*[[Jason Crow]], [[U.S. representative]] for {{ushr|CO|6}} (2019–present) ''([[2026 United States House of Representatives elections in Colorado#District 6|running for re-election]]; endorsed Bennet)''<ref name=upended/><ref name="HouseIncumbents">{{cite news |last1=Luning |first1=Ernest |title=Fields for Colorado's top 2026 statewide, congressional races begin to take shape |url=https://www.coloradopolitics.com/columnists/fields-for-colorados-top-2026-statewide-congressional-races-begin-to-take-shape--trail-mix/article_ad28c448-5791-49a9-a7bd-ef5202a269f8.html |access-date=May 9, 2025 |work=[[Colorado Politics]] |date=May 9, 2025 |language=en |quote=Every incumbent member of Congress from Colorado who is up for election next year is seeking another term}}</ref>
+*[[Jena Griswold]], [[Colorado Secretary of State|secretary of state of Colorado]] (2019–present) ''([[2026 Colorado Attorney General election|running for attorney general]])''<ref>{{cite news |last1=Paul |first1=Jesse |title=Jena Griswold is running to be Colorado's next attorney general |url=https://coloradosun.com/2025/04/07/jena-griswold-colorado-attorney-general/ |access-date=April 7, 2025 |work=[[The Colorado Sun]] |date=April 7, 2025 |quote=Griswold was also considering a 2026 bid to be Colorado's next governor. But those plans changed in the wake of U.S. Sen. Michael Bennet's expected gubernatorial candidacy.}}</ref>
+*[[Mike Johnston (Colorado politician)|Mike Johnston]], [[List of mayors of Denver|mayor of Denver]] (2023–present) and candidate for governor in [[2018 Colorado gubernatorial election|2018]]<ref name=Zornio>{{Cite web |last=Zornio |first=Trish |date=2024-04-01 |title=Zornio: These 6 women could replace Jared Polis in 2026. They're not who you think. |url=https://coloradosun.com/2024/04/01/women-governor-polis-opinion-zornio/ |access-date=2024-07-06 |website=[[The Colorado Sun]] |language=en-US |archive-date=April 20, 2024 |archive-url=https://web.archive.org/web/20240420033601/https://coloradosun.com/2024/04/01/women-governor-polis-opinion-zornio/ |quote=Johnston has promised not to [run for governor] on the heels of his election. |url-status=live }}</ref> ''(endorsed Bennet)''<ref name=Bennet/>
+*[[Joe Neguse]], [[U.S. representative]] for {{ushr|CO|2}} (2019–present) and nominee for [[Secretary of State of Colorado|secretary of state]] in [[2014 Colorado elections#Secretary of State|2014]] ''([[2026 United States House of Representatives elections in Colorado#District 2|running for re-election]]; endorsed Bennet)''<ref name=upended>{{cite news |date=April 11, 2025 |access-date=April 12, 2025 |work=[[Colorado Newsline]] |author=Woodruff, Chase |url=https://coloradonewsline.com/2025/04/11/michael-bennet-upends-race-colorado-governor-bid/ |title=Michael Bennet upends race with Colorado governor bid |quote=Rumored contenders for governor in 2026 had included Salazar, Secretary of State Jena Griswold, and U.S. Reps. Joe Neguse and Jason Crow...Neguse and Crow both quickly endorsed Bennet on Friday morning}}</ref><ref name="HouseIncumbents" />
+
+=== Endorsements ===
+{{Endorsements box
+|title=Michael Bennet
+|colwidth=60
+|list=
+;U.S. senators
+*[[John Hickenlooper]], [[Colorado]] (2021–present)<ref name=Bennet/>
+
+;U.S. representatives
+*[[Jason Crow]], [[CO-06]] (2019–present)<ref name=Bennet/>
+*[[Joe Neguse]], [[CO-02]] (2019–present)<ref name=Bennet/>
+*[[Brittany Pettersen]], [[CO-07]] (2023–present)<ref name="Pettersen">{{cite web |title=Democrat Brittany Pettersen throws support behind Michael Bennet in Colorado's gubernatorial primary |url=https://www.coloradopolitics.com/2025/10/09/democrat-brittany-pettersen-throws-support-behind-michael-bennet-in-colorados-gubernatorial-primary/ |website=[[Colorado Politics]] |date=October 9, 2025 |access-date=October 9, 2025}}</ref>
+
+;State legislators
+*[[Brianna Buentello]], former [[Colorado House of Representatives|HD-47]] (2019–2021)<ref name="Pueblo1">{{cite web |last1=Bartolo |first1=James |title=Weiser talks affordability, Pueblo ahead of 2026 gubernatorial primary |url=https://www.chieftain.com/story/news/local/2025/12/02/how-weiser-would-address-affordability-in-pueblo-as-colorado-governor/87513241007/ |website=Pueblo Chieftain |access-date=3 December 2025}}</ref>
+*[[James Coleman (politician)|James Coleman]], president of the [[Colorado State Senate|Colorado Senate]] (2025–present) from [[Colorado's 33rd Senate district|SD-33]] (2021–present)<ref name="BennetEndorse" />
+*[[Daneya Esgar]], former majority leader of the [[Colorado House of Representatives]] (2021–2023) from HD-46 (2015–2023)<ref name="Pueblo1"/>
+*[[Steve Fenberg]], former president of the [[Colorado State Senate|Colorado Senate]] (2022–2025) from [[Colorado's 18th Senate district|SD-18]] (2017–2025)<ref name="CPR">{{cite web |last1=Kim |first1=Caitlyn |title=As he runs for governor, Bennet rolls out long list of endorsements |url=https://www.cpr.org/2025/06/12/bennet-governor-race-endorsements/ |website=CPR News |access-date=23 April 2026 |date=June 12, 2025}}</ref>
+*[[Leroy Garcia]], former president of the [[Colorado State Senate|Colorado Senate]] (2019–2022) from [[Colorado's 3rd Senate district|SD-03]] (2015–2022)<ref name="Pueblo1"/>
+*[[Nick Hinrichsen]], [[Colorado's 3rd Senate district|SD-03]] (2022–present)<ref name="Pueblo1"/>
+*[[Tisha Mauro]], HD-46 (2023–present)<ref name="Pueblo1"/>
+*[[Julie McCluskie]], speaker of the [[Colorado House of Representatives]] (2023–present) from [[Colorado's 13th House of Representatives district|HD-13]] (2019–present)<ref name="BennetEndorse" />
+*[[Sal Pace]], former [[Colorado House of Representatives|HD-46]] (2009–2012)<ref name="Pueblo1"/>
+
+;Local officials
+*[[Michael Hancock (Colorado politician)|Michael Hancock]], former [[List of mayors of Denver|mayor]] of [[Denver]] (2011–2023)<ref name="CBS">{{cite web |last1=McRae |first1=Jennifer |title=Sen. Michael Bennet announces campaign for governor of Colorado |url=https://www.cbsnews.com/colorado/news/sen-michael-bennet-announces-campaign-governor-colorado/ |website=[[CBS News]] |access-date=11 April 2025 |date=April 11, 2025}}</ref>
+*[[Mike Johnston (Colorado politician)|Mike Johnston]], [[List of mayors of Denver|mayor]] of [[Denver]] (2023–present)<ref name="BennetEndorse">{{cite web |last1=Paul |first1=Jesse |title=Michael Bennet's campaign for Colorado governor has officially begun. So has the power struggle to fill his Senate seat. |url=https://coloradosun.com/2025/04/11/michael-bennet-colorado-governor-bid-2026/ |website=[[The Colorado Sun]] |access-date=11 April 2025 |date=April 11, 2025}}</ref>
+*[[Wellington Webb]], former [[List of mayors of Denver|mayor]] of [[Denver]] (1991–2003)<ref name="CBS" />
+
+;Labor unions
+*[[International Association of Fire Fighters|Colorado Professional Fire Fighters]]<ref name="CPFF">{{cite web |title=Colorado Professional Fire Fighters Endorses Sen. Michael Bennet for Governor |url=https://www.cpff.org/?zone=/unionactive/view_article.cfm&HomeID=978261 |website=Colorado Professional Fire Fighters |access-date=23 April 2026}}</ref>
+*[[United Association|UA Pipefitters Union]] Local 208<ref name="UA">{{cite web |title=Michael Bennet Labor Endorsement |url=https://www.reutersconnect.com/item/michael-bennet-labor-endorsement/dGFnOnJldXRlcnMuY29tLDIwMjU6bmV3c21sX01UMVpVTUEwMDBGVDU1VkM |website=Reuters |access-date=23 April 2026 |date=November 25, 2025}}</ref>
+}}
+{{Endorsements box
+|title=Phil Weiser
+|colwidth=60
+|list=
+;Executive branch officials
+*[[Federico Peña]], former [[United States Secretary of Energy|secretary of energy]] (1997–1998)<ref name="Pettersen"/>
+
+;U.S. senators
+*[[Tim Wirth]], former [[Colorado]] (1987–1993)<ref>{{cite web |title=Democrat Brittany Pettersen throws support behind Michael Bennet in Colorado's gubernatorial primary |url=https://www.coloradopolitics.com/2025/10/09/democrat-brittany-pettersen-throws-support-behind-michael-bennet-in-colorados-gubernatorial-primary/ |website=[[Colorado Politics]] |date=October 9, 2025 |access-date=October 9, 2025}}</ref>
+
+;U.S. representatives
+*[[Ed Perlmutter]], former [[CO-07]] (2007–2023)<ref>{{Cite news|url=https://coloradosun.com/2025/01/02/phil-weiser-colorado-governor-2026/|title=Colorado Attorney General Phil Weiser launches 2026 campaign for governor|last=Paul|first=Jesse|date=January 2, 2025|accessdate=April 11, 2025|work=[[The Colorado Sun]]}}</ref>
+*[[David Skaggs]], former [[CO-02]] (1987–1999)<ref name="Pettersen"/>
+
+;Statewide officials
+*[[Roy Romer]], former [[governor of Colorado]] (1987–1999)<ref name="Bennet Announcement">{{cite web |last1=Solender |first1=Andrew |last2=Frank |first2=John |last3=Neukam |first3=Stephen |title=Scoop: Michael Bennet to launch bid for Colorado governor |url=https://www.axios.com/2025/04/10/michael-bennet-colorado-governor-2026-election |website=[[Axios (website)|Axios]] |access-date=10 April 2025}}</ref>
+
+;State legislators
+*[[Morgan Carroll]], former president of the [[Colorado Senate]] (2015–2017) from [[Colorado's 29th Senate district|SD-29]] (2013–2019)<ref name="Pettersen"/>
+*[[Terrance Carroll]], former speaker of the [[Colorado House of Representatives]] (2009–2011) from HD-07 (2003–2011)<ref name="Pettersen"/>
+*[[Javier Mabrey]], [[Colorado's 1st House of Representatives district|HD-01]] (2023–present)<ref>{{cite web |last1=Schneider |first1=Elena |title=Colorado Will Test How Toxic Washington Is for Democrats |url=https://www.notus.org/2026-election/colorado-michael-bennet-governor-primary-washington |website=NOTUS |access-date=29 June 2026 |date=26 June 2026}}</ref>
+*[[Brandon Shaffer]], former president of the [[Colorado Senate]] (2009–2013) from [[Colorado's 17th Senate district|SD-17]] (2005–2013)<ref name="Pettersen"/>
+
+;Local officials
+*[[Jennifer Arndt]], former mayor of [[Fort Collins]] (2021–2026)<ref name="Arndt">{{cite web |last1=Hutton |first1=Sam |title=Colorado gubernatorial candidate Phil Weiser visits Fort Collins to engage voters |url=https://collegian.com/articles/featured/2025/10/category-news-colorado-gubernatorial-candidate-phil-weiser-visits-fort-collins-to-engage-voters/ |website=The Rocky Mountain Collegian |access-date=23 April 2026 |date=October 15, 2025}}</ref>
+
+;Individuals
+*[[Dottie Lamm]], former first lady of [[Colorado]] (1975–1987)<ref name="Bennet Announcement"/>
+
+;Labor unions
+*[[UFCW]] Local 7<ref name=ufcw>{{Cite web|title=Our 2026 Endorsed Candidates|url=https://www.ufcw7.org/2026-political-endorsements|access-date=2026-05-31 |website=UFCW 7 |language=en-US}}</ref>
+
+;Organizations
+*[[Indivisible movement|Indivisible]] Colorado<ref>{{cite web |last1=Winchell |first1=Carly |title=Colorado Indivisible Action Network Announces Endorsements in Gubernatorial, Senate Races |url=https://arkvalleyvoice.com/colorado-indivisible-action-network-announces-endorsements-in-gubernatorial-senate-races/ |website=Ark Valley Voice |access-date=15 March 2026 |date=14 March 2026}}</ref>
+
+;Newspapers
+*''[[The Durango Herald]]''<ref>{{cite web |title=Our view: Democratic primary for governor |url=https://www.durangoherald.com/articles/our-view-democratic-primary-for-governor/ |website=Durango Herald |access-date=9 June 2026}}</ref>
+}}
+
+=== Polling ===
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"}}
+! Margin<br />of error
+! style="width:75px;"| Michael<br />Bennet
+! style="width:75px;"| Phil<br />Weiser
+! Undecided
+|-
+|style="text-align:left;"|[[Public Policy Polling]] (D)<ref>{{cite web|url=https://coloradosun.com/2026/06/25/phil-weiser-michael-bennet-poll-colorado-governors-race/|title=Phil Weiser leads Michael Bennet in new poll, with Colorado's Democratic primary for governor coming down to undecided voters|first=Jesse|last=Paul|website=[[The Colorado Sun]]|date=June 25, 2026|access-date=June 25, 2026}}</ref>{{Efn-ua|name=Fighting}}
+|June 24–25, 2026
+|600 (LV)
+|±&nbsp;4.0%
+|36%
+|{{party shading/Democratic}} |'''45%'''
+|19%
+|-
+|style="text-align:left;"|[[Public Policy Polling]] (D)<ref>{{cite web|url=https://onsightpublicaffairs.com/2026/06/weiser-and-bennet-locked-in-a-tight-race-in-colorados-democratic-primary-for-governor/|title=Weiser and Bennet locked in a tight race in Colorado's Democratic primary for Governor|website=OnSight Public Affairs|date=June 3, 2026|access-date=June 3, 2026}}</ref>{{Efn-ua|name=Fighting|Poll sponsored by Fighting For Colorado PAC, which supports Weiser}}
+|June 1–2, 2026
+|505 (LV)
+|±&nbsp;4.4%
+|{{party shading/Democratic}} |'''36%'''
+|30%
+|34%
+|-
+|style="text-align:left;"|Tavern Research<ref>{{Cite tweet|user=PollTracker2024|number=2070667501348769888|title= Tavern Research poll |access-date=June 29, 2026}}</ref>{{Efn-ua|name=RMW|Poll sponsored by Rocky Mountain Way PAC, which supports Bennett}}
+|May 31 – June 1, 2026
+|(LV)
+|–
+|{{party shading/Democratic}} | '''35%'''
+|28%
+|{{party shading/Undecided}} | '''36%'''
+|-
+|style="text-align:left;"|Colorado Community Research<ref>{{cite web|url= https://www.coloradocommunityresearch.com/past-polls-surveys/weiser-leads-bennet-particularly-among-voters-who-are-disillusioned-with-the-colorado-democratic-party|title=Weiser leads Bennet, particularly among voters who are disillusioned with the Colorado Democratic Party|website=Colorado Community Research|date=June 11, 2026|access-date=June 11, 2026}}</ref>
+|May 22–28, 2026
+|796 (LV)
+|±&nbsp;4.0%
+|34%
+|{{party shading/Democratic}} | '''41%'''
+|25%
+|-
+|style="text-align:left;"|Keating Research<ref>{{Cite tweet|user=COProFFs|number=2028563099054493870|title=Colorado Professional Fire Fighters are backing @michaelbennet, because he backs Colorado Firefighters. We see firsthand what's at stake - protection for first responders, disaster response, forest management, and wildfire funding. Our support isn't symbolic, it's practical|access-date=June 4, 2026}}</ref>{{efn-ua|name=COProFFs|Poll sponsored by Colorado Professional Fire Fighters, which supports Bennet}}
+|January 26 – February 1, 2026
+|800 (LV)
+|±&nbsp;3.5%
+|{{party shading/Democratic}} |'''53%'''
+|26%
+|21%
+|-
+|style="text-align:left;"|[[Global Strategy Group]] (D)<ref>{{cite web |title=New Polling Finds Bennet with a Wide Lead in Colorado Dem Governor Primary |url=https://www.michaelbennet.com/wp-content/uploads/2025/06/CO-Gov-Dem-Primary-Polling-Memo-F06.13.25.pdf | first1=Andrew |last1=Baumann |first2=Joey |last2=Teitelbaum | work=[[Global Strategy Group]] |access-date=June 17, 2025 |date=June 13, 2025 | via=''www.michaelbennet.com''}}</ref>{{Efn-ua|name=Bennet|Poll sponsored by Bennet's campaign}}
+|June 9–11, 2025
+|600 (LV)
+|±&nbsp;4.0%
+|{{party shading/Democratic}} |'''53%'''
+|22%
+|25%
+|}
+
+<!-- = = = don't edit the line below = = = -->
+{{hidden begin|titlestyle=background:#cff|title=Hypothetical polling|contentstyle=border:solid 1px silver; padding:8px; background:var(--background-color-base); color:var(--color-base);}}
+<!-- = = = don't edit the line above = = = -->
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|Key:<br>A – all adults<br>RV – registered voters<br>LV – likely voters<br>V – unclear|name="Key"}}
+! Margin<br />of error
+! style="width:65px;"| Jena<br />Griswold
+! style="width:65px;"| Joe<br />Neguse
+! style="width:65px;"| Ken<br />Salazar
+! style="width:65px;"| Phil<br />Weiser
+! Other
+! Undecided
+|-
+|style="text-align:left;"|Healthier Colorado (D)/<br />[[Magellan Data and Mapping Strategies|Magellan Strategies]] (R)<ref>{{cite web |last1=Zelinger |first1=Marshall |title=Poll shows Rep. Joe Neguse leading Democratic candidates in race for Colorado governor |url=https://www.9news.com/article/news/local/local-politics/poll-democratic-candidates-colorado-governor/73-d137801d-3933-48a1-80f7-acbd2996eaa5 |publisher=[[KUSA (TV)|KUSA]] |access-date=17 December 2024 |date=16 November 2024}}</ref>
+|December 4–9, 2024
+|630 (LV)
+|±&nbsp;3.9%
+|16%
+|{{party shading/Democratic}} |'''20%'''
+|11%
+|8%
+|8%
+|{{party shading/Undecided}} |'''37%'''
+|}
+{{hidden end}}
+
+=== Debates ===
+{| class="wikitable" style="text-align:center;"
+|+ 2026 gubernatorial election Democratic primary debates
+|-
+! scope="col" | {{abbr|No.|Number}}
+! scope="col" | Date
+! scope="col" | Host
+! scope="col" | Moderator
+! scope="col" | Link
+! scope="col"| <small>[[Democratic Party (US)|Democratic]]</small>
+! scope="col"| <small>[[Democratic Party (US)|Democratic]]</small>
+|-
+! colspan="5" rowspan="2" |Key:<br>{{Colors|black|#90ff90|&nbsp;P&nbsp;}} <small>Participant&nbsp;</small> {{Colors|black|#FFFFDD|&nbsp;A&nbsp;}} <small>Absent&nbsp;</small> {{Colors|black|#ff9090|&nbsp;N&nbsp;}} <small>Not invited&nbsp;</small> {{Colors|black|#CCFFCC|&nbsp;I&nbsp;}} <small>Invited {{color box|#f0e68c|W}} Withdrawn</small>
+! scope="col" style="background:{{party color|Democratic Party (US)}}"|
+! scope="col" style="background:{{party color|Democratic Party (US)}}"|
+|-
+! scope="col" | [[Michael Bennet]]
+! scope="col" | [[Phil Weiser]]
+|-
+!1
+| style="white-space:nowrap;" | May 7, 2026
+| style="white-space:nowrap;" | [[Colorado Public Radio]]<br>[[KMGH-TV]]<br>''[[The Denver Post]]''
+| style="white-space:nowrap;" | Colette Bordelon<br>Nick Coltrain<br>Ryan Warner
+| style="white-space:nowrap;" | [https://www.youtube.com/watch?v=NiBRNH4aETc YouTube]
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+|-
+!2
+| style="white-space:nowrap;" | Jun. 4, 2026
+| style="white-space:nowrap;" | Colorado Politics<br>[[KUSA (TV)|KUSA]]<br>[[University of Denver]]
+| style="white-space:nowrap;" | Kyle Clark<br>Marshall Zelinger
+| style="white-space:nowrap;" | [https://www.youtube.com/watch?v=Fb-nX5vlqLE YouTube]
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+|}
+
+=== Results ===
+[[File:2026 Colorado Democratic gubernatorial primary election results map by county.svg|thumb|250px|Primary results by county:
+{{collapsible list
+| title = {{legend|#7996E2|Weiser}}
+|{{legend|#7996E2|50–60%}}
+|{{legend|#6674DE|60–70%}}
+}}
+{{collapsible list
+| title = {{legend|#51C2C2|Bennet}}
+|{{legend|#51C2C2|50–60%}}
+|{{legend|#2AACAC|60–70%}}
+|{{legend|#009696|70–80%}}
+|{{legend|#008080|80–90%}}
+}}
+]]
+{{Election box begin no change
+  | title = Democratic primary results
+}}{{Election box winning candidate with party link no change
+  |party      = Democratic Party (United States)
+  |candidate  = [[Phil Weiser]]
+  |votes      = 505,444
+  |percentage = 56.9
+}}{{Election box candidate with party link no change
+  |party      = Democratic Party (United States)
+  |candidate  = [[Michael Bennet]]
+  |votes      = 383,131
+  |percentage = 43.1
+}}{{Election box total no change
+  |votes      = 888,575
+  |percentage = 100.0
+}}{{Election box end}}
+
+== Republican primary ==
+=== Candidates ===
+To move forward to the primary, candidates had to petition onto the ballot or achieve 30% or more at the [[Colorado Republican Party]] State Assembly. [[Barbara Kirkmeyer]] was the only candidate to petition onto the primary ballot. Her petition was deemed sufficient on April 15, 2026.<ref>{{cite news |work=Colorado Secretary of State |access-date=April 15, 2026 |url=https://www.coloradosos.gov/pubs/elections/vote/primaryPetitionCandidates.html |title=2026 Primary Election Petition Candidates Who Submitted Petition Signatures}}</ref> All other candidates went through the State Assembly process. [[Scott Bottoms]] and [[Victor Marx]] were the only candidates to achieve 30% or more.<ref name="Assembly">{{cite news |work=The Colorado Sun |access-date=April 12, 2026 |url=https://coloradosun.com/2026/04/11/scott-bottoms-gop-primary-ballot-colorado-governor/ |title=State Rep. Scott Bottoms secures top spot on Republican primary ballot for Colorado governor}}</ref>
+
+==== Nominee ====
+*[[Victor Marx]], ministry leader<ref name="Marx">{{cite web|url=https://www.coloradopolitics.com/2025/10/03/ministry-founder-high-risk-missionary-victor-marx-joins-colorados-republican-gubernatorial-primary/|title=Ministry founder, 'high-risk' missionary Victor Marx joins Colorado's Republican gubernatorial primary|last=Luning|first=Ernest|date=October 3, 2025|access-date=October 3, 2025|website=[[The Colorado Statesman|Colorado Politics]]}}</ref>
+**Running mate: George Markert, AI strategic advisor<ref>{{cite news |work=[[CBS News]] |access-date=August 20, 2026 |author=Swanson, Christa |date=August 1, 2026 |url=https://www.cbsnews.com/colorado/news/colorado-republican-gubernatorial-nominee-chooses-running-mate/ |title=Colorado Republican gubernatorial nominee Victor Marx chooses running mate}}</ref>
+
+==== Eliminated in primary ====
+*[[Scott Bottoms]], [[Colorado House of Representatives|state representative]] from the 15th district (2023–present)<ref name=bottoms>{{cite news |last1=Paul |first1=Jesse |title=Scott Bottoms, Republican state representative, will run for Colorado governor in 2026 |url=https://coloradosun.com/2025/01/20/scott-bottoms-colorado-governor-2026/ |access-date=January 20, 2025 |work=[[The Colorado Sun]] |date=January 20, 2025}}</ref>
+*[[Barbara Kirkmeyer]], [[Colorado Senate|state senator]] from the [[Colorado's 23rd Senate district|23rd district]] (2021–present), candidate for [[Colorado's 4th congressional district]] in [[2014 United States House of Representatives elections in Colorado#District 4|2014]], and nominee for [[Colorado's 8th congressional district]] in [[2022 United States House of Representatives elections in Colorado#District 8|2022]]<ref>{{cite news |last1=Paul |first1=Jesse |title=Republican Barbara Kirkmeyer is running to be Colorado's next governor |url=https://coloradosun.com/2025/09/09/barbara-kirkmeyer-colorado-governor-2026/ |access-date=September 9, 2025 |work=The Colorado Sun |date=September 9, 2025}}</ref><ref name="Assembly" />
+
+==== Eliminated at convention ====
+*Jason Clark, money manager, candidate for governor in [[2014 Colorado gubernatorial election|2014]] and independent candidate in [[2010 Colorado gubernatorial election|2010]]<ref>{{cite news |last1=Metzger |first1=Hannah |title=Third Time's the Charm? Jason Clark Is Running for Colorado Governor...Again |url=https://www.westword.com/news/third-times-the-charm-jason-clark-running-colorado-governor-23107563 |access-date=January 22, 2025 |work=[[Westword]] |date=January 22, 2025 |language=en}}</ref>
+*Joshua Griffin, research and development firm founder and candidate for {{ushr|CO|5}} in [[2024 United States House of Representatives elections in Colorado#District 5|2024]]<ref name="Marx" />
+*Will McBride, attorney<ref name="Marx" />
+*Jason Mikesell, [[Teller County]] sheriff<ref>{{cite news |last1=Watson |first1=Lauren |title=Teller County Sheriff Jason Mikesell running for Colorado governor |url=https://www.kktv.com/2025/03/13/teller-county-sheriff-jason-mikesell-running-colorado-governor/ |access-date=March 13, 2025 |work=[[KKTV]] |date=March 13, 2025 |language=en}}</ref>
+
+==== Withdrawn ====
+*[[Mark Baisley]], [[Colorado Senate|state senator]] from the [[Colorado's 4th Senate district|4th district]] (2023–present) (''[[2026 United States Senate election in Colorado|running for U.S. senate]]'')<ref name="Lopez"/>
+*[[Greg Lopez]], former [[U.S. representative]] from {{ushr|CO|4}} (2024–2025) and candidate for governor in [[2018 Colorado gubernatorial election|2018]] and [[2022 Colorado gubernatorial election|2022]] ''(running as an Independent)''<ref name="Lopez">{{cite news |last1=Boyd |first1=Shaun |title=Former Colorado Republican congressman leaves the GOP, reshuffling the gubernatorial race |url=https://www.cbsnews.com/colorado/news/greg-lopez-colorado-governor-race-unaffiliated-candidate/ |access-date=January 6, 2026 |work=[[CBS News]] |date=January 5, 2026}}</ref>
+*[[Joe Oltmann]], podcaster<ref>{{cite news |last1=Luning |first1=Ernest |title=Colorado podcaster who has called for political foes to be executed joins GOP primary for governor |url=https://www.9news.com/article/news/politics/joe-oltmann-running-for-colorado-governor/73-cb3d81e6-e43d-4eac-a1a5-2785beb3287d |access-date=December 28, 2025 |work=[[KUSA (TV)|9News]] |date=December 27, 2025 |language=en}}</ref>
+
+=== Endorsements ===
+{{Endorsements box
+|title=Barbara Kirkmeyer
+|list=
+;U.S. representatives
+*[[Gabe Evans]], {{ushr|CO|8|CO-08}} (2025–present)<ref name="CPol" />
+*[[Scott McInnis]], former {{ushr|CO|3|CO-03}} (1993–2005)<ref name="CPol" />
+;Statewide officials
+*[[Bill Owens (Colorado politician)|Bill Owens]], former [[governor of Colorado]] (1999–2007)<ref name="EvansOwens">{{cite web |last1=Luning |first1=Ernest |title=Colorado Republicans Gabe Evans, Bill Owens endorse Barb Kirkmeyer's gubernatorial campaign |url=https://www.coloradopolitics.com/2025/10/09/colorado-republicans-gabe-evans-bill-owens-endorse-barb-kirkmeyers-gubernatorial-campaign/ |access-date=October 11, 2025 |work=[[Colorado Politics]] |date=October 9, 2025}}</ref>
+;Local officials
+*[[Mike Coffman]], mayor of [[Aurora, Colorado|Aurora]] (2019–present)<ref name="CPol" />
+*[[John Suthers]], former [[Colorado Springs|Mayor of Colorado Springs]] (2015-2023)<ref name="CPol">{{cite web |last1=Loevy |first1=Bob |title=Hard-fought Dem primary could put GOP’s Kirkmeyer in governor’s chair |url=https://www.coloradopolitics.com/2026/05/17/hard-fought-dem-primary-could-put-gops-kirkmeyer-in-governors-chair-cronin-loevy/ |website=Colorado Politics |access-date=27 May 2026 |date=May 17, 2026}}</ref>
+;Newspapers
+*''[[The Gazette (Colorado Springs)|Colorado Springs Gazette]]''<ref>{{cite web |title=ENDORSEMENT: Kirkmeyer's credibility can carry the day in governor's race |url=https://gazette.com/2026/06/07/endorsement-kirkmeyers-credibility-can-carry-the-day-in-governors-race/ |website=Colorado Springs Gazette |access-date=9 June 2026 |date=7 June 2026}}</ref>
+*''[[The Gazette (Colorado Springs)#History|Denver Gazette]]''<ref>{{cite web |title=ENDORSEMENT: Barb Kirkmeyer for Colorado governor |url=https://www.denvergazette.com/2026/03/15/endorsement-barb-kirkmeyer-for-colorado-governor/ |website=Denver Gazette |access-date=16 March 2026 |date=15 March 2026}}</ref>
+}}
+{{Endorsements box
+|title=Victor Marx
+|list=
+;Executive branch officials
+*[[Michael Flynn]], former [[United States National Security Advisor|national security advisor]] (2017)<ref name="Somevery"/>
+;U.S. representatives
+*[[Lauren Boebert]], [[CO-04]] (2021–present)<ref name="Marx"/>
+;Individuals
+*[[Ted Nugent]], rock musician<ref name="Somevery">{{cite web |title=Victor Marx Locks Down Some Very Boebert-y Endorsements |url=https://www.coloradopols.com/diary/220660/victor-marx-locks-down-some-very-boebert-y-endorsements |website=Colorado Pols |access-date=3 February 2026}}</ref>
+*[[Derek Wolfe]], former [[National Football League|NFL]] player<ref>{{cite web |title=The dangerous gentleman enters the race: Victor Marx launches gubernatorial bid |url=https://rockymountainvoice.com/2025/10/02/the-dangerous-gentleman-enters-the-race-victor-marx-launches-gubernatorial-bid/ |website=Rocky Mountain Voice |access-date=4 July 2026 |date=2 October 2025}}</ref>
+}}
+
+=== Polling ===
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"}}
+! Margin<br />of error
+! style="width:70px;"| Scott<br />Bottoms
+! style="width:70px;"| Victor<br />Marx
+! style="width:70px;"| Barbara<br />Kirkmeyer
+! Undecided
+|-
+|style="text-align:left;"|Cygnal (R)<ref>{{cite web|url=https://artthreat.net/34970-87490-victor-marx-leads-colorado-gop-primary-with-42-support-in-first-public-poll/|title=Victor Marx leads Colorado GOP primary with 42% support in first public poll|first=Alexander|last=Woodward|website=Art Threat|date=May 19, 2026|access-date=May 20, 2026}}</ref>{{Efn-ua|name=IEC|Poll sponsored by Freedom IEC, which supports Marx<ref>{{cite web |title=Home |url=https://freedomiec.com/ |publisher=Freedom Independent Expenditure Committee |access-date=May 21, 2026}}</ref>}}
+|May 7–8, 2026
+|600 (LV)
+|±&nbsp;4.0%
+|7%
+|{{party shading/Republican}} |'''42%'''
+|13%
+|38%
+|}
+
+=== Debates ===
+{| class="wikitable" style="text-align:center;"
+|+ 2026 gubernatorial election Republican primary debates
+|-
+! scope="col" | {{abbr|No.|Number}}
+! scope="col" | Date
+! scope="col" | Host
+! scope="col" | Moderator
+! scope="col" | Link
+! scope="col"| <small>[[Republican Party (US)|Republican]]</small>
+! scope="col"| <small>[[Republican Party (US)|Republican]]</small>
+! scope="col"| <small>[[Republican Party (US)|Republican]]</small>
+|-
+! colspan="5" rowspan="2" |Key:<br>{{Colors|black|#90ff90|&nbsp;P&nbsp;}} <small>Participant&nbsp;</small> {{Colors|black|#FFFFDD|&nbsp;A&nbsp;}} <small>Absent&nbsp;</small> {{Colors|black|#ff9090|&nbsp;N&nbsp;}} <small>Not invited&nbsp;</small> {{Colors|black|#CCFFCC|&nbsp;I&nbsp;}} <small>Invited {{color box|#f0e68c|W}} Withdrawn</small>
+! scope="col" style="background:{{party color|Republican Party (US)}}"|
+! scope="col" style="background:{{party color|Republican Party (US)}}"|
+! scope="col" style="background:{{party color|Republican Party (US)}}"|
+|-
+! scope="col" | [[Scott Bottoms]]
+! scope="col" | [[Barbara Kirkmeyer]]
+! scope="col" | [[Victor Marx]]
+|-
+!1
+| style="white-space:nowrap;" | May 14, 2026
+| style="white-space:nowrap;" | [[Colorado Public Radio]]<br>[[KMGH-TV]]<br>''[[The Denver Post]]''
+| style="white-space:nowrap;" | John Aguilar<br>Colette Bordelon<br>Bazi Kanani
+| style="white-space:nowrap;" | [https://www.youtube.com/watch?v=IAWdzPy1Zo0 YouTube]
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{D-A|'''A'''}}
+|-
+!2
+| style="white-space:nowrap;" | Jun. 2, 2026
+| style="white-space:nowrap;" | Colorado Politics<br>[[KUSA (TV)|KUSA]]<br>[[University of Denver]]
+| style="white-space:nowrap;" | Kyle Clark<br>Marshall Zelinger
+| style="white-space:nowrap;" | [https://www.youtube.com/watch?v=fRjSJN2iJzg YouTube]
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+|}
+
+=== Results ===
+[[File:2026 Colorado Republican gubernatorial primary election results map by county.svg|thumb|250px|Primary results by county:
+{{collapsible list
+| title = {{legend|#E27F7F|Marx}}
+|{{legend|#FFC8CD|30–40%}}
+|{{legend|#FFB2B2|40–50%}}
+|{{legend|#E27F7F|50–60%}}
+}}
+{{collapsible list
+| title = {{legend|#FF9A50|Kirkmeyer}}
+|{{legend|#FFCCA9|30–40%}}
+|{{legend|#FFB580|40–50%}}
+|{{legend|#FF9A50|50–60%}}
+}}
+{{collapsible list
+| title = {{legend|#5FD35F|Bottoms}}
+|{{legend|#AAE5AA|30–40%}}
+}}
+]]
+{{Election box begin no change
+  | title = Republican primary results
+}}{{Election box winning candidate with party link no change
+  |party      = Republican Party (United States)
+  |candidate  = [[Victor Marx]]
+  |votes      = 208,455
+  |percentage = 39.9
+}}{{Election box candidate with party link no change
+  |party      = Republican Party (United States)
+  |candidate  = [[Barbara Kirkmeyer]]
+  |votes      = 205,990
+  |percentage = 39.4
+}}{{Election box candidate with party link no change
+  |party      = Republican Party (United States)
+  |candidate  = [[Scott Bottoms]]
+  |votes      = 108,529
+  |percentage = 20.8
+}}{{Election box total no change
+  |votes      = 522,974
+  |percentage = 100.0
+}}{{Election box end}}
+
+==Unity primary==
+===Candidates===
+====Nominee====
+* [[Jeff Peckman]], [[UFO]] disclosure activist
+
+====Eliminated in primary====
+* [[Paul Noel Fiorino]], [[ballet]] instructor and [[perennial candidate]]
+
+=== Results ===
+{{Election box begin no change
+  | title = Unity primary results<ref>{{cite web |title=Governor - Unity Party |url=https://results.enr.clarityelections.com/CO/126592/web.345435/#/detail/54 |website=Colorado Secretary of State |access-date=1 July 2026}}</ref>
+}}{{Election box winning candidate with party link no change
+  |party      = Unity Party of America
+  |candidate  = [[Jeff Peckman]]
+  |votes      = 146
+  |percentage = 53.7
+}}{{Election box candidate with party link no change
+  |party      = Unity Party of America
+  |candidate  = [[Paul Noel Fiorino]]
+  |votes      = 126
+  |percentage = 46.3
+}}{{Election box total no change
+  |votes      = 272
+  |percentage = 100.0
+}}{{Election box end}}
+
+== Third-party candidates ==
+=== Candidates ===
+==== Declared ====
+*Stephen Hamilton ([[American Constitution Party (Colorado)|American Constitution]])<ref>{{Cite web |title=Candidate registration for Stephen Hamilton on Colorado Secretary of State TRACER |url=https://tracer.sos.colorado.gov/PublicSite/SearchPages/CandidateDetail.aspx?SeqID=61664 |access-date=2024-12-02 |website=Colorado Secretary of State |language=en-US}}</ref>
+*Eric Mulder (Libertarian)<ref name="Candidates"/>
+*Erik Underwood (Approval Voting)<ref name="Candidates">{{cite web |title=2026 General Election Official Candidate List |url=https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html |access-date=September 24, 2026}}</ref>
+
+==== Withdrawn ====
+*Frederick Osborne, actor ([[No Labels]])<ref>{{Cite web |title=Candidate registration for Frederick White Osborne on Colorado Secretary of State TRACER |url=https://tracer.sos.colorado.gov/PublicSite/SearchPages/CandidateDetail.aspx?SeqID=66461 |access-date=2024-12-02 |website=Colorado Secretary of State |language=en-US}}</ref>
+
+== Independents ==
+=== Candidates ===
+==== Declared ====
+*[[Greg Lopez]], former [[U.S. representative]] from {{ushr|CO|4}} (2024–2025) and candidate for governor in [[2018 Colorado gubernatorial election|2018]] and [[2022 Colorado gubernatorial election|2022]] ''(previously ran as a Republican)''<ref name="Lopez"/>
+**Running mate: Taralyn Romero, property-rights advocate<ref>https://www.cpr.org/2026/09/25/vg-2026-greg-lopez-voter-guide/</ref>
+
+==== Filed paperwork ====
+*Jon Collamer<ref>{{Cite web |title=Candidate registration for Rev Willow Collamer on Colorado Secretary of State TRACER |url=https://tracer.sos.colorado.gov/PublicSite/SearchPages/CandidateDetail.aspx?SeqID=61694 |access-date=2024-12-02 |website=Colorado Secretary of State |language=en-US}}</ref>
+*Bradley Allen Wall<ref>{{Cite web |title=Candidate registration for Bradley Allen Wall on Colorado Secretary of State TRACER |url=https://tracer.sos.colorado.gov/PublicSite/SearchPages/CandidateDetail.aspx?Type=CA&SeqID=63223 |access-date=2025-04-15 |website=tracer.sos.colorado.gov}}</ref>
+====Withdrawn====
+*Shawn Bennett<ref>{{Cite web |title=Candidate registration for Shawn Bennett on Colorado Secretary of State TRACER |url=https://tracer.sos.colorado.gov/PublicSite/SearchPages/CandidateDetail.aspx?SeqID=65013 |access-date=2025-10-21 |website=Colorado Secretary of State |language=en-US}}</ref>
+
+==== Declined ====
+*Kent Thiry, former CEO of [[DaVita]]<ref>{{cite news |work=[[Colorado Public Radio]] |author=Kenney, Andrew |access-date=September 3, 2024 |url=https://www.cpr.org/2024/08/20/kent-thiry-reshaped-colorado-electoral-system-initiative-310/ |date=August 20, 2024 |title=The multimillionaire who reshaped Colorado's electoral system wants to make even bigger changes |archive-date=September 3, 2024 |archive-url=https://web.archive.org/web/20240903160804/https://www.cpr.org/2024/08/20/kent-thiry-reshaped-colorado-electoral-system-initiative-310/ |quote=During a recent interview at his mansion in Cherry Hills Village, Thiry said he would not run for the state's highest office. |url-status=live }}</ref>
+
+== General election ==
+===Predictions===
+{| class="wikitable" style=text-align:center
+!Source
+!Ranking
+!As of
+|-
+|-
+|align=left|''[[The Cook Political Report]]''<ref>{{cite web|title=2026 CPR Governor Race ratings|url=https://www.cookpolitical.com/ratings/governor-race-ratings|website=[[The Cook Political Report]]|access-date=January 23, 2025}}</ref>
+|{{USRaceRating|Solid|D}}
+|September 10, 2026
+|-
+|align=left|[[Decision Desk HQ]]<ref name="DDHQ">{{cite web |title=2026 Governor Forecast |url=https://votes.decisiondeskhq.com/forecast/2026/governor |website=Decision Desk HQ |access-date=22 September 2026}}</ref>
+|{{USRaceRating|Likely|D}}
+|September 23, 2026
+|-
+|align=left|[[Fox News]]<ref>{{cite web |title=Fox News Power Rankings: The top races to watch as 36 states choose their next governor |url=https://www.foxnews.com/politics/fox-news-power-rankings-top-races-watch-36-states-choose-next-governor |website=[[Fox News]] |publisher=Rémy Numa |access-date=24 July 2026}}</ref>
+|{{USRaceRating|Solid|D}}
+|July 23, 2026
+|-
+|align=left|''[[Inside Elections]]''<ref>{{Cite web|title=Gubernatorial Ratings|url=https://insideelections.com/ratings/governor|access-date=February 7, 2025|website=[[Inside Elections]]}}</ref>
+|{{USRaceRating|Solid|D}}
+|September 3, 2025
+|-
+|align="left"|[[RealClearPolitics]]<ref>{{Cite web|title=2026 Governor Races {{!}} RealClearPolitics|url=https://www.realclearpolling.com/maps/governor/2026/toss-up|access-date=June 5, 2026|website=[[RealClearPolitics]]|archive-url=https://web.archive.org/web/20260601183127/https://www.realclearpolling.com/maps/governor/2026/toss-up|archive-date=June 1, 2026|url-status=dead}}</ref>
+|{{USRaceRating|Solid|D}}
+|June 5, 2026
+|-
+|align=left|''[[Sabato's Crystal Ball]]''<ref>{{cite web|title=2026 Governor|url=https://centerforpolitics.org/crystalball/2026-governor/|website=[[Sabato's Crystal Ball]]|access-date=May 1, 2025}}</ref>
+|{{USRaceRating|Safe|D}}
+|September 3, 2026
+|-
+| style="text-align: left;" |[[Silver Bulletin]]<ref name=":Silver">{{Cite web |last=Silver |first=Nate |date=2026-08-20 |title=FLIPR 2026 midterm election forecast |url=https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model |url-access=subscription |access-date=2026-08-20 |website=www.natesilver.net |language=en}}</ref>
+| {{US political race rating|Solid|D}}
+|August 25, 2026
+|}
+
+===Post-primary endorsements===
+{{Endorsements box
+|title=Phil Weiser (D)
+|list=
+;Organizations
+*[[Everytown for Gun Safety]]<ref>{{cite web |title=Everytown for Gun Safety Action Fund Announces New Round of Statewide Endorsements, Backing 40 Statewide Candidates in 15 States |url=https://momsdemandaction.org/press/everytown-for-gun-safety-action-fund-announces-new-round-of-statewide-endorsements-backing-40-statewide-candidates-in-15-states/ |website=Moms Demand Action |access-date=September 15, 2026 |language=en-us}}</ref>
+}}
+
+===Results===
+{{Election box begin
+| title=2026 Colorado gubernatorial election
+}}
+{{Election box candidate with party link
+ | party      = Democratic Party (United States)
+ | candidate  = {{ubl|[[Phil Weiser]]|Lesley Dahlkemper}}
+ | votes      = 
+ | percentage = 
+ | change     = 
+}}
+{{Election box candidate with party link
+ | party      = Republican Party (United States)
+ | candidate  = {{ubl|[[Victor Marx]]|George Washington Markert}}
+ | votes      = 
+ | percentage = 
+ | change     =
+}}
+{{Election box candidate with party link
+ | party      = American Constitution Party (Colorado)
+ | candidate  = {{ubl|Stephen T. Hamilton|James K. Treibert}}
+ | votes      = 
+ | percentage = 
+ | change     = 
+}}
+{{Election box candidate with party link
+ | party      = Independent politician
+ | candidate  = {{ubl|[[Greg Lopez]]|Taralyn Romero}}
+ | votes      = 
+ | percentage = 
+ | change     = 
+}}
+{{Election box candidate with party link
+ | party      = Libertarian Party of Colorado
+ | candidate  = {{ubl|Erik Mulder|Wayne Harlos}}
+ | votes      = 
+ | percentage = 
+ | change     = 
+}}
+{{Election box candidate with party link
+ | party      = Unity Party of America
+ | candidate  = {{ubl|Jeff Peckman|T.J. Cole}}
+ | votes      = 
+ | percentage = 
+ | change     = 
+}}
+{{Election box candidate with party link
+ | party      = Approval Voting Party
+ | candidate  = {{ubl|Erik Underwood|Frank Atwood}}
+ | votes      = 
+ | percentage = 
+ | change     = 
+}}
+{{Election box total
+ | votes      = 
+ | percentage = 100.0%
+ | change     =
+}}
+{{Election box end}}
+
+== See also ==
+*[[2026 United States Senate election in Colorado]]
+
+== Notes ==
+{{notelist}}
+;Partisan clients
+{{notelist-ua}}
+
+== References ==
+{{Reflist}}
+==External links==
+;Official campaign websites
+*[https://www.greglopez.co/ Greg Lopez (I)]
+*[https://www.victor2026.com/ Victor Marx (R)]
+*[https://philforcolorado.com/ Phil Weiser (D)]
+{{2026 United States elections}}
+
+[[Category:2026 Colorado elections|Gubernatorial]]
+[[Category:2026 United States gubernatorial elections|Colorado]]
+[[Category:Colorado gubernatorial elections]]

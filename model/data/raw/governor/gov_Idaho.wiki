@@ -1,0 +1,422 @@
+{{short description|none}}
+{{for|related races|2026 United States gubernatorial elections}}
+{{Use American English|date=January 2025}}
+{{Use mdy dates|date=January 2025}}
+{{Infobox election
+| election_name = 2026 Idaho gubernatorial election
+| country = Idaho
+| type = presidential
+| ongoing = yes
+| previous_election = 2022 Idaho gubernatorial election
+| previous_year = 2022
+| next_election = 2030 Idaho gubernatorial election
+| next_year = 2030
+| election_date = November 3, 2026
+| image1 = Brad Little official photo (cropped).jpg
+| nominee1 = [[Brad Little]]
+| party1 = Republican Party (United States)
+| running_mate1 = 
+| popular_vote1 = 
+| percentage1 = 
+| image2 = TerriPickens-IdahoDemocrat, 1 (cropped).jpg
+| nominee2 = Terri Pickens
+| running_mate2 = 
+| party2 = Democratic Party (United States)
+| popular_vote2 = 
+| percentage2 = 
+| image3 = 3x4.svg
+| party3 = Independent
+| nominee3 = [[John Stegner]]
+| title = [[Governor of Idaho|Governor]]
+| before_election = [[Brad Little]]
+| before_party = Republican Party (United States)
+| after_election = 
+| after_party = 
+}}
+{{ElectionsID}}
+
+The '''2026 Idaho gubernatorial election''' will be held on November 3, 2026, to elect the [[governor of Idaho]]. [[Republican Party (United States)|Republican]] incumbent [[Brad Little]] is seeking a third term. He is being challenged by [[Democratic Party (United States)|Democratic]] attorney Terri Pickens.
+
+[[Primary elections]] took place on May 19, 2026.<ref>{{Cite web|date=May 9, 2025|title=2026 State Primary Election Dates|url=https://www.ncsl.org/elections-and-campaigns/2026-state-primary-election-dates|website=[[National Conference of State Legislatures]]|access-date=5 August 2025}}</ref>
+
+==Republican primary==
+===Candidates===
+====Nominee====
+*[[Brad Little]], incumbent governor (2019–present)<ref name="KTVBRe">{{cite web |title=Idaho Governor Brad Little announces bid for a third term as state leader |url=https://www.ktvb.com/article/news/local/idaho-governor-announces-bid-for-a-third-term-as-state-leader/277-0d9022d1-8685-4827-a78c-2c62e6d8a40e |website=KTVB |access-date=25 February 2026 |date=24 February 2026}}</ref>
+====Eliminated in primary====
+*Sean Calvert Crystal, candidate for [[Idaho's 32nd legislative district]] in 2024<ref name=filing>{{cite web |title=Idaho Candidate Filing Portal - ReFrame |url=https://run.voteidaho.gov/search |website=Vote Idaho |access-date=24 February 2026}}</ref>
+*Mark Fitzpatrick, former police officer and owner of Old State Saloon<ref name=filing/>
+*Daniel Fowler<ref name=filing/>
+*Ethan Giles<ref name=filing/>
+*Ron James, [[Teton County, Idaho|Teton County]] commissioner<ref name=filing/>
+*Lisa Marie, perennial candidate<ref name=filing/>
+*Justin Plante, mechanic<ref name=filing/>
+
+===Endorsements===
+{{Endorsements box
+| title = Brad Little
+| list =
+;Executive branch officials
+*[[Donald Trump]], [[president of the United States]] (2017–2021, 2025–present)<ref>{{cite news |last1=Guido |first1=Laura |title=Trump endorses Idaho Gov. Brad Little for 2026 election |url=https://www.ktvb.com/article/news/local/idaho-press/president-donald-trump-endorses-idaho-governor-brad-little-2026-election/277-ba5c0a0f-0885-4548-9f31-652071457e29 |access-date=June 11, 2025 |work=[[KTVB]] |date=June 11, 2025}}</ref>
+;Labor unions
+*<s>[[National Education Association|Idaho Education Association]]</s> ''(endorsement rescinded)''<ref name="Frat"/>
+*[[National Fraternal Order of Police|Idaho Fraternal Order of Police]]<ref name="Frat">{{cite web |title=Police, firefighter unions endorse Little after he lost teachers' union support |url=https://www.idahoednews.org/news/police-firefighter-unions-endorse-little-after-he-lost-teachers-union-support/ |website=Idaho Education News |access-date=30 April 2026 |date=29 April 2026}}</ref>
+*[[International Association of Fire Fighters|Professional Firefighters of Idaho]]<ref name="Frat"/>
+}}
+
+===Fundraising===
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of March 31, 2026
+|- style="text-align:center;"
+!Candidate
+!Contributions
+!Cash Balance
+|-
+|{{party shading/Republican}}|Brad Little (R)
+|$1,928,267
+|$1,162,552
+|-
+|{{party shading/Republican}}|Mark Fitzpatrick (R)
+|$185,753
+|$35,959
+|-
+! colspan="4" |<small>Source: Idaho Sunshine<ref name="Sunshine">{{cite web |title=Candidate data|url=https://sunshine.voteidaho.gov/public/cf/publiccandidate|website=Idaho Sunshine |access-date=May 14, 2026}}</ref></small>
+|}
+
+===Primary results===
+{{switcher
+|[[File:2026 Idaho Republican Gubernatorial Primary Map.png|thumb|180px|Results by county
+{{collapsible list
+| title = {{legend|#E27F7F|Little}}
+|{{legend|#FFB2B2|40–50%}}
+|{{legend|#E27F7F|50–60%}}
+|{{legend|#D75D5D|60–70%}}
+|{{legend|#D72F30|70–80%}}
+}}
+{{collapsible list
+| title = {{legend|#FF9A50|Fitzpatrick}}
+|{{legend|#FF9A50|40–50%}}
+}}
+]]
+|County results
+|[[File:2026 Idaho Gov Rep Precinct.svg|thumb|180px|Results by precinct:
+{{collapsible list
+|title = {{legend|#E27F7F|Little}}
+|{{legend|#FFC8CD|30–40%}}
+|{{legend|#FFB2B2|40–50%}}
+|{{legend|#E27F7F|50–60%}}
+|{{legend|#D75D5D|60–70%}}
+|{{legend|#D72F30|70–80%}}
+|{{legend|#C21B18|80–90%}}
+|{{legend|#A80000|90–100%}}
+}}
+{{collapsible list
+|title = {{legend|#FF9A50|Fitzpatrick}}
+|{{legend|#FEE5D5|30–40%}}
+|{{legend|#FFCCAA|40–50%}}
+|{{legend|#FFB380|50–60%}}
+|{{legend|#FF9955|60–70%}}
+}}
+{{legend|#AE8BB1|'''Tie'''}}
+{{legend|#808080|'''No Votes'''}}
+]]
+|Precinct results
+}}
+{{Election box begin no change | title=Republican primary<ref name="NBCIdaho2026">{{cite web |title=2026 Idaho Gubernatorial Results |website=[[NBC News]] |url=https://www.nbcnews.com/politics/2026-primary-elections/idaho-governor-results |access-date=21 May 2026}}</ref>}}
+{{Election box winning candidate with party link no change
+  |party      = Republican Party (United States)
+  |candidate  = [[Brad Little]] (incumbent)
+  |votes      = 140,778
+  |percentage = 58.96
+}}
+{{Election box candidate with party link no change
+  |party      = Republican Party (United States)
+  |candidate  = Mark Fitzpatrick
+  |votes      = 68,546
+  |percentage = 28.67
+}}
+{{Election box candidate with party link no change
+  |party      = Republican Party (United States)
+  |candidate  = Lisa Marie 
+  |votes      = 7,215
+  |percentage = 3.02
+}}
+{{Election box candidate with party link no change
+  |party      = Republican Party (United States)
+  |candidate  = Justin Plante
+  |votes      = 5,286
+  |percentage = 2.21
+}}
+{{Election box candidate with party link no change
+  |party      = Republican Party (United States)
+  |candidate  = Sean Crystal
+  |votes      = 4,558
+  |percentage = 1.91
+}}
+{{Election box candidate with party link no change
+  |party      = Republican Party (United States)
+  |candidate  = Ron James
+  |votes      = 4,510
+  |percentage = 1.89
+ }}
+{{Election box candidate with party link no change
+  |party      = Republican Party (United States)
+  |candidate  = Daniel Fowler
+  |votes      = 4,197
+  |percentage = 1.75
+}}
+{{Election box candidate with party link no change
+  |party      = Republican Party (United States)
+  |candidate  = Ethan Giles
+  |votes      = 3,672
+  |percentage = 1.54
+ }}
+{{Election box total no change
+  | votes = 238,762
+  | percentage = 100.00
+}}
+{{Election box end}}
+
+==Democratic primary==
+===Candidates===
+====Nominee====
+*Terri Pickens, attorney and nominee for lieutenant governor in [[2022 Idaho lieutenant gubernatorial election|2022]]<ref>{{Cite web |author=KMVT News Staff |date=November 12, 2025 |title=Boise lawyer announces Democratic run for Idaho governor |url=https://www.kmvt.com/2025/11/11/boise-lawyer-announces-democratic-run-idaho-governor/ |access-date=November 12, 2025 |website=[[KMVT]]}}</ref>
+====Eliminated in primary====
+*Maxine Durand, former [[Twin Falls, Idaho|Twin Falls]] Director of Transportation (2023–2025)<ref name="Durand">{{Cite web |last1=Kay |first1=Dereka |date=August 29, 2025 |title=A new face is running for Governor in Idaho |url=https://www.kmvt.com/2025/08/29/new-face-is-running-governor-idaho/|access-date=August 29, 2025 |website=[[KMVT]]}}</ref> ''(previously ran as an independent)''<ref name="DurandSwitch">{{cite instagram|user=Durand for Idaho|title=Switching Parties|date=February 7, 2026|postid=DUbCJFKjPaY|url=https://www.instagram.com/p/DUbCJFKjPaY/}}</ref>
+*Jill Kirkham, small-business owner<ref name=filing/>
+*Chanelle Torrez<ref name=filing/>
+
+===Endorsements===
+{{Endorsements box
+| title = Maxine Durand
+| list = 
+;Organizations
+*<s>[[Democratic Socialists of America]] Southern Idaho, Boise & Southeast Idaho</s> ''(endorsement rescinded)''<ref name="DurandSwitch" />
+}}
+===Primary results===
+{{switcher
+|[[File:2026 Idaho Democratic Gubernatorial Primary Map.png|180px|thumb|County results
+{{collapsible list
+| title = {{legend|#584CDE|Pickens}}
+|{{legend|#6674DE|60-70%}}
+|{{legend|#97A2F2|50–60%}}
+|{{legend|#C5CDFF|40–50%}}
+}}
+{{collapsible list
+| title = {{legend|#78E478|Durand}}
+|{{legend|#A2FFA2|30–40%}}
+}}
+]]
+|Results by county
+|[[File:2026 Idaho Gov Dem Precinct.svg|thumb|180px|Precinct results
+{{collapsible list
+| title = {{legend|#584CDE|Pickens}}
+|{{legend|#BDD3FF|30–40%}}
+|{{legend|#C5CDFF|40–50%}}
+|{{legend|#97A2F2|50–60%}}
+|{{legend|#6674DE|60-70%}}
+|{{legend|#584CDE|70-80%}}
+|{{legend|#3933E5|80-90%}}
+|{{legend|#0D0596|90-100%}}
+}}
+{{collapsible list
+| title = {{legend|#78E478|Durand}}
+|{{legend|#C0F0C0|20–30%}}
+|{{legend|#AAE5AA|30–40%}}
+|{{legend|#87DE87|40–50%}}
+|{{legend|#5FD35F|50–60%}}
+|{{legend|#37C837|60–70%}}
+|{{legend|#2CA02C|70–80%}}
+|{{legend|#165016|90–100%}}
+}}
+{{collapsible list
+| title = {{legend|#FF7F2A|Kirkham}}
+|{{legend|#FEE5D5|30–40%}}
+|{{legend|#FFCCAA|40–50%}}
+|{{legend|#FFB380|50–60%}}
+|{{legend|#FF9955|60–70%}}
+|{{legend|#FF6600|80–90%}}
+|{{legend|#D45500|90–100%}}
+}}
+{{collapsible list
+| title = {{legend|#9d40cc|Torrez}}
+|{{legend|#f2dffc|30–40%}}
+|{{legend|#dcb7ef|40–50%}}
+|{{legend|#c88fe4|50–60%}}
+|{{legend|#b368d9|60–70%}}
+|{{legend|#5c2378|90–100%}}
+}}
+{{legend|#AE8BB1|'''Tie'''}}
+{{legend|#808080|'''No Votes'''}}
+]]
+|Results by precinct
+}}
+
+{{Election box begin no change | title=Democratic primary<ref name="NBCIdaho2026" />}}
+{{Election box winning candidate with party link no change
+  |party      = Democratic Party (United States)
+  |candidate  = Terri Pickens
+  |votes      = 30,331
+  |percentage = 61.42
+}}
+{{Election box candidate with party link no change
+  |party      = Democratic Party (United States)
+  |candidate  = Jill Kirkham
+  |votes      = 8,377
+  |percentage = 16.96
+}}
+{{Election box candidate with party link no change
+  |party      = Democratic Party (United States)
+  |candidate  = Maxine Durand
+  |votes      = 7,178
+  |percentage = 14.53
+}}
+{{Election box candidate with party link no change
+  |party      = Democratic Party (United States)
+  |candidate  = Chanelle Torrez
+  |votes      = 3,500
+  |percentage = 7.09
+}}
+{{Election box total no change
+  | votes = 49,386
+  | percentage = 100.00
+}}
+{{Election box end}}
+
+==Libertarian primary==
+===Candidates===
+====Nominee====
+*Paul Sand, Libertarian party nominee in [[2022 Idaho gubernatorial election]]<ref name=":0">{{Cite web |last=Corbin |first=Clark |date=2026-08-13 |title=Little's challengers in Idaho gubernatorial race express concern over nuclear innovation campus deal • Idaho Capital Sun |url=https://idahocapitalsun.com/2026/08/13/littles-rivals-in-idaho-gubernatorial-race-express-concern-over-nuclear-innovation-campus-deal/ |access-date=2026-08-30 |website=Idaho Capital Sun |language=en-US}}</ref>
+'''Eliminated in primary'''
+
+* Melissa-Sue Robinson, perennial candidate<ref name=":0" />
+
+==Constitution primary==
+===Candidates===
+====Nominee====
+*[[Pro-Life (politician)|Pro-Life]] (Marvin Richardson), perennial candidate and anti-abortion activist<ref name=":0" />
+
+==Independents==
+===Candidates===
+====Declared====
+*[[John Stegner]], former justice of the [[Idaho Supreme Court]] (2018–2023)<ref name="Stegner">{{Cite web |title=Former Idaho Supreme Court Justice eyes governorship |url=https://cdapress.com/news/2026/feb/06/former-idaho-supreme-court-justice-eyes-governorship-in-independent-bid/ |access-date=February 6, 2026 |website=cdapress |date=February 6, 2026 }}</ref><ref name=filing/>
+
+====Withdrawn====
+*Maxine Durand, former [[Twin Falls, Idaho|Twin Falls]] Director of Transportation (2023–2025)<ref name="Durand" /> ''(ran as a Democrat)''<ref name="DurandSwitch" />
+
+== General election ==
+===Predictions===
+{| class="wikitable" style=text-align:center
+!Source
+!Ranking
+!As of
+|-
+|align=left|''[[The Cook Political Report]]''<ref>{{cite web|title=2026 CPR Governor Race ratings|url=https://www.cookpolitical.com/ratings/governor-race-ratings|website=[[The Cook Political Report]]|access-date=January 23, 2025}}</ref>
+|{{USRaceRating|Solid|R}}
+|August 27, 2026
+|-
+|align=left|[[Decision Desk HQ]]<ref name="DDHQ">{{cite web |title=2026 Governor Forecast |url=https://votes.decisiondeskhq.com/forecast/2026/governor |website=Decision Desk HQ |access-date=22 September 2026}}</ref>
+|{{USRaceRating|Safe|R}}
+|September 23, 2026
+|-
+|align=left|[[Fox News]]<ref>{{cite web |title=Fox News Power Rankings: The top races to watch as 36 states choose their next governor |url=https://www.foxnews.com/politics/fox-news-power-rankings-top-races-watch-36-states-choose-next-governor |website=[[Fox News]] |date=July 23, 2026 |publisher=Rémy Numa |access-date=24 July 2026}}</ref>
+|{{USRaceRating|Solid|R}}
+|July 23, 2026
+|-
+|align=left|''[[Inside Elections]]''<ref>{{Cite web|title=Gubernatorial Ratings|url=https://insideelections.com/ratings/governor|access-date=February 7, 2025|website=[[Inside Elections]]}}</ref>
+|{{USRaceRating|Solid|R}}
+|September 3, 2026
+|-
+|align="left"|[[RealClearPolitics]]<ref>{{Cite web|title=2026 Governor Races {{!}} RealClearPolitics|url=https://www.realclearpolling.com/maps/governor/2026/toss-up|access-date=June 5, 2026|website=[[RealClearPolitics]]|archive-url=https://web.archive.org/web/20260601183127/https://www.realclearpolling.com/maps/governor/2026/toss-up|archive-date=June 1, 2026|url-status=dead}}</ref>
+|{{USRaceRating|Solid|R}}
+|June 5, 2026
+|-
+|align=left|''[[Sabato's Crystal Ball]]''<ref>{{cite web|title=2026 Governor|url=https://centerforpolitics.org/crystalball/2026-governor/|website=[[Sabato's Crystal Ball]]|access-date=May 1, 2025}}</ref>
+|{{USRaceRating|Safe|R}}
+|September 3, 2026
+|-
+| style="text-align: left;" |[[Silver Bulletin]]<ref name=":Silver">{{Cite web |last=Silver |first=Nate |date=2026-08-20 |title=FLIPR 2026 midterm election forecast |url=https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model |url-access=subscription |access-date=2026-08-20 |website=natesilver.net |language=en}}</ref>
+| {{US political race rating|Solid|R}}
+|August 25, 2026
+|}
+
+===Post-primary endorsements===
+{{Endorsements box
+|title=Terri Pickens (D)
+|list=
+;Organizations
+*[[Everytown for Gun Safety]]<ref>{{cite web |title=Everytown for Gun Safety Action Fund Announces New Round of Statewide Endorsements, Backing 40 Statewide Candidates in 15 States |url=https://momsdemandaction.org/press/everytown-for-gun-safety-action-fund-announces-new-round-of-statewide-endorsements-backing-40-statewide-candidates-in-15-states/ |website=Moms Demand Action |access-date=September 15, 2026 |language=en-us}}</ref>
+*[[National Women's Political Caucus]]<ref>{{Cite web |url=https://nwpc.org/endorsed-candidates/ |title=National Women’s Political Caucus Endorsed Candidates |website=[[National Women's Political Caucus]] |access-date=14 July 2026}}</ref>
+}}
+
+===Polling===
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- style="vertical-align:bottom"
+! Poll source
+! Date(s)<br/>administered
+! Sample<br/>size{{efn|name="Key"|Key:<br/>A – all adults<br/>RV – registered voters<br/>LV – likely voters<br/>V – unclear}}
+! Margin<br/>of error
+! style="width:100px;"| Brad<br/>Little (R)
+! style="width:100px;"| Terri<br/>Pickens (D)
+! style="width:100px;"| John<br/>Stegner (I)
+! Other
+! Undecided
+|-
+| style="text-align: left;" |Advanced Targeting Research<ref>{{Cite web |date= |title=ATR Idaho Statewide Survey |url=https://www.advancedtargetingresearch.com/_files/ugd/03a624_0fca9a6dd7f846f7bc96f97429561064.pdf |access-date=September 18, 2026 |website=[[Advanced Targeting Research]]}}</ref>
+|September 13–16, 2026
+|700 (RV)
+|±{{nbsp}}3.7%
+|{{party shading/Republican}}|'''37%'''
+|27%
+|13%
+|3%{{efn|name=Two|"Paul Sand" with 2.8%}}
+|20%
+|-
+| rowspan="3" style="text-align: left;" |[[Change Research]] (I)<ref>{{cite web |title=Stegner for Idaho July 2026 Toplines |url=https://docs.google.com/document/d/1u6Y5rUbSLEoS0nBgXqKarEzHEQCOzxPjj_Wm27eHKE8/edit?tab=t.0 |publisher=[[Change Research]] |access-date=August 14, 2026}}</ref>{{Efn-ua|name=Stegner|Poll sponsored by John Stegner's campaign}}
+| rowspan="3"|July 28–30, 2026
+| rowspan="3"|1,213 (LV)
+| rowspan="3"|±&nbsp;3.0%
+|{{party shading/Republican}}|'''48%'''
+|27%
+|11%
+|2%{{efn|name=Three|"Would not vote" with 2%}}
+|13%
+|-
+|{{party shading/Republican}}|'''54%'''
+|33%
+|–
+|3%{{efn|name=Four|"Would not vote" with 3%}}
+|10%
+|-
+|{{party shading/Republican}}|'''47%'''
+|–
+|34%
+|3%{{efn|name=Four|"Would not vote" with 3%}}
+|16%
+|-
+|}
+
+== See also ==
+*[[2026 United States gubernatorial elections]]
+*[[2026 Idaho elections]]
+
+==Notes==
+{{notelist}}
+'''Partisan clients'''<br />
+{{notelist-ua}}
+==References==
+{{reflist}}
+
+==External links==
+;Official campaign websites
+*[https://www.bradlittleforidaho.com/ Brad Little (R)]
+*[https://terriforidaho.com/ Terri Pickens (D)]
+*[https://paulsand.org/ Paul Sand (L)]
+*[https://www.stegnerforidaho.com/ John Stegner (I)]
+
+{{2026 United States elections}}
+
+[[Category:Idaho gubernatorial elections]]
+[[Category:2026 Idaho elections|Gubernatorial]]
+[[Category:2026 United States gubernatorial elections|Idaho]]

@@ -1,0 +1,352 @@
+{{Short description|none}}
+{{for|related races|2026 United States gubernatorial elections}}
+{{Use American English|date=January 2025}}
+{{Use mdy dates|date=January 2025}}
+{{Infobox election
+| election_name = 2026 Vermont gubernatorial election
+| country = Vermont
+| type = presidential
+| ongoing = yes
+| previous_election = 2024 Vermont gubernatorial election
+| previous_year = 2024
+| next_election = 2028 Vermont gubernatorial election
+| next_year = 2028
+| election_date = November 3, 2026
+| image1 = Phil Scott 2019 (cropped).jpg
+| nominee1 = [[Phil Scott]]
+| party1 = Republican Party (United States)
+| popular_vote1 = 
+| percentage1 = 
+| image2 = Amanda Janoo at candidate forum in May 2026 (cropped).png
+| nominee2 = Amanda Janoo
+| party2 = Democratic Party (United States)
+| alliance2 = Vermont Progressive Party
+| popular_vote2 = 
+| percentage2 = 
+| title = [[Governor of Vermont|Governor]]
+| before_election = [[Phil Scott]]
+| before_party = Republican Party (United States)
+| after_election = 
+| after_party = 
+}}
+{{Elections in Vermont}}
+The '''2026 Vermont gubernatorial election''' will be held on November 3, 2026, to elect the [[governor of Vermont]]. [[Vermont Republican Party|Republican]] incumbent [[Phil Scott]] is seeking a sixth two-year term. He is being challenged by [[Democratic Party (United States)|Democratic]] economist Amanda Janoo. [[Primary elections]] were held on August 11, 2026.<ref>{{Cite web|date=May 9, 2025|title=2026 State Primary Election Dates|url=https://www.ncsl.org/elections-and-campaigns/2026-state-primary-election-dates|archive-url=https://web.archive.org/web/20260523194629/https://www.ncsl.org/elections-and-campaigns/2026-state-primary-election-dates|archive-date=May 23, 2026|website=[[National Conference of State Legislatures]]|access-date=5 August 2025}}</ref>
+
+Along with neighboring [[2026 New Hampshire gubernatorial election|New Hampshire]], this is one of two Republican-held governorships up for election in a state that [[Kamala Harris]] won in the [[2024 United States presidential election|2024 presidential election]], and the only Republican-held governorship in a state that Harris won by a double-digit margin.
+
+== Background ==
+In November 2024, Governor [[Phil Scott]] won re-election in a landslide, and was able to break Democratic supermajorities in the [[Vermont Senate]] and [[Vermont General Assembly]], and flip the office of [[Lieutenant Governor of Vermont|lieutenant governor]].<ref>[https://www.governing.com/politics/the-blue-state-where-republicans-scored-their-biggest-gains The Blue State Where Republicans Scored Their Biggest Gains], Governing, November 14, 2024</ref><ref>{{Cite web|url=https://vtdigger.org/2025/01/09/republican-john-rodgers-formally-elected-vermonts-next-lieutenant-governor/|title=Republican John Rodgers formally elected Vermont’s next lieutenant governor|first=Shaun|last=Robinson|date=January 9, 2025}}</ref> That is despite the fact that Vermont is a deeply blue state at the federal and state levels otherwise.<ref>{{Cite web|url=https://www.geocurrents.info/blog/2022/12/09/the-vermont-paradox-a-left-wing-state-with-a-remarkably-popular-republican-governor/|title=The Vermont Paradox: A Left-Wing State with a Remarkably Popular Republican Governor|first=Martin W.|last=Lewis|date=December 9, 2022}}</ref>
+
+According to the polling company [[Morning Consult]], Scott is the most popular state governor in the entire nation.<ref>{{Cite web |title=U.S. Governor Approval Rating Tracker |url=https://pro.morningconsult.com/trackers/governor-approval-ratings |access-date=2025-07-18 |website=Morning Consult Pro |language=en}}</ref> He has won re-election four times by increasingly wider margins since he was first elected in [[2016 Vermont gubernatorial election|2016]].<ref>{{Cite news |last=Kinzel |first=Bob |date=2022-08-10 |title=It's primary day in Vermont. Why do voters there choose a governor every 2 years? |url=https://www.npr.org/sections/2022-live-primary-election-race-results/2022/08/09/1116491285/primary-election-race-vermont-governor-2-year-terms |access-date=2025-07-01 |work=NPR |language=en}}</ref>
+
+==Republican primary==
+===Candidates===
+====Nominee====
+*[[Phil Scott]], incumbent governor (2017–present)<ref name=Scott>{{cite news|work=MyChamplainValley|author=Breen, Ben |access-date=May 28, 2026 |url=https://www.mychamplainvalley.com/news/local-news/vermont/phil-scott-announces-run-for-sixth-term/ |date=May 28, 2026 |title=Phil Scott announces run for sixth term}}</ref>
+
+====Declined====
+*[[John S. Rodgers]], [[lieutenant governor of Vermont]] (2025–present) (''[[2026 Vermont lieutenant gubernatorial election|running for re-election]]'')<ref>{{cite web |last=Robinson |first=Shaun |title=Vermont Lt. Gov. John Rodgers, Secretary of State Sarah Copeland Hanzas say they’re running for reelection |url=https://vtdigger.org/2025/08/14/vermont-lt-gov-john-rodgers-secretary-of-state-sarah-copeland-hanzas-say-theyre-running-for-reelection/ |website=[[VTDigger]] |access-date=September 24, 2025 |date=August 14, 2025}}</ref>
+
+====Results====
+{{Election box begin no change
+ | title=Republican primary results<ref name="Primary">{{Cite web|date=August 11, 2026|title=Vermont Election Night Results|url=https://electionresults.vermont.gov/|access-date=August 15, 2026|publisher=[[Vermont Secretary of State]]}}</ref>}}
+{{Election box winning candidate with party link no change
+ | party=Republican Party (United States)
+ | candidate= [[Phil Scott]] (incumbent)
+ | votes=21,466
+ | percentage=98.5}}
+{{Election box write-in with party link no change
+|votes      = 333
+|percentage = 1.5
+}}
+{{Election box total no change
+ | votes= 21,799
+ | percentage=100.0}}
+{{Election box end}}
+
+==Democratic primary==
+===Candidates===
+====Nominee====
+*Amanda Janoo, economist<ref>{{cite news |last1=McCallum |first1=Kevin |title=Amanda Janoo Announces Bid for Vermont Governor |url=https://www.sevendaysvt.com/news/amanda-janoo-announces-bid-for-vermont-governor/ |access-date=March 10, 2026 |work=[[Seven Days (newspaper)|Seven Days]] |date=March 10, 2026}}</ref>
+
+==== Eliminated in primary ====
+*Aly Richards, former lobbying group CEO<ref>{{cite news |work=[[VTDigger]] |access-date=May 19, 2025 |author=Robinson, Shaun |date=April 6, 2026 |url=https://vtdigger.org/2026/04/06/aly-richards-former-head-of-lets-grow-kids-launches-bid-for-vermont-governor/ |title=Aly Richards, former head of Let’s Grow Kids, launches bid for Vermont governor}}</ref>
+====Did not file====
+*Jeffrey Wilson, [[Coventry, Vermont|Coventry]] Emergency Management Director<ref>{{cite news |last1=Roy |first1=Chirstopher |title= Coventry Resident Seeking Governor’s Office|url= https://www.newportvermontdailyexpress.com/news/coventry-resident-seeking-governor-s-office/article_fcc4b637-8fdf-4e0b-b657-fa09ce616c06.html |access-date=May 13, 2026 |work=[[Seven Days (newspaper)|Seven Days]] |date=May 13, 2026}}</ref>
+
+====Declined====
+*[[Charity Clark]], [[Vermont attorney general]] (2023–present)<ref name=say>{{cite news |work=MyChamplainValley|author=Breen, Ben |access-date=October 15, 2025 |url=https://www.mychamplainvalley.com/news/local-news/vermont/phil-scott-announces-run-for-sixth-term/ |date=May 28, 2026 |title=Phil Scott announces run for sixth term}}</ref><ref name=hires>{{cite news |work=[[VTDigger]] |access-date=October 15, 2025 |url=https://vtdigger.org/2025/10/14/vermont-treasurer-mike-pieciak-hires-top-staffer-from-rep-becca-balint/ |date=October 14, 2025 |author=Robinson, Shaun |title=Vermont Treasurer Mike Pieciak hires top staffer from Rep. Becca Balint}}</ref> ''([[2026 Vermont Attorney General election|running for re-election]])''<ref>{{Cite web |last=Robinson |first=Shaun |date=2026-05-04 |title=Vermont Attorney General Charity Clark launches reelection bid |url=https://vtdigger.org/2026/05/04/vermont-attorney-general-charity-clark-launches-reelection-bid/ |access-date=2026-05-05 |website=[[VTDigger]] |language=en-US}}</ref>
+*[[Mike Pieciak]], [[Vermont State Treasurer|Vermont state treasurer]] (2023–present)<ref>{{Cite web |last=Oliver |first=Charlotte |date=2026-05-28 |title=Mike Pieciak runs again for treasurer — not governor |url=https://vtdigger.org/2026/05/28/mike-pieciak-runs-again-for-treasurer-not-governor/ |access-date=2026-05-28 |website=VTDigger |language=en-US}}</ref> ''([[2026 Vermont State Treasurer election|running for re-election]])''
+
+===Endorsements===
+{{Endorsements box
+|title=Amanda Janoo
+|list=
+;Statewide officials
+*[[David Zuckerman (politician)|David Zuckerman]], former [[lieutenant governor of Vermont]] (2017–2021, 2023–2025) ''(Progressive)''<ref name="Shum1"/>
+
+;Individuals
+*[[Jerry Greenfield]], activist and co-founder of [[Ben & Jerry's]]<ref name="Shum1"/>
+*[[Christine Hallquist]], political candidate and former CEO of the [[Vermont Electric Cooperative]]<ref name="Shum1"/>
+
+;Labor unions
+*Vermont [[AFL-CIO]]<ref name="Shum1"/>
+*Vermont [[American Federation of State, County and Municipal Employees|State Employees' Association]]<ref name="Shum1"/>
+
+;Organizations
+*[[Sierra Club]] Vermont<ref name="SierraClub">{{cite web |title=2026 Primary Endorsements for Vermont Statewide and State Senate and House Candidates |url=https://www.sierraclub.org/vermont/2026-primary-endorsements-vermont-statewide-and-state-senate-and-house-candidates |website=Sierra Club Vermont Chapter |access-date=9 August 2026}}</ref>
+
+;Political parties 
+*[[Vermont Progressive Party]]<ref>{{cite web|url=https://www.progressiveparty.org/2026-endorsed-candidates|title=2026 Progressive endorsed Candidates|website=The Vermont Progressive Party|access-date=June 12, 2026}}</ref>
+}}
+{{Endorsements box
+|title=Aly Richards
+|list=
+;Executive branch officials
+*[[Madeleine Kunin]], former [[governor of Vermont]] (1985–1991) and [[United States Ambassador to Switzerland|ambassador to Switzerland]] (1996–1999)<ref name="boasts"/>
+
+;Statewide officials
+*[[Howard Dean]], former [[governor of Vermont]] (1991–2003)<ref name="boasts">{{cite web |last1=Yoon |first1=Robert |title=AP Decision Notes: What to expect in Vermont's state primary |url=https://www.clickondetroit.com/news/politics/2026/08/10/ap-decision-notes-what-to-expect-in-vermonts-state-primary/ |website=WDIV |access-date=11 August 2026 |language=en |date=10 August 2026}}</ref>
+*[[Peter Shumlin]], former [[governor of Vermont]] (2011–2017)<ref name="Shum1">{{cite web |last1=Novak |first1=Alison |title=First-Time Candidates Richards, Janoo Vie to Take on Scott |url=https://www.sevendaysvt.com/news/politics/first-time-candidates-richards-janoo-vie-to-take-on-scott/ |website=Seven Days |access-date=11 August 2026 |date=29 July 2026}}</ref>
+
+;Labor unions
+*[[International Association of Fire Fighters|Professional Fire Fighters]] of Vermont<ref name="Shum1"/>
+*Vermont [[North America's Building Trades Unions|Building and Construction Trades Council]]<ref name="Shum1"/>
+}}
+
+===Polling===
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- style="vertical-align:bottom"
+! Poll source
+! Date(s)<br>administered
+! Sample<br>size{{efn|name="Key"|Key:<br />A – all adults<br />RV – registered voters<br />LV – likely voters<br />V – unclear}}
+! Margin<br />{{nowrap|of error}}
+! style="width:75px;" |Amanda<br/>Janoo
+! style="width:75px;" |Aly<br/>Richards
+! Other
+! Undecided
+|-
+|style="text-align:left;"|[[University of New Hampshire]]<ref name="UNHJuly2026"/>
+|July 15–20, 2026
+|560 (LV)
+|±&nbsp;4.1%
+|{{party shading/Democratic}}|'''26%'''
+|19%
+|3%{{Efn|name=Writein3}}
+|{{party shading/Undecided}}|'''52%'''
+|-
+|style="text-align:left;"|[[University of New Hampshire]]<ref name="UNHJune">{{cite web |title=Scott Sees Job Approval Fall to New Low in Vermont But Holds Early Lead Over Prospective DEM Challengers |url=https://scholars.unh.edu/cgi/viewcontent.cgi?article=1969&context=survey_center_polls |first1=Sean P. |last1=McKinley |first2=Andrew E. |last2=Smith |first3=Zachary S. |last3=Azem |first4=Tracy |last4=Keirns|website=UNH Scholars Repository|date=June 30, 2026|access-date=June 30, 2026}}</ref>
+|June 18–23, 2026
+|511 (LV)
+|±&nbsp;4.3%
+|{{party shading/Democratic}}|'''20%'''
+|12%
+|3%{{Efn|name=Writein3|"Write in someone else" with 3%}}
+|{{party shading/Undecided}}|'''64%'''
+|}
+
+===Results===
+{{Election box begin no change
+ | title=Democratic primary results<ref name="Primary"/>}}
+{{Election box winning candidate with party link no change
+ | party=Democratic Party (United States)
+ | candidate= Amanda Janoo
+ | votes=39,614
+ | percentage=49.1}}
+{{Election box candidate with party link no change
+ | party=Democratic Party (United States)
+ | candidate= Aly Richards
+ | votes=37,570
+ | percentage=46.6}}
+{{Election box write-in with party link no change
+|votes      = 3,509
+|percentage = 4.3
+}}
+{{Election box total no change
+ | votes=80,693
+ | percentage=100.0}}
+{{Election box end}}
+
+==Independent and third party candidates==
+=== Declared ===
+*June Goodband ([[Green Mountain Peace and Justice Party]]), counselor and candidate for governor in [[2024 Vermont gubernatorial election|2024]]<ref name=VT2026>{{cite news |title=General Election Candidates |url=https://sos.vermont.gov/elections/election-info-resources/candidates/ |publisher=Vermont Secretary of State |date=May 13, 2026}}</ref>
+*Brian Judd (Independent)<ref name=VT2026/>
+*Dean Roy (Freedom and Unity Party), high school student and former legislative page<ref>{{Cite web |title=Stowe teen preps for gubernatorial race |url=https://vtdigger.org/2025/07/20/stowe-teen-preps-for-gubernatorial-race/ |date=July 20, 2025|access-date=2025-08-05 |website=[[VTDigger]] |language=en}}</ref><ref>{{Cite web |title=Stowe Middle Schooler selected as legislative page |url=https://www.vtcng.com/stowe_reporter/community/stowe-middle-schooler-selected-as-legislative-page/article_63ff4010-a83f-11ef-a08b-b7d656f94e54.html|date=November 21, 2024|access-date=March 1, 2026 |website=[[Stowe Reporter]] |language=en}}</ref>
+
+== General election ==
+=== Campaign ===
+While Scott historically won elections by landslide margins, 2026 was shaping up to be a much more competitive race. Scott was outraised by Janoo in September 2026.<ref>{{cite news |title=Janoo Outraised Gov. Scott in September, Disclosures Show |url=https://www.sevendaysvt.com/news/janoo-outraised-gov-scott-in-september-disclosures-show/ |access-date=October 2, 2026 |publisher=Seven News Vermont |date=October 2, 2026}}</ref> Additionally, the race became the most competitive race in a decade. Phil Scott vetoing progressive bills was cited as a factor to his decline in crossover support.<ref>{{cite news |title=Latest poll shows Gov. Phil Scott and Amanda Janoo in tightest race in a decade |url=https://vtdigger.org/2026/09/25/latest-poll-shows-gov-phil-scott-and-amanda-janoo-in-tightest-race-in-a-decade/ |access-date=October 2, 2026 |publisher=VT Digger |date=September 25, 2026}}</ref>
+===Predictions===
+{| class="wikitable" style=text-align:center
+!Source
+!Ranking
+!As of
+|-
+|align=left|''[[The Cook Political Report]]''<ref>{{cite web|title=2026 CPR Governor Race ratings|url=https://www.cookpolitical.com/ratings/governor-race-ratings|website=[[The Cook Political Report]]|access-date=January 23, 2025}}</ref>
+|{{USRaceRating|Solid|R}}
+|September 11, 2025
+|-
+|align=left|[[Decision Desk HQ]]<ref name="DDHQ">{{cite web |title=2026 Governor Forecast |url=https://votes.decisiondeskhq.com/forecast/2026/governor |website=[[Decision Desk HQ]] |access-date=October 8, 2026}}</ref>
+|{{USRaceRating|Likely|R}}
+|October 8, 2026
+|-
+|align=left|[[Fox News]]<ref>{{cite web |title=Fox News Power Rankings: The top races to watch as 36 states choose their next governor |url=https://www.foxnews.com/politics/fox-news-power-rankings-top-races-watch-36-states-choose-next-governor |website=[[Fox News]] |publisher=Rémy Numa |access-date=24 July 2026}}</ref>
+|{{USRaceRating|Likely|R}}
+|October 6, 2026
+|-
+|align=left|''[[Inside Elections]]''<ref>{{Cite web|title=Gubernatorial Ratings|url=https://insideelections.com/ratings/governor|access-date=February 7, 2025|website=[[Inside Elections]]}}</ref>
+|{{USRaceRating|Solid|R}}
+|August 28, 2025
+|-
+|align="left"|[[RealClearPolitics]]<ref>{{Cite web|title=2026 Governor Races {{!}} RealClearPolitics|url=https://www.realclearpolling.com/maps/governor/2026/toss-up|access-date=June 5, 2026|website=[[RealClearPolitics]]|archive-url=https://web.archive.org/web/20260601183127/https://www.realclearpolling.com/maps/governor/2026/toss-up|archive-date=June 1, 2026|url-status=dead}}</ref>
+|{{USRaceRating|Lean|R}}
+|September 25, 2026
+|-
+|align=left|''[[Sabato's Crystal Ball]]''<ref>{{cite web|title=2026 Governor|url=https://centerforpolitics.org/crystalball/2026-governor/|website=[[Sabato's Crystal Ball]]|access-date=May 1, 2025}}</ref>
+|{{USRaceRating|Likely|R}}
+|September 29, 2026
+|-
+| style="text-align: left;" |[[Silver Bulletin]]<ref name=":Silver">{{Cite web |last=Silver |first=Nate |date=2026-08-20 |title=FLIPR 2026 midterm election forecast |url=https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model |url-access=subscription |access-date=2026-08-20 |website=www.natesilver.net |language=en}}</ref>
+|{{USRaceRating|Likely|R}}
+|October 3, 2026
+|-
+|}
+
+===Post-primary endorsements===
+{{Endorsements box
+|title=Amanda Janoo (D)
+|list=
+;U.S. senators
+*[[Bernie Sanders]], [[Vermont]] (2007–present) ''(Independent)''<ref name=ConnecticutPublic>{{cite news |last=Hirschfeld |first=Peter |date=October 7, 2026 |title=Bernie Sanders endorses Amanda Janoo for Vermont governor |work=Connecticut Public |url=https://www.ctpublic.org/2026-10-07/bernie-sanders-endorses-amanda-janoo-vermont-governor |access-date=October 7, 2026}}</ref>
+*[[Peter Welch]], [[Vermont]] (2023–present)<ref name=ConnecticutPublic></ref>
+;U.S. representatives
+*[[Becca Balint]], {{ushr|VT|AL|VT-AL}} (2023–present)<ref name=ConnecticutPublic></ref>
+}}
+
+===Polling===
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- style="vertical-align:bottom"
+! Poll source
+! Date(s)<br>administered
+! Sample<br>size{{efn|name="Key"|Key:<br />A – all adults<br />RV – registered voters<br />LV – likely voters<br />V – unclear}}
+! Margin<br>of error
+! style="width:100px;" |Phil<br/>Scott (R)
+! style="width:100px;" |Amanda<br/>Janoo (D)
+! Other
+! Undecided
+|-
+|style="text-align:left;"|[[State Navigate]]<ref>{{cite web |title=Scott narrowly leads Janoo as Gray opens a wide lead |url=https://projects.statenavigate.com/interactives/vt/statewide-poll-october-2026/#governor|website=[[State Navigate]]|date=October 7, 2026|access-date=October 7, 2026}}</ref>
+|October 2–4, 2026
+|948 (LV)
+|±&nbsp;3.2%
+|{{party shading/Republican}}|'''46%'''
+|43%
+|4%
+|8%
+|-
+|rowspan=2 style="text-align:left;"|Braun Research/[[Vermont Public]]<ref>{{cite web |title=Vermont Public 2026 Poll: Full results |url=https://www.vermontpublic.org/local-news/2026-09-28/vermont-general-election-poll-results-2026|website=Vermont Public|date=September 28, 2026|access-date=September 28, 2026}}</ref>
+|rowspan=2|September 10–21, 2026
+|817 (RV)
+|rowspan=2|±&nbsp;3.4%
+|{{party shading/Republican}}|'''42%'''
+|32%
+|6%{{efn|"None/Write-in/Other" with 3%; Brian Judd with 2%; Dean Roy with 1%; June Goodband with 0%}}
+|20%
+|-
+|737 (LV)
+|{{party shading/Republican}}|'''44%'''
+|34%
+|5%{{efn|"None/Write-in/Other" with 2%; Brian Judd with 2%; Dean Roy with 1%; June Goodband with 0%}}
+|16%
+|-
+|style="text-align:left;"|[[University of New Hampshire]]<ref name="UNHSep2026">{{cite web |title=Partisan Headwinds Hamper Scott in Race With Janoo for Governor of Vermont |url=https://scholars.unh.edu/cgi/viewcontent.cgi?article=2005&context=survey_center_polls |first1=Sean P. |last1=McKinley |first2=Andrew E. |last2=Smith |first3=Zachary S. |last3=Azem |first4=Tracy |last4=Keirns|website=[[University of New Hampshire]]|date=September 24, 2026|access-date=September 24, 2026}}</ref>
+|September 17–21, 2026
+|829 (LV)
+|±&nbsp;3.3%
+|43%
+|{{party shading/Democratic}}|'''49%'''
+|2%{{efn|Brian Judd with 2%}}
+|6%
+|- style="background:lightyellow;"
+| style="border-right-style:hidden; background:lightyellow;" |
+| style="border-right-style:hidden; " |August 11, 2026
+| colspan="7" | Primary elections
+|-
+|-
+|style="text-align:left;"|[[University of New Hampshire]]<ref name="UNHJuly2026">{{cite web |title=Vermont Divided on Scott's Job Performance as VT Dems Undecided on Candidate to Face Him |url=https://scholars.unh.edu/cgi/viewcontent.cgi?article=1981&context=survey_center_polls |first1=Sean P. |last1=McKinley |first2=Andrew E. |last2=Smith |first3=Zachary S. |last3=Azem |first4=Tracy |last4=Keirns|website=[[University of New Hampshire]]|date=July 21, 2026|access-date=July 21, 2026}}</ref>
+|July 15–20, 2026
+|954 (LV)
+|±&nbsp;3.2%
+|{{party shading/Republican}}|'''44%'''
+|33%
+|6%{{efn|"Another candidate" with 3%; June Goodband with 2%; Dean Roy with 1%}}
+|17%
+|-
+|style="text-align:left;"|[[University of New Hampshire]]<ref name="UNHJune"/>
+|June 18–23, 2026
+|887 (LV)
+|±&nbsp;3.3%
+|{{party shading/Republican}}|'''42%'''
+|27%
+|5%{{efn|Dean Roy with 3%, June Goodband and "Write in someone else" at 1%}}
+|26%
+|}
+
+<!-- = = = don't edit the line below = = = -->
+{{hidden begin|titlestyle=background:#cff|title=Hypothetical polling|contentstyle=border:solid 1px silver; padding:8px; background:var(--background-color-base); color:var(--color-base);}}
+<!-- = = = don't edit the line above = = = -->
+
+'''Phil Scott vs. Aly Richards'''
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- style="vertical-align:bottom"
+! Poll source
+! Date(s)<br>administered
+! Sample<br>size{{efn|name="Key"|Key:<br />A – all adults<br />RV – registered voters<br />LV – likely voters<br />V – unclear}}
+! Margin<br>of error
+! style="width:100px;" |Phil<br/>Scott (R)
+! style="width:100px;" |Aly<br/>Richards (D)
+! Other
+! Undecided
+|-
+|style="text-align:left;"|[[University of New Hampshire]]<ref name="UNHJuly2026"/>
+|July 15–20, 2026
+|954 (LV)
+|±&nbsp;3.2%
+|{{party shading/Republican}}|'''43%'''
+|35%
+|6%{{efn|"Another candidate" with 3%; June Goodband with 2%; Dean Roy with 1%}}
+|16%
+|-
+|style="text-align:left;"|[[University of New Hampshire]]<ref name="UNHJune"/>
+|June 18–23, 2026
+|887 (LV)
+|±&nbsp;3.3%
+|{{party shading/Republican}}|'''41%'''
+|25%
+|8%{{efn|June Goodband with 6%, Dean Roy and "Write in someone else" at 1%}}
+|26%
+|}
+
+{{hidden end}}
+
+== See also ==
+*[[2026 United States elections]]
+*[[2026 United States House of Representatives election in Vermont]]
+
+==Notes==
+{{notelist}}
+
+==References==
+{{reflist}}
+
+==External links==
+'''Official campaign websites'''
+*[https://www.janooforvt.com/ Amanda Janoo (D)]
+*[https://deanroyforgovernor.my.canva.site/ Dean Roy (FUP)]
+*[https://www.philscott.org/ Phil Scott (R)]
+
+{{2026 United States elections}}
+
+[[Category:Vermont gubernatorial elections]]
+[[Category:2026 Vermont elections|Gubernatorial]]
+[[Category:2026 United States gubernatorial elections|Vermont]]

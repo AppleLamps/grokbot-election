@@ -75,6 +75,10 @@ def main():
                        "R_mean": s["senate_R_mean"], "R_p10": s["senate_R_p10"], "R_p90": s["senate_R_p90"],
                        "tipping": s["senate_tipping"], "majority": 51, "majority_line": 50.5,
                        "D_median": dist[key]["senate"]["median"], "hist": histogram(dist[key]["senate"])},
+            "governors": ({"D_total_median": s["gov_D_total_median"], "D_total_p10": s["gov_D_total_p10"],
+                           "D_total_p90": s["gov_D_total_p90"], "D_total_mean": round(s["gov_D_total_mean"], 3),
+                           "D_wins_mean": round(s["gov_D_wins_mean"], 3), "races": s["gov_races"],
+                           "p_D_majority": s["gov_p_D_majority"]} if "gov_races" in s else None),
             "house": {"p_D": s["house_p_D"], "p_R": s["house_p_R"], "D_mean": s["house_D_mean"],
                       "D_median": s["house_D_median"], "D_p10": s["house_D_p10"], "D_p90": s["house_D_p90"],
                       "tipping": s["house_tipping"], "majority": 218, "majority_line": 217.5,
@@ -131,6 +135,56 @@ def main():
             races[k]["p_dem"][r["scenario"]] = num(r["p_dem_side"])
     race_list = sorted(races.values(), key=lambda x: -x["p_dem"]["unbiased"])
 
+    # ---- prediction markets (comparison only; not a model input)
+    MK = os.path.join(MODEL, "data", "markets")
+    pm = json.load(open(os.path.join(MK, "polymarket_2026-10-10.json")))
+    ks = json.load(open(os.path.join(MK, "kalshi_2026-10-10.json")))
+    pev = pm["events"]
+    def pm_party(slug, party):
+        e = pev.get(slug)
+        if not e: return None
+        for m in e["markets"]:
+            if (m["q"] or "").startswith(party): return round(m["yes"], 4)
+    def k_mid(ev, side):
+        for m in ks["events"].get(ev, []):
+            if m["t"].endswith("-" + side): return round((float(m["bid"]) + float(m["ask"])) / 2, 4)
+    markets = {"as_of": pm["fetched"][:16].replace("T", " ") + " ET", "note": "Prediction-market prices for comparison only; not a model input.",
+               "senate_p_D": {"polymarket": pm_party("which-party-will-win-the-senate-in-2026", "Democratic"), "kalshi": k_mid("CONTROLS-2026", "D")},
+               "house_p_D": {"polymarket": pm_party("which-party-will-win-the-house-in-2026", "Democratic"), "kalshi": k_mid("CONTROLH-2026", "D")}}
+    for r in race_list:
+        slug = None
+        for k in pev:
+            if k.startswith(r["state_name"].lower().replace(" ", "-") + "-senate-election-winner"): slug = k
+        p = None
+        if slug:
+            import unicodedata
+            fold = lambda t: unicodedata.normalize("NFKD", t).encode("ascii", "ignore").decode()
+            dl = fold(r["dem_side_candidate"].split("/")[0].split()[-1])
+            for m in pev[slug]["markets"]:
+                q = fold(m["q"] or "").strip()
+                if dl in q or (r["dem_side_party"] == "I" and q == "Independent") or (r["dem_side_party"] == "D" and q == "Democrat"):
+                    p = round(m["yes"], 4)
+        r["market_p_dem"] = p
+
+    # ---- governors
+    gov_list = []
+    gp = os.path.join(OUT, "governor_race_probabilities_all_scenarios.csv")
+    if os.path.exists(gp):
+        g = {}
+        with open(gp) as f:
+            for r in csv.DictReader(f):
+                k = r["state"]
+                if k not in g:
+                    g[k] = {"state": k, "state_name": r["state_name"], "holder": r["holder"], "incumbent": r["incumbent"],
+                            "inc_status": r["inc_status"], "dem_candidate": r["dem_candidate"], "rep_candidate": r["rep_candidate"],
+                            "challenger_party": r.get("challenger_party") or "R",
+                            "pvi_d": num(r["pvi_d"]), "rating_score": num(r["rating_score"]), "prior_margin": num(r["prior_margin"]),
+                            "poll_margin_d": num(r["poll_margin_d"]), "poll_sources": int(float(r["poll_sources"] or 0)),
+                            "poll_end_date": r["poll_end_date"], "poll_note": r["poll_note"], "est_margin": num(r["est_margin"]),
+                            "market_p_dem": num(r["market_p_dem_polymarket"]), "p_dem": {}}
+                g[k]["p_dem"][r["scenario"]] = num(r["p_dem"])
+        gov_list = sorted(g.values(), key=lambda x: -x["p_dem"]["unbiased"])
+
     out = {
         "title": "Apple Lamps Grok Bot Election Analysis and Prediction",
         "as_of": "2026-10-10",
@@ -140,6 +194,9 @@ def main():
         "baseline": {"senate": {"R": 53, "D": 45, "I": 2, "up": len(race_list)}, "house": {"R": 218, "D": 214}},
         "scenarios": scenarios,
         "senate_races": race_list,
+        "governor_races": gov_list,
+        "governor_baseline": {"D": 24, "R": 26, "up": len(gov_list), "up_D": 18, "up_R": 18},
+        "markets": markets,
         "factors": factors,
         "comparison": comparison,
     }
@@ -151,7 +208,7 @@ def main():
         txt = re.sub(r"\[\s*((?:-?[\d.e-]+,\s*)+-?[\d.e-]+)\s*\]",
                      lambda m: "[" + ",".join(x.strip() for x in m.group(1).split(",")) + "]", txt)
         f.write(txt + "\n")
-    print(f"wrote {path}: {len(scenarios)} scenarios, {len(race_list)} races")
+    print(f"wrote {path}: {len(scenarios)} scenarios, {len(race_list)} Senate races, {len(gov_list)} governor races")
 
 if __name__ == "__main__":
     main()

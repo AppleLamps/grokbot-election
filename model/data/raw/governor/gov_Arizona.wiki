@@ -1,0 +1,1331 @@
+{{short description|none}}
+{{for|related races|2026 United States gubernatorial elections}}
+{{Use American English|date=January 2025}}
+<!-- "none" is preferred when the title alone is adequate; see [[WP:SDNONE]] -->
+{{use mdy dates|date=September 2023}}
+{{Infobox election
+| election_name = 2026 Arizona gubernatorial election
+| country = Arizona
+| type = presidential
+| ongoing = yes
+| previous_election = 2022 Arizona gubernatorial election
+| previous_year = 2022
+| next_election = 2030 Arizona gubernatorial election
+| next_year = 2030
+| election_date = November 3, 2026
+| image1 = Katie Hobbs 2026.jpg
+| nominee1 = [[Katie Hobbs]]
+| party1 = Democratic Party (United States)
+| running_mate1 = [[John Giles (mayor)|John Giles]]
+| popular_vote1 = 
+| percentage1 = 
+| image2 = Andy Biggs 2025.jpg
+| nominee2 = [[Andy Biggs]]
+| party2 = Republican Party (United States)
+| running_mate2 = [[Sine Kerr]]
+| popular_vote2 = 
+| percentage2 = <!--
+| image3 = 3x4.svg
+| nominee3 = TBD
+| party3 = [[Arizona Independent Party|No Labels]]
+| running_mate3 = 
+| popular_vote3 = 
+| percentage3 = 
+-->
+| map_image = 
+| map_size = 
+| map_caption = 
+| title = [[Governor of Arizona|Governor]]
+| before_election = [[Katie Hobbs]]
+| before_party = Democratic Party (United States)
+| after_election = 
+| after_party = 
+}}
+{{ElectionsAZ}}
+The '''2026 Arizona gubernatorial election''' will be held on November 3, 2026, to elect the [[governor of Arizona]]. [[Democratic Party (United States)|Democratic]] incumbent [[Katie Hobbs]] is seeking a second term. She is being challenged by [[Republican Party (United States)|Republican]] [[United States House of Representatives|congressman]] [[Andy Biggs]].
+
+[[Primary elections]] took place on July 21, 2026.<ref>{{Cite web|date=May 9, 2025 |title=2026 State Primary Election Dates |url=https://www.ncsl.org/elections-and-campaigns/2026-state-primary-election-dates|website= NCSL |access-date=5 August 2025}}</ref> Hobbs secured the Democratic nomination unopposed. Biggs secured the Republican nomination over congressman [[David Schweikert]] with 73.6% of the vote.<ref name=results>{{Cite web|url=https://www.nbcnews.com/politics/2026-primary-elections/arizona-governor-results|title=Arizona Governor Primary Results|work=[[NBC News]]|access-date=July 22, 2026}}</ref>  
+
+Following the passage of Proposition 131 in the [[2022 Arizona elections|2022 elections]], this will be the first gubernatorial election in Arizona in which candidates will be required to nominate a [[running mate]] for the newly established position of [[Lieutenant Governor of Arizona|lieutenant governor]].<ref>{{cite news |title=Arizona will elect its first lieutenant governor in 2026. What to know about the role |first=Stacey |last=Barchenger |work=[[The Arizona Republic]] |date=September 21, 2023 |access-date=October 14, 2024 |url=https://www.azcentral.com/story/news/politics/arizona/2023/09/21/arizona-will-elect-its-first-lieutenant-governor-in-2026-what-to-know/70848159007/}}</ref> This will be one of five Democratic-held governorships up for election in 2026 in a state that [[Donald Trump]] won in the [[2024 United States presidential election|2024 presidential election]].
+{{toclimit|3}}
+
+== Background ==
+Arizona is considered to be a [[purple state]] at both the federal and statewide level. After [[Joe Biden]] carried the state narrowly in the [[2020 United States presidential election in Arizona|2020 presidential election]],<ref>[https://www.cnn.com/2020/11/12/politics/biden-wins-arizona Biden carries Arizona, flipping a longtime Republican stronghold], CNN, November 13, 2020</ref> [[Donald Trump]] carried the state of Arizona by 5.5 points in the [[2024 United States presidential election in Arizona|2024 presidential election]].<ref>[https://news.sky.com/story/us-election-how-big-a-win-was-this-for-donald-trump-13250701 US election: How big a win was this for Donald Trump?], Sky News, January 20, 2025</ref> Democrats control both [[U.S. Senate]] seats in Arizona<ref>[https://www.aljazeera.com/news/2024/11/12/democrat-gallego-wins-arizona-senate-race-defining-republican-majority Democrat Gallego wins Arizona, Republicans hold 53-47 US Senate majority], Al Jazeera, November 12, 2024</ref><ref>[https://www.pbs.org/newshour/politics/mark-kelly-wins-senate-race-in-arizona Mark Kelly wins Senate race in Arizona], PBS, November 12, 2022</ref> and hold the governorship, secretary of state office, and attorney general office.<ref>[https://apnews.com/article/2022-midterm-elections-arizona-governor-hobbs-ceadb2bf55f1d5ec4760f423f1af0204 Hobbs wins Arizona governor's race, flipping state for Dems], AP News, November 14, 2022</ref><ref>[https://www.multistate.us/insider/2024/11/6/post-election-republicans-add-to-strong-hold-of-state-governments Post-Election: Republicans Add to Strong Hold of State Governments], MultiState.US, November 6, 2024</ref> Meanwhile, Republicans maintain a majority in the [[Arizona Senate]] and [[Arizona House of Representatives]],<ref>[https://coppercourier.com/2024/11/20/arizona-legislature-republican-2025/ Republicans maintain total control of the Arizona Legislature. Here's what you need to know.], The Copper Courier, November 20, 2024</ref> and control 6 of the 9 [[U.S. House of Representatives|House of Representatives seats]] in the state.<ref>[https://www.azcentral.com/story/news/politics/elections/2024/11/05/arizona-congressional-races-election-results/75904496007/ Republicans keep 6-3 majority in Arizona's US House delegation], AZ Central, November 13, 2024</ref> Democrats have characterized this race as key to establishing a Democratic [[Government trifecta|trifecta]] in Arizona for the first time in 60 years.<ref>{{Cite web |last=Romo |first=Renee |date=2025-12-12 |title=Democrats hoping for Arizona legislature trifecta |url=https://www.kold.com/2025/12/12/democrats-hoping-arizona-legislature-trifecta/ |access-date=2026-03-02 |website=[[KOLD-TV|KOLD]] |language=en}}</ref>
+
+==Democratic primary==
+===Candidates===
+==== Nominee ====
+*[[Katie Hobbs]], incumbent governor (2023–present)<ref>{{cite news |last1=Govidarao |first1=Sejal |title=Democratic Arizona Gov. Hobbs launches reelection bid as her party aims to build power nationally |url=https://apnews.com/article/arizona-governor-katie-hobbs-election-democrat-2b344c58a85ba98e232f4e9d45f41795 |access-date=October 8, 2025 |work=[[Associated Press]] |date=October 8, 2025 |language=en}}</ref><ref name=results/>
+**Running mate: [[John Giles (American politician)|John Giles]], former mayor of [[Mesa, Arizona|Mesa]] (2014–2025) ''(Independent)''<ref>{{cite web |title=Democratic Arizona Gov. Katie Hobbs chooses former Republican Mayor John Giles as her running mate |url=https://www.news10.com/news/politics/ap-democratic-arizona-gov-katie-hobbs-chooses-former-republican-mayor-john-giles-as-her-running-mate/amp/ |website=NEWS10 ABC|date=11 August 2026}}</ref>
+
+==== Declined ====
+*[[Adrian Fontes]], [[Arizona Secretary of State|secretary of state of Arizona]] (2023–present) ''([[2026 Arizona Secretary of State election|running for re-election]])''<ref>{{cite news |newspaper=[[The Washington Post]] |url=https://www.washingtonpost.com/politics/2024/12/17/arizona-citizenship-fontes-hobbs/ |access-date=December 19, 2024 |date=December 17, 2024 |title=Top Arizona election official accuses predecessors of ignoring proof-of-citizenship problem |author1=Wingett Sanchez, Yvonne |author2=Marley, Patrick |quote=Fontes told The Post this week that he is running for reelection and is no longer considering challenging Hobbs in the Democratic primary for governor.}}</ref>
+*[[Kris Mayes]], [[Arizona Attorney General|attorney general of Arizona]] (2023–present) ''([[2026 Arizona Attorney General election|running for re-election]])''<ref>{{cite news |work=[[KJZZ (FM)|KJZZ]] |date=November 20, 2024 |access-date=December 14, 2024 |author=Gilger, Lauren |url=https://www.kjzz.org/the-show/2024-11-20/how-the-field-is-shaping-up-for-the-2026-arizona-governor-race |title=How the field is shaping up for the 2026 Arizona governor race |quote=There's also been talk from the Democratic side of Attorney General Kris Mayes challenging [Katie Hobbs]...She says as of right now she's planning on running for reelection.}}</ref>
+
+===Endorsements===
+{{Endorsements box
+| title = Katie Hobbs
+| colwidth=60
+| list =
+;U.S. representatives
+*[[Yassamin Ansari]], [[AZ-03]] (2025–present)<ref name="Host">{{cite web |title=Hobbs hosts first reelection rally for 'toughest race in the country' {{!}} Arizona Capitol Times |url=https://azcapitoltimes.com/news/2025/11/01/hobbs-hosts-first-reelection-rally-for-toughest-race-in-the-country/ |website=Arizona Capitol Times |access-date=23 November 2025 |date=1 November 2025}}</ref>
+*[[Greg Stanton]], [[AZ-04]] (2023–present), [[AZ-09]] (2019–2023)<ref name="Host"/>
+
+;Labor unions
+*[[International Association of Machinists and Aerospace Workers]] Arizona State Council<ref>{{cite web |title=IAM Arizona State Council Drives Worker Power, Endorses Gov. Katie Hobbs for Reelection |url=https://www.goiam.org/news/iam-arizona-state-council-drives-worker-power-endorses-gov-katie-hobbs-for-reelection/ |website=IAM Union |access-date=April 23, 2026 |date=23 April 2026}}</ref>
+
+;Organizations
+*Arizona [[Alliance for Retired Americans]]<ref name="BVG"/>
+*Arizona [[Stonewall Democrats]]<ref name="BVG">{{cite web |title=Endorsements for Katie Hobbs - Arizona Democratic Party Candidate |url=https://bluevoterguide.org/AZ/candidate_Katie_Hobbs/31395 |website=Blue Voter Guide |access-date=10 January 2026 |language=en}}</ref>
+*[[EMILYs List]]<ref>{{cite web |url=https://emilyslist.org/news/emilys-list-endorses-gov-katie-hobbs-for-reelection-as-arizona-governor/ |title=EMILYs List Endorses Gov. Katie Hobbs for Reelection as Arizona Governor |website=emilyslist.org |date=July 24, 2025 |access-date=October 9, 2025}}</ref>
+*[[End Citizens United]]<ref>{{cite web |title=End Citizens United Candidates |url=https://www.endcitizensunited.org/endorsements |website=End Citizens United |access-date=25 November 2025 |language=en}}</ref>
+*[[Giffords]]<ref>{{Cite web |title=Katie Hobbs |url=http://giffords.org/candidates/katie-hobbs/ |access-date=2026-05-03 |website=Giffords |language=en-US}}</ref>
+*[[Jewish Democratic Council of America]]<ref>{{cite web |title=Jewish Dems Endorsed Candidates |url=https://jewishdems.org/endorsements/ |website=Jewish Democratic Council of America |access-date=22 October 2025}}</ref>
+*[[Natural Resources Defense Council]]<ref name="NRDC">{{cite web |title=NRDC Action Fund Endorsements |url=https://www.nrdcactionfund.org/nrdc-action-fund-endorsements |website=Natural Resources Defense Council |access-date=21 August 2026}}</ref>
+*[[Planned Parenthood|Planned Parenthood Advocates of Arizona]]<ref name="PlannedParenthood">{{cite web |title=Endorsed Candidates |url=https://www.plannedparenthoodaction.org/planned-parenthood-advocates-arizona/elections/endorsement |website=Planned Parenthood Advocates of Arizona |access-date=21 August 2026}}</ref>
+*[[Reproductive Freedom for All]]<ref>{{Cite web|title=Elections - Who We're Endorsing|url=https://reproductivefreedomforall.org/elections/|access-date=August 1, 2026|website=[[Reproductive Freedom for All]]}}</ref>
+
+;Individuals
+*[[Cindy McCain]], former Executive Director of the [[World Food Program]] and widow of [[John McCain]] ''(Republican)''<ref name="Fundraiser">{{cite web |title=In Arizona, the McCain name is now raising money for a Democrat {{!}} MS Now |url=https://www.ms.now/news/arizona-mccain-hobbs-2026-politics |website=MS Now |access-date= July 15, 2026 |date=July 15, 2026}}</ref>
+}}
+
+=== Results ===
+{{Election box begin no change|title=Democratic primary results<ref name="Primary">{{cite web |title=State of Arizona Official Canvass - 2026 Primary Election |url=https://apps.azsos.gov/election/2026/canvass/20260806_Primary_Canvass.pdf |website=Arizona Secretary of State |date=August 6, 2026}}</ref>}}
+{{Election box winning candidate with party link no change|party=Democratic Party (United States)|candidate=[[Katie Hobbs]] (incumbent)|votes=512,550|percentage=100.0}}
+{{Election box total no change|votes=512,550|percentage=100.0}}
+{{Election box end}}
+
+==Republican primary==
+===Candidates===
+==== Nominee ====
+*[[Andy Biggs]], [[United States House of Representatives|U.S. representative]] from {{ushr|AZ|5}} (2017–present)<ref>{{Cite news |work=[[KJZZ-TV]] |access-date=January 28, 2025 |author=Schutsky, Wayne |date=January 27, 2025 |url=https://www.kjzz.org/politics/2025-01-27/congressman-andy-biggs-officially-enters-2026-arizona-governors-race |title=Congressman Andy Biggs officially enters 2026 Arizona governor's race }}</ref><ref name=nomination>{{cite news |last1=Cooper |first1=Jonathan J.|last2= Billeaudb | first2=Jacques |last3=Yu |first3=Wufei |title=Andy Biggs wins Republican nomination to challenge Democrat Katie Hobbs for Arizona governor |url=https://apnews.com/article/arizona-primary-election-biggs-schweikert-hobbs-6ecadbc05dc0704285d1f9fbfc3af0cb |access-date=July 22, 2026 |publisher=[[AP News]] |date= July 22, 2026}}</ref>
+**Running mate: [[Sine Kerr]], former state senator (2018–2025)<ref>{{cite web |title=Rep. Biggs selects Sine Kerr as GOP nominee for lieutenant governor  |url=https://www.azfamily.com/2026/07/31/rep-biggs-selects-sine-kerr-gop-nominee-lieutenant-governor// |website=AZ Family|date=31 July 2026}}</ref>
+
+==== Eliminated in primary ====
+*Ken Miceli, business owner<ref>{{Cite web |title=2026 Arizona Primary Candidates |url=https://apps.arizona.vote/electioninfo/Election/68 |website=Arizona Secretary of State}}</ref>
+*Scott Neely, concrete pumping contractor, candidate for governor in [[2022 Arizona gubernatorial election|2022]], and candidate for [[mayor of Mesa]] in [[2024 Mesa mayoral election|2024]]<ref name="signals">{{cite news |author=Gersony, Laura |date=January 21, 2024 |title=US Rep. Andy Biggs signals he is considering run for Arizona governor in 2026 |url=https://www.azcentral.com/story/news/politics/arizona/2025/01/21/us-rep-andy-biggs-signals-run-az-governor-2026/77854990007/ |access-date=January 21, 2023 |work=[[The Arizona Republic]]}}</ref>
+*[[David Schweikert]], [[United States House of Representatives|U.S. representative]] from {{ushr|AZ|1}} (2011–present)<ref>{{cite news |last1=Barchenger |first1=Stacey |title=Rep. David Schweikert to run for Arizona governor |url=https://www.azcentral.com/story/news/politics/elections/2025/09/30/david-schweikert-announces-run-for-arizona-governor/86426620007/ |access-date=September 30, 2025 |work=The Arizona Republic |date=September 30, 2025}}</ref>
+
+==== Withdrawn ====
+*[[Karrin Taylor Robson]], former member of the [[Arizona Board of Regents]] (2017–2021) and candidate for governor in [[2022 Arizona gubernatorial election|2022]]<ref name=stunning>{{cite news |work=[[KTAR-TV]] |access-date=February 12, 2025 |url=https://ktar.com/arizona-election-articles/karrin-taylor-robson/5662765/ |date=February 12, 2025 |title=Karrin Taylor Robson announces 2nd run for governor of Arizona |author=Stone, Kevin}}</ref><ref>{{Cite web |last=O'Sullivan |first=Serena |date=2026-02-12 |title=Karrin Taylor Robson drops out of governor race |url=https://ktar.com/arizona-election-news/karrin-taylor-robson-race/5821262/ |access-date=2026-02-12 |website=KTAR.com |language=en}}</ref>
+
+====Declined====
+*[[Juan Ciscomani]], [[United States House of Representatives|U.S. representative]] from {{ushr|AZ|6}} (2023–present) ''([[2026 United States House of Representatives elections in Arizona#District 6|running for re-election]])''<ref>{{cite news |work=[[Axios (website)|Axios]] |url=https://www.axios.com/2024/12/12/juan-ciscomani-arizona-governor-2026 |date=December 12, 2024 |access-date=December 12, 2024 |author=Solender, Andrew |title=GOP Rep. Ciscomani passes on run for Arizona governor|quote=Rep. Juan Ciscomani (R-Ariz.) will run for reelection to Congress rather than mount a bid for governor in 2026, his campaign spokesperson told Axios.}}</ref>
+*[[Jake Hoffman (politician)|Jake Hoffman]], state senator from the [[Arizona 15th Legislative District|15th district]] (2023–present) and [[Trump fake electors plot|2020 fake elector for Donald Trump]]<ref name=types>{{cite news |work=[[The Arizona Republic]] |access-date=November 20, 2024 |author=Roberts, Laurie |date=November 19, 2024 |title=Republican goal for 2026 election: Kari Lake types need not apply {{!}} Opinion |url=https://www.azcentral.com/story/opinion/op-ed/laurieroberts/2024/11/18/republicans-win-arizona-governor-attorney-general-kari-lake/76409596007/ |quote=A smattering of prominent and not-so-prominent Republicans are being mentioned as possibilities for making a run at Democratic Gov. Katie Hobbs in 2026...some are floating Sen. Jake Hoffman as a possibility.}}</ref> ''(endorsed Biggs)''<ref name=signals/>
+*[[Kari Lake]], senior advisor to the [[U.S. Agency for Global Media]] (2025–present), nominee for governor in [[2022 Arizona gubernatorial election|2022]], and nominee for U.S. Senate in [[2024 United States Senate election in Arizona|2024]]<ref>{{cite news |work=[[The Arizona Republic]] |access-date=December 27, 2024 |url= https://www.azcentral.com/story/news/politics/elections/2024/12/27/kari-lake-shrugs-off-political-future/77206350007/ |date=December 27, 2024 |author=Gersony, Laura |title='I don't want to run again': Kari Lake shrugs off political future at Turning Point event}}</ref>
+*[[Kimberly Yee]], [[Arizona State Treasurer|state treasurer of Arizona]] (2019–present) and candidate for governor in [[2022 Arizona gubernatorial election|2022]] ''([[2026 Arizona Superintendent of Public Instruction election|running for superintendent of public instruction]])''<ref>{{cite news |last1=Stone |first1=Kevin |title=Kimberly Yee files to face Tom Horne for education position |url=https://ktar.com/arizona-election-articles/kimberly-yee-superintendent/5710907/ |access-date=May 28, 2025 |work=[[KTAR-FM]] |date=May 28, 2025 |language=en}}</ref>
+
+===Endorsements===
+{{Endorsements box
+| title=Andy Biggs
+| colwidth=60
+| list=
+;Executive branch officials
+*[[Donald Trump]], [[president of the United States]] (2017–2021, 2025–present) ''(co-endorsement with Taylor Robson)''<ref name="KTR Biggs">{{cite news |last1=O'Sullivan |first1=Serena |title=Another dual endorsement: Donald Trump says Andy Biggs has his support in gubernatorial run |url=https://ktar.com/arizona-election-articles/andy-biggs-governor-run/5696496/ |access-date=April 21, 2025 |work=[[KTAR-FM]] |date=April 21, 2025 |language=en}}</ref>
+
+;U.S. senators
+*[[Mike Lee]], [[Utah]] (2011–present)<ref name="Deseret">{{cite web |last1=Poonia |first1=Gitanjali |title=Turning Point backs Arizona congressman, a BYU grad, in his bid for governor |url=https://www.deseret.com/politics/2025/05/31/charlie-kirk-endorses-andy-biggs-for-arizona-governor/ |website=[[Deseret News]] |access-date=18 September 2025 |date=May 31, 2025}}</ref>
+
+;U.S. representatives
+*[[Lauren Boebert]], [[Colorado's 4th congressional district|CO-04]] (2021–present)<ref name="FOX">{{cite web |last1=Arcand |first1=Cameron |title='I will not rest': Border state gubernatorial hopeful launches campaign weeks after Trump backed her |url=https://www.foxnews.com/politics/will-not-rest-border-state-gubernatorial-hopeful-launches-campaign-weeks-after-trump-backed-her |website=[[Fox News]] |access-date=13 February 2025 |date=February 12, 2025}}</ref>
+*[[Eli Crane]], [[Arizona's 2nd congressional district|AZ-02]] (2023–present)<ref name="FOX" />
+*[[Paul Gosar]], [[Arizona's 9th congressional district|AZ-09]] (2011–present)<ref name="FOX" />
+*[[Burgess Owens]], [[Utah's 4th congressional district|UT-04]] (2021–present)<ref name="Deseret" />
+*[[Tom Emmer]], [[Party leaders of the United States House of Representatives|House Majority Whip]] from [[MN-06]] (2015–present)<ref>{{cite web |title=Tom Emmer comments on Trump's leadership and endorses Andy Biggs |url=https://nwtwincities.com/stories/671566939-tom-emmer-comments-on-trump-s-leadership-and-endorses-andy-biggs |website=NW Twin Cities |access-date=25 November 2025 |language=en}}</ref>
+*[[Matt Gaetz]], former [[FL-01]] (2017–2024)<ref name=GaetzEndorses>{{cite web |last1=Holloway |first1=Matthew |title=Biggs Formally Launches 2026 Challenge Against Gov. Katie Hobbs - AZ FREE NEWS |url=https://azfreenews.com/2025/01/biggs-formally-launches-2026-challenge-against-gov-katie-hobbs/ |website=Arizona Free News |access-date=9 December 2025 |language=en |date=28 January 2025}}</ref>
+*[[Debbie Lesko]], former [[AZ-08]] (2018–2025) and member of the [[Maricopa County Board of Supervisors]] from the 4th district (2025–present)<ref name="Lesko">{{cite web |title=Debbie Lesko endorses Andy Biggs for governor of Arizona |url=https://nwvalleytimes.com/stories/669666292-debbie-lesko-endorses-andy-biggs-for-governor-of-arizona |website=NW Valley Times |access-date=13 February 2025 |date=February 10, 2025}}</ref>
+
+;State legislators
+*[[Jake Hoffman (politician)|Jake Hoffman]], [[Arizona 15th Legislative District|SD-15]] (2023–present)<ref name=signals/>
+*[[Rachel Keshel]], [[Arizona's 17th legislative district|HD-17]] (2023–present)<ref>{{Cite web |last=Maxwell |first=RC |title=AZs Hoffman First to Endorse Biggs for Governor |url=https://arizonaglobe.com/national/azs-jake-hoffman-first-to-endorse-biggs-for-governor/ |access-date=May 19, 2025 |date=January 23, 2025 |website=Arizona Globe |language=en-US}}</ref>
+;Individuals
+*[[Charlie Kirk]], CEO of [[Turning Point USA]] ''(deceased)''<ref>{{Cite web |last=Montini |first=E. J. |title=Charlie Kirk hammers second nail in Karrin Taylor Robson's campaign coffin {{!}} Opinion |url=https://www.azcentral.com/story/opinion/op-ed/ej-montini/2025/05/19/charlie-kirk-endorsement-biggs-taylor-robson-arizona-governor/83719374007/ |access-date=May 19, 2025 |date=May 19, 2025 |website=[[The Arizona Republic]] |language=en-US}}</ref>
+*[[Erika Kirk]], CEO of [[Turning Point USA]]<ref>{{Cite web |last1=Svirnovskiy |first1=Gregory |last2=Howard |first2=Andrew |title=
+Inside Turning Point’s effort to take over Arizona’s Republican Party |url=https://www.politico.com/news/2025/12/22/turning-point-usa-arizona-republican-party-00702306 |access-date=April 23, 2026 |date=December 22, 2025 |website=[[Politico]] |language=en-US}}</ref>
+;Organizations
+*[[Arizona Freedom Caucus]]<ref>{{cite web |last=Maxwell |first=RC |title=AZs Hoffman First to Endorse Biggs for Governor |url=https://arizonaglobe.com/national/azs-jake-hoffman-first-to-endorse-biggs-for-governor/ |website=Arizona Globe |access-date=February 19, 2026 |date=January 23, 2025 |language=en-US}}</ref>
+*[[Freedom Caucus|Freedom Caucus Fund]]<ref>{{cite web|url=https://freedomcaucusfund.com/freedom-caucus-fund-endorses-andy-biggs-for-arizona-governor/|title=Freedom Caucus Fund Endorses Andy Biggs for Arizona Governor|date=June 26, 2026|access-date=September 15, 2026}}</ref>
+<!--*[[Republican Liberty Caucus]] of Arizona<ref>{{Cite tweet |user=RLibertyCaucus|number=1883307428780871967|title=The @RLCAZ is proud to endorse @andybiggs4az for AZ Governor! |link=https://x.com/RLibertyCaucus/status/1883307428780871967}}</ref>-->
+*[[Republicans for National Renewal]]<ref>{{cite web |title=Republicans for National Renewal Endorses Andy Biggs for Governor of Arizona |url=https://rnrenewal.org/statements/republicans-for-national-renewal-endorses-andy-biggs-for-governor-of-arizona/ |website=Republicans for National Renewal |access-date=25 November 2025 |date=22 July 2025}}</ref>
+*[[Turning Point Action]]<ref>{{cite web |title=Rep. David Schweikert launches a run for governor of Arizona |url=https://www.nbcnews.com/politics/2026-election/rep-david-schweikert-launches-run-governor-arizona-rcna234680 |website=NBC News |access-date=25 November 2025 |language=en |date=30 September 2025}}</ref>
+}}
+{{Endorsements box
+| title=Karrin Taylor Robson ''(withdrawn)''
+| colwidth=60
+| list=
+;Executive branch officials
+*[[Donald Trump]], [[president of the United States]] (2017–2021, 2025–present) ''(co-endorsement with Biggs)''<ref name="KTR Biggs" />
+*[[Sarah Huckabee Sanders]], [[governor of Arkansas]] (2023–present) and former [[White House Press Secretary]] (2017–2019)<ref>{{Cite web|url=https://www.foxnews.com/politics/top-gop-governor-makes-key-endorsement-border-state-gubernatorial-race-deeply-honored.amp|title=Top GOP governor makes key endorsement in border state gubernatorial race: 'Deeply honored'|last=Arcand|first=Cameron|date=March 24, 2025|access-date=March 24, 2025|website=[[Fox News]]}}</ref>
+
+;U.S. senators
+*[[Pete Ricketts]], [[Nebraska]] (2023–present)<ref>{{Cite web |last=Piñon |first=Ericka |title=Senator Pete Ricketts Endorses Karrin Taylor Robson for Governor |url=https://cactuspolitics.com/2025/06/u-s-senator-pete-ricketts-endorses-karrin-taylor-robson-for-governor/ |date=10 June 2025 |access-date=15 June 2025 |website=Cactus Politics |language=en-US}}</ref>
+
+;U.S. representatives
+*[[Newt Gingrich]], former [[speaker of the United States House of Representatives]] (1995–1999) from [[GA-06]] (1979–1999)<ref name=Cactus>{{Cite web |title=Michael Carbone Endorses Karrin Taylor Robson for Governor |url=https://cactuspolitics.com/2025/10/michael-carbone-endorses-karrin-taylor-robson-for-governor/ |date=27 October 2025 |access-date=28 October 2025 |website=Cactus Politics |language=en-US}}</ref>
+
+;State legislators
+*[[Michael Carbone]], majority leader of the [[Arizona House of Representatives]] (2025–present) from [[Arizona's 25th legislative district|HD-25]] (2023–present)<ref name=Cactus/>
+*[[Janae Shamp]], majority leader of the [[Arizona Senate]] (2025–present) from [[Arizona's 29th legislative district|SD-29]] (2023–present)<ref name=developer1>{{Cite web |title=GOP primary for Arizona governor pits a billionaire developer against a conservative firebrand |url=https://ktar.com/arizona-news/gop-primary-for-arizona/5666798/ |date=19 February 2025 |access-date=29 July 2025 |website=[[KTAR-FM]] |language=en-US}}</ref>
+*1 [[Arizona State Senate|state senators]]{{Efn|
+*[[Tim Dunn (politician)|Tim Dunn]], [[Arizona's 25th legislative district|SD-25]] (2025–present) ''(co-endorsement with Taylor Robson)''<ref name="mayor, lawmaker">{{cite news |title=Buckeye mayor, lawmaker endorse Karrin Taylor Robson for governor |url=https://inbuckeye.com/featured/buckeye-mayor-lawmaker-endorse-karrin-taylor-robson-for-governor/ |access-date=April 21, 2025 |work=In Buckeye |date=April 21, 2025 |language=en}}</ref>}}
+*5 [[Arizona House of Representatives|state representatives]]{{Efn|
+*[[Walter Blackman]], [[Arizona's 7th legislative district|HD-07]] (2025–present)<ref name="mayor, lawmaker"/>
+*[[Selina Bliss]], [[Arizona's 1st legislative district|HD-01]] (2023–present)<ref name="mayor, lawmaker"/>
+*[[David Livingston (politician)|David Livingston]], [[Arizona's 28th legislative district|HD-28]] (2023–present)<ref name="mayor, lawmaker"/>
+*[[Justin Wilmeth]], [[Arizona's 2nd legislative district|HD-02]] (2023–present)<ref name="mayor, lawmaker"/>
+*[[Teresa Martinez]], [[Arizona's 16th legislative district|HD-16]] (2021–present)<ref name=Cactus/>}}
+
+;Individuals
+*[[Rob Schneider]], actor<ref name=Cactus/>
+
+;Organizations
+*[[Maggie's List]]<ref name="MaggiesListDecember">{{cite web |last1=Biddison |first1=Jennifer |title=Maggie's List Endorses Eight More Candidates |url=https://maggieslist.org/maggies-list-endorses-eight-more-candidates/ |website=Maggie's List |access-date=4 December 2025 |date=3 December 2025}}</ref>
+}}
+
+===Polling===
+'''Aggregate polls'''
+{|class="wikitable sortable"style="text-align:center;font-size:90%;line-height:17px"
+!Source of poll<br/>aggregation
+!Dates<br/>administered
+!Dates<br/>updated
+!style="width:100px;"|Andy<br/>Biggs
+!style="width:100px;"|David<br/>Schweikert
+!style="width:100px;"|Other/<br/>Undecided{{Efn|Calculated by taking the difference of 100% and all other candidates combined.|name=C}}
+!Margin
+|-
+|[[270toWin]]<ref name="270toWin">{{cite web|title=2026 Polls: Arizona Governor|url=https://www.270towin.com/2026-governor-polls/arizona|publisher=270toWin|access-date=January 1, 2026}}</ref>
+|June 18 – July 7, 2025
+|July 7, 2026
+|{{party shading/Republican}}|'''63.0%'''
+|10.0%
+|31.0%{{efn|Scott Neely with 3.0%; Ken Miceli with 2.0%}}
+|{{party shading/Republican}}|'''Biggs +53.0%'''
+|}
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|Key:<br />A – all adults<br />RV – registered voters<br />LV – likely voters<br />V – unclear|name="Key"}}
+! Margin<br />of error
+! style="width:75px;"| Andy<br />Biggs
+! style="width:75px;"| Karrin<br />{{nowrap|Taylor Robson}}
+! style="width:75px;"| David<br/>Schweikert
+! Other
+! Undecided
+|-
+| style="text-align:left;" |NextGen P (R)<ref>{{cite web|url=https://nxtgenp.com/post/July-Statewide-Flashpoll|title=NEW AZ STATEWIDE POLL: Five Races, Five Clear Leaders — Biggs Dominant, Down-Ballot Races Set|first=Gregg|last=Pekau|website=NextGen P|date=July 9, 2026|access-date=July 9, 2026}}</ref>
+|July 8–9, 2026
+|1,707 (LV)
+|±&nbsp;2.5%
+|{{party shading/Republican}} |'''66%'''
+|–
+|10%
+|7%{{efn|Scott Neely with 4%; Ken Miceli with 3%}}
+|17%
+|-
+|style="text-align:left;"|Noble Predictive Insights<ref>{{cite web|url=https://www.noblepredictiveinsights.com/post/azgov-gop-primary-biggs-goes-big-before-primary-day|title=AZGOV GOP Primary: Biggs Goes Big Before Primary Day|website=Noble Predictive Insights|date=July 7, 2026|access-date=July 7, 2026}}</ref>
+|June 29 – July 1, 2026
+|425 (LV)
+|±&nbsp;4.8%
+|{{party shading/Republican}} |'''60%'''
+|–
+|10%
+|4%{{efn|Scott Neely with 2%; Ken Miceli and "Another candidate not mentioned" with 1%}}
+|26%
+|-
+| style="text-align:left;" |NextGen P (R)<ref>{{cite web|url=https://nxtgenp.com/post/Republican-Primaries|title=Republican Primaries take Shape as the Election gets Closer|first=Gregg|last=Pekau|website=NextGen P|date=June 18, 2026|access-date=June 18, 2026}}</ref>
+|June 16–17, 2026
+|1,683 (LV)
+|±&nbsp;2.5%
+|{{party shading/Republican}} |'''57%'''
+|–
+|11%
+|5%{{efn|Scott Neely with 3%; Ken Miceli with 2%}}
+|27%
+|-
+|style="text-align:left;"|Stealth Analytics<ref name="Stealth">{{cite web |title=Andy Biggs Holds a Dominant Lead in the AZGOP Gubernatorial Primary |url=https://www.stealth-analytics.com/dispatches/az-gop-gubernatorial-primary-may-2026 |website=Stealth Analytics |access-date=26 May 2026 |date=May 26, 2026}}</ref>
+|May 13–15, 2026
+|1,100 (LV)
+|±&nbsp;3.0%
+|{{party shading/Republican}} |'''55%'''
+|–
+|9%
+|2%
+|34%
+|-
+|style="text-align:left;"|Noble Predictive Insights<ref name="NPIMay2026"/>
+|May 5–7, 2026
+|375 (RV)
+|±&nbsp;5.0%
+|{{party shading/Republican}} |'''48%'''
+|–
+|18%
+|–
+|34%
+|-
+| style="text-align:left;" |NextGen P (R)<ref>{{cite web |url=https://nxtgenp.com/post/Biggs-Insurmountable-Lead|title=Andy Biggs Holds Insurmountable Lead in Arizona Governor's Race|first=Gregg|last=Pekau|website=NextGen P|date=April 16, 2026|access-date=April 16, 2026}}</ref>
+|April 13–16, 2026
+|1,255 (LV)
+|±&nbsp;2.7%
+|{{party shading/Republican}} |'''52%'''
+|–
+|10%
+|3%{{efn|Scott Neely with 2%; Ken Miceli with 1%}}
+|35%
+|-
+| style="text-align:left;" |Noble Predictive Insights<ref name="NPIFeb2026">{{cite web|url=https://www.noblepredictiveinsights.com/post/azgov-biggs-benefits-from-field-consolidation-hobbs-holds-early-edge|title=AZGOV: Biggs Benefits from Field Consolidation, Hobbs Holds Early Edge|website=Noble Predictive Insights|date=March 3, 2026|access-date=March 4, 2026}}</ref>
+|February 23–26, 2026
+|384 (RV)
+|±&nbsp;5.0%
+|{{party shading/Republican}} |'''40%'''
+|–
+|19%
+|–
+|{{party shading/Undecided}} |'''41%'''
+|-
+|- style="background:lightyellow;"
+| style="border-right-style:hidden; background:lightyellow;" |
+| style="border-right-style:hidden; " data-sort-value="2026-02-12" | February 12, 2026
+| colspan="9" | Taylor Robson suspends her campaign.
+|-
+|style="text-align:left;"|Center for Excellence in Polling<ref name="CEPFeb2026"/>
+|January 22–24, 2026
+|– (LV)
+|–
+|{{party shading/Republican}} |'''28%'''
+|19%
+|12%
+|–
+|{{party shading/Undecided}} |'''41%'''
+|-
+|style="text-align:left;"|[[Emerson College]]<ref name="EmersonNov2025">{{Cite web|url=https://emersoncollegepolling.com/arizona-2026-governor/|title=Arizona 2026: Governor Hobbs Faces Tight Re-Election Race; Rep. Biggs Leads GOP Primary|website=[[Emerson College Polling]]|date=November 14, 2025|access-date=November 14, 2025}}</ref>
+|November 8–10, 2025
+|381 (RV)
+|±&nbsp;5.0%
+|{{party shading/Republican}} |'''50%'''
+|17%
+|8%
+|1%{{efn|"Someone else" with 1%}}
+|24%
+|-
+|style="text-align:left;"|GrayHouse (R)<ref name="GrayHouseNov2025">{{Cite web|url=https://www.grayhouse.com/post/arizona-2026-statewide-elections-republican-opportunities-across-the-ballot|title=Arizona 2026 Statewide Elections – Republican Opportunities Across the Ballot|first1=Landon|last1=Wall|website=GrayHouse|date=November 6, 2025|access-date=November 6, 2025}}</ref>
+|October 26–28, 2025
+|397 (LV)
+|±&nbsp;3.6%
+|{{party shading/Republican}} |'''43%'''
+|19%
+|2%
+|–
+|36%
+|-
+|style="text-align: left;" rowspan="3"|Pulse Decision Science (R)<ref>{{Cite web|url=https://azfreenews.com/2025/09/biggs-holds-commanding-lead-in-arizona-republican-gubernatorial-primary/|title=Poll: Biggs Holds Commanding Lead In Arizona Republican Gubernatorial Primary|first1=Ethan|last1=Faverino|website=AZ Free News|date=September 30, 2025|access-date=November 6, 2025}}</ref>
+|rowspan="3"|September 8–10, 2025
+|rowspan="3"|502 (LV)
+|rowspan="3"|±&nbsp;4.4%
+|{{party shading/Republican}} |'''48%'''
+|26%
+|11%
+|–
+|15%
+|-
+|{{party shading/Republican}} |'''55%'''
+|31%
+|–
+|–
+|14%
+|-
+|{{party shading/Republican}} |'''61%'''
+|–
+|23%
+|–
+|16%
+|-
+| style="text-align: left;" |Kreate Strategies (R)<ref>{{Cite web|url=https://cactuspolitics.com/2025/08/republican-primary-poll-shows-congressman-biggs-with-strong-lead-in-2026-governors-race|title=Republican Primary Poll Shows Congressman Biggs with Strong Lead in 2026 Governor's Race|first1=Ericka|last1=Piñon|website=Cactus Politics|date=August 26, 2025|access-date=November 6, 2025}}</ref>
+|August 19–21, 2025
+|679 (RV)
+|–
+|{{party shading/Republican}} |'''65%'''
+|14%
+|–
+|–
+|21%
+|-
+| style="text-align:left;" |Noble Predictive Insights<ref name="NPIAug2025">{{cite web |url=https://www.noblepredictiveinsights.com/post/robson-rewrites-the-2022-playbook-as-she-opens-with-an-early-lead-in-arizona-gop-primary |title=Robson Rewrites the 2022 Playbook as She Opens with an Early Lead in Arizona GOP Primary |website=Noble Predictive Insights |date=August 28, 2025 |access-date=August 29, 2025}}</ref>
+|August 11–18, 2025
+|385 (RV)
+|±&nbsp;5.0%
+|27%
+| {{party shading/Republican}} |'''37%'''
+|–
+|–
+|36%
+|-
+| style="text-align:left;" |NextGen P (R)<ref>{{cite web |url=https://nxtgenp.com/post/andy-biggs-continues-to-hold-massive-lead-in-2026-republican-governor-primary |title=Andy Biggs Continues to Hold Massive Lead in 2026 Republican Governor Primary |first=Gregg |last=Pekau |website=NextGen P |date=June 18, 2025 |access-date=June 19, 2025}}</ref>
+|June 17–18, 2025
+|1,380 (LV)
+|±&nbsp;2.6%
+| {{party shading/Republican}} |'''49%'''
+|26%
+|–
+|8%
+|17%
+|-
+| style="text-align:left;" |Kreate Strategies (R)<ref>{{cite web |url=https://www.americancommitment.org/new-poll-andy-biggs-has-commanding-lead-in-arizona-gubernatorial-primary/ |title=New Poll: Andy Biggs Has Commanding Lead in Arizona Gubernatorial Primary |website=American Commitment |date=May 29, 2025 |access-date=May 30, 2025}}</ref>{{efn-ua|Poll sponsored by American Commitment}}
+|May 23–25, 2025
+|1,147 (LV)
+|±&nbsp;2.9%
+| {{party shading/Republican}} |'''57%'''
+|25%
+|–
+|–
+|18%
+|-
+| style="text-align:left;" |Pulse Decision Science (R)<ref name="PDSApril2025">{{Cite web|url=https://www.politico.com/news/2025/04/21/club-for-growth-arizona-governor-race-00302151|title=Club for Growth wades into Arizona governor race, with a shot at Karrin Taylor Robson|first=Ally|last=Mutnick|website=[[Politico]]|date=April 21, 2025|access-date=April 21, 2025}}</ref>{{efn-ua|name=CFG|Poll sponsored by [[Club for Growth]]}}
+|April 6–9, 2025
+|511 (LV)
+|±&nbsp;4.4%
+| {{party shading/Republican}} |'''45%'''
+|16%
+|–
+|–
+|39%
+|-
+| style="text-align: left;" |NicoPAC (R)<ref>{{Cite news |date=2025-04-08 |title=Arizona GOP Primary Poll April 2025: Biggs Leads Governor Race at 65.55% |url=https://nico.republican/2025/04/08/nicopac-poll-april-2025/ |access-date=2025-10-21 |work=NicoPAC |language=en-US}}</ref>
+|April 2–6, 2025
+|477 (RV)
+|±&nbsp;4.5%
+| {{party shading/Republican}} |'''66%'''
+|15%
+|–
+|4%
+|15%
+|-
+| style="text-align:left;" |NicoPAC (R)<ref name="Nico Jan2025" />
+|January 24–26, 2025
+|512 (RV)
+|±&nbsp;4.3%
+| {{party shading/Republican}} |'''71%'''
+|14%
+|–
+|–
+|15%
+|}
+
+<!-- = = = don't edit the line below = = = -->
+{{hidden begin|titlestyle=background:#cff|title=Hypothetical polling|contentstyle=border:solid 1px silver; padding:8px; background:var(--background-color-base); color:var(--color-base);}}
+<!-- = = = don't edit the line above = = = -->
+;Andy Biggs vs. Charlie Kirk vs. Jack McCain vs. Jake Hoffman vs. Karrin Taylor Robson vs. Kimberly Yee
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"}}
+! Margin<br />of error
+! style="width:60px;"| Andy<br />Biggs
+! style="width:60px;"| Jake<br />Hoffman
+! style="width:60px;"| Charlie<br />Kirk
+! style="width:60px;"| Jack<br />McCain
+! style="width:60px;"| Karrin<br />{{nowrap|Taylor Robson}}
+! style="width:60px;"| Kimberly<br />Yee
+! Other
+! Undecided
+|-
+|style="text-align:left;"|Noble Predictive Insights<ref name="NPIMay2025">{{Cite web|url=https://www.noblepredictiveinsights.com/post/az-governor-s-race-biggs-gains-momentum-as-gop-field-shifts|title=AZ Governor's Race: Biggs Gains Momentum as GOP Field Shifts|website=Noble Predictive Insights|date=May 29, 2025|access-date=May 29, 2025}}</ref>
+|May 12–16, 2025
+|426 (RV)
+|±&nbsp;4.8%
+|17%
+|–
+|17%
+|–
+|{{party shading/Republican}}|'''24%'''
+|6%
+|–
+|{{party shading/Undecided}}|'''37%'''
+|-
+|style="text-align:left;"|Noble Predictive Insights<ref name="NPIFeb2025">{{Cite web|url=https://www.noblepredictiveinsights.com/post/arizona-gop-voters-still-searching-for-a-gubernatorial-primary-frontrunner|title=Arizona GOP Voters Still Searching for a Gubernatorial Primary Frontrunner|website=Noble Predictive Insights|date=February 26, 2025|access-date=February 27, 2025}}</ref>
+|February 11–13, 2025
+|374 (RV)
+|±&nbsp;5.1%
+|'''14%'''
+|1%
+|'''14%'''
+|8%
+|11%
+|5%
+|–
+|{{party shading/Undecided}}|'''47%'''
+|-
+|style="text-align:left;"|NicoPAC (R)<ref name="Nico Jan2025">{{cite web |title=Andy Biggs Leads Field in RV Arizona Primary Poll from NicoPAC |url=https://nico.republican/2025/01/26/nicopac-gubernatorial-poll-jan-2025/ |website=NicoPAC |access-date=January 27, 2025 |date=January 27, 2025}}</ref>
+|January 24–26, 2025
+|512 (RV)
+|±&nbsp;4.3%
+|{{party shading/Republican}}|'''59%'''
+|–
+|–
+|–
+|9%
+|11%
+|3%{{efn|Tom Hatten with 2%; Scott Neely with 1%}}
+|19%
+|-
+|style="text-align:left;"|Data Orbital<ref>{{cite news |last1=Holloway |first1=Matthew |title=Exclusive AZ Free News Poll: Biggs Ahead In 2026 Republican Primary For Governor |url=https://azfreenews.com/2025/01/exclusive-az-free-news-poll-biggs-ahead-in-2026-republican-primary-for-governor/ |access-date=January 24, 2025 |website=AZ Free News |date=January 24, 2025 |language=en}}</ref>{{efn-ua|Poll sponsored by AZ Free News}}
+|January 18–20, 2025
+|500 (LV)
+|±&nbsp;4.5%
+|{{party shading/Republican}}|'''32%'''
+|–
+|–
+|–
+|12%
+|7%
+|4%{{efn|"Refused" with 4%}}
+|{{party shading/Undecided}}|'''45%'''
+|}
+
+;Andy Biggs vs. Kimberly Yee
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"}}
+! Margin<br />of error
+! style="width:80px;"| Andy<br />Biggs
+! style="width:80px;"| Kimberly<br />Yee
+! Other
+! Undecided
+|-
+|NicoPAC (R)<ref name="Nico Jan2025" />
+|January 24–26, 2025
+|512 (RV)
+|±&nbsp;4.3%
+|{{party shading/Republican}}|'''67%'''
+|19%
+|–
+|14%
+|}
+
+;Karrin Taylor Robson vs. Kimberly Yee
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"}}
+! Margin<br />of error
+! style="width:80px;"| Karrin<br />{{nowrap|Taylor Robson}}
+! style="width:80px;"| Kimberly<br />Yee
+! Other
+! Undecided
+|-
+|NicoPAC (R)<ref name="Nico Jan2025" />
+|January 24–26, 2025
+|512 (RV)
+|±&nbsp;4.3%
+|15%
+|{{party shading/Republican}}|'''41%'''
+|–
+|{{party shading/Undecided}}|'''43%'''
+|}
+{{hidden end}}
+
+=== Results ===
+[[File:2026 Arizona Republican gubernatorial primary election results map by county.svg|thumb|220px|Primary results by county:
+{{collapsible list
+| title = {{legend|#E27F7F|Biggs}}
+|{{legend|#D75D5D|60–70%}}
+|{{legend|#D72F30|70–80%}}
+}}
+]]
+{{Election box begin no change|title=Republican primary results<ref name=Primary/>}}
+{{Election box winning candidate with party link no change|party=Republican Party (United States)|candidate=[[Andy Biggs]]|votes=453,819|percentage=74.0}}
+{{Election box candidate with party link no change|party=Republican Party (United States)|candidate=[[David Schweikert]]|votes=88,284|percentage=14.4}}
+{{Election box candidate with party link no change|party=Republican Party (United States)|candidate=Scott Neely|votes=42,871|percentage=7.0}}
+{{Election box candidate with party link no change|party=Republican Party (United States)|candidate=Ken Miceli|votes=28,026|percentage=4.6}}
+{{Election box total no change|votes=613,000|percentage=100.0}}
+{{Election box end}}
+
+==No Labels primary==
+===Candidates===
+==== Nominee ====
+*Teri Hourihan, therapist<ref>{{Cite web |last=O'Sullivan |first=Serena |date=2026-02-16 |title=Teri Hourihan, Arizona Independent Party candidate, explains stances |url=https://ktar.com/arizona-election-news/teri-hourihan-governor/5822974/ |access-date=2026-03-25 |website=KTAR.com |language=en}}</ref>
+
+==== Eliminated in primary ====
+*Hugh Lytle, health care entrepreneur<ref>{{Cite web |last=Barchenger |first=Stacey |title=Arizona Independent Party debuts Hugh Lytle as candidate for governor |url=https://www.azcentral.com/story/news/politics/elections/2026/01/27/hugh-lytle-to-run-for-governor-as-arizona-independent-party-candidate/88338415007/ |access-date=2026-01-28 |website=The Arizona Republic |language=en-US}}</ref>
+
+=== Results ===
+[[File:2026 Arizona No Labels gubernatorial primary election results map by county.svg|thumb|220px|Primary results by county:
+{{collapsible list
+| title = {{legend|#FFFFC0|Hourihan}}
+|{{legend|#fcfcc5|50–60%}}
+|{{legend|#f8f872|60–70%}}
+|{{legend|#d5d50b|70–80%}}
+}}
+{{collapsible list
+| title = {{legend|#e5ccf5|Lytle}}
+|{{legend|#e5ccf5|50–60%}}
+}}
+]]
+
+{{Election box begin no change|title=No Labels primary results<ref name=Primary/>}}
+{{Election box winning candidate with party link no change|party=No Labels Party|candidate=Teri Hourihan|votes=5,596|percentage=56.1}}
+{{Election box candidate with party link no change|party=No Labels Party|candidate=Hugh Lytle|votes=4,384|percentage=43.9}}
+{{Election box total no change|votes=9,980|percentage=100.0}}
+{{Election box end}}
+
+=== Running mate selection ===
+Hourihan announced on August 6 that Angela Harrolle Mohan, a real estate broker, would serve as her running mate.<ref>{{cite web |title=No Labels’ Hourihan names running mate   |url=https://azcapitoltimes.com/news/2026/08/06/no-labels-hourihan-names-running-mate/ |website=AZ Capitol Times|date=6 August 2026}}</ref>
+
+==Libertarian primary==
+===Candidates===
+====Failed to qualify====
+*Barry Hess, businessman and perennial candidate{{efn|Nominee for [[List of governors of Arizona|Governor of Arizona]] in [[2002 Arizona gubernatorial election|2002]], [[2006 Arizona gubernatorial election|2006]], [[2010 Arizona gubernatorial election|2010]], and [[2014 Arizona gubernatorial election|2014]], [[2018 Arizona gubernatorial election|2018]], and [[2022 Arizona gubernatorial election|2022]]; nominee for [[United States Senate|U.S. Senate]] in [[2000 United States Senate election in Arizona|2000]], and write-in candidate in [[2018 United States Senate election in Arizona|2018]] and [[2020 United States Senate special election in Arizona|2020]]}}<ref>{{cite web|url=https://apps.arizona.vote/electioninfo/assets/68/0/StatementsOfInterest/hess-barry-23021-26552.pdf|title=STATE OF ARIZONA Candidate Statement of Interest - Barry Hess|website=Arizona Secretary of State|date=January 3, 2025|access-date=February 12, 2025}}</ref>
+
+==Green primary==
+===Background===
+The [[Green Party of Arizona]] disavowed candidate Risa Lombardo, accusing her of being a Republican running to draw votes from Katie Hobbs. Lombardo, a former precinct committee member for the [[Arizona Republican Party]] and wife of a Republican activist, denied the accusations. Her campaign received services from firms and attorneys with connections to Republicans. The party supported a write-in candidate in the July 21st primary, but Lombardo obtained the nomination.<ref name="Lombardo1">{{cite news |last1=Sievers |first1=Caitlin |title=‘Sham’ Green Party candidates tied to GOP machine as they funnel cash to a mystery company |url=https://azmirror.com/2026/07/27/sham-green-party-candidates-tied-to-gop-machine-as-they-funnel-cash-to-a-mystery-company/ |access-date=September 4, 2026 |work=[[Arizona Mirror]] |date=July 27, 2026}}</ref>
+
+In early September, it was reported that the Arizona Attorney General’s Office was investigating allegations that Lombardo's campaign, among others, had used fraudulent donations with falsified voter information to obtain public funding.<ref>{{cite news |last1=Sievers |first1=Caitlin |title=Three candidates now face a criminal probe over public campaign funding fraud allegations |url=https://azmirror.com/2026/09/01/three-candidates-now-face-a-criminal-probe-over-public-campaign-funding-fraud-allegations/ |access-date=September 4, 2026 |work=[[Arizona Mirror]] |date=September 1, 2026}}</ref> 
+
+===Candidates===
+==== Nominee ====
+*Risa Lombardo, former [[Arizona Republican Party]] precinct committee member<ref>{{cite web |title=Candidate Statement of Interest |url=https://apps.arizona.vote/electioninfo/assets/68/0/StatementsOfInterest/lombardo-risa-23568-27223.pdf |website=Apps.Arizona.Vote |access-date=8 June 2025 |date=5 March 2025}}</ref><ref name="Lombardo1" />
+====Eliminated in primary====
+*Athena Eastwood, nominee for [[Arizona's 6th congressional district]] in [[2024 United States House of Representatives elections in Arizona#District 6|2024]] ''(write-in)''<ref>{{cite web |title=2026 Primary Election |url=https://apps.arizona.vote/electioninfo/Election/68 |website=Apps.Arizona.Vote |access-date=6 July 2026}}</ref>
+*Carlos Melendez ''(write-in)''<ref>{{cite web |title=2026 Primary Election |url=https://apps.arizona.vote/electioninfo/Election/68 |website=Apps.Arizona.Vote |access-date=20 June 2026}}</ref>
+*William Pounds, streamer/recording artist and candidate for governor in [[2022 Arizona gubernatorial election|2022]] ''(write-in)''<ref>{{Cite web|url=https://seethemoney.az.gov/Reporting/Explore#JurisdictionId=0%7CPage=11%7CstartYear=2025%7CendYear=2026%7COfficeID=2000%7CIsLessActive=false%7CShowOfficeHolder=false%7CView=Detail%7CName=1~101805%7CTablePage=1%7CTableLength=10|title=SeeTheMoney|website=seethemoney.az.gov}}</ref>
+
+====Failed to qualify====
+*Lisa Castillo<ref>{{cite web |title=Candidate Statement of Interest |url=https://apps.arizona.vote/electioninfo/assets/68/0/StatementsOfInterest/castillo-lisa-23279-26849.pdf |website=Apps.Arizona.Vote |access-date=8 June 2025 |date=21 January 2025}}</ref>
+
+===Endorsements===
+{{Endorsements box
+| title= Carlos Melendez ''(write-in)''
+| list=
+;Political parties
+*[[Green Party of Arizona]]<ref>{{cite web |title=Arizona Green Party Endorses Candidates, Opposes Others in 2026 Primary |url=https://independentpoliticalreport.com/2026/06/arizona-green-party-endorses-candidates-opposes-others-in-2026-primary/|website=Independent Political Report|access-date=20 June 2026|date=14 June 2026|last=Evans|first=Jordan Willow}}</ref>
+}}
+
+{{Endorsements box
+| title= William Pounds ''(write-in)''
+| list=
+;U.S. representatives
+*[[Cynthia McKinney]], former [[Georgia's 11th congressional district|GA-11]] (1993–2003) and [[2008 Green National Convention|2008]] presidential nominee of the Green Party<ref name="McKinneyEndorsements">{{cite web 
+ |title=Endorsements by Cynthia McKinney 
+ |url=https://ballotpedia.org/Endorsements_by_Cynthia_McKinney 
+ |website=Ballotpedia 
+ |access-date=October 1, 2025}}</ref>
+}}
+
+=== Results ===
+{{Election box begin no change|title=Green primary results<ref name=Primary/>}}
+{{Election box winning candidate with party link no change|party=Green Party (United States)|candidate=Risa Lombardo|votes=430|percentage=67.2}}
+{{Election box candidate with party link no change|party=Green Party (United States)|candidate=Carlos Melendez ''(write-in)''|votes=202|percentage=31.6}}
+{{Election box candidate with party link no change|party=Green Party (United States)|candidate=Athena Eastwood ''(write-in)''|votes=4|percentage=0.6}}
+{{Election box candidate with party link no change|party=Green Party (United States)|candidate=William Pounds ''(write-in)''|votes=4|percentage=0.6}}
+{{Election box total no change|votes=640|percentage=100.0}}
+{{Election box end}}
+
+==General election==
+===Predictions===
+{| class="wikitable" style="text-align:center;"
+!Source
+!Ranking
+!As of
+|-
+|align=left|''[[The Cook Political Report]]''<ref name="Cook2026AZ">{{cite web|title=2026 Governor Race Ratings|url=https://www.cookpolitical.com/ratings/governor-race-ratings|website=[[The Cook Political Report]]|access-date=June 26, 2026}}</ref>
+|{{USRaceRating|Lean|D}}
+|September 17, 2026
+|-
+|align=left|[[Decision Desk HQ]]<ref name="DDHQ">{{cite web |title=2026 Governor Forecast |url=https://votes.decisiondeskhq.com/forecast/2026/governor |website=Decision Desk HQ |access-date=22 September 2026}}</ref>
+|{{USRaceRating|Lean|D}}
+|September 23, 2026
+|-
+|align=left|[[Fox News]]<ref>{{cite web|last=Numa|first=Rémy|date=July 23, 2026|title=Fox News Power Rankings: The top races to watch as 36 states choose their next governor|url=https://www.foxnews.com/politics/fox-news-power-rankings-top-races-watch-36-states-choose-next-governor|website=[[Fox News]]|access-date=July 24, 2026}}</ref>
+|{{USRaceRating|Lean|D}}
+|July 23, 2026
+|-
+|align=left|''[[Inside Elections]]''<ref>{{Cite web|title=Gubernatorial Ratings|url=https://insideelections.com/ratings/governor/|access-date=February 7, 2025|website=[[Inside Elections]]}}</ref>
+|{{USRaceRating|Tilt|D}}
+|September 17, 2026
+|-
+|align="left"|[[RealClearPolitics]]<ref>{{Cite web|title=2026 Governor Races {{!}} RealClearPolitics|url=https://www.realclearpolling.com/maps/governor/2026/toss-up|access-date=June 5, 2026|website=[[RealClearPolitics]]|archive-url=https://web.archive.org/web/20260601183127/https://www.realclearpolling.com/maps/governor/2026/toss-up|archive-date=June 1, 2026|url-status=dead}}</ref>
+|{{USRaceRating|Lean|D}}
+|June 5, 2026
+|-
+|align=left|''[[Sabato's Crystal Ball]]''<ref>{{cite web|title=2026 Governor|url=https://centerforpolitics.org/crystalball/2026-governor/|website=[[Sabato's Crystal Ball]]|access-date=May 1, 2025}}</ref>
+|{{USRaceRating|Lean|D}}
+|September 3, 2026
+|-
+| style="text-align: left;" |[[Silver Bulletin]]<ref name=":Silver">{{Cite web |last=Silver |first=Nate |date=2026-08-20 |title=FLIPR 2026 midterm election forecast |url=https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model |url-access=subscription |access-date=2026-08-20 |website=www.natesilver.net |language=en}}</ref>
+| {{US political race rating|Likely|D}}
+|August 25, 2026
+|}
+
+===Fundraising===
+{| class="wikitable sortable"
+! colspan="4" |Campaign finance reports as of June 30, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|Katie Hobbs (D)
+|$10,094,991
+|$11,522,797
+|$1,993,886
+|-
+|{{party shading/Republican}}|Andy Biggs (R)
+|$3,239,471
+|$2,238,026
+|$1,266,182
+|-
+! colspan="4" |<small>Source:</small> <small>See the Money</small><ref>{{cite web|title= Candidates|url=https://seethemoney.az.gov/|publisher=Arizona Secretary of State|access-date=July 21, 2026}}</ref>
+|}
+
+===Post-primary endorsements===
+{{Endorsements box|title=Katie Hobbs (D)|list=
+;Labor unions
+*[[Communications Workers of America]] District 7<ref name="CWA">{{cite web |title=Arizona Endorsed Candidates |url=https://cwa-union.org/candidates-az |website=Communications Workers of America |access-date=21 August 2026}}</ref>
+;Organizations
+*[[Everytown for Gun Safety]]<ref>{{cite web |title=Everytown for Gun Safety Action Fund Announces New Round of Statewide Endorsements, Backing 40 Statewide Candidates in 15 States |url=https://momsdemandaction.org/press/everytown-for-gun-safety-action-fund-announces-new-round-of-statewide-endorsements-backing-40-statewide-candidates-in-15-states/ |website=Moms Demand Action |access-date=September 15, 2026 |language=en-us}}</ref>
+*[[Human Rights Campaign]]<ref name="HRCAugust">{{cite web |title=Human Rights Campaign PAC Endorses Slate of Pro-Equality Candidates |url=https://www.hrc.org/press-releases/human-rights-campaign-pac-endorses-slate-of-pro-equality-candidates-for-governor-in-key-states |website=HRC |access-date=30 August 2026 |date=27 August 2026}}</ref>
+}}
+{{Endorsements box|title=Andy Biggs (R)|list=
+;Statewide officials
+*[[Doug Ducey]], former [[governor of Arizona]] (2015–2023)<ref>{{Cite web|last=Sanchez|first=Camryn|date=August 4, 2026|title=Ducey endorses Andy Biggs for Arizona governor |url=https://www.kjzz.org/politics/2026-08-04/ducey-endorses-andy-biggs-for-arizona-governor|access-date=August 4, 2026|website=[[KJZZ (FM)|KJZZ]]}}</ref>
+}}
+
+===Polling===
+'''Aggregate polls'''
+{|class="wikitable sortable"style="text-align:center;font-size:90%;line-height:17px"
+!Source of poll<br/>aggregation
+!Dates<br/>administered
+!Dates<br/>updated
+!style="width:100px;"|Katie<br/>Hobbs (D)
+!style="width:100px;"|Andy<br/>Biggs (R)
+!style="width:100px;"|Other/<br/>Undecided{{Efn|name=C}}
+!Margin
+|-
+|[[270toWin]]<ref name="270toWin"/>
+|August 17–25, 2026
+|September 10, 2026
+|{{party shading/Democratic}}|'''45.8%'''
+|37.6%
+|16.6%
+|{{party shading/Democratic}}|'''Hobbs +8.2%'''
+|-
+|[[Decision Desk HQ]]<ref>{{cite web|title=2026 Arizona Governor|url=https://votes.decisiondeskhq.com/races/2026-11-03/arizona-governor-general-election/polling|publisher=[[Decision Desk HQ]]|access-date=August 21, 2026}}</ref>
+|through October 5, 2026
+|October 8, 2026
+|{{party shading/Democratic}}|'''48.6%'''
+|44.3%
+|7.1%
+|{{party shading/Democratic}}|'''Hobbs +4.3%'''
+|-
+|[[FiftyPlusOne]]<ref>{{cite web|title=Arizona General Governor Election|url=https://fiftyplusone.news/polls/governor/general/arizona|publisher=[[FiftyPlusOne]]|access-date=August 21, 2026}}</ref>
+|through October 5, 2026
+|October 8, 2026
+|{{party shading/Democratic}}|'''48.0%'''
+|41.6%
+|10.4%
+|{{party shading/Democratic}}|'''Hobbs +6.4%'''
+|-
+|[[RealClearPolitics]]<ref>{{cite web|title=2026 Arizona Governor - Biggs vs. Hobbs|url=https://www.realclearpolling.com/polls/governor/general/2026/arizona/hobbs-vs-biggs|publisher=[[RealClearPolitics]]|access-date=November 14, 2025}}</ref>
+|July 26 – September 4, 2026
+|October 6, 2026
+|{{party shading/Democratic}}|'''49.2%'''
+|38.0%
+|12.8%
+|{{party shading/Democratic}}|'''Hobbs +11.2%'''
+|-
+|''[[Silver Bulletin]]''<ref>{{cite web|title=FLIPR 2026 midterm election forecast|url=https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model|work=[[Silver Bulletin]]|access-date=September 10, 2026}}</ref>
+|through August 19, 2026
+|August 24, 2026
+|{{party shading/Democratic}}|'''48.5%'''
+|39.8%
+|11.7%
+|{{party shading/Democratic}}|'''Hobbs +8.7%'''
+|-
+|colspan="3"|'''Average'''
+|{{party shading/Democratic}}|'''48.0%'''
+|40.3%
+|11.7%
+|{{party shading/Democratic}}|'''Hobbs +7.7%'''
+|}
+
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"}}
+! Margin<br />of error
+! style="width:100px;"| Katie<br />Hobbs (D)
+! style="width:100px;"| Andy<br />Biggs (R)
+! Other
+! Undecided
+|-
+|style="text-align:left;"|GQR (D)<ref>{{Cite web|url=https://data.ddhq.io/polls/2026/10/08/GQR-Arizona|title=Arizona Gubernatorial Race Has Tightened, Is Now in the Margin of Error 
+|first1=Elizabeth|last1=Sena|website=GQR|date=October 7, 2026|access-date=October 8, 2026}}</ref>{{Efn-ua|name=Hobbs| Poll commissioned by Hobbs' campaign}}
+|September 30 – October 5, 2026
+|600 (LV)
+|—
+|{{party shading/Democratic}}|'''49%'''
+|45%
+|3%{{efn|Teri Hourihan ([[No Labels Party|NL]]) with 2%; Risa Lombardo (G) with 1%}}
+|4%
+|-
+|style="text-align:left;"|Equis Research<ref>{{Cite web|url=https://www.weareequis.us/research/memo-arizona-voter-research---sept-2026|title=Memo: Arizona Voter Research - Sept 2026 |website=Equis |date=October 6, 2026|access-date=October 8, 2026}}</ref>
+|September 1–9, 2026
+|1,214 (RV)
+|±&nbsp;3.2%
+|{{party shading/Democratic}}|'''49%'''
+|43%
+|—
+|8%
+|-
+|style="text-align:left;"|[[Arizona State University]]<ref>{{cite web|url=https://www.dropbox.com/scl/fi/wwuz99s4jj7q4eot3gjak/Topline-ASU-Survey-August-2026.pdf?rlkey=ftd9j7m13txzpvche7encqmqm&st=tf10u4h2&e=2&dl=0|title=Topline ASU Survey August 2026|date=October 6, 2026|access-date=October 6, 2026}}</ref>
+|August 18 – September 4, 2026
+|1,300 (RV)
+|±&nbsp;2.7%
+|{{party shading/Democratic}}|'''47%'''
+|34%
+|3%{{efn|name=NL2G1}}
+|16%
+|-
+|style="text-align:left;"|NextGen Polling (R)<ref>{{Cite web|title=Arizona Voters Sour on Flock Cameras Despite Believing They Help Police|url=https://nxtgenp.com/post/new-blog-post-6092|date=August 20, 2026|website=NextGen|access-date=August 21, 2026}}</ref>
+|August 17–19, 2026
+|1,627 (LV)
+|±&nbsp;2.6%
+|{{party shading/Democratic}}|'''39%'''
+|38%
+|2%{{efn|Teri Hourihan ([[No Labels Party|NL]]) & Risa Lombardo (G) with 1%}}
+|22%
+|-
+|style="text-align:left;"|HighGround, Inc.<ref>{{cite web |last1=Bentz |first1=Paul |title=Hobbs Builds Double Digit Lead in Arizona |url=https://azhighground.com/hobbs-builds-double-digit-lead-in-arizona/ |website=HighGround Public Affairs |date=August 24, 2026}}</ref>
+|August 15–18, 2026
+|400 (LV)
+|±&nbsp;4.9%
+|{{party shading/Democratic}}|'''49%'''
+|34%
+|4%{{efn|Hourihan (NL) with 2%; Lombardo (G) with 1%; "Some other candidate" with 1%}}
+|13%
+|-
+|style="text-align:left;"|Quantus Insights (R)<ref>{{cite web |title=Arizona 2026: Hobbs Holds the Edge |url=https://quantusinsights.org/polling/f/arizona-2026-hobbs-holds-the-edge |website=Quantus Insights |date=August 21, 2026}}</ref>
+|August 14–17, 2026
+|780 (LV)
+|±&nbsp;4.1%
+|{{party shading/Democratic}}|'''49%'''
+|43%
+|2%{{efn|name="SE2"}}
+|6%
+|-
+|style="text-align:left;"|Kreate Strategies (R)<ref>{{cite web |title=KStrat Poll: Biggs Trails Hobbs by 5 Points in Arizona Governor General Election Survey |url=https://kstrat.net/press/arizona-2026-governor-biggs-trails-hobbs-august |website=K Strat |date=August 20, 2026}}</ref>{{Efn-ua|name=Encore}}
+|August 13–16, 2026
+|900 (LV)
+|±&nbsp;3.3%
+|{{party shading/Democratic}}|'''45%'''
+|40%
+|3%{{efn|name=NL2G1|Hourihan (NL) with 2%; Lombardo (G) with 1%}}
+|13%
+|-
+|style="text-align:left;"|Stealth Analytics<ref>{{Cite web|title=Arizona General Election LV Statewide Study - August 2026|url=https://www.stealth-analytics.com/dispatches/az-general-lv-statewide-august-2026.pdf|date=August 17, 2026|website=Stealth Analytics|access-date=August 17, 2026}}</ref>
+|August 11–13, 2026
+|530 (LV)
+|±&nbsp;4.3%
+|{{party shading/Democratic}}|'''43%'''
+|38%
+|1%
+|18%
+|-
+|style="text-align:left;" rowspan="2"|Noble Predictive Insights<ref>{{Cite web|title=Katie Hobbs Leads Andy Biggs in The Grand Canyon State|url=https://www.noblepredictiveinsights.com/post/katie-hobbs-leads-andy-biggs-in-the-grand-canyon-state|date=August 20, 2026|website=Noble Predictive Insights|access-date=August 20, 2026}}</ref>
+|rowspan="2"|August 10–13, 2026
+|923 (LV)
+|±&nbsp;3.2%
+|{{party shading/Democratic}}|'''48%'''
+|35%
+|4%{{efn|Teri Hourihan ([[No Labels Party|NL]]) with 1%; Risa Lombardo (G) with 2%; "Another candidate not listed" with 1%}}
+|12%
+|-
+|1,040 (RV)
+|±&nbsp;3.0%
+|{{party shading/Democratic}}|'''46%'''
+|32%
+|6%{{efn|Teri Hourihan ([[No Labels Party|NL]]) with 2%; Risa Lombardo (G) with 2%; "Another candidate not listed" with 2%}}
+|16%
+|-
+|style="text-align:left;"|Grayhouse (R)<ref>{{Cite tweet|user=Garrett_Archer|first=Garrett|last=Archer|number=2092290028697506071|title=I was sent an internal poll by a GOP operative from another one of our local pollsters. Democrats are up in 3 of 5 contests and margins are tighter all around|access-date=August 26, 2026}}</ref>
+|August 9–11, 2026
+|600 (LV)
+|±&nbsp;4.0%
+|{{party shading/Democratic}}|'''49%'''
+|45%
+|—
+|6%
+|-
+|style="text-align:left;"|The Tarrance Group (R)<ref>{{Cite web|url=https://www.democracydefensefoundation.org/news/az/new-poll-arizona-voters-remain-concerned-about-election-integrity-headed-into-general-election |title=Arizona Voters Remain Concerned About Election Integrity Headed into General Election |website=Democracy Defense Foundation |date=August 13, 2026|access-date=August 14, 2026}}</ref>{{efn-ua|name=DDF|Poll sponsored by the Democracy Defense Foundation, a [[501(c)(3) organization]], led by former Governor [[Jan Brewer]].}}
+|July 27–30, 2026
+|600 (LV)
+|±&nbsp;4.1%
+|{{party shading/Democratic}}|'''52%'''
+|48%
+|–
+|–
+|-
+|style="text-align:left;"|Fabrizio Ward (R)/<br/>Impact Research (D)<ref name="AARP">{{Cite web|url=https://www.aarp.org/content/dam/aarp/research/topics/voter-opinion-research/politics/2026-midterm-election-poll-arizona.doi.10.26419-2fres.01065.007.pdf |title=Arizona Voter Survey |website=[[AARP]] |date=August 6, 2026|access-date=August 6, 2026}}</ref>{{efn-ua|name=AARP|Poll sponsored by [[AARP]]}}
+|July 26–28, 2026
+|913 (LV)
+|±&nbsp;3.2%
+|{{party shading/Democratic}}|'''52%'''
+|44%
+|0%
+|4%
+|-
+|- style="background:lightyellow;"
+| style="border-right-style:hidden; background:lightyellow;" |
+| style="border-right-style:hidden; " | July 21, 2026
+| colspan="16"| Primary elections
+|-
+|style="text-align:left;"|Noble Predictive Insights<ref name="NPIMay2026">{{Cite web|url=https://noblepredictiveinsights.com|title=AZGOV: Biggs Nears Majority as Hobbs Holds Early Edge|website=Noble Predictive Insights|date=May 15, 2026|access-date=May 16, 2026}}</ref>
+|May 5–7, 2026
+|996 (RV)
+|±&nbsp;3.1%
+|{{party shading/Democratic}}|'''41%'''
+|37%
+|6%{{efn|Hugh Lytle (I) with 5%; "A third-party candidate not listed" with 1%}}
+|16%
+|-
+|style="text-align:left;" rowspan="2"|TIPP Insights (R)<ref>{{Cite web|url=https://tippinsights.com|title=League of American Workers Survey — Arizona|website=TIPP Insights|date=April 29, 2026|access-date=April 29, 2026}}</ref>{{efn-ua|name=LAW|Poll sponsored by League of American Workers}}
+|rowspan="2"|April 20–24, 2026
+|1,159 (LV)
+|±&nbsp;3.2%
+|{{party shading/Democratic}}|'''48%'''
+|38%
+|2%{{efn|name="SE2"}}
+|12%
+|-
+|1,501 (RV)
+|±&nbsp;2.8%
+|{{party shading/Democratic}}|'''45%'''
+|35%
+|2%{{efn|name="SE2"|"Someone else" with 2%}}
+|18%
+|-
+|style="text-align:left;"|Noble Predictive Insights<ref name="NPIFeb2026"/>
+|February 23–26, 2026
+|1,023 (RV)
+|±&nbsp;3.1%
+|{{party shading/Democratic}}|'''42%'''
+|35%
+|5%{{efn|name=TP5|"Third-Party" with 5%}}
+|18%
+|-
+|style="text-align:left;"|Center for Excellence in Polling<ref name="CEPFeb2026">{{Cite web|url=https://newsweek.com|title=Andy Biggs' Chances of Beating Katie Hobbs for Arizona Governor: Poll|first1=Mandy|last1=Taheri|website=[[Newsweek]]|date=February 19, 2026|access-date=February 20, 2026}}</ref>
+|January 22–24, 2026
+|519 (LV)
+|±&nbsp;4.3%
+|{{party shading/Democratic}}|'''50%'''
+|41%
+|–
+|9%
+|-
+|style="text-align:left;"|NextGen Polling (R)<ref name="NXTGenPDec2025">{{Cite web|url=https://nxtgenp.com|title=Could Republicans be in trouble in Arizona? New polling seems to suggest it|first1=Gregg|last1=Pekau|website=NextGen P|date=December 18, 2025|access-date=December 18, 2025}}</ref>
+|December 15–17, 2025
+|2,725 (LV)
+|±&nbsp;1.9%
+|{{party shading/Democratic}}|'''51%'''
+|32%
+|7%
+|9%
+|-
+|style="text-align:left;"|[[Emerson College]]<ref name="EmersonNov2025"/>
+|November 8–10, 2025
+|850 (RV)
+|±&nbsp;3.3%
+|{{party shading/Democratic}}|'''44%'''
+|43%
+|–
+|13%
+|-
+|style="text-align:left;"|Noble Predictive Insights<ref name="NPIAug2025"/>
+|August 11–18, 2025
+|948 (RV)
+|±&nbsp;3.2%
+|{{party shading/Democratic}}|'''39%'''
+|37%
+|4%{{efn|name=TPC4|"Third party candidate" with 4%}}
+|20%
+|-
+|style="text-align:left;"|Noble Predictive Insights<ref name="NPIMay2025"/>
+|May 12–16, 2025
+|1,026 (RV)
+|±&nbsp;3.1%
+|{{party shading/Democratic}}|'''40%'''
+|38%
+|5%{{efn|"A third party candidate" with 5%}}
+|17%
+|-
+|style="text-align:left;"|Pulse Decision Science (R)<ref name="PDSApril2025"/>{{efn-ua|name=CFG}}
+|April 6–9, 2025
+|501 (LV)
+|±&nbsp;4.4%
+|{{party shading/Democratic}}|'''46%'''
+|42%
+|–
+|12%
+|-
+|style="text-align:left;"|Noble Predictive Insights<ref name="NPIFeb2025"/>
+|February 11–13, 2025
+|1,006 (RV)
+|±&nbsp;3.1%
+|{{party shading/Democratic}}|'''40%'''
+|38%
+|5%
+|17%
+|-
+|style="text-align:left;"|Kreate Strategies (R)<ref name="KreateFeb2025">{{Cite web|url=https://projects.fivethirtyeight.com/polls/250212_AZ_KStrategiesdeck.pdf|archive-url=https://web.archive.org/web/20250214065131/https://projects.fivethirtyeight.com/polls/250212_AZ_KStrategiesdeck.pdf|url-status=dead|archive-date=February 14, 2025|title=Arizona 2026 General Ballot Poll|work=Kreate Strategies|date=February 8, 2025|access-date=February 12, 2025}}</ref>{{Efn-ua|name=Encore|Poll sponsored by American Encore, which supports the [[Republican Party (United States)|Republican Party]].}}
+|February 5–7, 2025
+|924 (LV)
+|±&nbsp;3.0%
+|43%
+|{{party shading/Republican}}|'''44%'''
+|–
+|13%
+|}
+
+{{hidden begin|titlestyle=background:#cff|title=Hypothetical polling|contentstyle=border:solid 1px silver; padding:8px; background:var(--background-color-base); color:var(--color-base);}}
+<!-- = = = don't edit the line above = = = -->
+'''Katie Hobbs vs. David Schweikert'''<br />
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"}}
+! Margin<br />of error
+! style="width:100px;"| Katie<br />Hobbs (D)
+! style="width:100px;"| David<br />Schweikert (R)
+! Other
+! Undecided
+|-
+|style="text-align:left;"|Noble Predictive Insights<ref name="NPIMay2026"/>
+|May 5–7, 2026
+|996 (RV)
+|±&nbsp;3.1%
+|{{party shading/Democratic}}|'''42%'''
+|35%
+|7%{{efn|Hugh Lytle (I) with 6%; "A third-party candidate not listed" with 1%}}
+|16%
+|-
+|style="text-align:left;"|Noble Predictive Insights<ref name="NPIFeb2026"/>
+|February 23–26, 2026
+|1,023 (RV)
+|±&nbsp;3.1%
+|{{party shading/Democratic}}|'''44%'''
+|35%
+|5%{{efn|name=TP5}}
+|16%
+|-
+|style="text-align:left;"|Center for Excellence in Polling<ref name="CEPFeb2026"/>
+|January 22–24, 2026
+|519 (LV)
+|±&nbsp;4.3%
+|{{party shading/Democratic}}|'''51%'''
+|38%
+|–
+|11%
+|-
+|style="text-align:left;"|[[Emerson College]]<ref name="EmersonNov2025"/>
+|November 8–10, 2025
+|850 (RV)
+|±&nbsp;3.3%
+|{{party shading/Democratic}}|'''44%'''
+|39%
+|–
+|17%
+|}
+
+'''Katie Hobbs vs. Karrin Taylor Robson'''<br />
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"}}
+! Margin<br />of error
+! style="width:100px;"| Katie<br />Hobbs (D)
+! style="width:100px;"| Karrin Taylor<br />{{nowrap|Robson (R)}}
+! Other
+! Undecided
+|-
+|style="text-align:left;"|Center for Excellence in Polling<ref name="CEPFeb2026"/>
+|January 22–24, 2026
+|519 (LV)
+|±&nbsp;4.3%
+|{{party shading/Democratic}}|'''50%'''
+|40%
+|–
+|10%
+|-
+|style="text-align:left;"|NextGen Polling (R)<ref name="NXTGenPDec2025"/>
+|December 15–17, 2025
+|2,725 (LV)
+|±&nbsp;1.9%
+|{{party shading/Democratic}}|'''51%'''
+|30%
+|9%
+|10%
+|-
+|style="text-align:left;"|[[Emerson College]]<ref name="EmersonNov2025"/>
+|November 8–10, 2025
+|850 (RV)
+|±&nbsp;3.3%
+|{{party shading/Democratic}}|'''43%'''
+|42%
+|–
+|15%
+|-
+|style="text-align:left;"|Noble Predictive Insights<ref name="NPIAug2025"/>
+|August 11–18, 2025
+|948 (RV)
+|±&nbsp;3.2%
+|{{party shading/Democratic}}|'''40%'''
+|38%
+|4%{{efn|name=TPC4}}
+|18%
+|-
+|style="text-align:left;"|Noble Predictive Insights<ref name="NPIMay2025"/>
+|May 12–16, 2025
+|1,026 (RV)
+|±&nbsp;3.1%
+|{{party shading/Democratic}}|'''41%'''
+|39%
+|3%{{efn|"A third party candidate" with 3%}}
+|17%
+|-
+|style="text-align:left;"|Pulse Decision Science (R)<ref name="PDSApril2025"/>{{efn-ua|name=CFG}}
+|April 6–9, 2025
+|501 (LV)
+|±&nbsp;4.4%
+|{{party shading/Democratic}}|'''47%'''
+|38%
+|–
+|15%
+|-
+|style="text-align:left;"|Noble Predictive Insights<ref name="NPIFeb2025"/>
+|February 11–13, 2025
+|1,006 (RV)
+|±&nbsp;3.1%
+|{{party shading/Democratic}}|'''43%'''
+|35%
+|4%
+|18%
+|-
+|style="text-align:left;"|Kreate Strategies (R)<ref name="KreateFeb2025"/>{{Efn-ua|name=Encore|Poll sponsored by American Encore, which supports the [[Republican Party (United States)|Republican Party]].}}
+|February 5–7, 2025
+|924 (LV)
+|±&nbsp;3.0%
+|{{party shading/Democratic}}|'''40%'''
+|38%
+|–
+|22%
+|}
+
+'''Katie Hobbs vs. Charlie Kirk'''<br />
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"}}
+! Margin<br />of error
+! style="width:100px;"| Katie<br />Hobbs (D)
+! style="width:100px;"| Charlie<br />Kirk (R)
+! Other
+! Undecided
+|-
+|style="text-align:left;"|Noble Predictive Insights<ref name="NPIFeb2025"/>
+|February 11–13, 2025
+|1,006 (RV)
+|±&nbsp;3.1%
+|{{party shading/Democratic}}|'''39%'''
+|36%
+|7%
+|18%
+|-
+|}
+
+'''Katie Hobbs vs. Jake Hoffman'''<br />
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"}}
+! Margin<br />of error
+! style="width:100px;"| Katie<br />Hobbs (D)
+! style="width:100px;"| Jake<br />Hoffman (R)
+! Other
+! Undecided
+|-
+|style="text-align:left;"|Noble Predictive Insights<ref name="NPIFeb2025"/>
+|February 11–13, 2025
+|1,006 (RV)
+|±&nbsp;3.1%
+|{{party shading/Democratic}}|'''40%'''
+|35%
+|5%
+|20%
+|-
+|}
+
+'''Katie Hobbs vs. Jack McCain'''<br />
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"}}
+! Margin<br />of error
+! style="width:100px;"| Katie<br />Hobbs (D)
+! style="width:100px;"| Jack<br />McCain (R)
+! Other
+! Undecided
+|-
+|style="text-align:left;"|Noble Predictive Insights<ref name="NPIFeb2025"/>
+|February 11–13, 2025
+|1,006 (RV)
+|±&nbsp;3.1%
+|{{party shading/Democratic}}|'''37%'''
+|36%
+|6%
+|21%
+|-
+|}
+
+'''Katie Hobbs vs. Kimberly Yee'''<br />
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"}}
+! Margin<br />of error
+! style="width:100px;"| Katie<br />Hobbs (D)
+! style="width:100px;"| Kimberly<br />Yee (R)
+! Other
+! Undecided
+|-
+|style="text-align:left;"|Noble Predictive Insights<ref name="NPIFeb2025"/>
+|February 11–13, 2025
+|1,006 (RV)
+|±&nbsp;3.1%
+|{{party shading/Democratic}}|'''40%'''
+|34%
+|6%
+|20%
+|-
+|}
+
+'''Katie Hobbs vs. generic Republican'''<br />
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"}}
+! Margin<br />of error
+! style="width:100px;"| Katie<br />Hobbs (D)
+! style="width:100px;"| Generic<br />Republican
+! Undecided
+|-
+|style="text-align:left;"|GrayHouse (R)<ref name="GrayHouseNov2025"/>
+|October 26–28, 2025
+|744 (RV)
+|±&nbsp;3.6%
+|40%
+|{{party shading/Republican}}|'''44%'''
+|16%
+|}
+
+'''Katie Hobbs vs. someone else'''<br />
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"}}
+! Margin<br />of error
+! style="width:100px;"| Katie<br />Hobbs (D)
+! style="width:100px;"| Someone<br />else
+! Undecided
+|-
+|style="text-align:left;"|GrayHouse (R)<ref name="GrayHouseNov2025"/>
+|October 26–28, 2025
+|744 (RV)
+|±&nbsp;3.6%
+|43%
+|{{party shading/Other}}|'''48%'''
+|9%
+|}
+{{hidden end}}
+
+=== Results ===
+{{Election box begin |title=2026 Arizona gubernatorial election}}
+{{Election box candidate with party link
+  |party      = Democratic Party (United States)
+  |candidate  = {{ubl|[[Katie Hobbs]] (incumbent)|[[John Giles (American politician)|John Giles]]}}
+  |votes      = 
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link
+  |party      = Republican Party (United States)
+  |candidate  = {{ubl|[[Andy Biggs]]|[[Sine Kerr]]}}
+  |votes      = 
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link
+  |party      = Arizona Green Party
+  |candidate  = {{ubl|Risa Lombardo|Lisa Castillo}}
+  |votes      = 
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link
+  |party      = No Labels Party
+  |candidate  = {{ubl|Teri Ann Hourihan|Angela Harrolle Mohan}}
+  |votes      = 
+  |percentage = 
+  |change     = 
+}}
+{{Election box write-in with party link
+  |votes      = 
+  |percentage = 
+  |change     = 
+}}
+{{Election box total
+  |votes      = 
+  |percentage = 100.0%
+  |change     = 
+}}
+{{Election box end}}
+
+== See also ==
+*[[2026 United States gubernatorial elections]]
+*[[2026 Arizona elections]]
+
+== Notes ==
+{{Notelist}}
+'''Partisan clients'''
+{{Notelist-ua}}
+
+==References==
+{{reflist}}
+
+== External links ==
+;Official campaign websites
+*[https://www.biggsforarizona.com/ Andy Biggs (R)]
+*[https://katiehobbs.org/ Katie Hobbs (D)]
+*[https://teriann4azgov.org/ Teri Hourihan (AIP)]
+*[https://risalombardo.com/ Risa Lombardo (G)]
+
+{{2026 United States elections}}
+{{Elections in Arizona footer}}
+
+[[Category:Arizona gubernatorial elections]]
+[[Category:2026 Arizona elections|Gubernatorial]]
+[[Category:2026 United States gubernatorial elections|Arizona]]

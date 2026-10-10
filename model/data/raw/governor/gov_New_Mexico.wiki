@@ -1,0 +1,783 @@
+{{Short description|none}}
+{{For|related races|2026 United States gubernatorial elections}}
+{{Use American English|date=January 2025}}
+<!-- This short description is INTENTIONALLY "none" - please see WP:SDNONE before you consider changing it! -->
+{{Use mdy dates|date=September 2026}}
+{{Infobox election
+| election_name = 2026 New Mexico gubernatorial election
+| country = New Mexico
+| type = presidential
+| ongoing = yes
+| previous_election = 2022 New Mexico gubernatorial election
+| previous_year = 2022
+| next_election = 2030 New Mexico gubernatorial election
+| next_year = 2030
+| election_date = November 3, 2026
+| image1 = Secretary Deb Haaland, official headshot.jpg
+| nominee1 = [[Deb Haaland]]
+| party1 = Democratic Party (United States)
+| running_mate1 = [[Stephanie Garcia Richard]]<br>(replacing [[Maggie Toulouse Oliver]])
+| popular_vote1 = 
+| percentage1 = 
+| image2 = 3x4.svg
+| nominee2 = [[Gregg Hull]]
+| running_mate2 = [[David Gallegos]]
+| party2 = Republican Party (United States)
+| popular_vote2 = 
+| percentage2 = 
+| title = [[Governor of New Mexico|governor]]
+| before_election = [[Michelle Lujan Grisham]]
+| before_party = Democratic Party (United States)
+| after_election = 
+| after_party = 
+}}
+{{ElectionsNM}}
+
+The '''2026 New Mexico gubernatorial election''' will be held on November 3, 2026, to elect the [[governor of New Mexico]]. [[Democratic Party (United States)|Democratic]] former U.S. Secretary of the Interior [[Deb Haaland]] and [[Republican Party (United States)|Republican]] Rio Rancho Mayor [[Gregg Hull]] are the nominees for their respective parties. Democratic incumbent [[Michelle Lujan Grisham]] is [[Term limits in the United States|term limited]] and ineligible to seek a third consecutive term. 
+
+[[Primary elections]] took place on June 2. Haaland defeated [[Bernalillo County, New Mexico|Bernalillo County]] district attorney Sam Bergman in the Democratic primary with 72% of the vote. Hull defeated Doug Turner and Duke Rodriguez in the Republican primary with 47% of the vote.
+
+==Democratic primary==
+===Governor===
+====Candidates====
+=====Nominee=====
+*[[Deb Haaland]], former [[US secretary of the interior|secretary of the interior]] (2021–2025), former [[United States House of Representatives|U.S. representative]] from {{ushr|NM|1}} (2019–2021), and nominee for lieutenant governor in [[2014 New Mexico gubernatorial election|2014]]<ref>{{Cite news |first=Dan |last=Boyd |date=February 11, 2025 |title=With 2026 campaign cycle approaching, Deb Haaland officially launches gubernatorial bid |url=https://www.abqjournal.com/news/article_6319d91a-e7d9-11ef-affa-a743dc9ac403.html |access-date=February 11, 2025 |work=[[Albuquerque Journal]] |language=en}}</ref>
+
+=====Eliminated in primary=====
+*Sam Bregman, [[Bernalillo County, New Mexico|Bernalillo County]] district attorney (2023–present) and father of [[Major League Baseball|MLB]] player [[Alex Bregman]]<ref>{{cite news |last1=Rodriguez |first1=Vince |title=Sam Bregman announces candidacy for Governor in 2026 election |url=https://www.koat.com/article/sam-bregman-governor-candidate-2026-election/64435375 |access-date=April 10, 2025 |work=[[KOAT-TV]] |date=April 10, 2025 |language=en}}</ref>
+
+=====Withdrawn=====
+*[[Ken Miyagishima]], former mayor of [[Las Cruces, New Mexico|Las Cruces]] (2007–2023) ''(ran as an independent)''<ref name="Esquivel">{{cite news |last1=Esquivel |first1=Erika |title=Former Las Cruces mayor Ken Miyagishima announces independent run for New Mexico governor |url=https://kfoxtv.com/news/local/ken-miyagishima-announces-independent-run-for-new-mexico-governor|access-date=February 2, 2026 |work=[[KFOX-TV]] |date=February 2, 2026}}</ref>
+
+===== Declined =====
+*[[Teresa Leger Fernandez]], [[United States House of Representatives|U.S. representative]] from {{ushr|NM|3}} (2021–present)<ref name="GearingUp">{{cite web|url=https://www.santafenewmexican.com/news/local_news/some-lawmakers-already-gearing-up-for-2026-governors-race/article_ca66aada-c765-11ed-acef-5fa6a4c821ff.html|title=Some lawmakers already gearing up for 2026 governor's race|last=Nott|first=Robert|date=March 24, 2023|access-date=March 30, 2023|website=[[The Santa Fe New Mexican]]}}</ref> ''(endorsed Haaland)''<ref name="NM1" />
+*[[Martin Heinrich]], [[U.S. senator]] from [[New Mexico]] (2013–present)<ref>{{Cite news |last=Everett |first=Burgess |date=January 24, 2025 |title=Democratic Sen. Heinrich passes on governor's race |url=https://www.semafor.com/article/01/24/2025/heinrich-passes-on-governors-race |access-date=January 24, 2025 |work=[[Semafor (website)|Semafor]]}}</ref>
+*[[Howie Morales]], [[Lieutenant Governor of New Mexico|lieutenant governor of New Mexico]] (2019–present)<ref>{{cite news |last1=Simonich |first1=Milan |title=Democrat Howie Morales will not run for governor of New Mexico |url=https://www.santafenewmexican.com/news/elections/democrat-howie-morales-will-not-run-for-governor-of-new-mexico/article_fcc6220c-ac4f-4e67-8faa-3fcfc01daf1a.html |access-date=June 8, 2025 |work=[[The Santa Fe New Mexican]] |date=June 8, 2025 |language=en}}</ref>
+*[[Raúl Torrez]], [[Attorney General of New Mexico|attorney general of New Mexico]] (2023–present) ''([[2026 New Mexico Attorney General election|running for re-election]])''<ref>{{Cite web |last=Chacón |first=Daniel J. |date=February 11, 2025 |title=Deb Haaland officially launches campaign for New Mexico governor |url=https://www.santafenewmexican.com/news/local_news/deb-haaland-officially-launches-campaign-for-governor-of-new-mexico/article_ad28dc66-e826-11ef-96fc-4f92d2e01d24.html |access-date=February 13, 2025 |website=[[The Santa Fe New Mexican]] |quote=Attorney General Raúl Torrez, who has also been mentioned as a possible contender, said a campaign for governor isn't in the cards...Torrez said in a statement later he intends to run for reelection as attorney general. |language=en}}</ref>
+
+==== Endorsements ====
+{{Endorsements box
+| title = Sam Bregman
+| colwidth =
+| list =
+;Labor unions
+*[[National Association of Police Organizations|Albuquerque Police Officers Association]]<ref name=Op>{{cite web |last1=Tucker |first1=Jeff |title=Sandia Pueblo endorsement positions Bregman as front-runner in Dem primary |url=https://www.yahoo.com/news/articles/opinion-opinion-sandia-pueblo-endorsement-030800291.html |website=Yahoo on behalf of Albuquerque Journal |access-date=November 25, 2025 |language=en |date=August 9, 2025}}</ref>
+*[[International Union of Painters and Allied Trades|IUPAT]] District Council 36<ref name=Op/>
+*[[International Association of Bridge, Structural, Ornamental and Reinforcing Iron Workers|Iron Workers]] Local 495<ref name=Op/>
+*[[LiUNA]] Local 16<ref name=Op/>
+*[[Teamsters]] Local 492<ref>{{cite web |title=Teamsters local 492 is proud to endorse the next Governor of the state of New Mexico, Sam Bregman. |url=https://www.facebook.com/share/p/1DQiC4oRrz/ |website=Teamsters Local 492 on Facebook |access-date=November 25, 2025}}</ref>
+
+;Tribal nations
+*[[Jicarilla_Apache#Tribal_government|Jicarilla Apache]]<ref name=Native2>{{cite web |last1=Cook |first1=Cathy |title=Sam Bregman gets Jicarilla Apache endorsement in governor's race |url=https://www.abqjournal.com/news/article_205e460d-a56a-411c-b05b-4a034094fb8c.html |website=Albuquerque Journal |access-date=November 16, 2025 |language=en |date=September 8, 2025}}</ref>
+*[[Ohkay Owingeh, New Mexico|Ohkay Owingeh]]<ref>{{cite web |last1=Chacón |first1=Daniel |title=Third New Mexico tribe endorses Sam Bregman in governor's race |url=https://www.santafenewmexican.com/news/local_news/third-new-mexico-tribe-endorses-sam-bregman-in-governors-race/article_4568d2f2-b81e-4b64-a47c-8f12e88d07bd.html |website=Santa Fe New Mexican |access-date=January 6, 2026 |language=en |date=January 5, 2026}}</ref>
+*[[Sandia Pueblo]]<ref>{{cite web |last=Contreras|first=Russell|title=Key tribe shuns Deb Haaland in New Mexico governor race |url=https://www.axios.com/2025/07/29/new-mexico-governor-race-tribe-deb-haaland-bregman |website=[[Axios (website)|Axios]] |access-date=August 4, 2025 |date=July 29, 2025}}</ref>
+}}
+{{Endorsements box
+| title = Deb Haaland
+| colwidth = 60
+| list =
+;Executive branch officials
+*[[Pete Buttigieg]], former [[United States Secretary of Transportation|U.S. secretary of transportation]] (2021–2025)<ref>{{cite web |last1=Davis |first1=Pat |title=Pete Buttigieg backs Biden cabinet colleague Deb Haaland in Dem battle for gov |url=https://nmpoliticalreport.com/2025/12/17/pete-buttigieg-backs-haaland/ |website=New Mexico Political Report |access-date=January 6, 2026 |date=December 17, 2025}}</ref>
+*[[Lynn Trujillo]], senior counsel to the [[United States Secretary of the Interior|U.S. secretary of the interior]] (2023–2025)<ref name="Native"/>
+*[[Tom Udall]], former [[United States Ambassador to New Zealand|U.S. ambassador to New Zealand]] (2021–2025) and [[United States Ambassador to Samoa|Samoa]] (2022–2025) and [[United States Senator|U.S. senator]] from New Mexico (2009–2021)<ref>{{cite news |title=Former Sen. Udall endorses Haaland for New Mexico governor |url=https://nmpoliticalreport.com/2025/09/18/former-sen-udall-endorses-haaland-for-new-mexico-governor/ |access-date=September 18, 2025 |work=New Mexico Political Report |date=September 18, 2025}}</ref>
+
+;U.S. senators
+*[[Ben Ray Luján]], [[New Mexico]] (2021–present)<ref name="NM1">{{cite web |last1=Downs |first1=Garrett |title=Heinrich declines to endorse Haaland for New Mexico governor |url=https://www.eenews.net/articles/heinrich-declines-to-endorse-haaland-for-new-mexico-governor/ |website=[[E&E News]] |publisher=[[Politico]] |access-date=February 14, 2025 |date=February 14, 2025}}</ref>
+
+;U.S. representatives
+*[[Teresa Leger Fernandez]], [[New Mexico's 3rd congressional district|NM-3]] (2021–present)<ref name="NM1" />
+*[[Melanie Stansbury]], [[New Mexico's 1st congressional district|NM-1]] (2021–present)<ref name="NM1" />
+*[[Eric Swalwell]], former [[California's 14th congressional district|CA-14]] (2013–2026) ''(rejected by candidate)''<ref>{{cite web |last1=Bowling |first1=Joshu |title=New Mexico Election 2026: trail notes |url=https://sourcenm.com/2026/04/17/new-mexico-election-2026-trail-notes-9/ |website=Source New Mexico |access-date=April 23, 2026 |date=April 17, 2026}}</ref>
+*[[Gabe Vasquez]], [[New Mexico's 2nd congressional district|NM-2]] (2023–present)<ref name="NM1" />
+
+;State legislators
+*[[Stacey Abrams]], former [[Georgia House of Representatives|House minority leader]] (2011–2017) from [[Georgia (U.S. state)|Georgia]]'s [[Georgia's 89th House of Representatives district|89th district]] (2007–2017)<ref name="abrams">{{cite web |last1=Rickert |first1=Levi |title=Stacey Abrams Endorses Deb Haaland to be New Mexico's Next Governor |url=https://nativenewsonline.net/currents/stacey-abrams-endorses-deb-haaland-to-be-new-mexicos-next-governor/ |website=Native News Online |access-date=May 23, 2026 |date=March 30, 2026}}</ref>
+*[[Michelle Paulene Abeyta]], [[New Mexico House of Representatives|state representative]] from the 69th district (2025–present)<ref name="Native"/>
+*[[Angel Charley]], [[New Mexico Senate|state senator]] from the 30th district (2025–present)<ref name="Native"/>
+*[[Martin Chávez]], former [[New Mexico Senate|state senator]] from the 26th district (1987–1993)<ref>{{cite web |title=Deb Haaland's Campaign for Governor Raises $1 Million |url=https://www.redlakenationnews.com/story/2025/02/28/politics/deb-haalands-campaign-for-governor-raises-1-million/129542.html |website=Red Lake Nation News |access-date=November 19, 2025 |language=en}}</ref>
+*[[Charlotte Little]], [[New Mexico House of Representatives|state representative]] from the 68th district (2023–present)<ref name="Native"/>
+*[[Javier Martínez (politician)|Javier Martínez]], [[New Mexico House of Representatives|speaker of the House]] (2023–present) from the 11th district (2015–present)<ref name="Javier">{{cite web |last1=Lohmann |first1=Patrick |title=New Mexico Election 2026: trail notes |url=https://sourcenm.com/2026/03/27/new-mexico-election-2026-trail-notes-6/ |website=Source New Mexico |access-date=March 28, 2026 |date=March 27, 2026}}</ref>
+*[[Shannon Pinto]], [[New Mexico Senate|state senator]] from the 3rd district (2019–present)<ref name="Native"/>
+*[[Reena Szczepanski]], [[New Mexico House of Representatives|House majority leader]] (2025–present) from the 47th district (2023–present)<ref name="abrams"/>
+
+;Local officials
+*[[Martin Chávez]], former mayor of [[Albuquerque]] (1993–1997, 2001–2009)<ref name="NativeNews49">{{cite web |last1=Rickert |first1=Levi |title=Santa Fe Mayor Michael Garcia Endorses Deb Haaland for New Mexico Governor |url=https://nativenewsonline.net/currents/santa-fe-mayor-michael-garcia-endorses-deb-haaland-for-new-mexico-governor/ |website=Native News Online |access-date=September 13, 2026 |date=April 9, 2026}}</ref>
+*[[Michael Garcia (New Mexico politician)|Michael Garcia]], mayor of [[Santa Fe, New Mexico|Santa Fe]] (2025–present)<ref>{{cite web |last1=Rickert |first1=Levi |title=Santa Fe Mayor Michael Garcia Endorses Deb Haaland for New Mexico Governor |url=https://nativenewsonline.net/currents/santa-fe-mayor-michael-garcia-endorses-deb-haaland-for-new-mexico-governor/ |website=Native News Online |access-date=April 13, 2026 |date=April 9, 2026}}</ref>
+
+;Individuals
+*[[Dolores Huerta]], labor leader<ref>{{cite web |last1=Clark |first1=Chris |title=Civil Rights Icon Dolores Huerta Endorses Deb Haaland |url=https://ladailypost.com/civil-rights-icon-dolores-huerta-endorses-deb-haaland/ |website=ladailypost.com |publisher=Daily Post Los Alamos |access-date=May 6, 2025 |date=April 7, 2025}}</ref>
+*[[Patricia Michaels]], fashion designer<ref name="Native"/>
+*[[Jonathan Nez]], former [[president of the Navajo Nation]] (2019–2023)<ref name="Native"/>
+
+;Labor unions
+*[[American Federation of Teachers]] New Mexico<ref name="add">{{cite web |last1=Robbins |first1=Natalie |title=Deb Haaland's education plan earns teachers' union backing in NM governor's race |url=https://www.abqjournal.com/news/haaland-unveils-education-plan-wins-teachers-union-endorsement/2961446 |website=ABQJournal |access-date=January 15, 2026 |date=January 15, 2026}}</ref>
+*[[Communications Workers of America]] Local 7076<ref name="cwa7">{{cite web |title=Deb Haaland Earns Endorsement From Communications Workers of America Local 7076 |url=https://nativenewsonline.net/currents/deb-haaland-earns-endorsement-from-communications-workers-of-america-local-7076 |website=Native News Online |access-date=February 25, 2026 |date=February 24, 2026}}</ref>
+*[[SEIU]] [[Committee of Interns and Residents]]<ref>{{cite web |title=Haaland earned our endorsement because she has a clear & urgent plan to increase health care access, stand up for working families, & lead with courage in the face of mounting assaults on our communities. |url=https://x.com/cirseiu/status/1955683441472602460 |website=CIR/SEIU on Twitter |date=August 13, 2025 |access-date=November 25, 2025}}</ref>
+
+;Organizations
+*[[League of Conservation Voters|Conservation Voters]] New Mexico<ref>{{cite web |last1=Foster |first1=Demis |last2=Taylor |first2=Molly |title=CVNM Action Fund Endorses Deb Haaland for Governor – Conservation Voters New Mexico |url=https://cvnm.org/cvnm-action-fund-endorses-deb-haaland-for-governor/ |publisher=Conservation Voter New Mexico (CVNM) Action Fund |access-date=May 6, 2025 |date=May 2, 2025}}</ref>
+*[[EMILY's List]]<ref>{{cite web |last1=Mackler |first1=Jessica |title=EMILYs List Endorses Former U.S. Secretary of Interior Deb Haaland for Governor of New Mexico |url=https://emilyslist.org/news/emilys-list-endorses-former-u-s-secretary-of-interior-deb-haaland-for-governor-of-new-mexico/ |website=EMILYs List |access-date=February 13, 2025 |date=February 12, 2025}}</ref>
+*[[Elect Democratic Women]]<ref>{{cite web |title=Candidates |url=https://electdemocraticwomen.org/candidates/ |website=Elect Democratic Women |access-date=November 19, 2025}}</ref>
+*[[End Citizens United]]<ref>{{cite web |title=Deb Haaland Earns Endorsement From End Citizens United |url=https://nativenewsonline.net/currents/deb-haaland-earns-endorsement-from-end-citizens-united |website=Native News Online |access-date=February 1, 2026 |date=January 29, 2026}}</ref>
+*[[Equality Federation|Equality New Mexico]]<ref>{{cite web |title=MSN |url=https://www.msn.com/en-us/news/politics/nm-lgbtq-advocacy-group-makes-election-endorsements/ar-AA22xZoU |website=www.msn.com|last=Brown|first=Roz|access-date=May 11, 2026|date=May 6, 2026}}</ref>
+*[[Jane Fonda Climate PAC]]<ref name=Jane>{{cite web |title=Endorsements |url=https://www.janepac.com/endorsements |website=JanePAC |access-date=November 16, 2025 |language=en}}</ref>
+*[[Planned Parenthood]] New Mexico<ref>{{cite web |title=PPVNM endorses Deb Haaland for Governor |url=https://www.plannedparenthoodaction.org/planned-parenthood-votes-new-mexico/blog/pp-votes-new-mexico-endorses-deb-haaland-for-governor |website=PPVNM |access-date=November 16, 2025}}</ref>
+
+;Tribal nations
+*[[Jemez Pueblo, New Mexico|Jemez Pueblo]]<ref name="Native2"/>
+*[[Picuris Pueblo, New Mexico|Picuris Pueblo]]<ref name="Native2"/>
+*[[Santo Domingo Pueblo, New Mexico|Santo Domingo Pueblo]]<ref name="Native2"/>
+*[[Zuni_Pueblo,_New_Mexico#Halona_Pueblo|Zuni Pueblo]]<ref name="Native">{{cite web |title=Deb Haaland Earns Endorsement from Zuni Pueblo, Strengthening Coalition of Tribal Support |url=https://nativenewsonline.net/currents/deb-haaland-earns-endorsement-from-zuni-pueblo-strengthening-coalition-of-tribal-support |website=Native News Online |access-date=November 16, 2025 |date=September 16, 2025}}</ref>
+
+;Political parties
+*[[Working Families Party|New Mexico Working Families Party]]<ref name="WFP">{{cite web |last1=Rickert |first1=Levi |title=Working Families Organizations Endorse Deb Haaland for New Mexico Governor |url=https://nativenewsonline.net/currents/working-families-organizations-endorse-deb-haaland-for-new-mexico-governor/ |website=Native News Online |access-date=May 23, 2026 |date=May 23, 2026}}</ref>
+
+;Newspapers
+*''[[The Santa Fe New Mexican]]''<ref name="SFNM">{{cite web |last1=Campos |first1=Gabriela |title=Endorsements: Haaland, Hull for governor and Luján for Senate |url=https://www.santafenewmexican.com/opinion/editorials/endorsements-haaland-hull-for-governor-and-luj-n-for-senate/article_4be3e639-344f-4aab-b0bf-7b8eb0f1e9bb.html |website=Santa Fe New Mexican |access-date=May 23, 2026 |language=en |date=May 9, 2026}}</ref>
+}}
+{{Endorsements box
+| title = ''Declined to endorse''
+| colwidth =
+| list =
+;Statewide officials
+*[[Michelle Lujan Grisham]], incumbent [[governor of New Mexico]] (2019–present)<ref name="LG1">{{cite web |title=Governor not planning to pick sides in primary race to choose her successor — at least for now |url=https://www.abqjournal.com/news/governor-not-planning-to-pick-sides-in-primary-race-to-choose-her-successor-at-least-for-now/3037710 |website=Albuquerque Journal |access-date=May 7, 2026}}</ref>
+
+;State legislators
+*[[Harold Pope Jr.]], [[New Mexico Senate|state senator]] from the 23rd district (2021–present)<ref name=pope/>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of April 13, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|Sam Bregman (D)
+|$3,680,756
+|$2,917,275
+|$853,429
+|-
+|{{party shading/Democratic}}|Deb Haaland (D)
+|$11,079,701
+|$6,712,908
+|$4,366,793
+|-
+! colspan="4" |<small>Source: New Mexico Campaign Finance System<ref name="Reports">{{cite web |url=https://login.cfis.sos.state.nm.us/index.html#/explore/candidate |title=New Mexico Campaign Finance System |publisher=New Mexico Secretary of State}}</ref></small>
+|}
+
+==== Polling ====
+{| class="wikitable col1left" style="font-size:90%;text-align:center;"
+|- style="vertical-align:bottom"
+! Poll source
+! Date(s)<br>administered
+! Sample<br>size{{efn|Key:<br />A – all adults<br />RV – registered voters<br />LV – likely voters<br />V – unclear|name="Key"}}
+! Margin<br>of error
+! style="width:75px;" |Sam<br>Bregman
+! style="width:75px;" |Deb<br>Haaland
+! Other
+! Undecided
+|-
+|style="text-align:left;"|Research & Polling Inc.<ref>{{cite web |title=Journal Poll: Haaland holds solid lead over Bregman in hotly-contested gubernatorial primary race |first=Dan |last=Boyd |url=https://www.abqjournal.com/news/journal-poll-haaland-holds-solid-lead-over-bregman-in-hotly-contested-gubernatorial-primary-race/3029283 |website=[[Albuquerque Journal]] |access-date=April 27, 2026 |date=April 27, 2026}}</ref>{{Efn-ua|name=ABQJ|Poll conducted for the ''[[Albuquerque Journal]]''}}
+|April 17–24, 2026
+|534 (LV)
+|±&nbsp;4.2%
+|30%
+|{{party shading/Democratic}} |'''52%'''
+|–
+|18%
+|-
+|style="text-align:left;"|[[Emerson College]]<ref name=EmersonApril2026>{{cite web |title=New Mexico 2026 Poll: Deb Haaland Leads Sam Bregman in Primary for Governor; Majority of Republicans Undecided |url=https://emersoncollegepolling.com/new-mexico-2026-poll/ |publisher=[[Emerson College]] |access-date=April 23, 2026 |date=April 22, 2026}}</ref>{{Efn-ua|name=KRQE|Poll sponsored by [[KRQE|KRQE News 13]]}}
+|April 18–19, 2026
+|568 (LV)
+|±&nbsp;4.1%
+|24%
+|{{party shading/Democratic}} |'''40%'''
+|–
+|36%
+|-
+|style="text-align:left;"|Change Research (D)<ref name=CRB>{{cite web |title=Survey Results |url=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGAztmKqDJOsMlUc-QHrg6mYi82YUTr_eWB4A6DMi3Wgwg4m1f_SI9icOp_tBGwuqwIhi4lWkfXL9ADgJD4zGrPGiH752w2oFIMXteXO16eXI2VHRC0T_3MalesmoiF2DrAPBaXs42GWZl3CoWfef2lCEPefFd8GgcEYHMIhUMF0mPdp5zbFJl/s2496/Bregman%20poll%20primary%20'26y.jpg |first=Stephen |last=Clermont |publisher=Change Research |access-date=February 27, 2026 |date=February 24, 2026 |via=Google user content}}</ref>{{Efn-ua|name=Bregman|Poll sponsored by Bregman's campaign}}
+|February 21–24, 2026
+|696 (RV)
+|±&nbsp;4.1%
+|25%
+|{{party shading/Democratic}} |'''46%'''
+|–
+|29%
+|-
+|style="text-align:left;"|GBAO (D)<ref>{{Cite web|url=https://nmpoliticalreport.com/2026/02/20/new-poll-shows-haaland-still-comfortably-ahead-of-bregman-as-dem-primary-for-gov-heats-up/|title= New poll shows Haaland still comfortably ahead of Bregman as Dem. primary for gov heats up |first=Pat|last=Davis|website=New Mexico Political Report|date=February 20, 2026|access-date=February 25, 2026}}</ref>{{Efn-ua|name=Haaland}}
+|February 9–12, 2026
+|500 (LV)
+|±&nbsp;4.4%
+|26%
+|{{party shading/Democratic}} |'''56%'''
+|–
+|18%
+|-
+|style="text-align:left;"|Change Research (D)<ref name=CRB/><ref name="NYTPrimary"/>{{Efn-ua|name=Bregman}}
+|January 12–18, 2026
+|909 (LV)
+|–
+|23%
+|{{party shading/Democratic}} |'''50%'''
+|–
+|27%
+|-
+|style="text-align:left;"|Change Research (D)<ref name=CRB/><ref name="NYTPrimary">{{Cite web|url=https://www.nytimes.com/interactive/polls/new-mexico-governor-election-polls-2026.html|title=New Mexico Governor Election 2026: Latest Polls|website=[[The New York Times]]|date=January 16, 2026 |access-date=July 24, 2026}}</ref>{{Efn-ua|name=Bregman}}
+|October 8–13, 2025
+|1,000 (LV)
+|–
+|22%
+|{{party shading/Democratic}} |'''54%'''
+|–
+|24%
+|-
+|style="text-align:left;"|GBAO (D)<ref>{{cite web |last1=Davis |first1=Pat |title=Poll shows Haaland with a commanding lead in Dem race for gov |url=https://nmpoliticalreport.com/2025/09/12/poll-shows-haaland-with-a-commanding-lead-in-dem-race-for-gov/ |website=New Mexico Political Report |access-date=November 19, 2025 |date=September 12, 2025}}</ref><ref>{{Cite web|url=https://static01.nyt.com/newsgraphics/documenttools/c15cc66ebad717bb/a4e83517-full.pdf|title=NM Governor Democratic Primary Poll|work=GBAO|date=September 10, 2025|access-date=March 1, 2026|via=[[The New York Times]]}}</ref>{{efn-ua|name=Haaland|Poll sponsored by Haaland's campaign}}
+|August 6–11, 2025
+|355 (LV)
+|±&nbsp;5.2%
+|19%
+|{{party shading/Democratic}} |'''55%'''
+|9%{{efn|Ken Miyagishima with 9%}}
+|16%
+|-
+|style="text-align:left;"|Change Research (D)<ref name=CRB/><ref name="NYTPrimary"/>{{Efn-ua|name=Bregman}}
+|March 9–13, 2025
+|1,014 (LV)
+|–
+|14%
+|{{party shading/Democratic}} |'''63%'''
+|–
+|23%
+|-
+|style="text-align:left;"|[[Public Policy Polling]] (D)<ref>{{Cite web|url=https://joemonahansnewmexico.blogspot.com/2025/04/haaland-camp-sharpens-knives-as-bregman.html|title=Haaland Camp Sharpens Knives As Bregman Preps Entry Into '26 Guv Race; Battle Lines Drawn Between Progressives And Moderates, Also: La Politica's Bill O'Neill Dies In Santa Fe|first=Joe|last=Monahan|website=New Mexico Politics with Joe Monahan|date=April 1, 2025|access-date=June 22, 2025}}</ref>
+|December 4–5, 2024
+|557 (LV)
+|–
+|18%
+|{{party shading/Democratic}} |'''50%'''
+|6%{{efn|[[Laura Montoya (politician)|Laura Montoya]] with 6%}}
+|27%
+|}
+
+====Results====
+[[File:2026 New Mexico Democratic gubernatorial primary election results map by county.svg|thumb|225px|Primary results by county:
+{{collapsible list
+| title = {{legend|#7996E2|Haaland}}
+|{{legend|#7996E2|50–60%}}
+|{{legend|#6674DE|60–70%}}
+|{{legend|#584CDE|70–80%}}
+|{{legend|#3933E5|80–90%}}
+}}
+]]
+{{Election box begin no change |title=Democratic primary results<ref name="Primary">{{Cite web|title=Official Results 2026 Primary June 2, 2026|url=https://electionresults.sos.nm.gov/resultsSW.aspx?type=SW&map=CTY|url-status=live|date=June 2, 2026|archive-url=https://web.archive.org/web/20260823185255/https://electionresults.sos.nm.gov/resultsSW.aspx?type=SW&map=CTY|archive-date=August 23, 2026|publisher=[[New Mexico Secretary of State]]|access-date=August 23, 2026}}</ref>}}
+{{Election box winning candidate with party link no change
+  |party      = Democratic Party of New Mexico
+  |candidate  = [[Deb Haaland]]
+  |votes      = 158,713
+  |percentage = 72.3
+}}{{Election box candidate with party link no change
+  |party      = Democratic Party of New Mexico
+  |candidate  = Sam Bregman
+  |votes      = 60,619
+  |percentage = 27.7
+}}{{Election box total no change
+  |votes      = 219,332
+  |percentage = 100.0
+}}{{Election box end}}
+
+===Lieutenant governor===
+====Primary election====
+=====Candidates=====
+======Withdrew after nomination======
+*[[Maggie Toulouse Oliver]], [[New Mexico Secretary of State]] (2016–present)<ref>{{cite news |work=[[KOB (TV)|KOB]] |url=https://www.kob.com/news/top-news/maggie-toulouse-oliver-announces-run-for-lieutenant-governor/ |date=October 23, 2025 |access-date=October 23, 2025 |title=Maggie Toulouse Oliver announces run for lieutenant governor |language=en}}</ref> ''(withdrew on June 18)''<ref name="auto">{{Cite web|url=https://www.kob.com/news/top-news/new-mexico-lieutenant-governor-nominee-suspends-campaign/|title=New Mexico lieutenant governor nominee suspends campaign|first1=Jonathan|last1=Fjeld|first2=Alika|last2=Medina|date=June 18, 2026|access-date=June 19, 2026|work=KOB}}</ref>
+
+======Eliminated in primary======
+*[[Harold Pope Jr.]], [[New Mexico Senate|state senator]] from the 23rd district (2021–present)<ref name=pope>{{cite news |last1=Prokop |first1=Danielle |title=Sen. Harold Pope announces Democratic lieutenant governor candidacy |url=https://sourcenm.com/briefs/sen-harold-pope-announces-democratic-lieutenant-governor-candidacy/ |access-date=July 23, 2025 |work=[[Source New Mexico]] |date=July 14, 2025}}</ref>
+
+======Withdrawn from primary======
+*[[Stephanie Garcia Richard]], [[New Mexico Commissioner of Public Lands]] (2019–present)<ref>{{cite web|url=https://www.abqjournal.com/news/article_ff3ac633-0216-48f2-b37e-c685bf9e76a4.html|title=Stephanie Garcia Richard suspends Lt. Gov. campaign, citing family health issues|last=Boyd|first=Dan|date=October 16, 2025|access-date=October 16, 2025|website=[[Albuquerque Journal]]}}</ref>
+*Jackie Lee Onsurez, [[Loving, New Mexico|Loving]] village councilor<ref>{{cite news |last1=Prokop |first1=Danielle |title=Loving Village councilor declares Democratic bid for New Mexico lieutenant governor |url=https://sourcenm.com/2025/07/21/loving-village-councilor-declares-democratic-bid-for-new-mexico-lieutenant-governor/ |access-date=July 23, 2025 |work=[[Source New Mexico]] |date=July 21, 2025}}</ref>
+
+====Endorsements====
+{{Endorsements box
+|title=Harold Pope Jr.
+|list=
+;Organizations
+*[[VoteVets.org|VoteVets]]<ref>{{cite web |title=Endorsed Candidates |url=https://votevets.org/candidates |website=VoteVets |access-date=January 6, 2026}}</ref>
+*[[Vote Common Good]]<ref>{{cite web |title=2026 Candidates for Common Good |url=https://www.votecommongood.com/candidates-for-common-good-2026/ |website=Vote Common Good |access-date=January 21, 2026}}</ref>
+}}
+{{Endorsements box
+|title=Maggie Toulouse Oliver ''(withdrawn)''
+|list=
+;Statewide officials
+*[[Michelle Lujan Grisham]], governor of New Mexico (2019–present) and former [[United States Representative]] for [[NM-01]] (2013–2019)<ref>{{cite web |last1=Chacón |first1=Daniel |title=The Roundhouse Report: Lujan Grisham endorses Toulouse Oliver for lieutenant governor |url=https://www.santafenewmexican.com/news/roundhouse_report/the-roundhouse-report-lujan-grisham-endorses-toulouse-oliver-for-lieutenant-governor/article_dcae2bfb-d97f-4342-a42b-189fc7d20c38.html |website=Santa Fe New Mexican |access-date=December 8, 2025 |language=en |date=December 6, 2025}}</ref>
+
+;Organizations
+*[[EMILYs List]]<ref>{{cite web |url=https://emilyslist.org/news/emilys-list-endorses-maggie-toulouse-oliver-for-new-mexico-lieutenant-governor/ |title=EMILYs List Endorses Maggie Toulouse Oliver for New Mexico Lieutenant Governor |website=emilyslist.org |date=February 27, 2026 |access-date=February 27, 2026}}</ref>
+}}
+{{Endorsements box
+|title=Stephanie Garcia Richard
+|list=
+;Executive branch officials
+*[[Deb Haaland]], former [[United States Secretary of the Interior|secretary of the interior]] (2021–2025)<ref name="auto2"/>
+}}
+
+====Results====
+[[File:2026 New Mexico Democratic lieutenant gubernatorial primary election results map by county.svg|thumb|225px|Primary results by county:
+{{collapsible list
+| title = {{legend|#7996E2|Oliver}}
+|{{legend|#6674DE|60–70%}}
+|{{legend|#584CDE|70–80%}}
+|{{legend|#3933E5|80–90%}}
+}}
+]]
+{{Election box begin no change
+|title=Democratic primary results<ref name="Primary"/>}}{{Election box winning candidate with party link no change
+  |party      = Democratic Party of New Mexico
+  |candidate  = [[Maggie Toulouse Oliver]]
+  |votes      = 169,930
+  |percentage = 80.0
+}}{{Election box candidate with party link no change
+  |party      = Democratic Party of New Mexico
+  |candidate  = [[Harold Pope Jr.]]
+  |votes      = 42,515
+  |percentage = 20.0
+}}{{Election box total no change
+  |votes      = 212,445
+  |percentage = 100.0
+}}{{Election box end}}
+
+====Replacement selection====
+After winning the June 2 primary, Toulouse Oliver withdrew from the race on June 18, citing health issues. Haaland announced she would be interviewing candidates to replace Toulouse Oliver on the ballot.<ref>{{Cite web|url=https://www.kob.com/new-mexico/deb-haaland-wants-to-interview-candidates-for-lieutenant-governor/|title=Deb Haaland wants to interview candidates for lieutenant governor|first=Robert|last=Towne|date=June 23, 2026|work=[[KOB (TV)|KOB]]}}</ref> However, the final decision on Toulouse Oliver's replacement rested with the state Democratic Party's Central Committee.<ref>{{Cite web|url=https://www.kob.com/new-mexico/this-is-kind-of-a-whole-new-ballgame-haaland-announces-own-lieutenant-governor-search-process/|title='This is kind of a whole new ballgame': Haaland announces own lieutenant governor search process|first=Monica|last=Logroño|date=June 24, 2026|work=[[KOB (TV)|KOB]]}}</ref> The candidates listed below are the five Haaland chose to interview, though the State Central Committee could have chosen any candidate and was not limited to the following five. Haaland endorsed Garcia Richard on June 26,<ref name="auto2">{{Cite web|url=https://www.kob.com/new-mexico/deb-haaland-endorses-stephanie-garcia-richard-for-new-mexico-lieutenant-governor/|title=Deb Haaland endorses Stephanie Garcia Richard for New Mexico lieutenant governor|first=Mesha|last=Begay|date=June 27, 2026|work=[[KOB (TV)|KOB]]}}</ref> and the State Central Committee formally chose her on July 30.<ref>{{Cite web|url=https://www.kob.com/news/top-news/stephanie-garcia-richard-wins-democratic-lieutenant-governor-nomination/|title=Stephanie Garcia Richard wins Democratic lieutenant governor nomination|first=Jonathan |last=Fjeld|date=July 30, 2026|work=[[KOB (TV)|KOB]]}}</ref>
+
+=====Replacement nominee=====
+*[[Stephanie Garcia Richard]], [[New Mexico Commissioner of Public Lands]] (2019–present)
+
+=====Eliminated in replacement vote=====
+*[[Leo Jaramillo]], [[New Mexico Senate|state senator]] from the 5th district (2021–present)
+*[[Harold Pope Jr.]], [[New Mexico Senate|state senator]] from the 23rd district (2021–present) and runner-up in the original primary election
+*Antonia Roybal-Mack, attorney
+*Sonia Smith, former New Mexico Secretary of Veterans Services<ref name="auto1">{{Cite web|url=https://www.kob.com/news/top-news/haaland-to-meet-with-5-democratic-lieutenant-governor-candidates/|title=Haaland to meet with 5 Democratic lieutenant governor candidates|first=Jonathan|last=Fjeld|date=June 26, 2026|work=[[KOB (TV)|KOB]]}}</ref>
+
+==Republican primary==
+===Governor===
+====Candidates====
+=====Nominee=====
+*[[Gregg Hull]], mayor of [[Rio Rancho]] (2014–2026)<ref>{{cite news |last1=Hendricks |first1=Kevin |title=Rio Rancho mayor will join race for GOP nomination for governor |url=https://nmpoliticalreport.com/2025/04/15/rio-rancho-mayor-will-join-race-for-gop-nomination-for-governor/ |access-date=April 15, 2025 |work=New Mexico Political Report |date=April 15, 2025}}</ref>
+
+=====Eliminated in primary=====
+*Duke Rodriguez, former secretary of the New Mexico Human Services Department<ref>{{cite web |last1=Bowling |first1=Joshua |title=Duke Rodriguez formally announces Republican bid for governor |url=https://sourcenm.com/2025/12/15/duke-rodriguez-formally-announces-republican-bid-for-governor/ |access-date=December 15, 2025 |work=[[Source New Mexico]] |date=December 15, 2025}}</ref>
+*Doug Turner, businessman and candidate for governor in [[2010 New Mexico gubernatorial election|2010]]<ref>{{cite web |last1=Prokop |first1=Danielle |title=New Mexico Election 2026: trail notes |url=https://sourcenm.com/2026/01/23/new-mexico-election-2026-trail-notes-3/ |access-date=January 23, 2026 |work=[[Source New Mexico]] |date=January 23, 2026}}</ref>
+
+=====Withdrawn=====
+*Jim Ellison, former [[New Mexico Public Regulation Commission]]er (2023–2024) ''([[2026 New Mexico State Treasurer election|running for state treasurer]])''<ref>{{cite web |last1=Bowling |first1=Joshua |title=Election 2026 New Mexico Election 2026: trail notes |url=https://sourcenm.com/2026/03/13/new-mexico-election-2026-trail-notes-4/ |publisher=[[Source NM]] |access-date=March 17, 2026 |date=March 13, 2026}}</ref>
+
+=====Disqualified=====
+*Belinda Robertson, fitness instructor<ref>{{cite news |title=Four New Mexico candidates disqualified after failing to meet ballot requirements |url=https://www.abqjournal.com/news/four-new-mexico-candidates-disqualified-after-failing-to-meet-ballot-requirements/2978003?utm_campaign=mrf-twitter-ABQJournal&mrfcid=20260211698cbbd4871dae073950f595 |access-date=February 11, 2026 |work=[[Albuquerque Journal]] |date=February 10, 2026}}</ref>
+*[[Steve D. Lanier|Steve Lanier]], [[New Mexico Senate|state senator]] from the 2nd district (2025–present)<ref>{{cite web |last1=Bowling |first1=Joshua |title=Secretary of State disqualifies Republican gubernatorial candidate Lanier from June ballot |url=https://sourcenm.com/briefs/secretary-of-state-disqualifies-republican-gubernatorial-candidate-lanier-from-june-ballot/ |publisher=[[Source NM]] |access-date=March 20, 2026 |date=March 19, 2026}}</ref>
+
+=====Declined=====
+*[[John Block (New Mexico politician)|John Block]], [[New Mexico House of Representatives|state representative]] from the 51st district (2023–present)<ref name="GearingUp"/>
+*[[Crystal Brantley]], [[New Mexico Senate|state senator]] from the 35th district (2021–present)<ref name="GearingUp"/>
+*Nella Domenici, former CFO of [[Bridgewater Associates]], daughter of former U.S. Senator [[Pete Domenici]], and nominee for U.S. Senate in [[2024 United States Senate election in New Mexico|2024]]<ref>{{cite news |last1=Ross |first1=Alex |title=Nella Domenici opts against 2026 run for governor, statewide office |url=https://www.rdrnews.com/news/local/nella-domenici-opts-against-2026-run-for-governor-statewide-office/article_278692e5-8ab4-4fb3-b0f8-089d28058864.html |access-date=April 14, 2025 |work=[[Roswell Daily Record]] |date=April 14, 2025 |language=en}}</ref>
+*[[Mark Murphy (politician)|Mark Murphy]], [[New Mexico House of Representatives|state representative]] from the 59th district (2025–present)<ref name="Slowly">{{cite news |last1=Ross |first1=Alex |title=New Mexico Republicans eyeing governor's office, but slowly |url=https://www.tricityrecordnm.com/articles/new-mexico-republicans-eyeing-governors-office-but-slowly/ |access-date=September 8, 2025 |work=[[Tri-City Record]] |date=September 8, 2025}}</ref>
+*[[Judith Nakamura]], former chief justice of the [[New Mexico Supreme Court]] (2017–2020)<ref name="Slowly" />
+
+====Endorsements====
+{{Endorsements box
+|title=Gregg Hull
+|list=
+;Organizations
+*[[New Mexico State University]] [[College Republicans]]<ref name="NMSU">{{cite web |last1=Andrews |first1=Elizabeth |title=Who's running for governor in the NM Republican primary? |url=https://nmsuroundup.com/33110/showcase/whos-running-in-the-republican-primary-for-governor/ |website=The Round Up |access-date=September 2, 2026 |date=May 29, 2026}}</ref>
+
+;Newspapers
+*''[[The Santa Fe New Mexican]]''<ref name="SFNM"/>
+}}
+
+{{Endorsements box
+|title=Duke Rodriguez
+|list=
+;Statewide officials
+*[[Gary Johnson]], former [[governor of New Mexico]] (1995–2003) ''(Libertarian)''{{efn|Johnson was elected as a Republican}}<ref>{{Cite web|url=https://sourcenm.com/2025/06/19/in-the-running-whos-in-whos-out-for-the-2026-nm-governor-race/|title=In the Running: Who's in, who's out for the 2026 NM governor race |first=Danielle|last=Prokop|date=June 19, 2025}}</ref>
+}}
+
+{{Endorsements box
+|title=Doug Turner
+|list=
+;U.S. representatives
+*[[Yvette Herrell]], former [[NM-02]] (2021–2023)<ref name="Yvette">{{cite web |title=The Least Trumpy Of The GOP Guv Candidates Is Benefiting The Most From White House Allies; Turner Nabbed Mar-a-Lago Invite And Follows Up With Trumper Yvette Herrell Touting Him |url=https://www.joemonahan.com/2026/04/the-least-trumpy-of-gop-guv-candidates.html |website=New Mexico Politics |access-date=May 30, 2026}}</ref>
+
+;Statewide officials
+*[[John Sanchez]], former [[Lieutenant Governor of New Mexico|lieutenant governor of New Mexico]] (2011–2019)<ref>{{cite web |title=State House Primary Races Cemented With Filings; Focus On Whether Progressives Or Moderate Dems Strengthen Their Hands At Roundhouse; GOP Faces National Headwinds, Plus: Some Post Preprimary Convention Spin |url=https://www.joemonahan.com/2026/03/state-house-primary-races-cemented-with.html |website=New Mexico Politics |access-date=May 30, 2026 |date=March 12, 2026 |quote=Second place preprimary finisher Doug Turner has rolled out an endorsement from former Lt. Gov. John Sanchez who was the 2022 GOP Guv nominee.}}</ref>
+}}
+
+====Fundraising====
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of April 13, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|Gregg Hull (R)
+|$474,113
+|$235,979
+|$238,133
+|-
+|{{party shading/Republican}}|Duke Rodriguez (R)
+|$501,249
+|$326,436
+|$174,813
+|-
+|{{party shading/Republican}}|Doug Turner (R)
+|$502,798
+|$63,206
+|$439,592
+|-
+! colspan="4" |<small>Source: New Mexico Campaign Finance System<ref name="Reports" /></small>
+|}
+
+====Polling====
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- style="vertical-align:bottom"
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"}}
+! Margin<br />{{nowrap|of error}}
+! style="width:70px;"| Gregg<br />Hull
+! style="width:70px;"| Duke<br />Rodriguez
+! style="width:70px;"| Doug<br />Turner
+! Other
+! Undecided
+|-
+|style="text-align:left;"|Public Opinion Strategies (R)<ref>{{cite web|url=https://www.santafenewmexican.com/news/elections/doug-turner-gaining-ground-on-gregg-hull-in-gop-primary-for-new-mexico-governor-poll/article_ff23f92f-addb-456f-a3ee-9abed5cb7468.html|title=Doug Turner gaining ground on Gregg Hull in GOP primary for New Mexico governor, poll says|first=Daniel J.|last=Chacón|website=[[The Santa Fe New Mexican]]|date=May 27, 2026|access-date=May 27, 2026}}</ref>
+|May 18–20, 2026
+|400 (LV)
+|±&nbsp;4.9%
+|{{party shading/Republican}}|'''33%'''
+|12%
+|30%
+|–
+|25%
+|-
+|style="text-align:left;"|Research & Polling Inc.<ref>{{cite web |title=Journal Poll: Hull leads in three-way GOP primary race for governor, but many voters still undecided |first=Dan |last=Boyd |url=https://www.yahoo.com/news/articles/journal-poll-hull-leads-three-140200961.html |website=[[Albuquerque Journal]] |access-date=May 5, 2026 |date=May 3, 2026}}</ref>{{Efn-ua|name=ABQJ|Poll conducted for the ''[[Albuquerque Journal]]''}}
+|April 24 – May 1, 2026
+|477 (LV)
+|±&nbsp;4.3%
+|{{party shading/Republican}}|'''30%'''
+|9%
+|21%
+|–
+|{{party shading/Undecided}}|'''40%'''
+|-
+|style="text-align:left;"|[[Emerson College]]<ref name="EmersonApril2026"/>{{Efn-ua|name=KRQE}}
+|April 18–19, 2026
+|432 (LV)
+|±&nbsp;4.7%
+|{{party shading/Republican}}|'''21%'''
+|10%
+|9%
+|–
+|{{party shading/Undecided}}|'''61%'''
+|-
+|}
+
+====Results====
+[[File:2026 New Mexico Republican gubernatorial primary election results map by county.svg|thumb|225px|Primary results by county:
+{{collapsible list
+| title = {{legend|#E27F7F|Hull}}
+|{{legend|#FFC8CD|30–40%}}
+|{{legend|#FFB2B2|40–50%}}
+|{{legend|#E27F7F|50–60%}}
+|{{legend|#D72F30|70–80%}}
+}}
+{{collapsible list
+| title = {{legend|#FF9A50|Turner}}
+|{{legend|#FFCCA9|30–40%}}
+|{{legend|#FFB580|40–50%}}
+|{{legend|#FF9A50|50–60%}}
+|{{legend|#EE8E50|60–70%}}
+}}
+]]
+{{Election box begin no change |title=Republican primary results<ref name="Primary"/>}}
+{{Election box winning candidate with party link no change
+  |party      = Republican Party of New Mexico
+  |candidate  = [[Gregg Hull]]
+  |votes      = 56,708
+  |percentage = 47.0
+}}{{Election box candidate with party link no change
+  |party      = Republican Party of New Mexico
+  |candidate  = Doug Turner
+  |votes      = 44,480
+  |percentage = 36.9
+}}{{Election box candidate with party link no change
+  |party      = Republican Party of New Mexico
+  |candidate  = Duke Rodriguez
+  |votes      = 19,393
+  |percentage = 16.1
+}}{{Election box total no change
+  |votes      = 120,581
+  |percentage = 100.0
+}}{{Election box end}}
+
+===Lieutenant governor===
+====Candidates====
+=====Nominee=====
+*[[David Gallegos]], [[New Mexico Senate|state senator]] from the 41st district (2021–present)<ref>{{cite news |author=<!-- not stated --> |title=Gallegos makes ballot for Lt. Gov. |url=//www.hobbsnews.com/gallegos-makes-ballot-for-lt-gov/ |access-date=May 5, 2026 |work=[[Hobbs News-Sun]] |date=February 6, 2026}}</ref>
+
+=====Eliminated in primary=====
+*Aubrey Blair Dunn, lawyer, son of former public lands commissioner [[Aubrey Dunn Jr.]], and Libertarian nominee for attorney general in [[2018 New Mexico elections#Attorney general|2018]]<ref>{{cite web |last1=Lohmann |first1=Patrick |title=New Mexico Primary 2026: lieutenant governor (Republicans) |url=https://sourcenm.com/2026/05/04/new-mexico-primary-2026-new-mexico-lieutenant-governor-republicans/ |website=Source New Mexico |access-date=May 7, 2026 |date=May 4, 2026}}</ref>
+*Manuel Lardizabal, business owner and nominee for SD-26 in [[2020 New Mexico Senate election#District 26|2020]]<ref>{{cite news |last1=Prokop |first1=Danielle |title=Two candidates toss in names for 2026 lieutenant governor race |url=https://sourcenm.com/briefs/two-candidates-toss-in-names-for-2026-lieutenant-governor-race/ |access-date=April 30, 2025 |work=[[Source New Mexico]] |date=April 30, 2025}}</ref>
+
+====Results====
+[[File:2026 New Mexico Republican lieutenant gubernatorial primary election results map by county.svg|thumb|225px|Primary results by county:
+{{collapsible list
+| title = {{legend|#E27F7F|Gallegos}}
+|{{legend|#FFB2B2|40–50%}}
+|{{legend|#E27F7F|50–60%}}
+|{{legend|#D75D5D|60–70%}}
+|{{legend|#C21B18|80–90%}}
+}}
+{{collapsible list
+| title = {{legend|#FF9A50|Dunn}}
+|{{legend|#FFB580|40–50%}}
+|{{legend|#FF9A50|50–60%}}
+}}
+]]
+{{Election box begin no change |title=Republican primary results<ref name="Primary"/>}}
+{{Election box winning candidate with party link no change
+  |party      = Republican Party of New Mexico
+  |candidate  = [[David Gallegos]]
+  |votes      = 56,640
+  |percentage = 49.7
+}}{{Election box candidate with party link no change
+  |party      = Republican Party of New Mexico
+  |candidate  = Aubrey Blair Dunn
+  |votes      = 42,954
+  |percentage = 37.8
+}}{{Election box candidate with party link no change
+  |party      = Republican Party of New Mexico
+  |candidate  = Manuel Lardizabal
+  |votes      = 14,183
+  |percentage = 12.5
+}}{{Election box total no change
+  |votes      = 113,777
+  |percentage = 100.0
+}}{{Election box end}}
+
+==Independent candidates==
+===Governor===
+====Candidates====
+=====Withdrawn=====
+*[[Ken Miyagishima]], former mayor of [[Las Cruces, New Mexico|Las Cruces]] (2007–2023) ''(previously ran as a Democrat; endorsed Hull)''<ref name="Ends1">{{cite web |title=Miyagishima ends governor bid, endorses Republican Gregg Hull |url=https://www.organmountainnews.com/ken-miyagishima-ends-governor-campaign-endorses-gregg-hull-2026/ |website=Organ Mountain News |access-date=July 18, 2026 |language=en |date=July 17, 2026}}</ref>
+
+== General election ==
+===Predictions===
+{| class="wikitable" style=text-align:center
+!Source
+!Ranking
+!As of
+|-
+|align=left|''[[The Cook Political Report]]''<ref>{{cite web|title=2026 CPR Governor Race ratings|url=https://www.cookpolitical.com/ratings/governor-race-ratings|website=[[The Cook Political Report]]|access-date=January 23, 2025}}</ref>
+|{{USRaceRating|Solid|D}}
+|September 10, 2026
+|-
+|align=left|[[Decision Desk HQ]]<ref name="DDHQ">{{cite web |title=2026 Governor Forecast |url=https://votes.decisiondeskhq.com/forecast/2026/governor |website=Decision Desk HQ |access-date=September 22, 2026}}</ref>
+|{{USRaceRating|Likely|D}}
+|September 23, 2026
+|-
+|align=left|[[Fox News]]<ref>{{cite web |title=Fox News Power Rankings: The top races to watch as 36 states choose their next governor |url=https://www.foxnews.com/politics/fox-news-power-rankings-top-races-watch-36-states-choose-next-governor |website=[[Fox News]] |date=July 23, 2026 |publisher=Rémy Numa |access-date=July 24, 2026}}</ref>
+|{{USRaceRating|Solid|D}}
+|July 23, 2026
+|-
+|align=left|''[[Inside Elections]]''<ref>{{Cite web|title=Gubernatorial Ratings|url=https://insideelections.com/ratings/governor|access-date=February 7, 2025|website=[[Inside Elections]]}}</ref>
+|{{USRaceRating|Likely|D}}
+|September 3, 2026
+|-
+|align="left"|[[RealClearPolitics]]<ref>{{Cite web|title=2026 Governor Races {{!}} RealClearPolitics|url=https://www.realclearpolling.com/maps/governor/2026/toss-up|access-date=October 5, 2026|website=[[RealClearPolitics]]|archive-url=https://web.archive.org/web/20260601183127/https://www.realclearpolling.com/maps/governor/2026/toss-up|archive-date=June 1, 2026|url-status=dead}}</ref>
+|{{USRaceRating|Lean|D}}
+|October 5, 2026
+|-
+|align=left|''[[Sabato's Crystal Ball]]''<ref>{{cite web|title=2026 Governor|url=https://centerforpolitics.org/crystalball/2026-governor/|website=[[Sabato's Crystal Ball]]|access-date=May 1, 2025}}</ref>
+|{{USRaceRating|Safe|D}}
+|September 3, 2026
+|-
+| style="text-align: left;" |[[Silver Bulletin]]<ref name=":Silver">{{Cite web |last=Silver |first=Nate |date=August 20, 2026 |title=FLIPR 2026 midterm election forecast |url=https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model |url-access=subscription |access-date=August 20, 2026 |website=www.natesilver.net |language=en}}</ref>
+| {{US political race rating|Solid|D}}
+|August 25, 2026
+|}
+
+===Post-primary endorsements===
+{{Endorsements box
+|title=Deb Haaland (D)
+|list=
+
+;Executive branch officials
+*[[Barack Obama]], former [[president of the United States]] (2009–2017)<ref>{{cite news |last=Knox |first=Brady |date=October 7, 2026 |title=Obama announces endorsement of Deb Haaland for New Mexico governor: ‘A real fighter’ |url=https://www.washingtonexaminer.com/news/campaigns/state/4756941/obama-endorse-deb-haaland-new-mexico-governor/ |work=Washington Examiner |access-date=October 7, 2026}}</ref>
+;U.S. senators
+*[[Martin Heinrich]], [[New Mexico]] (2013–present)<ref name="NativeNews64">{{cite web |last1=Rickert |first1=Levi |title=Sen. Martin Heinrich Endorses Deb Haaland for New Mexico Governor |url=https://nativenewsonline.net/currents/sen-martin-heinrich-endorses-deb-haaland-for-new-mexico-governor/ |website=Native News Online |access-date=September 13, 2026 |date=June 4, 2026|ref=Rickert-Heinrich}}</ref>
+
+;Labor unions
+*[[American Federation of State, County and Municipal Employees]] Council 18<ref name="NativeNews630">{{cite web |last1=Rickert |first1=Levi |title=New Mexico Labor Unions Endorse Deb Haaland for Governor |url=https://nativenewsonline.net/currents/new-mexico-labor-unions-endorse-deb-haaland-for-governor/ |website=Native News Online |access-date=September 13, 2026 |date=June 30, 2026|ref=Rickert-Labor}}</ref>
+*[[National Education Association|National Education Association-New Mexico]]<ref name="NativeNews630" />
+*[[AFL-CIO|New Mexico AFL-CIO]]<ref name="NativeNews630" />
+*[[International Association of Fire Fighters|New Mexico Professional Fire Fighters Association]]<ref name="NativeNews630" />
+*[[International Association of Machinists and Aerospace Workers|New Mexico State Council of Machinists and Aerospace Workers]]<ref name="NativeNews630" />
+*[[International Association of Sheet Metal, Air, Rail and Transportation Workers|Sheet Metal Workers]] Local 49<ref name="NativeNews630" />
+*[[United Brotherhood of Carpenters and Joiners of America|Western States Regional Council of Carpenters]]<ref name="NativeNews630" />
+
+;Organizations
+*[[Giffords]]<ref>{{cite web |title=GIFFORDS PAC endorses Deb Haaland for governor of New Mexico |url=https://giffords.org/press-release/2026/06/giffords-pac-endorses-deb-haaland-for-governor-of-new-mexico/ |website=giffords.org |date=June 5, 2026 |access-date=June 5, 2026}}</ref>
+*[[Human Rights Campaign]]<ref name="HRCAugust">{{cite web |title=Human Rights Campaign PAC Endorses Slate of Pro-Equality Candidates |url=https://www.hrc.org/press-releases/human-rights-campaign-pac-endorses-slate-of-pro-equality-candidates-for-governor-in-key-states |website=HRC |access-date=August 30, 2026 |date=August 27, 2026}}</ref>
+*[[National Women's Political Caucus]]<ref>{{Cite web |url=https://nwpc.org/endorsed-candidates/ |title=National Women’s Political Caucus Endorsed Candidates |website=[[National Women's Political Caucus]] |access-date=14 July 2026}}</ref>
+
+;Tribal nations
+*[[Ohkay Owingeh Pueblo]]<ref name="NativeNews911">{{cite web |title=Ohkay Owingeh Pueblo Endorses Deb Haaland for New Mexico Governor |url=https://nativenewsonline.net/currents/ohkay-owingeh-pueblo-endorses-deb-haaland-for-new-mexico-governor/ |website=Native News Online |access-date=September 13, 2026 |date=September 11, 2026}}</ref>
+*[[Sandia Pueblo]]<ref name="NativeNews911" />
+}}
+
+{{Endorsements box
+|title=Gregg Hull (R)
+|list=
+;Statewide officials
+*[[Gary Johnson]], former [[governor of New Mexico]] (1995–2003) ''(Libertarian; elected as a Republican)''<ref>{{Cite news |date=August 6, 2026 |title=Former Governor Gary Johnson endorses Gregg Hull in gubernatorial race |url=https://www.kob.com/new-mexico/former-governor-gary-johnson-endorses-gregg-hull-in-gubernatorial-race/ |access-date=August 6, 2026 |work=KOB4 |language=en}}</ref>
+
+;Local officials
+*[[Ken Miyagishima]], former [[List of mayors of Las Cruces, New Mexico|mayor of Las Cruces]] (2007–2023) and former gubernatorial candidate ''(Independent)''<ref name="Ends1"/>
+
+;Organizations
+*[[NRA Political Victory Fund]]<ref name="NRA">{{cite web |title=New Mexico |url=https://www.nrapvf.org/grades/new-mexico/ |website=National Rifle Association Political Victory Fund |access-date=September 13, 2026 |archive-url=https://web.archive.org/web/20260915011744/https://www.nrapvf.org/grades/new-mexico |archive-date=September 15, 2026}}</ref>
+}}
+
+{{Endorsements box
+|title=Ken Miyagishima (I) ''(withdrawn)''
+|list=
+;Political parties
+* New Mexico [[Forward Party (United States)|Forward Party]]<ref name="Esquivel" />
+}}
+
+===Polling===
+'''Aggregate polls'''
+{|class="wikitable sortable"style="text-align:center;font-size:90%;line-height:17px"
+!Source of poll<br/>aggregation
+!Dates<br/>administered
+!Dates<br/>updated
+!style="width:100px;"|Deb<br/>Haaland (D)
+!style="width:100px;"|Gregg<br/>Hull (R)
+!style="width:100px;"|Other/Undecided<br/>{{Efn|Calculated by taking the difference of 100% and all other candidates combined.}}
+!Margin
+|-
+|''[[Silver Bulletin]]''<ref>{{Cite web|title=FLIPR 2026 midterm election forecast|url=https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model|work=[[Silver Bulletin]]|access-date=September 13, 2026}}</ref>
+|through October 5, 2026
+|October 5, 2026
+|{{party shading/Democratic}}|'''47.5%'''
+|39.8%
+|12.7%
+|{{party shading/Democratic}}|'''Haaland +7.7%'''
+|-
+|}
+{|class="wikitable col1left"style="font-size:90%;text-align:center;"
+|-style="vertical-align:bottom"
+!Poll source
+!Date(s)<br/>administered
+!Sample<br>size{{efn|name="Key"}}
+!Margin<br>of error
+!style="width:100px;"|Deb<br/>Haaland (D)
+!style="width:100px; |Gregg<br/>Hull (R)
+!Other
+!Undecided
+|-
+|style="text-align:left;"|[[SurveyUSA]]<ref>{{Cite web|last=Troli|first=Blake|date=October 4, 2026|title=KOB poll finds Haaland leading Hull by 6 points in head-to-head race|url=https://www.kob.com/new-mexico/kob-poll-finds-haaland-leading-hull-by-6-points-in-head-to-head-race/|publisher=[[SurveyUSA]]|access-date=October 4, 2026|via=[[KOB (TV)|KOB]]}}</ref>{{Efn-ua|Poll commissioned by [[KOB (TV)|KOB]]}}
+|September 25–30, 2026
+|567 (LV)
+|±&nbsp;5.1%
+|{{party shading/Democratic}}|'''47%'''
+|41%
+|—
+|12%
+|-
+|style="text-align:left;"|Research & Polling Inc.<ref>{{cite web|last=Boyd|first=Dan|title=Journal Poll: Haaland leads Hull by closer-than-expected margin in New Mexico's race for governor|url=https://www.abqjournal.com/news/journal-poll-haaland-leads-hull-by-closer-than-expected-margin-in-new-mexicos-race-for-governor/3111874|website=[[The Albuquerque Journal]]|access-date=August 30, 2026|date=August 30, 2026}}</ref>
+|August 21–28, 2026
+|516 (LV)
+|±&nbsp;4.3%
+|{{party shading/Democratic}}|'''49%'''
+|43%
+|—
+|8%
+|-
+|style="text-align:left;"|BSP Research (D)<ref>{{Cite web|last=Sanchez|first=Gabriel R.|date=August 21, 2026|title=Deb Haaland Has a Commanding 17% Advantage Among New Mexico's Registered Voters, According to Fresh BSP Research Survey|url=https://bspresearch.substack.com/p/deb-haaland-has-a-commanding-17-advantage|publisher=BSP Research|access-date=August 23, 2026|via=[[Substack]]}}</ref>
+|July 22 – August 7, 2026
+|800 (RV)
+|±&nbsp;3.5%
+|{{party shading/Democratic}}|'''41%'''
+|24%
+|7%{{Efn|"Another candidate" with 3%, "Refused" with 4%}}
+|27%
+|-
+|style="text-align:left;"|[[McLaughlin & Associates]] (R)<ref>{{cite web|url=https://www.santafenewmexican.com/news/elections/hull-campaigns-poll-race-for-governor-of-new-mexico-statistically-tied/article_60922cf5-4d63-46e0-842b-fea10d355c53.html|title=Hull campaign's poll: Race for governor of New Mexico statistically tied|first=Daniel J.|last=Chacón|website=[[The Santa Fe New Mexican]]|date=July 24, 2026|access-date=July 24, 2026}}</ref>{{Efn-ua|name=Hull|Poll sponsored by Hull's campaign}}
+|July 13–15, 2026
+|400 (LV)
+|±&nbsp;4.9%
+|{{party shading/Democratic}} |'''46%'''
+|45%
+|—
+|9%
+|}
+
+===Results===
+{{Election box begin
+| title=2026 New Mexico gubernatorial election
+}}
+{{Election box candidate with party link
+ | party      = Democratic Party (United States)
+ | candidate  = {{ubl|[[Deb Haaland]]|[[Stephanie Garcia Richard]]}}
+ | votes      = 
+ | percentage = 
+ | change = 
+}}
+{{Election box candidate with party link
+ | party      = Republican Party (United States)
+ | candidate  = {{ubl|[[Gregg Hull]]|[[David Gallegos]]}}
+ | votes      = 
+ | percentage = 
+ | change = 
+}}
+{{Election box total
+ | votes      = 
+ | percentage = 100.0
+ | change = 
+}}
+{{Election box end}}
+
+== See also ==
+*[[2026 New Mexico elections]]
+
+== Notes ==
+{{notelist}}
+;Partisan clients
+{{notelist-ua}}
+
+==References==
+{{Reflist}}
+
+== External links ==
+;Official gubernatorial campaign websites
+*[https://debhaaland.com/ Deb Haaland (D)]
+*[https://gregghull.com/ Gregg Hull (R)]
+
+;Official lieutenant gubernatorial campaign websites
+*[https://www.gallegosfornm.com/ David Gallegos (R)]
+*[https://stephaniegarciarichard.com/ Stephanie Garcia (D)]
+
+{{2026 United States elections}}
+
+{{DEFAULTSORT:2026 New Mexico gubernatorial election}}
+[[Category:New Mexico gubernatorial elections]]
+[[Category:2026 New Mexico elections|Gubernatorial]]
+[[Category:2026 United States gubernatorial elections|New Mexico]]

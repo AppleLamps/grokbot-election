@@ -1,0 +1,518 @@
+{{short description|none}}
+{{for|related races|2026 United States gubernatorial elections}}
+{{Use American English|date=January 2025}}
+{{Use mdy dates|date=January 2025}}
+{{Infobox election
+| election_name = 2026 Nebraska gubernatorial election
+| country = Nebraska
+| type = presidential
+| ongoing = yes
+| previous_election = 2022 Nebraska gubernatorial election
+| previous_year = 2022
+| next_election = 2030 Nebraska gubernatorial election
+| next_year = 2030
+| election_date = November 3, 2026
+| party_name = no
+| image1 = File:Jim Pillen SelectUSA (55251574792).jpg
+| candidate1 = [[Jim Pillen]]
+| party1 = [[Republican Party (United States)|Republican]]
+| running_mate1 = [[Joe Kelly (Nebraska politician)|Joe Kelly]]
+| popular_vote1 = 
+| percentage1 = 
+| image2 = 3x4.svg
+| candidate2 = [[Lynne Walz]]
+| running_mate2 = Ben Steffen
+| party2 = [[Democratic Party (United States)|Democratic]]
+| popular_vote2 = 
+| percentage2 = 
+| title = [[Governor of Nebraska|Governor]]
+| before_election = [[Jim Pillen]]
+| before_party = [[Republican Party (United States)|Republican]]
+| after_election = 
+| after_party = 
+| candidate4 = Rick Beard
+| party4 = [[Nebraska Legal Marijuana NOW Party|Legal Marijuana NOW]]
+| image4 = 3x4.svg
+| running_mate4 = Keenya Barnes
+| candidate5 = [[Brett Lindstrom]]
+| color5 = 122A58
+| party5 = [[America First Party (Nebraska)|America First]]
+| image5 = Brett Lindstrom (cropped).jpg
+| running_mate5 = Mike Picard
+}}
+{{Elections in Nebraska}}
+The '''2026 Nebraska gubernatorial election''' will be held on November 3, 2026, to elect the [[governor of Nebraska]]. Incumbent [[Republican Party (United States)|Republican]] governor [[Jim Pillen]] is running for re-election to a second term. 
+
+[[Primary elections]] took place on May 12, 2026.<ref>{{Cite web|date=May 9, 2025|title=2026 State Primary Election Dates|url=https://www.ncsl.org/elections-and-campaigns/2026-state-primary-election-dates|archive-url=https://web.archive.org/web/20260509222424/https://www.ncsl.org/elections-and-campaigns/2026-state-primary-election-dates|archive-date=May 9, 2026|website=way[[National Conference of State Legislatures]]|access-date=August 5, 2025}}</ref> Pillen secured his party's nomination with 76% of the vote, while [[Democratic Party (United States)|Democratic]] former state senator [[Lynne Walz]] secured her party's nomination with 91% of the vote. Democrats have not won a gubernatorial election in Nebraska since [[1994 Nebraska gubernatorial election|1994]]. 
+
+==Republican primary==
+===Candidates===
+====Nominee====
+*[[Jim Pillen]], incumbent [[Governor of Nebraska|governor]] (2023–present)<ref name=pillen>{{cite news |work=[[Nebraska Examiner]] |access-date=May 30, 2025 |author=Sanderford, Aaron |date=May 29, 2025 |url=https://nebraskaexaminer.com/2025/05/29/nebraska-gov-jim-pillen-announces-reelection-bid-amid-herbster-speculation/ |title=Nebraska Gov. Jim Pillen announces reelection bid amid Herbster speculation}}</ref>
+**Running mate: [[Joe Kelly (Nebraska politician)|Joe Kelly]], incumbent [[Lieutenant Governor of Nebraska|lieutenant governor]] (2023–present)<ref name="pillen" />
+====Eliminated in primary====
+*Sal Holguin, car wash owner and Air Force veteran<ref>{{Cite web |last=Byars |first=Macy |last2=Media News |first2=Reporter Nebraska Public |last3=Annonen |first3=Noelle |last4=Reporter |first4=Multimedia |title=What to know about the 10 candidates hoping to be the next governor of Nebraska |url=https://nebraskapublicmedia.org/en/news/news-articles/what-to-know-about-the-10-candidates-hoping-to-be-the-next-governor-of-nebraska/ |access-date=2026-10-06 |website=Nebraska Public Media |language=en|url-status=live}}</ref>
+*Sheila Korth-Focken, former [[Randolph, Nebraska|Randolph]] city administrator<ref>{{cite web |last1=Mueting |first1=Brandon |title=Randolph native announces bid for Nebraska governor |url=https://www.1011now.com/2026/01/09/randolph-native-announces-bid-nebraska-governor/ |access-date=January 9, 2026 |work=[[KOLN]] |date=January 8, 2026}}</ref>
+*Gary Rogge, retired farmer<ref name=NEGov/>
+*Jacy Todd, [[Cannabidiol|CBD]] retail store owner<ref>{{cite news |last1=Wendling |first1=Zach |title=Medical cannabis advocate, targeted notary running for Nebraska governor |url=https://nebraskaexaminer.com/2025/07/08/medical-cannabis-advocate-targeted-notary-running-for-nebraska-governor/ |access-date=July 8, 2025 |work=[[Nebraska Examiner]] |date=July 8, 2025}}</ref>
+*John Walz, candidate for [[Nebraska's 3rd congressional district]] in [[2024 United States House of Representatives elections in Nebraska#District 3|2024]]<ref name=NEGov/>
+
+====Declined====
+*[[Don Bacon]], [[United States House of Representatives|U.S. representative]] from [[Nebraska's 2nd congressional district]] (2017–present)<ref>{{cite web|url=https://www.nbcnews.com/politics/congress/centrist-rep-don-bacon-congress-presidential-bid-rcna216624|title=Centrist Rep. Don Bacon is done with Congress — but open to a potential presidential bid|last1=Wong|last2=Thorp|first1=Scott|first2=Frank|date=July 6, 2025|access-date=July 6, 2025|website=[[NBC News]]|quote=He said he would not run against incumbent Nebraska Gov. Jim Pillen}}</ref>
+*[[Charles Herbster]], agribusiness executive and candidate for [[Governor of Nebraska|governor]] in [[2014 Nebraska gubernatorial election|2014]] and [[2022 Nebraska gubernatorial election|2022]]<ref>{{cite web |last1=Salinas II |first1=Juan |title=No 2026 rerun: Charles Herbster will not run for Nebraska governor |url=https://nebraskaexaminer.com/2026/03/02/no-2026-rerun-charles-herbster-will-not-run-for-nebraska-governor/ |website=Nebraska Examiner |access-date=3 March 2026 |date=2 March 2026}}</ref>
+*[[Brett Lindstrom]], former [[Nebraska Legislature|state senator]] from the 18th district (2015–2023), candidate for [[Nebraska's 2nd congressional district]] in [[2012 United States House of Representatives elections in Nebraska#District 2|2012]], and candidate for [[List of governors of Nebraska|governor]] in [[2022 Nebraska gubernatorial election|2022]]<ref>{{Cite web|title=Former State Sen. Brett Lindstrom out of Nebraska’s 2nd District GOP race|url=https://nebraskaexaminer.com/2026/01/30/former-state-sen-brett-lindstrom-out-of-nebraskas-2nd-district-gop-race/|website=Nebraska Examiner|date=2026-01-30|access-date=2026-01-30|language=en-US|first=Juan|last=Salinas II}}</ref> ''(ran as an Independent, then as America First candidate)''<ref name="LindstromIn">{{Cite web |last=Olberding |first=Matt|title=Brett Lindstrom to run for Nebraska governor as independent |url=https://nebraskapublicmedia.org/en/news/news-articles/brett-lindstrom-to-run-for-nebraska-governor-as-independent/ |access-date=2026-07-14 |website=Nebraska Public Media |language=en}}</ref>
+
+===Endorsements===
+{{Endorsements box
+|title=Jim Pillen
+|list=
+;Executive branch officials
+*[[Donald Trump]], [[president of the United States]] (2017–2021, 2025–present)<ref>{{cite web |title=Donald Trump endorses Gov. Jim Pillen for reelection |url=https://www.newsfromthestates.com/article/donald-trump-endorses-gov-jim-pillen-reelection |website=News From The States |access-date=26 November 2025 |language=en}}</ref>
+
+;Statewide officials
+*[[Dave Heineman]], former [[governor of Nebraska]] (2005–2015)<ref name="STAN">{{cite web |last1=Porter |first1=Chase |title=Nebraska State Troopers Union Endorses Pillen After Backing Herbster in 2022 |url=https://klin.com/2025/12/30/nebraska-state-troopers-association-endorses-jim-pillen-for-governor/ |website=KLIN News Talk |access-date=14 September 2026 |date=December 30, 2025}}</ref>
+
+;Organizations
+*[[Nebraska State Patrol|State Troopers Association of Nebraska]]<ref name="STAN" />
+}}
+
+===Results===
+[[File:2026 Nebraska Republican Gubernatorial Primary Results.png|thumb|250px|Results by county:
+{{collapsible list
+| title = {{legend|#D75D5D|Pillen}}|{{legend|#E58A8A|60–70%}}|{{legend|#D75D5D|70–80%}}|{{legend|#D72F30|80–90%}}|{{legend|#C21B18|90-100%}}|
+}}]]
+{{Election box begin no change
+ | title=Republican primary}}
+{{Election box winning candidate with party link no change
+ | party=Nebraska Republican Party
+ | candidate=[[Jim Pillen]] (incumbent)
+ | votes=142,301
+ | percentage=75.4}}
+{{Election box candidate with party link no change
+ | party=Nebraska Republican Party
+ | candidate=John Walz
+ | votes=18,066
+ | percentage=9.6}}
+{{Election box candidate with party link no change
+ | party=Nebraska Republican Party
+ | candidate=Sheila Korth-Focken
+ | votes=14,621
+ | percentage=7.8}}
+{{Election box candidate with party link no change
+ | party=Nebraska Republican Party
+ | candidate=Gary Rogge
+ | votes=6,986
+ | percentage=3.7}}
+{{Election box candidate with party link no change
+ | party=Nebraska Republican Party
+ | candidate=Jacy Todd
+ | votes=5,125
+ | percentage=2.7}}
+{{Election box candidate with party link no change
+ | party=Nebraska Republican Party
+ | candidate=Sal Holguin
+ | votes=1,612
+ | percentage=0.9}}
+{{Election box total no change
+ | votes=188,711
+ | percentage=100.0}}
+{{Election box end}}
+
+==Democratic primary==
+===Candidates===
+====Nominee====
+
+* [[Lynne Walz]], former [[Nebraska Legislature|state senator]] from the 15th district (2017–2025) and nominee for [[Lieutenant Governor of Nebraska|lieutenant governor]] in [[2018 Nebraska gubernatorial election|2018]]<ref>{{cite web |last1=Wendling |first1=Zach |title=Former State Sen. Lynne Walz steps toward run for Nebraska governor |url=https://nebraskaexaminer.com/2025/11/24/former-state-sen-lynne-walz-steps-toward-run-for-nebraska-governor/ |access-date=November 24, 2025 |work=[[Nebraska Examiner]] |date=November 24, 2025}}</ref><ref>{{cite web |last1=Olberding |first1=Matt |title=Former Democratic senator officially announces gubernatorial campaign |url=https://nebraskapublicmedia.org/en/news/news-articles/former-democratic-senator-officially-announces-gubernatorial-campaign/ |access-date=January 21, 2026 |work=[[Nebraska Public Media]] |date=January 21, 2026}}</ref>
+**Running mate: Ben Steffen, farmer<ref name=":0">{{Cite web |last=Wendling |first=Zach |date=2026-07-28 |title=Walz selects farmer, ag leader, ex-Republican as Nebraska lieutenant governor pick • Nebraska Examiner |url=https://nebraskaexaminer.com/2026/07/28/walz-selects-farmer-ag-leader-ex-republican-as-nebraska-lieutenant-governor-pick/ |access-date=2026-07-29 |website=Nebraska Examiner |language=en-US}}</ref>
+
+====Eliminated in primary====
+*Larry Marvin, USAF veteran<ref name=NEGov>{{cite web |url=https://www.1011now.com/2026/03/02/hundreds-file-nebraska-primary-election-governors-race-among-most-hotly-contested/ |title=Hundreds file for Nebraska primary election; Governor’s race among the most hotly contested |work=KOLN |date=March 3, 2026}}</ref>
+
+===Endorsements===
+{{Endorsements box
+|title=Lynne Walz
+|list=
+;U.S. senators
+* [[Ben Nelson]], former U.S. senator (2001–2013) and former [[governor of Nebraska]] (1991–1999)<ref>{{cite web |last1=Sanderford |first1=Aaron |title=Walz campaign says new poll shows Pillen's vulnerability |url=https://nebraskaexaminer.com/2026/04/14/walz-campaign-says-new-poll-shows-pillens-vulnerability/ |website=Nebraska Examiner |access-date=9 May 2026 |date=14 April 2026}}</ref>
+}}
+
+===Results===
+[[File:2026 Nebraska Democratic Gubernatorial Primary Election.png|thumb|250px|Results by county:
+{{collapsible list
+| title =
+{{legend|#584CDE|Walz}}
+| {{legend|#7996E2|50–60%}}
+| {{legend|#6674DE|60–70%}}
+| {{legend|#584CDE|70–80%}}
+| {{legend|#3933E5|80–90%}}
+| {{legend|#0D0596|90-100%}}
+}}{{collapsible list
+| title =
+{{legend|#DBFFC2|Marvin}}
+| {{legend|#DBFFC2|60%}}
+}}]]
+{{Election box begin no change
+ | title=Democratic primary}}
+{{Election box winning candidate with party link no change
+ | party=Nebraska Democratic Party
+ | candidate=[[Lynne Walz]]
+ | votes=116,458
+ | percentage=91.5}}
+{{Election box candidate with party link no change
+ | party=Nebraska Democratic Party
+ | candidate=Larry Marvin
+ | votes=10,847
+ | percentage=8.5}}
+{{Election box total no change
+ | votes=127,305
+ | percentage=100.0}}
+{{Election box end}}
+
+==Legal Marijuana NOW primary==
+===Candidates===
+====Nominee====
+*Rick Beard, private chef, winemaker, and former farmer<ref name=NEGov/>
+**Running mate: Keenya Barnes, [[Omaha Housing Authority]] commissioner<ref>{{Cite web |last=Wendling |first=Zach |date=August 21, 2026 |title=Legal Marijuana NOW candidate for Nebraska governor selects running mate |url=https://nebraskaexaminer.com/briefs/legal-marijuana-now-candidate-for-nebraska-governor-selects-running-mate/ |website=Nebraska Examiner |language=en-US}}</ref>
+
+====Eliminated in primary====
+*James Charvat<ref name=NEGov/>
+
+===Results===
+[[File:Legal Marijuana NOW Gubernatorial Primary Election Results.png|thumb|250px|Results by county:
+{{collapsible list
+| title =
+{{legend|#7CED7C|Beard}}
+| {{legend|#A7ffA7|60–70%}}
+| {{legend|#7CED7C|70–80%}}
+| {{legend|#5FD35F|80–90%}}
+| {{legend|#37C837|90-100%}}
+}}{{collapsible list
+| title =
+{{legend|#88DAD2|Charvat}}
+| {{legend|#B2E4DF|60-70%}}
+| {{legend|#00A897|90-100%}}
+}}{{collapsible list
+| title =
+}}{{legend|#F2FFEA|Tie}}
+{{collapsible list
+| title =
+}}{{legend|#808080|No Votes}}
+]]
+{{Election box begin no change
+ | title=Legal Marijuana Now primary <ref>{{cite web |title=Nebraska Primary Results |url=https://electionresults.nebraska.gov/resultsSW.aspx?type=SW&map=CTY |website=Nebraska Secretary of State Election Results |access-date=17 May 2026}}</ref>}}
+{{Election box winning candidate with party link no change
+ | party=Nebraska Legal Marijuana NOW Party
+ | candidate=Rick Beard
+ | votes=349
+ | percentage=69.1}}
+{{Election box candidate with party link no change
+ | party=Nebraska Legal Marijuana NOW Party
+ | candidate=James Charvat
+ | votes=156
+ | percentage=30.9}}
+{{Election box total no change
+ | votes=505
+ | percentage=100.0}}
+{{Election box end}}
+
+== Third party and independent candidates ==
+===American First Party===
+==== Nominee ====
+*[[Brett Lindstrom]], former [[Nebraska Legislature|state senator]] from the 18th district (2015–2023), Republican candidate for [[Nebraska's 2nd congressional district]] in [[2012 United States House of Representatives elections in Nebraska#District 2|2012]] and [[2026 United States House of Representatives elections in Nebraska#District 2|2026]], and Republican candidate for [[List of governors of Nebraska|governor]] in [[2022 Nebraska gubernatorial election|2022]]<ref>{{Cite web |last=Wendling |first=Zach |date=2026-09-01 |title=Lindstrom selects America First Party to revive Nebraska governor bid • Nebraska Examiner |url=https://nebraskaexaminer.com/2026/09/01/lindstrom-selects-america-first-party-to-revive-nebraska-governor-bid/ |access-date=2026-09-02 |website=Nebraska Examiner |language=en-US}}</ref>
+**Running mate: Mike Picard, [[United States Navy|navy]] veteran<ref>{{Cite web |date=2026-09-01 |title=Brett Lindstrom to run for governor as America First Party's candidate |url=https://foxnebraska.com/news/brett-lindstrom-to-run-for-governor-as-america-first-partys-candidate |access-date=2026-09-01 |website=KFXL |language=en}}</ref>
+
+== General election ==
+===Predictions===
+{| class="wikitable" style=text-align:center
+!Source
+!Ranking
+!As of
+|-
+|align=left|''[[The Cook Political Report]]''<ref>{{cite web|title=2026 CPR Governor Race ratings|url=https://www.cookpolitical.com/ratings/governor-race-ratings|website=[[The Cook Political Report]]|access-date=January 23, 2025}}</ref>
+|{{USRaceRating|Solid|R}}
+|September 11, 2025
+|-
+|align=left|[[Decision Desk HQ]]<ref name="DDHQ">{{cite web |title=2026 Governor Forecast |url=https://votes.decisiondeskhq.com/forecast/2026/governor |website=Decision Desk HQ |access-date=22 September 2026}}</ref>
+|{{USRaceRating|Likely|R}}
+|September 23, 2026
+|-
+|align=left|[[Fox News]]<ref>{{cite web |title=Fox News Power Rankings: The top races to watch as 36 states choose their next governor |url=https://www.foxnews.com/politics/fox-news-power-rankings-top-races-watch-36-states-choose-next-governor |website=[[Fox News]] |publisher=Rémy Numa |access-date=24 July 2026}}</ref>
+|{{USRaceRating|Solid|R}}
+|July 23, 2026
+|-
+|align=left|''[[Inside Elections]]''<ref>{{Cite web|title=Gubernatorial Ratings|url=https://insideelections.com/ratings/governor|access-date=February 7, 2025|website=[[Inside Elections]]}}</ref>
+|{{USRaceRating|Solid|R}}
+|August 28, 2025
+|-
+|align="left"|[[RealClearPolitics]]<ref>{{Cite web|title=2026 Governor Races {{!}} RealClearPolitics|url=https://www.realclearpolling.com/maps/governor/2026/toss-up|access-date=June 5, 2026|website=[[RealClearPolitics]]|archive-url=https://web.archive.org/web/20260601183127/https://www.realclearpolling.com/maps/governor/2026/toss-up|archive-date=June 1, 2026|url-status=dead}}</ref>
+|{{USRaceRating|Solid|R}}
+|June 5, 2026
+|-
+|align=left|''[[Sabato's Crystal Ball]]''<ref>{{cite web|title=2026 Governor|url=https://centerforpolitics.org/crystalball/2026-governor/|website=[[Sabato's Crystal Ball]]|access-date=May 1, 2025}}</ref>
+|{{USRaceRating|Likely|R}}
+|September 29, 2026
+|-
+| style="text-align: left;" |[[Silver Bulletin]]<ref name="Silver">{{Cite web |last=Silver |first=Nate |date=2026-08-20 |title=FLIPR 2026 midterm election forecast |url=https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model |url-access=subscription |access-date=2026-08-20 |website=www.natesilver.net |language=en}}</ref>
+| {{US political race rating|Likely|R}}
+|October 3, 2026
+|}
+
+===Post-primary endorsements===
+{{Endorsements box
+|title=Lynne Walz (D)
+|list=
+;State legislators
+*[[Mark Kolterman]], [[Nebraska Legislature|state legislator]] from the 24th district (2017–2023) ''(Republican)''<ref>{{cite web
+ |title=Former GOP State Senator Endorses Lynne Walz
+ |url=https://plains-sentinel.com/p/former-gop-state-senator-endorses
+ |website=Plains Sentinel
+ |access-date=September 14, 2026
+}}</ref>
+*[[Tim Gragert]], [[Nebraska Legislature|state legislator]] from the 40th district (2019–2023) ''(Republican)''<ref name="TwoR">{{cite web
+ |title=Two former Republican state senators endorse Lynne Walz for governor
+ |url=https://panhandle.newschannelnebraska.com/story/364065524/two-former-republican-state-senators-endorse-lynne-walz-for-governor
+ |website=Panhandle News Channel Nebraska
+ |date=September 28, 2026
+ |access-date=September 29, 2026
+}}</ref>
+*[[John Stinner]], [[Nebraska Legislature|state legislator]] from the 48th district (2015–2023) ''(Republican)''<ref name="TwoR"/>
+}}
+{{Endorsements box
+|title=Jim Pillen (R)
+|list=
+;State legislators
+*[[Lou Ann Linehan]], [[Nebraska Legislature|state legislator]] from the 39th district (2017–2025)<ref name="Linehan">{{cite web |last1=Wendling |first1=Zach |title=Walz selects farmer, ag leader, ex-Republican as Nebraska lieutenant governor pick |url=https://nebraskaexaminer.com/2026/07/28/walz-selects-farmer-ag-leader-ex-republican-as-nebraska-lieutenant-governor-pick/ |website=Nebraska Examiner |access-date=14 September 2026 |date=July 28, 2026}}</ref>
+}}
+
+===Polling===
+;Aggregate polls
+{| class="wikitable sortable" style="text-align:center;font-size:90%;line-height:17px"
+!Source of poll<br>aggregation
+! Dates<br />administered
+! Dates<br />updated
+! style="width:100px;"| Jim<br />Pillen (R)
+! style="width:100px;"| Lynne<br/>Walz (D)
+! style="width:100px;" |Other/<br />Undecided{{Efn|name=calculated|Calculated by taking the difference of 100% and all other candidates combined.}}
+! Margin
+|-
+|[[270toWin]]<ref>{{cite web|title=2026 Polls: Nebraska Governor
+|url=https://www.270towin.com/2026-governor-polls/nebraska|access-date=September 16, 2026|website=[[270toWin]]}}</ref>
+|September 14 – October 2, 2026
+|October 2, 2026
+|{{party shading/Republican}}|'''46.3%'''
+|36.3%
+|17.4%
+|{{party shading/Republican}}|'''Pillen +10.0%'''
+|-
+|Race to the WH<ref>{{cite web|title=2026 Governor Polling
+|url=https://www.racetothewh.com/governor/26polls|access-date=September 16, 2026|website=Race to the WH}}</ref>
+|through September 30, 2026
+|October 2, 2026
+|{{party shading/Republican}}|'''42.5%'''
+|37.0%
+|20.5%{{efn|Brett Lindstrom (AF) with 9.4%; Rick Beard (LMN) with 5.1%}}
+|{{party shading/Republican}}|'''Pillen +5.5%'''
+|-
+|''[[Silver Bulletin]]''<ref name="Silver"/>
+|through September 30, 2026
+|October 2, 2026
+|{{party shading/Republican}}|'''43.2%'''
+|36.7%
+|20.1%
+|{{party shading/Republican}}|'''Pillen +6.5%'''
+|-
+|colspan="3" |Average
+|{{party shading/Republican}}|'''44.0%'''
+|36.7%
+|19.3%
+|{{party shading/Republican}}|'''Pillen +7.3%'''
+|}
+
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name=Key|Key:<br />A – all adults<br />RV – registered voters<br />LV – likely voters<br />V – unclear}}
+! Margin<br />{{nowrap|of error}}
+! style="width:100px;" |Jim<br />Pillen (R)
+! style="width:100px;" |Lynne<br />Walz (D)
+! style="width:100px;" |Brett<br />Lindstrom (AF)
+! style="width:100px;" |Rick<br />Beard (LMN)
+! Other
+! Undecided
+|-
+| style="text-align: left;" |[[YouGov]]<ref>{{cite web|title=Nebraska General Election 2026 – Likely Voters|url=https://d3nkl3psvxxpe9.cloudfront.net/documents/ttw_ne_20260921_lv.pdf |website=[[YouGov]] |date=October 6, 2026 |access-date=October 6, 2026}}</ref>
+|September 24 – October 3, 2026
+|1,809 (LV)
+|±{{nbsp}}3.3%
+|{{party shading/Republican}}|'''44%'''
+|43%
+|–
+|–
+|2%
+|10%
+|-
+| style="text-align: left;" |co/efficient (R)<ref>{{Cite web|url=https://battlegrounds.coefficient.org/ne/|title=Nebraska · U.S. Senate|work=co/efficient|access-date=October 3, 2026}}</ref>
+|September 28–30, 2026
+|1,113 (LV)
+|±{{nbsp}}2.92%
+|{{party shading/Republican}}|'''43%'''
+|38%
+|5%
+|3%
+|–
+|10%
+|-
+| style="text-align: left;" |Wedgewood Polls<ref>{{Cite web|url=https://drive.google.com/file/d/1KBEbm4P_yziCxsZdgMhTzJ3p5UwtN7X5/view?pli=1|title=2026 Nebraska General Election – Senate, Governor & Generic Ballot: Toplines & Crosstabs|work=Wedgewood Polls|access-date=September 16, 2026}}</ref>
+|September 14–16, 2026
+|500 (LV)
+|±{{nbsp}}4.4%
+|{{party shading/Republican}}|'''53%'''
+|36%
+|5%
+|6%
+|–
+|–
+|-
+| style="text-align: left;" |Lake Research Partners (D)<ref>{{cite web |title=New Democratic-aligned poll shows Pillen, Walz tied at 40% |url=https://omaha.com/news/state-regional/government-politics/elections/article_7261e7ba-664d-4d70-8e0e-5655e663f593.html |website=Omaha World-Herald |access-date=29 September 2026 |date=September 29, 2026}}</ref>{{efn-ua|name=Walz|Poll sponsored by Walz's campaign}}
+|September 8–14, 2026
+|(RV)
+|±&nbsp;3.5%
+|'''40%'''
+|'''40%'''
+|9%
+|4%
+|–
+|7%
+|-
+| style="text-align: left;" |[[SurveyUSA]]<ref>{{Cite web|url=https://results.surveyusa.com/client/PollReport.aspx?g=d94236a7-5861-4b7f-9d81-d5a81ab786cc|title=Independent Candidate Dan Osborn Has Advantage in Nebraska's US Senate Contest, Even as Incumbent GOP Governor Poised to Win 2nd Term:|work=[[SurveyUSA]]|date=September 14, 2026|access-date=September 14, 2026}}</ref>{{efn-ua|name=|Poll sponsored by Grant Forbes, LLC.}}
+|September 8–13, 2026
+|503 (LV)
+|±&nbsp;6.4%
+|{{party shading/Republican}}|'''43%'''
+|35%
+|–
+|–
+|13%{{Efn|"Another candidate" with 13%}}
+|9%
+|-
+| style="text-align: left;" |[[Public Policy Polling]] (D)<ref>{{Cite web|url=https://democraticgovernors.org/wp-content/uploads/2026/09/PPP-Sept-2026-Poll-Memo.docx.pdf|title=Tight Race for Governor in Nebraska
+|last=Williams|first=Jim|date=September 15, 2026|access-date=September 15, 2026}}</ref>{{Efn-ua|Poll sponsored by the [[Democratic Governors Association]]}}
+|September 1–2, 2026
+|559 (RV)
+|±&nbsp;4.1%
+|{{party shading/Republican}}|'''32%'''
+|31%
+|10%
+|7%
+|4%{{efn|"Nebraska Working People's Party Candidate" with 4%}}
+|17%
+|-
+| style="text-align: left;" |Lake Research Partners (D)<ref name="LRPMay2026">{{Cite web|url=https://drive.google.com/file/d/1wV-lUKPfH16Ke16fX63fjMeAMzNQxzhA/view|title=Movement in the Nebraska Gubernatorial Race|first1=Celinda|last1=Lake|first2=Meryl|last2=O'Bryan|first3=Hannah|last3=Hall|work=Lake Research Partners|date=May 26, 2026|access-date=May 26, 2026}}</ref>{{efn-ua|name=Walz|Poll sponsored by Walz's campaign}}
+|April 25–29, 2026
+|900 (LV)
+|±&nbsp;3.3%
+|{{party shading/Republican}}|'''47%'''
+|45%
+|–
+|–
+|–
+|5%
+|-
+| style="text-align: left;" |[[Public Policy Polling]] (D)<ref>{{Cite web|url=https://x.com/PollTracker2024/status/2044076429176877138|title=Governor Pillen in Weak Standing as Nebraskans Overwhelmingly Feel State is on the Wrong Track|first1=Jim|last1=Williams|website=[[Twitter]]|date=April 9, 2026|access-date=April 14, 2026}}</ref>
+|April 6–7, 2026
+|670 (RV)
+|±&nbsp;3.8%
+|{{party shading/Republican}}|'''38%'''
+|33%
+|–
+|12%
+|–
+|17%
+|-
+| style="text-align: left;" |Lake Research Partners (D)<ref name="LRPMay2026"/>{{efn-ua|name=Walz}}
+|December 11–17, 2025
+|900 (LV)
+|±&nbsp;3.3%
+|{{party shading/Republican}}|'''48%'''
+|43%
+|–
+|–
+|–
+|9%
+|-
+| style="text-align: left;" |Lake Research Partners (D)<ref name="LRPMay2026"/>{{efn-ua|name=Walz}}
+|July 23–29, 2025
+|900 (LV)
+|±&nbsp;3.3%
+|{{party shading/Republican}}|'''51%'''
+|39%
+|–
+|–
+|–
+|10%
+|}
+
+===Results===
+{{Election box begin|title=2026 Nebraska gubernatorial election}}
+{{Election box candidate with party link 
+  |party      = Republican Party (United States)
+  |candidate  = [[Jim Pillen]] (incumbent)<br />[[Joe Kelly (Nebraska politician)|Joe Kelly]] (incumbent)
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box candidate with party link 
+  |party      = Democratic Party (United States)
+  |candidate  = [[Lynne Walz]]<br />Ben Steffen
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box candidate with party link 
+  |party      = Nebraska Legal Marijuana NOW Party
+  |candidate  = Rick Beard<br />Keenya Barnes
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box candidate with party link
+  |party      = America First Party (Nebraska)
+  |candidate  = [[Brett Lindstrom]]<br />Mike Picard
+  |votes      = 
+  |percentage = 
+  |change = 
+}}
+{{Election box total no change
+  |votes      = 
+  |percentage = 100.0
+  |change=
+}}
+{{Election box end}}
+
+== See also ==
+*[[2026 United States elections]]
+*[[2026 United States Senate election in Nebraska]]
+*[[2026 United States House of Representatives elections in Nebraska]]
+*[[2026 Nebraska elections]]
+
+==Notes==
+{{notelist}}
+;Partisan clients
+{{notelist-ua}}
+
+==References==
+{{reflist}}
+
+==External links==
+;Official campaign websites
+*[https://www.rickforgov.org/ Rick Beard (LMN)]
+*[https://votelindstrom.com/ Brett Lindstrom (AF)]
+*[https://www.jimpillen.com/ Jim Pillen (R)]
+*[https://lynnewalz.com/ Lynne Walz (D)]
+
+{{2026 United States elections}}
+
+[[Category:Nebraska gubernatorial elections]]
+[[Category:2026 Nebraska elections|Gubernatorial]]
+[[Category:2026 United States gubernatorial elections|Nebraska]]

@@ -1,0 +1,324 @@
+{{short description|none}}
+{{for|related races|2026 United States gubernatorial elections}}
+{{Use American English|date=January 2025}}
+<!-- "none" is preferred when the title alone is adequate; see [[WP:SDNONE]] -->
+{{use mdy dates|date=September 2023}}
+{{Infobox election
+| election_name = 2026 Wyoming gubernatorial election
+| country = Wyoming
+| type = presidential
+| ongoing = yes
+| previous_election = 2022 Wyoming gubernatorial election
+| previous_year = 2022
+| next_election = 2030 Wyoming gubernatorial election
+| next_year = 2030
+| election_date = November 3, 2026
+| image1 = 
+| nominee1 = [[Eric Barlow]]
+| party1 = Republican Party (United States)
+| running_mate1 = 
+| popular_vote1 = 
+| percentage1 = 
+| image2 = 
+| nominee2 = Kenneth Casner
+| party2 = Democratic Party (United States)
+| running_mate2 = 
+| popular_vote2 = 
+| percentage2 = 
+| map_image = 
+| map_size = 
+| map_caption = 
+| title = [[Governor of Wyoming|governor]]
+| before_election = [[Mark Gordon]]
+| before_party = Republican Party (United States)
+| after_election = 
+| after_party = 
+}}
+{{ElectionsWY}}
+The '''2026 Wyoming gubernatorial election''' will be held on November 3, 2026, to elect the [[governor of Wyoming]]. [[Republican Party (United States)|Republican]] state senator [[Eric Barlow]] and [[Democratic Party (United States)|Democratic]] perennial candidate Kenneth Casner are the nominees for their respective parties. Republican incumbent [[Mark Gordon]] is [[Term limits in the United States|term limited]] and ineligible to seek a third consecutive term. 
+
+[[Primary elections]] took place on August 18, 2026.<ref>{{Cite web|title=2026 State Primary Election Dates|url=https://www.ncsl.org/elections-and-campaigns/2026-state-primary-election-dates|website=[[National Conference of State Legislatures]]|date=May 9, 2025|access-date=August 5, 2025}}</ref> Barlow defeated state superintendent [[Megan Degenfelder]] in the Republican primary with 45.1% of the vote.<ref>{{Cite web|last=Howard|first=Andrew|date=August 18, 2026|title=Trump’s pick for Wyoming governor is the latest endorsee to lose primary|url=https://www.politico.com/news/2026/08/18/trumps-pick-for-wyoming-governor-is-the-latest-endorsee-to-lose-primary-01041404|work=[[Politico]]|access-date=August 21, 2026}}</ref> Casner secured the Democratic nomination unopposed.
+
+Democrats have not won a statewide election in Wyoming since [[2006 Wyoming gubernatorial election|2006]].
+
+{{toclimit|3}}
+
+==Republican primary==
+===Candidates===
+====Nominee====
+*[[Eric Barlow]], [[Wyoming Senate|state senator]] from the [[Wyoming's 23rd State Senate district|23rd district]] (2023–present)<ref>{{cite web |last=Zahn |first=Noah |date=August 12, 2025 |title=Sen. Eric Barlow announces run for Wyoming governor|url=https://www.wyomingnews.com/news/local_news/sen-eric-barlow-announces-run-for-wyoming-governor/article_7eb68727-015f-4bdd-95f8-9a48c544a6e6.html |website=[[Wyoming Tribune Eagle]] |access-date=September 22, 2025}}</ref>
+
+==== Eliminated in primary ====
+*Brent Bien, retired [[United States Marine Corps|U.S. Marine Corps]] [[Colonel (United States)|colonel]] and candidate for governor in [[2022 Wyoming gubernatorial election|2022]]<ref name="bien">{{Cite web|url=https://cowboystatedaily.com/2024/11/16/republican-brent-bien-first-to-announce-campaign-for-wyoming-governor-in-2026/|author=Wolfson, Leo|title=Republican Brent Bien First To Announce Campaign For Wyoming Governor In 2026|website=Cowboy State Daily|date=November 16, 2024}}</ref>
+*[[Megan Degenfelder]], [[Wyoming Department of Education|Wyoming Superintendent of Public Instruction]] (2023–present)<ref>{{Cite web |last=Eagle |first=Noah Zahn Wyoming Tribune |date=2026-01-12 |title=Degenfelder announces bid for governor after Trump endorsement |url=https://www.wyomingnews.com/news/local_news/degenfelder-announces-bid-for-governor-after-trump-endorsement/article_f5ec3cdb-7271-4c54-b1b1-a9ee8e6b17fd.html |access-date=2026-01-12 |website=Wyoming Tribune Eagle |language=en}}</ref>
+*Curt Blake<ref>{{cite web|url=https://www.wyomingpublicmedia.org/politics-government/2026-06-01/wyomings-primaries-are-crowded-these-are-the-races-to-watch|title= Wyoming’s primaries are crowded. These are the races to watch|last=Ouellet|first=Nicky|date=1 June 2026|access-date=6 June 2026|website=Wyoming Public Radio}}</ref>
+
+====Disqualified====
+*[[Ozzie Knezovich]], former [[Spokane County, Washington]] Sheriff (2006–2022) (''ineligible due to residency requirements'')<ref>{{cite news |last1=Appel |first1=Emmalee |title=Former Spokane County Sheriff Ozzie Knezovich announces candidacy for Wyoming governor |url=https://www.krem.com/article/news/local/former-spokane-county-sheriff-ozzie-knezovich-candidacy-wyoming-governor/293-bd2536f6-73d8-4da5-ac2b-81a3e0181d11 |access-date=January 15, 2026 |work=[[KREM (TV)|KREM]] |date=January 13, 2026}}</ref><ref>{{cite web |last1=Duggan |first1=Alexandra |title=Knezovich drops out of Wyoming governor race due to eligibility requirement |url=https://www.spokesman.com/stories/2026/jan/15/knezovich-drops-out-of-wyoming-governor-race-due-t/ |publisher=The Spokesman-Review |access-date=15 January 2026}}</ref>
+
+====Declined====
+*[[Chuck Gray (Wyoming politician)|Chuck Gray]], [[Secretary of State of Wyoming|Wyoming Secretary of State]] (2023–present) ''([[2026 United States House of Representatives election in Wyoming|running for U.S. house]])''<ref>{{cite web|last=McFarland|first=Claire|title= Chuck Gray Announces Run For Wyoming's U.S. House Seat|url= https://cowboystatedaily.com/2025/12/29/chuck-gray-announces-run-for-wyomings-u-s-house-seat/|access-date=December 29, 2025|work=Cowboy State Daily|date=December 29, 2025}}</ref>
+*[[Harriet Hageman]], [[U.S. representative]] for {{ushr|WY|AL}} (2023–present) and candidate for governor in [[2018 Wyoming gubernatorial election|2018]] ''([[2026 United States Senate election in Wyoming|running for U.S. senate]]; endorsed Degenfelder)''<ref name="Popularity">{{cite web|url=https://cowboystatedaily.com/2025/07/28/hageman-popularity-leaves-many-uncertain-if-theyll-run-for-governor/|title=Hageman's Popularity Has Many Uncertain If They'll Run For Governor|last=McFarland|first=Clair|date=July 28, 2025|access-date=July 29, 2025|work=Cowboy State Daily}}</ref><ref name="Hage"/>
+*[[Curt Meier]], [[State treasurer|Wyoming State Treasurer]] (2019–present) ''(running for re-election)''<ref name="Degenfelder">{{cite news |last1=McFarland |first1=Clair |date=December 23, 2025 |title=Degenfelder 'Strongly Considering' Run For Governor, Others Ponder Higher Office |url=https://cowboystatedaily.com/2025/12/23/degenfelder-strongly-considering-run-for-governor-others-ponder-higher-office/ |access-date=December 29, 2025 |work=Cowboy State Daily}}</ref>
+*[[Kristi Racines]], [[Wyoming State Auditor]] (2019–present) ''(running for re-election)''<ref name="Degenfelder"/>
+*Reid Rasner, financial executive and candidate for [[United States Senate|U.S. Senate]] in [[2024 United States Senate election in Wyoming|2024]] ''([[2026 United States House of Representatives election in Wyoming|running for U.S. house]])''<ref>{{cite news |last1=McFarland |first1=Clair |title=Rasner Won’t Run For Governor, Says To 'Stay Tuned For News Next Week' |url=https://cowboystatedaily.com/2026/01/02/rasner-wont-run-for-governor-says-to-stay-tuned-for-news-next-week/ |access-date=January 2, 2026 |work=Cowboy State Daily |date=January 2, 2026 |language=en}}</ref>
+
+===Endorsements===
+{{Endorsements box
+|title=Eric Barlow
+|list=
+;State legislators
+*[[Tony Ross (politician)|Tony Ross]], former president of the [[Wyoming Senate]] (2013–2014) from [[Wyoming's 4th State Senate district|SD-04]] (2005–2017)<ref>{{cite web|last=Ross|first=Tony|date=August 11, 2026|title=Tony Ross: Why Eric Barlow Deserves Our Support: A Vision for Wyoming’s Future|url=https://cowboystatedaily.com/2026/08/11/tony-ross-why-eric-barlow-deserves-our-support-a-vision-for-wyomings-future/|work=Cowboy State Daily|access-date=August 12, 2026}}</ref>
+
+;Organizations
+*[[Associated General Contractors of America|Associated General Contractors of Wyoming]]<ref>{{cite web|date=May 4, 2026|title=Associated General Contractors of Wyoming endorse Eric Barlow|url=https://www.codyenterprise.com/news/local/article_c65ffba6-4a0c-4b2c-8c31-0d87a1abb9d1.html|work=[[Cody Enterprise]]|access-date=August 12, 2026}}</ref>
+}}
+
+{{Endorsements box
+|title=Brent Bien
+|list=
+;State legislators
+*[[Ken Pendergraft]], [[Wyoming's 29th House of Representatives district|HD-29]] (2023–present)<ref>{{Cite web|last=McFarland|first=Clair|date=April 9, 2026|title=Wyoming Freedom Caucus Members Split On Who Should Be Governor|url=https://cowboystatedaily.com/2026/04/09/wyoming-freedom-caucus-members-split-on-who-should-be-governor/|work=Cowboy State Daily|access-date=August 16, 2026}}</ref>
+
+;Political parties
+*[[Wyoming Republican Party]]<ref>{{Cite web|last=McFarland|first=Clair|date=July 21, 2026|title=Wyoming GOP Endorses Brent Bien, Chuck Gray, And Harriet Hageman|url=https://cowboystatedaily.com/2026/07/20/wyoming-gop-endorses-brent-bien-chuck-gray-and-harriet-hageman/|work=Cowboy State Daily|access-date=August 16, 2026}}</ref>
+}}
+
+{{Endorsements box
+|title=Megan Degenfelder
+|list=
+;Executive branch officials
+*[[Donald Trump]], [[president of the United States]] (2017–2021, 2025–present)<ref>{{cite web|last=Bianco|first=Ali|date=January 12, 2026|title=The solar super PAC's next target|url=https://www.politico.com/newsletters/playbook-pm|website=[[Politico]]|access-date=August 16, 2026|quote=Megan Degenfelder announced she's entering the Republican race for governor of Wyoming with Trump's support.}}</ref>
+
+;U.S. representatives
+*[[Harriet Hageman]], [[WY-AL]] (2023–present)<ref name="Hage">{{cite web|last=Randall|first=Doug|date=March 25, 2026|title=Rep. Harriet Hageman Endorses Megan Degenfelder For Governor|url=https://kgab.com/wyoming-governor-endorsement/|website=[[KGAB]] AM 650|access-date=March 26, 2026}}</ref>
+
+;State legislators
+*[[Ocean Andrew]], [[Wyoming's 46th House of Representatives district|HD-46]] (2021–present)<ref name=endorsements/>
+*[[Eli Bebout]], former president of the [[Wyoming Senate]] (2017–2019) from [[Wyoming's 26th State Senate district|SD-26]] (2007–2021)<ref name="Bebout">{{cite web|last=Orr|first=Jimmy|date=March 25, 2026|title=Hageman Endorses Degenfelder For Governor Of Wyoming|url=https://cowboystatedaily.com/2026/03/25/hageman-endorses-degenfelder-for-governor-of-wyoming/|work=Cowboy State Daily|access-date=April 23, 2026}}</ref>
+*[[Jeremy Haroldson]], [[Wyoming House of Representatives|house speaker pro tempore]] (2025–present) from [[Wyoming's 4th House of Representatives district|HD-04]] (2021–present)<ref name=endorsements/>
+*[[Scott Heiner]], [[Wyoming House of Representatives|house majority leader]] (2025–present) from [[Wyoming's 18th House of Representatives district|HD-18]] (2021–present)<ref name=endorsements>{{cite web|date=March 12, 2026|title=Members of House GOP leadership endorse Degenfelder for governor|url=https://www.wyomingnews.com/news/local_news/members-of-house-gop-leadership-endorse-degenfelder-for-governor/article_cfbf08dd-4754-4acc-a93b-4b6832125ba8.html|access-date=March 16, 2026|publisher=Wyoming News}}</ref>
+*[[Wyoming's 36th House of Representatives district#List of members representing the district|Bruce Hinchey]], [[Wyoming's 27th State Senate district|SD-27]] (1999–2002)<ref name="Stock">{{cite web|last=McFarland|first=Clair|date=March 12, 2026|title=As 2026 Election Heats Up, Wyoming Political Candidates Stockpiling Endorsements|url=https://cowboystatedaily.com/2026/03/17/some-wyoming-statewide-candidates-stockpiling-endorsements/|work=Cowboy State Daily|access-date=August 12, 2026}}</ref>
+*[[Diemer True]], former president of the [[Wyoming Senate]] (1991–1993) from [[Wyoming's 18th State Senate district|SD-18]] (1977–1993)<ref name="Bebout" />
+
+;Organizations
+*[[National Right to Life Committee|Wyoming Right to Life]]<ref name="WRL">{{cite web |title=Degenfelder announces endorsement by Wyoming Right to Life |url=https://www.wyomingnews.com/news/local_news/degenfelder-announces-endorsement-by-wyoming-right-to-life/article_aa43c7fa-39c7-4f0d-b959-90c51ed34c9c.html |access-date=7 August 2026 |date=August 4, 2026}}</ref>
+}}
+
+{{Endorsements box
+|title=Mark Gordon ''(term-limited)''
+|list=
+;State legislators
+*[[Cale Case]], [[Wyoming's 25th State Senate district|SD-25]] (1999–present)<ref name="Popularity"/>
+}}
+
+===Polling===
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|Key:<br />A – all adults<br />RV – registered voters<br />LV – likely voters<br />V – unclear|name="Key"}}
+! Margin<br />of error
+! style="width:60px;"| Brent<br />Bien
+! style="width:60px;"| Eric<br />Barlow
+! style="width:60px;"| Megan<br />Degenfelder
+! Other
+! Undecided
+|-
+|style="text-align:left;"|Pulse Decision Science (R)<ref>{{cite web|last1=McFarland |first1=Clair|title=Barlow Campaign Releases Poll Claiming Big Lead Over Degenfelder And Bien |url=https://cowboystatedaily.com/2026/07/21/barlow-poll-claims-he-has-huge-lead-over-degenfelder-bien-in-gop-governor-primary/ |publisher=Cowboy State Daily |access-date=July 23, 2026 |date=July 23, 2026}}</ref>{{Efn-ua|name=Barlow| Poll sponsored by Barlow's campaign.}}
+|Jul 18–20, 2026
+|400 (LV)
+|–
+|14%
+|{{party shading/Republican}}|'''42%'''
+|19%
+|–
+|22%
+|}
+
+===Debate===
+{| class="wikitable" style="text-align:center;"
+|+ 2026 Wyoming gubernatorial election Republican primary debate
+|-
+! scope="col" | {{abbr|No.|Number}}
+! scope="col" | Date
+! scope="col" | Host
+! scope="col" | Moderator
+! scope="col" | Link
+! scope="col"| <small>[[Republican Party (US)|Republican]]</small>
+! scope="col"| <small>[[Republican Party (US)|Republican]]</small>
+! scope="col"| <small>[[Republican Party (US)|Republican]]</small>
+! scope="col"| <small>[[Republican Party (US)|Republican]]</small>
+|-
+! colspan="5" rowspan="2" |Key:<br/>{{Colors|black|#90ff90|&nbsp;P&nbsp;}} <small>Participant&nbsp;</small> {{Colors|black|#FFFFDD|&nbsp;A&nbsp;}} <small>Absent&nbsp;</small> {{Colors|black|#ff9090|&nbsp;N&nbsp;}} <small>Not invited&nbsp;</small> {{Colors|black|#CCFFCC|&nbsp;I&nbsp;}} <small>Invited {{color box|#f0e68c|W}} Withdrawn</small>
+! scope="col" style="background:{{party color|Republican Party (US)}}"|
+! scope="col" style="background:{{party color|Republican Party (US)}}"|
+! scope="col" style="background:{{party color|Republican Party (US)}}"|
+! scope="col" style="background:{{party color|Republican Party (US)}}"|
+|-
+! scope="col" | Brent Bien
+! scope="col" | [[Eric Barlow]]
+! scope="col" | [[Megan Degenfelder]]
+! scope="col" | Curt Blake
+|-
+!1
+| style="white-space:nowrap;" | Jun. 1, 2026
+| style="white-space:nowrap;" | [[Campbell County, Wyoming|Campbell County]] Republican Party
+| style="white-space:nowrap;" | 
+| style="white-space:nowrap;" | [https://www.youtube.com/live/nvCkmI9Rrok YouTube]
+| {{Yes|'''P'''}}
+| {{D-A|'''A'''}}
+| {{Yes|'''P'''}}
+| {{D-N|'''N'''}}
+|-
+!2
+| style="white-space:nowrap;" | Jun. 18, 2026
+| style="white-space:nowrap;" | [[Wyoming Republican Party]]
+| style="white-space:nowrap;" | 
+| style="white-space:nowrap;" | [https://www.youtube.com/watch?v=y805InM6ArI YouTube]
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{D-N|'''N'''}}
+|-
+!3
+| style="white-space:nowrap;" | Aug. 13, 2026
+| style="white-space:nowrap;" | [[Central Wyoming College]]<br>Cowboy State Daily<br>[[Wyoming PBS]]<br>[[Wyoming Public Media]]
+| style="white-space:nowrap;" | Steve Peck
+| style="white-space:nowrap;" | [https://www.youtube.com/watch?v=UAdAUMoonYo YouTube]
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{D-N|'''N'''}}
+|}
+
+===Results===
+[[File:2026 Wyoming Republican gubernatorial primary election results map by county.svg|thumb|250px|Primary results by county:
+{{collapsible list
+| title = {{legend|#E27F7F|Barlow}}
+|{{legend|#FFC8CD|30–40%}}
+|{{legend|#FFB2B2|40–50%}}
+|{{legend|#E27F7F|50–60%}}
+|{{legend|#D72F30|70–80%}}
+}}
+]]
+{{Election box begin no change |title=Republican primary results}}
+{{Election box winning candidate with party link no change
+  |party      = Republican Party (United States)
+  |candidate  = [[Eric Barlow]]
+  |votes      = 58,820
+  |percentage = 45.1
+}}
+{{Election box candidate with party link no change
+  |party      = Republican Party (United States)
+  |candidate  = [[Megan Degenfelder]]
+  |votes      = 38,739
+  |percentage = 29.7
+}}
+{{Election box candidate with party link no change
+  |party      = Republican Party (United States)
+  |candidate  = Brent Bien
+  |votes      = 30,843
+  |percentage = 23.6
+}}
+{{Election box candidate with party link no change
+  |party      = Republican Party (United States)
+  |candidate  = Curt Blake
+  |votes      = 2,161
+  |percentage = 1.7
+}}
+{{Election box total no change
+  |votes      = 130,563
+  |percentage = 100.0
+}}{{Election box end}}
+
+==Democratic primary==
+
+=== Candidates ===
+
+==== Nominee ====
+* Kenneth Casner, candidate for governor in [[2002 Wyoming gubernatorial election|2002]] and [[2018 Wyoming gubernatorial election|2018]]<ref>{{cite web |author1=Wyoming Secretary of State |author1-link=Secretary of State of Wyoming |title=2026 Primary Election Candidate Roster |url=https://sos.wyo.gov/Elections/Docs/2026/2026_WY_Primary_Election_Candidates.pdf |access-date=16 June 2026 |date=15 June 2026}}</ref>
+
+===Results===
+{{Election box begin no change |title=Democratic primary results}}
+{{Election box winning candidate with party link no change
+  |party      = Democratic Party (United States)
+  |candidate  = Kenneth Casner
+  |votes      = 10,706
+  |percentage = 100.0
+}}
+{{Election box total no change
+  |votes      = 10,706
+  |percentage = 100.0
+}}{{Election box end}}
+
+== Independents and third parties ==
+
+=== Candidates ===
+
+==== Declared ====
+
+===== Constitution Party =====
+* [[Rebecca Bextel]], business owner<ref>{{cite news |last1=Zumberge |first1=Marianne |title=Jackson’s Rebecca Bextel announces campaign for governor |url=https://buckrail.com/jacksons-rebecca-bextel-announces-campaign-for-governor/ |access-date=July 1, 2026 |work=[[Buckrail]] |date=May 13, 2026}}</ref>
+
+==== Withdrawn ====
+
+* Joseph Kibler, web designer<ref>{{Cite web |last=McFarland |first=Clair |date=2025-12-19 |title=Lummis Announces She's Not Running For Re-Election |url=https://cowboystatedaily.com/2025/12/19/lummis-announces-shes-not-running-for-re-election/ |access-date=2025-12-19 |website=Cowboy State Daily |language=en |quote=State Sen. Eric Barlow, R-Gillette, has declared a run for governor. So too has 2022 candidate Brent Bien, and now-independent candidate Joseph Kibler.}}
+{{cite news|url=https://oilcity.news/community/elections/2026/04/10/joseph-kibler-stepping-away-from-2026-governors-race/|title=Joseph Kibler ‘stepping away’ from 2026 governor’s race}}</ref> ''(previously ran as Republican)''<ref>{{Cite web |author=Wolfson, Leo |date=April 16, 2025 |title=Republican Candidate For Wyoming Governor Admits He's 'A Nobody' |url=https://cowboystatedaily.com/2025/04/16/only-one-candidate-for-wyoming-governor-so-far-and-he-admits-hes-a-nobody/ |access-date=April 18, 2025 |website=Cowboy State Daily |language=en}}</ref>
+
+== General election ==
+===Predictions===
+{| class="wikitable" style=text-align:center
+!Source
+!Ranking
+!As of
+|-
+|align=left|''[[The Cook Political Report]]''<ref>{{cite web|title=2026 CPR Governor Race ratings|url=https://www.cookpolitical.com/ratings/governor-race-ratings|website=[[The Cook Political Report]]|access-date=January 23, 2025}}</ref>
+|{{USRaceRating|Solid|R}}
+|September 11, 2025
+|-
+|align=left|[[Decision Desk HQ]]<ref name="DDHQ">{{cite web |title=2026 Governor Forecast |url=https://votes.decisiondeskhq.com/forecast/2026/governor |website=Decision Desk HQ |access-date=22 September 2026}}</ref>
+|{{USRaceRating|Safe|R}}
+|September 23, 2026
+|-
+|align=left|[[Fox News]]<ref>{{cite web |title=Fox News Power Rankings: The top races to watch as 36 states choose their next governor |url=https://www.foxnews.com/politics/fox-news-power-rankings-top-races-watch-36-states-choose-next-governor |website=[[Fox News]] |publisher=Rémy Numa |access-date=24 July 2026}}</ref>
+|{{USRaceRating|Solid|R}}
+|July 23, 2026
+|-
+|align=left|''[[Inside Elections]]''<ref>{{Cite web|title=Gubernatorial Ratings|url=https://insideelections.com/ratings/governor|access-date=February 7, 2025|website=[[Inside Elections]]}}</ref>
+|{{USRaceRating|Solid|R}}
+|August 28, 2025
+|-
+|align="left"|[[RealClearPolitics]]<ref>{{Cite web|title=2026 Governor Races {{!}} RealClearPolitics|url=https://www.realclearpolling.com/maps/governor/2026/toss-up|access-date=June 5, 2026|website=[[RealClearPolitics]]|archive-url=https://web.archive.org/web/20260601183127/https://www.realclearpolling.com/maps/governor/2026/toss-up|archive-date=June 1, 2026|url-status=dead}}</ref>
+|{{USRaceRating|Solid|R}}
+|June 5, 2026
+|-
+|align=left|''[[Sabato's Crystal Ball]]''<ref>{{cite web|title=2026 Governor|url=https://centerforpolitics.org/crystalball/2026-governor/|website=[[Sabato's Crystal Ball]]|access-date=May 1, 2025}}</ref>
+|{{USRaceRating|Safe|R}}
+|August 12, 2026
+|-
+| style="text-align: left;" |[[Silver Bulletin]]<ref name=":Silver">{{Cite web |last=Silver |first=Nate |date=2026-08-20 |title=FLIPR 2026 midterm election forecast |url=https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model |url-access=subscription |access-date=2026-08-20 |website=www.natesilver.net |language=en}}</ref>
+| {{US political race rating|Solid|R}}
+|August 25, 2026
+|}
+
+== See also ==
+*[[2026 United States gubernatorial elections]]
+==Notes==
+{{notelist}}
+;Partisan clients
+{{notelist-ua}}
+
+==References==
+{{reflist}}
+
+==External links==
+;Official campaign websites
+*[https://www.barlowforwyo.com/ Eric Barlow (R)]
+*[https://rebeccaforwyoming.com/ Rebecca Bextel (C)]
+
+{{2026 United States elections}}
+
+[[Category:Wyoming gubernatorial elections]]
+[[Category:2026 Wyoming elections|Gubernatorial]]
+[[Category:2026 United States gubernatorial elections|Wyoming]]

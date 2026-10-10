@@ -1,0 +1,540 @@
+{{pp|small=yes}}
+{{Short description|none}}
+{{for|related races|2026 United States gubernatorial elections}}
+{{Use American English|date=January 2025}}
+{{Use mdy dates|date=January 2025}}
+{{Infobox election
+| election_name = 2026 New Hampshire gubernatorial election
+| country = New Hampshire
+| type = presidential
+| ongoing = yes
+| previous_election = 2024 New Hampshire gubernatorial election
+| previous_year = 2024
+| next_election = 2028 New Hampshire gubernatorial election
+| next_year = 2028
+| election_date = November 3, 2026
+| image1 = NH Governor Kelly Ayotte (December 11, 2025).jpg
+| nominee1 = [[Kelly Ayotte]]
+| party1 = Republican Party (United States)
+| running_mate1 = 
+| popular_vote1 = 
+| percentage1 = 
+| image2 = 3x4.svg
+| nominee2 = [[Cinde Warmington]]
+| running_mate2 = 
+| party2 = Democratic Party (United States)
+| popular_vote2 = 
+| percentage2 = 
+| title = [[Governor of New Hampshire|governor]]
+| before_election = [[Kelly Ayotte]]
+| before_party = Republican Party (United States)
+| after_election = 
+| after_party = 
+| party3 = 
+| candidate3 = 
+| image3 = 
+}}
+{{Elections in New Hampshire}}
+The '''2026 New Hampshire gubernatorial election''' will be held on November 3, 2026, to elect the [[Governor of New Hampshire|governor]] of the [[U.S. state]] of [[New Hampshire]]. The primary elections will take place on September 8, 2026.<ref>{{Cite web|date=May 9, 2025 |title=2026 State Primary Election Dates |url=https://www.ncsl.org/elections-and-campaigns/2026-state-primary-election-dates|website= NCSL |access-date=5 August 2025}}</ref> Incumbent [[Republican Party (United States)|Republican]] governor [[Kelly Ayotte]] is running for re-election to a second two-year term in office. 
+
+Along with neighboring [[2026 Vermont gubernatorial election|Vermont]], this will be one of two Republican-held governorships up for election in a state that [[Kamala Harris]] won in the [[2024 United States presidential election|2024 presidential election]].
+
+== Background ==
+New Hampshire has voted [[Democratic Party (United States)|Democratic]] in each presidential race starting in [[2004 United States presidential election in New Hampshire|2004]]. The state's congressional delegation has been entirely Democratic since 2017. Conversely, Republicans hold a trifecta on the statewide level, with a supermajority in the [[New Hampshire Senate]].<ref>{{Cite news |last=Cullen |first=Margie |date=November 7, 2024 |title=NH keeps GOP in control of state while voting for Democrats in D.C. Experts explain why. |url=https://www.seacoastonline.com/story/news/politics/elections/2024/11/07/nh-voters-republicans-state-government-democrats-washington/76085089007/ |url-status=live |archive-url=https://web.archive.org/web/20241107101231/https://eu.seacoastonline.com/story/news/politics/elections/2024/11/07/nh-voters-republicans-state-government-democrats-washington/76085089007/ |archive-date=November 7, 2024 |access-date=January 17, 2026 |work=[[Portsmouth Herald]]}}</ref>
+
+In [[2024 New Hampshire gubernatorial election|2024]], [[Kelly Ayotte]] won the gubernatorial election by 9.34%.<ref>{{Cite web |date=January 23, 2025 |title=New Hampshire Governor |url=https://www.cookpolitical.com/governor/race/479551 |url-status=live |archive-url=https://archive.today/20260118013611/https://www.cookpolitical.com/governor/race/479551 |archive-date=January 18, 2026 |access-date=January 17, 2026 |website=[[Cook Political Report]]}}</ref>
+
+==Republican primary==
+===Candidates===
+====Nominee====
+*[[Kelly Ayotte]], incumbent governor (2025–present)<ref name="Opponents">{{cite web |last1=Skipworth |first1=William |title=Ayotte's opponents on the campaign trail take aim at her Medicaid record |url=https://newhampshirebulletin.com/2026/05/18/ayottes-opponents-on-the-campaign-trail-take-aim-at-her-medicaid-record/ |website=New Hampshire Bulletin |access-date=20 May 2026 |date=18 May 2026}}</ref>
+====Eliminated in primary====
+*Shaun Fife, farmer and candidate for governor in [[2024 New Hampshire gubernatorial election|2024]]<ref>{{Cite web |title=NH Secretary of State Filings |url=https://www.sos.nh.gov/sites/g/files/ehbemt561/files/inline-documents/sonh/cumulative-filings-6.11.26.pdf}}</ref>
+*Bob Wayne McClory, welder and candidate for governor in [[2024 New Hampshire gubernatorial election|2024]]<ref>{{Cite web |last=Tracy |first=Paula |date=2026-06-13 |title=Table Set for Elections This Fall in New Hampshire |url=https://indepthnh.org/2026/06/13/table-set-for-elections-this-fall-in-new-hampshire/ |access-date=2026-06-15 |website=InDepthNH.org |language=en-US}}</ref>
+
+====Declined====
+*[[Dan Innis]], [[New Hampshire Senate|state senator]] (2016–2018, 2022–present), candidate for [[New Hampshire's 1st congressional district]] in [[United States House of Representatives elections in New Hampshire, 2014#District 1|2014]], and previous candidate for U.S. Senate in [[2026 United States Senate election in New Hampshire|2026]] ''([[2026 New Hampshire Senate election|running for re-election]])''<ref name="PCampaign">{{Cite web |last3=Ward |first3=Myah |last2=Garrity |first2=Kelly |last1=Kashinsky |first1=Lisa |date=2025-10-02 |title=Lewandowski weighs bid against Gov. Ayotte amid White House pressure campaign |url=https://www.politico.com/news/2025/10/02/trump-ally-corey-lewandowski-would-consider-gov-bid-against-ayotte-in-nh-00592330 |access-date=2025-10-02 |website=[[Politico]] |language=en}}</ref>
+
+=== Endorsements ===
+{{Endorsements box
+|title=Kelly Ayotte
+|list=
+;U.S. representatives
+*[[Jeb Bradley]], former [[New Hampshire's 1st congressional district|NH-01]] (2003–2007) and former [[President of the New Hampshire Senate|New Hampshire Senate president]] (2022–2024) from the [[New Hampshire's 3rd State Senate district|3rd district]] (2009–2024)<ref name="Bradley">{{cite web |last1=Bradley |first1=Jeb |title=Jeb Bradley: Ayotte delivers results, Warmington offers excuses |url=https://www.unionleader.com/opinion/op-eds/jeb-bradley-ayotte-delivers-results-warmington-offers-excuses/article_b5eaf228-b6d9-4dba-af7e-1a2f84417253.html |website=[[New Hampshire Union Leader]] |access-date=12 September 2026 |date=August 19, 2026}}</ref>
+
+;Labor unions
+*[[Police unions in the United States#Police Benevolent Associations|New England Police Benevolent Association]]<ref name="NEPBA">{{cite web |title=NEPBA Announces Initial Endorsements for the 2026 Election Cycle |url=https://nepba.org/news/nepba-announces-initial-endorsements-for-the-2026-election-cycle |website=New England Police Benevolent Association |access-date=23 August 2026 |date=June 24, 2026}}</ref>
+*[[International Association of Fire Fighters|Professional Fire Fighters of New Hampshire]]<ref name="PFFNH">{{cite web |last1=Sexton |first1=Adam |title=Ayotte gains support of firefighters union after fighting for retirement benefits |url=https://www.wmur.com/article/ayotte-firefighters-union-support-retirement-51926/71354835 |website=WMUR |access-date=20 May 2026 |language=en |date=19 May 2026}}</ref>
+
+;Organizations
+*[[Turning Point Action]]<ref name="TPActionEndorsements">{{cite web |title=Turning Point Action Endorsements |url=https://www.tpaction.com/endorsements |website=Turning Point Action |access-date=June 7, 2026}}</ref>
+}}
+
+===Results===
+{{Election box begin no change
+ | title=Republican primary results}}
+{{Election box winning candidate with party link no change
+ | party=Republican Party (United States)
+ | candidate=[[Kelly Ayotte]] (incumbent)
+ | votes= 100,920
+ | percentage=91.9
+}}
+{{Election box candidate with party link no change
+ | party=Republican Party (United States)
+ | candidate=Shaun Fife
+ | votes= 4,418
+ | percentage=4.0
+}}
+{{Election box candidate with party link no change
+ | party=Republican Party (United States)
+ | candidate=Bob Wayne McClory
+ | votes=3,890
+ | percentage=3.5
+}}
+{{Election box write-in with party link no change
+|votes = 644
+|percentage = 0.6
+}}
+{{Election box total no change
+ | votes= 109,872
+ | percentage=100.0}}
+{{Election box end}}
+
+==Democratic primary==
+===Candidates===
+====Nominee====
+*[[Cinde Warmington]], former [[New Hampshire Executive Council|New Hampshire Executive Councilor]] (2021–2025) and candidate for governor in [[2024 New Hampshire gubernatorial election|2024]]<ref>{{Cite web|url=https://www.wmur.com/article/cinde-warmington-running-new-hampshire-governor/70397433|title=News 9 Exclusive: Democrat Cinde Warmington running for New Hampshire governor|access-date=February 18, 2026|date=February 18, 2026|website=WMUR-TV|last=Sexton|first=Adam}}</ref>
+
+==== Withdrawn ====
+*Jon Kiper, former [[Newmarket, New Hampshire|Newmarket]] town councilor and [[2024 New Hampshire gubernatorial election|2024 gubernatorial candidate]] ''(ran as an independent, later withdrew)''<ref name="Stay">{{Cite web |last=Graham |first=Michael |date=2026-04-14 |title=Former Dem Kiper Forming Third Party, Staying in Gov's Race |url=https://nhjournal.com/former-dem-kiper-forming-third-party-staying-in-govs-race/ |access-date=2026-04-14 |website=NH Journal |language=en-US}}</ref>
+
+==== Declined ====
+
+* Carleigh Beriont, [[Hampton, New Hampshire|Hampton]] selectwoman ([[2026 United States House of Representatives elections|Running for Congress]])<ref>{{Cite web |last=Sexton |first=Adam |date=2026-05-25 |title=Carleigh Beriont rejects calls to run for governor {{!}} CloseUp |url=https://www.wmur.com/article/carleigh-beriont-rejects-governor-run-closeup/71396968 |access-date=2026-05-25 |website=WMUR |language=en}}</ref>
+*[[Donovan Fenton]], [[New Hampshire Senate|state senator]] from the [[New Hampshire's 10th State Senate district|10th district]] (2022–present)<ref>{{cite web |last1=Nir |first1=David |last2=Singer |first2=Jeff |title=Morning Digest: Missouri candidates start filing for a district that may not exist |url=https://www.the-downballot.com/i/189413289/nh-gov |publisher=The Downballot |access-date=2 March 2026 |date=2 March 2026}}</ref>
+*Deaglan McEachern, [[List of mayors of Portsmouth, New Hampshire|mayor]] of [[Portsmouth, New Hampshire|Portsmouth]] (2022–present)<ref>{{Cite web |last=Sexton |first=Adam |date=2026-02-26 |title=Portsmouth Mayor Deaglan McEachern decides against running for NH governor |url=https://www.wmur.com/article/mceachern-decides-not-running-for-governor-2026/70524300 |access-date=2026-02-27 |website=WMUR |language=en}}</ref>
+*[[Andru Volinsky]], former [[New Hampshire Executive Council]]or (2017–2021) and candidate for governor in [[2020 New Hampshire gubernatorial election|2020]]<ref>{{Cite web |last=Colson |first=Nicole |date=2025-09-12 |title=On WKBK, Volinsky Urges Tax Reform to Fix N.H. School Funding |work=My Keene Now |url=https://mykeenenow.com/news/219912-on-wkbk-volinsky-urges-tax-reform-to-fix-n-h-school-funding/ |access-date=2025-09-20 |language=en-US}}</ref>
+*Julia Williams, healthcare executive and daughter of former governor [[John Lynch (New Hampshire governor)|John Lynch]]<ref>{{cite news |last1=Landrigan |first1=Kevin |title=State House Dome: Democrats eye candidate for governor with family ties |url=https://www.unionleader.com/news/politics/statehouse_dome/state-house-dome-democrats-eye-candidate-for-governor-with-family-ties/article_ce9abcd1-5471-4a81-9f3e-20cf881e31fa.html |access-date=January 25, 2026 |work=[[UnionLeader.com]] |date=January 23, 2026}}</ref><ref>{{Cite tweet|number=2019073653694951744|user=reporterporter|last=Porter|first=Steven|title=Can confirm: Julia Williams tells me she's unable to run for office at this time bc she needs add'l hip surgery in the coming months. Also: Williams said the reporting on her apparent out-of-state residence within the past 7 years had "absolutely no impact" on her decision.|date=February 4, 2026}}</ref>
+
+=== Endorsements ===
+{{Endorsements box
+|title=Cinde Warmington
+|list=
+;U.S. senators
+*[[Maggie Hassan]], [[New Hampshire]] (2017–present) and 81st [[governor of New Hampshire]] (2013–2017)<ref name="NHJ517">{{cite web |last1=Graham |first1=Michael |title=Monday Memo: Louisiana’s Lesson for Scott Brown |url=https://nhjournal.com/monday-memo-louisianas-lesson-for-scott-brown/ |website=NH Journal |access-date=8 August 2026 |date=May 17, 2026}}</ref>
+*[[Jeanne Shaheen]], [[New Hampshire]] (2009–present) and 78th [[governor of New Hampshire]] (1997–2003)<ref name="NHJ517" />
+
+;U.S. representatives
+*[[Maggie Goodlander]], [[NH-02]] (2025–present)<ref name="NHJ517" />
+*[[Chris Pappas (American politician)|Chris Pappas]], [[NH-01]] (2019–present)<ref name="NHJ517" />
+
+;Organizations
+*[[314 Action]]<ref name="314Action">{{cite web |title=314 Action Fund Endorses Cinde Warmington for New Hampshire Governor |url=https://www.314action.org/news/314-action-fund-endorses-cinde-warmington-for-new-hampshire-governor/ |website=314 Action |access-date=8 August 2026 |date=July 1, 2026}}</ref>
+*[[National Women's Political Caucus]]<ref name="NWPC">{{cite web |title=Meet Our Endorsed Candidates |url=https://nwpc.org/endorsed-candidates/ |website=[[National Women's Political Caucus]] |access-date=1 September 2026}}</ref>
+*[[Planned Parenthood|Planned Parenthood New Hampshire Action Fund]]<ref name="PPNHAF">{{cite web |title=PPNHAF PAC Endorses Cinde Warmington for Governor, and Slate of Candidate who will Protect and Defend Reproductive Health & Rights on the New Hampshire Executive Council |url=https://www.plannedparenthoodaction.org/planned-parenthood-new-hampshire-action-fund/press-releases/ppnhaf-pac-endorses-cinde-warmington-for-governor-and-slate-of-candidate-who-will-protect-and-defend-reproductive-health-rights-on-the-new-hampshire-executive-council |website=PPNHAF |access-date=12 September 2026 |date=September 3, 2026}}</ref>
+}}
+
+{{Endorsements box
+|title=Declined to endorse
+|list=
+;Local officials
+*[[Joyce Craig]], former [[mayor of Manchester, New Hampshire|mayor of Manchester]] (2018–2024) and nominee for governor in [[2024 New Hampshire gubernatorial election|2024]]<ref name="CraigEndorse">{{cite web |last1=Robinson |first1=Leonard |title=‘Doom and Gloom’: Warmington Campaign Struggles With Polls, Cash |url=https://nhjournal.com/doom-and-gloom-warmington-campaign-struggles-with-polls-cash/ |website=New Hampshire Journal |access-date=23 August 2026 |date=August 20, 2026}}</ref>
+}}
+
+=== Polling ===
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- style="vertical-align:bottom"
+! Poll source
+! Date(s)<br>administered
+! Sample<br>size{{efn|name="Key"|Key:<br />A – all adults<br />RV – registered voters<br />LV – likely voters<br />V – unclear}}
+! Margin<br>of error
+! style="width:75px;" |Jon<br/>Kiper
+! style="width:75px;" |Cinde<br/>Warmington
+! Undecided
+|-
+|- style="background:lightyellow;"
+| style="border-right-style:hidden; background:lightyellow;" |
+| style="border-right-style:hidden; " |April 13, 2026
+| colspan="8" | Kiper switches to run as an Independent<ref name=Stay></ref>
+|-
+|-
+|-
+|style="text-align:left;"|[[Saint Anselm College]]<ref name="AnselmMarch2026"/>
+|March 16–18, 2026
+|691 (RV)
+|±&nbsp;3.7%
+|13%
+|{{party shading/Democratic}}|'''40%'''
+|{{party shading/Undecided}}|'''47%'''
+|}
+
+===Results===
+{{Election box begin no change
+| title = Democratic primary results
+}}
+{{Election box winning candidate with party link no change
+| candidate = [[Cinde Warmington]]
+| party = Democratic Party (United States)
+| votes = 126,223
+| percentage = 96.4
+}}
+{{Election box write-in with party link no change
+|votes = 4,788
+|percentage = 3.6
+}}
+{{Election box total no change
+| votes = 131,011
+| percentage = 100.0
+}}
+{{Election box end}}
+
+== Third-party and independent candidates ==
+=== Candidates ===
+==== Declared ====
+*Stephen Villee ([[Libertarian Party (United States)|Libertarian]]), software developer and nominee for governor in [[2024 New Hampshire gubernatorial election|2024]]<ref>{{Cite web |title=NH Secretary of State Declarations of Intent |url=https://www.sos.nh.gov/sites/g/files/ehbemt561/files/inline-documents/sonh/declarations-of-intent-list-2026_2.pdf}}</ref>
+
+====Failed to qualify====
+* Jon Kiper (Independent), former [[Newmarket, New Hampshire|Newmarket]] town councilor and Democratic candidate for governor in [[2024 New Hampshire gubernatorial election|2024]]<ref name="Stay" />{{efn|Kiper initially announced his candidacy as an independent, but later chose to enter the Democratic primary. In April 2026, he reversed the decision and announced he would continue to run as an independent.}}<ref>{{Cite web |last=Brooks |first=David |date=2026-08-10 |title=Jonathan Kiper doesn't get signatures for governor race, shifts focus to new PAC |url=https://ledgertranscript.com/2026/08/10/kiper-falls-short-in-bid-to-get-on-ballot-for-governor-creates-a-progressive-pac/ |access-date=2026-08-11 |website=Monadnock Ledger-Transcript |language=en-US}}</ref>
+
+==General election==
+===Post-primary endorsements===
+{{Endorsements box
+|title=Cinde Warmington (D)
+|list=
+; Executive branch officials
+* [[Eric Holder]], former [[United States Attorney General]] (2009–2015) and chairman of the [[National Democratic Redistricting Committee]]<ref>{{cite web |title=Eric Holder Endorses Cinde Warmington for Governor of New Hampshire |url=https://democraticredistricting.com/eric-holder-endorses-cinde-warmington-for-governor-of-new-hampshire/ |website=NDRC |access-date=September 28, 2026 |date=September 28, 2026}}</ref>
+
+;Organizations
+*[[EMILYs List]]<ref>{{cite web |url=https://emilyslist.org/news/emilys-list-announces-four-new-gubernatorial-endorsements-expanding-its-slate-of-democratic-women-governors/ |title=EMILYs List Announces Four New Gubernatorial Endorsements, Expanding Its Slate of Democratic Women Governors |website=emilyslist.org |date=October 1, 2026 |access-date=October 1, 2026}}</ref>
+}}
+
+===Predictions===
+{| class="wikitable" style=text-align:center
+!Source
+!Ranking
+!As of
+|-
+|align=left|''[[The Cook Political Report]]''<ref>{{cite web|title=2026 CPR Governor Race ratings|url=https://www.cookpolitical.com/ratings/governor-race-ratings|website=[[The Cook Political Report]]|access-date=January 23, 2025}}</ref>
+|{{USRaceRating|Likely|R}}
+|September 11, 2025
+|-
+|align=left|[[Decision Desk HQ]]<ref name="DDHQ">{{cite web |title=2026 Governor Forecast |url=https://votes.decisiondeskhq.com/forecast/2026/governor |website=Decision Desk HQ |access-date=22 September 2026}}</ref>
+|{{USRaceRating|Lean|R}}
+|September 23, 2026
+|-
+|align=left|[[Fox News]]<ref>{{cite web |title=Fox News Power Rankings: The top races to watch as 36 states choose their next governor |url=https://www.foxnews.com/politics/fox-news-power-rankings-top-races-watch-36-states-choose-next-governor |website=[[Fox News]] |publisher=Rémy Numa |access-date=24 July 2026}}</ref>
+|{{USRaceRating|Likely|R}}
+|July 23, 2026
+|-
+|align=left|''[[Inside Elections]]''<ref>{{Cite web|title=Gubernatorial Ratings|url=https://insideelections.com/ratings/governor|access-date=February 7, 2025|website=[[Inside Elections]]}}</ref>
+|{{USRaceRating|Solid|R}}
+|August 28, 2025
+|-
+|align="left"|[[RealClearPolitics]]<ref>{{Cite web|title=2026 Governor Races {{!}} RealClearPolitics|url=https://www.realclearpolling.com/maps/governor/2026/toss-up|access-date=June 5, 2026|website=[[RealClearPolitics]]|archive-url=https://web.archive.org/web/20260601183127/https://www.realclearpolling.com/maps/governor/2026/toss-up|archive-date=June 1, 2026|url-status=dead}}</ref>
+|{{USRaceRating|Lean|R}}
+|June 5, 2026
+|-
+|align=left|''[[Sabato's Crystal Ball]]''<ref>{{cite web|title=2026 Governor|url=https://centerforpolitics.org/crystalball/2026-governor/|website=[[Sabato's Crystal Ball]]|access-date=May 1, 2025}}</ref>
+|{{USRaceRating|Likely|R}}
+|September 4, 2025
+|-
+| style="text-align: left;" |[[Silver Bulletin]]<ref name=":Silver">{{Cite web |last=Silver |first=Nate |date=2026-08-20 |title=FLIPR 2026 midterm election forecast |url=https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model |url-access=subscription |access-date=2026-08-20 |website=www.natesilver.net |language=en}}</ref>
+| {{US political race rating|Likely|R}}
+|August 25, 2026
+|}
+
+===Polling===
+'''Aggregate polls'''<br />
+{| class="wikitable sortable" style="text-align:center;font-size:90%;line-height:17px"
+!Source of poll<br />aggregation
+!Dates<br />administered
+!Dates<br />updated
+! style="width:100px;"| Kelly<br />Ayotte (R)
+! style="width:100px;"| Cinde<br />Warmington (D)
+! style="width:100px;"| Other/Undecided<br />{{Efn|name=combined|Calculated by taking the difference of 100% and all other candidates combined.}}
+!Margin
+|-
+|[[270toWin]]<ref>{{Cite web|title=2026 Polls: New Hampshire Governor
+|url=https://www.270towin.com/2026-governor-polls/new-hampshire|access-date=September 12, 2026|website=[[270toWin]]}}</ref>
+|September 14–24, 2026
+|September 25, 2026
+|{{party shading/Republican}}|'''51.0%'''
+|38.5%
+|10.5%
+|{{party shading/Republican}}|'''Ayotte +12.5%'''
+|-
+|Race to the WH<ref>{{Cite web|title=2026 Governor Polling
+|url=https://www.racetothewh.com/governor/26polls|access-date=September 2, 2026|website=Race to the WH}}</ref>
+|through October 5, 2026
+|October 6, 2026
+|{{party shading/Republican}}|'''51.0%'''
+|40.9%
+|8.9%
+|{{party shading/Republican}}|'''Ayotte +10.1%'''
+|-
+|[[RealClearPolitics]]<ref>{{Cite web|title=2026 New Hampshire Governor - Ayotte vs. Warmington|url=https://www.realclearpolling.com/polls/governor/general/2026/new-hampshire/ayotte-vs-warmington|access-date=September 2, 2026|website=[[RealClearPolitics]]}}</ref>
+|September 9–29, 2026
+|October 6, 2026
+|{{party shading/Republican}}|'''51.5%'''
+|40.8%
+|7.7%
+|{{party shading/Republican}}|'''Ayotte +10.7%'''
+|-
+|''[[Silver Bulletin]]''<ref>{{Cite web|title=FLIPR 2026 midterm election forecast|url=https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model|publisher=[[Silver Bulletin]]|access-date=September 12, 2026}}</ref>
+|August 17 – September 29, 2026
+|October 6, 2026
+|{{party shading/Republican}}|'''52.1%'''
+|41.1%
+|6.8%
+|{{party shading/Republican}}|'''Ayotte +11.0%'''
+|-
+|colspan="3"|'''Average'''
+|{{party shading/Republican}}|'''51.4%'''
+|40.3%
+|8.3%
+|{{party shading/Republican}}|'''Ayotte +11.1%'''
+|}
+
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br/>administered
+! Sample<br/>size{{efn|name="Key"}}
+! Margin<br/>of error
+! style="width:100px;"| Kelly<br/>Ayotte (R)
+! style="width:100px;"| Cinde<br/>Warmington (D)
+! Other
+! Undecided
+|-
+| style="text-align:left;|[[YouGov]]<ref>{{cite web|title=New Hampshire General Election 2026 – Likely Voters|url=https://d3nkl3psvxxpe9.cloudfront.net/documents/ttw_nh_20260921_lv.pdf |website=[[YouGov]] |date=October 6, 2026 |access-date=October 6, 2026}}</ref>
+|September 28 – October 5, 2026
+|1,520 (LV)
+|±&nbsp;3.9%
+|{{party shading/Republican}}|'''49%'''
+|40%
+|{{sdash}}
+|11%
+|-
+|style="text-align:left;"|[[Saint Anselm College]]<ref>{{cite web|url=https://www.aarp.org/content/dam/aarp/research/topics/voter-opinion-research/politics/2026-midterm-election-poll-new-hampshire.doi.10.26419-2fres.01065.022.pdf|title=A Survey of New Hampshire Likely Voters|date=October 6, 2026|access-date=October 6, 2026|website=[[AARP]]}}</ref>{{efn-ua|Poll sponsored by [[AARP]]}}
+|September 28–29, 2026
+|1,042 (LV)
+|±&nbsp;3.0%
+|{{party shading/Republican}}|'''52%'''
+|45%
+|2%{{efn|"Someone else" with 2%}}
+|1%
+|-
+|style="text-align:left;"|''[[The New York Times]]''/[[Siena University (New York)|Siena University]]<ref>{{cite web |title=Cross-Tabs: September 2026 Times/Siena Poll of the Likely Electorate in New Hampshire |url=https://www.nytimes.com/interactive/2026/09/25/polls/times-siena-poll-nh-crosstabs.html |publisher=[[The New York Times]] |access-date=September 26, 2026 |date=September 23, 2026 |url-access=registration}}</ref>
+|September 15–22, 2026
+|613 (LV)
+|±&nbsp;4.9%
+|{{party shading/Republican}}|'''52%'''
+|41%
+|>1%
+|6%
+|-
+|style="text-align:left;"|[[University of New Hampshire]]<ref>{{Cite web|url=https://scholars.unh.edu/cgi/viewcontent.cgi?article=2004&context=survey_center_polls |title=Pappas Opens Narrow Lead Over Sununu in New Hampshire Senate Race, Race for Governor Tightens |first1=Sean P. |last1=McKinley |first2=Andrew E. |last2=Smith |first3=Zachary S. |last3=Azem |first4=Tracy |last4=Keirns |publisher=[[University of New Hampshire]] |date=September 24, 2026 |access-date=September 24, 2026}}</ref>
+|September 17–21, 2026
+|1,418 (LV)
+|±&nbsp;2.6%
+|{{party shading/Republican}}|'''47%'''
+|43%
+|3%{{efn|Stephen Villee (L) with 2%; Another candidate with 1%}}
+|7%
+|-
+|style="text-align:left;"|co/efficient (R)<ref name="co914">{{cite web |title=New Hampshire · U.S. Senate |url=https://battlegrounds.coefficient.org/nh/ |website=co/efficient |access-date=14 September 2026 |date=September 14, 2026}}</ref>
+|September 9–11, 2026
+|958 (LV)
+|±&nbsp;3.2%
+|{{party shading/Republican}}|'''55%'''
+|34%
+|3%{{efn|Stephen Villee (L) with 3%}}
+|9%
+|-
+|style="text-align:left;"|[[University of New Hampshire]]<ref name="UNHAugust2026">{{cite web |title=Ayotte's Approval Improves, Lead Over Warmington Grows in New Hampshire Gubernatorial Race |url=https://scholars.unh.edu/cgi/viewcontent.cgi?article=1990&context=survey_center_polls |website=[[University of New Hampshire]] |access-date=30 August 2026 |date=August 27, 2026}}</ref>
+|August 20–24, 2026
+|1,878 (LV)
+|±&nbsp;2.3%
+|{{party shading/Republican}}|'''49%'''
+|39%
+|3%{{efn|"Write in someone else" with 3%}}
+|9%
+|-
+|style="text-align:left;"|[[Saint Anselm College]]<ref>{{cite web|url=https://www.anselm.edu/about/anselmian-hub/news/new-saint-anselm-college-poll-finds-republicans-facing-midterm-headwinds-democratic-lead-widens|title=New Saint Anselm College Poll Finds Republicans Facing Midterm Headwinds as Democratic Lead Widens|website=[[Saint Anselm College]]|date=August 20, 2026|access-date=August 20, 2026}}</ref>
+|August 17–18, 2026
+|1,411 (LV)
+|±&nbsp;2.6%
+|{{party shading/Republican}}|'''49%'''
+|38%
+|{{sdash}}
+|13%
+|-
+|style="text-align:left;"|[[Saint Anselm College]]<ref name="AnselmJune2026">{{cite web|url=https://www.anselm.edu/about/anselmian-hub/news/saint-anselm-college-survey-center-june-poll-finds-democrats-expand-generic-ballot-lead|title=Saint Anselm College Survey Center June Poll Finds Democrats Expand Generic Ballot Lead|website=[[Saint Anselm College]]|date=June 30, 2026|access-date=June 30, 2026}}</ref>
+|June 24–25, 2026
+|1,614 (RV)
+|±&nbsp;2.4%
+|{{party shading/Republican}}|'''45%'''
+|37%
+|{{sdash}}
+|18%
+|-
+|style="text-align:left;"|[[University of New Hampshire]]<ref>{{Cite web|last1=McKinley|first1=Sean P.|last2=Smith|first2=Andrew E.|last3=Azem|first3=Zachary S.|last4=Keirn|first4=Tracy|date=June 30, 2026|title=Races Tighten in New Hampshire for Governor and Senate Island|url=https://scholars.unh.edu/cgi/viewcontent.cgi?article=1973&context=survey_center_polls|access-date=June 30, 2026|website=[[University of New Hampshire]]}}</ref>
+|June 18–23, 2026
+|2,232 (LV)
+|±&nbsp;2.1%
+|{{party shading/Republican}}|'''44%'''
+|39%
+|3%
+|13%
+|-
+|style="text-align:left;"|[[University of New Hampshire]]<ref name="UNHApril2026">{{cite web |title=NH Senate Race: Sununu Increases GOP Primary Lead, Pappas Leads General Election Matchups |url=https://scholars.unh.edu/cgi/viewcontent.cgi?article=1943&context=survey_center_polls |first1=Sean P. |last1=McKinley |first2=Andrew E. |last2=Smith |first3=Zachary S. |last3=Azem |first4=Tracy |last4=Keirns |website=UNH Scholars Repository |access-date=23 April 2026 |date=23 April 2026}}</ref>
+|April 17–21, 2026
+|1,117 (LV)
+|±&nbsp;2.9%
+|{{party shading/Republican}}|'''47%'''
+|39%
+|4%{{efn|"Another candidate" with 4%}}
+|10%
+|-
+|style="text-align:left;"|[[Saint Anselm College]]<ref name="AnselmMarch2026"/>
+|March 16–18, 2026
+|1,491 (RV)
+|±&nbsp;2.5%
+|{{party shading/Republican}}|'''46%'''
+|39%
+|{{sdash}}
+|15%
+|}
+
+<!-- = = = don't edit the line below = = = -->
+{{hidden begin|titlestyle=background:#cff|title=Hypothetical polling|contentstyle=border:solid 1px silver; padding:8px; background:var(--background-color-base); color:var(--color-base);}}
+<!-- = = = don't edit the line above = = = -->
+'''Kelly Ayotte vs. Jon Kiper'''<br/>
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br/>administered
+! Sample<br/>size{{efn|name="Key"}}
+! Margin<br/>of error
+! style="width:100px;"| Kelly<br/>Ayotte (R)
+! style="width:100px;"| Jon<br/>Kiper (D)
+! Other
+! Undecided
+|-
+|- style="background:lightyellow;"
+| style="border-right-style:hidden; background:lightyellow;" |
+| style="border-right-style:hidden; " |April 13, 2026
+| colspan="8" | Kiper switches to run as an Independent<ref name=Stay></ref>
+|-
+|-
+|style="text-align:left;"|[[Saint Anselm College]]<ref name="AnselmMarch2026">{{cite web|url=https://www.anselm.edu/sites/default/files/2026-03/SACSC_NHRV_0326.pdf|title=A Survey of New Hampshire Registered Voters|first1=Neil|last1=Levesque|first2=Tauna|last2=Sisco|date=March 23, 2026|access-date=March 23, 2026}}</ref>
+|March 16–18, 2026
+|1,491 (RV)
+|±&nbsp;2.5%
+|{{party shading/Republican}}|'''45%'''
+|31%
+|{{sdash}}
+|24%
+|-
+|style="text-align: left;"|yes. every kid. (D)<ref>{{Cite web|url=https://yeseverykid.com/new-hampshire-voters-support-expanded-public-school-access/|title=New Hampsh⁠i⁠re vo⁠t⁠ers suppor⁠t⁠ expanded publ⁠i⁠c school access|website=yes. every kid.|date=February 13, 2026|access-date=February 14, 2026}}</ref>
+|January 28–29, 2026
+|563 (LV)
+|±&nbsp;4.1%
+|{{party shading/Republican}}|'''47%'''
+|37%
+|{{sdash}}
+|16%
+|-
+|style="text-align: left;"|[[University of New Hampshire]]<ref name="UNHJan2026">{{Cite web|url=https://scholars.unh.edu/cgi/viewcontent.cgi?article=1921&amp;context=survey_center_polls|title=Sununu, Pappas Frontrunners in 2026 NH Senate Race; Ayotte Favored for Re-election as Governor|first1=Sean P.|last1=McKinley|first2=Andrew E.|last2=Smith|first3=Zachary S.|last3=Azem|first4=Tracy|last4=Keirns|website=UNH Scholars Repository|date=January 21, 2026|access-date=January 22, 2026}}</ref>
+|January 15–19, 2026
+|2,053 (LV)
+|±&nbsp;2.1%
+|{{party shading/Republican}}|'''50%'''
+|39%
+|2%{{efn|name="AC2"|"Another candidate" with 2%}}
+|9%
+|}
+
+'''Kelly Ayotte vs. Deaglan McEachern'''<br/>
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br/>administered
+! Sample<br/>size{{efn|name="Key"}}
+! Margin<br/>of error
+! style="width:100px;"| Kelly<br/>Ayotte (R)
+! style="width:100px;"| Deaglan<br/>McEachern (D)
+! Other
+! Undecided
+|-
+|style="text-align: left;"|[[University of New Hampshire]]<ref name="UNHJan2026"/>
+|January 15–19, 2026
+|2,053 (LV)
+|±&nbsp;2.1%
+|{{party shading/Republican}}|'''49%'''
+|41%
+|0%{{efn|"Another candidate" with 0%}}
+|10%
+|}
+
+'''Kelly Ayotte vs. Generic Democrat'''<br/>
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br/>administered
+! Sample<br />size{{efn|name="Key"|Key:<br />A – all adults<br />RV – registered voters<br />LV – likely voters<br />V – unclear}}
+! Margin<br/>of error
+! style="width:100px;"| Kelly<br/>Ayotte (R)
+! style="width:100px;"| Generic<br/>Democrat
+! Undecided
+|-
+|style="text-align:left;"|co/efficient (R)<ref name=coe2026gen>{{cite web|url=https://coefficient.org/new-hampshire-us-senate-2026-general-election/|title=New Hampshire Senate 2026 General Election|website=co/efficient|date=October 13, 2025|access-date=October 15, 2025}}</ref>
+|October 9–13, 2025
+|1,034 (LV)
+|±&nbsp;3.1%
+|{{party shading/Republican}}|'''43%'''
+|40%
+|17%
+|}
+{{hidden end}}
+
+===Results===
+{{Election box begin
+ | title = 2026 New Hampshire gubernatorial election
+}}{{Election box candidate with party link|party=Republican Party (United States)|candidate=[[Kelly Ayotte]] (incumbent)|votes=|percentage=|change=}}
+{{Election box candidate with party link|party=Democratic Party (United States)|candidate=[[Cinde Warmington]]|votes=|percentage=|change=}}
+{{Election box candidate with party link|party=Libertarian Party (United States)|candidate=Stephen Villee|votes=|percentage=|change=}}
+{{Election box write-in with party link
+ |votes      =
+ |percentage =
+ |change     =
+}}{{Election box total
+ |votes      =
+ |percentage =100.0
+ |change=
+}}{{Election box end}}
+
+==See also==
+* [[2026 United States Senate election in New Hampshire]]
+* [[2026 New Hampshire elections]]
+
+==Notes==
+{{notelist}}
+'''Partisan clients'''<br/>
+{{notelist-ua}}
+
+==References==
+{{reflist}}
+
+==External links==
+;Official campaign websites
+*[https://kellyfornh.com/ Kelly Ayotte (R)]
+*[https://www.votekiper.org/ Jon Kiper (I)]
+*[https://villee4nh.com/ Stephen Villee (L)]
+*[https://www.cindewarmington.com/ Cinde Warmington (D)]
+
+{{2026 United States elections}}
+
+[[Category:New Hampshire gubernatorial elections]]
+[[Category:2026 New Hampshire elections|Gubernatorial]]
+[[Category:2026 United States gubernatorial elections|New Hampshire]]
