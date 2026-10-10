@@ -1,0 +1,756 @@
+{{short description|none}}
+{{for|related races|2026 United States Senate elections}}
+{{Use American English|date=January 2026}}
+{{Use mdy dates|date=January 2025}}
+{{Infobox election
+| election_name = 2026 United States Senate election in Kansas
+| country = Kansas
+| type = presidential
+| ongoing = yes
+| previous_election = 2020 United States Senate election in Kansas
+| previous_year = 2020
+| election_date = November 3, 2026
+| next_election = 2032 United States Senate election in Kansas
+| next_year = ''2032''
+| turnout = 
+| image1 = Roger Marshall 117th Congress portrait (cropped center).jpg
+| nominee1 = [[Roger Marshall]]
+| party1 = Republican Party (United States)
+| image2 = Adam Hamilton at podium (cropped 2).jpg
+| nominee2 = [[Adam Hamilton (pastor)|Adam Hamilton]]
+| party2 = Democratic Party (United States)
+| title = U.S. senator
+| before_election = [[Roger Marshall]]
+| before_party = Republican Party (United States)
+| after_election = 
+| after_party = 
+}}
+{{ElectionsKS}}
+The '''2026 United States Senate election in Kansas''' will be held on November 4, 2026, to elect a member of the [[United States Senate]] to represent the state of [[Kansas]]. [[Republican Party (United States)|Republican]] incumbent [[Roger Marshall]] is seeking a second term. He is being challenged by [[Democratic Party (United States)|Democratic]] pastor [[Adam Hamilton (pastor)|Adam Hamilton]].
+
+In the August 4 [[primary elections]], Marshall won the Republican nomination against minimal opposition. Hamilton won the Democratic nomination with 34.9% of the vote over a field of candidates that included former Kansas USDA Rural Development director Christy Davis and Army veteran Noah Taylor.
+
+Democrats have not won a Senate election in Kansas since [[1932 United States Senate election in Kansas|1932]].
+
+== Background ==
+Though generally considered to be a [[red state]],<ref>{{Cite news |url=https://www.newsweek.com/roger-marshall-speaks-out-against-ice-as-gop-fears-it-could-lose-kansas-12481531 |title=Roger Marshall Speaks Out Against ICE as GOP Fears It Could Lose Kansas |last=Rahman |first=Billal |work=[[Newsweek]] |date=September 24, 2026 |access-date=September 24, 2026}}</ref><ref name="NYT">{{Cite news |url=https://www.nytimes.com/2026/09/14/us/politics/jd-vance-kansas-senate-race.html |title=Vance Campaigns in Kansas as Democrats Target a Republican Stronghold |last=Bidgood |first=Jess |work=[[The New York Times]] |date=September 14, 2026 |access-date=September 24, 2026}}</ref> Kansas has shown greater competitiveness over time due to shifts in the traditionally [[Republican Party (United States)|Republican]]-leaning [[Kansas City metropolitan area|Kansas City suburbs]].<ref>{{Cite news |last=Glueck |first=Katie |date=October 5, 2026 |title=Pastor's Senate Primary Win Gives Democrats a Ray of Hope in Deep-Red Kansas |url=https://www.nytimes.com/2026/08/04/us/politics/hamilton-marshall-kansas-senate-election.html |access-date=October 9, 2026 |work=[[The New York Times]] |language=en-US |issn=0362-4331}}</ref> Republicans control both houses of the [[Kansas Legislature]];<ref>{{Cite web |title=What happened to GOP supermajorities? Kansas Republicans appear to win big |url=https://www.cjonline.com/story/news/politics/elections/2024/11/06/kansas-republicans-appear-to-win-big-grow-legislative-supermajorities/76085263007/ |last=Alatidd |first=Jason |work=[[The Topeka Capital-Journal]] |language=en-US |date=November 6, 2024 |access-date=September 24, 2026}}</ref> however, [[Democratic Party (United States)|Democrats]] control the [[Governor of Kansas|governorship of Kansas]], which they flipped from Republican control in [[2018 Kansas gubernatorial election|2018]], and held in [[2022 Kansas gubernatorial election|2022]].<ref name="NYT"/> Kansas has not elected a Democrat to the U.S. Senate since [[1932 United States Senate election in Kansas|1932]].<ref name="NYT"/> Incumbent senator [[Roger Marshall]] was [[2020 United States Senate election in Kansas|elected in 2020]] with 53.2% of the vote, winning by 11.4% despite expectations of a close race.<ref>{{Cite web |title=Kansas 2020 Senate election results |url=https://www.cnn.com/election/2020/results/state/kansas/senate |website=[[CNN]] |language=en |access-date=September 24, 2026}}</ref><ref>{{Cite web |title=Marshall keeps Kansas Senate seat in Republican hands |url=https://www.politico.com/news/2020/11/03/kansas-senate-election-results-2020-433577 |last=Bustillo |first=Ximena |website=[[Politico]] |date=November 3, 2020 |access-date=September 24, 2026}}</ref>
+
+== Republican primary ==
+=== Candidates ===
+==== Nominee ====
+*[[Roger Marshall]], incumbent U.S. senator (2021–present)<ref>{{cite web|url=https://fox4kc.com/politics/your-local-election-headquarters/senator-roger-marshall-plans-to-run-for-reelection/|title=Senator Roger Marshall plans to run for reelection|publisher=[[WDAF-TV]]|author=Ketz, Jonathan|date=July 11, 2025|access-date=July 29, 2025}}</ref>
+
+==== Eliminated in primary ====
+*Arch Naramore, candidate for U.S. Senate in [[2004 United States Senate election in Kansas|2004]]<ref>{{Cite web|url=https://kansasreflector.com/2026/07/06/ill-feel-better-about-myself-kansas-republican-makes-second-u-s-senate-run-against-an-incumbent/ |title='I'll feel better about myself': Kansas Republican makes second U.S. Senate run against an incumbent |last=Carpenter |first=Tim |work=[[Kansas Reflector]] |date=July 6, 2026 |access-date=September 24, 2026}}</ref> ''(endorsed Hamilton in general election)''<ref name="Naramore Endorse">{{Cite news |url=https://www.nytimes.com/live/2026/09/24/us/elections-midterms/205c1ae1-5cfc-5802-ab1c-334b2650b519 |title=Arch Naramore, a centrist Republican who staged a long-shot primary challenge against Senator Roger Marshall of Kansas, said today that he was endorsing Marshall's Democratic opponent, the Rev. Adam Hamilton. |last=Balk |first=Tim |work=[[The New York Times]] |date=September 24, 2026 |access-date=September 24, 2026}}</ref>
+
+=== Endorsements ===
+{{Endorsements box
+|title=Roger Marshall
+|list=
+;Executive branch officials
+*[[Donald Trump]], [[president of the United States]] (2017–2021, 2025–present)<ref>{{Cite web |date=2025-07-09 |title=Trump endorses Kansas politicians Roger Marshall, Derek Schmidt, Tracey Mann|url=https://www.cjonline.com/story/news/politics/elections/2025/07/22/donald-trump-endorses-kansas-gop-congressmen-for-reelection-in-2026/85307235007/ |access-date=2025-09-13 |website=[[The Topeka Capital-Journal]] |language=en-US}}</ref>
+
+;Organizations
+*[[AIPAC]]<ref>{{Cite web |title=- AIPAC Political Portal |url=https://candidates.aipacpac.org/page/featured |access-date=2025-04-28 |website=candidates.aipacpac.org |archive-date=July 29, 2022 |archive-url=https://web.archive.org/web/20220729053435/https://candidates.aipacpac.org/page/featured |url-status=live }}</ref>
+*[[Senate Conservatives Fund]]<ref>{{cite web |title=Senate Conservatives Fund 2026 Endorsements |url=https://www.senateconservatives.com/#candidates |website=Senate Conservatives Fund |access-date=19 January 2026}}</ref>
+}}
+
+===Fundraising===
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of March 31, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|Roger Marshall (R)
+|$5,528,510
+|$957,210
+|$4,781,258
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC1">{{cite web |title=2026 Election United States Senate - Kansas |url=https://www.fec.gov/data/elections/senate/KS/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=February 6, 2026}}</ref></small>
+|}
+
+===Results===
+[[File:2026 United States Senate Republican primary election in Kansas results map by county.svg|thumb|250px|Primary results by county:
+{{collapsible list
+| title = {{legend|#E27F7F|Marshall}}
+|{{legend|#D75D5D|60–70%}}
+|{{legend|#D72F30|70–80%}}
+|{{legend|#C21B18|80–90%}}
+|{{legend|#A80000|>90%}}
+}}
+]]
+{{Election box begin no change|title=Republican primary results}}
+{{Election box winning candidate with party link no change|candidate=[[Roger Marshall]] (incumbent)|party=Republican Party (United States)|votes=270,632|percentage=79.9}}
+{{Election box candidate with party link no change|candidate=Arch Naramore|party=Republican Party (United States)|votes=68,100|percentage=20.1}}
+{{Election box total no change|votes=338,732|percentage=100.0}}
+{{Election box end}}
+
+== Democratic primary ==
+=== Candidates ===
+==== Nominee ====
+*[[Adam Hamilton (pastor)|Adam Hamilton]], pastor and founder of the [[United Methodist Church of the Resurrection|Church of the Resurrection]]<ref>{{cite web |last1=Kelly |first1=Matthew |last2=Bayless |first2=Kacen |title=Popular KC-area pastor launches challenge to Roger Marshall - with a twist |url=https://www.kansascity.com/news/politics-government/article315578310.html |website=The Star |publisher=McClatchy Media |access-date=30 April 2026}}</ref> ''(initially formed exploratory committee as an independent)''<ref>{{cite news |last2=Bayless |first2=Kacen |last1=Kelly |first1=Matthew |title=Popular KC-area pastor considers independent Senate run to unseat Roger Marshall |url=https://www.kansascity.com/news/politics-government/article314837324.html |access-date=February 27, 2026 |work=[[Kansas City Star]] |date=February 27, 2026}}</ref>
+
+==== Eliminated in primary ====
+*Damon Anderson, business owner<ref name=":0">{{Cite web |title=Kansas Secretary of State {{!}} Elections {{!}} Candidate Lists |url=https://www.sos.ks.gov/elections/elections_upcoming_candidate.aspx |access-date=2026-04-14 |website=www.sos.ks.gov}}</ref>
+*Christy Davis, former Kansas director for [[USDA Rural Development]] and candidate for [[Kansas's 1st congressional district]] in [[2020 United States House of Representatives elections in Kansas#District 1|2020]]<ref>{{Cite web |last=Carpenter |first=Tim |date=2025-08-18 |title=Democratic U.S. Senate candidate eager to broaden Kansas voice in D.C. politics |url=https://kansasreflector.com/2025/08/18/democratic-u-s-senate-candidate-eager-to-broaden-kansas-voice-in-d-c-politics/ |access-date=2025-08-19 |website=[[Kansas Reflector]] |language=en-US}}</ref>
+*Jason Hart, former federal prosecutor<ref>{{cite news |last1=Alatidd |first1=Jason |title=Kansas prosecutor Jason Hart joins Senate race, eyes Trump and Marshall |url=https://www.cjonline.com/story/news/politics/elections/congressional/2026/03/11/former-federal-prosecutor-joins-senate-primary-to-face-roger-marshall/89066799007/ |access-date=March 17, 2026 |work=Topeka Capital-Journal |date=March 11, 2026}}</ref><ref name=":0" />
+*Kevin Latz, [[Orthopedic surgery|pediatric orthopedic surgeon]]<ref name=":0" />
+*Erik Murray, commercial real estate developer<ref>{{cite web |last1=Cooper |first1=Brad |title=KCK developer announces for U.S. Senate as Democratic primary grows to five |url=https://sunflowerstatejournal.com/kck-developer-announces-for-u-s-senate-as-democratic-primary-grows-to-five/ |access-date=December 3, 2025 |work=Sunflower State Journal |date=December 3, 2025}}</ref>
+*Anne Parelkar, attorney<ref name=broken>{{cite web|url=https://kansasreflector.com/2025/08/25/democratic-immigration-lawyer-wants-to-fix-broken-system-with-run-for-u-s-senate-in-kansas/|title=Democratic immigration lawyer wants to fix broken system with run for U.S. Senate in Kansas|last=Kaminski|first=Anna|date=August 25, 2025|access-date=August 27, 2025|website=[[States Newsroom|Kansas Reflector]]}}</ref>
+*[[Patrick Schmidt (politician)|Patrick Schmidt]], state senator from the 19th district (2025–present) and nominee for [[Kansas's 2nd congressional district]] in [[2022 United States House of Representatives elections in Kansas#District 2|2022]]<ref>{{cite news |last1=Alatidd |first1=Jason |title=Topeka Democrat joins US Senate primary to challenge Roger Marshall |url=https://www.cjonline.com/story/news/politics/elections/congressional/2026/02/04/topeka-democrat-patrick-schmidt-joins-senate-race-vs-roger-marshall/88507396007/ |access-date=February 4, 2026 |work=The Topeka Capital-Journal |date=February 4, 2026}}</ref>
+*Mike Soetaert, art gallery owner and perennial candidate<ref name=broken/><ref name=":0" />
+*Sandy Spidel Neumann, former financial services executive<ref>{{cite web |last1=Cooper |first1=Brad |title=Democrat launches bid for U.S. Senate, expands party primary to four |url=https://sunflowerstatejournal.com/democrat-launches-bid-for-u-s-senate-expands-party-primary-to-four/ |access-date=October 16, 2025 |work=Sunflower State Journal |date=October 16, 2025}}</ref>
+*Noah Taylor, counterintelligence specialist<ref>{{cite news |last1=Saldanha-Olson |first1=Stacey |title=Afghanistan veteran Noah Taylor enters U.S. Senate race for Kansas |url=https://www.cjonline.com/story/news/state/2026/03/17/afghanistan-veteran-noah-taylor-runs-for-u-s-senate-from-kansas/89184140007/ |access-date=March 17, 2026 |work=[[The Topeka Capital-Journal]] |date=March 17, 2026}}</ref>
+
+==== Declined ====
+*[[Cindy Holscher]], [[Kansas Senate|state senator]] from the [[Kansas's 8th Senate district|8th district]] (2021–present)<ref>{{cite news |work=State Affairs |access-date=July 3, 2025 |title=Holscher eyes run for governor or US Senate in 2026 |date=May 13, 2025 |author=Resnick, Matt |url=https://pro.stateaffairs.com/ks/elections/holscher-kansas-governor-us-senate}}</ref> ''([[2026 Kansas gubernatorial election|running for governor]])''<ref>{{cite web|url=https://www.kansascity.com/news/politics-government/article308411560.html|title=This Overland Park Democrat is launching a campaign for Kansas governor|last=Shorman|first=Jonathan|date=June 12, 2025|access-date=June 12, 2025|website=[[The Kansas City Star]]}}</ref>
+*[[Laura Kelly]], [[governor of Kansas]] (2019–present)<ref>{{Cite web |title=Kansas Gov. Laura Kelly says she's 'absolutely not' running for another political office |url=https://www.kcur.org/podcast/up-to-date/2024-11-23/kansas-gov-laura-kelly-says-shes-absolutely-not-running-for-another-political-office |access-date=December 1, 2024 |date=November 23, 2024 |website=[[KCUR-FM]] |author1=Kraske, Steve |author2=Marvine, Josh |language=en}}</ref>
+*[[Sharice Davids]], [[U.S. representative]] from [[Kansas's 3rd congressional district]] (2019–present) ''([[2026 United States House of Representatives elections in Kansas#District 3|running for re-election]])''<ref>{{Cite web |last=Carpenter |first=Tim |date=2026-05-11 |title=Kansas Democrat makes reelection campaign for U.S. House seat official • Kansas Reflector |url=https://kansasreflector.com/2026/05/11/kansas-democrat-makes-reelection-campaign-for-u-s-house-seat-official/ |access-date=2026-05-12 |website=Kansas Reflector |language=en-US}}</ref>
+
+===Endorsements===
+{{Endorsements box
+| title= Adam Hamilton
+| list=
+;Statewide officials
+*[[Kathleen Sebelius]], former [[governor of Kansas]] (2003–2009)<ref>{{Cite web|last=Alatidd|first=Jason|date=July 28, 2026|title=Running in Democratic primary, Adam Hamilton courts Republican voters|url=https://www.usatoday.com/story/news/politics/elections/2026/07/28/backing-adam-hamilton-kathleen-sebelius-says-dems-need-gop-voters/91011888007/|website=[[USA Today]]|access-date=August 13, 2026}}</ref>
+
+;Local officials
+*[[Quinton Lucas]], [[mayor of Kansas City, Missouri]] (2019–present)<ref>{{Cite web |date=2026-07-29 |title=🎥KCMO mayor gives an endorsement in Kan. U.S. Senate race |url=https://hutchpost.com/posts/f1fe2efb-a08e-4a2f-9b56-611e0db3aa2a |access-date=2026-09-18 |website=Hutch Post}}</ref>
+}}
+
+===Fundraising===
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of June 30, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|Christy Davis (D)
+|$80,478
+|$38,100
+|$85,910
+|-
+|{{party shading/Democratic}}|Adam Hamilton (D)
+|$3,678,710
+|$1,081,012
+|$2,597,697
+|-
+|{{party shading/Democratic}}|Jason Hart (D)
+|$51,127
+|$32,910
+|$18,216
+|-
+|{{party shading/Democratic}}|Kevin Latz (D)
+|$37,759
+|$8,696
+|$54,385
+|-
+|{{party shading/Democratic}}|Erik Murray (D)
+|$209,762
+|$199,781
+|$9,980
+|-
+|{{party shading/Democratic}}|Lois Parelkar (D)
+|$32,140
+|$28,839
+|$3,301
+|-
+|{{party shading/Democratic}}|Patrick Schmidt (D)
+|$244,347
+|$219,434
+|$24,912
+|-
+|{{party shading/Democratic}}|Sandy Spidel Neumann (D)
+|$309,765
+|$234,887
+|$74,877
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC1"/></small>
+|}
+
+=== Polling ===
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- style="vertical-align:bottom"
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"|Key:<br />A – all adults<br />RV – registered voters<br />LV – likely voters<br />V – unclear}}
+! Margin<br />{{nowrap|of error}}
+! style="width:75px;" |Christy<br />Davis
+! style="width:75px;" |Adam<br />Hamilton
+! style="width:75px;" |Patrick<br />Schmidt
+!Noah Taylor
+! Other
+! Undecided
+|-
+|style="text-align: left;"|GBAO (D)<ref>{{Cite web|date=July 20, 2026|title=Adam Hamilton Best-Known, Most Popular, & Leading The Primary|url=https://www.documentcloud.org/documents/28504224-ks-sen-d-gbao-for-adam-hamilton/|access-date=July 22, 2026|publisher=GBAO |via=[[DocumentCloud]]}}</ref>{{Efn-ua|Poll sponsored by Hamilton's campaign}}
+|July 13–16, 2026
+|600 (LV)
+|±&nbsp;4.0%
+|13%
+|{{party shading/Democratic}}|'''30%'''
+|5%
+|10%
+|7%{{Efn|Erik Murray with 2%; Jason Hart, Kevin Latz, Sandy Neumann, Anne Parelkar and Mike Soetaert with 1%; Damon Anderson with 0%}}
+| {{party shading/Undecided}} |'''35%'''
+|-
+|style="text-align: left;"|[[Change Research]] (D)<ref>{{Cite web|last=Anderson|first=Jason|date=June 19, 2026|title=We Paid for a Poll. Here's What It Found.|url=https://capitolbee.com/p/we-paid-for-a-poll-here-s-what-it-found|access-date=June 22, 2026|publisher=Capitol Bee}}</ref>{{Efn-ua|Poll commissioned by Civic Clarity}}
+|June 11–15, 2026
+|1,022 (LV)
+|±&nbsp;3.0%
+|10%
+|{{party shading/Democratic}}|'''18%'''
+|7%
+|3%
+|6%{{Efn|Erik Murray with 2%, Sandy Neumann with 1%, Anne Parelkar with 3%}}
+| {{party shading/Undecided}} |'''55%'''
+|}
+
+=== Results ===
+[[File:2026 United States Senate Democratic primary election in Kansas results map by county.svg|thumb|250px|Primary results by county:
+{{collapsible list
+| title = {{legend|#7996E2|Hamilton}}
+|{{legend|#DFEEFF|20–30%}}
+|{{legend|#BDD3FF|30–40%}}
+|{{legend|#A5B0FF|40–50%}}
+|{{legend|#7996E2|50–60%}}
+|{{legend|#6674DE|60–70%}}
+}}
+{{collapsible list
+| title = {{legend|#51C2C2|Davis}}
+|{{legend|#D0F9F9|20–30%}}
+|{{legend|#ACF2F2|30–40%}}
+|{{legend|#7DDDDD|40–50%}}
+|{{legend|#008080|80–90%}}
+}}
+{{collapsible list
+| title = {{legend|#FF9A50|Taylor}}
+|{{legend|#FFEFDF|10–20%}}
+|{{legend|#FFDAC1|20–30%}}
+|{{legend|#FFCCA9|30–40%}}
+|{{legend|#FFB580|40–50%}}
+|{{legend|#FF9A50|50–60%}}
+}}
+{{collapsible list
+| title = {{legend|#F1C92A|Murray}}
+|{{legend|#FFEEAA|30–40%}}
+}}
+{{collapsible list
+| title = {{legend|#5FD35F|Schmidt}}
+|{{legend|#C0F0C0|20–30%}}
+}}
+{{collapsible list
+| title = {{legend|#AE8BB1|Tie}}
+|{{legend|#EFE7F5|20–30%}}
+|{{legend|#DECDE6|30–40%}}
+}}
+]]
+{{Election box begin no change|title=Democratic primary results}}
+{{Election box winning candidate with party link no change|candidate=[[Adam Hamilton (pastor)|Adam Hamilton]]|party=Democratic Party (United States)|votes=77,607|percentage=34.6}}
+{{Election box candidate with party link no change|candidate=Christy Davis|party=Democratic Party (United States)|votes=31,857|percentage=14.2}}
+{{Election box candidate with party link no change|candidate=Noah Taylor|party=Democratic Party (United States)|votes=30,362|percentage=13.6}}
+{{Election box candidate with party link no change|candidate=Anne Parelkar|party=Democratic Party (United States)|votes=16,836|percentage=7.5}}
+{{Election box candidate with party link no change|candidate=Erik Murray|party=Democratic Party (United States)|votes=15,177|percentage=6.8}}
+{{Election box candidate with party link no change|candidate=[[Patrick Schmidt (politician)|Patrick Schmidt]]|party=Democratic Party (United States)|votes=13,403|percentage=6.0}}
+{{Election box candidate with party link no change|candidate=Sandy Spidel Neumann|party=Democratic Party (United States)|votes=12,717|percentage=5.7}}
+{{Election box candidate with party link no change|candidate=Jason Hart|party=Democratic Party (United States)|votes=12,412|percentage=5.5}}
+{{Election box candidate with party link no change|candidate=Damon Anderson|party=Democratic Party (United States)|votes=5,879|percentage=2.6}}
+{{Election box candidate with party link no change|candidate=Kevin Latz|party=Democratic Party (United States)|votes=4,110|percentage=1.8}}
+{{Election box candidate with party link no change|candidate=Michael Soetaert|party=Democratic Party (United States)|votes=3,716|percentage=1.7}}
+{{Election box total no change|votes=224,076|percentage=100.0}}
+{{Election box end}}
+
+== Third-party and independent candidates ==
+=== Nominee ===
+*David C. Graham ([[Libertarian Party (United States)|Libertarian]])<ref>{{cite web|title=Candidates for the 2026 General|url=https://sos.ks.gov/elections/elections_upcoming_candidate.aspx|publisher=Kansas Secretary of State|access-date=September 18, 2026|archive-url=https://web.archive.org/web/20260501151638/https://www.sos.ks.gov/elections/elections_upcoming_candidate.aspx|archive-date=May 1, 2026|url-status=dead}}</ref>
+
+== General election ==
+One issue raised during the campaign was Roger Marshall's history of suing over 700 of his patients for unpaid bills while he worked as an [[OB/GYN]] in Kansas. The ''New York Times'' reported that in at least 81 cases, patients were arrested at the request of Marshall's lawyers for failure to appear in court for their unpaid debts. There were 13 additional cases where an arrest warrant was requested, but the outcome is unknown. Most of the patients interviewed by the ''New York Times'' who were sued by Marshall said they lived paycheck-to-paycheck and did not have the money to pay the bills.<ref>{{Cite news |last=Kliff |first=Sarah |date=2026-09-08 |title=A Doctor Sued 700 Patients for Debts; 81 Were Arrested. Now He's a Senator. |url=https://www.nytimes.com/2026/09/08/us/politics/roger-marshall-obgyn-doctor-debts.html |access-date=2026-09-29 |work=The New York Times |language=en-US |issn=0362-4331}}</ref> Hamilton produced an advertisement featuring a woman who said she was arrested for missing a $50 payment to Marshall. The Marshall campaign sent a letter alleging the ad was "defamatory" because the woman was arrested for failing to appear in court over larger debts to him, rather than for missing one bill, and that she was subject to several other court proceedings.<ref>{{Cite web |last=Kaminski |first=Anna |date=2026-09-28 |title=Roger Marshall alleges defamation in new ad about former Kansas patient arrested while in debt • Kansas Reflector |url=https://kansasreflector.com/2026/09/28/roger-marshall-alleges-defamation-in-new-ad-about-former-kansas-patient-arrested-while-in-debt/ |access-date=2026-09-29 |website=Kansas Reflector |language=en-US}}</ref><ref>{{Cite news |last=Hudnall |first=David |date=September 29, 2026 |title=With new defamation threat, Roger Marshall is making a bad story worse |url=https://www.kansascity.com/opinion/article317419376.html |work=Kansas City Star}}</ref><ref>{{Cite web |last=Alatidd |first=Jason |title=What to know about Roger Marshall patient featured in Adam Hamilton ad |url=https://www.cjonline.com/story/news/politics/elections/congressional/2026/09/29/roger-marshall-disputes-adam-hamilton-political-ad-featuring-patient/91986984007/ |access-date=2026-09-29 |website=The Topeka Capital-Journal |language=en-US}}</ref>
+
+=== Predictions ===
+{| class="wikitable" style=text-align:center
+!Source
+!Ranking
+!As of
+|-
+|align="left"|[[CBS News]]<ref>{{Cite news |title=2026 midterm election races to watch |url=https://www.cbsnews.com/news/2026-midterm-election-races/ |last1=Hubbard |first1=Kaia |last2=Linton |first2=Caroline |last3=Yilek |first3=Caitlin |last4=Walsh |first4=Joe |work=[[CBS News]] |orig-date=September 13, 2026 |date=October 6, 2026 |access-date=October 7, 2026}}</ref>
+|{{USRaceRating|Lean|R}}
+|October 6, 2026
+|-
+|align="left"|''[[The Cook Political Report]]''<ref>{{Cite web|title=2026 CPR Senate Race Ratings|url=https://www.cookpolitical.com/ratings/senate-race-ratings|access-date=October 7, 2026|website=[[Cook Political Report]]}}</ref>
+|{{USRaceRating|Tossup}}
+|October 6, 2026
+|-
+|align="left"|[[Decision Desk HQ]]<ref>{{cite web|title=2026 Senate Ratings|url=https://votes.decisiondeskhq.com/forecast/2026/senate|url-access=registration|publisher=[[Decision Desk HQ]]|access-date=October 7, 2026}}</ref>
+|{{USRaceRating|Lean|R}}
+|October 7, 2026
+|-
+|align="left"|''[[The Economist]]''<ref>{{Cite news|title=2026 Senate Forecast|url=https://www.economist.com/interactive/2026/us-midterms/prediction-model/senate/|access-date=October 7, 2026|newspaper=[[The Economist]]}}</ref>{{efn|''The Economist''{{'}}s prediction model uses unconventional terminology. For the purpose of equivalency, their "Very Likely" ratings are formatted as a "Likely" rating while "Likely" ratings are formatted as a "Lean" rating.}}
+|{{USRaceRating|Tossup}}
+|October 7, 2026
+|-
+|align="left"|[[FiftyPlusOne]]<ref>{{Cite web |title=2026 Congressional Forecast |url=https://fiftyplusone.news/forecast/senate |access-date=October 7, 2026 |website=[[FiftyPlusOne]]}}</ref>
+|{{USRaceRating|Tossup}}
+|October 7, 2026
+|-
+|align="left"|[[Fox News]]<ref>{{Cite news |last=Numa |first=Rémy |title=Fox News Power Rankings: The biggest surprises come after October |url=https://www.foxnews.com/politics/fox-news-power-rankings-the-biggest-surprises-come-after-october |work=[[Fox News]] |date=October 6, 2026 |access-date=October 7, 2026}}</ref>
+|{{USRaceRating|Lean|R}}
+|October 6, 2026
+|-
+|align="left"|[[MS NOW]]<ref>{{Cite news |url=https://www.ms.now/news/2026-senate-ratings-ms-nows-races-to-watch |title=2026 Senate ratings: MS NOW's races to watch |last1=Khanna |first1=Kabir |last2=Thomas |first2=Shawna |orig-date=August 19, 2026 |work=[[MS NOW]] |date=September 16, 2026 |access-date=October 7, 2026}}</ref>
+|{{USRaceRating|Likely|R}}
+|September 16, 2026
+|-
+|align="left"|''[[Inside Elections]]''<ref>{{Cite web|title=Senate Ratings|url=https://www.insideelections.com/ratings/senate|access-date=October 7, 2026 |website=[[Inside Elections]]}}</ref>
+|{{USRaceRating|Likely|R}}
+|October 1, 2026
+|-
+|align="left"|[[RealClearPolitics]]<ref>{{Cite web|url=https://www.realclearpolling.com/maps/senate/2026/toss-up|title=Battle for the Senate 2026|access-date=October 7, 2026|website=[[RealClearPolitics]]}}</ref>
+|{{USRaceRating|Tossup}}
+|October 5, 2026
+|-
+|align="left"|''[[Sabato's Crystal Ball]]''<ref>{{cite web|title=2026 Senate ratings|url=https://centerforpolitics.org/crystalball/2026-senate/|website=[[Sabato's Crystal Ball]]|access-date=October 7, 2026}}</ref>
+|{{USRaceRating|Lean|R}}
+|October 6, 2026
+|-
+|align="left"|''[[Silver Bulletin]]''<ref name="Silver">{{Cite web |url=https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model |title=FLIPR 2026 midterm election forecast |last1=Silver |first1=Nate |author1-link=Nate Silver |last2=McKown-Dawson |first2=Eli |website=[[Silver Bulletin]] |via=[[Substack]] |date=October 7, 2026 |orig-date=August 11, 2026 |access-date=October 7, 2026 |url-access=subscription}}</ref>
+|{{USRaceRating|Tossup}}
+|October 7, 2026
+|-
+|align="left"|[[Split Ticket (website)|Split Ticket]]<ref>{{Cite magazine |title=Split Ticket 2026 Midterms Model |url=https://www.theargumentmag.com/p/split-ticket-2026-midterms-model |magazine=[[The Argument (magazine)|The Argument]] |via=[[Substack]] |access-date=October 7, 2026}}</ref>
+|{{USRaceRating|Lean|R}}
+|October 7, 2026
+|}
+
+===Post-primary endorsements===
+{{Endorsements box
+| title=Roger Marshall (R)
+| list=
+;Executive branch officials
+* [[JD Vance]], [[vice president of the United States]] (2025–present)<ref>{{cite web |title=🎥Vice President campaigns in Kansas for Roger Marshall |url=https://greatbendpost.com/posts/ddd571b9-ead7-4796-b913-3a722f3dc2f2|website=Great Bend Post |date=September 15, 2026 |access-date=September 24, 2026}}</ref>
+
+;Individuals
+* [[Sean O'Brien (labor leader)|Sean O'Brien]], general president of the [[International Brotherhood of Teamsters]]<ref name="teamsters"/>
+
+;Labor unions
+* [[Brotherhood of Locomotive Engineers and Trainmen]]<ref>{{cite web |title=BLET National President Wallace and First Vice President Best meet with Senator Roger Marshall |url=https://blet.org/news/blet-national-president-wallace-and-first-vice-president-best-meet-with-senator-roger-marshall/ |website=[[Brotherhood Of Locomotive Engineers and Trainmen]] |date=August 4, 2026 |access-date=September 24, 2026}}</ref>
+*[[International Association of Sheet Metal, Air, Rail and Transportation Workers|SMART]] ''(co-endorsement with Hamilton)''<ref name="SMART" />
+* [[International Brotherhood of Teamsters]]<ref name="teamsters">{{cite web |title=Powerful union backs Marshall in Kansas U.S. Senate showdown |url=https://salinapost.com/posts/edbf06f5-7a1c-4d58-86d7-e2de0e0c0365|website=Salina Post |date=September 4, 2026 |access-date=September 24, 2026}}</ref>
+
+;Organizations
+* [[Conservative Political Action Conference]]<ref>{{cite web |title=CPAC endorses Roger Marshall for U.S. Senate |url=https://www.facebook.com/CPAC/posts/cpac-endorses-roger-marshall-for-us-senate-as-a-physician-roger-has-consistently/1539970938164528/ |website=[[Facebook]] |date=September 19, 2026 |access-date=September 24, 2026}}</ref>
+* [[Family Policy Alliance of Kansas|Kansas Family Voice]]<ref>{{cite web |title=Endorsements & Voter Guide |url=https://kansasfamilyvoice.com/endorsements/ |website=Kansas Family Voice |access-date=September 24, 2026}}</ref>
+*[[American Farm Bureau Federation|Kansas Farm Bureau]]<ref name="KFB">{{cite web |title=KFB's VOTE FBF endorses Sen. Marshall for U.S. Senate |url=https://www.kfb.org/Article/KFBs-VOTE-FBF-endorses-Sen-Marshall-for-US-Senate |website=Kansas Farm Bureau |access-date=16 September 2026 |date=August 26, 2026}}</ref>
+* [[National Rifle Association]]<ref>{{cite web |title=Kansas |url=https://www.nrapvf.org/grades/kansas/ |website=[[NRA Political Victory Fund]] |access-date=September 24, 2026}}</ref>
+}}
+{{Endorsements box
+| title=Adam Hamilton (D)
+| list=
+;U.S. senators
+*[[Tim Kaine]], [[Virginia]] (2013–present)<ref>{{Cite web |title=Kansas live primary results: Rev. Adam Hamilton will face GOP Sen. Roger Marshall |url=https://abcnews.com/Politics/kansas-2026-live-primary-election-results/story?id=134596534 |access-date=2026-09-18 |website=ABC News |language=en}}</ref>
+
+;Statewide officials
+*[[John W. Carlin]], former [[governor of Kansas]] (1979–1987)<ref name="governorsforhamilton">{{Cite web |last=AOL |date=2026-10-03 |title=Sen. Roger Marshall has an ex-governors problem in reelection campaign {{!}} Opinion - AOL |url=https://www.aol.com/articles/sen-roger-marshall-ex-governors-111000000.html |access-date=2026-10-06 |website=AOL.com |language=en}}</ref>
+*[[Bill Graves]], former [[governor of Kansas]] (1995–2003) ''(Republican)''<ref>{{Cite news |url=https://www.ksn.com/news/politics/former-kansas-governor-endorses-adam-hamilton-in-us-senate-race/ |title=Former Republican Kansas governor endorses Adam Hamilton in US Senate race |last=Newton |first=Ryan |work=[[KSNW]] |date=September 9, 2026 |access-date=September 9, 2026}}</ref>
+*[[Mike Hayden]], former [[governor of Kansas]] (1987–1991) ''(Republican)''<ref>{{cite news |last=Hayden |first=Mike |date=October 2, 2026 |title=2nd Republican former Kansas gov. backs Democrat Hamilton for Senate |url=https://amp.kansas.com/opinion/guest-commentary/article317456793.html |work=[[The Wichita Eagle]] |access-date=October 2, 2026}}</ref>
+*[[Laura Kelly]], [[governor of Kansas]] (2019–present)<ref name="governorsforhamilton"/>
+*[[Mark Parkinson]], former [[governor of Kansas]] (2009–2011)<ref name="governorsforhamilton"/>
+
+;Individuals
+*Arch Naramore, primary candidate for this seat ''(Republican)''<ref name="Naramore Endorse"/>
+
+;Labor unions
+*[[American Federation of Government Employees]]<ref name="AFGE">{{cite web |title=Largest Federal Employee Union Endorses Kansas' Adam Hamilton for U.S. Senate and Cindy Holscher for Governor |url=https://www.afge.org/publication/largest-federal-employee-union-endorses-kansas-adam-hamilton-for-us-senate-and-cindy-holscher-for-governor/ |website=[[American Federation of Government Employees]] |access-date=16 September 2026 |date=September 9, 2026}}</ref>
+*Kansas [[AFL-CIO]]<ref name="HamiltonBVG"/>
+*[[International Association of Sheet Metal, Air, Rail and Transportation Workers|SMART]] ''(co-endorsement with Marshall)''<ref name="SMART">{{cite web |last1=Cooper |first1=Brad |title=Transportation workers dole out endorsements; back Marshall and Hamilton in Senate race |url=https://sunflowerstatejournal.com/transportation-workers-dole-out-endorsements-back-marshall-and-hamilton-in-senate-race/ |website=Sunflower State Journal |access-date=16 September 2026 |date=August 17, 2026}}</ref>
+
+;Organizations
+*[[Council on American–Islamic Relations|CAIR Action]]<ref name="HamiltonBVG"/>
+*[[Jewish Democratic Council of America]]<ref>{{cite web |title=Jewish Dems Endorsed Candidates |url=https://jewishdems.org/endorsements/ |website=Jewish Democratic Council of America |access-date=September 25, 2026}}</ref>
+
+;Political parties
+*[[Kansas Democratic Party]]<ref name="HamiltonBVG"/>
+
+;Newspapers
+*''[[The Kansas City Star]]''<ref name="HamiltonBVG">{{Cite web |title=Endorsements for Adam Hamilton - Kansas Democratic Party Candidate |url=https://bluevoterguide.org/KS/candidate_Adam_Hamilton/761328 |access-date=2026-09-18 |website=bluevoterguide.org |language=en}}</ref>
+}}
+
+===Fundraising===
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of July 15, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|Roger Marshall (R)
+|$6,205,622
+|$1,027,503
+|$5,388,078
+|-
+|{{party shading/Democratic}}|Adam Hamilton (D)
+|$4,169,078
+|$2,438,457
+|$1,730,621
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC1" /></small>
+|}
+
+===Debates===
+{| class="wikitable" style="text-align:center;"
+|+ 2026 United States Senate election in Kansas debates
+|-
+! scope="col" | {{abbr|No.|Number}}
+! scope="col" | Date
+! scope="col" | Host
+! scope="col" | Moderator
+! scope="col" | Link
+! scope="col"| <small>[[Republican Party (United States)|Republican]]</small>
+! scope="col"| <small>[[Democratic Party (United States)|Democratic]]</small>
+|-
+! colspan="5" rowspan="2" |Key:<br />{{Colors|black|#90ff90|&nbsp;P&nbsp;}} <small>Participant&nbsp;</small> {{Colors|black|#FFFFDD|&nbsp;A&nbsp;}} <small>Absent&nbsp;</small> {{Colors|black|#ff9090|&nbsp;N&nbsp;}} <small>Not invited&nbsp;</small> {{Colors|black|#CCFFCC|&nbsp;I&nbsp;}} <small>Invited {{color box|#f0e68c|W}} Withdrawn</small>
+! scope="col" style="background:{{party color|Republican Party (US)}}"|
+! scope="col" style="background:{{party color|Democratic Party (US)}}"|
+|-
+! scope="col" | [[Roger Marshall]]
+! scope="col" | [[Adam Hamilton (pastor)|Adam Hamilton]]
+|-
+!1
+| style="white-space:nowrap;" | September 12, 2026<ref>{{Cite web |url=https://www.kwch.com/2026/09/10/candidates-kansas-governor-us-senate-debate-live-kansas-state-fair/ |title=Candidates for Kansas governor, U.S. Senate debate at Kansas State Fair |last=Smith |first=Angela |work=[[KWCH-DT]] |date=September 10, 2026 |access-date=September 13, 2026}}</ref>
+| style="white-space:nowrap;" | [[WIBW (AM)|WIBW]]<br />Kansas Radio Networks
+| style="white-space:nowrap;" | Michael Schwanke
+| style="white-space:nowrap;" | [https://youtube.com/watch?v=pkv7_qEJltc YouTube]
+| {{D-P|'''P'''}}
+| {{D-P|'''P'''}}
+|}
+
+===Polling===
+;Aggregate polls
+{| class="wikitable sortable" style="text-align:center;font-size:90%;line-height:17px"
+!Source of poll<br>aggregation
+! Dates<br />administered
+! Dates<br />updated
+! style="width:100px;" | Roger<br />Marshall (R)
+! style="width:100px;" | Adam<br />Hamilton (D)
+! style="width:100px;" |Other/<br />Undecided{{Efn|name=calculated|Calculated by taking the difference of 100% and all other candidates combined.}}
+! Margin
+|-
+|[[270toWin]]<ref>{{cite web |title=2026 Polls: Kansas Senate |url=https://www.270towin.com/2026-senate-polls/kansas |access-date=October 3, 2026 |website=[[270toWin]]}}</ref>
+|September 8 – October 1, 2026<!--Remember that dates listed on 270toWin are poll *publication dates*, not the dates when the polls were *administered*-->
+|October 3, 2026
+|{{party shading/Republican}} |'''45.8%'''
+|45.6%
+|8.6%
+|{{party shading/Republican}} |'''Marshall +0.2%'''
+|-
+|[[Decision Desk HQ]]<ref>{{cite web |url=https://votes.decisiondeskhq.com/races/2026-11-03/kansas-us-senate-general-election/polling |title=2026 Kansas Senate Polling |website=[[Decision Desk HQ]] |access-date=October 7, 2026}}</ref>
+|through October 4, 2026
+|October 7, 2026
+|45.1%
+|{{party shading/Democratic}} |'''46.0%'''
+|8.9%
+|{{party shading/Democratic}} |'''Hamilton +0.9%'''
+|-
+|[[FiftyPlusOne]]<ref>{{cite web |url=https://fiftyplusone.news/polls/senate/general/kansas |title=Kansas General Senate Election |website=[[FiftyPlusOne]] |access-date=October 7, 2026}}</ref>
+|through October 4, 2026
+|October 7, 2026
+|45.4%
+|{{party shading/Democratic}} |'''46.5%'''
+|8.1%
+|{{party shading/Democratic}} |'''Hamilton +1.1%'''
+|-
+|[[RealClearPolitics]]<ref>{{cite web |title=2026 Kansas Senate - Marshall vs. Hamilton |url=https://www.realclearpolling.com/polls/senate/general/2026/kansas/marshall-vs-hamilton |access-date=October 7, 2026 |website=[[RealClearPolitics]]}}</ref>
+|September 8 – October 4, 2026
+|October 6, 2026
+|{{party shading/Republican}} |'''45.6%'''
+|45.4%
+|9.0%
+|{{party shading/Republican}} |'''Marshall +0.2%'''
+|-
+|''[[Silver Bulletin]]''<ref name="Silver"/>
+|through October 4, 2026
+|October 6, 2026
+|45.1%
+|{{party shading/Democratic}} |'''46.5%'''
+|8.4%
+|{{party shading/Democratic}} |'''Hamilton +1.4%'''
+|-
+|colspan="3" |'''Average'''
+|45.4%
+|{{party shading/Democratic}} |'''46.0%'''
+|8.6%
+|{{party shading/Democratic}} |'''Hamilton +0.6%'''
+|}
+
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign="bottom"
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"}}
+! Margin<br />of error
+! style="width:100px;" | Roger<br />Marshall (R)
+! style="width:100px;" | Adam<br />Hamilton (D)
+! style="width:100px;" | David<br />Graham (L)
+! Undecided
+|-
+|rowspan="2" style="text-align: left;" |GBAO (D)<ref>{{cite web|url=https://static.politico.com/37/ce/d434188d4d2b83a7e3c9bcf2427c/gbao-hamilton-polling-memo-100626.pdf|title=Adam Hamilton Leads +5 In Kansas|publisher=GBAO|via=[[Politico]]|date=October 6, 2026|access-date=October 7, 2026}}</ref><ref>{{Cite tweet |last=Benson |first=Samuel |user=sambbenson |number=2107792740259914148 |title=New KS-SEN poll |date=October 7, 2026|access-date=October 7, 2026}}</ref>{{efn-ua|name=Hamilton}}
+|rowspan="2"|September 30 – October 4, 2026
+|rowspan="2"|600 (LV)
+|rowspan="2"|±{{nbsp}}4.0%
+|41%
+|{{Party shading/Democratic}} | '''46%'''
+|7%
+|{{sdash}}
+|-
+|44%
+|{{Party shading/Democratic}} | '''49%'''
+|{{sdash}}
+|{{sdash}}
+|-
+| style="text-align: left;" |[[YouGov]]<ref>{{Cite web |title=Kansas General Election 2026 – Likely Voters |url=https://d3nkl3psvxxpe9.cloudfront.net/documents/ttw_ks_20260921_lv.pdf |access-date=October 6, 2026 |website=YouGov}}</ref>
+|September 24 – October 4, 2026
+|2,255 (LV)
+|±{{nbsp}}3.2%
+|45%
+|{{Party shading/Democratic}} | '''48%'''
+|{{sdash}}
+|5%
+|-
+|rowspan="2" style="text-align: left;"|[[New York Times]]/[[Siena University (New York)|Siena University]]<ref>{{cite web |title=Toplines: September 2026 Times/Siena Poll of the Likely Electorate in Kansas |url=https://www.nytimes.com/interactive/2026/10/03/polls/times-siena-kansas-poll-toplines.html |website=[[NYTimes]] |date=October 2, 2026 |access-date=October 3, 2026}}</ref>
+|rowspan="2"|September 22–30, 2026
+|rowspan="2"|605 (LV)
+|rowspan="2"|±{{nbsp}}4.6%
+|'''45%'''
+|'''45%'''
+|5%
+|6%
+|-
+|{{party shading/Republican}}|'''47%'''
+|46%
+|{{sdash}}
+|7%
+|-
+|style="text-align:left;"|[[Trafalgar Group]] (R)<ref>{{Cite web |url=https://www.thetrafalgargroup.org/news/ks-senate-general-1001/ |title=KS Senate General Election Poll, Sept-Oct 2026 |work=[[Trafalgar Group]] |date=October 2, 2026 |access-date=October 2, 2026}}</ref>
+|September 29 – October 1, 2026
+|1,095 (LV)
+|±{{nbsp}}2.9%
+|'''44%'''
+|'''44%'''
+|2%
+|10%
+|-
+| style="text-align: left;" |Wedgewood Polls<ref>{{cite web |url=https://drive.google.com/file/d/1MxCohCdxLl3Gy2iIUBnctm4oPipKwjSg/view |title=2026 Kansas General Election – Senate & Governor: Toplines & Crosstabs |work=Wedgewood Polls |access-date=September 24, 2026}}</ref>
+|September 22–24, 2026
+|500 (LV)
+|±{{nbsp}}4.4%
+|48%
+|{{Party shading/Democratic}} | '''50%'''
+|2%
+|{{sdash}}
+|-
+| style="text-align: left;" |[[Emerson College]]<ref>{{Cite web |title=Kansas 2026: Hamilton and Marshall in Tight Senate Race; Masterson Leads for Governor |url=https://emersoncollegepolling.com/kansas-2026/ |access-date=September 18, 2026 |website=Emerson College |date=September 18, 2026 }}</ref>{{efn-ua|name=ICP|Poll sponsored by [[Nexstar Media Group]]}}
+|September 15–16, 2026
+|750 (LV)
+|±{{nbsp}}3.6%
+|43%
+|{{Party shading/Democratic}} | '''45%'''
+|4%
+|8%
+|-
+|rowspan="2" style="text-align: left;" |[[Global Strategy Group]] (D)<ref>{{cite web |url=https://static.politico.com/0f/52/d84e43ae45cf803b787113de4d91/daga-ks-interested-parties-memo-10-01-26.pdf |title=New Poll Results: Kansas Attorney General Race is Highly Competitive |work=[[Global Strategy Group]] |via=[[Politico]] |date=October 2, 2026 |access-date=October 2, 2026}}</ref>{{efn-ua|Poll sponsored by the [[Democratic Attorneys General Association]]}}
+|rowspan="2"|September 13–16, 2026
+|rowspan="2"|800 (LV)
+|rowspan="2"|±{{nbsp}}3.5%
+|47%
+|{{Party shading/Democratic}} | '''49%'''
+|{{sdash}}
+|{{sdash}}
+|-
+|43%
+|{{Party shading/Democratic}} | '''47%'''
+|5%
+|{{sdash}}
+|-
+|style="text-align:left;"|co/efficient (R)<ref>{{cite web |title=Kansas U.S. Senate {{!}} Senate Battlegrounds 2026 |url=https://battlegrounds.coefficient.org/ks/ |publisher=co/efficient |access-date=September 11, 2026}}</ref>
+|September 8–10, 2026
+|915 (LV)
+|±{{nbsp}}3.22%
+|{{Party shading/Republican}} | '''49%'''
+|44%
+|2%
+|5%
+|-
+|style="text-align: left;" |[[Global Strategy Group]] (D)<ref>{{cite tweet |last=Cohen |first=Max |user=maxpcohen |number=2095160008849625176 |title=Kansas polling watch: GSG poll finds Dem Adam Hamilton leading GOP Sen. Roger Marshall 44-43 and Libertarian candidate polling 5% of vote. |date=September 2, 2026 |access-date=September 2, 2026}}</ref>{{efn-ua|Poll sponsored by People over Politics Action}}
+|August 12–16, 2026
+|800 (LV)
+|±{{nbsp}}3.5%
+|43%
+|{{Party shading/Democratic}} | '''44%'''
+|5%
+|8%
+|-
+|style="text-align: left;" |[[Public Policy Polling]] (D)<ref>{{cite web |url=https://www.politico.com/newsletters/playbook/2026/08/12/newsoms-swing-and-miss-state-tour-01035105 |title=Newsom's swing (and miss) state tour |first1=Adam |last1=Wren |first2=Dasha |last2=Burns |first3=Will |last3=Steakin |website=[[Politico]] |date=August 12, 2026 |access-date=August 12, 2026}}</ref>{{efn-ua|name=SMP|Poll sponsored by Senate Majority PAC, which is focused on electing Democrats to the U.S. Senate}}
+|August 7–8, 2026
+|569 (LV)
+|{{sdash}}
+|{{Party shading/Republican}} | '''46%'''
+|45%
+|{{sdash}}
+|{{sdash}}
+|-
+|- style="background:lightyellow;"
+| style="border-right-style:hidden; background:lightyellow;" |
+| style="border-right-style:hidden; " | August 4, 2026
+| colspan="6"| Primary elections
+|-
+|style="text-align: left;" |GBAO (D)<ref>{{cite web|url=https://www.politico.com/f/?id=0000019f-dd02-d9b2-a7bf-ff9faeee0000|title=Adam Hamilton Within Reach Of Roger Marshall|work=GBAO|via=[[Politico]]|date=July 24, 2026|access-date=August 9, 2026}}</ref>{{efn-ua|name=Hamilton|Poll sponsored by Hamilton's campaign}}
+|July 8–13, 2026
+|600 (LV)
+|±{{nbsp}}4.0%
+|{{Party shading/Republican}} | '''47%'''
+|43%
+|{{sdash}}
+|10%
+|-
+|style="text-align:left;"|Tavern Research (D)<ref name=TavernJan28/>
+|January 26–28, 2026
+|1,013 (LV)
+|±{{nbsp}}4.0%
+|{{Party shading/Republican}} | '''54%'''
+|46%
+|{{sdash}}
+|—
+|}
+
+<!-- = = = don't edit the line below = = = -->
+{{hidden begin|titlestyle=background:#cff|title=Hypothetical polling|contentstyle=border:solid 1px silver; padding:8px; background:var(--background-color-base); color:var(--color-base);}}
+<!-- = = = don't edit the line above = = = -->
+
+'''Roger Marshall vs. Noah Taylor'''<br />
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign="bottom"
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"}}
+! Margin<br />of error
+! style="width:100px;" | Roger<br />Marshall (R)
+! style="width:100px;" | Noah<br />Taylor (D)
+! Undecided
+|-
+| style="text-align:left;"|Tavern Research (D)<ref name=TavernJan28/>
+|January 26–28, 2026
+|1,013 (LV)
+|±{{nbsp}}4.0%
+|{{Party shading/Republican}} | '''55%'''
+|45%
+| —
+|}
+
+'''Roger Marshall vs. Patrick Schmidt'''<br />
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign="bottom"
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"}}
+! Margin<br />of error
+! style="width:100px;" | Roger<br />Marshall (R)
+! style="width:100px;" | Patrick<br />Schmidt (D)
+! Undecided
+|-
+| style="text-align:left;"|GQR (D)<ref>{{cite tweet |last1=Rubashkin |first1=Jacob |title=New Kansas poll released by the Patrick Schmidt campaign finds a surprisingly close general election vs. GOP Sen. Roger Marshall. Marshall 49 Schmidt 45 Trump fav/unfav 45/51 Marshall fav/unfav 35/42 500 LVs, 4/23-27, mixed mode Schmidt is running in a crowded Dem primary |user=JacobRubashkin |number=2052495746461471175 |access-date=May 8, 2026}}</ref>{{efn-ua|name=Schmidt|Poll sponsored by Schmidt's campaign}}
+|April 23–27, 2026
+|500 (LV)
+|±{{nbsp}}4.38%
+|{{Party shading/Republican}} | '''49%'''
+|45%
+|6%
+|-
+| style="text-align:left;"|Tavern Research (D)<ref name=TavernJan28/>
+|January 26–28, 2026
+|1,013 (LV)
+|±{{nbsp}}4.0%
+|{{Party shading/Republican}} | '''55%'''
+|45%
+|—
+|}
+
+'''Roger Marshall vs. Adam Hamilton (running as an independent)'''<br />
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign="bottom"
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"|Key:<br />A – all adults<br />RV – registered voters<br />LV – likely voters<br />V – unclear}}
+! Margin<br />of error
+! style="width:100px;" | Roger<br />Marshall (R)
+! style="width:100px;" | Adam<br />Hamilton (I)
+! Undecided
+|-
+| style="text-align:left;"|Tavern Research (D)<ref name=TavernJan28>{{Cite web|url=https://sunflowerstatejournal.com/wp-content/uploads/2026/04/Toplines-KS-surv-20260125_195205.pdf|title=Kansas Toplines|work=Tavern Research|date=April 17, 2026|access-date=April 18, 2026}}</ref>
+|January 26–28, 2026
+|1,013 (LV)
+|±{{nbsp}}4.0%
+|49%
+|{{Party shading/Independent}} |'''51%'''
+|—
+|-
+|}
+{{hidden end}}
+
+===Results===
+{{Election box begin
+ | title      = 2026 United States Senate election in Kansas
+}}
+{{Election box candidate with party link
+|party=Republican Party (United States)
+|candidate=[[Roger Marshall]] (incumbent)
+|votes=
+|percentage=
+|change=
+}}
+{{Election box candidate with party link
+|party=Democratic Party (United States)
+|candidate=[[Adam Hamilton (pastor)|Adam Hamilton]]
+|votes=
+|percentage=
+|change=
+}}
+{{Election box candidate with party link
+|party=Libertarian Party (United States)
+|candidate=David Graham
+|votes=
+|percentage=
+|change=
+}}
+{{Election box total
+ | votes= 
+ | percentage= 
+ | change= 
+}}
+{{Election box end}}
+
+== Notes ==
+{{notelist}}
+'''Partisan clients'''<br />
+{{notelist-ua}}
+
+== References ==
+{{reflist}}
+
+== External links ==
+'''Official campaign websites'''
+*[https://hamiltonforkansas.com/ Adam Hamilton (D)]
+*[https://kansansformarshall.com/ Roger Marshall (R)]
+
+{{2026 United States elections}}
+
+[[Category:United States Senate elections in Kansas|2026]]
+[[Category:2026 United States Senate elections|Kansas]]
+[[Category:2026 Kansas elections|United States Senate]]

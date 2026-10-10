@@ -1,0 +1,4352 @@
+[
+{
+"state": "AL",
+"district": "1",
+"pvi": -17,
+"inc_party": "",
+"inc_running": false,
+"new_seat": true,
+"vacant": false,
+"member": ""
+},
+{
+"state": "AL",
+"district": "2",
+"pvi": -7,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Shomari Figures"
+},
+{
+"state": "AL",
+"district": "3",
+"pvi": -23,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Mike Rogers"
+},
+{
+"state": "AL",
+"district": "4",
+"pvi": -33,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Robert Aderholt"
+},
+{
+"state": "AL",
+"district": "5",
+"pvi": -15,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Dale Strong"
+},
+{
+"state": "AL",
+"district": "6",
+"pvi": -17,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Gary Palmer"
+},
+{
+"state": "AL",
+"district": "7",
+"pvi": 10,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Terri Sewell"
+},
+{
+"state": "AK",
+"district": "AL",
+"pvi": -6,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": ""
+},
+{
+"state": "AZ",
+"district": "1",
+"pvi": -1,
+"inc_party": "R",
+"inc_running": false,
+"new_seat": false,
+"vacant": false,
+"member": "David Schweikert"
+},
+{
+"state": "AZ",
+"district": "2",
+"pvi": -7,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Eli Crane"
+},
+{
+"state": "AZ",
+"district": "3",
+"pvi": 22,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Yassamin Ansari"
+},
+{
+"state": "AZ",
+"district": "4",
+"pvi": 4,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Greg Stanton"
+},
+{
+"state": "AZ",
+"district": "5",
+"pvi": -10,
+"inc_party": "R",
+"inc_running": false,
+"new_seat": false,
+"vacant": false,
+"member": "Andy Biggs"
+},
+{
+"state": "AZ",
+"district": "6",
+"pvi": 0,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Juan Ciscomani"
+},
+{
+"state": "AZ",
+"district": "7",
+"pvi": 13,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Adelita Grijalva"
+},
+{
+"state": "AZ",
+"district": "8",
+"pvi": -8,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Abraham Hamadeh"
+},
+{
+"state": "AZ",
+"district": "9",
+"pvi": -15,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Paul Gosar"
+},
+{
+"state": "AR",
+"district": "1",
+"pvi": -23,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Rick Crawford"
+},
+{
+"state": "AR",
+"district": "2",
+"pvi": -8,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "French Hill"
+},
+{
+"state": "AR",
+"district": "3",
+"pvi": -13,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Steve Womack"
+},
+{
+"state": "AR",
+"district": "4",
+"pvi": -20,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Bruce Westerman"
+},
+{
+"state": "CA",
+"district": "1",
+"pvi": 7,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "James Gallagher"
+},
+{
+"state": "CA",
+"district": "2",
+"pvi": 13,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Jared Huffman"
+},
+{
+"state": "CA",
+"district": "3",
+"pvi": 6,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Ami Bera"
+},
+{
+"state": "CA",
+"district": "4",
+"pvi": 8,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Mike Thompson"
+},
+{
+"state": "CA",
+"district": "5",
+"pvi": -10,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Tom McClintock"
+},
+{
+"state": "CA",
+"district": "6",
+"pvi": 5,
+"inc_party": "I",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Kevin Kiley"
+},
+{
+"state": "CA",
+"district": "7",
+"pvi": 7,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Doris Matsui"
+},
+{
+"state": "CA",
+"district": "8",
+"pvi": 19,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "John Garamendi"
+},
+{
+"state": "CA",
+"district": "9",
+"pvi": 8,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Josh Harder"
+},
+{
+"state": "CA",
+"district": "10",
+"pvi": 18,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Mark DeSaulnier"
+},
+{
+"state": "CA",
+"district": "11",
+"pvi": 36,
+"inc_party": "D",
+"inc_running": false,
+"new_seat": false,
+"vacant": false,
+"member": "Nancy Pelosi"
+},
+{
+"state": "CA",
+"district": "12",
+"pvi": 39,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Lateefah Simon"
+},
+{
+"state": "CA",
+"district": "13",
+"pvi": 2,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Adam Gray"
+},
+{
+"state": "CA",
+"district": "14",
+"pvi": 19,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Aisha Wahab"
+},
+{
+"state": "CA",
+"district": "15",
+"pvi": 26,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Kevin Mullin"
+},
+{
+"state": "CA",
+"district": "16",
+"pvi": 25,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Sam Liccardo"
+},
+{
+"state": "CA",
+"district": "17",
+"pvi": 21,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Ro Khanna"
+},
+{
+"state": "CA",
+"district": "18",
+"pvi": 16,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Zoe Lofgren"
+},
+{
+"state": "CA",
+"district": "19",
+"pvi": 18,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Jimmy Panetta"
+},
+{
+"state": "CA",
+"district": "20",
+"pvi": -16,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Vince Fong"
+},
+{
+"state": "CA",
+"district": "21",
+"pvi": 5,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Jim Costa"
+},
+{
+"state": "CA",
+"district": "22",
+"pvi": 1,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "David Valadao"
+},
+{
+"state": "CA",
+"district": "23",
+"pvi": -9,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Jay Obernolte"
+},
+{
+"state": "CA",
+"district": "24",
+"pvi": 13,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Salud Carbajal"
+},
+{
+"state": "CA",
+"district": "25",
+"pvi": 4,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Raul Ruiz"
+},
+{
+"state": "CA",
+"district": "26",
+"pvi": 9,
+"inc_party": "D",
+"inc_running": false,
+"new_seat": false,
+"vacant": false,
+"member": "Julia Brownley"
+},
+{
+"state": "CA",
+"district": "27",
+"pvi": 6,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "George T. Whitesides"
+},
+{
+"state": "CA",
+"district": "28",
+"pvi": 14,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Judy Chu"
+},
+{
+"state": "CA",
+"district": "29",
+"pvi": 19,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Luz Rivas"
+},
+{
+"state": "CA",
+"district": "30",
+"pvi": 21,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Laura Friedman"
+},
+{
+"state": "CA",
+"district": "31",
+"pvi": 8,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Gil Cisneros"
+},
+{
+"state": "CA",
+"district": "32",
+"pvi": 14,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Brad Sherman"
+},
+{
+"state": "CA",
+"district": "33",
+"pvi": 7,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Pete Aguilar"
+},
+{
+"state": "CA",
+"district": "34",
+"pvi": 28,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Jimmy Gomez"
+},
+{
+"state": "CA",
+"district": "35",
+"pvi": 6,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Norma Torres"
+},
+{
+"state": "CA",
+"district": "36",
+"pvi": 21,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Ted Lieu"
+},
+{
+"state": "CA",
+"district": "37",
+"pvi": 33,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Sydney Kamlager-Dove"
+},
+{
+"state": "CA",
+"district": "38",
+"pvi": 8,
+"inc_party": "",
+"inc_running": false,
+"new_seat": true,
+"vacant": false,
+"member": ""
+},
+{
+"state": "CA",
+"district": "39",
+"pvi": 7,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Mark Takano"
+},
+{
+"state": "CA",
+"district": "40",
+"pvi": -6,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Young Kim"
+},
+{
+"state": "CA",
+"district": "41",
+"pvi": 9,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Linda S\u00e1nchez"
+},
+{
+"state": "CA",
+"district": "42",
+"pvi": 8,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Robert Garcia"
+},
+{
+"state": "CA",
+"district": "43",
+"pvi": 27,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Maxine Waters"
+},
+{
+"state": "CA",
+"district": "44",
+"pvi": 20,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Nanette Barrag\u00e1n"
+},
+{
+"state": "CA",
+"district": "45",
+"pvi": 3,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Derek Tran"
+},
+{
+"state": "CA",
+"district": "46",
+"pvi": 10,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Lou Correa"
+},
+{
+"state": "CA",
+"district": "47",
+"pvi": 6,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Dave Min"
+},
+{
+"state": "CA",
+"district": "48",
+"pvi": 2,
+"inc_party": "R",
+"inc_running": false,
+"new_seat": false,
+"vacant": false,
+"member": "Darrell Issa"
+},
+{
+"state": "CA",
+"district": "49",
+"pvi": 7,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Mike Levin"
+},
+{
+"state": "CA",
+"district": "50",
+"pvi": 10,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Scott Peters"
+},
+{
+"state": "CA",
+"district": "51",
+"pvi": 10,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Sara Jacobs"
+},
+{
+"state": "CA",
+"district": "52",
+"pvi": 11,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Juan Vargas"
+},
+{
+"state": "CO",
+"district": "1",
+"pvi": 29,
+"inc_party": "D",
+"inc_running": false,
+"new_seat": false,
+"vacant": false,
+"member": "Diana DeGette"
+},
+{
+"state": "CO",
+"district": "2",
+"pvi": 20,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Joe Neguse"
+},
+{
+"state": "CO",
+"district": "3",
+"pvi": -5,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Jeff Hurd"
+},
+{
+"state": "CO",
+"district": "4",
+"pvi": -9,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Lauren Boebert"
+},
+{
+"state": "CO",
+"district": "5",
+"pvi": -5,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Jeff Crank"
+},
+{
+"state": "CO",
+"district": "6",
+"pvi": 11,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Jason Crow"
+},
+{
+"state": "CO",
+"district": "7",
+"pvi": 8,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Brittany Pettersen"
+},
+{
+"state": "CO",
+"district": "8",
+"pvi": 0,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Gabe Evans"
+},
+{
+"state": "CT",
+"district": "1",
+"pvi": 12,
+"inc_party": "D",
+"inc_running": false,
+"new_seat": false,
+"vacant": false,
+"member": "John B. Larson"
+},
+{
+"state": "CT",
+"district": "2",
+"pvi": 4,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Joe Courtney"
+},
+{
+"state": "CT",
+"district": "3",
+"pvi": 8,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Rosa DeLauro"
+},
+{
+"state": "CT",
+"district": "4",
+"pvi": 13,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Jim Himes"
+},
+{
+"state": "CT",
+"district": "5",
+"pvi": 3,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Jahana Hayes"
+},
+{
+"state": "DE",
+"district": "AL",
+"pvi": 8,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Sarah McBride"
+},
+{
+"state": "FL",
+"district": "1",
+"pvi": -18,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Jimmy Patronis"
+},
+{
+"state": "FL",
+"district": "2",
+"pvi": -8,
+"inc_party": "R",
+"inc_running": false,
+"new_seat": false,
+"vacant": false,
+"member": "Neal Dunn"
+},
+{
+"state": "FL",
+"district": "3",
+"pvi": -10,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Kat Cammack"
+},
+{
+"state": "FL",
+"district": "4",
+"pvi": -5,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Aaron Bean"
+},
+{
+"state": "FL",
+"district": "5",
+"pvi": -10,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "John Rutherford"
+},
+{
+"state": "FL",
+"district": "6",
+"pvi": -14,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Randy Fine"
+},
+{
+"state": "FL",
+"district": "7",
+"pvi": -5,
+"inc_party": "R",
+"inc_running": false,
+"new_seat": false,
+"vacant": false,
+"member": "Cory Mills"
+},
+{
+"state": "FL",
+"district": "8",
+"pvi": -8,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Mike Haridopolos"
+},
+{
+"state": "FL",
+"district": "9",
+"pvi": -8,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Darren Soto"
+},
+{
+"state": "FL",
+"district": "10",
+"pvi": 13,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Maxwell Frost"
+},
+{
+"state": "FL",
+"district": "11",
+"pvi": -7,
+"inc_party": "R",
+"inc_running": false,
+"new_seat": false,
+"vacant": false,
+"member": "Daniel Webster"
+},
+{
+"state": "FL",
+"district": "12",
+"pvi": -7,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Gus Bilirakis"
+},
+{
+"state": "FL",
+"district": "13",
+"pvi": -6,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Anna Paulina Luna"
+},
+{
+"state": "FL",
+"district": "14",
+"pvi": -4,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Kathy Castor"
+},
+{
+"state": "FL",
+"district": "15",
+"pvi": -9,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Laurel Lee"
+},
+{
+"state": "FL",
+"district": "16",
+"pvi": -6,
+"inc_party": "R",
+"inc_running": false,
+"new_seat": false,
+"vacant": false,
+"member": "Vern Buchanan"
+},
+{
+"state": "FL",
+"district": "17",
+"pvi": -10,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Greg Steube"
+},
+{
+"state": "FL",
+"district": "18",
+"pvi": -8,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Scott Franklin"
+},
+{
+"state": "FL",
+"district": "19",
+"pvi": -14,
+"inc_party": "R",
+"inc_running": false,
+"new_seat": false,
+"vacant": false,
+"member": "Byron Donalds"
+},
+{
+"state": "FL",
+"district": "20",
+"pvi": 20,
+"inc_party": "",
+"inc_running": false,
+"new_seat": false,
+"vacant": true,
+"member": ""
+},
+{
+"state": "FL",
+"district": "21",
+"pvi": -7,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Brian Mast"
+},
+{
+"state": "FL",
+"district": "22",
+"pvi": -4,
+"inc_party": "",
+"inc_running": false,
+"new_seat": true,
+"vacant": false,
+"member": ""
+},
+{
+"state": "FL",
+"district": "23",
+"pvi": 9,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Lois Frankel"
+},
+{
+"state": "FL",
+"district": "24",
+"pvi": 22,
+"inc_party": "D",
+"inc_running": false,
+"new_seat": false,
+"vacant": false,
+"member": "Frederica Wilson"
+},
+{
+"state": "FL",
+"district": "25",
+"pvi": -3,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Jared Moskowitz"
+},
+{
+"state": "FL",
+"district": "26",
+"pvi": -7,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Mario D\u00edaz-Balart"
+},
+{
+"state": "FL",
+"district": "27",
+"pvi": -6,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Mar\u00eda Elvira Salazar"
+},
+{
+"state": "FL",
+"district": "28",
+"pvi": -10,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Carlos A. Gim\u00e9nez"
+},
+{
+"state": "GA",
+"district": "1",
+"pvi": -8,
+"inc_party": "R",
+"inc_running": false,
+"new_seat": false,
+"vacant": false,
+"member": "Buddy Carter"
+},
+{
+"state": "GA",
+"district": "2",
+"pvi": 4,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Sanford Bishop"
+},
+{
+"state": "GA",
+"district": "3",
+"pvi": -15,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Brian Jack"
+},
+{
+"state": "GA",
+"district": "4",
+"pvi": 27,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Hank Johnson"
+},
+{
+"state": "GA",
+"district": "5",
+"pvi": 36,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Nikema Williams"
+},
+{
+"state": "GA",
+"district": "6",
+"pvi": 25,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Lucy McBath"
+},
+{
+"state": "GA",
+"district": "7",
+"pvi": -11,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Rich McCormick"
+},
+{
+"state": "GA",
+"district": "8",
+"pvi": -15,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Austin Scott"
+},
+{
+"state": "GA",
+"district": "9",
+"pvi": -17,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Andrew Clyde"
+},
+{
+"state": "GA",
+"district": "10",
+"pvi": -11,
+"inc_party": "R",
+"inc_running": false,
+"new_seat": false,
+"vacant": false,
+"member": "Mike Collins"
+},
+{
+"state": "GA",
+"district": "11",
+"pvi": -12,
+"inc_party": "R",
+"inc_running": false,
+"new_seat": false,
+"vacant": false,
+"member": "Barry Loudermilk"
+},
+{
+"state": "GA",
+"district": "12",
+"pvi": -7,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Rick Allen"
+},
+{
+"state": "GA",
+"district": "13",
+"pvi": 21,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Everton Blair"
+},
+{
+"state": "GA",
+"district": "14",
+"pvi": -19,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Clay Fuller"
+},
+{
+"state": "HI",
+"district": "1",
+"pvi": 13,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Ed Case"
+},
+{
+"state": "HI",
+"district": "2",
+"pvi": 12,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Jill Tokuda"
+},
+{
+"state": "ID",
+"district": "1",
+"pvi": -22,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Russ Fulcher"
+},
+{
+"state": "ID",
+"district": "2",
+"pvi": -13,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Mike Simpson"
+},
+{
+"state": "IL",
+"district": "1",
+"pvi": 18,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Jonathan Jackson"
+},
+{
+"state": "IL",
+"district": "2",
+"pvi": 18,
+"inc_party": "D",
+"inc_running": false,
+"new_seat": false,
+"vacant": false,
+"member": "Robin Kelly"
+},
+{
+"state": "IL",
+"district": "3",
+"pvi": 17,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Delia Ramirez"
+},
+{
+"state": "IL",
+"district": "4",
+"pvi": 17,
+"inc_party": "D",
+"inc_running": false,
+"new_seat": false,
+"vacant": false,
+"member": "Chuy Garc\u00eda"
+},
+{
+"state": "IL",
+"district": "5",
+"pvi": 19,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Mike Quigley"
+},
+{
+"state": "IL",
+"district": "6",
+"pvi": 3,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Sean Casten"
+},
+{
+"state": "IL",
+"district": "7",
+"pvi": 34,
+"inc_party": "D",
+"inc_running": false,
+"new_seat": false,
+"vacant": false,
+"member": "Danny Davis"
+},
+{
+"state": "IL",
+"district": "8",
+"pvi": 5,
+"inc_party": "D",
+"inc_running": false,
+"new_seat": false,
+"vacant": false,
+"member": "Raja Krishnamoorthi"
+},
+{
+"state": "IL",
+"district": "9",
+"pvi": 19,
+"inc_party": "D",
+"inc_running": false,
+"new_seat": false,
+"vacant": false,
+"member": "Jan Schakowsky"
+},
+{
+"state": "IL",
+"district": "10",
+"pvi": 12,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Brad Schneider"
+},
+{
+"state": "IL",
+"district": "11",
+"pvi": 6,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Bill Foster"
+},
+{
+"state": "IL",
+"district": "12",
+"pvi": -22,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Mike Bost"
+},
+{
+"state": "IL",
+"district": "13",
+"pvi": 5,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Nikki Budzinski"
+},
+{
+"state": "IL",
+"district": "14",
+"pvi": 3,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Lauren Underwood"
+},
+{
+"state": "IL",
+"district": "15",
+"pvi": -20,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Mary Miller"
+},
+{
+"state": "IL",
+"district": "16",
+"pvi": -11,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Darin LaHood"
+},
+{
+"state": "IL",
+"district": "17",
+"pvi": 3,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Eric Sorensen"
+},
+{
+"state": "IN",
+"district": "1",
+"pvi": 1,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Frank J. Mrvan"
+},
+{
+"state": "IN",
+"district": "2",
+"pvi": -13,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Rudy Yakym"
+},
+{
+"state": "IN",
+"district": "3",
+"pvi": -16,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Marlin Stutzman"
+},
+{
+"state": "IN",
+"district": "4",
+"pvi": -15,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Jim Baird"
+},
+{
+"state": "IN",
+"district": "5",
+"pvi": -8,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Victoria Spartz"
+},
+{
+"state": "IN",
+"district": "6",
+"pvi": -16,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Jefferson Shreve"
+},
+{
+"state": "IN",
+"district": "7",
+"pvi": 21,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Andr\u00e9 Carson"
+},
+{
+"state": "IN",
+"district": "8",
+"pvi": -18,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Mark Messmer"
+},
+{
+"state": "IN",
+"district": "9",
+"pvi": -15,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Erin Houchin"
+},
+{
+"state": "IA",
+"district": "1",
+"pvi": -4,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Mariannette Miller-Meeks"
+},
+{
+"state": "IA",
+"district": "2",
+"pvi": -4,
+"inc_party": "R",
+"inc_running": false,
+"new_seat": false,
+"vacant": false,
+"member": "Ashley Hinson"
+},
+{
+"state": "IA",
+"district": "3",
+"pvi": -2,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Zach Nunn"
+},
+{
+"state": "IA",
+"district": "4",
+"pvi": -15,
+"inc_party": "R",
+"inc_running": false,
+"new_seat": false,
+"vacant": false,
+"member": "Randy Feenstra"
+},
+{
+"state": "KS",
+"district": "1",
+"pvi": -16,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Tracey Mann"
+},
+{
+"state": "KS",
+"district": "2",
+"pvi": -10,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Derek Schmidt"
+},
+{
+"state": "KS",
+"district": "3",
+"pvi": 2,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Sharice Davids"
+},
+{
+"state": "KS",
+"district": "4",
+"pvi": -12,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Ron Estes"
+},
+{
+"state": "KY",
+"district": "1",
+"pvi": -23,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "James Comer"
+},
+{
+"state": "KY",
+"district": "2",
+"pvi": -20,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Brett Guthrie"
+},
+{
+"state": "KY",
+"district": "3",
+"pvi": 10,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Morgan McGarvey"
+},
+{
+"state": "KY",
+"district": "4",
+"pvi": -18,
+"inc_party": "R",
+"inc_running": false,
+"new_seat": false,
+"vacant": false,
+"member": "Thomas Massie"
+},
+{
+"state": "KY",
+"district": "5",
+"pvi": -32,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Hal Rogers"
+},
+{
+"state": "KY",
+"district": "6",
+"pvi": -7,
+"inc_party": "R",
+"inc_running": false,
+"new_seat": false,
+"vacant": false,
+"member": "Andy Barr"
+},
+{
+"state": "LA",
+"district": "1",
+"pvi": -20,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Steve Scalise"
+},
+{
+"state": "LA",
+"district": "2",
+"pvi": 25,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Troy Carter"
+},
+{
+"state": "LA",
+"district": "3",
+"pvi": -18,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Clay Higgins"
+},
+{
+"state": "LA",
+"district": "4",
+"pvi": -17,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Mike Johnson"
+},
+{
+"state": "LA",
+"district": "5",
+"pvi": -17,
+"inc_party": "R",
+"inc_running": false,
+"new_seat": false,
+"vacant": false,
+"member": "Julia Letlow"
+},
+{
+"state": "LA",
+"district": "6",
+"pvi": -16,
+"inc_party": "D",
+"inc_running": false,
+"new_seat": false,
+"vacant": false,
+"member": "Cleo Fields"
+},
+{
+"state": "ME",
+"district": "1",
+"pvi": 11,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Chellie Pingree"
+},
+{
+"state": "ME",
+"district": "2",
+"pvi": -4,
+"inc_party": "D",
+"inc_running": false,
+"new_seat": false,
+"vacant": false,
+"member": "Jared Golden"
+},
+{
+"state": "MD",
+"district": "1",
+"pvi": -8,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Andy Harris"
+},
+{
+"state": "MD",
+"district": "2",
+"pvi": 10,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Johnny Olszewski"
+},
+{
+"state": "MD",
+"district": "3",
+"pvi": 12,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Sarah Elfreth"
+},
+{
+"state": "MD",
+"district": "4",
+"pvi": 39,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Glenn Ivey"
+},
+{
+"state": "MD",
+"district": "5",
+"pvi": 17,
+"inc_party": "D",
+"inc_running": false,
+"new_seat": false,
+"vacant": false,
+"member": "Steny Hoyer"
+},
+{
+"state": "MD",
+"district": "6",
+"pvi": 3,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "April McClain Delaney"
+},
+{
+"state": "MD",
+"district": "7",
+"pvi": 31,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Kweisi Mfume"
+},
+{
+"state": "MD",
+"district": "8",
+"pvi": 30,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Jamie Raskin"
+},
+{
+"state": "MA",
+"district": "1",
+"pvi": 8,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Richard Neal"
+},
+{
+"state": "MA",
+"district": "2",
+"pvi": 13,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Jim McGovern"
+},
+{
+"state": "MA",
+"district": "3",
+"pvi": 11,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Lori Trahan"
+},
+{
+"state": "MA",
+"district": "4",
+"pvi": 11,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Jake Auchincloss"
+},
+{
+"state": "MA",
+"district": "5",
+"pvi": 24,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Katherine Clark"
+},
+{
+"state": "MA",
+"district": "6",
+"pvi": 11,
+"inc_party": "D",
+"inc_running": false,
+"new_seat": false,
+"vacant": false,
+"member": "Seth Moulton"
+},
+{
+"state": "MA",
+"district": "7",
+"pvi": 34,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Ayanna Pressley"
+},
+{
+"state": "MA",
+"district": "8",
+"pvi": 15,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Stephen Lynch"
+},
+{
+"state": "MA",
+"district": "9",
+"pvi": 6,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Bill Keating"
+},
+{
+"state": "MI",
+"district": "1",
+"pvi": -11,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Jack Bergman"
+},
+{
+"state": "MI",
+"district": "2",
+"pvi": -15,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "John Moolenaar"
+},
+{
+"state": "MI",
+"district": "3",
+"pvi": 4,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Hillary Scholten"
+},
+{
+"state": "MI",
+"district": "4",
+"pvi": -3,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Bill Huizenga"
+},
+{
+"state": "MI",
+"district": "5",
+"pvi": -13,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Tim Walberg"
+},
+{
+"state": "MI",
+"district": "6",
+"pvi": 12,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Debbie Dingell"
+},
+{
+"state": "MI",
+"district": "7",
+"pvi": 0,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Tom Barrett"
+},
+{
+"state": "MI",
+"district": "8",
+"pvi": -1,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Kristen McDonald Rivet"
+},
+{
+"state": "MI",
+"district": "9",
+"pvi": -16,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Lisa McClain"
+},
+{
+"state": "MI",
+"district": "10",
+"pvi": -3,
+"inc_party": "R",
+"inc_running": false,
+"new_seat": false,
+"vacant": false,
+"member": "John James"
+},
+{
+"state": "MI",
+"district": "11",
+"pvi": 9,
+"inc_party": "D",
+"inc_running": false,
+"new_seat": false,
+"vacant": false,
+"member": "Haley Stevens"
+},
+{
+"state": "MI",
+"district": "12",
+"pvi": 21,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Rashida Tlaib"
+},
+{
+"state": "MI",
+"district": "13",
+"pvi": 22,
+"inc_party": "D",
+"inc_running": false,
+"new_seat": false,
+"vacant": false,
+"member": "Shri Thanedar"
+},
+{
+"state": "MN",
+"district": "1",
+"pvi": -6,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Brad Finstad"
+},
+{
+"state": "MN",
+"district": "2",
+"pvi": 3,
+"inc_party": "D",
+"inc_running": false,
+"new_seat": false,
+"vacant": false,
+"member": "Angie Craig"
+},
+{
+"state": "MN",
+"district": "3",
+"pvi": 11,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Kelly Morrison"
+},
+{
+"state": "MN",
+"district": "4",
+"pvi": 18,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Betty McCollum"
+},
+{
+"state": "MN",
+"district": "5",
+"pvi": 32,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Ilhan Omar"
+},
+{
+"state": "MN",
+"district": "6",
+"pvi": -10,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Tom Emmer"
+},
+{
+"state": "MN",
+"district": "7",
+"pvi": -18,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Michelle Fischbach"
+},
+{
+"state": "MN",
+"district": "8",
+"pvi": -7,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Pete Stauber"
+},
+{
+"state": "MS",
+"district": "1",
+"pvi": -18,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Trent Kelly"
+},
+{
+"state": "MS",
+"district": "2",
+"pvi": 11,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Bennie Thompson"
+},
+{
+"state": "MS",
+"district": "3",
+"pvi": -14,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Michael Guest"
+},
+{
+"state": "MS",
+"district": "4",
+"pvi": -21,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Mike Ezell"
+},
+{
+"state": "MO",
+"district": "1",
+"pvi": 29,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Wesley Bell"
+},
+{
+"state": "MO",
+"district": "2",
+"pvi": -4,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Ann Wagner"
+},
+{
+"state": "MO",
+"district": "3",
+"pvi": -13,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Bob Onder"
+},
+{
+"state": "MO",
+"district": "4",
+"pvi": -21,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Mark Alford"
+},
+{
+"state": "MO",
+"district": "5",
+"pvi": 12,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Emanuel Cleaver"
+},
+{
+"state": "MO",
+"district": "6",
+"pvi": -19,
+"inc_party": "R",
+"inc_running": false,
+"new_seat": false,
+"vacant": false,
+"member": "Sam Graves"
+},
+{
+"state": "MO",
+"district": "7",
+"pvi": -21,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Eric Burlison"
+},
+{
+"state": "MO",
+"district": "8",
+"pvi": -27,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Jason Smith"
+},
+{
+"state": "MT",
+"district": "1",
+"pvi": -5,
+"inc_party": "R",
+"inc_running": false,
+"new_seat": false,
+"vacant": false,
+"member": "Ryan Zinke"
+},
+{
+"state": "MT",
+"district": "2",
+"pvi": -15,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Troy Downing"
+},
+{
+"state": "NE",
+"district": "1",
+"pvi": -6,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Mike Flood"
+},
+{
+"state": "NE",
+"district": "2",
+"pvi": 3,
+"inc_party": "R",
+"inc_running": false,
+"new_seat": false,
+"vacant": false,
+"member": "Don Bacon"
+},
+{
+"state": "NE",
+"district": "3",
+"pvi": -27,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Adrian Smith"
+},
+{
+"state": "NV",
+"district": "1",
+"pvi": 2,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Dina Titus"
+},
+{
+"state": "NV",
+"district": "2",
+"pvi": -7,
+"inc_party": "R",
+"inc_running": false,
+"new_seat": false,
+"vacant": false,
+"member": "Mark Amodei"
+},
+{
+"state": "NV",
+"district": "3",
+"pvi": 1,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Susie Lee"
+},
+{
+"state": "NV",
+"district": "4",
+"pvi": 2,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Steven Horsford"
+},
+{
+"state": "NH",
+"district": "1",
+"pvi": 2,
+"inc_party": "D",
+"inc_running": false,
+"new_seat": false,
+"vacant": false,
+"member": "Chris Pappas"
+},
+{
+"state": "NH",
+"district": "2",
+"pvi": 2,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Maggie Goodlander"
+},
+{
+"state": "NJ",
+"district": "1",
+"pvi": 10,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Donald Norcross"
+},
+{
+"state": "NJ",
+"district": "2",
+"pvi": -5,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Jeff Van Drew"
+},
+{
+"state": "NJ",
+"district": "3",
+"pvi": 5,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Herb Conaway"
+},
+{
+"state": "NJ",
+"district": "4",
+"pvi": -14,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Chris Smith"
+},
+{
+"state": "NJ",
+"district": "5",
+"pvi": 2,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Josh Gottheimer"
+},
+{
+"state": "NJ",
+"district": "6",
+"pvi": 5,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Frank Pallone"
+},
+{
+"state": "NJ",
+"district": "7",
+"pvi": 0,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Thomas Kean Jr."
+},
+{
+"state": "NJ",
+"district": "8",
+"pvi": 15,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Rob Menendez"
+},
+{
+"state": "NJ",
+"district": "9",
+"pvi": 2,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Nellie Pou"
+},
+{
+"state": "NJ",
+"district": "10",
+"pvi": 27,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "LaMonica McIver"
+},
+{
+"state": "NJ",
+"district": "11",
+"pvi": 5,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Analilia Mejia"
+},
+{
+"state": "NJ",
+"district": "12",
+"pvi": 13,
+"inc_party": "D",
+"inc_running": false,
+"new_seat": false,
+"vacant": false,
+"member": "Bonnie Watson Coleman"
+},
+{
+"state": "NM",
+"district": "1",
+"pvi": 7,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Melanie Stansbury"
+},
+{
+"state": "NM",
+"district": "2",
+"pvi": 0,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Gabe Vasquez"
+},
+{
+"state": "NM",
+"district": "3",
+"pvi": 3,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Teresa Leger Fernandez"
+},
+{
+"state": "NY",
+"district": "1",
+"pvi": -4,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Nick LaLota"
+},
+{
+"state": "NY",
+"district": "2",
+"pvi": -6,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Andrew Garbarino"
+},
+{
+"state": "NY",
+"district": "3",
+"pvi": 0,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Tom Suozzi"
+},
+{
+"state": "NY",
+"district": "4",
+"pvi": 2,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Laura Gillen"
+},
+{
+"state": "NY",
+"district": "5",
+"pvi": 24,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Gregory Meeks"
+},
+{
+"state": "NY",
+"district": "6",
+"pvi": 6,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Grace Meng"
+},
+{
+"state": "NY",
+"district": "7",
+"pvi": 25,
+"inc_party": "D",
+"inc_running": false,
+"new_seat": false,
+"vacant": false,
+"member": "Nydia Vel\u00e1zquez"
+},
+{
+"state": "NY",
+"district": "8",
+"pvi": 24,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Hakeem Jeffries"
+},
+{
+"state": "NY",
+"district": "9",
+"pvi": 22,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Yvette Clarke"
+},
+{
+"state": "NY",
+"district": "10",
+"pvi": 32,
+"inc_party": "D",
+"inc_running": false,
+"new_seat": false,
+"vacant": false,
+"member": "Dan Goldman"
+},
+{
+"state": "NY",
+"district": "11",
+"pvi": -10,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Nicole Malliotakis"
+},
+{
+"state": "NY",
+"district": "12",
+"pvi": 33,
+"inc_party": "D",
+"inc_running": false,
+"new_seat": false,
+"vacant": false,
+"member": "Jerry Nadler"
+},
+{
+"state": "NY",
+"district": "13",
+"pvi": 32,
+"inc_party": "D",
+"inc_running": false,
+"new_seat": false,
+"vacant": false,
+"member": "Adriano Espaillat"
+},
+{
+"state": "NY",
+"district": "14",
+"pvi": 19,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Alexandria Ocasio-Cortez"
+},
+{
+"state": "NY",
+"district": "15",
+"pvi": 27,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Ritchie Torres"
+},
+{
+"state": "NY",
+"district": "16",
+"pvi": 18,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "George Latimer"
+},
+{
+"state": "NY",
+"district": "17",
+"pvi": 1,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Mike Lawler"
+},
+{
+"state": "NY",
+"district": "18",
+"pvi": 2,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Pat Ryan"
+},
+{
+"state": "NY",
+"district": "19",
+"pvi": 1,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Josh Riley"
+},
+{
+"state": "NY",
+"district": "20",
+"pvi": 8,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Paul Tonko"
+},
+{
+"state": "NY",
+"district": "21",
+"pvi": -10,
+"inc_party": "R",
+"inc_running": false,
+"new_seat": false,
+"vacant": false,
+"member": "Elise Stefanik"
+},
+{
+"state": "NY",
+"district": "22",
+"pvi": 4,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "John Mannion"
+},
+{
+"state": "NY",
+"district": "23",
+"pvi": -10,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Nick Langworthy"
+},
+{
+"state": "NY",
+"district": "24",
+"pvi": -11,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Claudia Tenney"
+},
+{
+"state": "NY",
+"district": "25",
+"pvi": 10,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Joseph Morelle"
+},
+{
+"state": "NY",
+"district": "26",
+"pvi": 11,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Tim Kennedy"
+},
+{
+"state": "NC",
+"district": "1",
+"pvi": -5,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Don Davis"
+},
+{
+"state": "NC",
+"district": "2",
+"pvi": 17,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Deborah Ross"
+},
+{
+"state": "NC",
+"district": "3",
+"pvi": -6,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Greg Murphy"
+},
+{
+"state": "NC",
+"district": "4",
+"pvi": 23,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Valerie Foushee"
+},
+{
+"state": "NC",
+"district": "5",
+"pvi": -9,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Virginia Foxx"
+},
+{
+"state": "NC",
+"district": "6",
+"pvi": -9,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Addison McDowell"
+},
+{
+"state": "NC",
+"district": "7",
+"pvi": -7,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "David Rouzer"
+},
+{
+"state": "NC",
+"district": "8",
+"pvi": -10,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Mark Harris"
+},
+{
+"state": "NC",
+"district": "9",
+"pvi": -8,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Richard Hudson"
+},
+{
+"state": "NC",
+"district": "10",
+"pvi": -9,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Pat Harrigan"
+},
+{
+"state": "NC",
+"district": "11",
+"pvi": -5,
+"inc_party": "R",
+"inc_running": false,
+"new_seat": false,
+"vacant": false,
+"member": "Chuck Edwards"
+},
+{
+"state": "NC",
+"district": "12",
+"pvi": 24,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Alma Adams"
+},
+{
+"state": "NC",
+"district": "13",
+"pvi": -8,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Brad Knott"
+},
+{
+"state": "NC",
+"district": "14",
+"pvi": -8,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Tim Moore"
+},
+{
+"state": "ND",
+"district": "AL",
+"pvi": -18,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Julie Fedorchak"
+},
+{
+"state": "OH",
+"district": "1",
+"pvi": -1,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Greg Landsman"
+},
+{
+"state": "OH",
+"district": "2",
+"pvi": -21,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "David Taylor"
+},
+{
+"state": "OH",
+"district": "3",
+"pvi": 21,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Joyce Beatty"
+},
+{
+"state": "OH",
+"district": "4",
+"pvi": -21,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Jim Jordan"
+},
+{
+"state": "OH",
+"district": "5",
+"pvi": -12,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Bob Latta"
+},
+{
+"state": "OH",
+"district": "6",
+"pvi": -17,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Michael Rulli"
+},
+{
+"state": "OH",
+"district": "7",
+"pvi": -5,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Max Miller"
+},
+{
+"state": "OH",
+"district": "8",
+"pvi": -8,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Warren Davidson"
+},
+{
+"state": "OH",
+"district": "9",
+"pvi": -5,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Marcy Kaptur"
+},
+{
+"state": "OH",
+"district": "10",
+"pvi": -4,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Mike Turner"
+},
+{
+"state": "OH",
+"district": "11",
+"pvi": 28,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Shontel Brown"
+},
+{
+"state": "OH",
+"district": "12",
+"pvi": -15,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Troy Balderson"
+},
+{
+"state": "OH",
+"district": "13",
+"pvi": 2,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Emilia Sykes"
+},
+{
+"state": "OH",
+"district": "14",
+"pvi": -10,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "David Joyce"
+},
+{
+"state": "OH",
+"district": "15",
+"pvi": -5,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Mike Carey"
+},
+{
+"state": "OK",
+"district": "1",
+"pvi": -11,
+"inc_party": "R",
+"inc_running": false,
+"new_seat": false,
+"vacant": false,
+"member": "Kevin Hern"
+},
+{
+"state": "OK",
+"district": "2",
+"pvi": -28,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Josh Brecheen"
+},
+{
+"state": "OK",
+"district": "3",
+"pvi": -23,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Frank Lucas"
+},
+{
+"state": "OK",
+"district": "4",
+"pvi": -17,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Tom Cole"
+},
+{
+"state": "OK",
+"district": "5",
+"pvi": -9,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Stephanie Bice"
+},
+{
+"state": "OR",
+"district": "1",
+"pvi": 20,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Suzanne Bonamici"
+},
+{
+"state": "OR",
+"district": "2",
+"pvi": -14,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Cliff Bentz"
+},
+{
+"state": "OR",
+"district": "3",
+"pvi": 24,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Maxine Dexter"
+},
+{
+"state": "OR",
+"district": "4",
+"pvi": 6,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Val Hoyle"
+},
+{
+"state": "OR",
+"district": "5",
+"pvi": 4,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Janelle Bynum"
+},
+{
+"state": "OR",
+"district": "6",
+"pvi": 6,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Andrea Salinas"
+},
+{
+"state": "PA",
+"district": "1",
+"pvi": 1,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Brian Fitzpatrick"
+},
+{
+"state": "PA",
+"district": "2",
+"pvi": 19,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Brendan Boyle"
+},
+{
+"state": "PA",
+"district": "3",
+"pvi": 40,
+"inc_party": "D",
+"inc_running": false,
+"new_seat": false,
+"vacant": false,
+"member": "Dwight Evans"
+},
+{
+"state": "PA",
+"district": "4",
+"pvi": 8,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Madeleine Dean"
+},
+{
+"state": "PA",
+"district": "5",
+"pvi": 15,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Mary Gay Scanlon"
+},
+{
+"state": "PA",
+"district": "6",
+"pvi": 6,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Chrissy Houlahan"
+},
+{
+"state": "PA",
+"district": "7",
+"pvi": -1,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Ryan Mackenzie"
+},
+{
+"state": "PA",
+"district": "8",
+"pvi": -4,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Rob Bresnahan"
+},
+{
+"state": "PA",
+"district": "9",
+"pvi": -19,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Dan Meuser"
+},
+{
+"state": "PA",
+"district": "10",
+"pvi": -3,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Scott Perry"
+},
+{
+"state": "PA",
+"district": "11",
+"pvi": -11,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Lloyd Smucker"
+},
+{
+"state": "PA",
+"district": "12",
+"pvi": 10,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Summer Lee"
+},
+{
+"state": "PA",
+"district": "13",
+"pvi": -23,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "John Joyce"
+},
+{
+"state": "PA",
+"district": "14",
+"pvi": -17,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Guy Reschenthaler"
+},
+{
+"state": "PA",
+"district": "15",
+"pvi": -19,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Glenn Thompson"
+},
+{
+"state": "PA",
+"district": "16",
+"pvi": -11,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Mike Kelly"
+},
+{
+"state": "PA",
+"district": "17",
+"pvi": 3,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Chris Deluzio"
+},
+{
+"state": "RI",
+"district": "1",
+"pvi": 12,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Gabe Amo"
+},
+{
+"state": "RI",
+"district": "2",
+"pvi": 4,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Seth Magaziner"
+},
+{
+"state": "SC",
+"district": "1",
+"pvi": -6,
+"inc_party": "R",
+"inc_running": false,
+"new_seat": false,
+"vacant": false,
+"member": "Nancy Mace"
+},
+{
+"state": "SC",
+"district": "2",
+"pvi": -7,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Joe Wilson"
+},
+{
+"state": "SC",
+"district": "3",
+"pvi": -21,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Sheri Biggs"
+},
+{
+"state": "SC",
+"district": "4",
+"pvi": -11,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "William Timmons"
+},
+{
+"state": "SC",
+"district": "5",
+"pvi": -11,
+"inc_party": "R",
+"inc_running": false,
+"new_seat": false,
+"vacant": false,
+"member": "Ralph Norman"
+},
+{
+"state": "SC",
+"district": "6",
+"pvi": 13,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Jim Clyburn"
+},
+{
+"state": "SC",
+"district": "7",
+"pvi": -12,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Russell Fry"
+},
+{
+"state": "SD",
+"district": "AL",
+"pvi": -15,
+"inc_party": "R",
+"inc_running": false,
+"new_seat": false,
+"vacant": false,
+"member": "Dusty Johnson"
+},
+{
+"state": "TN",
+"district": "1",
+"pvi": -29,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Diana Harshbarger"
+},
+{
+"state": "TN",
+"district": "2",
+"pvi": -17,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Tim Burchett"
+},
+{
+"state": "TN",
+"district": "3",
+"pvi": -18,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Chuck Fleischmann"
+},
+{
+"state": "TN",
+"district": "4",
+"pvi": -11,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Scott DesJarlais"
+},
+{
+"state": "TN",
+"district": "5",
+"pvi": -10,
+"inc_party": "R",
+"inc_running": false,
+"new_seat": false,
+"vacant": false,
+"member": "Andy Ogles"
+},
+{
+"state": "TN",
+"district": "6",
+"pvi": -13,
+"inc_party": "R",
+"inc_running": false,
+"new_seat": false,
+"vacant": false,
+"member": "John Rose"
+},
+{
+"state": "TN",
+"district": "7",
+"pvi": -11,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Matt Van Epps"
+},
+{
+"state": "TN",
+"district": "8",
+"pvi": -10,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "David Kustoff"
+},
+{
+"state": "TN",
+"district": "9",
+"pvi": -9,
+"inc_party": "D",
+"inc_running": false,
+"new_seat": false,
+"vacant": false,
+"member": "Steve Cohen"
+},
+{
+"state": "TX",
+"district": "1",
+"pvi": -24,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Nathaniel Moran"
+},
+{
+"state": "TX",
+"district": "2",
+"pvi": -11,
+"inc_party": "R",
+"inc_running": false,
+"new_seat": false,
+"vacant": false,
+"member": "Dan Crenshaw"
+},
+{
+"state": "TX",
+"district": "3",
+"pvi": -11,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Keith Self"
+},
+{
+"state": "TX",
+"district": "4",
+"pvi": -12,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Pat Fallon"
+},
+{
+"state": "TX",
+"district": "5",
+"pvi": -10,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Lance Gooden"
+},
+{
+"state": "TX",
+"district": "6",
+"pvi": -11,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Jake Ellzey"
+},
+{
+"state": "TX",
+"district": "7",
+"pvi": 13,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Lizzie Fletcher"
+},
+{
+"state": "TX",
+"district": "8",
+"pvi": -13,
+"inc_party": "R",
+"inc_running": false,
+"new_seat": false,
+"vacant": false,
+"member": "Morgan Luttrell"
+},
+{
+"state": "TX",
+"district": "9",
+"pvi": -9,
+"inc_party": "",
+"inc_running": false,
+"new_seat": true,
+"vacant": false,
+"member": ""
+},
+{
+"state": "TX",
+"district": "10",
+"pvi": -10,
+"inc_party": "R",
+"inc_running": false,
+"new_seat": false,
+"vacant": false,
+"member": "Michael McCaul"
+},
+{
+"state": "TX",
+"district": "11",
+"pvi": -17,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "August Pfluger"
+},
+{
+"state": "TX",
+"district": "12",
+"pvi": -11,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Craig Goldman"
+},
+{
+"state": "TX",
+"district": "13",
+"pvi": -23,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Ronny Jackson"
+},
+{
+"state": "TX",
+"district": "14",
+"pvi": -12,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Randy Weber"
+},
+{
+"state": "TX",
+"district": "15",
+"pvi": -7,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Monica De La Cruz"
+},
+{
+"state": "TX",
+"district": "16",
+"pvi": 11,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Veronica Escobar"
+},
+{
+"state": "TX",
+"district": "17",
+"pvi": -10,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Pete Sessions"
+},
+{
+"state": "TX",
+"district": "18",
+"pvi": 29,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Christian Menefee"
+},
+{
+"state": "TX",
+"district": "19",
+"pvi": -25,
+"inc_party": "R",
+"inc_running": false,
+"new_seat": false,
+"vacant": false,
+"member": "Jodey Arrington"
+},
+{
+"state": "TX",
+"district": "20",
+"pvi": 16,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Joaquin Castro"
+},
+{
+"state": "TX",
+"district": "21",
+"pvi": -10,
+"inc_party": "R",
+"inc_running": false,
+"new_seat": false,
+"vacant": false,
+"member": "Chip Roy"
+},
+{
+"state": "TX",
+"district": "22",
+"pvi": -11,
+"inc_party": "R",
+"inc_running": false,
+"new_seat": false,
+"vacant": false,
+"member": "Troy Nehls"
+},
+{
+"state": "TX",
+"district": "23",
+"pvi": -7,
+"inc_party": "",
+"inc_running": false,
+"new_seat": false,
+"vacant": true,
+"member": ""
+},
+{
+"state": "TX",
+"district": "24",
+"pvi": -8,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Beth Van Duyne"
+},
+{
+"state": "TX",
+"district": "25",
+"pvi": -11,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Roger Williams"
+},
+{
+"state": "TX",
+"district": "26",
+"pvi": -11,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Brandon Gill"
+},
+{
+"state": "TX",
+"district": "27",
+"pvi": -10,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Michael Cloud"
+},
+{
+"state": "TX",
+"district": "28",
+"pvi": -3,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Henry Cuellar"
+},
+{
+"state": "TX",
+"district": "29",
+"pvi": 17,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Sylvia Garcia"
+},
+{
+"state": "TX",
+"district": "30",
+"pvi": 25,
+"inc_party": "",
+"inc_running": false,
+"new_seat": true,
+"vacant": false,
+"member": ""
+},
+{
+"state": "TX",
+"district": "31",
+"pvi": -11,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "John Carter"
+},
+{
+"state": "TX",
+"district": "32",
+"pvi": -8,
+"inc_party": "",
+"inc_running": false,
+"new_seat": true,
+"vacant": false,
+"member": ""
+},
+{
+"state": "TX",
+"district": "33",
+"pvi": 18,
+"inc_party": "D",
+"inc_running": false,
+"new_seat": false,
+"vacant": false,
+"member": "Jasmine Crockett"
+},
+{
+"state": "TX",
+"district": "34",
+"pvi": -3,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Vicente Gonzalez"
+},
+{
+"state": "TX",
+"district": "35",
+"pvi": -4,
+"inc_party": "",
+"inc_running": false,
+"new_seat": true,
+"vacant": false,
+"member": ""
+},
+{
+"state": "TX",
+"district": "36",
+"pvi": -12,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Brian Babin"
+},
+{
+"state": "TX",
+"district": "37",
+"pvi": 30,
+"inc_party": "D",
+"inc_running": false,
+"new_seat": false,
+"vacant": false,
+"member": "Lloyd Doggett"
+},
+{
+"state": "TX",
+"district": "38",
+"pvi": -10,
+"inc_party": "R",
+"inc_running": false,
+"new_seat": false,
+"vacant": false,
+"member": "Wesley Hunt"
+},
+{
+"state": "UT",
+"district": "1",
+"pvi": 12,
+"inc_party": "",
+"inc_running": false,
+"new_seat": true,
+"vacant": false,
+"member": ""
+},
+{
+"state": "UT",
+"district": "2",
+"pvi": -15,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Blake Moore"
+},
+{
+"state": "UT",
+"district": "3",
+"pvi": -21,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Celeste Maloy"
+},
+{
+"state": "UT",
+"district": "4",
+"pvi": -17,
+"inc_party": "R",
+"inc_running": false,
+"new_seat": false,
+"vacant": false,
+"member": "Burgess Owens"
+},
+{
+"state": "VT",
+"district": "AL",
+"pvi": 17,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Becca Balint"
+},
+{
+"state": "VA",
+"district": "1",
+"pvi": -3,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Rob Wittman"
+},
+{
+"state": "VA",
+"district": "2",
+"pvi": 0,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Jen Kiggans"
+},
+{
+"state": "VA",
+"district": "3",
+"pvi": 18,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Bobby Scott"
+},
+{
+"state": "VA",
+"district": "4",
+"pvi": 17,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Jennifer McClellan"
+},
+{
+"state": "VA",
+"district": "5",
+"pvi": -6,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "John McGuire"
+},
+{
+"state": "VA",
+"district": "6",
+"pvi": -12,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Ben Cline"
+},
+{
+"state": "VA",
+"district": "7",
+"pvi": 2,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Eugene Vindman"
+},
+{
+"state": "VA",
+"district": "8",
+"pvi": 26,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Don Beyer"
+},
+{
+"state": "VA",
+"district": "9",
+"pvi": -22,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Morgan Griffith"
+},
+{
+"state": "VA",
+"district": "10",
+"pvi": 6,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Suhas Subramanyam"
+},
+{
+"state": "VA",
+"district": "11",
+"pvi": 18,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "James Walkinshaw"
+},
+{
+"state": "WA",
+"district": "1",
+"pvi": 15,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Suzan DelBene"
+},
+{
+"state": "WA",
+"district": "2",
+"pvi": 12,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Rick Larsen"
+},
+{
+"state": "WA",
+"district": "3",
+"pvi": -2,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Marie Gluesenkamp Perez"
+},
+{
+"state": "WA",
+"district": "4",
+"pvi": -10,
+"inc_party": "R",
+"inc_running": false,
+"new_seat": false,
+"vacant": false,
+"member": "Dan Newhouse"
+},
+{
+"state": "WA",
+"district": "5",
+"pvi": -5,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Michael Baumgartner"
+},
+{
+"state": "WA",
+"district": "6",
+"pvi": 10,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Emily Randall"
+},
+{
+"state": "WA",
+"district": "7",
+"pvi": 39,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Pramila Jayapal"
+},
+{
+"state": "WA",
+"district": "8",
+"pvi": 3,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Kim Schrier"
+},
+{
+"state": "WA",
+"district": "9",
+"pvi": 22,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Adam Smith"
+},
+{
+"state": "WA",
+"district": "10",
+"pvi": 9,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Marilyn Strickland"
+},
+{
+"state": "WV",
+"district": "1",
+"pvi": -22,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Carol Miller"
+},
+{
+"state": "WV",
+"district": "2",
+"pvi": -20,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Riley Moore"
+},
+{
+"state": "WI",
+"district": "1",
+"pvi": -2,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Bryan Steil"
+},
+{
+"state": "WI",
+"district": "2",
+"pvi": 21,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Mark Pocan"
+},
+{
+"state": "WI",
+"district": "3",
+"pvi": -3,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Derrick Van&nbsp;Orden"
+},
+{
+"state": "WI",
+"district": "4",
+"pvi": 26,
+"inc_party": "D",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Gwen Moore"
+},
+{
+"state": "WI",
+"district": "5",
+"pvi": -11,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Scott Fitzgerald"
+},
+{
+"state": "WI",
+"district": "6",
+"pvi": -8,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Glenn Grothman"
+},
+{
+"state": "WI",
+"district": "7",
+"pvi": -11,
+"inc_party": "R",
+"inc_running": false,
+"new_seat": false,
+"vacant": false,
+"member": "Tom Tiffany"
+},
+{
+"state": "WI",
+"district": "8",
+"pvi": -8,
+"inc_party": "R",
+"inc_running": true,
+"new_seat": false,
+"vacant": false,
+"member": "Tony Wied"
+},
+{
+"state": "WY",
+"district": "AL",
+"pvi": -23,
+"inc_party": "R",
+"inc_running": false,
+"new_seat": false,
+"vacant": false,
+"member": "Harriet Hageman"
+}
+]

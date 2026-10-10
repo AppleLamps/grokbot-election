@@ -1,0 +1,938 @@
+{{Short description|none}}
+{{for|related races|2026 United States Senate elections}}
+{{distinguish|2026 Ohio Senate election}}
+{{Use American English|date=November 2025}}
+{{Use mdy dates|date=November 2024}}
+{{Infobox election
+| election_name = 2026 United States Senate special election in Ohio
+| country = Ohio
+| type = presidential
+| ongoing = yes
+| previous_election = 2022 United States Senate election in Ohio
+| previous_year = 2022
+| next_election = 2028 United States Senate election in Ohio
+| next_year = ''2028''
+| election_date = November 3, 2026
+| image_size = 150x150px 
+| image1 = Sen._Jon_Husted_official_portrait,_119th_Congress (cropped 2).jpg
+| nominee1 = [[Jon Husted]]
+| party1 = Republican Party (United States)
+| popular_vote1 = 
+| percentage1 = 
+| image2 = Sherrod Brown 117th Congress (2) (3x4 crop).jpg
+| nominee2 = [[Sherrod Brown]]
+| party2 = Democratic Party (United States)
+| popular_vote2 = 
+| percentage2 = 
+| map_image = 
+| map_size = 
+| map_caption = 
+| title = U.S. senator
+| before_election = [[Jon Husted]]{{efn|[[JD Vance]] was elected [[Vice President of the United States|vice president of the United States]] in the [[2024 United States presidential election|2024 presidential election]]. He resigned his Senate seat on January 10, 2025.<ref> {{Cite web|url=https://www.nbc4i.com/news/politics/sen-j-d-vance-to-resign-ahead-of-vice-presidential-inauguration/amp/|title=Sen. J.D. Vance resigns ahead of vice presidential inauguration|first1=Natalie|last1=Fahmy|first2=David|last2=Rees|website=[[WCMH-TV]]|date=January 9, 2025|access-date=March 9, 2025}}</ref> [[Governor of Ohio|Governor]] [[Mike DeWine]] appointed [[Lieutenant Governor of Ohio|Lieutenant Governor]] [[Jon Husted]] as an interim successor.}}
+| before_party = Republican Party (United States)
+| after_election = 
+| after_party = 
+}}
+{{ElectionsOH}}
+The '''2026 United States Senate special election in Ohio''' will be held on November 3, 2026, to elect a member of the [[United States Senate]] to represent the state of [[Ohio]]. [[Republican Party (United States)|Republican]] appointee [[Jon Husted]] and [[Democratic Party (United States)|Democratic]] former senator [[Sherrod Brown]] are the respective nominees for their parties. The winner will complete the term won in [[2022 United States Senate election in Ohio|2022]] by [[JD Vance]], who resigned in 2025 to become vice president.
+
+Seeking to keep the seat after his appointment, Husted ran unopposed for the Republican nomination. Brown, who represented Ohio in the Senate for three terms until his defeat in [[2024 United States Senate election in Ohio|2024]], won the Democratic nomination against minimal opposition.
+
+This will be the first U.S. Senate special election in Ohio since [[1954 United States Senate special election in Ohio|1954]].
+
+== Background ==
+After voting for [[President Barack Obama]] in both [[2008 United States presidential election in Ohio|2008]] and [[2012 United States presidential election in Ohio|2012]], Ohio has trended increasingly Republican in subsequent years and is now considered a moderate to strong [[Red states and blue states|red state]] at the federal and state level. Republicans control all statewide offices, majorities in both chambers of the [[Ohio State Legislature|state legislature]], and hold both [[United States Senate|Senate]] seats. Republicans also have a majority of the state's [[United States House of Representatives|House]] delegation with ten seats compared to five for Democrats.<ref>{{Cite web|last=Grabar|first=Henry|date=November 13, 2018|title=Democrats Proved They Can Win Again in Michigan, Wisconsin, and Pennsylvania. Why Not Ohio?|url=https://slate.com/business/2018/11/why-ohio-may-not-swing-state.html|access-date=January 18, 2026|website=Slate Magazine|language=en}}</ref>
+
+Republican nominee [[Donald Trump]] won Ohio in [[2016 United States presidential election in Ohio|2016]] and [[2020 United States presidential election in Ohio|2020]] by 8 percentage points, and in [[2024 United States presidential election in Ohio|2024]] grew his margin to 11 percentage points.<ref>{{Cite web |last=Schladen |first=Marty |date=2024-11-06 |title=Trump wins Ohio for a third time |url=https://ohiocapitaljournal.com/2024/11/05/trump-wins-ohio-for-a-third-time-associated-press-projects/ |access-date=2024-12-05 |website=[[Ohio Capital Journal]] |language=en-US}}</ref> Additionally, Republican [[JD Vance]], now the [[Vice President of the United States|vice president of the United States]], defeated Democrat [[Tim Ryan (Ohio politician)|Tim Ryan]] in the [[2022 United States Senate election in Ohio|2022 U.S. Senate election]] by slightly over 6 points, while Republican [[Bernie Moreno]] defeated then-incumbent Sherrod Brown in the [[2024 United States Senate election in Ohio|2024 U.S. Senate election]] by slightly over 3.5 points.<ref>{{Cite web |last=Evans |first=Nick |date=2024-11-06 |title=Republican Bernie Moreno defeats incumbent Sherrod Brown for Ohio U.S. Senate seat • Ohio Capital Journal |url=https://ohiocapitaljournal.com/2024/11/05/republican-bernie-moreno-defeats-incumbent-sherrod-brown-for-ohio-u-s-senate-seat-ap-projects/ |access-date=2024-12-05 |website=[[Ohio Capital Journal]] |language=en-US}}</ref>
+
+==Interim appointment==
+According to Ohio law, if a U.S. Senate seat becomes vacant, the [[List of governors of Ohio|governor]] appoints a replacement who serves until December 15 following the next regularly scheduled statewide election that occurs more than 180 days after the vacancy. A special election to fill the remainder of the term is then held concurrently with that regular state election, which in this case would be the one on [[2026 Ohio elections|November 3, 2026]].<ref>{{cite news |last1=Burd |first1=Aaron |title=How J.D. Vance's replacement in U.S. Senate will be picked if he becomes vice president |url=https://www.nbc4i.com/news/your-local-election-hq/how-j-d-vances-replacement-in-u-s-senate-will-be-picked-if-he-becomes-vice-president/ |work=[[WCMH-TV]] |date=July 16, 2024}}</ref><ref>{{cite web |title=Filling vacancies in elective offices |url=https://www.ohiosos.gov/globalassets/elections/eoresources/general/fillingvacancies.pdf |publisher=Ohio Secretary of State |access-date=November 6, 2024 |page=2}}</ref> Governor [[Mike DeWine]] chose then-Lieutenant Governor Jon Husted to replace Vance in the Senate.
+===Appointee===
+*[[Jon Husted]], [[lieutenant governor of Ohio]] (2019–2025)<ref>{{Cite news |last1=Wren |first1=Adam |last2=Cai |first2=Sophia |date=January 17, 2025 |title=DeWine passes over Ramaswamy, selects Jon Husted for Senate |url=https://www.politico.com/news/2025/01/17/ohio-senate-seat-dewine-husted-ramaswamy-00198974 |access-date=January 18, 2025 |work=[[Politico]]}}</ref>
+
+===Considered but not appointed===
+*[[Matt Dolan]], former [[Ohio Senate|state senator]] from the [[Ohio's 24th senatorial district|24th district]] (2017–2024) and candidate for U.S. Senate in [[2022 United States Senate election in Ohio|2022]] and [[2024 United States Senate election in Ohio|2024]]<ref name="Dolan">{{Cite web |date=2024-11-11 |title=Ohio Republican Sen. Matt Dolan seeking appointment to fill vacancy left by VP-elect JD Vance |url=https://www.wosu.org/politics-government/2024-11-11/ohio-republican-sen-matt-dolan-seeking-appointment-to-fill-vacancy-left-by-vp-elect-jd-vance |access-date=2025-01-21 |website=[[WOSU-TV]] |author=Staver, Anna |quote=Other names reportedly on DeWine’s list include Secretary of State Frank LaRose, former Ohio Republican Party Chair Jane Timken and entrepreneur Vivek Ramaswamy. |language=en}}</ref>
+*[[Frank LaRose]], [[Ohio Secretary of State|Ohio secretary of state]] (2019–present) and candidate for U.S. Senate in [[2024 United States Senate election in Ohio|2024]]<ref name="Dolan" />
+*[[Vivek Ramaswamy]], former CEO of [[Roivant Sciences]] (2014–2023) and [[Vivek Ramaswamy 2024 presidential campaign|candidate for president]] in [[2024 United States presidential election|2024]]<ref name="Dolan" />
+*[[Jane Timken]], former chair of the [[Ohio Republican Party]] (2017–2021) and candidate for U.S. Senate in [[2022 United States Senate election in Ohio|2022]]<ref name="Dolan" />
+
+===Declined to be considered===
+*[[Mike DeWine]], [[governor of Ohio]] (2019–present) and former U.S. senator (1995–2007)<ref>{{cite news |work=[[Ohio Capital Journal]] |access-date=December 29, 2024 |url=https://ohiocapitaljournal.com/2024/07/24/heres-what-qualities-gov-mike-dewine-wants-to-see-in-his-possible-u-s-senate-appointment/ |date=July 24, 2024 |author=Trau, Morgan |title=Here's what qualities Gov. Mike DeWine wants to see in his possible U.S. Senate appointment |quote=Ohio Gov. Mike DeWine chuckled as he denied interest in appointing himself to the open Senate seat}}</ref>
+*[[Dave Yost]], [[Ohio Attorney General|Ohio attorney general]] (2019–2026)<ref name=kronenberg>{{cite news |last=Kronenberg |first=Alan |title=Who Would Take Over for JD Vance or Tim Walz, and Does it Matter? |url=https://www.usnews.com/news/national-news/articles/2024-09-05/who-would-take-over-for-jd-vance-or-tim-walz |access-date=November 6, 2024 |work=[[U.S. News & World Report]] |date=September 5, 2024 |archive-date=November 16, 2024 |archive-url=https://web.archive.org/web/20241116072510/https://www.usnews.com/news/national-news/articles/2024-09-05/who-would-take-over-for-jd-vance-or-tim-walz |url-status=live }}</ref> ''([[2026 Ohio gubernatorial election|ran for governor, later withdrew]])''<ref name=":0">{{cite news |last1=Andrews |first1=Melissa |title=Ohio Attorney General Dave Yost says he will run for Governor |url=https://www.wtol.com/article/news/local/ohio/ohio-attorney-general-dave-yost-governor/512-50a73f31-fd75-4195-b7c8-8aa5191bf777 |access-date=December 4, 2024 |work=[[WTOL]] |date=December 4, 2024}}</ref>
+
+==Republican primary==
+===Candidates===
+====Nominee====
+*[[Jon Husted]], incumbent U.S. senator (2025–present)<ref>{{cite news |last1=Smyth |first1=Julie Carr |title=Trump favorite Jon Husted launches 2026 U.S. Senate campaign in Ohio |url=https://apnews.com/article/election-2025-senate-ohio-husted-trump-67ed124a587b2265aaba273b2d5f3f43 |access-date=April 9, 2025 |work=[[Associated Press]] |date=April 9, 2025 |language=en}}</ref>
+
+===Endorsements===
+{{Endorsements box
+|title=Jon Husted 
+|colwidth=60
+|list=
+;Executive branch officials
+*[[Donald Trump]], [[president of the United States]] (2017–2021, 2025–present)<ref>{{cite news |last1=Taylor |first1=Lydia |title=Trump endorses Husted for 2026 Senate race |url=https://spectrumnews1.com/oh/cincinnati/news/2025/04/09/trump-endorses-husted-for-2026-senate-race |access-date=April 9, 2025 |work=[[Spectrum News]] |date=April 9, 2025 |language=en}}</ref>
+
+;U.S. senators
+*[[Cynthia Lummis]], [[Wyoming]] (2021–present)<ref>{{cite web |last1=Downs |first1=Rebecca |title=Wyoming GOP Senator Hails Ohio’s Husted, Blasts Democrat Seeking Comeback as ‘a Failure’ |url=https://www.dailysignal.com/2025/08/20/wyoming-gop-senator-hails-ohios-husted-blasts-democrat-seeking-comeback-as-a-failure/ |website=[[The Daily Signal]] |date=August 20, 2025 |access-date=August 21, 2025}}</ref>
+*[[Bernie Moreno]], [[Ohio]] (2025–present)<ref name=rally>{{cite web |last1=Miller |first1=Andrew Mark |title=Republicans rally around GOP senator after ousted Dem jumps into high-profile Ohio race |url=https://www.foxnews.com/politics/republicans-rally-around-gop-senator-after-ousted-dem-jumps-into-high-profile-ohio-race |website=[[Fox News]] |access-date=January 8, 2026 |date=August 22, 2025 |language=en}}</ref>
+*[[Tim Scott]], [[South Carolina]] (2013–present)<ref name=rally/>
+
+;U.S. representatives
+*[[Jim Jordan]], [[Ohio's 4th congressional district|OH-04]] (2007–present)<ref name=rally/>
+*[[Bob Latta]], [[Ohio's 5th congressional district|OH-05]] (2007–present)<ref>{{cite news |title=U.S. Rep. Bob Latta endorses fellow Republican U.S. Sen. Jon Husted in 2026 |url=https://chroniclet.com/news/455338/us-rep-bob-latta-endorses-fellow-republican-us-sen-jon-husted-in-2026 |access-date=February 19, 2026 |work=[[Chronicle Telegram]] |date=January 23, 2026 |language=en}}</ref>
+*[[David Taylor (Ohio politician)|David Taylor]], [[Ohio's 2nd congressional district|OH-02]] (2025–present)<ref>{{cite news |title=Ohio GOP congressman endorses fellow Republican Jon Husted for U.S. Senate |url=https://chroniclet.com/news/454656/ohio-gop-congressman-endorses-fellow-republican-jon-husted-for-us-senate |access-date=February 19, 2026 |work=[[Chronicle Telegram]] |date=January 16, 2026 |language=en}}</ref>
+
+;Statewide officials
+*[[Keith Faber]], [[Ohio Auditor of State|auditor of state of Ohio]] (2019–present)<ref>{{cite news |title=State Auditor Keith Faber endorses fellow Republican Jon Husted for U.S. Senate |url=https://chroniclet.com/news/458211/state-auditor-keith-faber-endorses-fellow-republican-jon-husted-for-us-senate |access-date=February 22, 2026 |work=[[The Chronicle-Telegram]] |date=February 21, 2026 |language=en}}</ref>
+*[[Frank LaRose]], [[Secretary of State of Ohio|secretary of state of Ohio]] (2019–present)<ref name=rally/>
+*[[Robert Sprague]], [[Treasurer of Ohio|treasurer of Ohio]] (2019–present)<ref>{{cite news |title=Ohio Treasurer Robert Sprague endorses fellow Republican Jon Husted for U.S. Senator |url=https://chroniclet.com/news/453974/ohio-treasurer-robert-sprague-endorses-fellow-republican-jon-husted-for-us-senator/ |access-date=March 3, 2026 |work=[[Chronicle Telegram]] |date=January 9, 2026 |language=en}}</ref>
+*[[Dave Yost]], [[Attorney General of Ohio|attorney general of Ohio]] (2019–2026)<ref>{{cite news |title=Husted v. Brown: Ohio Republican gets major boost in race-to-replace JD Vance |url=https://abc6onyourside.com/news/local/husted-announces-endorsement-from-ohio-attorney-general-dave-yost-columbus-ohio-central-news-brown-vance-jd |access-date=January 8, 2026 |work=[[WSYX]] |date=January 7, 2026 |language=en}}</ref>
+
+;State legislators
+*[[Ohio Senate]] Republican Caucus<ref name="SenGOP">{{cite web |title=OH Senate Republican Caucus endorses Husted for US Senator |url=https://www.wfmj.com/story/53457935/oh-senate-republican-caucus-endorses-husted-for-us-senator |website=WFMJ |access-date=27 February 2026}}</ref>
+* More than half of the [[Ohio House of Representatives]] (including Speaker [[Matt Huffman]] and members such as [[Kellie Deeter]], [[Gayle Manning]], and [[D. J. Swearingen]])<ref>{{cite news |title=Local Ohio House Republicans endorse Jon Husted in U.S. Senate race |url=https://chroniclet.com/news/460999/local-ohio-house-republicans-endorse-jon-husted-in-us-senate-race/ |access-date=September 10, 2026 |work=[[Chronicle Telegram]] |date=March 22, 2026 |language=en}}</ref>
+
+;Local officials
+*75 [[List of counties in Ohio|Ohio county sheriffs]]<ref>{{cite news |last1= |first1= |title=Sen. Husted sets record with most sheriff endorsements in Ohio history, including HC Sheriff Sanders |url=https://www.highlandcountypress.com/index.php/news/sen-husted-sets-record-most-sheriff-endorsements-ohio-history-including-hc-sheriff-sanders |access-date=May 5, 2026 |work=[[Highland County Press]] |date=May 4, 2026 |language=en}}</ref>
+*[[Hocking County, Ohio|Hocking County Commissioners]]<ref>{{cite news |last1=Szczesniak |first1=Alicia |title=County commissioners' endorsement earns warning from state auditor |url=https://www.crescent-news.com/apgstate/county-commissioners-endorsement-earns-warning-from-state-auditor/article_95baca95-5d26-5a5e-9301-6da47617404e.html |access-date=July 26, 2025 |work=[[The Crescent-News]] |date=July 26, 2025 |language=en}}</ref>
+
+;Individuals
+*[[Vivek Ramaswamy]], founder of [[Roivant Sciences]] and 2026 [[2026 Ohio gubernatorial election|gubernatorial nominee]]<ref>{{cite web |last1=Jacobs |first1=Chris |date=September 22, 2025 |title=U.S. Sen. Husted, gubernatorial candidate Ramaswamy endorse each other in key Ohio races |url=https://www.wlwt.com/article/jon-husted-vivek-ramaswamy-ohio-announcement-governor/68008469 |access-date=September 22, 2025 |website=[[WLWT]]}}</ref>
+
+;Labor unions
+*[[Associated Builders and Contractors]] of Ohio<ref>{{cite web |title=ABC of Ohio endorses Jon Husted for United States Senate |url=https://chroniclet.com/news/470613/abc-of-ohio-endorses-jon-husted-for-united-states-senate/ |website=Chronicle Telegram |date=July 10, 2026 |access-date=July 11, 2026}}</ref>
+*[[Cleveland Building and Construction Trades Council]]<ref>{{cite news |title=2026 U.S. Senate race: United Steelworkers endorses Sherrod Brown, Cleveland Building & Construction Trades Council endorses Jon Husted |url=https://chroniclet.com/news/452022/2026-us-senate-race-united-steelworkers-endorses-sherrod-brown-cleveland-building-construction-trades-council-endorses-jon-hust/ |access-date=January 8, 2026 |work=[[The Chronicle-Telegram]] |date=December 15, 2025 |language=en}}</ref>
+*[[National Fraternal Order of Police|Fraternal Order of Police]] of Ohio<ref>{{cite web |last1=Knue |first1=Kurt |title=Ohio Fraternal Order of Police issues endorsements for Republicans in all 2026 statewide races |url=https://www.wlwt.com/article/ohio-fop-issues-endorsements-for-republicans-in-2026-races/73219619 |website=[[WLWT]] |date=July 21, 2026 |access-date=July 21, 2026}}</ref>
+*[[International Brotherhood of Boilermakers, Iron Ship Builders, Blacksmiths, Forgers and Helpers|International Brotherhood of Boilermakers, Local 85, Local 105, and Local 744]]<ref>{{Cite web |date=2026-01-26 |title=Boilermakers L-85, L-105 and L-744 endorse Jon Husted |url=https://boilermakers.org/news/international-brotherhood-of-boilermakers-endorses-jon-husted |publisher=[[International Brotherhood of Boilermakers]] |access-date=2026-01-26}}</ref>
+*[[International Union of Operating Engineers]] [[International Union of Operating Engineers Local 18|Locals 18]] & [[International Union of Operating Engineers|66]]<ref name="Unions">{{Cite web |last1=Gomez |first1=Henry J. |date=September 12, 2025 |title=Unions place early bets on Republicans in key Ohio races |url=https://www.nbcnews.com/politics/2026-election/unions-place-early-bets-republicans-key-ohio-races-rcna230306 |access-date=September 13, 2025 |work=[[NBC News]]}}</ref><ref>{{cite web |last1=Nichols |first1=Hans |title=Scoop: Jon Husted snatches third union endorsement from Sherrod Brown |url=https://www.axios.com/2025/10/15/senate-brown-husted-ohio-unions |website=Axios |language=en |date=15 October 2025}}</ref>
+*[[National Border Patrol Council]]<ref>{{cite web |title=Week in review: October 26, 2025 |url=https://ohiocpa.com/get-involved/news/2025/10/24/week-in-review--october-26--2026 |website=The Ohio Society of CPAs |access-date=10 November 2025 |language=en}}</ref>
+*[[Northwest Ohio Building & Construction Trades Council]]<ref>{{cite web |title=Northwest Ohio trades council endorses Husted for Senate |url=https://www.toledoblade.com/local/politics/2025/08/21/northwest-ohio-trades-council-endorses-husted-for-senate/stories/20250821100 |website=[[The Blade (Toledo, Ohio)|The Blade]] |access-date=August 22, 2025}}</ref>
+
+;Organizations
+*[[AIPAC]]<ref>{{cite web|url=https://candidates.aipacpac.org/page/featured/|title=Thank You for Supporting Pro-Israel Candidates|access-date=January 26, 2026}}</ref>
+*[[ClearPath Foundation]]<ref name="ClearPath1">{{cite web |title=2026 GOP Clean Energy Leaders |url=https://clearpathactionfund.org/ |website=ClearPath Action Fund |access-date=28 January 2026}}</ref>
+*[[National Federation of Independent Business]]<ref>{{cite web |title=Ohio Small Businesses Endorse U.S. Senator Jon Husted for Re-Election – NFIB |url=https://www.nfib.com/news/press-release/ohio-small-businesses-endorse-u-s-senator-jon-husted-for-re-election/ |website=NFIB |access-date=6 March 2026 |date=5 March 2026}}</ref>
+*Ohio Cattlemen's Association<ref>{{cite web |title=Ohio Cattlemen’s Association endorses Husted – Local News |url=https://wfin.com/agnet/ohio-cattlemens-association-endorses-husted/ |website=WFIN |access-date=4 February 2026 |date=3 February 2026}}</ref>
+*Ohio Chamber of Commerce<ref>{{cite web |last1=Gomez |first1=Henry J. |last2=Dixon |first2=Matt |title=Vance's and Marco Rubio's Senate successors avoid GOP primary drama |url=https://www.nbcnews.com/politics/2026-election/vances-marco-rubios-senate-successors-avoid-gop-primary-drama-rcna219679 |website=[[NBC News]] |date=July 21, 2025 |access-date=July 21, 2025}}</ref>
+*[[Ohio Right to Life]]<ref>{{Cite news |date=March 24, 2026 |title=Ohio Right to Life political action committee announces endorsements |url=https://www.irontontribune.com/2026/03/24/ohio-right-to-life-political-action-committee-announces-endorsements/ |access-date=May 5, 2026 |work=The Tribune}}</ref>
+
+;Party chapters
+*[[Columbiana County, Ohio|Columbiana County Republican Party]]<ref>{{cite web |title=Here is an actual SAMPLE BALLOT illustrating the endorsed Republican candidates for Columbiana County |url=https://www.facebook.com/columbianagop/photos/here-is-an-actual-sample-ballot-illustrating-the-endorsed-republican-candidates-/1415914737241410/ |website=Columbiana County Republican Party Facebook Page |access-date=August 12, 2026}}</ref>
+*[[Pickaway County, Ohio|Pickaway County Republican Party]]<ref>{{cite news |title=Pickaway County Republicans Announce Primary Endorsements |url=https://www.sciotopost.com/pickaway-county-republicans-announce-primary-endorsements/ |access-date=March 28, 2026 |work=Scioto Post |date=March 28, 2026 |language=en}}</ref>
+*[[Pike County, Ohio|Pike County Republican Party]]<ref>{{cite web |title=Pike County GOP endorses Jon Husted |url=https://www.newswatchman.com/news/pike-county-gop-endorses-jon-husted/article_9f5cabb6-f410-427c-a239-20b4e84e183d.html |website=News Watchman |date=August 8, 2025 |access-date=October 13, 2025}}</ref>
+*[[Warren County, Ohio|Warren County Republican Party]]<ref>{{cite web |title=Warren County Republican Party Officially Endorses Ramaswamy for Governor and Husted for U.S. Senate in 2026 |url=https://warrencountypost.com/g/lebanon-oh/n/332054/warren-county-republican-party-officially-endorses-ramaswamy-governor-and |website=Warren County Post |date=August 19, 2025 |access-date=January 8, 2026 |language=en}}</ref>
+
+;Political parties
+*[[Ohio Republican Party]]<ref>{{cite web |title=Ohio Republican Party endorses Husted |url=https://highlandcountypress.com/headlines/ohio-republican-party-endorses-husted |website=The Highland County Press |access-date=May 10, 2025}}</ref> 
+}}
+
+===Fundraising===
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of April 18, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|Jon Husted (R)
+|$10,257,823
+|$2,017,868
+|$8,239,954
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC1">{{cite web |title=2026 Election United States Senate – Ohio |url=https://www.fec.gov/data/elections/senate/OH/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=April 23, 2025}}</ref></small>
+|}
+
+===Results===
+{{Election box begin no change
+ | title=Republican primary<ref name="Republican Primary Results">{{Cite web |title=May 5, 2026 Primary/Special Election Official Canvass|url= https://publicfiles.ohiosos.gov/election-results/past-elections/2026/Primary+Special%20Election%20-%20May%205,%202026/group1/summary-level-official-results-2026-primary---republican.xlsx |website=Ohio Secretary of State |access-date=June 5, 2026}}</ref>}}
+{{Election box winning candidate with party link no change
+ | party=Republican Party (United States)
+ | candidate=[[Jon Husted]] (incumbent)
+ | votes=736,413
+ | percentage=100.0}}
+{{Election box total no change
+ | votes=736,413
+ | percentage=100.0}}
+{{Election box end}}
+
+==Democratic primary==
+===Candidates===
+====Nominee====
+*[[Sherrod Brown]], former [[United States Senate|U.S. senator]] (2007–2025)<ref name="BrownAP">{{Cite web |date=2025-08-18 |title=Ohio Democrat Sherrod Brown makes it official. He'll vie to unseat Trump-backed Sen. Jon Husted |url=https://apnews.com/article/election-2026-senate-ohio-sherrod-brown-trump-b47ba4a2a4da8e419de15047c33baa50 |access-date=2025-08-18 |website=[[Associated Press]] |author=Carr Smyth, Julie |language=en}}</ref>
+====Eliminated in primary====
+*Ron Kincaid, IT professional and [[Special Olympics]] coach<ref>{{cite web |last1=Rees |first1=David |title=Meet the lesser-known candidates in Ohio’s 2026 U.S. Senate race |url=https://fox8.com/news/meet-the-lesser-known-candidates-in-ohios-2026-u-s-senate-race/ |website=FOX 8 News |date=September 5, 2025 |access-date=September 23, 2025}}</ref>
+
+====Withdrawn====
+*Lynnea Lau, research integrity executive<ref>{{Cite web |title=Lynnea Lau |url=https://ballotpedia.org/Lynnea_Lau |access-date=2026-04-18 |website=Ballotpedia |language=en}}</ref>
+*Fred Ode, venture capital executive<ref>{{cite web |last1=Laura Hancock |first1=cleveland com |title=Lorain County entrepreneur Fred Ode ends 2026 Senate campaign against Sherrod Brown |url=https://www.cleveland.com/open/2025/11/lorain-county-entrepreneur-fred-ode-ends-2026-senate-campaign-against-sherrod-brown.html |website=cleveland |access-date=10 November 2025 |language=en |date=7 November 2025}}</ref>
+*Dakota Rose, community activist<ref>{{Cite web |title=Dakota Rose |url=https://ballotpedia.org/Dakota_Rose |access-date=2026-04-18 |website=Ballotpedia |language=en}}</ref>
+*Chris Volpe, tech entrepreneur<ref>{{Cite web |title=Christopher Volpe |url=https://ballotpedia.org/Christopher_Volpe |access-date=2026-04-18 |website=Ballotpedia |language=en}}</ref>
+
+====Declined====
+*[[Shontel Brown]], [[U.S. Representative|U.S. representative]] from {{ushr|OH|11}} (2021–present) ''([[2026 United States House of Representatives elections in Ohio#District 11|running for re-election]])''<ref name="SolenderDec12" /> 
+*[[Greg Landsman]], [[U.S. Representative|U.S. representative]] from {{ushr|OH|1}} (2023–present) ''([[2026 United States House of Representatives elections in Ohio#District 1|running for re-election]])''<ref>{{cite web |last1=Solender |first1=Andrew |title=A growing wave of House members is grasping for higher office |url=https://www.axios.com/2025/04/10/house-members-running-for-senate-governor |publisher=[[Axios (website)|Axios]] |access-date=15 April 2025 |date=10 April 2025 |quote=Rep. Greg Landsman (D-Ohio), previously floated as a potential challenger to Sen. Jon Husted (R-Ohio), told Axios he is 'staying put' in the House.}}</ref>
+*[[Tim Ryan (Ohio politician)|Tim Ryan]], former [[U.S. Representative|U.S. representative]] from {{ushr|OH|13}} (2003–2023), nominee for U.S. Senate in [[2022 United States Senate election in Ohio|2022]], and candidate for president in [[2020 United States presidential election|2020]]<ref>{{Cite web |date=2025-04-29 |title=Democrats' Senate Majority Hopes Hinge on Candidates Who Are Still Undecided |url=https://www.notus.org/2026-election/senate-cooper-mills-brown |access-date=2025-04-30 |website=[[NOTUS (website)|NOTUS]] |author=Roarty, Alex |language=en-US}}</ref>
+*[[Emilia Sykes]], [[U.S. Representative|U.S. representative]] from {{ushr|OH|13}} (2023–present) ''([[2026 United States House of Representatives elections in Ohio#District 13|running for re-election]])''<ref name=SolenderDec12>{{cite news |work=[[Axios (website)|Axios]] |url=https://www.axios.com/2024/12/12/juan-ciscomani-arizona-governor-2026 |date=December 12, 2024 |access-date=December 12, 2024 |author=Solender, Andrew |title=GOP Rep. Ciscomani passes on run for Arizona governor |quote=Reps. Emilia Sykes (D-Ohio) and Shontel Brown (D-Ohio) won't run for Vice President-elect JD Vance's Senate seat, according to Sykes' office and a statement from Brown.}}</ref>
+*[[Casey Weinstein]], [[Ohio Senate|state senator]] from the [[Ohio's 28th senatorial district|28th district]] (2025–present)<ref>{{cite web |last1=Skolnick |first1=David |date=June 20, 2025 |title=Ohio Dems in holding pattern |url=https://www.tribtoday.com/opinion/david-skolnick/2025/06/ohio-dems-in-holding-pattern/ |access-date=June 20, 2025 |website=[[Tribune Chronicle]]}}</ref>
+
+===Endorsements===
+{{Endorsements box
+| title=Sherrod Brown
+|colwidth=60
+| list=
+;Political parties
+*[[Ohio Democratic Party]]<ref>{{cite web |last1=Ingles |first1=Jo |title=Ohio Democratic Party endorses candidates for governor, U.S. Senator |url=https://www.statenews.org/government-politics/2026-03-02/ohio-democratic-party-endorses-candidates-for-governor-u-s-senator |website=The Statehouse News Bureau |date=March 2, 2026 |access-date=March 3, 2026}}</ref>
+
+;Labor unions
+*[[Actors' Equity Association]]<ref>{{Cite web |last=Rabinowitz |first=Chloe |title=Actors' Equity Association Endorses Sherrod Brown for United States Senate |url=https://www.broadwayworld.com/industry/article/Actors-Equity-Association-Endorses-Sherrod-Brown-for-United-States-Senate-20260504 |access-date=2026-05-05 |website=BroadwayWorld.com |language=en}}</ref>
+*[[American Federation of Government Employees]]<ref>{{Cite web |date=2026-04-28 |title=AFGE Endorses 7 Congressional Candidates from Ohio Ahead of Next Tuesday’s Primary Election |url=https://www.afge.org/publication/afge-endorses-7-congressional-candidates-from-ohio-ahead-of-next-tuesdays-primary-election |access-date=2026-06-07 |website=www.afge.org |language=en}}</ref>
+*[[Central Midwest Regional Council of Carpenters]]<ref name="Unions"/>
+*[[Communications Workers of America]], District 4<ref>{{Cite web |title=Communications Workers of America District 4 endorses Sherrod Brown for U.S. Senate |url=https://chroniclet.com/news/453740/communications-workers-of-america-district-4-endorses-sherrod-brown-for-us-senate/ |access-date=2026-04-26 |website=chroniclet.com |language=en}}</ref>
+*[[International Brotherhood of Electrical Workers]]<ref name="IBEW">{{cite web |last1=Skolnick |first1=David |title=Sherrod Brown to challenge U.S. Sen. Jon Husted |url=https://www.newsandsentinel.com/news/local-news/2025/08/sherrod-brown-to-challenge-u-s-sen-jon-husted/ |website=The Parkersburg News and Sentinel |access-date=19 August 2025 |date=August 19, 2025}}</ref>
+*[[International Federation of Professional and Technical Engineers]]<ref>{{cite web |title=Sherrod Brown Earns IFPTE's Endorsement for U.S. Senate |url=https://www.ifpte.org/news/sherrod-brown-earns-ifptes-endorsement-for-us-senate |website=ifpte.org |date=August 20, 2025 |access-date=September 9, 2025}}</ref>
+*[[International Union of Bricklayers and Allied Craftworkers]], Local 23<ref>{{Cite web |title=Week in review: September 21, 2025 |url=https://ohiocpa.com/for-the-public/news/2025/09/19/week-in-review--september-21--2025 |access-date=2026-08-13 |website=The Ohio Society of CPAs |language=en}}</ref>
+*[[International Union of Painters and Allied Trades]]{{efn|IUPAT International issued the endorsement with the support of IUPAT District Council 6 and IUPAT District Council 53.}}<ref>{{cite web |title=IUPAT Endorses Sherrod Brown for United States Senate |url=https://www.iupat.org/2025/10/07/iupat-endorses-sherrod-brown-for-united-states-senate/ |website=IUPAT |access-date=10 November 2025 |date=7 October 2025}}</ref>
+*[[AFL-CIO|Ohio AFL-CIO]]<ref>{{cite web |last1=Leonardi |first1=Anthony |title=Sherrod Brown receives U.S. Senate endorsement from Ohio AFL-CIO |url=https://www.wfmj.com/story/53441238/sherrod-brown-receives-endorsement-from-ohio-aflcio |access-date=February 16, 2026 |work=[[WFMJ]] |date=February 16, 2026}}</ref>
+*[[Ohio Federation of Teachers]]<ref>{{cite web |title=Ohio Federation of Teachers endorses Sherrod Brown for 2026 Senate election |url=https://abc6onyourside.com/news/local/ohio-federation-of-teachers-endorsement-sherrod-brown-2026-senate-election-ohio-politics-union-support-education-workers-rights-pro-union-labor-movement-public-schools-melissa-cropper-teachers-union-columbus-news-labor-endorsement-ohio-education-policy-d |website=WSYX ABC 6 |date=October 8, 2025 |access-date=October 9, 2025}}</ref>
+*[[Ohio State Association of Plumbers and Pipefitters]]<ref>{{cite web |title=Some Ohio unions split endorsements between Ramaswamy, Brown |url=https://dispatch.com/story/news/politics/2025/09/18/unions-split-support-between-vivek-ramaswamy-sherrod-brown-as-tim-ryan-mulls-gov-bid/86203438007 |access-date=January 8, 2026}}</ref>
+*[[Retail, Wholesale and Department Store Union]], Local 390<ref>{{Cite web |date=2025-09-22 |title=ICYMI: Ohio UFCW Locals Endorse Sherrod Brown for Senate - ufcwvotes.org |url=https://ufcwvotes.org/icymi-ohio-ufcw-locals-endorse-sherrod-brown-for-senate/ |access-date=2026-08-13 |language=en-US}}</ref>
+*[[United Association]]<ref>{{cite web |title=Plumbers and Pipefitters Union (UA) Endorses Sherrod Brown for Senate |url=https://uagetinvolved.org/content/plumbers-and-pipefitters-union-ua-endorses-sherrod-brown-senate |website=uagetinvolved.org |date=August 26, 2025 |access-date=September 9, 2025}}</ref>
+*[[United Auto Workers]]<ref>{{cite web |title=UAW endorses Democrat Sherrod Brown in 2026 U.S. Senate special election |url=https://chroniclet.com/news/448231/uaw-endorses-democrat-sherrod-brown-in-2026-us-senate-special-election/ |access-date=November 4, 2025 |work=[[The Chronicle-Telegram]] |date=November 3, 2025}}</ref>
+*[[United Food and Commercial Workers]], Locals 75, 880, and 1059<ref>{{Cite web |date=2025-09-22 |title=ICYMI: Ohio UFCW Locals Endorse Sherrod Brown for Senate - ufcwvotes.org |url=https://ufcwvotes.org/icymi-ohio-ufcw-locals-endorse-sherrod-brown-for-senate/ |access-date=2026-08-13 |language=en-US}}</ref>
+*[[United Steelworkers]]<ref>{{cite web |title=United Steelworkers endorse Sherrod Brown for U.S. Senate |url=https://wtrf.com/news/united-steelworkers-endorse-sherrod-brown-for-u-s-senate |access-date=December 17, 2025}}</ref>
+
+;Organizations
+*[[End Citizens United]]<ref>{{cite web |title=ECU Endorses Sherrod Brown for OH-SEN |url=https://www.endcitizensunited.org/ecu-endorses-sherrod-brown |website=endcitizensunited.org |date=August 25, 2025 |access-date=September 8, 2025}}</ref>
+*[[Giffords]]<ref>{{cite web |title=GIFFORDS endorses Sherrod Brown in comeback bid for US Senate in Ohio |url=https://giffords.org/press-release/2025/09/giffords-endorses-sherrod-brown-in-comeback-bid-for-us-senate-in-ohio/ |website=giffords.org |date=September 3, 2025 |access-date=September 8, 2025}}</ref>
+*[[Human Rights Campaign]]<ref>{{cite web |last2=Comeriato |first2=H.L. |last1=Schneck |first1=Ken |title=Human Rights Campaign endorses Sherrod Brown for Ohio U.S. Senate seat |url=https://thebuckeyeflame.com/2025/12/19/human-rights-campaign-endorses-sherrod-brown/ |website=[[The Buckeye Flame]] |access-date=December 19, 2025 |language=en |date=December 19, 2025}}</ref>
+*[[Jewish Democratic Council of America]]<ref>{{cite web |title=🚨Key Endorsements for 2025 & 2026🚨 |url=https://jewishdems.org/%F0%9F%9A%A8key-endorsements-for-2025-2026%F0%9F%9A%A8/ |website=Jewish Democratic Council of America |access-date=August 28, 2025}}</ref>
+* [[Joint Action Committee for Political Affairs]]<ref>{{cite web|title=Candidates|url=https://www.jacpac.org/jac-candidates|website=Joint Action Committee for Political Affairs|access-date=November 16, 2025|archive-url=https://web.archive.org/web/20251121062543/https://www.jacpac.org/jac-candidates|archive-date=November 21, 2025|url-status=dead}}</ref>
+*[[League of Conservation Voters]]<ref>{{cite web |title=LCV Action Fund Endorses Sherrod Brown for U.S. Senate |url=https://www.lcv.org/media-center/lcv-action-fund-endorses-sherrod-brown-for-u-s-senate/ |website=www.lcv.org |date=November 10, 2025 |access-date=November 12, 2025}}</ref>
+*[[Planned Parenthood | Planned Parenthood Action Fund]]<ref>{{cite web |url=https://thehill.com/homenews/campaign/5700069-planned-parenthood-action-fund/ |title=Planned Parenthood Action Fund rolls out first Senate endorsements ahead of November midterms |access-date=January 22, 2026}}</ref>
+*[[Population Connection]]<ref>{{cite web |last1=Dixon |first1=Brian |title=Population Connection Action Fund Endorses Sherrod Brown for Senate |url=https://www.populationconnectionaction.org/press-releases/sherrod-brown-for-senate-2026/ |website=populationconnectionaction.org |date=August 13, 2025 |access-date=September 9, 2025}}</ref>
+*[[Reproductive Freedom for All]]<ref>{{cite web |last1=Santaliz |first1=Kate |title=Abortion rights group backs Janet Mills and others in first 2026 Senate endorsements |url=https://www.axios.com/2025/12/09/abortion-rights-maine-senate-mills-platner |website=Axios |access-date=9 December 2025 |language=en |date=9 December 2025}}</ref>
+}}
+
+===Fundraising===
+''Italics'' indicate a withdrawn candidate.
+{| class="wikitable sortable"
+|-
+! colspan="4" |Campaign finance reports as of April 18, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+| {{party shading/Democratic}} |Sherrod Brown (D)
+|$24,471,408
+|$7,956,946
+|$16,514,461
+|-
+| {{party shading/Democratic}} |Ron Kincaid (D)
+|$41,804
+|$42,980
+|$0
+|-
+| {{party shading/Democratic}} |''Chris Volpe'' (D)
+|$4,337
+|$4,168
+|$168
+|-
+| {{party shading/Democratic}} |''Fred Ode'' (D)
+|$5,001,938
+|$4,970,194
+|$31,744
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC1" /></small>
+|}
+
+===Results===
+[[File:2026 United States Senate special Democratic primary election in Ohio results map by county.svg|thumb|210px|Results by county
+{{collapsible list
+| title = {{legend|#7996e2|Brown}}
+|{{legend|#584cde|70–80%}}
+|{{legend|#3933e5|80–90%}}
+|{{legend|#0d0596|90–100%}}
+}}
+]]
+{{Election box begin no change
+ | title=Democratic primary<ref name="Democratic Primary Results">{{Cite web |title=May 5, 2026 Primary/Special Election Official Canvass|url= https://publicfiles.ohiosos.gov/election-results/past-elections/2026/Primary+Special%20Election%20-%20May%205,%202026/group1/summary-level-official-results-2026-primary---democratic.xlsx |website=Ohio Secretary of State |access-date=June 5, 2026}}</ref>}}
+{{Election box winning candidate with party link no change
+ | party=Democratic Party (United States)
+ | candidate=[[Sherrod Brown]]
+ | votes=712,106
+ | percentage=89.4}}
+{{Election box candidate with party link no change
+ | party=Democratic Party (United States)
+ | candidate=Ron Kincaid
+ | votes=84,405
+ | percentage=10.6}}
+{{Election box total no change
+ | votes=796,511
+ | percentage=100.0}}
+{{Election box end}}
+
+==Libertarian primary==
+Former [[Libertarian National Committee]] chair William Redpath is running as a Libertarian.<ref>{{Cite web |last=Henry |first=Megan |date=2026-02-06 |title=Here are the candidates running for Ohio statewide office in 2026 • Ohio Capital Journal |url=https://ohiocapitaljournal.com/2026/02/06/here-are-the-candidates-running-for-ohio-statewide-office-in-2026/ |access-date=2026-03-17 |website=Ohio Capital Journal |language=en-US}}</ref> Health care consultant Jeffrey Kanter was disqualified from the [[Libertarian Party (United States)|Libertarian]] primary due to a protest by Ohio Libertarian Kristen Wichers, who demonstrated that Kanter submitted hundreds of invalid signatures with his candidate petition.<ref name=":1">{{Cite web |last=Jeremy Pelzer |first=cleveland com |date=2026-03-19 |title=Libertarian U.S. Senate candidate Jeffrey Kanter disqualified from Ohio ballot |url=https://www.cleveland.com/news/2026/03/libertarian-us-senate-candidate-jeffrey-kanter-disqualified-from-ohio-ballot.html |access-date=2026-03-24 |website=cleveland |language=en}}</ref>
+
+===Candidates===
+====Nominee====
+*Bill Redpath, former [[Libertarian National Committee]] chair and nominee for [[2022 United States Senate election in Illinois]]<ref>{{cite news |last1=Pelzer |first1=Jeremy |date=January 6, 2026 |title=Ohio Libertarians, state’s lone third party, lining up candidates for top 2026 races |url=https://www.cleveland.com/news/2026/01/ohio-libertarians-states-lone-third-party-lining-up-candidates-for-top-2026-races.html |access-date=January 6, 2026 |agency=Cleveland.com}}</ref>
+'''Disqualified'''
+
+* Jeffrey Kanter, healthcare consultant<ref>{{Cite web |last=Henry |first=Megan |date=2026-02-06 |title=Here are the candidates running for Ohio statewide office in 2026 • Ohio Capital Journal |url=https://ohiocapitaljournal.com/2026/02/06/here-are-the-candidates-running-for-ohio-statewide-office-in-2026/ |access-date=2026-02-08 |website=Ohio Capital Journal |language=en-US}}</ref><ref name=":1" />
+
+===Results===
+{{Election box begin no change
+ | title=Libertarian primary<ref name="Libertarian Primary Results">{{Cite web |title=May 5, 2026 Primary/Special Election Official Canvass|url= https://publicfiles.ohiosos.gov/election-results/past-elections/2026/Primary+Special%20Election%20-%20May%205,%202026/group1/summary-level-official-results-2026-primary---libertarian.xlsx |website=Ohio Secretary of State |access-date=June 5, 2026}}</ref>}}
+{{Election box winning candidate with party link no change
+ | party=Libertarian Party (United States)
+ | candidate=Bill Redpath
+ | votes=4,996
+ | percentage=100.0}}
+{{Election box total no change
+ | votes=4,996
+ | percentage=100.0}}
+{{Election box end}}
+
+==Other third-party and independent candidates==
+Greg Levy, a veteran and community organiser, announced his candidacy in October 2025.<ref name="WSYX-2025">{{cite news |title=Socialist and Black liberation organizer Greg Levy launches 2026 Ohio Senate run |url=https://abc6onyourside.com/news/local/greg-levy-2026-ohio-senate-campaign-socialist-party-akron-veteran-working-class-black-liberation-union-movement-paul-robeson-revolutionary-choir-inequality-economy-minimum-wage-rural-hospitals-workers-rights-corporate-greed |access-date=July 21, 2026 |work=[[WSYX]] |date=October 22, 2025 |archive-url=https://web.archive.org/web/20260721230531/https://abc6onyourside.com/news/local/greg-levy-2026-ohio-senate-campaign-socialist-party-akron-veteran-working-class-black-liberation-union-movement-paul-robeson-revolutionary-choir-inequality-economy-minimum-wage-rural-hospitals-workers-rights-corporate-greed |archive-date=July 21, 2026 |url-status=live}}</ref><ref name="Pirnia-2026">{{cite news |last1=Pirnia |first1=Garin |title=Greg Levy Wants Ohio Voters to Choose the Third Option |url=https://www.cincinnatimagazine.com/article/greg-levy-wants-ohio-voters-to-choose-the-third-option/ |access-date=July 21, 2026 |work=[[Cincinnati (magazine)|Cincinnati]] |date=May 15, 2026 |archive-url=https://web.archive.org/web/20260721230128/https://www.cincinnatimagazine.com/article/greg-levy-wants-ohio-voters-to-choose-the-third-option/ |archive-date=July 21, 2026 |url-status=live}}</ref> A member of the [[Party for Socialism and Liberation]] (PSL), he filed with the [[Federal Election Commission]] as an independent candidate.<ref name="Pirnia-2026"/><ref>{{cite web |title=FEC Form 2 |url=https://docquery.fec.gov/cgi-bin/forms/S6OH00395/1913750/ |publisher=[[Federal Election Commission]] |access-date=July 21, 2026 |archive-url=https://web.archive.org/web/20260721230447/https://docquery.fec.gov/cgi-bin/forms/S6OH00395/1913750/ |archive-date=July 21, 2026 |date=September 3, 2025 |url-status=live}}</ref> Levy is one of two PSL candidates standing in the 2026 US Senate elections, the other being Joe Tache in [[2026 United States Senate election in Massachusetts|Massachusetts]].<ref>{{cite news |last1=Skopic |first1=Alex |title=Leftists Can Stack Up Wins in the 2026 Midterms |url=https://www.currentaffairs.org/news/leftists-can-stack-up-wins-in-the-2026-midterms |access-date=July 21, 2026 |work=[[Current Affairs (magazine)|Current Affairs]] |date=February 20, 2026 |archive-url=https://web.archive.org/web/20260721230441/https://www.currentaffairs.org/news/leftists-can-stack-up-wins-in-the-2026-midterms |archive-date=July 21, 2026 |url-status=live}}</ref>
+
+== General election ==
+Data centers have become a major issue in the campaign, and a poll from [[Bowling Green State University]] showed 71% of Ohioans support a temporary ban on new construction of data centers. Brown has criticized Husted for his support of data centers in the past. As lieutenant governor from 2019 to 2025, Husted backed millions of dollars in tax breaks for data center construction projects in Ohio. Husted has defended data centers, saying they bring new jobs and money to rural areas. Husted has described data centers as a "local issue", and Brown has said that the approval of data centers should be decided on the local level.<ref>{{Cite web |last=Sivaraman |first=Siddarth |date=August 10, 2026 |title=Ohio U.S. Senate candidates offer contrasting visions for data centers |url=https://ohiocapitaljournal.com/2026/08/10/ohio-u-s-senate-candidates-offer-contrasting-visions-for-data-centers/ |access-date=September 29, 2026 |website=Ohio Capital Journal |language=en-US}}</ref>
+
+A September 2026 poll conducted by Bowling Green State University found that 25% of likely Ohio voters incorrectly believed Sherrod Brown was the incumbent U.S. senator from the state, despite him having lost re-election in 2024.<ref>{{Cite web |title=BGSU Poll |url=https://www.bgsu.edu/arts-and-sciences/democracy-and-public-policy-research-network/bgsu-poll.html |access-date=September 29, 2026 |website=Bowling Green State University |language=en}}</ref>{{Secondary source needed|date=October 2026}}
+
+=== Predictions ===
+{| class="wikitable" style=text-align:center
+!Source
+!Ranking
+!As of
+|-
+|align="left"|[[CBS News]]<ref>{{Cite news |title=2026 midterm election races to watch |url=https://www.cbsnews.com/news/2026-midterm-election-races/ |last1=Hubbard |first1=Kaia |last2=Linton |first2=Caroline |last3=Yilek |first3=Caitlin |last4=Walsh |first4=Joe |work=[[CBS News]] |orig-date=September 13, 2026 |date=October 6, 2026 |access-date=October 7, 2026}}</ref>
+|{{USRaceRating|Tossup}}
+|October 6, 2026
+|-
+|align="left"|''[[The Cook Political Report]]''<ref>{{Cite web|title=2026 CPR Senate Race Ratings|url=https://www.cookpolitical.com/ratings/senate-race-ratings|access-date=October 7, 2026|website=[[Cook Political Report]]}}</ref>
+|{{USRaceRating|Tossup}}
+|October 6, 2026
+|-
+|align="left"|[[Decision Desk HQ]]<ref>{{cite web|title=2026 Senate Ratings|url=https://votes.decisiondeskhq.com/forecast/2026/senate|url-access=registration|publisher=[[Decision Desk HQ]]|access-date=October 7, 2026}}</ref>
+|{{USRaceRating|Tossup}}
+|October 7, 2026
+|-
+|align="left"|''[[The Economist]]''<ref>{{Cite web|title=2026 Senate Forecast|url=https://www.economist.com/interactive/2026/us-midterms/prediction-model/senate/|access-date=October 7, 2026|website=[[The Economist]]}}</ref>{{efn|''The Economist''{{'}}s prediction model uses unconventional terminology. For the purpose of equivalency, their "Very Likely" ratings are formatted as a "Likely" rating while "Likely" ratings are formatted as a "Lean" rating.}}
+|{{USRaceRating|Lean|D|flip}}
+|October 7, 2026
+|-
+|align="left"|[[FiftyPlusOne]]<ref>{{Cite web |title=2026 Congressional Forecast |url=https://fiftyplusone.news/forecast/senate |access-date=October 7, 2026 |website=[[FiftyPlusOne]]}}</ref>
+|{{USRaceRating|Lean|D|flip}}
+|October 7, 2026
+|-
+|align="left"|[[Fox News]]<ref>{{Cite news |last=Numa |first=Rémy |title=Fox News Power Rankings: The biggest surprises come after October |url=https://www.foxnews.com/politics/fox-news-power-rankings-the-biggest-surprises-come-after-october |work=[[Fox News]] |date=October 6, 2026 |access-date=October 7, 2026}}</ref>
+|{{USRaceRating|Tossup}}
+|October 6, 2026
+|-
+|align="left"|''[[Inside Elections]]''<ref>{{Cite web|title=Senate Ratings|url=https://www.insideelections.com/ratings/senate|access-date=October 7, 2026|website=[[Inside Elections]]}}</ref>
+|{{USRaceRating|Tossup}}
+|October 1, 2026
+|-
+|align="left"|[[MS NOW]]<ref>{{Cite news |url=https://www.ms.now/news/2026-senate-ratings-ms-nows-races-to-watch |title=2026 Senate ratings: MS NOW's races to watch |last1=Khanna |first1=Kabir |last2=Thomas |first2=Shawna |orig-date=August 19, 2026 |work=[[MS NOW]] |date=September 16, 2026 |access-date=October 7, 2026}}</ref>
+|{{USRaceRating|Tossup}}
+|September 16, 2026
+|-
+|align="left"|[[RealClearPolitics]]<ref>{{Cite web|url=https://www.realclearpolling.com/maps/senate/2026/toss-up|title=Battle for the Senate 2026|access-date=October 7, 2026|website=[[RealClearPolitics]]}}</ref>
+|{{USRaceRating|Tossup}}
+|October 5, 2026
+|-
+|align="left"|''[[Sabato's Crystal Ball]]''<ref>{{cite web|title=2026 Senate ratings|url=https://centerforpolitics.org/crystalball/2026-senate/|website=[[Sabato's Crystal Ball]]|access-date=October 7, 2026}}</ref>
+|{{USRaceRating|Tossup}}
+|October 6, 2026
+|-
+|align="left"|''[[Silver Bulletin]]''<ref name="Silver">{{Cite web |url=https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model |title=FLIPR 2026 midterm election forecast |last1=Silver |first1=Nate |author1-link=Nate Silver |last2=McKown-Dawson |first2=Eli |website=[[Silver Bulletin]] |via=[[Substack]] |date=October 7, 2026 |orig-date=August 11, 2026 |access-date=October 7, 2026 |url-access=subscription}}</ref>
+|{{USRaceRating|Lean|D|flip}}
+|October 7, 2026
+|-
+|align="left"|[[Split Ticket (website)|Split Ticket]]<ref>{{Cite magazine |title=Split Ticket 2026 Midterms Model |url=https://www.theargumentmag.com/p/split-ticket-2026-midterms-model |magazine=[[The Argument (magazine)|The Argument]] |via=[[Substack]] |access-date=October 7, 2026}}</ref>
+|{{USRaceRating|Lean|D|Flip}}
+|October 7, 2026
+|}
+
+===Post-primary endorsements===
+{{Endorsements box
+|title=Jon Husted  (R)
+|colwidth=
+|width=
+|list=
+;Executive branch officials
+*[[George W. Bush]], former [[president of the United States]] (2001–2009)<ref name="Bush">{{Cite web|url=https://www.nytimes.com/2026/09/21/us/politics/bush-cornyn-paxton-senate-fund-raiser.html|url-access=subscription|title=Bush and Cornyn Leave Out Paxton as They Raise Cash for Senate Candidates|last1=Schleifer|first1=Theodore|last2=Wagner|first2=Bayliss|date=September 21, 2026|access-date=September 21, 2026|work=[[The New York Times]]}}</ref>
+*[[JD Vance]], [[vice president of the United States]] (2025–present)<ref>{{Cite web |date=2026-08-21 |title=Drawing on His Rust Belt Roots, Vance Campaigns for Republicans |url=https://www.nytimes.com/2026/08/21/us/politics/jd-vance-middletown-ohio.html |website=The New York Times|access-date=2026-08-22}}</ref>
+
+;U.S. senators
+*[[John Cornyn]], [[List of United States Senators from Texas|Texas]] (2002–present)<ref name="Bush"/>
+
+;Organizations
+*[[Americans for Prosperity#AFP Action|Americans for Prosperity Action]]<ref>{{cite web |title=New AFP Action Ads Put Ohio's Choice in Focus: Husted's Common-Sense Results vs. Brown's Refusal to Stand Up to His Party |url=https://afpaction.com/new-afp-action-ads-put-ohios-choice-in-focus-husteds-common-sense-results-vs-browns-refusal-to-stand-up-to-his-party/ |publisher=[[Americans for Prosperity Action]] |date=September 10, 2026 |access-date=September 10, 2026}}</ref>
+*[[Log Cabin Republicans]]<ref name="LCR5">{{cite web |title=Log Cabin Republicans PAC Announces Fifth Round of Endorsements |url=https://logcabin.org/log-cabin-republicans-pac-announces-fifth-round-of-endorsements-2/ |website=Log Cabin Republicans |access-date=29 September 2026 |date=28 September 2026}}</ref>
+*[[Steak 'n Shake]]<ref name="Steak">{{cite web |last1=Meyer |first1=Theodoric |title=GOP Sen. Jon Husted wins an unusual endorsement — from Steak ’n Shake |url=https://www.washingtonpost.com/politics/2026/09/14/gop-sen-jon-husted-wins-an-unusual-endorsement-steak-n-shake/ |website=[[The Washington Post]] |access-date=8 October 2026 |date=September 14, 2026}}</ref>
+*[[United States Chamber of Commerce|U.S. Chamber of Commerce]]<ref>{{cite web |title=U.S. Chamber Endorses Senator Jon Husted for U.S. Senate in Ohio on National Free Enterprise Express Opportunity Tour |url=https://www.uschamber.com/improving-government/u-s-chamber-endorses-senator-jon-husted-for-u-s-senate-in-ohio-on-national-free-enterprise-express-opportunity-tour |publisher=[[United States Chamber of Commerce]] |date=September 25, 2026 |access-date=September 26, 2026}}</ref><ref>{{cite web |title=Sen. Jon Husted (R-OH) Tours Manufacturing Facility & Receives Campaign Endorsement |url=https://www.c-span.org/program/campaign-2026/sen-jon-husted-r-oh-tours-manufacturing-facility-receives-campaign-endorsement/685770 |publisher=[[C-SPAN]] |date=September 25, 2026 |access-date=September 26, 2026}}</ref>
+*[[National Right to Life Committee]]<ref name="NRL">{{cite web |last1=Tobias |first1=Carol |title=National Right to Life Endorses Senator Jon Husted for Election to the U.S. Senate |url=https://nrlc.org/communications/nrl-endorses-senator-jon-husted-for-election-to-the-u-s-senate/ |website=[[National Right to Life Committee]] |date=September 3, 2026 |access-date=September 3, 2026 |language=en}}</ref>
+}}
+{{Endorsements box
+|title=Sherrod Brown (D)
+|colwidth=
+|width=
+|list=
+;Labor unions
+* [[International Association of Fire Fighters|Ohio Association of Professional Fire Fighters]]<ref>{{Cite web |last=Poling |first=Isabelle |date=2026-08-13 |title=Ohio Association of Professional Fire Fighters Endorsed Sherrod Brown for U.S. Senate |url=https://www.wtap.com/2026/08/13/ohio-association-professional-fire-fighters-endorsed-sherrod-brown-us-senate/ |access-date=2026-08-13}}</ref>
+*[[Ohio Conference of Teamsters]]<ref>{{cite web |last1=Yeager |first1=Kate |title=Ohio Conference of Teamsters Announce 2026 Congressional Endorsements |url=https://teamster.org/2026/07/ohio-conference-of-teamsters-announce-2026-congressional-endorsements/ |website=International Brotherhood of Teamsters |access-date=10 July 2026 |language=en |date=10 July 2026}}</ref>
+*Ohio Patrolmen's Benevolent Association<ref>{{cite web |last1=Poling |first1=Isabelle |title=Ohio Patrolmen’s Benevolent Association endorses Sherrod Brown for U.S. Senate |url=https://www.wtap.com/2026/08/24/ohio-patrolmens-benevolent-association-endorses-sherrod-brown-us-senate/ |website=[[WTAP-TV]] |date=August 24, 2026 |access-date=August 25, 2026}}</ref>
+
+}}
+{{Endorsements box
+|title=Declined to endorse
+|colwidth=
+|width=
+|list=
+;Statewide officials
+*[[John Kasich]], former [[governor of Ohio]] (2011–2019) ''(Republican)''<ref>{{cite web |last1=Boggioni |first1=Tom |title=Ex-Gov. Kasich pours cold water on GOP senator keeping Ohio seat and withholds endorsement |url=https://www.rawstory.com/kasich-husted/ |website=[[Raw Story]] |date=May 23, 2026 |access-date=May 24, 2026}}</ref>
+}}
+
+===Fundraising===
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of June 30, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|Jon Husted (R)
+|$14,360,028
+|$4,940,716
+|$9,419,311
+|-
+|{{party shading/Democratic}}|Sherrod Brown (D)
+|$38,566,234
+|$22,336,493
+|$16,229,741
+|-
+|{{party shading/Libertarian}}|William Redpath (L)
+|$24,200
+|$23,470
+|$730
+|-
+|{{party shading/Independent}}|Greg Levy (I)
+|$80,348
+|$56,132
+|$25,971
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref>{{cite web |title=2026 Election United States Senate – Ohio |url=https://www.fec.gov/data/elections/senate/OH/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=September 9, 2026}}</ref></small>
+|}
+
+===Polling===
+'''Aggregate polls'''
+{| class="wikitable sortable" style="text-align:center;font-size:90%;line-height:17px"
+!Source of poll<br/>aggregation
+!Dates<br/>administered
+!Dates<br/>updated
+! style="width:100px;" |Jon<br />Husted (R)
+! style="width:100px;" |Sherrod<br />Brown (D)
+! style="width:100px;" |Other/<wbr/>Undecided{{Efn|Calculated by taking the difference of 100% and all other candidates combined.|name=|group=}}
+!Margin
+|-
+|[[270toWin]]<ref>{{cite web |title=2026 Polls: Ohio Senate |url=https://www.270towin.com/2026-senate-polls/ohio |access-date=October 6, 2026 |website=[[270toWin]]}}</ref>
+|September 21 – October 1, 2026<!--Remember that dates listed on 270toWin are poll *publication dates*, not the dates when the polls were *administered*-->
+|October 3, 2026
+|44.6%
+|{{party shading/Democratic}} |'''47.6%'''
+|7.8%
+|{{party shading/Democratic}} |'''Brown +3.0%'''
+|-
+|[[Decision Desk HQ]]<ref>{{cite web |title=Ohio Senate General Ballot Test |url=https://polls.decisiondeskhq.com/averages/general-ballot-test/2026-oh-us-senate/ohio/lv-rv-adults |access-date=October 6, 2026 |website=Decision Desk HQ}}</ref>
+|through October 6, 2026
+|October 8, 2026
+|43.8%
+|{{party shading/Democratic}} |'''46.1%'''
+|10.1%
+|{{party shading/Democratic}} |'''Brown +2.3%'''
+|-
+|[[FiftyPlusOne]]<ref>{{Cite web |title=FiftyPlusOne – Ohio General Senate Election Polls and Average for the 2026 General Election |url=https://fiftyplusone.news/polls/senate/general/ohio |access-date=October 6, 2026 |website=fiftyplusone.news}}</ref>
+|through October 6, 2026
+|October 8, 2026
+|44.0%
+|{{party shading/Democratic}} | '''48.3%'''
+|7.7%
+|{{party shading/Democratic}} |'''Brown +4.3%'''
+|-
+|[[RealClearPolitics]]<ref>{{cite web |title=2026 Ohio Senate Special Election – Husted vs. Brown|url=https://www.realclearpolling.com/polls/senate/special-election/2026/ohio/husted-vs-brown |access-date=October 6, 2026 |website=RealClearPolitics.com}}</ref>
+|September 1 – October 6, 2026
+|October 8, 2026
+|44.2%
+|{{party shading/Democratic}} | '''47.3%'''
+|8.5%
+|{{party shading/Democratic}} |'''Brown +3.1%'''
+|-
+|''[[Silver Bulletin]]''<ref name="Silver"/>
+|through October 5, 2026
+|October 8, 2026
+|44.1%
+|{{party shading/Democratic}} | '''48.5%'''
+|7.4%
+|{{party shading/Democratic}} |'''Brown +4.3%'''
+|-
+|colspan="3" |'''Average'''
+|44.1%
+|{{party shading/Democratic}} |'''47.6%'''
+|8.3%
+|{{party shading/Democratic}} |'''Brown +3.5%'''
+|}
+
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|Key:<br />A – all adults<br />RV – registered voters<br />LV – likely voters<br />V – unclear|name="Key"}}
+! Margin<br />of error
+! style="width:100px;"| Jon<br />Husted (R)
+! style="width:100px;"| Sherrod<br />Brown (D)
+! Other
+! Undecided
+|-
+|rowspan="2" style="text-align:left;|co/efficient (R)<ref name="coefficient10/8">{{cite web |title=Ohio · U.S. Senate |url=https://battlegrounds.coefficient.org/oh/ |website=co/efficient |access-date=8 October 2026 |date=October 8, 2026}}</ref>
+|rowspan="2"|October 5–6, 2026
+|rowspan="2"|925 (LV)
+|rowspan="2"|±&nbsp;3.5%
+|{{party shading/Republican}} |'''46%'''{{efn|Top two candidates only}}
+|45%
+|–
+|9%
+|-
+|{{party shading/Republican}} |'''44%'''
+|43%
+|4%{{efn|Greg Levy (I) with 3%; William Redpath (L) with 1%}}
+|9%
+|-
+| style="text-align:left;|SSRS<ref>{{cite web |title=CNN Ohio Poll Conducted by SSRS |url=https://www.documentcloud.org/documents/28729016-cnn-ohio-poll-conducted-by-ssrs/ |work=SSRS |date=October 8, 2026 |access-date=October 8, 2026 |via=[[DocumentCloud]]}}</ref>{{efn-ua|Poll conducted for [[CNN]]}}
+|September 29 – October 5, 2026
+|760 (LV)
+|±&nbsp;4.5%
+|43%
+|{{party shading/Democratic}} |'''49%'''
+|7%{{efn|"Neither" with 5%; "Other" with 2%}}
+|1%
+|-
+| style="text-align:left;|''[[New York Times]]''/[[Siena University (New York)|Siena University]]<ref>{{cite web|title=Cross-Tabs: September 2026 Times/Siena Poll of the Likely Electorate in Ohio|url=https://www.nytimes.com/interactive/2026/10/03/polls/times-siena-ohio-poll-crosstabs.html |website=[[New York Times]] |date=October 3, 2026 |access-date=October 3, 2026}}</ref>
+|September 22 – October 1, 2026
+|616 (LV)
+|±&nbsp;4.5%
+|46%
+|{{party shading/Democratic}} |'''49%'''
+|{{sdash}}
+|5%
+|-
+| style="text-align:left;|[[YouGov]]<ref>{{cite web|title=Ohio General Election 2026 – Likely Voters|url=https://d3nkl3psvxxpe9.cloudfront.net/documents/ttw_oh_20260921_lv.pdf |website=[[YouGov]] |date=October 6, 2026 |access-date=October 6, 2026}}</ref>
+|September 18–30, 2026
+|3,780 (LV)
+|±&nbsp;2.5%
+|45%
+|{{party shading/Democratic}} |'''49%'''
+|2%
+|4%
+|-
+|style="text-align: left;" |InsiderAdvantage (R)<ref>{{Cite web |title=InsiderAdvantage Ohio Senate: Race Narrows to Brown Up by One |url=https://insideradvantage.com/insideradvantage-ohio-senate-race-narrows-to-brown-up-by-one/ |website=InsiderAdvantage |date=October 1, 2026 |access-date=October 1, 2026}}</ref>
+|September 28–29, 2026
+|1,200 (LV)
+|±{{nbsp}}2.8%
+|43%
+|{{party shading/Democratic}} |'''44%'''
+|6%{{efn|William Redpath (L) with 4%; Greg Levy (I) with 2%}}
+|7%
+|-
+|rowspan="4" style="text-align:left;"|Big Data Poll (R)<ref>{{cite web |title=Buckeye State Poll: Sherrod Brown Leads Jon Husted for U.S. Senate in Ohio |url=https://www.bigdatapoll.com/blog/buckeye-state-poll-sherrod-brown-leads-jon-husted-for-us-senate-in-ohio/ |work=Big Data Poll |date=September 29, 2026 |access-date=September 29, 2026}}</ref>{{Efn-ua|Poll sponsored by the Public Polling Project}}
+|rowspan="4"|September 26–27, 2026
+|rowspan="2"|680 (LV)
+|rowspan="4"|±{{nbsp}}4.0%
+|43%{{efn|name=lean}}
+|{{party shading/Democratic}}|'''46%'''
+|{{sdash}}
+|{{sdash}}
+|-
+|41%
+|{{party shading/Democratic}}|'''46%'''
+|8%{{efn|name="SE8"|"Someone else" with 8%}}
+|6%
+|-
+|rowspan="2"|735 (RV)
+|41%{{efn|name=lean}}
+|{{party shading/Democratic}}|'''45%'''
+|{{sdash}}
+|{{sdash}}
+|-
+|40%
+|{{party shading/Democratic}}|'''44%'''
+|8%{{efn|name="SE8"}}
+|8%
+|-
+| style="text-align:left;"|[[Marist University]]<ref>{{cite web |title=Midterm Elections in Ohio, September 2026|url=https://maristpoll.marist.edu/polls/midterm-elections-in-ohio-september-2026/ |website=Marist Poll |access-date=28 September 2026}}</ref>
+|September 24–27, 2026
+|1,298 (RV)
+|±&nbsp;3.8%
+|43%
+|{{party shading/Democratic}}|'''51%'''
+|1%
+|4%
+|-
+| style="text-align:left;"|[[Suffolk University]]<ref>{{cite web|title=Governor and US Senate with USA TODAY Network Ohio marginals|website=[[Suffolk University]]|date=September 29, 2026|access-date=September 29, 2026|url=https://www.suffolk.edu/-/media/suffolk/documents/academics/research-at-suffolk/suprc/polls/other-states/2026/10_1_2026_ohio_statewide_embargoed_marginals_part_3.pdf?la=en&hash=355949674C6CA0C7055D0CF443B1CB6B1F8A234B}}</ref>{{efn-ua|name=USAToday|Poll sponsored by ''[[USA Today]]''}}
+|September 23–27, 2026
+|500 (LV)
+|±&nbsp;4.4%
+|44%
+|{{party shading/Democratic}}|'''47%'''
+|3%{{efn|Bill Redpath (L) with 2%; Greg Levy (I) with 1%}}
+|6%
+|-
+|style="text-align:left;|[[Rasmussen Reports]] (R)<ref>{{cite web |title=Election 2026: Ohio Senate |url=https://www.rasmussenreports.com/public_content/politics/elections/election_2026/election_2026_ohio_senate |website=[[Rasmussen Reports]] |date=September 25, 2026}}</ref>
+|September 22–23, 2026
+|1,115 (LV)
+|±&nbsp;3.0%
+|43%
+|{{party shading/Democratic}}|'''46%'''
+|5%{{Efn|Bill Redpath (L) with 3%; Greg Levy (I) with 2%}}
+|7%
+|-
+|rowspan=2 style="text-align:left;"|Quantus Insights (R)<ref>{{Cite web |url=https://quantusinsights.org/polling/f/brown-and-husted-deadlocked-in-ohio-senate-race |title=Brown and Husted Deadlocked in Ohio Senate Race |work=Quantus Insights |date=September 24, 2026 |access-date=September 24, 2026}}</ref>
+|rowspan=2|September 21–23, 2026
+|rowspan=2|695 (LV)
+|rowspan=2|±{{nbsp}}4.2%
+|'''47%'''{{efn|name=lean|With voters who lean towards a given candidate}}
+|'''47%'''
+|4%{{Efn|Greg Levy (I) with 2%; Bill Redpath (L) with 1%}}
+|2%
+|-
+|45%
+|{{party shading/Democratic}}|'''46%'''
+|4%{{Efn|Greg Levy (I) with 2%; Bill Redpath (L) with 1%}}
+|6%
+|-
+|style="text-align:left;"|[[Trafalgar Group]] (R)<ref>{{Cite web |url=https://www.thetrafalgargroup.org/wp-content/uploads/2026/09/OH-Midterms-Full-Report-0917.pdf |title=Ohio Midterm Statewide Survey |work=[[Trafalgar Group]] |date=September 17, 2026 |access-date=September 17, 2026}}</ref>
+|September 14–16, 2026
+|1,085 (LV)
+|±{{nbsp}}2.9%
+|42%
+|{{party shading/Democratic}}|'''45%'''
+|6%
+|6%
+|-
+|style="text-align:left;"|[[Bowling Green State University]]/[[YouGov]]<ref>{{Cite web|url=https://drive.google.com/file/d/16DCSUQaBOGTTk0u3flp6q0uwC6AO8euZ/view|title=1000 OH Likely Voters – September 2026|website=[[Bowling Green State University]]|date=September 10, 2026|access-date=September 16, 2026}}</ref>
+|September 1–10, 2026
+|1,000 (LV)
+|±&nbsp;4.0%
+|45%
+|{{party shading/Democratic}}|'''48%'''
+|7%{{efn|Greg Levy (I) with 3%; William Redpath (L) and "Someone else" with 2%}}
+|{{sdash}}
+|-
+|style="text-align: left;" |InsiderAdvantage (R)<ref>{{Cite web |title=Top Line Tabs Ohio |url=https://insideradvantage.com/top-line-tabs-ohio/ |website=InsiderAdvantage |date=September 10, 2026 |access-date=September 10, 2026}}</ref>
+|September 8–9, 2026
+|1,200 (LV)
+|±{{nbsp}}2.8%
+|42%
+| {{party shading/Democratic}} |'''47%'''
+|3%{{efn|name="Another3"}}
+|8%
+|-
+|style="text-align:left;" rowspan="2"|[[Abacus Data]]<ref>{{cite web|url=https://abacusdata.ca/the-trade-war-next-door-what-american-voters-think-about-tariffs-canada-and-the-battle-for-the-u-s-senate/|title=The Trade War Next Door: What American Voters Think About Tariffs, Canada and the Battle for the U.S. Senate|last=Coletto|first=David|date=September 2, 2026|access-date=September 2, 2026|website=[[Abacus Data]]}}</ref>
+|rowspan="2"|August 26–28, 2026
+|306 (LV)
+|{{sdash}}
+|46%
+|{{party shading/Democratic}}|'''52%'''
+|3%{{efn|name="Another3"|"Another candidate" with 3%}}
+|{{sdash}}
+|-
+|500 (RV)
+|±&nbsp;4.4%
+|43%
+|{{party shading/Democratic}}|'''53%'''
+|5%{{efn|"Another candidate" with 5%}}
+|{{sdash}}
+|-
+|style="text-align: left;" |Wedgewood Polls<ref>{{Cite web |title=Wedgewood_Polls_Ohio_Gen_Survey.pdf |url=https://drive.google.com/file/d/1rP-26-yqNx9jy_gRqoLDmgJgzm5X8a4O/view?usp=embed_facebook |access-date=2026-08-14 |website=Google Docs}}</ref>
+|August 11–13, 2026
+|800 (LV)
+|±&nbsp;4.0%
+|44%
+| {{party shading/Democratic}} |'''48%'''
+|{{sdash}}
+| 8%
+|-
+|style="text-align:left;"|Beacon Research (D)/<br />Shaw & Co. Research (R)<ref>{{Cite web|url=https://www.foxnews.com/politics/fox-news-poll-economic-anxiety-candidate-concerns-define-ohio-senate-race|title=Fox News Poll: Economic anxiety and candidate concerns define Ohio Senate race|first=Dana|last=Blanton|website=[[Fox News]]|date=August 13, 2026|access-date=August 13, 2026}}</ref>{{efn-ua|name=Fox}}
+|August 6–10, 2026
+|1,008 (RV)
+|±&nbsp;3.0%
+|45%
+|{{party shading/Democratic}}|'''53%'''
+|{{sdash}}
+|2%
+|-
+|style="text-align:left;"|Tulchin Research (D)<ref>{{cite web|url=https://www.documentcloud.org/documents/28549388-oh-sen-gov-ag-tulchin-research-for-john-kulewicz/|title=John Kulewicz Leads Keith Faber in Race for Ohio Attorney General|first=Ben|last=Krompak|work=Tulchin Research|date=August 10, 2026|access-date=August 12, 2026|via=[[DocumentCloud]]}}</ref>{{efn-ua|name=JK}}
+|July 29 – August 4, 2026
+|600 (LV)
+|±&nbsp;4.0%
+|43%
+|{{party shading/Democratic}}|'''47%'''
+|4%{{efn|William Redpath (L) and Greg Levy (I) with 2%}}
+|6%
+|-
+| style="text-align:left;|''[[New York Times]]''/[[Siena University (New York)|Siena University]]<ref>{{cite web|title=Toplines: June 2026 Times/Siena Polls of Likely Voters in Battleground Senate Races|url=https://www.nytimes.com/interactive/2026/07/01/polls/times-siena-battleground-poll-toplines.html |website=[[New York Times]] |date=June 30, 2026 |access-date=July 1, 2026}}</ref>
+|June 15–28, 2026
+|601 (LV)
+|±&nbsp;4.7%
+|{{party shading/Republican}}|'''50%'''
+|47%
+|{{sdash}}
+|3%
+|-
+|style="text-align:left;"|Fabrizio Ward (R)/<br />Impact Research (D)<ref>{{cite news |title=New AARP Ohio Poll: 50+ Voters Key in Tight Senate, Governor Races |url=https://www.aarp.org/press/releases/2026-06-25-ohio-poll-50-voters-key-tight-senate-governor-races/|website=[[AARP]]|date=25 June 2026|access-date=25 June 2026}}</ref>{{efn-ua|name=AARP|Poll conducted for ''[[AARP]]''}}
+|June 14–16, 2026
+|800 (LV)
+|±&nbsp;3.5%
+|45%
+|{{party shading/Democratic}}|'''48%'''
+|1%{{efn|name="SE1"|"Someone else" with 1%}}
+|7%
+|-
+|style="text-align:left;"|Tulchin Research (D)<ref>{{cite news |title=New poll shows Democratic candidates ahead in Ohio |url=https://www.nbc4i.com/news/your-local-election-hq/new-poll-shows-democratic-candidates-ahead-in-ohio/ |first=Katie |last=Millard |website=[[WCMH-TV]] |date=17 June 2026 |access-date=17 June 2026}}</ref>{{efn-ua|name=JK|Poll conducted for John Kulewicz, Democratic candidate for [[2026 Ohio Attorney General election|Attorney General]]}}
+|June 2–4, 2026
+|600 (LV)
+|±&nbsp;4.0%
+|42%
+|{{party shading/Democratic}}|'''46%'''
+|4%{{efn|William Redpath (L) with 4%}}
+|7%
+|-
+|style="text-align:left;"|Beacon Research (D)/<br />Shaw & Co. Research (R)<ref>{{Cite web|url=https://www.foxnews.com/politics/fox-news-poll-democratic-unity-republican-crossovers-shape-ohio-senate-race|title=Fox News Poll: Democratic unity, Republican crossovers shape Ohio Senate race|first=Dana|last=Blanton|website=[[Fox News]]|date=June 3, 2026|access-date=June 3, 2026}}</ref>{{efn-ua|name=Fox|Poll conducted for ''[[Fox News]]''}}
+|May 28 – June 1, 2026
+|1,015 (RV)
+|±&nbsp;3.0%
+|45%
+|{{party shading/Democratic}}|'''53%'''
+|{{sdash}}
+|2%
+|-
+|- style="background:lightyellow;"
+| style="border-right-style:hidden; background:lightyellow;" |
+| style="border-right-style:hidden; " |May 5, 2026
+| colspan="6" | Primary elections are held 
+|-
+|style="text-align:left;"|[[Bowling Green State University]]/[[YouGov]]<ref>{{Cite web|url=https://scholarworks.bgsu.edu/cgi/viewcontent.cgi?article=1021&context=depo|title=Survey of 1000 Ohio Registered Voters, April 2026 Toplines|first1=Robert|last1=Alexander|first2=Melissa K.|last2=Miller|first3=David|last3= Jackson|first4=Joshua|last4=Boston|website=[[Bowling Green State University]]|date=April 20, 2026|access-date=April 20, 2026}}</ref>
+|April 7–14, 2026
+|1,000 (RV)
+|±&nbsp;4.5%
+|{{party shading/Republican}}|'''50%'''
+|47%
+|3%{{efn|name="SE3"}}
+|{{sdash}}
+|-
+|style="text-align:left;"|Echelon Insights (R)<ref>{{cite web|url=https://netchoice.org/wp-content/uploads/2026/04/NetChoice-Apr-2026-National-Antitrust-Survey-Topline.pdf|title=NetChoice — April 2026 Antitrust Survey — Topline|work=Echelon Insights|access-date=April 21, 2026}}</ref>{{efn|Poll commissioned by [[NetChoice]]}}
+|April 3–9, 2026
+|413 (LV)
+|±&nbsp;5.8%
+|{{party shading/Republican}}|'''51%'''
+|45%
+|{{sdash}}
+|4%
+|-
+| style="text-align: left;"|Quantus Insights (R)<ref>{{Cite web|url=https://quantusinsights.org/f/quantus-insights-ohio-voters-signal-competitive-2026-environment|title=Quantus Insights: Ohio Voters Signal Competitive 2026 Environment|website=Quantus Insights|date=March 16, 2026|access-date=March 16, 2026}}</ref>
+|March 13–14, 2026
+|784 (LV)
+|±&nbsp;3.8%
+|{{party shading/Republican}}|'''46%'''
+|44%
+|4%{{efn|"Some other candidate" with 4%}}
+|6%
+|-
+| style="text-align: left;" |OnMessage Public Strategies (R)<ref>{{Cite web |title=Maine and Ohio Poll Findings |url=https://www.politico.com/f/?id=0000019c-dc55-d6f4-a9ff-dd5519a30000&nname=playbook&nid=0000014f-1646-d88f-a1cf-5f46b7bd0000&nrid=4f4d3aeb-621a-47b9-a66d-d9944fed5257 |date=March 10, 2026 |access-date=March 11, 2026 |website=OnMessage Public Strategies}}</ref>{{efn-ua|Poll sponsored by the Insurance Watchdog Coalition}}
+|March 3–8, 2026
+|600 (LV)
+|±&nbsp;4.0%
+|45%
+|{{party shading/Democratic}}|'''47%'''
+|{{sdash}}
+|8%
+|-
+| style="text-align:left;"|EMC Research (D)<ref>{{cite web |title=Ohio Voter Survey Results|url=https://theoec.org/wp-content/uploads/2026/03/OEC-Ohio-Survey-Results-2026.pdf|access-date=March 12, 2026|work=EMC Research|date=March 10, 2026}}</ref>{{efn-ua|Polling commissioned by [[Ohio Environmental Council]], an environmental organization}}
+|February 10–22, 2026
+|1,343 (LV)
+|±&nbsp;2.7%
+|47%
+|{{party shading/Democratic}}|'''51%'''
+|{{sdash}}
+|2%
+|-
+|style="text-align:left;"|[[Emerson College]]<ref>{{Cite web|url=https://emersoncollegepolling.com/ohio-2026-poll-democrats-make-gains-in-races-for-governor-and-us-senate/|title=Ohio 2026 Poll: Democrats Make Gains in Races for Governor and US Senate|website=Emerson College Polling|date=December 11, 2025|access-date=December 11, 2025}}</ref>
+|December 6–8, 2025
+|850 (RV)
+|±&nbsp;3.3%
+|{{party shading/Republican}}|'''49%'''
+|46%
+|{{sdash}}
+|5%
+|-
+|style="text-align:left;"|[[Bowling Green State University]]/[[YouGov]]<ref>{{Cite web|url=https://www.bgsu.edu/arts-and-sciences/democracy-and-public-policy-research-network/bgsu-poll.html|title=October 2025 Poll Results|website=BGSU Poll|date=October 19, 2025|access-date=October 19, 2025}}</ref>
+|October 2–14, 2025
+|800 (RV)
+|±&nbsp;4.5%
+|48%
+|{{party shading/Democratic}}|'''49%'''
+|3%{{efn|name="SE3"|"Someone else" with 3%}}
+|{{sdash}}
+|-
+| style="text-align: left;" |Hart Research (D)<ref>{{Cite web|url=https://oft-aft.org/sites/default/files/media/documents/2025/ME-15080%20Hart%20Ohio%20Senate%20Race.pdf|title=Survey on Ohio 2026 Senate Race|work=Hart Research|date=November 11, 2025|access-date=November 12, 2025}}</ref>{{efn-ua|Poll sponsored by the [[Ohio Federation of Teachers]], which supports Brown}}
+|September 19–22, 2025
+|800 (LV)
+|±&nbsp;3.5%
+|45%
+|{{party shading/Democratic}}|'''48%'''
+|{{sdash}}
+|7%
+|-
+|style="text-align:left;"|[[Emerson College]]<ref>{{Cite web|url=https://emersoncollegepolling.com/ohio-2026/|title=Ohio 2026 Poll: Senator Husted Starts Matchup with Six-point Lead Over Sherrod Brown|website=Emerson College Polling|date=August 21, 2025|access-date=August 21, 2025}}</ref>
+|August 18–19, 2025
+|1,000 (RV)
+|±&nbsp;3%
+|{{party shading/Republican}}|'''50%'''
+|44%
+|{{sdash}}
+|7%
+|-
+|style="text-align:left;"|[[Bowling Green State University]]/[[YouGov]]<ref name="BGSUApril2025">{{Cite web|url=https://scholarworks.bgsu.edu/cgi/viewcontent.cgi?article=1007&context=depo|title=Survey of 800 Ohio Registered voters 18+, April 2025 Toplines
+|first1=Robert|last1=Alexander|first2=Melissa |last2=Miller|first3=David|last3=Jackson|first4=Joshua|last4=Boston|website=Bowling Green State University|date=April 29, 2025|access-date=August 10, 2025}}</ref>
+|April 18–24, 2025
+|800 (RV)
+|±&nbsp;4.1%
+|{{party shading/Republican}}|'''49%'''
+|46%
+|5%{{efn|"Someone else" with 5%}}
+|{{sdash}}
+|-
+|style="text-align:left;"|[[Bowling Green State University]]/[[YouGov]]<ref name="BGSUFeb2025">{{Cite web|url=https://scholarworks.bgsu.edu/cgi/viewcontent.cgi?article=1007&context=depo|title=Survey of 800 Ohio Registered voters 18+, Feb 2025 Toplines|first1=Robert|last1=Alexander|first2=Melissa |last2=Miller|first3=David|last3=Jackson|first4=Joshua|last4=Boston|website=Bowling Green State University|date=March 5, 2024|access-date=March 9, 2025}}</ref>
+|February 14–21, 2025
+|800 (RV)
+|±&nbsp;4.0%
+|{{party shading/Republican}}|'''47%'''
+|41%
+|{{sdash}}
+|12%
+|}
+
+<!-- = = = don't edit the line below = = = -->
+{{hidden begin|titlestyle=background:#cff|title=Hypothetical polling|contentstyle=border:solid 1px silver; padding:8px; background:var(--background-color-base); color:var(--color-base);}}
+<!-- = = = don't edit the line above = = = -->
+'''Jon Husted vs. Tim Ryan'''<br />
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"}}
+! Margin<br />of error
+! style="width:100px;"| Jon<br />Husted (R)
+! style="width:100px;"| Tim<br />Ryan (D)
+! Other
+! Undecided
+|-
+|style="text-align:left;"|[[Bowling Green State University]]/[[YouGov]]<ref name="BGSUApril2025"/>
+|April 18–24, 2025
+|800 (RV)
+|±&nbsp;4.1%
+|{{party shading/Republican}}|'''50%'''
+|44%
+|6%{{efn|"Someone else" with 6%}}
+|{{sdash}}
+|-
+|style="text-align:left;"|[[Bowling Green State University]]/[[YouGov]]<ref name="BGSUFeb2025"/>
+|February 14–21, 2025
+|800 (RV)
+|±&nbsp;4.0%
+|{{party shading/Republican}}|'''45%'''
+|38%
+|{{sdash}}
+|17%
+|}
+{{hidden end}}
+
+===Results===
+{{Election box begin
+ | title=2026 United States Senate special election in Ohio}}
+{{Election box candidate with party link
+ | party=Republican Party (United States)
+ | candidate= [[Jon Husted]] (incumbent)
+ | votes=
+ | percentage=
+ | change=
+}}
+{{Election box candidate with party link
+ | party=Democratic Party (United States)
+ | candidate=[[Sherrod Brown]]
+ | votes= 
+ | percentage=
+ | change=
+}}
+{{Election box candidate with party link
+ | party=Libertarian Party (United States)
+ | candidate=Bill Redpath
+ | votes= 
+ | percentage=
+ | change=
+}}
+{{Election box candidate with party link
+ | party=Independent politician 
+ | candidate=Greg Levy
+ | votes= 
+ | percentage=
+ | change=
+}}
+{{Election box write-in with party link
+ | votes= 
+ | percentage=
+ | change=
+}}
+{{Election box total 
+ | votes= 
+ | percentage=100.0
+ | change=
+}}
+{{Election box end}}
+
+==See also==
+*[[2026 Ohio elections]]
+
+==Notes==
+{{Notelist}}
+'''Partisan clients'''<br />
+{{notelist-ua}}
+
+==References==
+{{reflist}}
+
+==External links==
+'''Official campaign websites'''
+*[https://www.sherrodbrown.com/ Sherrod Brown (D)]
+*[https://www.jonhustedforsenate.com/ Jon Husted (R)]
+*[https://www.greg4senate.com/ Greg Levy (I)]
+*[https://billredpath.com/ Bill Redpath (L)]
+
+{{2026 United States elections}}
+
+[[Category:2026 United States Senate elections|Ohio]]
+[[Category:2026 Ohio elections|Senate]]
+[[Category:Ohio special elections|United States Senate 2026]]
+[[Category:Special elections to the 119th United States Congress|Ohio Senate 2026]]
+[[Category:United States Senate elections in Ohio|2026]]
+[[Category:United States Senate special elections|Ohio 2026]]

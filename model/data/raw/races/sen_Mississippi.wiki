@@ -1,0 +1,446 @@
+{{short description|none}}
+{{for|related races|2026 United States Senate elections}}
+{{Use American English|date=January 2026}}
+{{use mdy dates|date=December 2024}}
+
+{{Infobox election
+| election_name = 2026 United States Senate election in Mississippi
+| country = Mississippi
+| type = presidential
+| ongoing = yes
+| previous_election = 2020 United States Senate election in Mississippi
+| previous_year = 2020
+| next_election = 2032 United States Senate election in Mississippi
+| next_year = 2032
+| election_date = November 3, 2026
+| image1 = File:Official headshot of US Senator Cindy Hyde-Smith (cropped).jpg
+| nominee1 = [[Cindy Hyde-Smith]]
+| party1 = Republican Party (United States)
+| popular_vote1 = 
+| percentage1 = 
+| image2 = 3x4.svg
+| nominee2 = [[Scott Colom]]
+| party2 = Democratic Party (United States)
+| popular_vote2 = 
+| percentage2 = 
+<!-- Remove this comment tag when Pinkins has reached three polls at 5% or greater. He's at two now.
+| image3 = 3x4.svg
+| nominee3 = Ty Pinkins
+| party3 = Independent Party (United States)
+| popular_vote3 = 
+| percentage3 = 
+-->
+| map_image = 
+| map_size = 
+| map_caption = County results
+| title = U.S. senator
+| before_election = [[Cindy Hyde-Smith]]
+| before_party = Republican Party (United States)
+| after_election = 
+| after_party = 
+}}
+{{ElectionsMS}}
+The '''2026 United States Senate election in Mississippi''' will be held on November 3, 2026, to elect a member of the [[United States Senate]] to represent the state of [[Mississippi]].<ref>{{Cite web|title=United States Senate election in Mississippi, 2026|url=https://ballotpedia.org/United_States_Senate_election_in_Mississippi,_2026|access-date=April 19, 2025|website=[[Ballotpedia]]}}</ref> [[Republican Party (United States)|Republican]] incumbent [[Cindy Hyde-Smith]] is seeking re-election to a second full term. She is being challenged by [[Democratic Party (United States)|Democratic]] Lowndes County district attorney [[Scott Colom]].
+
+[[Primary elections]] were held on March 10. Facing minimal opposition, Hyde-Smith won the Republican nomination with 80.8% of the vote. Colom won the Democratic nomination with 73% of the vote against Marine veteran Albert Littell and Priscilla Williams-Till, a cousin of [[Emmett Till]].<ref name="Colom2">{{cite news |last1=McRae |first1=Emma |date=September 3, 2025 |title=Colom announces Senate run for Hyde-Smith's seat |url=https://cdispatch.com/news/colom-announces-senate-run-for-hyde-smiths-seat/ |access-date=September 3, 2025 |work=[[The Commercial Dispatch]]}}</ref><ref name="WilliamsTill">{{cite news |last1=Harrison |first1=Heather |date=September 9, 2025 |title=Emmett Till's Cousin Is Running for US Senate in Mississippi |url=https://www.mississippifreepress.org/priscilla-williams-till-emmett-tills-cousin-is-running-for-us-senate-in-mississippi/ |access-date=September 9, 2025 |work=Mississippi Free Press}}</ref><ref>{{Cite web |title=Meet the US Senate candidates in Mississippi 2026 primary election |url=https://www.clarionledger.com/story/news/politics/elections/2026/02/27/united-states-senate-candidates-election-2026-in-mississippi/88839755007/ |access-date=February 27, 2026 |website=Clarion Ledger}}</ref>
+
+Democrats have not won a Senate election in Mississippi since [[1982 United States Senate election in Mississippi|1982]].
+
+== Republican primary ==
+=== Candidates ===
+==== Nominee ====
+* [[Cindy Hyde-Smith]], incumbent U.S. senator<ref>{{cite news |last1=Mitchell |first1=J. T. |title=Sen. Cindy Hyde-Smith announces she will seek reelection in 2026 |url=https://www.supertalk.fm/sen-cindy-hyde-smith-announces-she-will-seek-reelection-in-2026/ |access-date=March 7, 2024 |work=[[Supertalk Mississippi]] |date=March 7, 2024}}</ref>
+==== Eliminated in primary ====
+* Sarah Adlakha, physician<ref name="Adlakha">{{cite news |last1=Corder |first1=Frank |title=Hyde-Smith draws GOP challenger as Democrats target her Mississippi U.S. Senate seat |url=https://magnoliatribune.com/2025/05/09/hyde-smith-draws-gop-challenger-as-democrats-target-her-mississippi-u-s-senate-seat/ |access-date=May 9, 2025 |work=Magnolia Tribune |date=May 9, 2025}}</ref>
+
+=== Endorsements ===
+{{Endorsements box
+|title=Cindy Hyde-Smith
+|list=
+;Executive branch officials
+* [[Donald Trump]], [[president of the United States]] (2017–2021, 2025–present)<ref name="Adlakha" />
+
+;U.S. senators
+* [[Roger Wicker]], [[Mississippi]] (2007–present)<ref name="Myriad">{{cite web |last1=Corder |first1=Frank |title=Hyde-Smith backed by a myriad of state, federal Republican elected officials |url=https://magnoliatribune.com/2026/01/22/hyde-smith-backed-by-a-myriad-of-state-federal-republican-elected-officials/ |website=Magnolia Tribune |access-date=24 January 2026 |date=22 January 2026}}</ref>
+
+;U.S. representatives
+* [[Trent Kelly]], [[Ms-01|MS-01]] (2015–present)<ref name="Myriad"/>
+* [[Michael Guest (politician)|Michael Guest]], [[MS-03]] (2019–present)<ref name="Myriad"/>
+* [[Mike Ezell]], [[MS-04]] (2023–present)<ref name="Myriad"/>
+
+;Statewide officials
+* [[Tate Reeves]], [[governor of Mississippi]] (2020–present)<ref name="Myriad"/>
+* [[Delbert Hosemann]], [[Lieutenant Governor of Mississippi|lieutenant governor of Mississippi]] (2020–present)<ref name="Myriad"/>
+* [[Lynn Fitch]], [[Mississippi Attorney General|attorney general of Mississippi]] (2020–present)<ref name="Myriad"/>
+* [[David McRae]], [[Mississippi State Treasurer|state treasurer of Mississippi]] (2020–present)<ref name="Myriad"/>
+* [[Shad White]], [[Mississippi State Auditor|state auditor of Mississippi]] (2018–present)<ref name="Myriad"/>
+* [[Andy Gipson]], [[Mississippi Department of Agriculture and Commerce|agriculture commissioner of Mississippi]] (2018–present)<ref name="Myriad"/>
+* [[Mike Chaney]], [[Mississippi Insurance Department|insurance commissioner of Mississippi]] (2008–present)<ref name="Myriad"/>
+
+;State legislators
+* [[Jason White (politician)|Jason White]], speaker of the [[Mississippi House of Representatives]] (2024–present) from HD-48 (2012–present)<ref name="Myriad"/>
+* 72 [[Mississippi House of Representatives|state representatives]]<ref name="Myriad"/>
+* 34 [[Mississippi State Senate|state senators]]<ref name="Myriad"/>
+
+;Organizations
+* [[AIPAC]]<ref>{{Cite web |title=- AIPAC Political Portal |url=https://candidates.aipacpac.org/page/featured |access-date=2025-04-28 |website=candidates.aipacpac.org}}</ref>
+* [[Maggie's List]]<ref>{{cite web |title=Candidates |url=https://maggieslist.org/our-candidates/ |website=Maggie's List |access-date=18 November 2025}}</ref>
+}}
+
+===Fundraising===
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of March 31, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|Sarah Adlakha (R)
+|$566,184
+|$556,454
+|$9,729
+|-
+|{{party shading/Republican}}|Cindy Hyde-Smith (R)
+|$5,027,030
+|$2,729,948
+|$2,458,624
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC1">{{cite web |title=2026 Election United States Senate - Mississippi |url=https://www.fec.gov/data/elections/senate/MS/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=April 23, 2025}}</ref></small>
+|}
+
+=== Results ===
+[[File:2026 United States Senate Republican primary election in Mississippi results map by county.svg|thumb|170px|Results by county
+{{collapsible list
+| title = {{legend|#E27F7F|Hyde-Smith}}
+|{{legend|#D72F30|70–80%}}
+|{{legend|#C21B18|80–90%}}
+|{{legend|#a80000|90–100%}}
+}}
+]]
+{{Election box begin no change|title=Republican primary results}}
+{{Election box winning candidate with party link no change|candidate=[[Cindy Hyde-Smith]] (incumbent)|party=Republican Party (United States)|votes=127,852|percentage=80.8}}
+{{Election box candidate with party link no change|candidate=Sarah Adlakha|party=Republican Party (United States)|votes=30,344|percentage=19.2}}
+{{Election box total no change|votes=158,196|percentage=100.0}}
+{{Election box end}}
+
+== Democratic primary ==
+=== Candidates ===
+==== Nominee ====
+* [[Scott Colom]], district attorney for the 16th Judicial District of Mississippi (2016–present)<ref name="Colom">{{cite news |last1=McRae |first1=Emma |title=Colom announces Senate run for Hyde-Smith's seat |url=https://cdispatch.com/news/colom-announces-senate-run-for-hyde-smiths-seat/ |access-date=September 3, 2025 |work=[[The Commercial Dispatch]] |date=September 3, 2025}}</ref>
+==== Eliminated in primary ====
+* Albert Littell, [[United States Marine Corps|Marine Corps]] veteran<ref>{{Cite web |title=Meet the US Senate candidates in Mississippi 2026 primary election|url=https://www.clarionledger.com/story/news/politics/elections/2026/02/27/united-states-senate-candidates-election-2026-in-mississippi/88839755007/|access-date=February 27, 2026|website=Clarion Ledger}}</ref>
+* Priscilla Williams-Till, teacher and cousin of [[Emmett Till]]<ref>{{cite news |last1=Harrison |first1=Heather |title=Emmett Till's Cousin Is Running for US Senate in Mississippi |url=https://www.mississippifreepress.org/priscilla-williams-till-emmett-tills-cousin-is-running-for-us-senate-in-mississippi/ |access-date=September 9, 2025 |work=[[Mississippi Free Press]] |date=September 9, 2025}}</ref>
+
+==== Withdrawn ====
+* Ty Pinkins, lawyer, nominee for [[Secretary of State of Mississippi|secretary of state]] in [[2023 Mississippi elections#Secretary of state|2023]], and nominee for [[United States Senate|U.S. Senate]] in [[2024 United States Senate election in Mississippi|2024]] ''(running as an Independent)''<ref name="Pinkins">{{cite news |last1=McLaughlin |first1=Grant |title=Pinkins leaving MS Democratic Party, running as independent. What to know |url=https://www.clarionledger.com/story/news/politics/2025/07/01/ty-pinkins-leaving-mississippi-democratic-party/84427842007/ |access-date=July 1, 2025 |work=[[The Clarion Ledger]] |date=July 1, 2025}}</ref>
+
+=== Endorsements ===
+{{Endorsements box
+|title=Scott Colom
+|list=
+;U.S. representatives
+* [[Bennie Thompson]], [[Mississippi's 2nd congressional district|MS-02]] (1993–present)<ref>{{cite web |title=Thompson endorses Colom ahead of March Democratic Primary |url=https://magnoliatribune.com/2026/02/17/thompson-endorses-colom-ahead-of-march-democratic-primary/ |first=Frank | last=Corder| website=Magnolia Tribune |access-date=18 February 2026 |language=en |date=17 February 2026}}</ref>
+;State legislators
+* 16 [[Mississippi House of Representatives|state representatives]]<ref name="Across">{{cite web |title=BREAKING: One Week Before Primary, Eighteen Mississippi State Legislators Representing Communities Across the State Endorse Scott Colom for U.S. Senate |url=https://jacksonadvocateonline.com/breaking-one-week-before-primary-eighteen-mississippi-state-legislators-representing-communities-across-the-state-endorse-scott-colom-for-u-s-senate/ |access-date=March 10, 2026 |work=[[Jackson Advocate]] |date=March 3, 2026}}</ref>
+* 6 [[Mississippi State Senate|state senators]]<ref name="Across"/>
+;Labor unions
+* Mississippi [[AFL-CIO]]<ref>{{cite web |last1=Bakken |first1=Bob |title=AFL-CIO backs Colom for Senate {{!}} DeSoto County News |url=https://desotocountynews.com/mississippi-news/afl-cio-backs-colom-for-senate/ |website=De Soto County News |access-date=17 February 2026 |date=16 February 2026}}</ref>
+;Organizations
+* [[Congressional Black Caucus#Congressional Black Caucus PAC|Congressional Black Caucus PAC]]<ref name="Across"/>
+* [[Indivisible movement|Indivisible]] DeSoto MS<ref>{{cite news |last1=Bakken |first1=Bob |title=Indivisible DeSoto MS activist group endorses Colom, Johnson ahead of primaries |url=https://desotocountynews.com/mississippi-news/indivisible-desoto-ms-activist-group-endorses-colom-johnson-ahead-of-primaries/ |access-date=March 10, 2026 |work=[[DeSoto County News]] |date=January 5, 2026}}</ref>
+}}
+
+=== Fundraising ===
+{| class="wikitable sortable"
+|-
+! colspan="4" |Campaign finance reports as of March 31, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+| {{party shading/Democratic}} |Scott Colom (D)
+|$1,619,367
+|$1,059,740
+|$559,626
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC1" /></small>
+|}
+
+=== Results ===
+[[File:2026 United States Senate Democratic primary election in Mississippi results map by county.svg|thumb|170px|Results by county
+{{collapsible list
+| title = {{legend|#7996e2|Colom}}
+|{{legend|#a5b0ff|40–50%}}
+|{{legend|#7996e2|50–60%}}
+|{{legend|#6674de|60–70%}}
+|{{legend|#584cde|70–80%}}
+|{{legend|#3933e5|80–90%}}
+|{{legend|#0d0596|90–100%}}
+}}
+]]
+{{Election box begin no change|title=Democratic primary results}}
+{{Election box winning candidate with party link no change|candidate=[[Scott Colom]]|party=Democratic Party (United States)|votes=109,817|percentage=72.9}}
+{{Election box candidate with party link no change|candidate=Priscilla Williams-Till|party=Democratic Party (United States)|votes=28,075|percentage=18.6}}
+{{Election box candidate with party link no change|candidate=Albert Littell|party=Democratic Party (United States)|votes=12,749|percentage=8.5}}
+{{Election box total no change|votes=150,641|percentage=100.0}}
+{{Election box end}}
+
+== Third-party and independent candidates ==
+=== Candidates ===
+==== Declared ====
+* Ty Pinkins (Independent), lawyer, Democratic nominee for [[Secretary of State of Mississippi|Secretary of State]] in [[2023 Mississippi elections#Secretary of state|2023]] and [[United States Senate|U.S. Senate]] in [[2024 United States Senate election in Mississippi|2024]]<ref name="Pinkins"/>
+
+===Fundraising===
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of December 31, 2025
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Independent}}|Ty Pinkins (I)
+|$79,244
+|$81,879
+|$2,980
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC1"/></small>
+|}
+
+== General election ==
+=== Predictions ===
+{| class="wikitable" style=text-align:center
+!Source
+!Ranking
+!As of
+|-
+|align="left"|''[[The Cook Political Report]]''<ref>{{Cite web|title=2026 CPR Senate Race Ratings|url=https://www.cookpolitical.com/ratings/senate-race-ratings|access-date=October 7, 2026|website=[[Cook Political Report]]}}</ref>
+|{{USRaceRating|Solid|R}}
+|October 6, 2026
+|-
+|align="left"|[[Decision Desk HQ]]<ref>{{cite web|title=2026 Senate Ratings|url=https://votes.decisiondeskhq.com/forecast/2026/senate|url-access=registration|publisher=[[Decision Desk HQ]]|access-date=October 7, 2026}}</ref>
+|{{USRaceRating|Likely|R}}
+|October 7, 2026
+|-
+|align="left"|''[[The Economist]]''<ref>{{Cite web|title=2026 Senate Forecast|url=https://www.economist.com/interactive/2026/us-midterms/prediction-model/senate/|access-date=October 7, 2026|website=[[The Economist]]}}</ref>{{efn|''The Economist''{{'}}s prediction model uses unconventional terminology. For the purpose of equivalency, their "Very Likely" ratings are formatted as a "Likely" rating while "Likely" ratings are formatted as a "Lean" rating.}}
+|{{USRaceRating|Likely|R}}
+|October 7, 2026
+|-
+|align="left"|[[FiftyPlusOne]]<ref>{{Cite web |title=2026 Congressional Forecast |url=https://fiftyplusone.news/forecast/senate |access-date=October 7, 2026 |website=[[FiftyPlusOne]]}}</ref>
+|{{USRaceRating|Safe|R}}
+|October 7, 2026
+|-
+|align="left"|[[Fox News]]<ref>{{Cite news |last=Numa |first=Rémy |title=Fox News Power Rankings: The biggest surprises come after October |url=https://www.foxnews.com/politics/fox-news-power-rankings-the-biggest-surprises-come-after-october |work=[[Fox News]] |date=October 6, 2026 |access-date=October 7, 2026}}</ref>
+|{{USRaceRating|Solid|R}}
+|October 6, 2026
+|-
+|align="left"|''[[Inside Elections]]''<ref>{{Cite web|title=Senate Ratings|url=https://www.insideelections.com/ratings/senate|access-date=October 7, 2026 |website=[[Inside Elections]]}}</ref>
+|{{USRaceRating|Solid|R}}
+|October 1, 2026
+|-
+|align="left"|[[RealClearPolitics]]<ref>{{Cite web|url=https://www.realclearpolling.com/maps/senate/2026/toss-up|title=Battle for the Senate 2026|access-date=October 7, 2026|website=[[RealClearPolitics]]}}</ref>
+|{{USRaceRating|Solid|R}}
+|October 5, 2026
+|-
+|align="left"|''[[Sabato's Crystal Ball]]''<ref>{{cite web|title=2026 Senate ratings|url=https://centerforpolitics.org/crystalball/2026-senate/|website=[[Sabato's Crystal Ball]]|access-date=October 7, 2026}}</ref>
+|{{USRaceRating|Safe|R}}
+|October 6, 2026
+|-
+|align="left"|''[[Silver Bulletin]]''<ref name="Silver">{{Cite web |url=https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model |title=FLIPR 2026 midterm election forecast |last1=Silver |first1=Nate |author1-link=Nate Silver |last2=McKown-Dawson |first2=Eli |website=[[Silver Bulletin]] |via=[[Substack]] |date=October 7, 2026 |orig-date=August 11, 2026 |access-date=October 7, 2026 |url-access=subscription}}</ref>
+|{{USRaceRating|Solid|R}}
+|October 7, 2026
+|-
+|align="left"|[[Split Ticket (website)|Split Ticket]]<ref>{{Cite magazine |title=Split Ticket 2026 Midterms Model |url=https://www.theargumentmag.com/p/split-ticket-2026-midterms-model |magazine=[[The Argument (magazine)|The Argument]] |via=[[Substack]] |access-date=October 7, 2026}}</ref>
+|{{USRaceRating|Safe|R}}
+|October 7, 2026
+|}
+
+===Post-primary endorsements===
+{{Endorsements box
+|title=Cindy Hyde-Smith (R)
+|list=
+;Organizations
+*[[United States Chamber of Commerce|U.S. Chamber of Commerce]]<ref>{{cite web|url=https://www.uschamber.com/improving-government/u-s-chamber-endorses-senator-cindy-hyde-smith-for-u-s-senate-in-mississippi|title=U.S. Chamber Endorses Senator Cindy Hyde-Smith for U.S. Senate in Mississippi|date=September 29, 2026|access-date=October 2, 2026}}</ref>
+}}
+{{Endorsements box
+|title=Scott Colom (D)
+|list=
+;Executive branch officials
+*[[Pete Buttigieg]], former [[secretary of transportation]] (2021–2025)<ref name="buttigieg_colom">{{cite web |last1=Egwuonwu |first1=Nnamdi |title=Can a Democrat become Mississippi’s next senator? Pete Buttigieg thinks so. |url=https://www.ms.now/news/pete-buttigieg-scott-colom-mississippi-senate |website=[[MS NOW]] |access-date=2026-08-25 |date=2026-08-25}}</ref>
+;U.S. senators
+*[[Angela Alsobrooks]], [[Maryland]] (2025–present)<ref>{{cite news |last1=Vance |first1=Taylor |title=Maryland Sen. Alsobrooks campaigns for Scott Colom in Jackson, focuses on healthcare |url=https://mississippitoday.org/2026/08/01/scott-colom-angela-alsobrooks-senate/ |access-date=August 11, 2026 |work=[[Mississippi Today]] |date=August 1, 2026}}</ref>
+}}
+
+===Fundraising===
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of June 30, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}| Cindy Hyde-Smith (R)
+|$5,458,311
+|$3,083,958
+|$2,535,895
+|-
+|{{party shading/Democratic}}| Scott Colom (D)
+|$2,384,921
+|$1,537,875
+|$847,045
+|-
+|{{party shading/Independent}}| Ty Pinkins (I)
+|$98,038
+|$98,301
+|$5,352
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC">{{cite web |title=2026 Election United States Senate - Mississippi |url=https://www.fec.gov/data/elections/senate/MS/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=August 4, 2024}}</ref></small>
+|}
+
+===Polling===
+'''Cindy Hyde-Smith vs. Scott Colom vs. Ty Pinkins'''<br />
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- style="vertical-align:bottom"
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"}}
+! Margin<br />of error
+! style="width:100px;"| Cindy<br />Hyde-Smith (R)
+! style="width:100px;"| Scott<br />Colom (D)
+! style="width:100px;"| Ty<br />Pinkins (I)
+! Undecided
+|-
+|style="text-align:left;" rowspan="2"|Data for Progress (D)<ref>{{cite web |title=Data for Progress August poll |url=https://www.filesforprogress.org/datasets/2026/8/dfp_ms_ge26_aug2026_crosstabs.pdf |publisher=Data for Progress |access-date=August 28, 2026}}</ref>{{efn-ua|Poll sponsored by Way to Lead PAC, which supports Democrats}}
+|rowspan="2"|August 5–15, 2026
+|rowspan="2"|1,018 (LV)
+|rowspan="2"|±&nbsp;3.0%
+|{{party shading/Republican}}|'''44%'''
+|38%
+|7%
+|11%
+|-
+|{{party shading/Republican}}|'''47%'''
+|41%
+|{{sdash}}
+|12%
+|-
+|style="text-align:left;" rowspan="2"|Impact Research (D)<ref name="ImpactApr2026">{{Cite web|url=https://www.splcactionfund.org/news/new-poll-of-likely-voters-shows-mississippi-senate-race-tightening-as-voters-continue-to-sour-on-sen-cindy-hyde-smith/|title=New Poll of Likely Voters Shows Mississippi Senate Race Tightening as Voters Continue to Sour on Sen. Cindy Hyde-Smith|website=[[Southern Poverty Law Center|SPLC Action Fund]]|date=April 20, 2026|access-date=April 20, 2026}}</ref>{{efn-ua|name=SPLC}}
+|rowspan="2"|April 8–12, 2026
+|rowspan="2"|500 (LV)
+|rowspan="2"|±&nbsp;4.4%
+|{{party shading/Republican}}|'''42%'''
+|39%
+|6%
+|13%
+|-
+|{{party shading/Republican}}|'''47%'''
+|44%
+|{{sdash}}
+|9%
+|-
+|- style="background:lightyellow;"
+| style="border-right-style:hidden; background:lightyellow;" |
+| style="border-right-style:hidden; " | March 10, 2026
+| colspan="16"| Primary elections
+|-
+|style="text-align:left;"|Impact Research (D)<ref name="ImpactApr2026"/>{{efn-ua|name=SPLC|Poll sponsored by the [[Southern Poverty Law Center|SPLC Action Fund]], which opposes Hyde-Smith}}
+|June 18–22, 2025
+|500 (RV)
+|±&nbsp;4.4%
+|{{party shading/Republican}}|'''51%'''
+|38%
+|{{sdash}}
+|11%
+|}
+
+<!-- = = = don't edit the line below = = = -->
+{{hidden begin|titlestyle=background:#cff|title=Hypothetical polling|contentstyle=border:solid 1px silver; padding:8px; background:var(--background-color-base); color:var(--color-base);}}
+<!-- = = = don't edit the line above = = = -->
+'''Cindy Hyde-Smith vs. generic opponent'''<br />
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- style="vertical-align:bottom"
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|Key:<br />A – all adults<br />RV – registered voters<br />LV – likely voters<br />V – unclear|name="Key"}}
+! Margin<br />of error
+! style="width:100px;"| Cindy<br />Hyde-Smith (R)
+! style="width:100px;"| Generic<br />Opponent
+! Undecided
+|-
+|style="text-align:left;"|Impact Research (D)<ref name="ImpactApr2026"/>{{efn-ua|name=SPLC}}
+|April 8–12, 2026
+|500 (LV)
+|±&nbsp;4.4%
+|33%
+|{{party shading/Other}}|'''53%'''
+|14%
+|-
+|style="text-align:left;"|Impact Research (D)<ref>{{Cite web|url=https://www.splcactionfund.org/news/poll-2026-senate-mississippi/|title=New SPLC Action Fund Poll Shows Mississippi Senate Race Could Be in Play|first1=Brandon|last1=Jones|website=[[Southern Poverty Law Center|SPLC Action Fund]]|date=July 10, 2025|access-date=November 1, 2025}}</ref>{{efn-ua|name=SPLC|Poll sponsored by the [[Southern Poverty Law Center|SPLC Action Fund]], which opposes Hyde-Smith}}
+|June 18–22, 2025
+|500 (RV)
+|±&nbsp;4.4%
+|38%
+|{{party shading/Other}}|'''46%'''
+|16%
+|}
+{{hidden end}}
+
+===Results===
+{{Election box begin
+ | title      = 2026 United States Senate election in Mississippi
+}}
+{{Election box candidate with party link
+|party=Republican Party (United States)
+|candidate=[[Cindy Hyde-Smith]] (incumbent)
+|votes=
+|percentage=
+|change=
+}}
+{{Election box candidate with party link
+|party=Democratic Party (United States)
+|candidate=[[Scott Colom]]
+|votes=
+|percentage=
+|change=
+}}
+{{Election box candidate with party link
+|party=Independent
+|candidate=Ty Pinkins
+|votes=
+|percentage=
+|change=
+}}
+{{Election box total
+ | votes= 
+ | percentage= 
+ | change= 
+}}
+{{Election box end}}
+
+== Notes ==
+{{notelist}}
+'''Partisan clients'''<br />
+{{notelist-ua}}
+
+== References ==
+{{reflist}}
+
+== External links ==
+'''Official campaign websites'''
+* [https://scottcolom.com/ Scott Colom (D)]
+* [https://cindyhydesmith.com/ Cindy Hyde-Smith (R)]
+* [https://typinkins.com/ Ty Pinkins (I)]
+
+{{Elections in Mississippi footer}}
+{{2026 United States elections}}
+
+[[Category:United States Senate elections in Mississippi|2026]]
+[[Category:2026 United States Senate elections|Mississippi]]
+[[Category:2026 Mississippi elections|United States Senate]]

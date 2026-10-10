@@ -1,0 +1,1393 @@
+{{Short description|none}}
+{{for|related races|2026 United States Senate elections}}
+{{Distinguish|2026 North Carolina Senate election}}{{Use American English|date=November 2025}}
+{{Use mdy dates|date=June 2025}}
+{{Infobox election
+| election_name = 2026 United States Senate election in North Carolina
+| country = North Carolina
+| type = presidential
+| ongoing = yes
+| previous_election = 2020 United States Senate election in North Carolina
+| previous_year = 2020
+| next_election = 2032 United States Senate election in North Carolina
+| next_year = 2032
+| election_date = November 3, 2026
+| image1 = Michael Whatley (55505282618) (cropped).jpg
+| nominee1 = [[Michael Whatley]]
+| party1 = Republican Party (United States)
+| popular_vote1 = 
+| percentage1 = 
+| image2 = Roy Cooper at Roy Cooper Rally April 2026-2 (cropped).jpg
+| nominee2 = [[Roy Cooper]]
+| party2 = Democratic Party (United States)
+| popular_vote2 = 
+| percentage2 = 
+| map_image = 
+| map_size = 
+| map_caption = County results
+| title = U.S. senator
+| before_election = [[Thom Tillis]]
+| before_party = Republican Party (United States)
+| after_election = 
+| after_party = 
+}}
+{{ElectionsNC}}
+The '''2026 United States Senate election in North Carolina''' will be held on November 3, 2026, to elect a member of the [[United States Senate]] to represent the state of [[North Carolina]]. [[Republican Party (United States)|Republican]] former party chair [[Michael Whatley]] and [[Democratic Party (United States)|Democratic]] former governor [[Roy Cooper]] are the nominees for their respective parties. Republican incumbent [[Thom Tillis]] is not seeking a third term.
+
+Considered vulnerable to a primary challenge due to his moderate positions, Tillis announced he would run for re-election, but withdrew after voting against the [[One Big Beautiful Bill Act]]. Whatley, who emerged as the Republican frontrunner after being endorsed by President [[Donald Trump]], won the nomination with 64.6% of the vote over author [[Don Brown (author, born 1960)|Don Brown]]. Cooper won the Democratic nomination with 92% of the vote, facing minimal opposition.
+
+Democrats have not won a Senate election in North Carolina since [[2008 United States Senate election in North Carolina|2008]].
+
+== Background ==
+A [[swing state]], North Carolina is considered to be a [[Red states and blue states|purple to slightly red]] Southern state at the federal level. It was also a top battleground state in the [[2020 United States presidential election in North Carolina|2020]] and [[2024 United States presidential election in North Carolina|2024]] presidential elections. The state backed [[Donald Trump]] in both elections by 1.3%<ref>{{Cite web|title=November 03, 2020 General Election Results by Contest|url=https://s3.amazonaws.com/dl.ncsbe.gov/State_Board_Meeting_Docs/2020-11-24/Canvass/State%20Composite%20Abstract%20Report%20-%20Contest.pdf|work=North Carolina State Board of Elections}}</ref> and 3.2%,<ref>{{cite web|url=https://dl.ncsbe.gov/?prefix=State_Board_Meeting_Docs/2024-11-26/Canvass/ |title=NC - State_Composite_Abstract_Report-Contest.pdf |date=November 26, 2024|access-date=December 30, 2024}}</ref> respectively.
+
+Both parties have seen success in the state in recent years. Republicans control both chambers of the [[North Carolina General Assembly]] and hold a majority in North Carolina's [[United States House of Representatives|U.S. House]] delegation,<ref name="2024fedelection">
+State Board of Elections. ''[https://er.ncsbe.gov/?election_dt=11/05/2024&county_id=0&office=FED&contest=0 General election results for Federal offices, 2024]''. North Carolina State Board of Elections. Archived at [https://web.archive.org/web/20240724000000/https://er.ncsbe.gov/?election_dt=11/05/2024&county_id=0&office=FED&contest=0 Web Archive].
+</ref> as well as both of the state's U.S. Senate seats. In [[2024 North Carolina Council of State elections|2024]], Democrats won half of the state's [[North Carolina Council of State|executive offices]], flipping a net of one seat from Republicans.<ref name=2024generalncsbe>{{Cite web|url=https://er.ncsbe.gov/?election_dt=11/05/2024&county_id=0&office=COS&contest=0|title=NC SBE Contest Results|website=er.ncsbe.gov}}</ref>
+
+==Republican primary==
+Senator [[Thom Tillis]] was considered vulnerable to a primary challenger from his right. On June 10, 2023, the [[North Carolina Republican Party]] voted to censure Tillis for his support for the [[Respect for Marriage Act]] and immigration reform attempts.<ref>{{cite news |publisher=[[CNN]] |date=June 11, 2023 |url=https://www.cnn.com/2023/06/11/politics/thom-tillis-north-carolina-gop-censure/index.html |author1=Berryman, Kim |author2=Pellish, Aaron |title=Republican Sen. Thom Tillis is censured by North Carolina GOP delegates at convention}}</ref><ref name="WRALTillisSpotlight">{{cite news |title=Trump nominations put NC's Thom Tillis, the nation's 'most vulnerable' Republican senator, in the spotlight |url=https://www.wral.com/story/trump-nominations-put-nc-s-thom-tillis-the-nation-s-most-vulnerable-republican-senator-in-the-spotlight/21724608/ |access-date=November 17, 2024 |publisher=[[WRAL-TV]] |author1=Specht, Paul |author2=Doran, Will |date=November 17, 2024 |language=en}}</ref> On June 28, 2025, President [[Donald Trump]] stated he was considering backing a primary challenger after Tillis voted against a motion to consider the [[One Big Beautiful Bill Act]].<ref>{{Cite web |date=June 29, 2025 |title=Trump threatens Tillis with primary challenge |url=https://www.politico.com/live-updates/2025/06/28/congress/donald-trump-threatens-thom-tillis-00431472 |access-date=June 29, 2025 |website=[[Politico]] |author=Jacobs, Ben|language=en}}</ref> The following day, Tillis announced that he would not seek re-election.<ref name="Tillis">{{cite web|url=https://www.politico.com/news/2025/06/29/thom-tillis-retires-00432045|title=Thom Tillis says he will retire following Trump attacks|last=Carney|first=Jordain|date=June 29, 2025|access-date=June 29, 2025|website=[[Politico]]}}</ref>
+
+===Candidates===
+====Nominee====
+*[[Michael Whatley]], former chair of the [[Republican National Committee]] (2024–2025)<ref>{{Cite news |author=Gans, Jared |date=2025-07-31 |title=Trump-backed RNC Chair Michael Whatley launches North Carolina Senate bid |url=https://thehill.com/homenews/senate/5426353-rnc-chair-michael-whatley-nc-senate/amp/ |access-date=2025-07-31 |work=[[The Hill (newspaper)|The Hill]] |language=en-US}}</ref>
+
+====Eliminated in primary====
+*[[Don Brown (author, born 1960)|Don Brown]], attorney, author, and candidate for {{ushr|NC|8}} in [[2024 United States House of Representatives elections in North Carolina#District 8|2024]]<ref>{{cite news |work=[[NC Newsline]] |access-date=March 23, 2025 |author=Kingdollar, Brandon |date=March 22, 2025 |title=Angry voters demand an audience in Raleigh as Thom Tillis kicks off Senate reelection bid |url=https://ncnewsline.com/2025/03/22/thom-tillis-senate-reelection-bid-angry-voters-demand-town-hall/}}</ref>
+*Richard Dansie, IT security engineer<ref>{{cite web |title=2026 Primary Election State Candidates List |url=https://acrobat.adobe.com/id/urn:aaid:sc:US:9b5d8e34-aa45-46e6-b135-72e62e9fc311 |website=ncsbe.gov/results-data/candidate-lists|publisher=North Carolina State Board of Elections}}</ref>
+*Thomas Johnson, businessman<ref>{{cite web |title=2026 Primary Election State Candidates List |url=https://acrobat.adobe.com/id/urn:aaid:sc:US:bb4f90c7-f5d3-42cf-82e1-431ea1fe817a |access-date=December 15, 2025 |website=ncsbe.gov/results-data/candidate-lists |publisher=North Carolina State Board of Elections}}</ref>
+*Michele Morrow, former nurse and nominee for [[North Carolina Superintendent of Public Instruction|North Carolina superintendent of public instruction]] in [[2024 North Carolina Council of State elections#Superintendent of Public Instruction|2024]]<ref>{{cite web |last1=Ingram |first1=Kyle |title=Far-right activist Michele Morrow enters NC's GOP primary for Senate vs. Whatley |url=https://www.newsobserver.com/news/politics-government/article313804336.html |publisher=[[The News & Observer]] |access-date=18 December 2025 |date=December 18, 2025}}</ref>
+*Elizabeth Temple, teacher and candidate for [[North Carolina's 28th House district]] in 2024<ref name="prilist">{{cite web |title=2026 Primary Election State Candidates List |url=https://acrobat.adobe.com/id/urn:aaid:sc:US:ad8270bf-15d9-4fce-bd05-22c840e1c219 |access-date=December 11, 2025 |website=ncsbe.gov/results-data/candidate-lists |publisher=North Carolina State Board of Elections}}</ref>
+
+====Withdrawn====
+*Brooks Agnew, author<ref>{{cite news |title=Championing Freedom for North Carolina |quote=After long deliberation with my campaign team, I have decided to withdraw from the 2026 race.|url=https://brooksagnew.blog/brooks-agnew-4-senate/ |access-date=June 18, 2026 |date=June 18, 2025 |language=en}}</ref>
+*Andy Nilsson, retired business owner and high school football coach<ref>{{cite news |work=[[Associated Press]] |access-date=August 11, 2025 |date=August 9, 2025 |author=Robertson, Gary |url=https://apnews.com/article/north-carolina-senate-candidate-nilsson-whatley-2b861edb7d7c2390461737438a36cb93 |title=Andy Nilsson ends North Carolina Senate bid after Trump backs Michael Whatley}}</ref>
+*[[Thom Tillis]], incumbent U.S. senator (2015–present)<ref name="Tillis" />
+
+====Disqualified====
+*Margot Dupre, real estate broker<ref name="prilist" /><ref>[https://www.wral.com/news/nccapitol/2026-us-senate-hopeful-defends-nc-candidacy-margot-dupre-feb-2026/ WRAL: Votes for Republican US Senate candidate won't count in 2026 primary, NC elections board rules]</ref>{{efn|Dupre still appeared on the primary ballot.}}
+*Lichia Sibhatu, daycare owner and candidate for U.S. Senate in [[2022 United States Senate election in North Carolina|2022]]<ref name="FEC FORM of Lichia Sibhatu">{{Cite web|url=https://docquery.fec.gov/cgi-bin/forms/S2NC00547/1598734/|title=FEC Form 2 for Report FEC-1598734|website=docquery.fec.gov}}</ref>
+
+====Declined====
+*[[Pat Harrigan]], [[United States House of Representatives|U.S. representative]] from [[North Carolina's 10th congressional district]] (2025–present)<ref>{{cite news |title=Pat Harrigan rules out a U.S. Senate run |url=https://www.wsoctv.com/news/local/pat-harrigan-rules-out-us-senate-run/K6SMDW5PINCYXKEKYK6LLMIU6Y/ |access-date=July 26, 2025 |work=[[WSOC-TV|WSOC]] |date=July 26, 2025 |language=en}}</ref> ''([[2026 United States House of Representatives elections in North Carolina#District 10|running for re-election]])''
+*[[Richard Hudson (American politician)|Richard Hudson]], [[United States House of Representatives|U.S. representative]] from [[North Carolina's 9th congressional district]] (2013–present)<ref>{{cite news |work=[[Politico]] |date=July 1, 2025 |access-date=July 1, 2025 |url=https://www.politico.com/live-updates/2025/07/01/congress/richard-hudson-north-carolina-senate-00436047 |author=Pellish, Aaron |title=Hudson rules out bid to replace Tillis}}</ref> ''([[2026 United States House of Representatives elections in North Carolina#District 9|running for re-election]])''
+*[[Greg Murphy (politician)|Greg Murphy]], [[United States House of Representatives|U.S. representative]] from [[North Carolina's 3rd congressional district]] (2019–present)<ref>{{cite news |title=Murphy won't make Senate run, affirms 2026 reelection bid |url=https://www.reflector.com/news/local/murphy-wont-make-senate-run-affirms-2026-reelection-bid/article_cc2033c1-1873-4df2-b832-942a1035f784.html |access-date=July 18, 2025 |work=[[The Daily Reflector]] |date=July 18, 2025 |language=en}}</ref> ''([[2026 United States House of Representatives elections in North Carolina#District 3|running for re-election]])''
+*[[Mark Robinson (American politician)|Mark Robinson]], former [[Lieutenant Governor of North Carolina|lieutenant governor of North Carolina]] (2021–2025) and nominee for [[Governor of North Carolina|governor]] in [[2024 North Carolina gubernatorial election|2024]]<ref>{{cite news |last1=Doran |first1=Will |date=January 31, 2025 |title=Mark Robinson drops lawsuit against CNN, says political career may be over |url=https://www.wral.com/story/mark-robinson-drops-lawsuit-against-cnn-says-political-career-may-be-over/21836301/ |access-date=January 31, 2025 |publisher=[[WRAL-TV]] |language=en |quote=Robinson said Friday he wouldn't run for Senate or any other office in 2026}}</ref> ''(endorsed Brown)''<ref name="Robinson">{{cite news |work=AInvest |access-date=June 30, 2025 |date=June 30, 2025 |author=Grant, Eli |title=The North Carolina Senate Race: A Political Crossroads for Healthcare, Infrastructure, and Defense Investments |url=https://www.ainvest.com/news/north-carolina-senate-race-political-crossroads-healthcare-infrastructure-defense-investments-2506/}}</ref>
+*[[Lara Trump]], former co-chair of the [[Republican National Committee]] (2024–2025) and daughter-in-law of President [[Donald Trump]]<ref>{{Cite news |date=July 24, 2025 |access-date=July 25, 2025 |work=[[Axios (website)|Axios]] |url=https://www.axios.com/2025/07/24/lara-trump-declines-north-carolina-senate-seat |author=Walker, Josephine |title=Lara Trump won't run for North Carolina senate seat}}</ref> ''(endorsed Whatley)''<ref name="auto">{{Cite web|url=https://www.theassemblync.com/politics/whatley-republican-senate-north-carolina/|title=Trump and GOP Leaders Line Up Behind Michael Whatley for N.C. Senate Seat|first=Reese Gorman, Ursula Perano, Alex|last=Roarty|date=July 25, 2025|website=The Assembly NC}}</ref>
+*[[Mark Walker (North Carolina politician)|Mark Walker]], principal advisor on [[Freedom of religion|global religious freedom]] to the [[United States State Department|State Department]], former [[United States House of Representatives|U.S. representative]] from {{ushr|NC|6}} (2015–2021), and candidate for U.S. Senate in [[2022 United States Senate election in North Carolina|2022]]<ref>{{cite web|url=https://ncnewsline.com/2025/06/29/north-carolinas-u-s-senate-race-is-open-whos-running-whos-not-and-who-could-jump-in/|title=North Carolina's U.S. Senate race is open. Who's running, who's not and who could jump in|last1=Bacharier|first1=Galen|date=June 29, 2025|access-date=June 30, 2025|website=[[States Newsroom|NC Newsline]]|quote=Former U.S. Rep. Mark Walker...took himself out of the running Sunday evening, saying he was 'solely focused' on his nomination process to be ambassador-at-large for international religious freedom}}</ref>
+
+===Endorsements===
+{{Endorsements box
+|title=Don Brown
+|list=
+;Executive branch officials
+*[[William G. Boykin|William Boykin]], former [[Under Secretary of Defense for Intelligence and Security|deputy undersecretary of defense for intelligence and security]] (2002–2007)<ref name="West">{{cite web|date=December 2, 2025|title=LTC Allen West, Former US Congressman, Endorses Don Brown for U.S. Senate in North Carolina|url=https://www.ashevilleteaparty.org/post/ltc-allen-west-former-u-s-congressman-endorses-don-brown-for-u-s-senate-in-north-carolina|archive-url=https://web.archive.org/web/20251213231100/https://www.ashevilleteaparty.org/post/ltc-allen-west-former-u-s-congressman-endorses-don-brown-for-u-s-senate-in-north-carolina|archive-date=December 13, 2025|access-date=February 21, 2026|website=Asheville Tea Party}}</ref>
+*[[Michael Flynn]], former [[United States National Security Advisor|national security advisor]] (2017)<ref name="WUNC"/>
+;U.S. representatives
+*[[Allen West (politician)|Allen West]], former [[Florida's 22nd congressional district|FL-22]] (2011–2013)<ref name="West"/>
+;Statewide officials
+*[[Mark Robinson (American politician)|Mark Robinson]], former [[lieutenant governor of North Carolina]] (2021–2025)<ref name="WUNC">{{Cite web|last=Wagner|first=Adam|date=February 24, 2026|title=In North Carolina's U.S. Senate GOP primary, contenders try to topple Trump-endorsed candidate|url=https://www.wunc.org/elections/2026-02-24/in-north-carolinas-u-s-senate-gop-primary-contenders-try-to-topple-trump-endorsed-candidate|archive-url=https://web.archive.org/web/20260224180643/https://www.wunc.org/elections/2026-02-24/in-north-carolinas-u-s-senate-gop-primary-contenders-try-to-topple-trump-endorsed-candidate|archive-date=February 24, 2026|access-date=July 31, 2026|website=[[WUNC (FM)|WUNC]]}}</ref>
+;Individuals
+*[[Sidney Powell]], attorney and former [[federal prosecutor]]<ref name="WUNC"/>
+}}
+{{Endorsements box
+|title=Michael Whatley
+|list=
+;Executive branch officials
+*[[Donald Trump]], [[president of the United States]] (2017–2021, 2025–present)<ref name="Chairman">{{Cite web|author1=Robertson, Gary D.|author2=Verduzco, Erik|author3=Beaumont, Thomas|date=July 31, 2025|title=Michael Whatley, RNC chairman endorsed by Trump, launches Senate bid in North Carolina|url=https://apnews.com/article/trump-north-carolina-whatley-senate-cooper-cb3b4109f85bf2f23fee93f05f253d7b|archive-url=https://web.archive.org/web/20260309143919/https://apnews.com/article/trump-north-carolina-whatley-senate-cooper-cb3b4109f85bf2f23fee93f05f253d7b|archive-date=March 9, 2026|website=[[Associated Press]]|access-date=July 31, 2026}}</ref>
+;U.S senators
+*[[Tim Scott]], [[South Carolina]] (2013–present)<ref name="Chairman"/>
+*[[John Thune]], [[Senate majority leader]] (2025–present) from [[South Dakota]] (2005–present)<ref name="Chairman"/>
+;Party officials
+*[[Lara Trump]], former co-chair of the [[Republican National Committee]] (2024–2025)<ref name="auto"/>
+;Organizations
+*[[Americans for Prosperity]]<ref>{{cite web|title=2026 Endorsements|url=https://afpaction.com/endorsements/|archive-url=https://web.archive.org/web/20260703230611/https://afpaction.com/endorsements/|archive-date=July 3, 2026|website=[[Americans for Prosperity|AFP Action]]|access-date=November 16, 2025}}</ref>
+*[[National Republican Senatorial Committee]]<ref>{{cite news|author1=Gorman, Reese|author2=Perano, Ursula|author3=Roarty, Alex|date=July 25, 2025|title=Trump and GOP Leaders Line Up Behind Michael Whatley for N.C. Senate Seat|url=https://www.theassemblync.com/politics/whatley-republican-senate-north-carolina/|archive-url=https://web.archive.org/web/20260309022645/https://www.theassemblync.com/news/politics/whatley-republican-senate-north-carolina/|archive-date=March 9, 2026|work=The Assembly|access-date=July 25, 2025}}</ref>
+*[[Republican National Committee]]<ref>{{cite web|last=Gray|first=Kate|date=October 9, 2025|title=Republican National Committee backs Michael Whatley for Senate ahead of primary|url=https://www.elonnewsnetwork.com/article/2025/10/republican-national-committee-backs-michael-whatley-for-senate-ahead-of-primary|archive-url=https://web.archive.org/web/20251206052706/https://www.elonnewsnetwork.com/article/2025/10/republican-national-committee-backs-michael-whatley-for-senate-ahead-of-primary|archive-date=December 6, 2025|website=Elon News Network|access-date=November 16, 2025}}</ref>
+*[[Turning Point Action]]<ref>{{cite web|title=2026 Endorsements|url=https://www.tpaction.com/endorsements|website=[[Turning Point Action]]|access-date=December 31, 2025}}</ref>
+;Newspapers
+*''[[The Charlotte Observer]]''<ref name="Hold">{{cite web|author=Editorial Board|date=February 18, 2026|title=US Senate endorsement: For NC voters in GOP primary, who can hold off Cooper|url=https://www.charlotteobserver.com/opinion/article314731225.html|archive-url=https://web.archive.org/web/20260314123117/https://www.charlotteobserver.com/opinion/article314731225.html|archive-date=March 14, 2026|website=[[Charlotte Observer]]|access-date=February 22, 2026}}</ref>
+*''[[The News & Observer]]''<ref name="Hold"/>
+}}
+{{Endorsements box
+|title=Thom Tillis ''(withdrawn)''
+|list=
+;U.S. senators
+*[[Jim Banks]], [[Indiana]] (2025–present)<ref name="Audrey Fahlberg-2024">{{cite news|last=Fahlberg|first=Audrey|date=December 9, 2024|title=Senator Thom Tillis Will Kick Off 2026 Reelection Campaign This Week with Fundraiser|url=https://www.nationalreview.com/corner/senator-thom-tillis-will-kick-off-2026-reelection-campaign-this-week-with-fundraiser/|work=[[National Review]]|access-date=July 31, 2026}}</ref>
+*[[John Barrasso]], [[Wyoming]] (2007–present)<ref name="Audrey Fahlberg-2024"/>
+*[[John Boozman]], [[Arkansas]] (2011–present)<ref name="Audrey Fahlberg-2024"/>
+*[[Shelley Moore Capito]], [[West Virginia]] (2015–present)<ref name="Audrey Fahlberg-2024" />
+*[[Bill Cassidy]], [[Louisiana]] (2015–present)<ref name="Audrey Fahlberg-2024" />
+*[[Tom Cotton]], [[Arkansas]] (2015–present)<ref name="Audrey Fahlberg-2024" />
+*[[Mike Crapo]], [[Idaho]] (1999–present)<ref name="Audrey Fahlberg-2024" />
+*[[Steve Daines]], [[Montana]] (2015–present)<ref name="Audrey Fahlberg-2024" />
+*[[Joni Ernst]], [[Iowa]] (2015–present)<ref name="Audrey Fahlberg-2024" />
+*[[Deb Fischer]], [[Nebraska]] (2013–present)<ref name="Audrey Fahlberg-2024" />
+*[[Chuck Grassley]], [[Iowa]] (1981–present)<ref name="Audrey Fahlberg-2024" />
+*[[James Lankford]], [[Oklahoma]] (2015–present)<ref name="Audrey Fahlberg-2024" />
+*[[Cynthia Lummis]], [[Wyoming]] (2021–present)<ref name="Audrey Fahlberg-2024" />
+*[[Markwayne Mullin]], [[Oklahoma]] (2023–2026)<ref name="Audrey Fahlberg-2024" />
+*[[Lisa Murkowski]], [[Alaska]] (2002–present)<ref name="Audrey Fahlberg-2024" />
+*[[Pete Ricketts]], [[Nebraska]] (2023–present)<ref name="Audrey Fahlberg-2024" />
+*[[Mike Rounds]], [[South Dakota]] (2015–present)<ref name="Audrey Fahlberg-2024" />
+;Organizations
+*[[AIPAC]]<ref>{{Cite web|title=Featured|publisher=[[AIPAC]]|url=https://candidates.aipacpac.org/page/featured|access-date=July 1, 2025}}</ref>
+}}
+
+===Fundraising===
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of March 31, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|Don Brown (R)
+|$224,689
+|$225,530
+|$0
+|-
+|{{party shading/Republican}}|Richard Dansie (R)
+|$2,410
+|$1,780
+|$630
+|-
+|{{party shading/Republican}}|Thomas Johnson (R)
+|$6,720
+|$4,627
+|$0
+|-
+|{{party shading/Republican}}|Michele Morrow (R)
+|$12,714
+|$12,036
+|$678
+|-
+|{{party shading/Republican}}|Michael Whatley (R)
+|$8,410,252
+|$5,881,909
+|$2,528,343
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC1">{{cite web |title=2026 Election United States Senate – North Carolina |url=https://www.fec.gov/data/elections/senate/NC/2026/ |publisher=[[Federal Election Commission]] |access-date=July 1, 2026}}</ref></small>
+|}
+
+===Polling===
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"}}
+! Margin<br />of error
+! style="width:75px;"| Don<br />Brown
+! style="width:75px;"| Michele<br />Morrow
+! style="width:75px;"| Michael<br />Whatley
+! Other
+! Undecided
+|-
+|style="text-align: left;"|[[Harper Polling]] (R)<ref>{{cite web |title=Survey of Likely 2026 Republican Primary Voters |url=https://www.carolinajournal.com/wp-content/uploads/2026/02/H23669-CJ-NC-Feb26-V2916079.pdf |website=The Carolina Journal |date=February 26, 2026 |access-date=February 26, 2026}}</ref>{{efn-ua|name=CJ}}
+|February 22–23, 2026
+|600 (LV)
+|±&nbsp;4.0%
+|8%
+|2%
+|{{party shading/Republican}} |'''38%'''
+|3%{{efn| Dupre, Johnson, and Temple with 1%; Dansie with <1%}}
+|{{party shading/Undecided}} |'''50%'''
+|-
+|style="text-align: left;"|[[High Point University]]<ref name="HPUFeb2026">{{cite web|url=https://www.highpoint.edu/src/files/2023/08/HPU-Poll-119-Memo_A_02262026.pdf|title=High Point University Poll 119: Memo Release|website=[[High Point University]]|date=February 2026|access-date=March 3, 2026}}</ref>
+|February 6–20, 2026
+|{{sdash}} (LV)
+|±&nbsp;6.0%
+|12%
+|2%
+|{{party shading/Republican}} |'''38%'''
+|13%{{efn|Dansie with 5%; Dupre and Temple with 3%; Johnson with 2%}}
+|35%
+|-
+|style="text-align: left;"|[[Change Research]] (D)<ref name="CFWDJan2026"/><ref>{{cite web |last1=Nir |first1=David |last2=Singer |first2=Jeff |title=Morning Digest: Minnesota GOP recruits an upgrade for Senate but still faces a daunting race |url=https://www.the-downballot.com/i/185361805/poll-pile |publisher=The Downballot |access-date=22 January 2026 |date=22 January 2026}}</ref>{{Efn-ua|name=CFWD}}
+|January 5–7, 2026
+|530 (LV)
+|{{sdash}}
+|6%
+|4%
+|{{party shading/Republican}} |'''36%'''
+|3%{{efn|"Would not vote" with 3%}}
+|{{party shading/Undecided}} |'''51%'''
+|}
+
+<!-- = = = don't edit the line below = = = -->
+{{hidden begin|titlestyle=background:#cff|title=Hypothetical polling|contentstyle=border:solid 1px silver; padding:8px; background:var(--background-color-base); color:var(--color-base);}}
+<!-- = = = don't edit the line above = = = -->
+'''Thom Tillis vs. Mark Robinson'''
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|Key:<br />A – all adults<br />RV – registered voters<br />LV – likely voters<br />V – unclear|name="Key"}}
+! Margin<br />of error
+! style="width:75px;"| Thom<br />Tillis
+! style="width:75px;"| Mark<br />Robinson
+! Undecided
+|-
+| style="text-align:left;"|Campaign Viability Research (R)<ref name="CVRPollNov2024">{{cite web |title=Hypothetical Robinson-Tillis 2026 Matchup: A Dogfight Waiting To Happen |url=https://files.campaign-research.com/CVR_0001.pdf |website=Campaign Viability Research |date=November 25, 2024 |access-date=April 14, 2025}}</ref>
+|November 13–15, 2024
+|800 (LV)
+|{{sdash}}
+|{{party shading/Republican}}|'''42%'''
+|35%
+|23%
+|}
+
+'''Thom Tillis vs. "Someone Else"'''<br />
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"}}
+! Margin<br />of error
+! style="width:75px;"| Thom<br />Tillis
+! style="width:75px;"| Someone<br />Else
+! Undecided
+|-
+|style="text-align:left;"|Campaign Viability Research (R)<ref name="CVRPollNov2024" />
+|November 13–15, 2024
+|800 (LV)
+|{{sdash}}
+|31%
+|{{party shading/Republican}}|'''36%'''
+|33%
+|}
+
+'''Thom Tillis vs. Lara Trump'''<br />
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"}}
+! Margin<br />of error
+! style="width:75px;"| Thom<br />Tillis
+! style="width:75px;"| Lara<br />Trump
+! Undecided
+|-
+|style="text-align:left;"|Victory Insights (R)<ref name="VIPollDec2024">{{cite web |title=North Carolina Poll: Lara Trump, Thom Tillis, or Roy Cooper for Us Senate in 2026? |url=https://irp.cdn-website.com/07e08705/files/uploaded/PollReport_NC-2026_12-2-24.pdf |website=Victory Insights |access-date=December 2, 2024 |date=December 2, 2024}}</ref>
+|November 26–29, 2024
+|800 (LV)
+|{{sdash}}
+|11%
+|{{party shading/Republican}}|'''65%'''
+|25%
+|}
+{{hidden end}}
+
+===Results===
+[[File:2026 United States Senate Republican primary election in North Carolina results map by county.svg|thumb|325px|Results by county
+{{collapsible list
+| title = {{legend|#E27F7F|Whatley}}
+|{{legend|#FFB2B2|40–50%}}
+|{{legend|#E27F7F|50–60%}}
+|{{legend|#D75D5D|60–70%}}
+|{{legend|#D72F30|70–80%}}
+}}
+]]
+[[File:2026 NC Sen R Primary Prec.svg|325px|thumb|Results by precinct
+{{collapsible list
+| title = {{legend|#9955ff|Whatley}}|{{legend|#e6cdff|30–40%}}|{{legend|#ccaaff|40–50%}}|{{legend|#b380ff|50–60%}}|{{legend|#9955ff|60–70%}}|{{legend|#7a44cc|70–80%}}|{{legend|#5C3399|80–90%}}|{{legend|#3D2266|>90%}}|
+}}
+{{collapsible list
+| title = {{legend|#deb02a|Brown}}|{{legend|#fff5cc|20–30%}}|{{legend|#ffeeaa|30–40%}}|{{legend|#ffdd55|40–50%}}|{{legend|#f1c92a|50–60%}}|{{legend|#deb02a|60–70%}}|{{legend|#a58100|>90%}}|
+}}
+{{collapsible list
+| title = {{legend|#37c837|Johnson}}|{{legend|#aae5aa|30–40%}}|{{legend|#87de87|40–50%}}|{{legend|#5fd35f|50–60%}}|{{legend|#37c837|60–70%}}|{{legend|#217821|>90%}}|
+}}
+{{collapsible list
+| title = {{legend|#ff5599|Morrow}}|{{legend|#ffaacc|40–50%}}|{{legend|#ff80b2|50–60%}}|{{legend|#ff5599|60–70%}}|{{legend|#ff2a7f|70–80%}}|
+}}
+{{collapsible list
+| title = {{legend|#C64C4B|Temple}}|{{legend|#cc5e5d|40–50%}}|{{legend|#9e3d3c|>90%}}|
+}}
+]]
+
+{{Election box begin no change
+| title = Republican primary results<ref>{{Cite web |title=03/03/2026 OFFICIAL REPUBLICAN PRIMARY ELECTION RESULTS - STATEWIDE |url=https://er.ncsbe.gov/?election_dt=03/03/2026&county_id=0&office=FED&contest=2147}}</ref>
+}}
+{{Election box winning candidate with party link no change
+| candidate = [[Michael Whatley]]
+| party = Republican Party (United States)
+| votes = 405,140
+| percentage = 64.6
+}}
+{{Election box candidate with party link no change
+| candidate = [[Don Brown (author, born 1960)|Don Brown]]
+| party = Republican Party (United States)
+| votes = 97,891
+| percentage = 15.6
+}}
+{{Election box candidate with party link no change
+| candidate = Thomas Johnson
+| party = Republican Party (United States)
+| votes = 35,534
+| percentage = 5.7
+}}
+{{Election box candidate with party link no change
+| candidate = Michele Morrow
+| party = Republican Party (United States)
+| votes = 35,065
+| percentage = 5.6
+}}
+{{Election box candidate with party link no change
+| candidate = Elizabeth Temple
+| party = Republican Party (United States)
+| votes = 23,892
+| percentage = 3.8
+}}
+{{Election box candidate with party link no change
+| candidate = Richard Dansie
+| party = Republican Party (United States)
+| votes = 14,996
+| percentage = 2.4
+}}
+{{Election box candidate with party link no change
+| candidate = Margot Dupre ''(disqualified)''
+| party = Republican Party (United States)
+| votes = 14,886
+| percentage = 2.4
+}}
+{{Election box total no change
+| votes = 627,404
+| percentage = 100.0
+}}
+{{Election box end}}
+
+==Democratic primary==
+
+[[File:Wiley Nickel endorsing Roy Cooper for Senate.jpg|thumb|Wiley Nickel endorsing Roy Cooper for Senate]]
+
+In 2025, Roy Cooper announced his candidacy for the United States Senate seat in the 2026 election. Shortly after his announcement, former U.S. Representative [[Wiley Nickel]], who had previously entered the race, withdrew his candidacy and endorsed Cooper for the Democratic nomination.<ref>{{cite news |last=Robertson |first=Gary D. |title=Former Congressman Wiley Nickel drops out of 2026 Senate race, endorses Roy Cooper |url=https://abc11.com/post/former-congressman-wiley-nickel-drops-2026-senate-race-endorses-north-carolina-governor-roy-cooper/17348739/
+ |work=Associated Press |date=July 29, 2025}}</ref> Nickel cited Cooper's executive experience and electoral strength as reasons for his endorsement.<ref>{{cite news |title=Wiley Nickel exits North Carolina Senate race the day after Roy Cooper announces candidacy |url=https://apnews.com/article/d9da6af3c46da5a96df6c7ba5ada3ae9
+ |work=Associated Press |date=July 29, 2025}}</ref>
+
+===Candidates===
+====Nominee====
+*[[Roy Cooper]], former [[governor of North Carolina]] (2017–2025)<ref name=cooper>{{cite news |author=Haggard, DeJuan |access-date=July 29, 2025 |url=https://abc11.com/post/roy-cooper-us-senate-former-north-carolina-governor-announces-bid/17274141/ |date=July 28, 2025 |title=Roy Cooper, former NC Governor announces he is running for Senate in 2026 |work=[[WTVD]]}}</ref>
+
+====Eliminated in primary====
+*Robert Colon, family caregiver and perennial candidate<ref>{{cite web |title=2026 Primary Election State Candidates List |url=https://acrobat.adobe.com/id/urn:aaid:sc:US:2dbd315e-d364-4fdb-86c0-f7b03a8e2c90 |access-date=December 18, 2025 |website=ncsbe.gov/results-data/candidate-lists |publisher=North Carolina State Board of Elections}}</ref>
+*Justin Dues, tech consultant and nominee for [[North Carolina's 8th congressional district]] in [[2024 United States House of Representatives elections in North Carolina#District 8|2024]]<ref>{{Cite web |last=Bacharier |first=Galen |date=2025-12-01 |title=NC candidates for Supreme Court, Court of Appeals file |url=https://ncnewsline.com/2025/12/01/nc-races-for-key-high-court-us-senate-seats-take-shape-as-candidates-file/ |access-date=2025-12-19 |website=[[NC Newsline]] |language=en-US}}</ref>
+*Daryl Farrow, businessman and nominee for {{ushr|NC|3}} in [[2020 United States House of Representatives elections in North Carolina#District 3|2020]]<ref>{{cite web |title=2026 Primary Election State Candidates List |url=https://acrobat.adobe.com/id/urn:aaid:sc:US:9ecbea45-11a8-4548-8843-56dcea81d11c |access-date=December 5, 2025 |website=ncsbe.gov/results-data/candidate-lists |publisher=North Carolina State Board of Elections}}</ref>
+*Orrick Quick, pastor<ref>{{cite web |last1=Campbell |first1=Colin |date=August 20, 2025 |title=New U.S. Senate candidate enters race, with help from consultant to GOP candidates |url=https://www.wunc.org/politics/2025-08-20/orrick-quick-high-point-senate-candidate-enters-race |access-date=October 2, 2025 |work=[[WUNC (FM)|WUNC]]}}</ref>
+*Marcus Williams, attorney and perennial candidate<ref>{{Cite web |last=Doran |first=Will |date=2025-12-16 |title=Cooper says he’d support banning stock trades for top federal officials |url=https://www.wral.com/news/nccapitol/cooper-support-ban-stock-trades-congress-federal-officials-dec-2025/ |access-date=2025-12-19 |website=[[WRAL-TV]] |language=en}}</ref>
+
+====Withdrawn====
+*[[Wiley Nickel]], former [[United States House of Representatives|U.S. representative]] from {{ushr|NC|13}} (2023–2025) ''(endorsed Cooper,<ref name="NickelWithdraw">{{Cite web |date=2025-07-29 |title=Wiley Nickel exits North Carolina Senate race the day after Roy Cooper announces candidacy |url=https://apnews.com/article/north-carolina-senate-election-tillis-nickel-d9da6af3c46da5a96df6c7ba5ada3ae9 |access-date=2025-07-29 |work=[[Associated Press]] |author=Robertson, Gary |language=en}}</ref> [[2026 Wake County District Attorney election|running for Wake County district attorney]])<ref>{{cite web |last1=Shaffer |first1=Josh |date=September 16, 2025 |title=Former US Rep. Wiley Nickel jumps into Wake DA race to succeed Lorrin Freeman |url=https://www.newsobserver.com/news/local/article312128797.html |access-date=September 17, 2025 |publisher=[[Raleigh News & Observer]]}}</ref>''
+
+====Disqualified====
+*Alyssia Hammond, hospitality worker and candidate for U.S. Senate in [[2022 United States Senate election in North Carolina|2022]]<ref>{{Cite web |title=FEC Form 2 for Report S6NC00514 |url=https://acrobat.adobe.com/id/urn:aaid:sc:US:7da375aa-2a82-4b49-aa6f-1280b5f9e5df |access-date=2025-12-17 |website=docquery.fec.gov}}</ref>
+
+====Declined====
+*[[Don Davis (North Carolina politician)|Don Davis]], [[U.S. Representative|U.S. representative]] from [[North Carolina's 1st congressional district]] (2023–present) ''([[2026 United States House of Representatives elections in North Carolina#District 1|running for re-election]])''<ref>{{cite news |last1=Altimari |first1=Daniela |title=North Carolina Rep. Don Davis will run for reelection from his redrawn district |url=https://rollcall.com/2025/12/01/don-davis-reelection-north-carolina-democrat/ |access-date=December 2, 2025 |date=December 1, 2025 |language=en}} </ref>
+*[[Jeff Jackson (politician)|Jeff Jackson]], [[Attorney General of North Carolina|attorney general of North Carolina]] (2025–present) ''(endorsed Cooper)''<ref name="JacksonCooper">{{cite news |last1=Doran |first1=Will |title=As Roy Cooper ramps up profile, Jeff Jackson makes US Senate decision |url=https://www.wral.com/story/as-roy-cooper-ramps-up-profile-jeff-jackson-makes-us-senate-decision/22079436/ |access-date=July 8, 2025 |work=[[WRAL-TV]] |date=July 8, 2025 |language=en}}</ref>
+*[[Deborah Ross (politician)|Deborah Ross]], [[U.S. Representative|U.S. representative]] from [[North Carolina's 2nd congressional district]] (2021–present) and nominee for U.S. Senate in [[2016 United States Senate election in North Carolina|2016]] ''(endorsed Cooper, [[2026 United States House of Representatives elections in North Carolina#District 2|running for re-election]])''<ref name="RossCooper">{{cite news |title=Reactions from both sides pour in after Roy Cooper announces he is running for Senate |url=https://abc11.com/post/roy-cooper-senate-reactions-democrats-republicans-pour-former-nc-governor-announces-bid/17335385/ |access-date=July 28, 2025 |work=[[WTVD]] |date=July 28, 2025 |language=en}}</ref>
+
+===Endorsements===
+{{Endorsements box
+|title=Roy Cooper 
+|colwidth=60
+|list=
+;Executive branch officials
+*[[Kamala Harris]], former [[Vice President of the United States|vice president of the United States]] (2021–2025)<ref name=cooper/>
+
+;U.S. senators
+*[[Kirsten Gillibrand]], [[New York (state)|New York]] (2009–present)<ref name="RossCooper" />
+*[[Chuck Schumer]], [[Senate minority leader]] (2017–2021, 2025–present) from [[New York (state)|New York]] (1999–present)<ref name="RossCooper" />
+
+;U.S. representatives
+*[[Wiley Nickel]], former {{ushr|NC|13|NC-13}} (2023–2025)<ref name="NickelWithdraw" />
+*[[Deborah Ross (politician)|Deborah Ross]], {{ushr|NC|2|NC-02}} (2021–present) and nominee for U.S. Senate in [[2016 United States Senate election in North Carolina|2016]]<ref name="RossCooper" />
+
+;Statewide officials
+*[[Jeff Jackson (politician)|Jeff Jackson]], [[North Carolina Attorney General|attorney general of North Carolina]] (2025–present)<ref name="JacksonCooper"/>
+*[[Josh Stein]], [[governor of North Carolina]] (2025–present)<ref name="SteinCooper">{{cite news|url=https://apnews.com/article/north-carolina-senate-roy-cooper-tillis-49e7b69b20db803f75a1893e1e890f18|work=[[Associated Press]]|title=Former Democratic Gov. Roy Cooper will run for the US Senate in North Carolina in 2026|first=Gary|last=Robertson|date=July 28, 2025}}</ref>
+
+;Local officials 
+*Zeb Smathers, mayor of [[Canton, North Carolina|Canton]] (2017–present)<ref>{{cite news|last=Berger|first=Justin |date=July 28, 2025|title=Former Gov. Roy Cooper enters Senate race, boosts Democrats' federal election hopes|url=https://wlos.com/news/local/story/former-governor-roy-cooper-senate-race-2026-democratic-party-canton-mayor-zeb-smathers-federal-election-president-donald-trump-white-house-republicans-north-carolina-politics-government|archive-url=https://web.archive.org/web/20251010123525/https://wlos.com/news/local/story/former-governor-roy-cooper-senate-race-2026-democratic-party-canton-mayor-zeb-smathers-federal-election-president-donald-trump-white-house-republicans-north-carolina-politics-government|archive-date=October 10, 2025|access-date=July 1, 2025|work=[[WLOS]]}}</ref>
+;Party officials
+*[[Anderson Clayton]], chair of the [[North Carolina Democratic Party]] (2023–present)<ref name="SteinCooper" />
+
+;Labor unions
+*[[American Federation of Government Employees]]<ref>{{cite web |title=Largest Federal Employee Union Endorses Roy Cooper for Election to the U.S. Senate |url=https://www.afge.org/link/1e8c51e682bd40f3af5cd4f026fc2644.aspx |access-date=February 27, 2026 |work=AFGE |date=February 27, 2026}}</ref>
+*[[National Education Association]]<ref name="NCAE">{{cite web |title=NCAE, NEA Endorse Roy Cooper for U.S. Senate |url=https://www.ncae.org/about-ncae/media-center/press-releases/ncae-nea-endorse-roy-cooper-us-senate |access-date=February 27, 2026 |work=NCAE Communications |date=February 27, 2026}}</ref>
+*[[North Carolina Association of Educators]]<ref name="NCAE"/>
+
+;Organizations
+*[[Democratic Majority for Israel]]<ref>{{cite web |last1=Rod |first1=Marc |title=DMFI backs Haley Stevens, Angie Craig as they face primaries from the anti-Israel left |url=https://jewishinsider.com/2025/11/dmfi-backs-haley-stevens-angie-craig-as-they-face-primaries-from-the-anti-israel-left/ |access-date=November 20, 2025 |work=[[Jewish Insider]] |date=November 20, 2025}}</ref>
+*[[End Citizens United]]<ref>{{cite web |title=End Citizens United Endorses Former Gov. Roy Cooper for U.S. Senate |url=https://www.endcitizensunited.org/ecu-endorsement-roy-cooper |website=endcitizensunited.org |date=August 7, 2025 |access-date=September 9, 2025}}</ref>
+*[[Giffords]]<ref>{{cite web |title=GIFFORDS PAC endorses Governor Roy Cooper for U.S. Senate in North Carolina |url=https://giffords.org/press-release/2025/08/giffords-pac-endorses-governor-roy-cooper-for-u-s-senate-in-north-carolina/ |website=giffords.org |date=August 22, 2025 |access-date=September 9, 2025}}</ref>
+*[[Jewish Democratic Council of America]]<ref>{{cite web |title=🚨Key Endorsements for 2025 & 2026🚨 |url=https://jewishdems.org/%F0%9F%9A%A8key-endorsements-for-2025-2026%F0%9F%9A%A8/ |website=Jewish Democratic Council of America |access-date=August 28, 2025}}</ref>
+*[[League of Conservation Voters]]<ref>{{cite web |title=2025-2026 Endorsements |url=https://www.lcv.org/endorsements/ |website=League of Conservation Voters |access-date=23 October 2025}}</ref>
+*[[Planned Parenthood | Planned Parenthood Action Fund]]<ref>{{cite web |url=https://thehill.com/homenews/campaign/5700069-planned-parenthood-action-fund/ |title=Planned Parenthood Action Fund rolls out first Senate endorsements ahead of November midterms |access-date=January 22, 2026}}</ref>
+*[[Red Wine & Blue]]<ref>{{cite web |title=2026 Primary Elections|url=https://redwine.blue/north-carolina/voting-guide/#races1 |access-date=February 4, 2026 |work=[[Red Wine & Blue]] |date=February 4, 2026}}</ref>
+*[[Reproductive Freedom for All]]<ref>{{cite web |last1=Santaliz |first1=Kate |title=Abortion rights group backs Janet Mills and others in first 2026 Senate endorsements |url=https://www.axios.com/2025/12/09/abortion-rights-maine-senate-mills-platner |website=Axios |access-date=9 December 2025 |language=en |date=9 December 2025}}</ref>
+* [[Sierra Club]]<ref>{{#invoke:cite|web|title=2026 Endorsements |publisher=Sierra Club Independent Action |url=https://www.sierraclubindependentaction.org/endorsements }}</ref>
+}}
+
+===Fundraising===
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of March 31, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|Roy Cooper (D)
+|$26,822,373
+|$8,366,910
+|$18,455,463
+|-
+|{{party shading/Democratic}}|Marcus Williams (D)
+|$5,656
+|$5,656
+|$0
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC1"/></small>
+|}
+
+===Polling===
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"}}
+! Margin<br />of error
+! style="width:60px;"| Robert<br />Colon
+! style="width:60px;"| Roy<br />Cooper
+! style="width:60px;"| Justin<br />Dues
+! style="width:60px;"| Daryl<br />Farrow
+! style="width:60px;"| Marcus<br />Williams
+! Other
+! Undecided
+|-
+|style="text-align: left;"|[[High Point University]]<ref name="HPUFeb2026"/>
+|February 6–20, 2026
+|{{sdash}} (LV)
+|±&nbsp;6.0%
+|3%
+|{{party shading/Democratic}} |'''78%'''
+|3%
+|2%
+|2%
+|0%{{efn|Orrick Quick with 0%}}
+|14%
+|}
+
+===Results===
+[[File:2026 United States Senate Democratic primary election in North Carolina results map by county.svg|thumb|325px|Results by county
+{{collapsible list
+| title = {{legend|#7996e2|Cooper}}
+|{{legend|#3933e5|80–90%}}
+|{{legend|#0d0596|>90%}}
+}}
+]]
+[[File:2026 NC Sen D Primary Prec.svg|325px|thumb|Results by precinct
+{{collapsible list
+| title = {{legend|#2AACAC|Cooper}}|{{legend|#ACF2F2|30–40%}}|{{legend|#51C2C2|50–60%}}|{{legend|#2AACAC|60–70%}}|{{legend|#009696|70–80%}}|{{legend|#008080|80–90%}}|{{legend|#006666|>90%}}|
+}}
+{{collapsible list
+| title = {{legend|#FED463|Farrow}}|{{legend|#fed463|50–60%}}|
+}}]]
+{{Election box begin no change
+| title = Democratic primary results<ref>{{Cite web |title=03/03/2026 OFFICIAL DEMOCRATIC PRIMARY ELECTION RESULTS - STATEWIDE |url=https://er.ncsbe.gov/?election_dt=03/03/2026&county_id=0&office=FED&contest=2147}}</ref>
+}}
+{{Election box winning candidate with party link no change
+| candidate = [[Roy Cooper]]
+| party = Democratic Party (United States)
+| votes = 761,345
+| percentage = 92.0
+}}
+{{Election box candidate with party link no change
+| candidate = Justin Dues
+| party = Democratic Party (United States)
+| votes = 22,295
+| percentage = 2.7
+}}
+{{Election box candidate with party link no change
+| candidate = Marcus Williams
+| party = Democratic Party (United States)
+| votes = 20,336
+| percentage = 2.5
+}}
+{{Election box candidate with party link no change
+| candidate = Daryl Farrow
+| party = Democratic Party (United States)
+| votes = 9,727
+| percentage = 1.2
+}}
+{{Election box candidate with party link no change
+| candidate = Orrick Quick
+| party = Democratic Party (United States)
+| votes = 7,275
+| percentage = 0.9
+}}
+{{Election box candidate with party link no change
+| candidate = Robert Colon
+| party = Democratic Party (United States)
+| votes = 6,777
+| percentage = 0.8
+}}
+{{Election box total no change
+| votes = 827,755
+| percentage = 100.0
+}}
+{{Election box end}}
+
+==Libertarian primary==
+===Candidates===
+====Nominee====
+*Shannon Bray, cybersecurity professional and perennial candidate<ref>{{cite web |title=2026 Primary Election State Candidates List |url=https://acrobat.adobe.com/id/urn:aaid:sc:US:e65b32f9-4c0c-4cb5-b04f-703d49afc810 |website=ncsbe.gov/results-data/candidate-lists|publisher=North Carolina State Board of Elections}}</ref>
+
+==Green primary==
+===Candidates===
+====Nominee====
+*Michael Dublin, teacher and nominee for [[North Carolina's 2nd congressional district]] in [[2024 United States House of Representatives elections in North Carolina#District 2|2024]]<ref>{{cite web |title=2026 General Election State Candidates List |url=https://acrobat.adobe.com/id/urn:aaid:sc:US:c3185142-f69d-4ae3-af74-3ff412f9dd82 |website=ncsbe.gov/results-data/candidate-lists|publisher=North Carolina State Board of Elections |access-date=June 18, 2026}}</ref>
+
+====Disqualified====
+*[[Brian McGinnis]], anti-war activist, Marine veteran, and firefighter<ref>{{cite web |title=Marine Veteran Charged After Removal From Senate Committee Hearing: ‘No One Wants To Fight For Israel’ |url=https://www.forbes.com/sites/antoniopequenoiv/2026/03/05/marine-veteran-charged-after-removal-from-senate-committee-hearing-no-one-wants-to-fight-for-israel/ |website=[[Forbes]]|date=March 5, 2026|access-date=March 6, 2026|last=Pequeño|first=Antonio|url-status=live}}</ref>
+
+===Fundraising===
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of March 31, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Green}}|Michael Dublin (G)
+|$23,377
+|$4,245
+|$20,873
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC1"/></small>
+|}
+
+==Independents==
+===Candidates===
+====Disqualified====
+*Lee Brian<ref name="board01">{{Cite web |title=North Carolina Board of Elections Petition Search |url=https://vt.ncsbe.gov/PetLkup/}}</ref>
+*Shaunesi DeBerry, social media personality<ref>{{Cite web |title=FEC Form 2 for Report FEC-1898331 |url=https://docquery.fec.gov/cgi-bin/forms/S6NC00381/1898331/ |access-date=2025-11-07 |website=docquery.fec.gov}}</ref>
+*Yuhong Dong<ref>{{Cite web |title=FEC Form 2 for Report FEC-1536309 |url=https://docquery.fec.gov/cgi-bin/forms/S6NC00332/1536309/ |access-date=2025-08-25 |website=docquery.fec.gov}}</ref>
+*Travis Herlocker<ref name="board01"/>
+*Connie Johnson, pastor and perennial candidate ''(Democratic Party of Federalists)''<ref>{{Cite web |title=FEC Form 2 |url=https://acrobat.adobe.com/id/urn:aaid:sc:US:5a8158f3-b847-4cdb-8811-211e120fd42e |access-date=2025-11-07 |website=docquery.fec.gov}}</ref>
+*Michele Palmer Parks<ref name="board01"/> ''(write-in)''
+*Geoffrey Shull<ref name="board01"/>
+
+==General election==
+===Campaign===
+{{expand section|date=October 2026}}
+The [[Senate Leadership Fund]]—first reported by ''[[Semafor (website)|Semafor]]'' in October 2026—canceled a pledged $30 million in expenditures from Whatley's campaign to redirect support for Senator [[Roger Marshall]]'s [[2026 United States Senate election in Kansas|2026 re-election campaign in Kansas]]. Since 2025, the [[political action committee]] has spent $71 million on advertisements, largely focusing on [[Crime in North Carolina|crime and public safety]].<ref>{{Cite web|title=Republicans pull funding of Trump-backed Senate candidate in critical North Carolina race|url=https://www.theguardian.com/us-news/2026/oct/02/republican-pac-funding-north-carolina-senate-michael-whatley|work=[[The Guardian]]|access-date=October 2, 2026}}</ref>
+
+===Predictions===
+{| class="wikitable" style=text-align:center
+!Source
+!Ranking
+!As of
+|-
+|align="left"|[[CBS News]]<ref>{{Cite news |title=2026 midterm election races to watch |url=https://www.cbsnews.com/news/2026-midterm-election-races/ |last1=Hubbard |first1=Kaia |last2=Linton |first2=Caroline |last3=Yilek |first3=Caitlin |last4=Walsh |first4=Joe |work=[[CBS News]] |orig-date=September 13, 2026 |date=October 6, 2026 |access-date=October 7, 2026}}</ref>
+|{{USRaceRating|Lean|D|flip}}
+|October 6, 2026
+|-
+|align="left"|''[[The Cook Political Report]]''<ref>{{Cite web|title=2026 CPR Senate Race Ratings|url=https://www.cookpolitical.com/ratings/senate-race-ratings|access-date=October 7, 2026|website=[[Cook Political Report]]}}</ref>
+|{{USRaceRating|Likely|D|flip}}
+|October 6, 2026
+|-
+|align="left"|[[Decision Desk HQ]]<ref>{{cite web|title=2026 Senate Ratings|url=https://votes.decisiondeskhq.com/forecast/2026/senate|url-access=registration|publisher=[[Decision Desk HQ]]|access-date=October 7, 2026}}</ref>
+|{{USRaceRating|Likely|D|flip}}
+|October 7, 2026
+|-
+|align="left"|''[[The Economist]]''<ref>{{Cite web|title=2026 Senate Forecast|url=https://www.economist.com/interactive/2026/us-midterms/prediction-model/senate/|access-date=October 7, 2026|website=[[The Economist]]}}</ref>{{efn|''The Economist''{{'}}s prediction model uses unconventional terminology. For the purpose of equivalency, their "Very Likely" ratings are formatted as a "Likely" rating while "Likely" ratings are formatted as a "Lean" rating.}}
+|{{USRaceRating|Likely|D|flip}}
+|October 7, 2026
+|-
+|align="left"|[[FiftyPlusOne]]<ref>{{Cite web |title=2026 Congressional Forecast |url=https://fiftyplusone.news/forecast/senate |access-date=October 7, 2026 |website=[[FiftyPlusOne]]}}</ref>
+|{{USRaceRating|Likely|D|flip}}
+|October 7, 2026
+|-
+|align="left"|[[Fox News]]<ref>{{Cite news |last=Numa |first=Rémy |title=Fox News Power Rankings: The biggest surprises come after October |url=https://www.foxnews.com/politics/fox-news-power-rankings-the-biggest-surprises-come-after-october |work=[[Fox News]] |date=October 6, 2026 |access-date=October 7, 2026}}</ref>
+|{{USRaceRating|Likely|D|flip}}
+|October 6, 2026
+|-
+|align="left"|''[[Inside Elections]]''<ref>{{Cite web|title=Senate Ratings|url=https://www.insideelections.com/ratings/senate|access-date=October 7, 2026 |website=[[Inside Elections]]}}</ref>
+|{{USRaceRating|Lean|D|flip}}
+|October 1, 2026
+|-
+|align="left"|[[MS NOW]]<ref>{{Cite news |url=https://www.ms.now/news/2026-senate-ratings-ms-nows-races-to-watch |title=2026 Senate ratings: MS NOW's races to watch |last1=Khanna |first1=Kabir |last2=Thomas |first2=Shawna |orig-date=August 19, 2026 |work=[[MS NOW]] |date=September 16, 2026 |access-date=October 7, 2026}}</ref>
+|{{USRaceRating|Lean|D|flip}}
+|September 16, 2026
+|-
+|align="left"|[[RealClearPolitics]]<ref>{{Cite web|url=https://www.realclearpolling.com/maps/senate/2026/toss-up|title=Battle for the Senate 2026|access-date=October 7, 2026|website=[[RealClearPolitics]]}}</ref>
+|{{USRaceRating|Likely|D|flip}}
+|October 5, 2026
+|-
+|align="left"|''[[Sabato's Crystal Ball]]''<ref>{{cite web|title=2026 Senate ratings|url=https://centerforpolitics.org/crystalball/2026-senate/|website=[[Sabato's Crystal Ball]]|access-date=October 7, 2026}}</ref>
+|{{USRaceRating|Lean|D|flip}}
+|October 6, 2026
+|-
+|align="left"|''[[Silver Bulletin]]''<ref name="Silver">{{Cite web |url=https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model |title=FLIPR 2026 midterm election forecast |last1=Silver |first1=Nate |author1-link=Nate Silver |last2=McKown-Dawson |first2=Eli |website=[[Silver Bulletin]] |via=[[Substack]] |date=October 7, 2026 |orig-date=August 11, 2026 |access-date=October 7, 2026 |url-access=subscription}}</ref>
+|{{USRaceRating|Solid|D|flip}}
+|October 7, 2026
+|-
+|align="left"|[[Split Ticket (website)|Split Ticket]]<ref>{{Cite magazine |title=Split Ticket 2026 Midterms Model |url=https://www.theargumentmag.com/p/split-ticket-2026-midterms-model |magazine=[[The Argument (magazine)|The Argument]] |via=[[Substack]] |access-date=October 7, 2026}}</ref>
+|{{USRaceRating|Safe|D|flip}}
+|October 7, 2026
+|}
+
+===Post-primary endorsements===
+{{Endorsements box
+|title=Michael Whatley (R)
+|list=
+;Executive branch officials
+*[[JD Vance]], [[vice president of the United States]] (2025–present)<ref>{{cite web |last1=Vaughan |first1=Dawn Baumgartner |title=Vice President JD Vance visits Rocky Mount as Republicans try to flip NC seat |url=https://www.newsobserver.com/news/politics-government/article315029308.html |website=[[The News & Observer]] |date=March 5, 2026 |access-date=March 16, 2026}}</ref>
+
+'''U.S. senators'''
+* [[Ted Budd]], [[North Carolina]] (2023–present)<ref>{{cite web |last=Battaglia |first=Danielle |title=Sen. Ted Budd gains new perspective on Iran, AI and midterms in trip across NC |url=https://www.newsobserver.com/news/politics-government/politics-columns-blogs/under-the-dome/article317370615.html |website=[[The News & Observer]] |date=September 28, 2026 |access-date=September 29, 2026}}</ref>
+* [[Norm Coleman]], former [[Minnesota]] (2003–2009)<ref name="rjc">{{cite web |last=Rod |first=Marc |title=RJC endorses GOP frontline Senate candidates |url=https://jewishinsider.com/2026/04/republican-jewish-coalition-endorses-gop-senate-candidates/ |website=[[Jewish Insider]] |date=April 21, 2026 |access-date=September 29, 2026}}</ref>
+* [[Thom Tillis]], [[North Carolina]] (2015–present)<ref>{{Cite web |last=Huiskes |first=Helen |last2=Thompson |first2=Ava |title=Tillis backs Whatley in North Carolina Senate race |url=https://thehill.com/homenews/campaign/6134102-tillis-backs-whatley-senate-election/ |access-date=October 7, 2026 |website=[[The Hill (newspaper)|The Hill]]}}</ref>
+
+'''State legislators'''
+* [[Brad Overcash]], [[North Carolina's 43rd Senate district|SD-43]] (2023–present)<ref>{{cite web |last=Boucher |first=Kyle |title=Former RNC chair holds press conference in honor of Iryna Zarutska |url=https://www.ninertimes.com/news/former-rnc-chair-holds-press-conference-in-honor-of-iryna-zarutska/article_82b33b2f-9a8e-44a7-bded-245095f957af.html |website=Niner Times |date=August 25, 2026 |access-date=September 29, 2026}}</ref>
+* [[Benton Sawrey]], [[North Carolina's 10th Senate district|SD-10]] (2023–present)<ref>{{cite web |last=Zehnder |first=Katherine |title=Whatley draws contrast with Cooper on crime, public safety |url=https://www.carolinajournal.com/whatley-draws-contrast-with-cooper-on-crime-public-safety/|website= The Carolina Journal |date=August 18, 2026 |access-date=September 29, 2026}}</ref>
+* [[Paul Scott (North Carolina politician)|Paul Scott]], [[North Carolina's 111th House district|HD-111]] (2025–present)<ref>{{cite web |last=Thompson |first=Chuck |title=Trump makes stop in Gastonia to support Whatley; Cleveland County notables in attendance |url=https://www.shelbyindependent.com/post/trump-makes-stop-in-gastonia-to-support-whatley-cleveland-county-notables-in-attendance|website=The Shelby Independent |date=September 19, 2026 |access-date=September 29, 2026}}</ref>
+
+'''Labor unions'''
+* [[National Border Patrol Council]]<ref>{{cite web |last= Dillon |first= A.P. |title=Whatley endorsed by National Border Patrol Council |url=https://nsjonline.com/article/2026/09/whatley-endorsed-by-national-border-patrol-council/ |website=[[North State Journal]] |date=September 12, 2026 |access-date=September 29, 2026}}</ref>
+*North Carolina [[Police Benevolent Association]]<ref>{{Cite web|last=Dillon|first=A.P.|date=July 10, 2026|title=Whatley receives unanimous endorsement from Police Benevolent Association|url=https://nsjonline.com/article/2026/07/whatley-receives-unanimous-endorsement-from-police-benevolent-association/|archive-url=https://web.archive.org/web/20260714062431/https://nsjonline.com/article/2026/07/whatley-receives-unanimous-endorsement-from-police-benevolent-association/|archive-date=July 14, 2026|url-status=live|website=[[North State Journal]]|access-date=August 1, 2026}}</ref>
+
+'''Organizations'''
+* [[Conservative Political Action Conference]]<ref>{{cite web |title=Michael Whatley |url=https://pac.cpac.org/michaelwhatley |website=[[Conservative Political Action Conference]] |access-date=October 1, 2026}}</ref>
+* [[National Rifle Association]]<ref>{{cite web |title=North Carolina |url=https://www.nrapvf.org/grades/North-Carolina/ |website=[[NRA Political Victory Fund]] |access-date=September 29, 2026}}</ref>
+* [[Republican Jewish Coalition]]<ref name="rjc"/>
+* [[Republican National Hispanic Assembly]]<ref>{{cite web |title= The RNHA AND RNHANC proudly stands by @whatleyfornc for senate!|url=https://www.instagram.com/p/Dd1NiYuRjUU/ |website=[[Instagram]] |date=September 28, 2026 |access-date=September 29, 2026}}</ref>
+* [[Susan B. Anthony Pro-Life America]]<ref>{{cite web |title= Pro-Life Voter Contact Program Reaches 750K Voter Visits to Elect Whatley, Buckhout, Balkcom|url=https://sbaprolife.org/newsroom/press-releases/breaking-pro-life-voter-contact-program-reaches-750k-voter-visits-to-elect-whatley-buckhout-balkcom |website=[[Susan B. Anthony Pro-Life America]] |date=September 22, 2026 |access-date=September 29, 2026}}</ref>
+* [[Tea Party Patriots Citizens Fund]]<ref>{{cite web |title=Endorsements |url=https://www.teapartypatriots.org/citizensfund/endorsements/ |website=[[Tea Party Patriots Citizens Fund]] |access-date=September 29, 2026}}</ref>
+* [[United States Chamber of Commerce|U.S. Chamber of Commerce]]<ref>{{cite web |title=U.S. Chamber Endorses Michael Whatley for U.S. Senate in North Carolina |url=https://www.uschamber.com/improving-government/u-s-chamber-endorses-michael-whatley-for-u-s-senate-in-north-carolina |website=[[United States Chamber of Commerce]] |date=October 1, 2026 |access-date=October 1, 2026}}</ref>
+}}
+
+{{Endorsements box
+|title=Roy Cooper (D)
+|list=
+;Statewide officials
+*[[Wes Moore]], [[governor of Maryland]] (2023–present)<ref>{{cite news |title=Governor of Maryland supports Roy Cooper's US Senate campaign |url=https://www.wsoctv.com/news/local/governor-maryland-supports-roy-coopers-us-senate-campaign/FUQS7FPB2VE73M4VKHC5ONSPDQ/ |access-date=May 18, 2026 |work=[[WSOC-TV]] |date=May 18, 2026 |language=en}}</ref>
+*[[Gavin Newsom]], [[governor of California]] (2019–present)<ref>{{cite news |last1=O'Neill |first1=Nora |title=Why is California Gov. Gavin Newsom back campaigning in the Carolinas this weekend?|url=https://www.charlotteobserver.com/news/politics-government/election/article317092460.html |access-date=September 2, 2026 |work=[[The Charlotte Observer]] |date=September 2, 2026 |language=en}}</ref>
+
+;Labor unions
+*North Carolina [[AFL-CIO]]<ref name="AFLCIO">{{cite web |last1=Sprinkle |first1=Jeremy |title=Why We're Backing Roy Cooper for US Senate |url=https://aflcionc.org/news/why-were-backing-roy-cooper-us-senate |website=NC State AFL-CIO |access-date=16 August 2026 |date=July 24, 2026}}</ref>
+
+;Organizations
+*[[Human Rights Campaign]] PAC<ref>{{cite press release |title=Human Rights Campaign PAC Endorses Former North Carolina Gov. Roy Cooper for U.S. Senate |url=https://www.hrc.org/press-releases/human-rights-campaign-pac-endorses-former-north-carolina-gov-roy-cooper-for-u-s-senate |access-date=September 29, 2026 |date=September 16, 2026}}</ref>
+*[[J Street]]<ref>{{cite web |title=Roy Cooper |url=https://jstreetpac.org/candidate/roy-cooper/ |website=J Street PAC |access-date=August 13, 2026}}</ref>
+*[[MoveOn]]<ref>{{Cite web|title=MoveOn Endorses {{!}} Roy Cooper|url=https://front.moveon.org/endorsements/candidates/roy-cooper/|website=[[MoveOn]]|date=March 3, 2026|access-date=August 17, 2026}}</ref>
+*[[National Committee to Preserve Social Security and Medicare]]<ref name="NCPSSM">{{cite web |last1=Richtman |first1=Max |title=Former NC Governor Cooper Picks Up Endorsement From Major Seniors Group |url=https://www.ncpssm.org/documents/news-releases/former-nc-governor-cooper-picks-up-endorsement-from-major-seniors-group/ |website=National Committee to Preserve Social Security & Medicare |access-date=16 August 2026 |date=May 4, 2026}}</ref>
+}}
+
+===Fundraising===
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of June 30, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|Roy Cooper (D)
+|$34,975,789
+|$14,258,222
+|$20,717,567
+|-
+|{{party shading/Republican}}|Michael Whatley (R)
+|$11,272,504
+|$7,810,806
+|$3,461,698
+|-
+|{{party shading/Green}}|Michael Dublin (G)
+|$25,276
+|$16,990
+|$10,027
+|-
+|{{party shading/Libertarian}}|Shannon Bray (L)
+|$0
+|$0
+|$0
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC">{{cite web |title=2026 Election United States Senate - North Carolina |url=https://www.fec.gov/data/elections/senate/NC/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=April 26, 2026}}</ref></small>
+|}
+
+===Polling===
+'''Aggregate polls'''
+{| class="wikitable sortable" style="text-align:center;font-size:90%;line-height:17px"
+!Source of poll<br/>aggregation
+!Dates<br/>administered
+!Dates<br/>updated
+! style="width:100px;" |Michael<br />Whatley (R)
+! style="width:100px;" |Roy<br />Cooper (D)
+! style="width:100px;" |Other/<wbr/>Undecided{{Efn|Calculated by taking the difference of 100% and all other candidates combined.|name=|group=}}
+!Margin
+|-
+|[[270toWin]]<ref name="270toWin">{{cite web |title=2026 Polls: North Carolina Senate|url=https://www.270towin.com/2026-senate-polls/north-carolina |website=270toWin |access-date=March 26, 2026}}</ref>
+|September 23 – 30, 2026
+|September 30, 2026
+|41.5%
+|{{party shading/Democratic}} |'''50.7%'''
+|7.8%
+|{{party shading/Democratic}} |'''Cooper +9.2%'''
+|-
+|[[Decision Desk HQ]]<ref>{{Cite web |title=2026 North Carolina Senate Polling |url=https://votes.decisiondeskhq.com/races/2026-11-03/north-carolina-us-senate-general-election/polling |access-date=2026-09-13 |website=[[Decision Desk HQ]]}}</ref>
+|through October 2, 2026
+|October 8, 2026
+|40.1%
+|{{party shading/Democratic}} |'''49.0%'''
+|10.9%
+|{{party shading/Democratic}} |'''Cooper +8.9%'''
+|-
+|[[FiftyPlusOne]]<ref>{{Cite web |title=FiftyPlusOne - North Carolina General Senate Election Polls and Average for the 2026 General Election |url=https://fiftyplusone.news/polls/senate/general/north-carolina |access-date=2026-08-15 |website=fiftyplusone.news}}</ref>
+|through October 3, 2026
+|October 8, 2026
+|41.1%
+|{{party shading/Democratic}} |'''50.9%'''
+|8.0%
+|{{party shading/Democratic}} |'''Cooper +9.8%'''
+|-
+|[[RealClearPolitics]]<ref>{{cite web |title=2026 North Carolina Senate - Whatley vs. Cooper|url=https://www.realclearpolling.com/polls/senate/general/2026/north-carolina/cooper-vs-whatley |access-date=November 12, 2025 |website=[[RealClearPolitics]]}}</ref>
+|September 6 – October 3, 2026
+|October 8, 2026
+|41.0%
+|{{party shading/Democratic}} |'''49.8%'''
+|9.2%
+|{{party shading/Democratic}} |'''Cooper +8.8%'''
+|-
+|''[[Silver Bulletin]]''<ref name="Silver"/>
+|through September 22, 2026
+|October 8, 2026
+|41.5%
+|{{party shading/Democratic}} |'''50.8%'''
+|7.7%
+|{{party shading/Democratic}} |'''Cooper +9.3%'''
+|-
+|colspan="3"|'''Average'''
+|41.0%
+|{{party shading/Democratic}}|'''50.2%'''
+|8.8%
+|{{party shading/Democratic}}|'''Cooper +9.2%'''
+|}
+
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"}}
+! Margin<br />of error
+! style="width:100px;"| Michael<br />Whatley (R)
+! style="width:100px;"| Roy<br />Cooper (D)
+! Other
+! Undecided
+|-
+|rowspan="2" style="text-align:left"|[[East Carolina University]]<ref name="ECU10/8">{{cite web |title=ECU Poll: Cooper's Lead Holds at 7 Points |url=https://surveyresearch-ecu.reportablenews.com/pr/ecu-poll-cooper-s-lead-holds-at-7-points |website=ECU Poll |access-date=8 October 2026 |date=October 8, 2026}}</ref>
+|rowspan="2"|September 30 – October 3, 2026
+|rowspan="2"|810 (LV)
+|rowspan="2"|±&nbsp;4.0%
+|43%
+|{{party shading/Democratic}}|'''50%'''
+|2%
+|6%
+|-
+|46%
+|{{party shading/Democratic}}|'''53%'''
+|2%{{Efn|Shannon Bray (L) with 2%; Michael Dublin (G) & "A write-in candidate" with 0%}}
+|–
+|-
+|rowspan="4" style="text-align:left"|Big Data Poll<ref>{{cite web |title=Tar Heel State Poll: Roy Cooper Holds Solid Lead Over Michael Whatley for U.S. Senate in North Carolina |url=https://www.bigdatapoll.com/blog/tar-heel-state-poll-roy-cooper-holds-solid-lead-over-michael-whatley-for-us-senate-in-north-carolina/ |publisher=Big Data Poll |access-date=October 2, 2026 |date=September 30, 2026}}</ref>
+|rowspan="4"|September 27–29, 2026
+|rowspan="2"|642 (LV)
+|rowspan="4"|±&nbsp;4.0%
+|35%
+|{{party shading/Democratic}}|'''47%'''
+|5%{{efn|name=L3G2|Shannon Bray (L) with 3%; Michael Dublin (G) with 2%}}
+|12%
+|-
+|39%
+|{{party shading/Democratic}}|'''51%'''{{Efn|name=lean}}
+|11%{{Efn|Shannon Bray (L) with 7%; Michael Dublin (G) with 4%}}
+|–
+|-
+|rowspan="2"|698 (RV)
+|34%
+|{{party shading/Democratic}}|'''45%'''
+|5%{{efn|name=L3G2}}
+|15%
+|-
+|38%
+|{{party shading/Democratic}}|'''49%'''
+|13%{{Efn|Shannon Bray (L) with 7%; Michael Dublin (G) with 6%}}
+|–
+|-
+| style="text-align:left"|Quantus Insights (R)<ref>{{cite web|url=https://insideradvantage.com/nc-top-line-tabs/|title=Roy Cooper Leads Michael Whatley by Five in North Carolina|date=September 23, 2026|access-date=September 23, 2026}}</ref>
+|September 21–22, 2026
+|686 (LV)
+|±&nbsp;4.2%
+|43%
+|{{party shading/Democratic}}|'''48%'''
+|5%{{efn|"Would not vote" with 3%; "A minor candidate or someone else" with 2%}}
+|4%
+|-
+| style="text-align: left;" |Fabrizio Ward (R)/<br />Impact Research (D)<ref>{{cite press release |title=AARP 2026 North Carolina Statewide Survey:Annotated Questionnaire |url=https://www.documentcloud.org/documents/28686304-aarp-2026-north-carolina-statewide-survey-topline-1/ |work=[[AARP]] |date=September 28, 2026 |access-date=September 28, 2026}}</ref>{{Efn-ua|name=AARP|Poll commissioned by [[AARP]]}}
+|September 17–20, 2026
+|1,806 (LV)
+|±{{nbsp}}2.9%
+|42%
+|{{party shading/Democratic}}|'''53%'''
+|{{sdash}}
+|5%
+|-
+|rowspan="2" style="text-align:left"|Opinion Diagnostics<ref>{{cite web |title=Cooper Leads Whatley by Ten; Voters Are Motivated and Confident in the Count |url=https://www.commoncause.org/north-carolina/wp-content/uploads/2026/09/CCNC-Sep-2026-Poll-Release-1.pdf |publisher=[[Common Cause]] North Carolina |access-date=September 26, 2026}}</ref>{{Efn-ua|Poll sponsored by [[Common Cause]] North Carolina}}
+|rowspan="2" |September 17–20, 2026
+|rowspan="2" |857 (LV)
+|rowspan="2" |±&nbsp;3.3%
+|41%
+|{{party shading/Democratic}}|'''51%'''
+|2%{{Efn|"Another candidate" with 2%}}
+|5%
+|-
+|44%
+|{{party shading/Democratic}}|'''52%'''{{Efn|name=lean}}
+|–
+|3%
+|-
+|style="text-align:left;" rowspan="3"|[[YouGov]]<ref>{{cite web|url=https://quantusinsights.org/polling/f/roy-cooper-leads-michael-whatley-by-five-in-north-carolina|title=North Carolina General Election 2026 |work=[[YouGov]]|date=September 23, 2026|access-date=September 23, 2026}}</ref>
+|rowspan="3"|September 15–18, 2026
+|3,864 (RV)
+|±&nbsp;2.5%
+|41%
+|{{party shading/Democratic}}|'''52%'''
+|2%{{efn|"Someone else" & "I will not vote in this race" with 1%}}
+|5%
+|-
+|3,742 (LV){{Efn|Loose likely voters.}}
+|±&nbsp;2.6%
+|41%
+|{{party shading/Democratic}}|'''53%'''
+|1%{{efn|"Someone else" with 1%}}
+|4%
+|-
+|3,511 (LV){{Efn|Strict likely voters.}}
+|±&nbsp;2.6%
+|41%
+|{{party shading/Democratic}}|'''54%'''
+|1%{{efn|"Someone else" with 1%}}
+|4%
+|-
+| style="text-align:left"|InsiderAdvantage (R)<ref>{{cite web|url=https://insideradvantage.com/nc-top-line-tabs/|title=NC Top Line Tabs|date=September 18, 2026|access-date=September 18, 2026}}</ref>
+|September 16–17, 2026
+|1,200 (LV)
+|±&nbsp;4.0%
+|43%
+|{{party shading/Democratic}}|'''48%'''
+|3%{{efn|Shannon Bray (L) with 2%; Michael Dublin (G) with 1%}}
+|6%
+|-
+|style="text-align:left;" rowspan="2"|[[High Point University]]<ref>{{cite web|url=https://www.highpoint.edu/src/files/2023/08/HPUPoll127MemoA-1.pdf|title=HIGH POINT UNIVERSITY POLL 127: MEMO RELEASE |work=[[High Point University]]|date=September 24, 2026|access-date=September 24, 2026}}</ref>
+|rowspan="2"|September 9–16, 2026
+|813 (RV)
+|±&nbsp;3.8%
+|39%
+|{{party shading/Democratic}}|'''49%'''
+|4%{{efn|"Another candidate" with 4%}}
+|8%
+|-
+|706 (LV)
+|±&nbsp;3.9%
+|42%
+|{{party shading/Democratic}}|'''50%'''
+|3%{{efn|"Another candidate" with 1%}}
+|5%
+|-
+| style="text-align: left;" |[[Harper Polling]] (R)<ref>{{Cite web|url=https://www.carolinajournal.com/cj-poll-cooper-leads-whatley-by-15-as-republican-voters-drift-to-undecided/|title=CJ poll: Cooper leads Whatley by 15 as Republican voters drift to undecided|date=September 17, 2026|work=[[Harper Polling]]|access-date=September 17, 2026}}</ref>{{efn-ua|name=CJ}}
+|September 13–15, 2026
+|608 (LV)
+|±&nbsp;4.0%
+|34%
+|{{party shading/Democratic}}|'''49%'''
+|5%{{efn|Shannon Bray (L) with 3%; Michael Dublin (G) with 2%}}
+|12%
+|-
+|rowspan="2" style="text-align: left;" |[[Catawba College]]/[[YouGov]]<ref>{{cite web |title=New Catawba College-YouGov Survey Finds Trump Approval Slips Further as Cooper Maintains Double-Digit Senate Lead in North Carolina |url=https://www.catawba.edu/news/all-news/2026/yougov-39/ |publisher=[[Catawba College]] |access-date=October 1, 2026 |date=September 30, 2026}}</ref>
+|rowspan="2"|September 4–15, 2026
+|rowspan="2"|885 (LV)
+|rowspan="2"|–
+|35%
+|{{party shading/Democratic}}|'''47%'''
+|5%{{efn|Shannon Bray (L) with 5%; "Another candidate" with 1%}}
+|13%
+|-
+|37%
+|{{party shading/Democratic}}|'''48%'''{{Efn|name=lean}}
+|5%{{efn|"3rd party candidate" with 5%}}
+|10%
+|-
+| style="text-align: left;" |[[The Trafalgar Group]] (R)<ref>{{Cite web|url=https://www.thetrafalgargroup.org/wp-content/uploads/2026/09/NC-Gen-Sen-Poll-Full-Report-0911.pdf|title=North Carolina Presidential Survey|date=September 11, 2026|access-date=September 13, 2026}}</ref>
+|September 8–10, 2026
+|1,084 (LV)
+|±&nbsp;2.9%
+|42%
+|{{party shading/Democratic}}|'''48%'''
+|3%{{efn|Shannon Bray (L) with 1%; Michael Dublin (G) with 1%}}
+|7%
+|-
+| rowspan="2" style="text-align: left;" |[[East Carolina University]]<ref>{{Cite web |date=2026-09-10 |title=ECU Poll: Cooper Leads Whatley by 7 points |url=https://surveyresearch-ecu.reportablenews.com/pr/ecu-poll-cooper-leads-whatley-by-7-points |access-date=2026-09-11 |website=reportablenews.com}}</ref>
+| rowspan="2" |August 31 – September 3, 2026
+| rowspan="2" |675 (LV)
+| rowspan="2" |±&nbsp;4.4%
+|39%
+|{{party shading/Democratic}}|'''46%'''
+|3%{{Efn|Shannon Bray (L), Michael Dublin (G), and write-in with 1%}}
+|14%
+|-
+|44%{{Efn|On a forced-choice measure without an undecided option}}
+|{{party shading/Democratic}}|'''52%'''
+|5%{{Efn|Shannon Bray (L) with 3%; Michael Dublin (G) and write-in with 1%}}
+|–
+|-
+| rowspan="3" style="text-align: left;" |[[Elon University]]/[[YouGov]]<ref>{{Cite web |last=Husser |first=Jason |date=2026-09-10 |title=Survey of North Carolina Adults — August 21–31, 2026 |url=https://eloncdn.blob.core.windows.net/eu3/sites/819/2026/09/Elon-University-Poll-charts-9-10-26.pdf |access-date=2026-09-10 |website=Elon University |format=PDF}}</ref>
+| rowspan="3" |August 21–31, 2026
+|565 (LV)
+|±&nbsp;5.6%
+|38%
+|{{party shading/Democratic}}|'''49%'''
+|4%{{Efn|Shannon Bray (L) with 2%; Michael Dublin (G) with 2%}}
+|8%
+|-
+|677 (RV)
+|±&nbsp;5.1%
+|36%
+|{{party shading/Democratic}}|'''49%'''
+|5%{{Efn|"Do not plan to vote" and Michael Dublin (G) with 2%; Shannon Bray (L) with 1%}}
+|11%
+|-
+|800 (A)
+|±&nbsp;5.1%
+|29%
+|{{party shading/Democratic}}|'''39%'''
+|20%{{Efn|"Do not plan to vote" with 17%; Shannon Bray (L) with 2%; Michael Dublin (G) with 1%}}
+|12%
+|-
+|rowspan="2"style="text-align:left;"|[[High Point University]]/[[YouGov]]<ref>{{Cite web|title=High Point University Poll 126: Memo Release|url=https://www.highpoint.edu/src/files/2023/08/HPU-Poll-126-Memo-08192026.pdf|publisher=[[High Point University]]|access-date=August 22, 2026}}</ref>
+|rowspan="2"|August 3–12, 2026
+|800 (RV)
+|±&nbsp;4.2%
+|41%
+|{{party shading/Democratic}}|'''48%'''
+|4%{{Efn|name="SE4"}}
+|8%
+|-
+|660 (LV)
+|±&nbsp;3.8%
+|45%
+|{{party shading/Democratic}}|'''50%'''
+|3%{{Efn|name="SE3"|"Someone else" with 3%}}
+|3%
+|-
+| style="text-align: left;" |[[Harper Polling]] (R)<ref>{{Cite web|url=https://www.carolinajournal.com/wp-content/uploads/2026/08/H24463-CJ-NC-Aug26-Toplines.pdf|title=Likely 2026 General Election Voters – North Carolina Statewide|work=[[Harper Polling]]|date=August 13, 2026|access-date=August 13, 2026}}</ref>{{efn-ua|name=CJ}}
+|August 9–10, 2026
+|600 (LV)
+|±&nbsp;4.0%
+|39%
+|{{party shading/Democratic}}|'''52%'''
+|5%{{efn|name="SE5"|"Someone else" with 5%}}
+|5%
+|-
+|style="text-align: left;"|[[Change Research]] (D)<ref>{{Cite web|url=https://carolinaforward.org/news/the-august-2026-carolina-forward-poll/|title=The August 2026 Carolina Forward Poll|website=Carolina Forward|access-date=August 10, 2026}}</ref>{{Efn-ua|name=CFWD}}
+|August 3–6, 2026
+|915 (LV)
+|±&nbsp;3.5%
+|43%
+|{{party shading/Democratic}}|'''50%'''
+|{{sdash}}
+|7%
+|-
+|style="text-align:left"|[[Change Research]] (D)<ref>{{Cite web|last=Pearce|first=Gary|date=August 6, 2026|title=Cooper Up by 9; Trump Still Slumps|url=https://garypearcenc.substack.com/p/cooper-up-by-9-trump-still-slumps?utm_source=substack&utm_medium=email|access-date=August 7, 2026|website=[[Substack]]}}</ref>
+|July 29 – August 1, 2026
+|967 (V)
+|±&nbsp;3.4%
+|41%
+|{{party shading/Democratic}}|'''50%'''
+|{{sdash}} 
+|9%
+|-
+|style="text-align: left;" rowspan="3"|[[Elon University]]/[[YouGov]]<ref>{{Cite web|url=https://eloncdn.blob.core.windows.net/eu3/sites/819/2026/08/Elon-University-Poll-Topline-8-12-26.pdf|title=Survey of North Carolina Adults — July 23–31, 2026|first=Jason|last=Husser|website=[[Elon University]]|date=August 12, 2026|access-date=August 12, 2026}}</ref>
+|rowspan="3"|July 23–31, 2026
+|466 (LV)
+|±&nbsp;5.6%
+|42%
+|{{party shading/Democratic}}|'''53%'''
+|3%{{efn|Shannon Bray (L) with 2%; Michael Dublin (G) with 1%|name=B2D1}}
+|2%
+|-
+|717 (RV)
+|±&nbsp;4.4%
+|35%
+|{{party shading/Democratic}}|'''51%'''
+|7%{{efn|"Do not plan to vote" with 3%; Michael Dublin (G) with 2%; Shannon Bray (L) and "Someone else" with 1%}} 
+|7%
+|-
+|800 (A)
+|±&nbsp;4.2%
+|33%
+|{{party shading/Democratic}}|'''47%'''
+|11%{{efn|"Do not plan to vote" with 8%; Shannon Bray (L) with 2%; Michael Dublin (G) and "Someone else" with 1%}} 
+|9%
+|-
+|style="text-align:left"|Beacon Research (D)/<br />Shaw & Co. Research (R)<ref>{{cite web |title=Fox News Poll: Democratic enthusiasm shapes North Carolina Senate race |first=Dana |last=Blanton |url=https://www.foxnews.com/politics/fox-news-poll-democratic-enthusiasm-shapes-north-carolina-senate-race |website=[[Fox News]] |date=July 29, 2026 |access-date=July 29, 2026}}</ref>{{efn-ua|name=Fox|Poll conducted for [[Fox News]]}}
+|July 23–27, 2026
+|1,005 (RV)
+|±&nbsp;3.0%
+|44%
+|{{Party shading/Democratic}}|'''53%'''
+|{{sdash}}
+|3%
+|-
+|style="text-align:left"|[[Public Policy Polling]] (D)<ref>{{cite web |title=Cooper leads, but Whatley has a path |url=https://www.publicpolicypolling.com/polls/cooper-leads-but-whatley-has-a-path/ |website=[[Public Policy Polling]] |date=July 13, 2026 |access-date=July 13, 2026}}</ref>
+|July 10–11, 2026
+|759 (LV)
+|±&nbsp;3.6%
+|44%
+|{{Party shading/Democratic}}|'''48%'''
+|{{sdash}}
+|8%
+|-
+|style="text-align:left"|[[New York Times]]/[[Siena University (New York)|Siena University]]<ref name="NYTJuly2026">{{cite web |title=Control of the Senate Is Up for Grabs, Times/Siena Polls Find |url=https://www.nytimes.com/interactive/2026/07/01/polls/times-siena-battleground-poll-crosstabs.html |website=The New York Times |date=July 1, 2026 |access-date=July 1, 2026}}</ref>
+|June 15–27, 2026
+|601 (LV)
+|±&nbsp;4.7%
+|43%
+|{{Party shading/Democratic}}|'''50%'''
+|{{sdash}}
+|6%
+|-
+|style="text-align:left;"|[[Catawba College]]/[[YouGov]]<ref>{{Cite web|url=https://www.catawba.edu/news/all-news/2026/yougovsurvey27/|title=Catawba College-YouGov Survey: Cooper Leads Whatley by 14 Points as Trump Remains Underwater in North Carolina|website=[[Catawba College]]|date=June 23, 2026|access-date=June 23, 2026}}</ref>
+|June 1–10, 2026
+|905 (LV)
+|±&nbsp;3.8%
+|34%
+|{{party shading/Democratic}}|'''48%'''
+|{{sdash}}
+|18%
+|-
+|style="text-align:left;"|[[Harper Polling]] (R)<ref>{{Cite web|url=https://bloximages.newyork1.vip.townnews.com/thecentersquare.com/content/tncms/assets/v3/editorial/8/85/885dfc5a-352d-4949-8a33-aad807ecee4c/6a05ccdfa3461.pdf.pdf|title=Survey of Likely 2026 General Election Voters|work=[[Harper Polling]]|date=May 14, 2026|access-date=May 14, 2026}}</ref>
+|May 10–11, 2026
+|600 (LV)
+|±&nbsp;4.0%
+|39%
+|{{party shading/Democratic}}|'''50%'''
+|{{sdash}}
+|11%
+|-
+|style="text-align: left;"|[[Change Research]] (D)<ref>{{Cite web|title=The May 2026 Carolina Forward Poll |url=https://carolinaforward.org/blog/the-may-2026-carolina-forward-poll/|website=Carolina Forward|date=May 18, 2026 |access-date=May 18, 2026}}</ref>{{Efn-ua|name=CFWD}}
+|May 4–8, 2026
+|957 (LV)
+|±&nbsp;3.3%
+|42%
+|{{party shading/Democratic}}|'''49%'''
+|{{sdash}}
+|9%
+|-
+|style="text-align:left;"|Opinion Diagnostics (R)<ref>{{Cite web|url=https://www.thecentersquare.com/north_carolina/article_b415645c-a5af-47b5-970f-1d8cc9a64480.html|title=Election 2026: Cooper leads Whatley by 9 points in new poll|first=Alan|last=Wooten|website=[[The Center Square]]|date=April 29, 2026|access-date=April 29, 2026}}</ref>
+|April 21–24, 2026
+|830 (V)
+|±&nbsp;3.5%
+|41%
+|{{party shading/Democratic}}|'''50%'''
+|{{sdash}}
+|9%
+|-
+|style="text-align:left;" rowspan="2|[[High Point University]]/[[YouGov]]<ref>{{Cite web|url=https://www.highpoint.edu/src/files/2023/08/HPU-Poll-120-Memo-1.pdf|title=High Point University Poll 120: Memo Release|website=[[High Point University]]|date=April 16, 2026|access-date=April 16, 2026}}</ref>
+|rowspan="2|March 26 – April 6, 2026
+|703 (LV)
+|±&nbsp;4.3%
+|42%
+|{{party shading/Democratic}}|'''50%'''
+|2%{{efn|"Someone else/another party" with 2%}}
+|6%
+|-
+|800 (RV)
+|±&nbsp;4.1%
+|39%
+|{{party shading/Democratic}}|'''49%'''
+|3%{{efn|"Someone else/another party" with 3%}}
+|9%
+|-
+|style="text-align:left;"|Quantus Insights (R)<ref>{{Cite web |date=April 2, 2026 |title=North Carolina 2026: Democrats Hold Early Edge |url=https://quantusinsights.org/f/north-carolina-2026-democrats-hold-early-edge |access-date=April 8, 2026 |website=Quantus Insights}}</ref>
+|March 31 – April 1, 2026
+|987 (LV)
+|±&nbsp;3.5%
+|44%
+|{{party shading/Democratic}}|'''49%'''
+|2%
+|6%
+|-
+| style="text-align:left;"|[[Harper Polling]] (R)<ref>{{Cite web|url=https://www.carolinajournal.com/polls/march-2026-roy-cooper-leads-michael-whatley-in-senate-race-by-nearly-8-points/|title=March 2026 — Roy Cooper leads Michael Whatley in Senate Race by nearly 8 points |first=David N.|last=Bass|website=Carolina Journal|date=September 18, 2025|access-date=March 26, 2026}}</ref>{{efn-ua|name=CJ|Poll sponsored by ''The Carolina Journal''}}
+|March 22–23, 2026
+|600 (LV)
+|±&nbsp;4.0%
+|41%
+|{{party shading/Democratic}} |'''49%'''
+|4%{{efn|name="SE4"|"Someone else" with 4%}}
+|6%
+|-
+| style="text-align: left;" |[[Catawba College]]/[[YouGov]]<ref>{{Cite web|url=https://www.catawba.edu/news/all-news/2026/yougov-24/|title=Trump Approval Drops as North Carolinians Oppose Iran Escalation; Cooper Leads Senate Race|website=[[Catawba College]]|date=March 31, 2026|access-date=March 31, 2026}}</ref>
+|March 9–18, 2026
+|1,000 (LV)
+|±&nbsp;3.6%
+|34%
+|{{party shading/Democratic}} |'''48%'''
+|4%{{efn|Shannon Bray (L) with 4%; "Other candidate" with 0%}}
+|14%
+|-
+|style="text-align: left;"|[[Public Policy Polling]] (D)<ref>{{Cite web|date=March 16, 2026|title=North Carolina Is Always Close|url=https://www.publicpolicypolling.com/polls/north-carolina-is-always-close/|website=[[Public Policy Polling]]|access-date=March 16, 2026}}</ref>
+|March 13–14, 2026
+|556 (V)
+|±&nbsp;4.2%
+|44%
+|{{party shading/Democratic}}|'''47%'''
+|{{sdash}}
+|9%
+|-
+|style="text-align: left;"|Nexus Strategies/<br />Strategic Partners Solutions<ref>{{cite web|last=Bass|first=David N.|date=March 27, 2026|title=Poll: Cooper holds wide early lead over Whatley in NC Senate race|url=https://www.carolinajournal.com/poll-cooper-holds-wide-early-lead-over-whatley-in-nc-senate-race/|archive-url=https://web.archive.org/web/20260328004626/https://www.carolinajournal.com/poll-cooper-holds-wide-early-lead-over-whatley-in-nc-senate-race/|archive-date=March 28, 2026|access-date=March 28, 2026|website=[[Carolina Journal]]}}</ref>{{efn-ua|name=HU|Poll sponsored by ''Healthier United''}}
+|March 8–9, 2026
+|800 (RV)
+|±&nbsp;3.5%
+|32%
+|{{party shading/Democratic}}|'''50%'''
+|4%{{Efn|Shannon Bray (L) with 4%.}}
+|14%
+|-
+|- style="background:lightyellow;"
+| style="border-right-style:hidden; background:lightyellow;" |
+| style="border-right-style:hidden; " | March 3, 2026
+| colspan="15" | Primary elections
+|-
+|style="text-align: left;"|[[Change Research]] (D)<ref>{{Cite web|title=NC Statewide Toplines |url=https://docs.google.com/document/d/1n3RgdfLuny5YYffvdqdPLn4b5lFnsS1YnAMgftIkbUk/edit?tab=t.0|work=[[Change Research]]|access-date=February 21, 2026 |via=[[Google Docs]]}}</ref>
+|January 31–February 4, 2026
+|1,069 (RV)
+|±&nbsp;3.1%
+|40%
+|{{party shading/Democratic}}|'''50%'''
+|4%{{Efn|"Would not vote" with 4%}}
+|7%
+|-
+|style="text-align: left;"|TIPP Insights (R)<ref>{{Cite web|date=January 19, 2026|title=League of American Workers Survey — North Carolina |url=https://tippinsights.com/league-of-american-workers-survey-north-carolina/|archive-url=https://web.archive.org/web/20260210173220/https://tippinsights.com/league-of-american-workers-survey-north-carolina/|archive-date=February 10, 2026|access-date=January 19, 2026|website=TIPP Insights}}</ref>{{Efn-ua|Poll sponsored by the League of American Workers}}
+|January 12–15, 2026
+|1,512 (RV)
+|±&nbsp;2.7%
+|24%
+|{{party shading/Democratic}}|'''48%'''
+|{{sdash}}
+|27%
+|-
+|style="text-align: left;"|[[Change Research]] (D)<ref name="CFWDJan2026">{{Cite web|date=January 10, 2026|title=The January Carolina Forward Poll |url=https://carolinaforward.org/blog/the-january-carolina-forward-poll/|archive-url=https://web.archive.org/web/20260510002633/https://carolinaforward.org/blog/the-january-carolina-forward-poll/|archive-date=May 10, 2026|website=Carolina Forward|access-date=January 10, 2026}}</ref>{{Efn-ua|name=CFWD}}
+|January 5–7, 2026
+|1,105 (LV)
+|±&nbsp;3.5%
+|42%
+|{{party shading/Democratic}}|'''47%'''
+|1%{{Efn|"Would not vote" with 1%}}
+|9%
+|-
+|style="text-align:left;"|[[Harper Polling]] (R)<ref name="HarperNovember25">{{Cite web|date=November 13, 2025|title=Survey of Likely 2026 General Election Voters|url=https://mcusercontent.com/259a50ef0a1608ab2bc2cf891/files/c8490c1f-3b65-2883-756c-59ead399b1f8/H23440_CJ_NC_Nov_039_25_Toplines.pdf|archive-url=https://web.archive.org/web/20251212091123/https://mcusercontent.com/259a50ef0a1608ab2bc2cf891/files/c8490c1f-3b65-2883-756c-59ead399b1f8/H23440_CJ_NC_Nov_039_25_Toplines.pdf|archive-date=December 12, 2025|work=[[Harper Polling]]|access-date=November 13, 2025}}</ref>{{efn-ua|name=CJ}}
+|November 9–10, 2025
+|600 (LV)
+|±&nbsp;4.0%
+|39%
+|{{party shading/Democratic}}|'''47%'''
+|4%{{efn|name="SE4"}}
+|10%
+|-
+|style="text-align:left;"|[[Harper Polling]] (R)<ref>{{Cite web|first=David N.|last=Bass|date=September 18, 2025|title=Whatley narrows gap with Cooper in new CJ poll of US Senate race|url=https://www.carolinajournal.com/whatley-narrows-gap-with-cooper-in-new-cj-poll-of-us-senate-race/|archive-url=https://web.archive.org/web/20260220065731/https://www.carolinajournal.com/whatley-narrows-gap-with-cooper-in-new-cj-poll-of-us-senate-race/|archive-date=February 20, 2026|website=[[Carolina Journal]]|access-date=September 18, 2025}}</ref>{{efn-ua|name=CJ}}
+|September 14–15, 2025
+|600 (RV)
+|±&nbsp;4.0%
+|42%
+|{{party shading/Democratic}}|'''46%'''
+|4%{{efn|name="SE4"|"Someone else" with 4%}}
+|8%
+|-
+|style="text-align:left;"|[[Change Research]] (D)<ref>{{Cite web|last=Whilden|first=Rebekah|title=The September Carolina Forward Poll|url=https://carolinaforward.org/blog/the-september-carolina-forward-poll/|archive-url=https://web.archive.org/web/20260305030831/https://carolinaforward.org/blog/the-september-carolina-forward-poll/|archive-date=March 5, 2026|website=Carolina Forward|access-date=September 15, 2025}}</ref>{{efn-ua|name=CFWD}}
+|September 2–8, 2025
+|855 (LV)
+|±&nbsp;3.6%
+|41%
+|{{party shading/Democratic}}|'''48%'''
+|{{sdash}}
+|11%
+|-
+|style="text-align:left;"|[[Harper Polling]] (R)<ref>{{Cite web|date=August 14, 2025|title=August 2025 – Cooper shows early lead on Whatley in US Senate Race|url=https://www.carolinajournal.com/polls/august-2025-cooper-shows-early-lead-on-whatley-in-us-senate-race/|archive-url=https://web.archive.org/web/20251113215116/https://www.carolinajournal.com/polls/august-2025-cooper-shows-early-lead-on-whatley-in-us-senate-race/|archive-date=November 13, 2025|website=[[Carolina Journal]]|access-date=August 14, 2025}}</ref>{{efn-ua|name=CJ|Poll sponsored by ''The Carolina Journal''}}
+|August 11–12, 2025
+|600 (RV)
+|±&nbsp;4.0%
+|39%
+|{{party shading/Democratic}}|'''47%'''
+|4%{{efn|name="SE4"}}
+|10%
+|-
+|style="text-align:left;"|[[Emerson College]]<ref>{{Cite web|date=August 1, 2025|title=North Carolina 2026 Poll: Cooper Starts US Senate Race with Six-Point Lead and Clear Name Recognition Advantage over Whatley|url=https://emersoncollegepolling.com/north-carolina-2026-poll-cooper-starts-us-senate-race-with-six-point-lead-and-clear-name-recognition-advantage-over-whatley|archive-url=https://web.archive.org/web/20260416050458/https://emersoncollegepolling.com/north-carolina-2026-poll-cooper-starts-us-senate-race-with-six-point-lead-and-clear-name-recognition-advantage-over-whatley/|archive-date=April 16, 2026|website=[[Emerson College Polling]]|access-date=August 2, 2025}}</ref>
+|July 28–30, 2025
+|1,000 (RV)
+|±&nbsp;3.0%
+|41%
+|{{party shading/Democratic}}|'''47%'''
+|{{sdash}}
+|12%
+|-
+|style="text-align:left;" rowspan="2"|Victory Insights (R)<ref>{{Cite web|date=July 30, 2025|title=Roy Cooper holds narrow lead over Michael Whatley in First Poll of 2026 US Senate Race in North Carolina|url=https://irp.cdn-website.com/07e08705/files/uploaded/PollSummary_NC-US-Senate_07-31-2025.pdf|archive-url=https://web.archive.org/web/20260430183631/https://irp.cdn-website.com/07e08705/files/uploaded/PollSummary_NC-US-Senate_07-31-2025.pdf|archive-date=April 30, 2026|work=Victory Insights|access-date=July 30, 2025}}</ref>
+|rowspan="2"|July 28–30, 2025
+|rowspan="2"|600 (LV)
+|rowspan="2" {{sdash}}
+|40%
+|{{party shading/Democratic}}|'''43%'''
+|{{sdash}}
+|16%
+|-
+|'''44%'''{{efn|name=lean|With voters who lean towards a given candidate}}
+|'''44%'''
+|{{sdash}}
+|12%
+|}
+
+<!-- = = = don't edit the line below = = = -->
+{{hidden begin|titlestyle=background:#cff|title=Hypothetical polling|contentstyle=border:solid 1px silver; padding:8px; background:var(--background-color-base); color:var(--color-base);}}
+<!-- = = = don't edit the line above = = = -->
+'''Don Brown vs. Roy Cooper'''<br />
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"}}
+! Margin<br />of error
+! style="width:100px;"| Don<br />Brown (R)
+! style="width:100px;"| Roy<br />Cooper (D)
+! Other
+! Undecided
+|-
+|style="text-align:left;"|[[Harper Polling]] (R)<ref name="HarperNovember25"/>{{efn-ua|name=CJ}}
+|November 9–10, 2025
+|600 (LV)
+|±&nbsp;4.0%
+|38%
+|{{party shading/Democratic}}|'''48%'''
+|4%{{efn|name="SE4"}}
+|10%
+|}
+
+'''Thom Tillis vs. Roy Cooper'''<br />
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|Key:<br />A – all adults<br />RV – registered voters<br />LV – likely voters<br />V – unclear|name="Key"}}
+! Margin<br />of error
+! style="width:100px;"| Thom<br />Tillis (R)
+! style="width:100px;"| Roy<br />Cooper (D)
+! Other
+! Undecided
+|-
+|style="text-align:left;" rowspan="2"|[[Change Research]] (D)<ref>{{Cite web|date=April 14, 2025|title=The Carolina Forward Poll: April 2025|url=https://carolinaforward.org/blog/april-2025-poll/|archive-url=https://web.archive.org/web/20260317152906/https://carolinaforward.org/blog/april-2025-poll/|archive-date=March 17, 2026|website=Carolina Forward|access-date=April 14, 2025}}</ref>{{efn-ua|name=CFWD|Poll sponsored by Carolina Forward}}
+|rowspan="2"|March 31–April 4, 2025
+|rowspan="2"|867 (LV)
+|rowspan="2"|±&nbsp;3.6%
+|44%
+|{{party shading/Democratic}}|'''46%'''
+|{{sdash}}
+|10%
+|-
+|45%{{efn|name="lean"|With voters who lean towards a given candidate}}
+|{{party shading/Democratic}}|'''48%'''
+|2%{{efn|"Would not vote" with 2%}}
+|5%
+|-
+|style="text-align:left;"|[[Public Policy Polling]] (D)<ref>{{Cite web|date=March 6, 2025|title=North Carolina Survey Results|url=https://www.publicpolicypolling.com/wp-content/uploads/2025/03/NorthCarolinaResults.pdf|archive-url=https://web.archive.org/web/20250911230853/https://www.publicpolicypolling.com/wp-content/uploads/2025/03/NorthCarolinaResults.pdf|archive-date=September 11, 2025|website=[[Public Policy Polling]]|access-date=March 6, 2025}}</ref>
+|March 4–5, 2025
+|662 (V)
+|±&nbsp;3.8%
+|43%
+|{{party shading/Democratic}}|'''47%'''
+|{{sdash}}
+|9%
+|-
+|style="text-align:left;"|Victory Insights (R)<ref name="VIPollDec2024"/>
+|November 26–29, 2024
+|800 (LV)
+|{{sdash}}
+|44%
+|{{party shading/Democratic}}|'''45%'''
+|{{sdash}}
+|11%
+|}
+
+'''Lara Trump vs. Roy Cooper'''<br />
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"}}
+! Margin<br />of error
+! style="width:100px;"| Lara<br />Trump (R)
+! style="width:100px;"| Roy<br />Cooper (D)
+! Other
+! Undecided
+|-
+|style="text-align:left;"|Victory Insights (R)<ref name="VIPollDec2024"/>
+|November 26–29, 2024
+|800 (LV)
+|{{sdash}}
+|44%
+|{{party shading/Democratic}}|'''46%'''
+|{{sdash}}
+|10%
+|}
+{{hidden end}}
+
+===Results===
+{{Election box begin |title=2026 United States Senate election in North Carolina
+}}
+{{Election box candidate with party link|party=Republican Party (United States)|candidate=[[Michael Whatley]]|votes=|percentage=|change=}}
+{{Election box candidate with party link|party=Democratic Party (United States)|candidate=[[Roy Cooper]]|votes=|percentage=|change=}}
+{{Election box candidate with party link|party=Libertarian Party (United States)|candidate=Shannon W. Bray|votes=|percentage=|change=}}
+{{Election box candidate with party link|party=Green Party (United States)|candidate=Michael Dublin|votes=|percentage=|change=N/A}}
+{{Election box write-in with party link|votes=|percentage=|change=}}
+{{Election box total
+|votes      = 
+|percentage = 100.0%
+}}
+{{Election box end}}
+
+==Notes==
+{{notelist}}
+'''Partisan clients'''
+{{notelist-ua}}
+
+==References==
+{{reflist}}
+
+== External links ==
+;Official campaign websites
+*[https://www.shannonbray.us/ Shannon Bray (L)]
+*[https://roycooper.com/ Roy Cooper (D)]
+*[https://www.dublinforcongress.com/ Michael Dublin (G)]
+*[https://www.michaelwhatley.com/ Michael Whatley (R)]
+{{North Carolina elections}}
+{{2026 United States elections}}
+
+[[Category:United States Senate elections in North Carolina|2026]]
+[[Category:2026 United States Senate elections|North Carolina]]
+[[Category:2026 North Carolina elections|United States Senate]]

@@ -1,0 +1,1621 @@
+{{Short description|none}}
+{{for|related races|2026 United States Senate elections}}
+{{Distinguish|2026 Georgia State Senate election}}
+{{Use American English|date=January 2026}}
+{{Use mdy dates|date=September 2023}}
+{{Infobox election
+| election_name = 2026 United States Senate election in Georgia
+| country = Georgia (U.S. state)
+| type = presidential
+| ongoing = yes
+| previous_election = 2020–21 United States Senate election in Georgia
+| previous_year = 2020–21
+| next_election = 2032 United States Senate election in Georgia
+| next_year = 2032
+| election_date = November 3, 2026
+| image1 = Jon Ossoff Senate Portrait 2021 (cropped).jpg
+| nominee1 = [[Jon Ossoff]]
+| party1 = Democratic Party (United States)
+| popular_vote1 = 
+| percentage1 = 
+| image2 = Rep. Mike Collins official photo, 118th Congress (cropped).jpg
+| nominee2 = [[Mike Collins (politician)|Mike Collins]]
+| party2 = Republican Party (United States)
+| popular_vote2 = 
+| percentage2 = 
+| map_image = 
+| map_size = 
+| map_caption = County results
+| title = U.S. senator
+| before_election = [[Jon Ossoff]]
+| before_party = Democratic Party (United States)
+| after_election = 
+| after_party = 
+}}
+{{Elections in Georgia (U.S. state) sidebar}}
+
+The '''2026 United States Senate election in Georgia''' will be held on November 3, 2026, to elect a member of the [[United States Senate]] to represent the state of [[Georgia (U.S. state)|Georgia]]. [[Democratic Party (United States)|Democratic]] incumbent [[Jon Ossoff]] is seeking a second term. He is being challenged by [[Republican Party (United States)|Republican]] congressman [[Mike Collins (politician)|Mike Collins]]. A [[two-round system|runoff election]] is scheduled for December 1 if no candidate gets a majority.<ref>{{cite news|last=Bluestein|first=Greg|title=Libertarians won't be on the ballot in Georgia, meaning likely no runoffs|newspaper=[[Atlanta Journal-Constitution]]|date=July 11, 2026|url=https://www.ajc.com/politics/2026/07/libertarians-wont-be-on-the-ballot-in-georgia-meaning-likely-no-runoffs/|url-access=subscription|access-date=September 15, 2026}}</ref>
+
+[[Primary election]]s were held on May 19, with Ossoff running unopposed for the Democratic nomination. No candidate obtained a majority in the first round of the Republican primary between Collins, former football coach [[Derek Dooley (American football)|Derek Dooley]], and congressman [[Buddy Carter]], leading to a runoff between Collins and Dooley on June 16. After receiving an endorsement from President [[Donald Trump]], Collins was nominated with 55.5% of the vote.
+
+This will be one of two Democratic-held Senate seats up for election in 2026 in a state won by Trump in [[2024 United States presidential election|2024]], along with [[2026 United States Senate election in Michigan|Michigan]].
+{{TOC limit|3}}
+
+== Background ==
+Georgia is considered to be a [[Purple state|purple or swing state]] at the federal level. It was a top battleground state in the [[2020 United States presidential election in Georgia|2020]] and [[2024 United States presidential election in Georgia|2024]] presidential elections.<ref>{{cite news |title=The 2024 Swing States: Why Georgia Could Sway the Presidential Election |url=https://www.usnews.com/news/elections/articles/the-2024-swing-states-why-georgia-could-sway-the-presidential-election |access-date=February 7, 2026 |publisher=US News |date=November 5, 2024}}</ref><ref>{{cite news |title=Georgia emerges as a major 2020 battleground state |url=https://www.politico.com/news/2020/07/23/georgia-2020-democrats-bottoms-stacey-abrams-biden-379372 |access-date=February 7, 2026 |publisher=Politico |date=July 23, 2020}}</ref>
+
+Both parties have seen success in the state in recent years. The state backed Joe Biden by 0.24% and Donald Trump by 2.2%, respectively in 2020 and 2024. Democrats hold both of Georgia's [[List of United States senators from Georgia|U.S. Senate seats]]. Republicans control all statewide executive offices,{{efn|While Democrats did flip 2 seats in the [[2025 Georgia Public Service Commission special election]], Republicans still hold a 3–2 majority.}} control both chambers of the legislature, and hold a majority in Georgia's [[United States House of Representatives|U.S. House]] delegation.<ref>{{Cite web |date=2024-11-06 |title=2 Republican incumbents lose in Georgia House, but overall Democratic gains are limited |url=https://apnews.com/article/georgia-house-senate-legislature-democrats-republicans-296a4233e0b360ec60f1adc2f4174925 |access-date=2024-12-07 |website=AP News |language=en}}</ref>
+
+As one of only two seats up held by a Democrat in a state that voted for Trump in 2024, the race is expected to be competitive.<ref>{{Cite web |title=Democrats Rush to Regroup in the Southern Battlegrounds |website=[[The New York Times]] |date=November 25, 2024 |url=https://www.nytimes.com/2024/11/25/us/politics/democrats-georgia-north-carolina-trump-harris-campaign.html}}</ref>
+
+==Democratic primary==
+===Candidates===
+====Nominee====
+* [[Jon Ossoff]], incumbent U.S. senator (2021–present)<ref name="Ossoff">{{cite web |last=Bluestein |first=Greg |title=Jon Ossoff lays the groundwork for 2026 reelection campaign |date=December 4, 2024 |url=https://www.ajc.com/politics/ossoff-lays-the-groundwork-for-2026-reelection-campaign/UCWPQDWKZFATVPVY6TYW5RGPQU/ |website=[[The Atlanta Journal-Constitution]] |access-date=December 4, 2024}}</ref>
+
+===Endorsements===
+{{Endorsements box
+| title=Jon Ossoff
+| columns=yes
+| list=
+;U.S. senators
+*[[Raphael Warnock]], [[Georgia (U.S. state)|Georgia]] (2021–present)<ref>{{cite news |work=[[Associated Press]] |access-date=March 28, 2025 |url=https://apnews.com/article/jon-ossoff-senate-election-2026-georgia-20dcdc9e7dc10f15b3aa3c23d845220e |author=Amy, Jeff |title=Georgia Democratic Sen. Jon Ossoff vows defiance to Trump ahead of 2026 election |date=March 22, 2025 |archive-date=April 2, 2025|archive-url=https://web.archive.org/web/20250402184517/https://apnews.com/article/jon-ossoff-senate-election-2026-georgia-20dcdc9e7dc10f15b3aa3c23d845220e |url-status=live}}</ref>
+
+;Organizations
+*[[Black Economic Alliance]] PAC<ref name="BEA PAC">{{cite web |title=Candidates |url=https://pac.blackeconomicalliance.org/candidates/ |website=Black Economic Alliance PAC |access-date=April 23, 2026}}</ref>
+*[[Council on American-Islamic Relations]]<ref>{{cite web |title=Georgia Primary Election Voter Guide 2026 |url=https://cairaction.org/wp-content/uploads/2026/05/Georgia-Voter-Guide.pdf |website=CAIR Action |access-date=June 17, 2026}}</ref>
+*[[Council for a Livable World]]<ref>{{cite web |title=Senate Candidates |url=https://livableworld.org/meet-the-candidates/senate-candidates/ |website=Council for a Livable World |access-date=November 23, 2025}}</ref>
+*[[End Citizens United]]<ref>{{cite web |title=End Citizens United Endorses Senator Jon Ossoff For Reelection |url=https://www.endcitizensunited.org/ecu-endorses-sen-jon-ossoff-for-reelection |website=endcitizensunited.org |date=July 8, 2025 |access-date=September 8, 2025}}</ref>
+*[[Giffords]]<ref>{{cite web|date=July 30, 2025|title=GIFFORDS PAC endorses Sen. Jon Ossoff for reelection in Georgia|url=https://giffords.org/press-release/2025/07/giffords-pac-endorses-sen-jon-ossoff-for-reelection-in-georgia/|website=Giffords|language=en-US}}</ref>
+*[[Human Rights Campaign]]<ref>{{cite web |title=Human Rights Campaign PAC Endorses Georgia Sen.‌ Jon Ossoff for… |url=https://www.hrc.org/press-releases/human-rights-campaign-pac-endorses-georgia-sen-jon-ossoff-for-reelection |website=HRC |access-date=November 23, 2025 |date=October 21, 2025}}</ref>
+*[[J Street]]<ref>{{cite web |title=Reception In Support of Jon Ossoff |url=https://jstreetpac.org/event/event-ossoff-dc-09102025/ |website=JStreetPAC |date=September 10, 2025}}</ref>
+*[[Joint Action Committee for Political Affairs]]<ref>{{cite web|title=Candidates|url=https://www.jacpac.org/jac-candidates|website=Joint Action Committee for Political Affairs|url-status=dead|access-date=November 16, 2025|archive-url=https://web.archive.org/web/20251121062543/https://www.jacpac.org/jac-candidates|archive-date=November 21, 2025}}</ref>
+*[[League of Conservation Voters]]<ref>{{cite web |title=LCV Action Fund Endorses Jon Ossoff for U.S. Senate |url=https://www.lcv.org/media-center/lcv-action-fund-endorses-jon-ossoff-for-u-s-senate/ |website=lcv.org |date=August 18, 2025 |access-date=September 8, 2025}}</ref>
+*[[National Committee to Preserve Social Security and Medicare]]<ref>{{cite web |title=National Seniors' Group Endorses Senator Jon Ossoff for Reelection |url=https://www.ncpssm.org/documents/latest-news/national-seniors-group-endorses-senator-jon-ossoff-for-reelection/ |website=NCPSSM |access-date=April 8, 2026}}</ref>
+*[[Planned Parenthood]]<ref>{{cite web |url=https://thehill.com/homenews/campaign/5700069-planned-parenthood-action-fund/ |title=Planned Parenthood Action Fund rolls out first Senate endorsements ahead of November midterms |access-date=January 22, 2026}}</ref>
+*[[Population Connection]]<ref>{{cite web |title=2026 Endorsements |url=https://www.populationconnectionaction.org/vote/2026-endorsements/ |website=Population Connection Action Fund |access-date=November 23, 2025}}</ref>
+*[[Reproductive Freedom for All]]<ref>{{cite web |title=Reproductive Freedom for All Endorses Georgia Senator Jon Ossoff for Reelection |url=https://reproductivefreedomforall.org/news/reproductive-freedom-for-all-endorses-georgia-senator-jon-ossoff-for-reelection/ |website=Reproductive Freedom for All |access-date=March 20, 2026 |date=March 20, 2026}}</ref>
+*[[Southern Poverty Law Center]]<ref>{{Cite web |date=2026-03-25 |title=SPLC Action Fund Endorses Sen. Jon Ossoff For Reelection |url=https://www.splcactionfund.org/news/jon-ossoff-endorsement-sentate-reelection/ |access-date=2026-05-26 |website=Action Fund |language=en-US}}</ref>
+}}
+
+===Fundraising===
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of March 31, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|Jon Ossoff (D)
+|$77,977,161
+|$50,572,862
+|$31,736,032
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC1">{{cite web |title=2026 Election United States Senate – Georgia |url=https://www.fec.gov/data/elections/senate/GA/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=April 19, 2026}}</ref></small>
+|}
+
+===Results===
+{{Election box begin no change
+ | title=Democratic primary results<ref>{{cite web|date=May 19, 2026|title=State Election Results {{!}} 2026 Georgia Primary|url=https://results.sos.ga.gov/results/public/Georgia/elections/GeneralPrimary51926?party=DEM|access-date=May 23, 2026|website=[[Secretary of State of Georgia]]}}</ref>}}
+{{Election box winning candidate with party link no change
+ | party=Democratic Party (United States)
+ | candidate=[[Jon Ossoff]] (incumbent)
+ | votes=1,042,331
+ | percentage=100.0}}
+{{Election box total no change
+ | votes=1,042,331
+ | percentage=100.0}}
+{{Election box end}}
+
+==Republican primary==
+===Candidates===
+====Nominee====
+*[[Mike Collins (politician)|Mike Collins]], [[U.S. representative]] from {{ushr|GA|10}} (2023–present)<ref>{{cite news |department=AJC Politics |access-date=July 18, 2025 |title=U.S. Rep. Mike Collins prepares Senate run in Georgia, aiming to seize MAGA lane |date=July 18, 2025 |url=https://www.ajc.com/politics/2025/07/us-rep-mike-collins-prepares-senate-run-in-georgia-aiming-to-seize-maga-lane/ |work=[[The Atlanta Journal-Constitution]] |author=Bluestein, Greg}}</ref>
+
+====Eliminated in runoff====
+*[[Derek Dooley (American football)|Derek Dooley]], former [[Tennessee Volunteers football]] head coach<ref>{{cite news |last1=Booker|first1=Brakkton|title=Former college football coach Derek Dooley enters Georgia Senate race |url=https://www.politico.com/news/2025/08/04/georgia-gop-primary-00491575 |access-date=August 4, 2025 |work=[[Politico]] |date=August 4, 2025 |language=English}}</ref>
+
+====Eliminated in primary====
+*[[Buddy Carter]], [[U.S. representative]] from {{ushr|GA|1}} (2015–present)<ref>{{cite news |last1=Bluestein |first1=Greg |title='MAGA warrior' Buddy Carter jumps into Georgia Senate race against Ossoff |url=https://www.ajc.com/politics/maga-warrior-buddy-carter-jumps-into-georgia-senate-race-against-ossoff/ZBEW6UFRA5DUBAKNSL2GM2GTSQ/ |access-date=May 8, 2025 |work=[[The Atlanta Journal-Constitution]] |date=May 8, 2025 |language=English}}</ref>
+*John F. Coyne III, businessman<ref name=":0">{{Cite web |title=Elections Portal |url=https://mvp.sos.ga.gov/s/qualifying-candidate-information?electionYear=2026&election=a0pcs00000J6e6HAAR&party=Republican&contestType=Federal&contest=U.S.%20Senate%20%28R%29&county=null&electiondatename=5%2F19%2F2026%20-%20MAY%2019%2C%202026%20-%20GENERAL%20PRIMARY%20ELECTION |access-date=2026-03-18 |website=mvp.sos.ga.gov}}</ref>
+*Jonathan McColumn, former [[United States Army Reserve]] [[brigadier general]], pastor and candidate for U.S. Senate in [[2022 United States Senate election in Georgia|2022]]<ref name=":0" />
+
+====Withdrawn====
+*Reagan Box, horse trainer ''([[2026 Georgia's 14th congressional district special election|ran for U.S. House]])''<ref>{{cite web|url=https://www.wdef.com/reagan-box-ends-us-senate-run-in-hopes-of-obtaining-greenes-seat/|title=Reagan Box Ends US Senate Run in Hopes of Obtaining Greene's Seat|date=December 22, 2025|access-date=January 3, 2026|website=[[WDEF-TV]]}}</ref>
+*[[John F. King|John King]], [[Georgia Insurance Commissioner|Georgia insurance commissioner]] (2019–present) ''([[2026 Georgia Insurance Commissioner election|running for re-election]])''<ref name="KingOut">{{cite news |last1=Bluestein |first1=Greg |title=John King exits Senate race amid push by Kemp to shape the field |url=https://www.ajc.com/politics/2025/07/kemp-pushing-dooley-senate-bid-in-a-behind-the-scene-attempt-to-shape-race/?D |access-date=July 24, 2025 |work=[[The Atlanta Journal-Constitution]] |date=July 24, 2025 |language=English}}</ref>
+
+====Declined====
+*[[Andrew Clyde]], [[U.S. representative]] from {{ushr|GA|9}} (2021–present)<ref>{{cite news |work=[[Axios (website)|Axios]] |url=https://www.axios.com/2024/12/12/juan-ciscomani-arizona-governor-2026 |date=December 12, 2024 |access-date=December 12, 2024 |author=Solender, Andrew |title=GOP Rep. Ciscomani passes on run for Arizona governor|quote=Rep. Andrew Clyde (R-Ga.) is not considering a run for Senate or governor and his {{sic}} 'focused on and happy serving [Northeast] GA in the House,' a spokesperson said.}}</ref> ''([[2026 United States House of Representatives elections in Georgia#District 9|running for re-election]])''<ref>{{cite news |last1=Daughtry |first1=Will |title=Amid primary challenge, Rep. Andrew Clyde talks 2026 reelection bid |url=https://accesswdun.com/article/2025/2/1285055/amid-primary-challenge-andrew-clyde-talks-2026-reelection-bid |access-date=February 17, 2025 |work=[[WDUN-FM]] |date=February 6, 2025 |language=en}}</ref>
+*[[Marjorie Taylor Greene]], former [[U.S. representative]] from {{ushr|GA|14}} (2021–2026)<ref>{{cite news |last1=Amy |first1=Jeff |last2=Cooper |first2=Jonathon |title=Marjorie Taylor Greene declines to challenge Jon Ossoff in Georgia Senate race |url=https://apnews.com/article/mtg-greene-ossoff-georgia-senate-6df53b2ef8bf9d49272a4b4359abad21 |access-date=May 9, 2025 |work=[[Associated Press]] |date=May 9, 2025 |language=English}}</ref>
+*[[Brian Kemp]], [[governor of Georgia]] (2019–present)<ref>{{cite news |last1=Wren |first1=Adam |title=Georgia Gov. Brian Kemp passes on running for Senate  |url=https://www.politico.com/news/2025/05/05/georgia-gov-brian-kemp-passes-on-running-for-senate-00327843 |access-date=May 5, 2025 |work=[[Politico]] |date=May 5, 2025}}</ref> ''(endorsed Dooley)''<ref name=cements/>
+*[[Rich McCormick]], [[U.S. representative]] from {{ushr|GA|7}} (2023–present)<ref>{{cite web |last1=Bluestein |first1=Greg |last2=Mitchell |first2=Tia |last3=Murphy |first3=Patricia |last4=Beam |first4=Adam |title=Rich McCormick rules out US Senate run in Georgia as GOP field takes shape |url=https://www.ajc.com/politics/2025/07/rich-mccormick-rules-out-us-senate-run-in-georgia-as-gop-field-takes-shape/ |publisher=[[The Atlanta Journal-Constitution]] |access-date=July 23, 2025 |archive-url=https://archive.today/20250722115948/https://www.ajc.com/politics/2025/07/rich-mccormick-rules-out-us-senate-run-in-georgia-as-gop-field-takes-shape/ |archive-date=July 22, 2025 |date=July 22, 2025 |url-status=live |url-access=subscription}}</ref>
+*[[Colton Moore]], [[Georgia State Senate|state senator]] from the 53rd district (2023–present) ''([[2026 Georgia's 14th congressional district special election|ran for U.S. House]])''<ref>{{cite web|url=https://newschannel9.com/news/local/northwest-georgia-state-senator-announces-run-for-marjorie-taylor-greenes-seat-colton-moore|title=Northwest Georgia state senator announces run for Marjorie Taylor Greene's seat|date=December 8, 2025|access-date=December 8, 2025|website=[[WTVC]]}}</ref>
+*[[Brad Raffensperger]], [[Georgia secretary of state]] (2019–present) ''([[2026 Georgia gubernatorial election|ran for governor]])''<ref>{{Cite web |last=Ewing |first=Giselle |date=2025-09-17 |title=Raffensperger launches bid for Georgia governor |url=https://www.politico.com/news/2025/09/17/brad-raffensperger-governor-georgia-00567991 |access-date=2025-09-17 |website=POLITICO}}</ref>
+
+===Endorsements===
+{{Endorsements box
+|title=Mike Collins
+|list=
+
+;Executive branch officials
+*[[Donald Trump]], [[president of the United States]] (2017–2021, 2025–present)<ref>{{cite web |last1=Steinhauser |first1=Paul |title=Trump backs MAGA champion Mike Collins in Georgia's Republican Senate runoff |url=https://www.foxnews.com/politics/trump-backs-maga-champion-mike-collins-georgias-republican-senate-runoff |website=Fox  News|access-date=June 14, 2026}}</ref>{{Efn|name=Runoff|Endorsement received after the first round of primary voting took place.}}
+
+;U.S. representatives
+*[[Max Burns]], [[Georgia State Senate|state senator]] from the 23rd district (2021–present) and former [[Georgia's 12th congressional district|GA-12]] (2003–2005)<ref name="Flowing">{{cite web|url=https://accesswdun.com/article/2025/7/1295563/as-georgia-senate-race-heats-up-endorsements-and-cash-start-flowing|title=As Georgia Senate race heats up, endorsements and cash start flowing|work=[[WDUN (AM)|WDUN]]|last=Daughtry|first=Will|date=July 30, 2025|access-date=August 4, 2025}}</ref>
+*[[Tom Emmer]], [[Party leaders of the United States House of Representatives|majority whip]] (2023–present) from [[Minnesota's 6th congressional district|MN-06]] (2015–present)<ref name="Scalise" />{{Efn|name=Runoff}}
+*[[Brandon Gill]], [[Texas' 26th congressional district|TX-26]] (2025–present)<ref name="Scalise" />{{Efn|name=Runoff}}
+*[[Newt Gingrich]], former [[Speaker of the United States House of Representatives|speaker of the House]] (1995–1999) from [[Georgia's 6th congressional district|GA-06]] (1979–1999)<ref>{{cite web|url=https://www.ajc.com/politics/2025/08/some-gop-allies-are-bucking-brian-kemp-to-back-mike-collins-for-senate/|title=Some GOP allies are bucking Brian Kemp to back Mike Collins for Senate|last1=Bluestein|last2=Mitchell|last3=Murphy|last4=Beam|first1=Greg|first2=Tia|first3=Patricia|first4=Adam|date=August 1, 2025|access-date=August 4, 2025|website=[[The Atlanta Journal-Constitution]]}}</ref>
+*[[Kevin Hern]], [[Oklahoma's 1st congressional district|OK-01]] (2018–present)<ref name="Scalise" />{{Efn|name=Runoff}}
+*[[Brian Jack]], [[Georgia's 3rd congressional district|GA-03]] (2025–present)<ref name="Scalise" />{{Efn|name=Runoff}}
+*[[Burgess Owens]], [[Utah's 4th congressional district|UT-04]] (2021–present)<ref name="Owens">{{cite web |last1=Kallis |first1=Sarah |title=Mike Collins kicks off U.S. Senate campaign |url=https://www.gpb.org/news/2025/08/20/mike-collins-kicks-off-us-senate-campaign |website=[[Georgia Public Broadcasting]] |access-date=September 30, 2025 |date=August 20, 2025}}</ref>
+*[[Steve Scalise]], [[Majority Leader of the United States House of Representatives|majority leader]] (2023–present) from [[Louisiana's 1st congressional district|LA-01]] (2008–present)<ref name="Scalise">{{cite web |last1=Foldi |first1=Matthew |title=SCOOP: House Republicans back Rep. Mike Collins in Senate runoff |url=https://washingtonreporter.news/scoop-house-republicans-back-rep-mike-collins-pre-senate-runoff/ |website=Washington Reporter |access-date=September 2, 2026 |date=May 26, 2026}}</ref>{{Efn|name=Runoff}}
+*[[Derrick Van Orden]], [[Wisconsin's 3rd congressional district|WI-03]] (2023–present)<ref name="Van Orden">{{cite web |last1=Foldi |first1=Matthew |title=SCOOP: Jon Ossoff's "stolen valor" roils Georgia Senate race: "Our veterans are not your political prop" |url=https://washingtonreporter.news/p/scoop-jon-ossoffs-stolen-valor-roils |website=[[Washington Reporter]] |access-date=September 30, 2025 |date=September 5, 2025}}</ref>
+
+;State legislators
+*18 state legislators{{efn|
+*[[Jason Anavitarte]], majority leader of the [[Georgia State Senate]] (2025–present) from the 31st district (2021–present)<ref name="Flowing"/>
+*[[Lee Anderson (American politician)|Lee Anderson]], [[Georgia State Senate|state senator]] from the 24th district (2017–present)<ref name="Flowing"/>
+*[[James Burchett (politician)|James Burchett]], [[Georgia House of Representatives|state representative]] from the 176th district (2019–present)<ref name="Flowing"/>
+*[[Beth Camp]], [[Georgia House of Representatives|state representative]] from the 135th district (2021–present)<ref name="Flowing"/>
+*[[Clint Crowe]], [[Georgia House of Representatives|state representative]] from the 118th district (2021–present)<ref name="Flowing"/>
+*[[Robert Dickey (American politician)|Robert Dickey]] [[Georgia House of Representatives|state representative]] from the 145th district (2011–present)<ref name="Flowing"/>
+*[[Clint Dixon]], [[Georgia State Senate|state senator]] from the 45th district (2021–present)<ref name="Flowing"/>
+*[[Matthew Gambill]], [[Georgia House of Representatives|state representative]] from the 15th district (2019–present)<ref name="Flowing"/>
+*[[Russ Goodman]], [[Georgia State Senate|state senator]] from the [[Georgia's 8th Senate district|8th district]] (2021–present)<ref name="Flowing"/>
+*[[Justin Howard (politician)|Justin Howard]], [[Georgia House of Representatives|state representative]] from the 71st district (2025–present)<ref name="Flowing"/>
+*[[Reynaldo Martinez]], [[Georgia House of Representatives|state representative]] from the [[Georgia's 111th House of Representatives district|111th]] district (2023–present)<ref name="Flowing"/>
+*[[Jason Ridley]], [[Georgia House of Representatives|state representative]] from the 6th district (2017–present)<ref name="Flowing"/>
+*[[Shawn Still]], [[Georgia State Senate|state senator]] from the 48th district (2023–present)<ref name="Flowing"/>
+*[[Carden Summers]], [[Georgia State Senate|state senator]] from the [[Georgia's 13th Senate district|13th district]] (2020–present)<ref name="Flowing"/>
+*[[Brad Thomas (American politician)|Brad Thomas]], [[Georgia House of Representatives|state representative]] from the 21st district (2021–present)<ref name="Flowing"/>
+*[[Sam Watson (politician)|Sam Watson]], [[Georgia State Senate|state senator]] from the [[Georgia's 11th Senate district|11th district]] (2023–present)<ref name="Flowing"/>
+*[[Marcus Wiedower]], [[Georgia House of Representatives|state representative]] from the 121st district (2019–present)<ref name="Flowing"/>
+*[[Rick Williams (Georgia politician)|Rick Williams]], [[Georgia State Senate|state senator]] from the 25th district (2023–present)<ref name="Flowing"/>
+}}
+
+;Individuals
+*[[Murder of Laken Riley#Victim|Allyson Phillips]], mother of [[Laken Riley]]<ref>{{cite web |last1=Darnell |first1=Tim |title=Ahead of campaign kickoff event, Laken Riley's family endorses Mike Collins' US Senate bid |url=https://www.atlantanewsfirst.com/2025/08/18/ahead-campaign-kickoff-event-laken-rileys-family-endorses-mike-collins-us-senate-bid/ |website=AtlantaNewsFirst |access-date=February 27, 2026 |language=en |date=August 18, 2025}}</ref>
+
+;Labor unions
+*[[National Border Patrol Council]]<ref>{{cite web|url=https://wcbm.com/national-headline/the-national-border-patrol-council-endorses-mike-collins-for-senate/|title=The National Border Patrol Council Endorses Mike Collins For Senate|date=March 26, 2026|access-date=March 29, 2026|website=[[WCBM]]}}</ref>
+
+;Organizations
+*[[AIPAC]] ''(co-endorsed with Carter)''<ref name="AIPAC">{{cite web|url=https://candidates.aipacpac.org/page/featured/|title=Thank You for Supporting Pro-Israel Candidates|access-date=January 26, 2026}}</ref>
+*[[Club for Growth]]<ref name="cfgrr">{{cite web |title=Club for Growth PAC backs Collins in competitive Georgia Senate GOP contest |url=https://thehill.com/homenews/5767287-club-for-growth-mike-collins-georgia-senate/ |website=The Hill |access-date=March 5, 2026}}</ref>
+*[[Conservative Political Action Conference]]<ref>{{cite web |title=Major conservative group makes endorsement in Kentucky's GOP Senate race |url=https://www.kentucky.com/news/politics-government/article315235337.html |website=Kentucky Herald Leader |access-date=March 31, 2026}}</ref>
+*[[New York Young Republican Club]]<ref>{{cite web|url=https://nyyrc.com/endorsements/endorsement-mike-collins-for-senate/|title=Endorsement: Mike Collins for Senate|date=July 28, 2025|access-date=August 4, 2025}}</ref>
+*[[Republicans for National Renewal]]<ref>{{cite web |title=Endorsement Archives |url=https://rnrenewal.org/tag/endorsement/ |website=Republicans for National Renewal |access-date=November 25, 2025}}</ref>
+*[[Turning Point Action]]<ref name="TPUSA">{{cite web |title=2025 Endorsements |url=https://www.tpaction.com/endorsements |website=Turning Point Action |access-date=December 31, 2025}}</ref>
+*[[Veterans for America First]]<ref>{{cite web |url=https://vfaf.us/vfaf-endorsement-of-mike-collins-for-georgia-senate |title=VFAF Endorsement of Mike Collins for Georgia Senate |website=Veterans for America First |last= |first= |date=August 20, 2025 |access-date=February 20, 2026}}</ref>
+}}
+{{Endorsements box
+|title=Derek Dooley
+|list=
+;Statewide officials
+*[[Brian Kemp]], [[governor of Georgia]] (2019–present)<ref name=cements>{{cite web|url=https://www.ajc.com/politics/2025/08/kemp-cements-his-senate-choice-backs-dooley-at-uga-game/|title=Kemp cements his Senate choice, backs Dooley at UGA game|work=[[The Atlanta Journal-Constitution]]|last=Bluestein|first=Greg|date=August 30, 2025|access-date=August 30, 2025}}</ref>
+
+;Individuals
+*[[Marty Kemp]], [[First ladies of Georgia (U.S. state)|first lady of Georgia]] (2019–present)<ref name=cements/>
+}}
+{{Endorsements box
+|title=Buddy Carter ''(eliminated)''
+|list=
+;State legislators
+*[[Eric Johnson (Georgia politician)|Eric Johnson]], former [[Georgia's 1st Senate district|SD-01]] (1995–2009)<ref>{{cite news |last1=Bynum |first1=Russ |last2=Amy |first2=Jeff |title=Republican race for Georgia Senate seat begins as US Rep. Buddy Carter becomes first GOP candidate |url=https://apnews.com/article/georgia-senate-republican-buddy-carter-9d645cdcbaa029b7671eb6594f4083d6 |access-date=May 8, 2025 |work=[[Associated Press]] |date=May 8, 2025}}</ref>
+;Organizations
+*[[AIPAC]] ''(co-endorsed with Collins)''<ref name="AIPAC"/>
+}}
+{{Endorsements box
+| title=Brian Kemp ''(declined)''
+| list=
+;U.S. senators
+*[[Tim Scott]], [[South Carolina]] (2013–present)<ref name=Kemp>{{cite news |work=[[The Hill (newspaper)|The Hill]] |access-date=February 8, 2025 |url=https://thehill.com/homenews/campaign/5133772-georgia-governor-brian-kemp-senate-race/ |date=January 16, 2025 |author=Vakil, Caroline |title=Kemp keeps Republicans on edge as he mulls Georgia Senate bid}}</ref>
+
+;U.S. representatives
+*<s>[[Mike Collins (politician)|Mike Collins]], {{ushr|GA|10|GA-10}} (2023–present)</s> ''(entered race in July 2025)''<ref name=Kemp/>
+
+;Local officials
+*[[Erick Erickson]], conservative pundit and former [[Macon, Georgia|Macon]] city councilor (2007–2011)<ref name=Kemp/>
+}}
+
+===Fundraising===
+''Italics'' indicate a candidate that has either withdrawn from the race, declined to run, or been eliminated in the primary.
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of March 31, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|''Buddy Carter'' (R)
+|$6,713,652
+|$6,002,322
+|$3,730,260
+|-
+|{{party shading/Republican}}|Mike Collins (R)
+|$4,318,376
+|$2,790,134
+|$2,125,437
+|-
+|{{party shading/Republican}}|Derek Dooley (R)
+|$3,671,916
+|$1,448,348
+|$2,223,568
+|-
+|{{party shading/Republican}}|''John King'' (R)
+|$563,078
+|$563,078
+|$0
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC1"/></small>
+|}
+
+===Polling===
+'''Aggregate polls'''<br />
+{| class="wikitable sortable" style="text-align:center;font-size:90%;line-height:17px"
+!Source of poll<br />aggregation
+!Dates<br />administered
+!Dates<br />updated
+! style="width:75px;"| Buddy<br />Carter
+! style="width:75px;"| Mike<br />Collins
+! style="width:75px;"| Derek<br />Dooley
+! style="width:75px;"| Other/Undecided<br />{{Efn|Calculated by taking the difference of 100% and all other candidates combined.|name=|group=}}
+!Margin
+|-
+|[[RealClearPolitics]]<ref name="RCP">{{cite web |title=2026 Georgia Senate – Republican Primary |url=https://www.realclearpolling.com/polls/senate/republican-primary/2026/georgia |website=RealClearPolitics |access-date=November 13, 2025}}</ref>
+|April 18 – May 17, 2026
+|May 18, 2026
+|14.8%
+|{{party shading/Republican}}|'''29.5%'''
+|{{party shading/Republican}}|'''18.0%'''
+|37.7%{{efn|Jonathan McColumn with 1.3; John Coyne with 0.7%%}}
+|{{party shading/Republican}}|'''Collins +11.5%'''
+|-
+|Race to the WH<ref name="rtwhpoll">{{cite web |title=2026 Senate Polling Average – Track All the Latest Polls |url=https://www.racetothewh.com/senate/26polls |website=Race to the WH |access-date=November 18, 2025}}</ref>
+|through May 17, 2026
+|May 18, 2026
+|16.5%
+|{{party shading/Republican}}|'''30.3%'''
+|{{party shading/Republican}}|'''20.0%'''
+|33.2%{{efn|Jonathan McColumn with 1.2%}}
+|{{party shading/Republican}}|'''Collins +10.3%'''
+|-
+| colspan="3" |'''Average'''
+|15.7%
+|{{party shading/Republican}}|'''29.9%'''
+|{{party shading/Republican}}|'''19.0%'''
+|35.4%
+|{{party shading/Republican}} |'''Collins +10.9%'''
+|}
+
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"}}
+! Margin<br />of error
+! style="width:75px;"|  Buddy<br />Carter
+! style="width:75px;"|  Mike<br />Collins
+! style="width:75px;"|  Derek<br />Dooley
+! Other
+! Undecided
+|-
+|style="text-align:left;"|InsiderAdvantage (R)<ref>{{Cite web|url=https://insideradvantage.com/insideradvantage-georgia-gop-survey-jackson-and-jones-likely-headed-to-runoff-dooley-moves-into-second-place-behind-collins-towery-warns-republican-national-party-of-early-voting-failure/|title=InsiderAdvantage Georgia GOP Survey: Jackson and Jones Likely Headed to Runoff; Dooley Moves Into Second Place Behind Collins; Towery Warns Republican National Party of Early Voting Failure|website=InsiderAdvantage|date=May 17, 2026|access-date=May 17, 2026}}</ref>
+|May 16–17, 2026
+|800 (LV)
+|±&nbsp;3.5%
+|21%
+|{{party shading/Republican}} |'''32%'''
+|{{party shading/Republican}}|'''26%'''
+|3%{{Efn|name=McColumn2Coyne1}}
+|18%
+|-
+|style="text-align:left;"|Quantus Insights (R)<ref>{{Cite web|url=https://quantusinsights.org/f/quantus-insights-georgia-gop-primaries-enter-the-final-stretch#ddfaccf9-bede-412a-8ce9-6f9ddda07554|title=Quantus Insights: Georgia GOP Primaries Enter the Final Stretch|website=Quantus Insights|date=May 5, 2026|access-date=May 5, 2026}}</ref>
+|April 28 – May 2, 2026
+|1,677 (LV)
+|±&nbsp;2.7%
+|14%
+|{{party shading/Republican}} |'''33%'''
+|{{party shading/Republican}}|'''23%'''
+|3%{{Efn|name=McColumn2Coyne1|John McColumn 2%; John Coyne with 1%}}
+|27%
+|-
+|style="text-align:left;"|[[University of Georgia]]<ref>{{cite web |last1=Mitchell |first1=Tia |title=AJC Poll: Collins leads in Senate GOP primary, but most voters undecided |url=https://www.ajc.com/politics/2026/05/ajc-poll-collins-leads-in-senate-gop-primary-but-most-voters-undecided/ |publisher=[[The Atlanta Journal-Constitution]] |access-date=May 4, 2026 |archive-url=https://web.archive.org/web/20260501174253/https://www.ajc.com/politics/2026/05/ajc-poll-collins-leads-in-senate-gop-primary-but-most-voters-undecided/ |archive-date=May 1, 2026 |date=May 1, 2026 |url-status=live |url-access=subscription}}</ref>{{Efn-ua|Poll sponsored by the [[The Atlanta Journal-Constitution]]}}
+|April 18–26, 2026
+|1,000 (LV)
+|±&nbsp;3.1%
+|{{party shading/Republican}}|'''13%'''
+|{{party shading/Republican}} |'''22%'''
+|11%
+|2%{{Efn|John Coyne & John McColumn with 1%}}
+|{{party shading/Undecided}}|'''54%'''
+|-
+|style="text-align:left;"|Cygnal (R)<ref>{{Cite web|url=https://mcusercontent.com/092fbec46773c3f4351d146a2/files/8253a8ce-4437-8cd4-ddfb-c32dc6376279/23798_DDP_GA_GOP_Toplines.pdf|title=Survey of Likely 2026 Republican Primary Election Voters |website=Democracy Defense Project |access-date=May 5, 2026}}</ref>{{Efn-ua|Poll sponsored by the Democracy Defense Project}}
+|April 22–23, 2026
+|600 (LV)
+|±&nbsp;4.0%
+|11%
+|{{party shading/Republican}} |'''30%'''
+|{{party shading/Republican}}|'''12%'''
+|2%{{Efn|John McColumn with 1%}}
+|{{party shading/Undecided}}|'''45%'''
+|-
+|style="text-align:left;"|InsiderAdvantage (R)<ref>{{Cite web|url=https://insideradvantage.com/insideradvantage-georgia-survey-gop-governors-race-remain-a-two-man-contest-senate-contest-could-become-close-between-all-three-major-candidates/|title=InsiderAdvantage Georgia Survey: GOP Race For Governor Remains a Two Man Contest; Senate Contest Could Become Close Between All Three Major Candidates|website=InsiderAdvantage|access-date=April 24, 2026}}</ref>
+|April 22–23, 2026
+|800 (LV)
+|±&nbsp;3.46%
+|{{party shading/Republican}}|'''24%'''
+|{{party shading/Republican}} |'''27%'''
+|16%
+|4%
+|{{party shading/Undecided}}|'''29%'''
+|-
+|style="text-align:left;"|JMC Analytics<ref>{{Cite web|url=https://winwithjmc.com/wp-content/uploads/2026/03/Georgia-Executive-Summary.pdf|title=Georgia Statewide Poll Results|work=JMC Analytics|date=March 9, 2026|access-date=March 9, 2026}}</ref>
+|March 7–8, 2026
+|560 (LV)
+|±&nbsp;4.1%
+|11%
+|{{party shading/Republican}}|'''31%'''
+|{{party shading/Republican}}|'''13%'''
+|1%{{efn|Jonathan McColumn with 1%; John Francis Coyne III with <1%}}
+|{{party shading/Undecided}}|'''43%'''
+|-
+|style="text-align:left;"|[[Emerson College]]<ref name="EmersonFeb2026">{{Cite web|url=https://emersoncollegepolling.com/georgia-2026-poll-senator-ossoff-starts-re-election-near-50-and-outpaces-gop-field/|title=Georgia 2026 Poll: Senator Ossoff Starts Re-Election Near 50% and Outpaces GOP Field|website=Emerson College Polling|date=March 5, 2026|access-date=March 5, 2026}}</ref>{{efn-ua|name=Nexstar|Poll sponsored by [[Nexstar Media]]}}
+|February 28 – March 2, 2026
+|453 (LV)
+|±&nbsp;4.6%
+|{{party shading/Republican}}|'''16%'''
+|{{party shading/Republican}}|'''30%'''
+|10%
+|4%{{efn|Jonathan McColumn and "Someone else" with 2%}}
+|{{party shading/Undecided}}|'''40%'''
+|-
+|style="text-align:left;"|Quantus Insights (R)<ref>{{Cite web|url=https://polls.quantusinsights.org/polls/georgia-pri-2026-1400-csv-7jxj0s7p?tab=toplines|title=Georgia 2026 Republican Primaries|website=Quantus Insights|date=February 19, 2026|access-date=February 20, 2026}}</ref>
+|February 17–18, 2026
+|1,337 (LV)
+|±&nbsp;3.0%
+|{{party shading/Republican}}|'''11%'''
+|{{party shading/Republican}}|'''36%'''
+|9%
+|{{sdash}}
+|{{party shading/Undecided}}|'''44%'''
+|-
+| style="text-align:left;" |[[Rasmussen Reports]] (R)<ref>{{cite web|url=https://www.rasmussenreports.com/public_content/politics/partner_surveys/georgia_gop_primary_rick_jackson_zooms_ahead|title=Georgia GOP Primary: Rick Jackson Zooms Ahead|date=February 17, 2026|website=Rasmussen Reports}}</ref>
+|February 11–12, 2026
+|1,022 (LV)
+|±&nbsp;3.0%
+|{{party shading/Republican}}|'''19%'''
+|{{party shading/Republican}}|'''34%'''
+|11%
+|colspan=2 {{party shading/Undecided}}|'''36%'''
+|-
+|style="text-align:left;"|Plymouth Union Public Research (R)<ref>{{Cite web|url=https://pup-research.com/polling-memo/georgia-statewide-survey-findings/|title=Georgia Statewide Survey Findings|first1=Gene|last1=Ulm|work=Plymouth Union Public Research|date=January 19, 2026|access-date=January 22, 2026}}</ref>
+|January 13–15, 2026
+|600 (LV)
+|±&nbsp;4.0%
+|{{party shading/Republican}} |'''16%'''
+|{{party shading/Republican}}|'''32%'''
+|12%
+|{{sdash}}
+|{{party shading/Undecided}}|'''38%'''
+|-
+|style="text-align:left;"|InsiderAdvantage (R)<ref name="InsiderAdvantageDec2025">{{Cite web|url=https://insideradvantage.com/insideradvantage-rosetta-stone-georgia-gop-governor-and-senate-survey-jones-leads-for-gop-gubernatorial-nomination-collins-leads-in-gop-senate-contest-towery-says-both-races-are-still-wide-open/|title=InsiderAdvantage/Rosetta Stone Georgia GOP Governor and Senate Survey: Jones Leads for GOP Gubernatorial Nomination; Collins Leads in GOP Senate Contest; Towery Says Both Races Are Still Wide Open|website=InsiderAdvantage|date=December 22, 2025|access-date=December 22, 2025}}</ref>
+|December 18–19, 2025
+|1,000 (LV)
+|±&nbsp;3.1%
+|{{party shading/Republican}} |'''20%'''
+|{{party shading/Republican}}|'''25%'''
+|12%
+|5%{{efn|Reagan Box with 5%}}
+|{{party shading/Undecided}}|'''38%'''
+|-
+|style="text-align:left;"|Quantus Insights (R)<ref name="QuantusOct2025">{{Cite news|url=https://drive.google.com/file/d/1Q6ANS4N_CpiSf06UiYorw3nv4HJcShns/view|title=Georgia Republican Primary Survey|first1=Jason|last1= Corley|work=Quantus Insights|date=October 27, 2025|access-date=October 28, 2025}}</ref>
+|October 22–23, 2025
+|1,320 (RV)
+|±&nbsp;2.7%
+|{{party shading/Republican}} |'''16%'''
+|{{party shading/Republican}}|'''28%'''
+|{{party shading/Republican}} |'''16%'''
+|{{sdash}}
+|{{party shading/Undecided}}|'''40%'''
+|-
+|style="text-align:left;"|[[Atlanta Journal-Constitution]]<ref>{{cite web|title=Senate poll: Ossoff riding high in Georgia; MAGA firebrand leads GOP field|url=https://www.ajc.com/politics/2025/10/senate-poll-ossoff-riding-high-in-georgia-maga-firebrand-leads-gop-field/|website=AJC Politics|access-date=October 31, 2025}}</ref>
+|October 15–23, 2025
+|{{sdash}}
+|{{sdash}}
+|{{party shading/Republican}}|'''20%'''
+|{{party shading/Republican}}|'''30%'''
+|12%
+|{{sdash}}
+|{{party shading/Undecided}}|'''38%'''
+|-
+|style="text-align:left;"|Quantus Insights (R)<ref name="QuantusSept2025">{{Cite news|url=https://quantusinsights.org/f/georgia%E2%80%99s-2026-senate-race-is-wide-open#ddfaccf9-bede-412a-8ce9-6f9ddda07554|title=Georgia's 2026 Senate Race Is Wide Open|website=Quantus Insights|date=September 15, 2025|access-date=September 15, 2025}}</ref>
+|September 9–12, 2025
+|253 (RV)
+|{{sdash}}
+|{{party shading/Republican}} |'''20%'''
+|{{party shading/Republican}}|'''25%'''
+|7%
+|{{sdash}}
+|{{party shading/Undecided}}|'''48%'''
+|-
+|style="text-align:left;"|TIPP Insights<ref name="TIPAugust25">{{Cite web|url=https://tippinsights.com/league-of-american-workers-georgia-survey-july-2025/#google_vignette|title=League Of American Workers Georgia Survey — July 2025|website=TIPP Insights|date=August 7, 2025|access-date=August 7, 2025}}</ref>{{efn-ua|name=LAW|Poll sponsored by League of American Workers}}
+|July 28 – August 1, 2025
+|1,123 (RV)
+|±&nbsp;1.8%
+|{{party shading/Republican}} |'''19%'''
+|{{party shading/Republican}} |'''25%'''
+|7%
+|6%
+|{{party shading/Undecided}} |'''43%'''
+|}
+
+<!-- = = = don't edit the line below = = = -->
+{{hidden begin|titlestyle=background:#cff|title=Hypothetical polling|contentstyle=border:solid 1px silver; padding:8px; background:var(--background-color-base); color:var(--color-base);}}
+<!-- = = = don't edit the line above = = = -->
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"}}
+! Margin<br />{{nowrap|of error}}
+! style="width:60px;"|  Buddy<br />Carter
+! style="width:60px;"|  Mike<br />Collins
+! style="width:60px;"|  {{nowrap|Marjorie Taylor}}<br />Greene
+! style="width:60px;"|  John<br />King
+! style="width:60px;"|  Rich<br />McCormick
+! style="width:60px;"|  Brad<br />Raffensberger
+! Other
+! Undecided
+|-
+|style="text-align:left;" rowspan=2|[[Trafalgar Group]] (R)<ref name="TrafApr25"/>
+|rowspan=2|April 24–27, 2025
+|rowspan=2 {{sdash}} (LV)
+|rowspan=2 {{sdash}}
+|13%
+|15%
+|{{Party shading/Republican}} | '''43%'''
+|2%
+|5%
+|{{Party shading/Republican}} | '''22%'''
+|—
+|—
+|- 
+|23%
+|{{Party shading/Republican}} | '''46%'''
+|—
+|11%
+|{{Party shading/Republican}} | '''21%'''
+|—
+|—
+|—
+|-
+|style="text-align:left;"|Advanced Targeting Research<ref>{{Cite web|url=https://www.advancedtargetingresearch.com/reports|title=Georgia Republicans Strongly Approve of Donald Trump's First Two Months in Office|website=Advanced Targeting Research|date=March 27, 2025|access-date=May 20, 2026}}</ref>
+|March 25–26, 2025
+|726 (RV)
+|±&nbsp;3.6%
+|3%
+|{{Party shading/Republican}}|'''10%'''
+|—
+|1%
+|5%
+|{{Party shading/Republican}}|'''10%'''
+|11%{{efn|Tyler Harper with 1%; "Other candidate not listed above" with 10%}}
+|{{Party shading/Undecided}}|'''60%'''
+|}
+{{hidden end}}
+
+===Results===
+[[File:2026 United States Senate Republican primary election in Georgia results map by county.svg|thumb|250px|Primary results by county:
+{{collapsible list
+| title = {{legend|#E27F7F|Collins}}
+|{{legend|#FFC8CD|30–40%}}
+|{{legend|#FFB2B2|40–50%}}
+|{{legend|#E27F7F|50–60%}}
+|{{legend|#D75D5D|60–70%}}
+|{{legend|#D72F30|70–80%}}
+}}
+{{collapsible list
+| title = {{legend|#FF9A50|Dooley}}
+|{{legend|#FFCCA9|30–40%}}
+|{{legend|#FFB580|40–50%}}
+}}
+{{collapsible list
+| title = {{legend|#5FD35F|Carter}}
+|{{legend|#AAE5AA|30–40%}}
+|{{legend|#87DE87|40–50%}}
+|{{legend|#5FD35F|50–60%}}
+|{{legend|#37C837|60–70%}}
+}}
+]]
+{{Election box begin no change
+ | title=Republican primary results<ref>{{cite web|date=May 19, 2026|title=State Election Results {{!}} 2026 Georgia Primary|url=https://results.sos.ga.gov/results/public/Georgia/elections/GeneralPrimary51926?party=REP|access-date=May 23, 2026|website=[[Secretary of State of Georgia]]}}</ref>}}{{Election box winning candidate with party link no change
+ | party=Republican Party (United States)
+ | candidate=[[Mike Collins (politician)|Mike Collins]]
+ | votes=369,642
+ | percentage=40.5}}
+{{Election box winning candidate with party link no change
+ | party=Republican Party (United States)
+ | candidate=[[Derek Dooley (American football)|Derek Dooley]]
+ | votes=275,534
+ | percentage=30.2}}
+{{Election box candidate with party link no change
+ | party=Republican Party (United States)
+ | candidate=[[Buddy Carter]]
+ | votes=229,223
+ | percentage=25.1}}
+{{Election box candidate with party link no change
+ | party=Republican Party (United States)
+ | candidate=Jonathan McColumn
+ | votes=28,447
+ | percentage=3.1}}
+{{Election box candidate with party link no change
+ | party=Republican Party (United States)
+ | candidate=John F. Coyne III
+ | votes=9,850
+ | percentage=1.1}}
+{{Election box total no change
+ | votes=912,696
+ | percentage=100.0}}
+{{Election box end}}
+
+===Runoff===
+====Polling====
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"}}
+! Margin<br />of error
+! style="width:75px;"| Mike<br />Collins
+! style="width:75px;"| Derek<br />Dooley
+! Undecided
+|-
+|style="text-align:left;"|InsiderAdvantage (R)<ref>{{Cite web|url=https://insideradvantage.com/final-insideradvantage-georgia-gop-runoff-survey-both-races-within-margin-of-error/|title=Final InsiderAdvantage Georgia GOP Runoff Survey; Both Races Within Margin of Error|website=InsiderAdvantage|date=June 15, 2026|access-date=June 15, 2026}}</ref>
+|June 15, 2026
+|800 (LV)
+|±&nbsp;3.5%
+|{{party shading/Republican}} |'''50%'''
+|48%
+|2%
+|-
+|style="text-align:left;"|InsiderAdvantage (R)<ref>{{Cite web|url=https://insideradvantage.com/note-due-to-brian-kemps-endorsement-in-the-governors-race-and-donald-trumps-endorsement-in-the-senate-contest-we-will-post-another-georgia-gop-survey-tomorrow-evening-races-narrow-jackson-l/|title=(NOTE: DUE TO BRIAN KEMP'S ENDORSEMENT IN THE GOVERNOR'S RACE AND DONALD TRUMP'S ENDORSEMENT IN THE SENATE CONTEST, WE WILL POST ANOTHER GEORGIA GOP SURVEY TOMORROW EVENING) RACES NARROW; JACKSON LEADS BY THREE POINTS; COLLINS MOVES AHEAD OF DOOLEY BY TWO POINTS; BOTH CONTESTS WITHIN THE MARGIN OF ERROR|website=InsiderAdvantage|date=June 15, 2026|access-date=June 15, 2026}}</ref>
+|June 13–14, 2026
+|800 (LV)
+|±&nbsp;3.31%
+|{{party shading/Republican}} |'''48%'''
+|46%
+|6%
+|-
+|style="text-align:left;"|JMC Analytics (R)<ref>{{Cite web|url=https://winwithjmc.com/wp-content/uploads/2026/05/Toplines-Georgia-GOP-Runoff-May-26-27-2026.pdf|title=Georgia Statewide Runoff Election – Republican Runoff Election|website=JMC Analytics|date=May 28, 2026|access-date=May 28, 2026}}</ref>
+|May 26–27, 2026
+|600 (LV)
+|±&nbsp;4.0%
+|{{party shading/Republican}} |'''55%'''
+|39%
+|6%
+|-
+|style="text-align:left;"|InsiderAdvantage (R)<ref>{{Cite web|url=https://insideradvantage.com/insideradvantage-georgia-runoff-survey-jones-and-collins-lead-respective-races/|title=InsiderAdvantage Georgia Runoff Survey: Jones and Collins Lead Respective Races|website=InsiderAdvantage|date=May 22, 2026|access-date=May 22, 2026}}</ref>
+|May 20–21, 2026
+|800 (LV)
+|±&nbsp;3.5%
+|{{party shading/Republican}} |'''46%'''
+|41%
+|13%
+|-
+|style="text-align:left;"|Quantus Insights (R)<ref>{{Cite web|url=https://quantusinsights.org/f/georgia-gop-runoffs-begin-collins-opens-strong-jones-leads-1|title=Georgia GOP Runoffs Begin: Collins Opens Strong, Jones Leads|website=Quantus Insights|date=May 20, 2026|access-date=May 21, 2026}}</ref>
+|May 20, 2026
+|782 (LV)
+|±&nbsp;3.9%
+|{{party shading/Republican}} |'''54%'''
+|37%
+|9%
+|-
+|style="text-align:left;"|Quantus Insights (R)<ref name="QuantusOct2025"/>
+|October 22–23, 2025
+|1,320 (RV)
+|±&nbsp;2.7%
+|{{party shading/Republican}} |'''42%'''
+|24%
+|34%
+|}
+
+<!-- = = = don't edit the line below = = = -->
+{{hidden begin|titlestyle=background:#cff|title=Hypothetical runoff polling|contentstyle=border:solid 1px silver; padding:8px; background:var(--background-color-base); color:var(--color-base);}}
+<!-- = = = don't edit the line above = = = -->
+'''Buddy Carter vs. Derek Dooley'''
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"}}
+! Margin<br />of error
+! style="width:75px;"| Buddy<br />Carter
+! style="width:75px;"| Derek<br />Dooley
+! Undecided
+|-
+|style="text-align:left;"|Quantus Insights (R)<ref name="QuantusOct2025"/>
+|October 22–23, 2025
+|1,320 (RV)
+|±&nbsp;2.7%
+|{{party shading/Republican}} |'''33%'''
+|28%
+|{{party shading/Undecided}}|'''39%'''
+|}
+
+'''Buddy Carter vs. Mike Collins'''
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"}}
+! Margin<br />of error
+! style="width:75px;"| Buddy<br />Carter
+! style="width:75px;"| Mike<br />Collins
+! Undecided
+|-
+|style="text-align:left;"|Quantus Insights (R)<ref name="QuantusOct2025"/>
+|October 22–23, 2025
+|1,320 (RV)
+|±&nbsp;2.7%
+|23%
+|{{party shading/Republican}} |'''38%'''
+|{{party shading/Undecided}}|'''39%'''
+|}
+{{Hidden end}}
+
+====Results====
+[[File:2026 United States Senate Republican primary runoff election in Georgia results map by county.svg|thumb|325px|Runoff results by county:
+{{collapsible list
+| title = {{legend|#E27F7F|Collins}}
+|{{legend|#E27F7F|50–60%}}
+|{{legend|#D75D5D|60–70%}}
+|{{legend|#D72F30|70–80%}}
+|{{legend|#C21B18|80–90%}}
+}}
+{{collapsible list
+| title = {{legend|#FF9A50|Dooley}}
+|{{legend|#FF9A50|50–60%}}
+|{{legend|#EE8E50|60–70%}}
+}}
+]]
+{{Election box begin no change
+ | title=Republican primary runoff results<ref>{{cite web |title=June 16th, 2026 General Primary Runoff |url=https://results.sos.ga.gov/results/public/Georgia/elections/06162026GeneralPrimaryRunoff |website=Georgia Secretary of State}}</ref>}}{{Election box winning candidate with party link no change
+ | party=Republican Party (United States)
+ | candidate=[[Mike Collins (politician)|Mike Collins]]
+ | votes=390,174
+ | percentage=55.5}}
+{{Election box candidate with party link no change
+ | party=Republican Party (United States)
+ | candidate=[[Derek Dooley (American football)|Derek Dooley]]
+ | votes=312,339
+ | percentage=44.5}}
+{{Election box total no change
+ | votes=702,513
+ | percentage=100.0}}
+{{Election box end}}
+
+==General election==
+===Predictions===
+{| class="wikitable" style=text-align:center
+!Source
+!Ranking
+!As of
+|-
+|align="left"|[[CBS News]]<ref>{{Cite news |title=2026 midterm election races to watch |url=https://www.cbsnews.com/news/2026-midterm-election-races/ |last1=Hubbard |first1=Kaia |last2=Linton |first2=Caroline |last3=Yilek |first3=Caitlin |last4=Walsh |first4=Joe |work=[[CBS News]] |orig-date=September 13, 2026 |date=October 6, 2026 |access-date=October 7, 2026}}</ref>
+|{{USRaceRating|Lean|D}}
+|October 6, 2026
+|-
+|align="left"|''[[The Cook Political Report]]''<ref>{{Cite web|title=2026 CPR Senate Race Ratings|url=https://www.cookpolitical.com/ratings/senate-race-ratings|access-date=October 7, 2026|website=[[Cook Political Report]]}}</ref>
+|{{USRaceRating|Likely|D}}
+|October 6, 2026
+|-
+|align="left"|[[Decision Desk HQ]]<ref>{{cite web|title=2026 Senate Ratings|url=https://votes.decisiondeskhq.com/forecast/2026/senate|url-access=registration|publisher=[[Decision Desk HQ]]|access-date=October 7, 2026}}</ref>
+|{{USRaceRating|Likely|D}}
+|October 7, 2026
+|-
+|align="left"|''[[The Economist]]''<ref>{{Cite web|title=2026 Senate Forecast|url=https://www.economist.com/interactive/2026/us-midterms/prediction-model/senate/|access-date=October 7, 2026|website=[[The Economist]]}}</ref>{{efn|''The Economist''{{'}}s prediction model uses unconventional terminology. For the purpose of equivalency, their "Very Likely" ratings are formatted as a "Likely" rating while "Likely" ratings are formatted as a "Lean" rating.}}
+|{{USRaceRating|Likely|D}}
+|October 7, 2026
+|-
+|align="left"|[[FiftyPlusOne]]<ref>{{Cite web |title=2026 Congressional Forecast |url=https://fiftyplusone.news/forecast/senate |access-date=October 7, 2026 |website=[[FiftyPlusOne]]}}</ref>
+|{{USRaceRating|Safe|D}}
+|October 7, 2026
+|-
+|align="left"|[[Fox News]]<ref>{{Cite news |last=Numa |first=Rémy |title=Fox News Power Rankings: The biggest surprises come after October |url=https://www.foxnews.com/politics/fox-news-power-rankings-the-biggest-surprises-come-after-october |work=[[Fox News]] |date=October 6, 2026 |access-date=October 7, 2026}}</ref>
+|{{USRaceRating|Likely|D}}
+|October 6, 2026
+|-
+|align="left"|''[[Inside Elections]]''<ref>{{Cite web|title=Senate Ratings|url=https://www.insideelections.com/ratings/senate|access-date=October 7, 2026 |website=[[Inside Elections]]}}</ref>
+|{{USRaceRating|Lean|D}}
+|October 1, 2026
+|-
+|align="left"|[[MS NOW]]<ref>{{Cite news |url=https://www.ms.now/news/2026-senate-ratings-ms-nows-races-to-watch |title=2026 Senate ratings: MS NOW's races to watch |last1=Khanna |first1=Kabir |last2=Thomas |first2=Shawna |orig-date=August 19, 2026 |work=[[MS NOW]] |date=September 16, 2026 |access-date=October 7, 2026}}</ref>
+|{{USRaceRating|Lean|D}}
+|September 16, 2026
+|-
+|align="left"|[[RealClearPolitics]]<ref>{{Cite web|url=https://www.realclearpolling.com/maps/senate/2026/toss-up|title=Battle for the Senate 2026|access-date=October 7, 2026|website=[[RealClearPolitics]]}}</ref>
+|{{USRaceRating|Lean|D}}
+|October 5, 2026
+|-
+|align="left"|''[[Sabato's Crystal Ball]]''<ref>{{cite web|title=2026 Senate ratings|url=https://centerforpolitics.org/crystalball/2026-senate/|website=[[Sabato's Crystal Ball]]|access-date=October 7, 2026}}</ref>
+|{{USRaceRating|Likely|D}}
+|October 6, 2026
+|-
+|align="left"|''[[Silver Bulletin]]''<ref name="Silver">{{Cite web |url=https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model |title=FLIPR 2026 midterm election forecast |last1=Silver |first1=Nate |author1-link=Nate Silver |last2=McKown-Dawson |first2=Eli |website=[[Silver Bulletin]] |via=[[Substack]] |date=October 7, 2026 |orig-date=August 11, 2026 |access-date=October 7, 2026 |url-access=subscription}}</ref>
+|{{USRaceRating|Safe|D}}
+|October 7, 2026
+|-
+|align="left"|[[Split Ticket (website)|Split Ticket]]<ref>{{Cite magazine |title=Split Ticket 2026 Midterms Model |url=https://www.theargumentmag.com/p/split-ticket-2026-midterms-model |magazine=[[The Argument (magazine)|The Argument]] |via=[[Substack]] |access-date=October 7, 2026}}</ref>
+|{{USRaceRating|Safe|D}}
+|October 7, 2026
+|}
+
+===Post-primary endorsements===
+{{Endorsements box|title=Jon Ossoff (D)|list=;Executive branch officials
+*[[Keisha Lance Bottoms]], former [[Senior Advisor to the President|senior advisor to the president]] (2022–2023), [[mayor of Atlanta]] (2018–2022), and 2026 Democratic nominee for governor of Georgia<ref name="bottoms_ossoff">{{cite web |last1=Nelson |first1=Craig |title=Ossoff, Bottoms declare 'United for Georgia' at joint campaign rally in Savannah |url=https://georgiarecorder.com/2026/06/28/ossoff-bottoms-declare-united-for-georgia-at-joint-campaign-rally-in-savannah/ |website=[[Georgia Recorder]] |access-date=2026-08-04 |date=2026-06-28}}</ref>
+*[[Jeff Flake]], former [[United States Ambassador to Turkey|ambassador to Turkey]] (2022–2024) and U.S. senator from [[Arizona]] (2013–2019) ''(Republican)''<ref name="flake_ossoff">{{cite web |last1=Bluestein |first1=Greg |title=Former GOP Sen. Jeff Flake backs Jon Ossoff, saying 'character matters' |url=https://www.ajc.com/politics/2026/08/former-gop-sen-jeff-flake-backs-jon-ossoff-saying-character-matters/ |website=[[The Atlanta Journal-Constitution]] |access-date=2026-08-04 |date=2026-08-04}}</ref>
+;Statewide officials
+*[[Wes Moore]], [[governor of Maryland]] (2023–present)<ref>{{cite news |last1=Bluestein |first1=Greg |last2=Mitchell |first2=Tia |last3=Murphy |first3=Patricia |last4=Beam |first4=Adam |title=Jon Ossoff targets Mike Collins over Epstein files in new ad |url=https://www.ajc.com/politics/2026/07/jon-ossoff-targets-mike-collins-over-epstein-files-in-new-ad/ |access-date=July 14, 2026 |work=[[The Atlanta Journal-Constitution]] |date=July 14, 2026 |language=en}}</ref>
+;State legislators
+* [[James Talarico]], [[Texas]]'s [[Texas's 50th House of Representatives district|HD-50]] (2018–present) and Democratic nominee for [[U.S. Senate]] from Texas in [[2026 United States Senate election in Texas|2026]]<ref name="SepTalarico">{{cite web |last1= Schleifer |first1= Theodore |title= Ossoff and Talarico to Share Fund-Raising Event in Hollywood |url= https://www.nytimes.com/2026/09/05/us/politics/ossoff-talarico-rhimes-fundraiser.html |website= [[The New York Times]] |date= September 5, 2026 |access-date= September 19, 2026}}</ref>
+
+'''Local officials'''
+*Gail Fry, mayor of [[Toccoa]] (2014–present) ''(Republican)''<ref>{{cite web|title=In Georgia, Ossoff Courts Broad Appeal with an Anti-Trump Script|url=https://www.nytimes.com/2026/08/29/us/politics/georgia-senate-ossoff-collins-trump.html|website=[[The New York Times]]|last=Jimison|first=Robert|date=August 29, 2026|access-date=September 1, 2026}}</ref>
+*[[List of mayors of Valdosta, Georgia|Scott Matheson]], mayor of [[Valdosta]] (2020–present) ''(Republican)''<ref name=Rep>{{Cite web |date=2026-08-06 |title=3 Republicans endorse Jon Ossoff in Georgia Senate race as Mike Collins faces scrutiny - CBS Atlanta |url=https://www.cbsnews.com/atlanta/news/3-republicans-endorse-jon-ossoff-in-georgia-senate-race-as-mike-collins-faces-scrutiny/ |access-date=2026-08-07 |website=www.cbsnews.com |language=en-US}}</ref>
+* Julie Smith, mayor of [[Tifton]] (2016−present) ''(Republican)''<ref name=Rep/>
+
+'''Labor unions'''
+*[[Actors' Equity Association]]<ref>{{Cite web |last=Rabinowitz |first=Chloe |date=2026-05-21 |title=Actors' Equity Association Endorses Jon Ossoff for United States Senate |url=https://www.broadwayworld.com/industry/article/Actors-Equity-Association-Endorses-Jon-Ossoff-for-United-States-Senate-20260521 |access-date=2026-05-26 |website=Broadway World |language=en}}</ref>
+}}
+
+{{Endorsements box
+|title=Mike Collins (R)
+|list=
+;U.S. senators
+*[[Rick Scott]], [[Florida]] (2019–present)<ref name="scottandharper">{{cite web |last=Swafford |first=James |title=Rick Scott, Tyler J Harper Endorse Mike Collins for U.S. Senate |url=https://domepolitics.com/2026/08/rick-scott-tyler-j-harper-endorse-mike-collins/ |website=Dome Politics|date=August 14, 2026 |access-date=September 30, 2026}}</ref>
+*[[John Thune]], [[South Dakota]] (2005–present)<ref>{{cite web |last= Kallis |first= Sarah |title=Senate Majority Leader John Thune campaigns for Mike Collins |url=https://www.gpb.org/news/2026/09/25/senate-majority-leader-john-thune-campaigns-for-mike-collins |website=[[Georgia Public Broadcasting]] |date=September 25, 2026 |access-date=September 27, 2026}}</ref>
+
+'''U.S. representatives'''
+* [[Rick Allen (politician)|Rick Allen]], {{ushr|GA|12|GA-12}} (2015–present)<ref name="augustarally">{{cite web |last= Legoas |first= Miguel |title=Mike Collins visits Augusta for Georgia senate campaign. See the scenes |url=https://www.elpasotimes.com/story/news/politics/elections/2026/05/26/trump-texas-republican-leaders-react-to-paxtons-win-in-texas-senate-race/90267003007/ |website=[[The Augusta Chronicle]] |date=August 11, 2026 |access-date=August 18, 2026}}</ref>
+
+'''Statewide officials'''
+* [[Tyler Harper]], [[Georgia Department of Agriculture|agriculture commissioner of Georgia]] (2023–present)<ref name="scottandharper"/>
+* [[Burt Jones]], [[lieutenant governor of Georgia]] (2023–present)<ref>{{cite web |last1=Bluestein |first1=Greg |last2=Murphy |first2=Patricia |title=Burt Jones on backing Rick Jackson: 'We'll see' |url=https://www.ajc.com/politics/2026/07/burt-jones-on-backing-rick-jackson-well-see/ |website=[[The Atlanta Journal-Constitution]] |date=July 14, 2026 |access-date=September 30, 2026}}</ref>
+*[[Brian Kemp]], [[governor of Georgia]] (2019–present)<ref>{{cite news|last=Eggleston|first=Jared|date=September 14, 2026|title=Gov. Brian Kemp endorses Collins in U.S. Senate bid to unseat Ossoff: A different direction |url=https://www.cbsnews.com/atlanta/news/gov-brian-kemp-endorses-collins-in-u-s-senate-bid-to-unseat-ossoff-a-different-direction/ |website=[[CBS News]]|access-date=September 15, 2026}}</ref>
+
+'''State legislators'''
+* [[Reynaldo Martinez]], [[Georgia's 111th House of Representatives district|HD-111]] (2023–present)<ref>{{cite web |last1=Bluestein |first1=Greg |last2=Mitchell |first2=Tia |last3=Murphy |first3=Patricia |last4=Beam |first4=Adam |title= What Georgia Republicans' Tillman Rally revealed ahead of November |url=https://www.ajc.com/politics/2026/08/what-georgia-republicans-tillman-rally-revealed-ahead-of-november/|website=[[The Atlanta Journal-Constitution]] |date=August 10, 2026 |access-date=September 30, 2026}}</ref>
+
+'''Party officials'''
+* [[Joshua McKoon]], chair of the [[Georgia Republican Party]] (2023–present)<ref>{{cite web |last=Murphy |first=Patricia |title=Josh McKoon, Georgia GOP chair, is betting on the Republican base in 2026 |url=https://www.ajc.com/politics/2026/09/opinion-georgia-gop-chair-josh-mckoon-is-betting-on-the-republican-base/ |website=[[The Atlanta Journal-Constitution]] |date=September 9, 2026 |access-date=September 30, 2026}}</ref>
+
+'''Individuals'''
+* [[CJ Pearson]], conservative activist<ref name="augustarally"/>
+* [[Rick Jackson (businessman)|Rick Jackson]], CEO of Jackson Healthcare<ref>{{cite web |last1=Bluestein |first1=Greg |last2=Mitchell |first2=Tia |last3=Murphy |first3=Patricia |last4=Beam |first4=Adam |title=With millions banked, Jon Ossoff's general election campaign roars to life |url=https://www.ajc.com/politics/2026/06/with-millions-banked-jon-ossoffs-general-election-campaign-roars-to-life/|website=[[The Atlanta Journal-Constitution]] |date=June 19, 2026 |access-date=September 30, 2026}}</ref>
+
+'''Organizations'''
+* [[National Republican Senatorial Committee]]<ref>{{cite web |title=Mike Collins (R) Georgia |url=https://www.nrsc.org/mike-collins/ |website=[[National Republican Senatorial Committee]] |access-date=September 28, 2026}}</ref>
+* [[National Rifle Association]]<ref>{{cite web |title=Georgia |url=https://www.nrapvf.org/grades/georgia/ |website=[[NRA Political Victory Fund]] |access-date=September 28, 2026}}</ref>
+* [[Senate Conservatives Fund]]<ref>{{cite web |title=2026 Senate Candidates |url=https://secure.senateconservatives.com/lwm32/d |website=[[Senate Conservatives Fund]] |access-date=August 18, 2026}}</ref>
+}}{{Endorsements box
+|title=Declined to endorse
+|list=
+
+'''Statewide officials'''
+* [[Brad Raffensperger]], [[Georgia Secretary of State|Georgia secretary of state]] (2019–present) ''(Republican)''<ref>{{Cite web |last=Bluestein |first=Greg |date=August 17, 2026 |title=Jon Ossoff wants more than a win against Mike Collins |url=https://www.ajc.com/politics/2026/08/jon-ossoff-wants-more-than-a-win-against-mike-collins/ |access-date=2026-08-20 |website=ajc |language=en}}</ref>
+}}
+
+===Debates===
+{| class="wikitable" style="text-align:center;"
+|+ 2026 Georgia U.S. Senate election debates
+|-
+! scope="col" | {{abbr|No.|Number}}
+! scope="col" | Date
+! scope="col" | Host
+! scope="col" | Moderator
+! scope="col" | Link
+! scope="col" | <small>[[Democratic Party (US)|Democratic]]</small>
+! scope="col" | <small>[[Republican Party (United States)|Republican]]</small>
+|-
+! colspan="5" rowspan="2" |Key:<br />{{Colors|black|#90ff90|&nbsp;P&nbsp;}} <small>Participant&nbsp;</small> {{Colors|black|#FFFFDD|&nbsp;A&nbsp;}} <small>Absent&nbsp;</small> {{Colors|black|#ff9090|&nbsp;N&nbsp;}} <small>Not invited&nbsp;</small> {{Colors|black|#CCFFCC|&nbsp;I&nbsp;}} <small>Invited {{color box|#f0e68c|W}} Withdrawn</small>
+! scope="col" style="background:{{party color|Democratic Party (US)}}" |
+! scope="col" style="background:{{party color|Republican Party (US)}}" |
+|-
+! scope="col" | Ossoff
+! scope="col" | Collins
+|-
+!1<ref name="anf-debate-26">{{cite web|access-date=2026-09-08|title=Atlanta News First to host Georgia US Senate debate between Jon Ossoff, Mike Collins|url=https://www.atlantanewsfirst.com/2026/08/05/atlanta-news-first-host-exclusive-georgia-us-senate-debate-between-jon-ossoff-mike-collins/|date=5 August 2026|website=[[Atlanta News First]]}}</ref>
+| style="white-space:nowrap;" | October 8, 2026
+| style="white-space:nowrap;" | [[Atlanta News First]]<br>[[Gray Media]]
+| style="white-space:nowrap;" | Rick Folbaum
+| [https://www.youtube.com/watch?v=FDCQ7-OivEM YouTube]
+| {{D-P|'''P'''}}
+| {{D-P|'''P'''}}
+|}
+
+===Fundraising===
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of June 30, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}| Jon Ossoff (D)
+|$97,986,263
+|$59,730,546
+|$42,587,451
+|-
+|{{party shading/Republican}}|Mike Collins (R)
+|$7,409,350
+|$5,932,539
+|$2,079,981
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC">{{cite web |title=2026 Election United States Senate - Georgia |url=https://www.fec.gov/data/elections/senate/GA/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=May 24, 2026}}</ref></small>
+|}
+
+===Polling===
+'''Aggregate polls'''
+{| class="wikitable sortable" style="text-align:center;font-size:90%;line-height:17px"
+!Source of poll<br/>aggregation
+!Dates<br/>administered
+!Dates<br/>updated
+! style="width:100px;" |Jon<br />Ossoff (D)
+! style="width:100px;" |Mike Collins (R)
+! style="width:100px;" |Other/<wbr/>Undecided{{Efn|Calculated by taking the difference of 100% and all other candidates combined.|name=|group=}}
+!Margin
+|-
+|[[270toWin]]<ref name="270General">{{cite web |title=2026 Polls: Georgia Senate |url=https://www.270towin.com/2026-senate-polls/georgia |website=[[270toWin]] |access-date=September 2, 2026}}</ref>
+|September 14 – 23, 2026<!--Remember that dates listed on 270toWin are poll *publication dates*, not the dates when the polls were *administered*-->
+|October 4, 2026
+|{{party shading/Democratic}} |'''51.0%'''
+|43.4%
+|5.6%
+|{{party shading/Democratic}} |'''Ossoff +7.6%'''
+|-
+|[[Decision Desk HQ]]<ref name="DDHQGeneral">{{cite web |title=Georgia Senate General Ballot Test |url=https://votes.decisiondeskhq.com/races/2026-11-03/georgia-us-senate-general-election/polling |website=[[Decision Desk HQ]] |access-date=September 2, 2026}}</ref>
+|through September 18, 2026
+|October 4, 2026
+|{{party shading/Democratic}} |'''52.5%'''
+|43.5%
+|4.0%
+|{{party shading/Democratic}} |'''Ossoff +9.0%'''
+|-
+|[[FiftyPlusOne]]<ref>{{Cite web |title=FiftyPlusOne - Georgia General Senate Election Polls and Average for the 2026 General Election |url=https://fiftyplusone.news/polls/senate/general/georgia |access-date=September 2, 2026 |website=fiftyplusone.news}}</ref>
+|through September 18, 2026
+|October 4, 2026
+|{{party shading/Democratic}} |'''52.1%'''
+|43.1%
+|4.8%
+|{{party shading/Democratic}} |'''Ossoff +9.0%'''
+|-
+|[[RealClearPolitics]]<ref>{{cite web |title=2026 Georgia Senate – Collins vs. Ossoff|url=https://www.realclearpolling.com/polls/senate/general/2026/georgia/ossoff-vs-collins|access-date=September 2, 2026 |website=RealClearPolitics.com}}</ref>
+|July 13 – September 18, 2026
+|October 4, 2026
+|{{party shading/Democratic}}|'''51.1%'''
+|43.1%
+|5.8%
+|{{party shading/Democratic}}|'''Ossoff +8.0%'''
+|-
+|''[[Silver Bulletin]]''<ref name="Silver"/>
+|through September 18, 2026
+|October 4, 2026
+|{{party shading/Democratic}} |'''51.0%'''
+|42.7%
+|6.3%
+|{{party shading/Democratic}} |'''Ossoff +8.3%'''
+|-
+| colspan="3" |'''Average'''
+|{{party shading/Democratic}}|'''51.5%'''
+|43.2%
+|5.3%
+|{{party shading/Democratic}}|'''Ossoff +8.3%'''
+|}
+
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"}}
+! Margin<br />{{nowrap|of error}}
+! style="width:100px;"| Jon<br />Ossoff (D)
+! style="width:100px;"| Mike<br />Collins (R)
+! Other
+! Undecided
+|-
+|style="text-align: left;"|Wedgewood Polls<ref>{{Cite web |title=Wedgewood Polls GA Survey.pdf |url=https://drive.google.com/file/d/1-Qoij2YeWwq-EFaTY_W0iTf1fotSrKHI/view |website=Wedgewood Polls |date=October 3, 2026 |access-date=October 4, 2026}}</ref>
+|October 2–3, 2026
+|600 (LV)
+|±&nbsp;4.0%
+|{{party shading/Democratic}}|'''55%'''
+|45%
+|–
+|–
+|-
+|style="text-align:left;"|InsiderAdvantage (R)<ref>{{cite web |title=InsiderAdvantage Georgia Survey: Jackson Leads by Two in Race for Governor; Ossoff Leads by Eight in Senate Contest |url=https://insideradvantage.com/insideradvantage-georgia-survey-jackson-leads-by-two-in-race-for-governor-ossoff-leads-by-eight-in-senate-contest/ |website=InsiderAdvantage |date=September 25, 2026 |access-date=September 25, 2026}}</ref>
+|September 22–23, 2026
+|1,200 (LV)
+|±&nbsp;4.0%
+|{{party shading/Democratic}}|'''50%'''
+|42%
+|{{sdash}}
+|8%
+|-
+|rowspan="3" style="text-align:left;"|Big Data Poll (R)<ref>{{cite web |title=Peach State Poll: Jon Ossoff Opens Up Lead Over Mike Collins in Georgia |url=https://www.bigdatapoll.com/blog/peach-state-poll-jon-ossoff-opens-up-lead-over-mike-collins-in-georgia/ |publisher=Big Data Poll |access-date=September 25, 2026 |date=September 24, 2026}}</ref>{{Efn-ua|Poll sponsored by the Public Polling Project}}
+|rowspan="3"|September 21–23, 2026
+|721 (RV)
+|rowspan="3"|±&nbsp;4.0%
+|{{party shading/Democratic}}|'''51%'''
+|40%
+|{{sdash}}
+|9%
+|-
+|rowspan="2"|678 (LV)
+|{{party shading/Democratic}}|'''52%'''
+|41%
+|{{sdash}}
+|7%
+|-
+|{{party shading/Democratic}}|'''55%'''{{Efn|name=Leaners|With voters who lean towards a given candidate}}
+|45%
+|{{sdash}}
+|{{sdash}}
+|-
+|style="text-align:left;" rowspan="3"|[[YouGov]]<ref>{{cite web|url=https://d3nkl3psvxxpe9.cloudfront.net/documents/ttw_ga_20260915.pdf|title=GeorgiaGeneralElection2026|work=[[YouGov]]|date=September 23, 2026|access-date=September 23, 2026}}</ref>
+|rowspan="3"|September 15–18, 2026
+|3,416 (RV)
+|±&nbsp;2.7%
+|{{party shading/Democratic}}|'''51%'''
+|41%
+|2%{{efn|"Someone else" & "I will not vote in this race" with 1%}}
+|6%
+|-
+|3,301 (LV){{Efn|Loose likely voters.}}
+|±&nbsp;2.8%
+|{{party shading/Democratic}}|'''52%'''
+|42%
+|2%{{efn|"Someone else" & "I will not vote in this race" with 1%}}
+|5%
+|-
+|3,071 (LV){{Efn|Strict likely voters.}}
+|±&nbsp;2.9%
+|{{party shading/Democratic}}|'''51%'''
+|43%
+|1%{{efn|"I will not vote in this race" with 1%}}
+|5%
+|-
+|rowspan=2 style="text-align:left;"|Quantus Insights (R)<ref>{{cite web|title=Georgia Senate Survey Report - 9/18/26 |url=https://drive.google.com/file/d/1zqVNjagPrRDYJ4sIg6aKe3G0ggfv7yek/view|website=Quantus Insights|access-date=September 18, 2026}}</ref>
+|rowspan="2"|September 14–16, 2026
+|rowspan="2"|645 (LV)
+|rowspan="2"|±&nbsp;4.3%
+|{{party shading/Democratic}}|'''48%'''
+|44%
+|1%
+|7%
+|-
+|{{party shading/Democratic}}|'''49%'''{{efn|Leaners pushed}}
+|45%
+|1%
+|5%
+|-
+|style="text-align:left;"|[[Rasmussen Reports]] (R)<ref>{{cite web|title=Election 2026: Georgia Senate|url=https://www.rasmussenreports.com/public_content/politics/elections/election_2026/election_2026_georgia_senate|website=Rasmussen Reports|access-date=September 15, 2026}}</ref>
+|September 14, 2026
+|1,019 (LV)
+|±&nbsp;3.0%
+|{{party shading/Democratic}}|'''51%'''
+|42%
+|{{sdash}}
+|6%
+|-
+|style="text-align:left;"|[[Trafalgar Group]] (R)<ref>{{cite web|title=Georgia General Statewide Survey|url=https://www.thetrafalgargroup.org/wp-content/uploads/2026/09/GA-General-Full-Report-0912.pdf|website=The Trafalgar Group|access-date=September 13, 2026}}</ref>
+|September 10–12, 2026
+|1,091 (LV)
+|±&nbsp;2.9%
+|{{party shading/Democratic}}|'''49%'''
+|43%
+|1%{{Efn|Allen Buckley with 1%}}
+|7%
+|-
+|style="text-align:left;"|InsiderAdvantage (R)<ref>{{cite web|title=Georgia Survey of Likely Voters|url=https://jamesmagazinega.com/wp-content/uploads/2026/08/InsiderAdvantage-Poll-8.18.26-Crosstabs.jpg|website=James Magazine|date=August 18, 2026|access-date=August 18, 2026}}</ref>
+|August 16–17, 2026
+|800 (LV)
+|±&nbsp;3.5%
+|{{party shading/Democratic}}|'''50%'''
+|43%
+|{{sdash}}
+|7%
+|-
+|style="text-align:left;"|Fabrizio Ward (R)/Impact Research (D)<ref>{{cite web |title=Georgia Voter Survey |url=https://www.aarp.org/content/dam/aarp/research/topics/voter-opinion-research/politics/2026-midterm-election-poll-georgia.doi.10.26419-2fres.01065.004.pdf |publisher=[[AARP]] |date=July 23, 2026 |access-date=July 23, 2026}}</ref>{{Efn-ua|name=AARP|Poll commissioned by [[AARP]]}}
+|July 13–16, 2026
+|1,060 (LV)
+|±&nbsp;3.0%
+|{{party shading/Democratic}}|'''52%'''
+|43%
+|{{sdash}}
+|5%
+|-
+|style="text-align:left;"|Wick<ref>{{cite web|url=https://wick.io/research-georgia-election-survey-june-2026|title=What 1,175 likely Georgia voters told us in June|website=Wick|date=July 8, 2026|access-date=July 8, 2026}}</ref>
+|June 27–30, 2026
+|1,175 (LV)
+|±&nbsp;2.9%
+|{{party shading/Democratic}}|'''47%'''
+|43%
+|{{sdash}}
+|10%
+|-
+|style="text-align:left;"|Beacon Research (D)/<br/>Shaw & Co. Research (R)<ref>{{cite news |title=GEORGIA SENATE AND GOVERNOR |url=https://static.foxnews.com/foxnews.com/content/uploads/2026/07/fox_june-23-27-2026_complete_georgia_topline_july-1-release.pdf |access-date=July 1, 2026 |publisher=Fox News |date=July 1, 2026}}</ref>{{Efn-ua|name=Fox|Poll conducted for [[Fox News]]}}
+|June 23–27, 2026
+|1,002 (RV)
+|±&nbsp;3.0%
+|{{party shading/Democratic}}|'''56%'''
+|43%
+|{{sdash}}
+|1%
+|-
+|- style="background:lightyellow;"
+| style="border-right-style:hidden; background:lightyellow;" |
+| style="border-right-style:hidden; " | June 16, 2026
+| colspan="16"| Republican primary runoff
+|-
+|- style="background:lightyellow;"
+| style="border-right-style:hidden; background:lightyellow;" |
+| style="border-right-style:hidden; " | May 19, 2026
+| colspan="16"| Primary elections
+|-
+|style="text-align:left;"|Echelon Insights (R)<ref name="EchelonApr2026"/>{{efn-ua|name=Net}}
+|April 3–9, 2026
+|407 (LV)
+|±&nbsp;6.5%
+|{{party shading/Democratic}}|'''51%'''
+|44%
+|{{sdash}}
+|5%
+|-
+|style="text-align:left;"|[[Emerson College]]<ref name="EmersonFeb2026"/>{{efn-ua|name=Nexstar}}
+|February 28 – March 2, 2026
+|1,000 (LV)
+|±&nbsp;3.0%
+|{{party shading/Democratic}} |'''48%'''
+|43%
+|{{sdash}}
+|9%
+|-
+|style="text-align:left;"|Quantus Insights (R)<ref name="QuantusSept2025"/>
+|September 9–12, 2025
+|624 (RV)
+|±&nbsp;4.3%
+|'''38%'''
+|'''38%'''
+|{{sdash}}
+|23%
+|-
+|style="text-align:left;"|TIPP Insights<ref name="TIPP poll">{{Cite web|url=https://tippinsights.com/mike-collins-takes-early-lead-in-georgia-senate-showdown-but-plurality-of-voters-are-undecided/|title=Mike Collins Takes Early Lead In Georgia Senate Showdown — But Plurality Of Voters Are Undecided|website=TIPP Insights|date=August 8, 2025|access-date=August 8, 2025}}</ref>{{efn-ua|name=LAW}}
+|July 28 – August 1, 2025
+|2,956 (RV)
+|±&nbsp;1.8%
+|{{party shading/Democratic}} |'''45%'''
+|44%
+|3%
+|8%
+|-
+|style="text-align:left;"|Cygnal (R)<ref name="CygnalMay2025"/>
+|May 15–17, 2025
+|800 (LV)
+|±&nbsp;3.4%
+|{{party shading/Democratic}} |'''46%'''
+|43%
+|{{sdash}}
+|11%
+|-
+|style="text-align:left;"|[[Trafalgar Group]] (R)<ref name="TrafApr25">{{cite web |title=Georgia US Senate Statewide Survey – April 2025 |url=https://www.thetrafalgargroup.org/wp-content/uploads/2025/04/GA-26-US-Senate-0428_Full-Report.pdf |website=The Trafalgar Group | date=April 29, 2025 |access-date=April 29, 2025}}</ref>
+|April 24–27, 2025
+|1,426 (LV)
+|±&nbsp;2.9%
+|{{party shading/Democratic}} |'''48%'''
+|43%
+|3%
+|6%
+|-
+|style="text-align:left;"|WPA Intelligence (R)<ref name="WPAINTELGASEN"/>{{efn-ua|name=CFG}}
+|January 14–15, 2025
+|500 (LV)
+|±&nbsp;4.4%
+|{{party shading/Democratic}} |'''44%'''
+|34%
+|{{sdash}}
+|22%
+|}
+
+<!-- = = = don't edit the line below = = = -->
+{{hidden begin|titlestyle=background:#cff|title=Hypothetical polling|contentstyle=border:solid 1px silver; padding:8px; background:var(--background-color-base); color:var(--color-base);}}
+<!-- = = = don't edit the line above = = = -->
+
+'''Jon Ossoff vs. Derek Dooley'''
+
+'''Aggregate polls'''
+{| class="wikitable sortable" style="text-align:center;font-size:90%;line-height:17px"
+!Source of poll<br/>aggregation
+!Dates<br/>administered
+!Dates<br/>updated
+! style="width:100px;" |Jon<br />Ossoff (D)
+! style="width:100px;" |Derek<br />Dooley (R)
+! style="width:100px;" |Other/<wbr/>Undecided{{Efn|Calculated by taking the difference of 100% and all other candidates combined.|name=|group=}}
+!Margin
+|-
+|[[RealClearPolitics]]<ref>{{cite web |title=2026 Georgia Senate – Dooley vs. Ossoff|url=https://www.realclearpolling.com/polls/senate/general/2026/georgia/ossoff-vs-dooley|access-date=November 13, 2025 |website=RealClearPolitics.com}}</ref>
+|July 28, 2025 – March 2, 2026
+|March 5, 2026
+|{{party shading/Democratic}}|'''45.0%'''
+|38.3%
+|16.7%
+|{{party shading/Democratic}}|'''Ossoff +6.7%'''
+|-
+|Race to the WH|<ref name="rtwhpoll" />
+|June 30, 2025 – March 5, 2026
+|March 5, 2026
+|{{party shading/Democratic}}|'''48.4%'''
+|41.5%
+|10.1%
+|{{party shading/Democratic}}|'''Ossoff +6.8%'''
+|-
+| colspan="3" |'''Average'''
+|{{party shading/Democratic}}|'''46.7%'''
+|39.9%
+|13.4%
+|{{party shading/Democratic}}|'''Ossoff +6.75%'''
+|}
+
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"}}
+! Margin<br />of error
+! style="width:100px;"| Jon<br />Ossoff (D)
+! style="width:100px;"| Derek<br />Dooley (R)
+! Other
+! Undecided
+|-
+|style="text-align:left;"|[[Emerson College]]<ref name="EmersonFeb2026"/>{{efn-ua|name=Nexstar}}
+|February 28 – March 2, 2026
+|1,000 (LV)
+|±&nbsp;3.0%
+|{{party shading/Democratic}} |'''49%'''
+|41%
+|{{sdash}}
+|10%
+|-
+|style="text-align:left;"|Quantus Insights (R)<ref name="QuantusSept2025"/>
+|September 9–12, 2025
+|624 (RV)
+|±&nbsp;4.3%
+|{{party shading/Democratic}} |'''42%'''
+|35%
+|{{sdash}}
+|22%
+|-
+|style="text-align:left;"|TIPP Insights<ref name="TIPAugust25"/>{{efn-ua|name=LAW}}
+|July 28 – August 1, 2025
+|2,956 (RV)
+|±&nbsp;1.8%
+|{{party shading/Democratic}} |'''44%'''
+|39%
+|4%
+|14%
+|-
+|style="text-align:left;"|Cygnal (R)<ref name="CygnalJune2025"/>
+|June 16–18, 2025
+|610 (LV)
+|±&nbsp;3.9%
+|{{party shading/Democratic}} |'''50%'''
+|41%
+|{{sdash}}
+|9%
+|}
+
+'''Jon Ossoff vs. Buddy Carter'''
+
+'''Aggregate polls'''
+{| class="wikitable sortable" style="text-align:center;font-size:90%;line-height:17px"
+!Source of poll<br/>aggregation
+!Dates<br/>administered
+!Dates<br/>updated
+! style="width:100px;" |Jon<br />Ossoff (D)
+! style="width:100px;" |Buddy<br />Carter (R)
+! style="width:100px;" |Other/<wbr/>Undecided{{Efn|Calculated by taking the difference of 100% and all other candidates combined.|name=|group=}}
+!Margin
+|-
+|[[RealClearPolitics]]<ref>{{cite web |title=2026 Georgia Senate – Carter vs. Ossoff|url=https://www.realclearpolling.com/polls/senate/general/2026/georgia/ossoff-vs-carter|access-date=November 13, 2025 |website=RealClearPolitics.com}}</ref>
+|May 15, 2025 – March 2, 2026
+|March 5, 2026
+|{{party shading/Democratic}} |'''44.3%'''
+|40.8%
+|14.9%
+|{{party shading/Democratic}} |'''Ossoff +3.5%'''
+|-
+|Race to the WH<ref name="rtwhpoll" />
+|January 16, 2025 – April 9, 2026
+|April 21, 2026
+|{{party shading/Democratic}}|'''49.6%'''
+|43.8%
+|6.6%
+|{{party shading/Democratic}}|'''Ossoff +5.8%'''
+|-
+| colspan="3" |'''Average'''
+|{{party shading/Democratic}}|'''47.0%'''
+|42.3%
+|10.8%
+|{{party shading/Democratic}}|'''Ossoff +4.7%'''
+|}
+
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"}}
+! Margin<br />of error
+! style="width:100px;"| Jon<br />Ossoff (D)
+! style="width:100px;"| Buddy<br />Carter (R)
+! Other
+! Undecided
+|-
+|style="text-align:left;"|Echelon Insights (R)<ref name="EchelonApr2026">{{cite web|url=https://netchoice.org/wp-content/uploads/2026/04/NetChoice-Apr-2026-National-Antitrust-Survey-Topline.pdf|title=NetChoice — April 2026 Antitrust Survey — Topline|work=Echelon Insights|access-date=April 21, 2026}}</ref>{{efn-ua|name=Net|Poll commissioned by [[NetChoice]]}}
+|April 3–9, 2026
+|407 (LV)
+|±&nbsp;6.5%
+|{{party shading/Democratic}}|'''52%'''
+|43%
+|{{sdash}}
+|5%
+|-
+|style="text-align:left;"|[[Emerson College]]<ref name="EmersonFeb2026"/>{{efn-ua|name=Nexstar}}
+|February 28 – March 2, 2026
+|1,000 (LV)
+|±&nbsp;3.0%
+|{{party shading/Democratic}} |'''47%'''
+|44%
+|{{sdash}}
+|9%
+|-
+|style="text-align:left;"|Quantus Insights (R)<ref name="QuantusSept2025"/>
+|September 9–12, 2025
+|624 (RV)
+|±&nbsp;4.3%
+|{{party shading/Democratic}} |'''40%'''
+|37%
+|{{sdash}}
+|22%
+|-
+|style="text-align:left;"|TIPP Insights<ref name="TIPAugust25"/>{{efn-ua|name=LAW|Poll sponsored by League of American Workers}}
+|July 28 – August 1, 2025
+|2,956 (RV)
+|±&nbsp;1.8%
+|{{party shading/Democratic}} |'''44%'''
+|40%
+|3%
+|13%
+|-
+|style="text-align:left;"|Cygnal (R)<ref name="CygnalJune2025">{{Cite tweet|user=bluestein||first=Greg|last=Bluestein|number=1939633570688938308|title=A new survey by Cygnal — the go-to polling firm of Gov. Brian Kemp and other key Republicans — explains why Insurance Commissioner John King is likely to flood the airwaves with his backstory as his Senate campaign against Democratic incumbent Jon Ossoff heats up. #gapol}}</ref>
+|June 16–18, 2025
+|610 (LV)
+|±&nbsp;3.9%
+|{{party shading/Democratic}} |'''49%'''
+|42%
+|{{sdash}}
+|9%
+|-
+|style="text-align:left;"|Cygnal (R)<ref name="CygnalMay2025">{{Cite web|url=https://acrobat.adobe.com/id/urn:aaid:sc:US:90ddd7f9-bdbc-46ef-aeb2-c5a88db84a3d?viewer%21megaVerb=group-discover|title=Cygnal – Survey of 2024 General Election Voters – Georgia Statewide|website=[[Adobe Acrobat]]|date=May 22, 2025|access-date=May 22, 2025}}</ref>
+|May 15–17, 2025
+|800 (LV)
+|±&nbsp;3.4%
+|{{party shading/Democratic}} |'''46%'''
+|42%
+|{{sdash}}
+|12%
+|-
+|style="text-align:left;"|Tyson Group (R)<ref name="TYSONGASEN"/>
+|January 30–31, 2025
+|600 (LV)
+|±&nbsp;4.0%
+|{{party shading/Democratic}} |'''47%'''
+|39%
+|{{sdash}}
+|13%
+|-
+|style="text-align:left;"|WPA Intelligence (R)<ref name="WPAINTELGASEN"/>{{efn-ua|name=CFG}}
+|January 14–15, 2025
+|500 (LV)
+|±&nbsp;4.4%
+|{{party shading/Democratic}} |'''45%'''
+|32%
+|{{sdash}}
+|23%
+|}
+
+'''Jon Ossoff vs. Brad Raffensperger'''
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"}}
+! Margin<br />of error
+! style="width:100px;"| Jon<br />Ossoff (D)
+! style="width:100px;"| Brad<br />{{nowrap|Raffensperger (R)}}
+! Other
+! Undecided
+|-
+|style="text-align:left;"|Cygnal (R)<ref name="CygnalMay2025"/>
+|May 15–17, 2025
+|800 (LV)
+|±&nbsp;3.4%
+|'''44%'''
+|'''44%'''
+|{{sdash}}
+|12%
+|-
+|style="text-align:left;"|[[Trafalgar Group]] (R)<ref name="TrafApr25"/>
+|April 24–27, 2025
+|1,426 (LV)
+|±&nbsp;2.9%
+|{{party shading/Democratic}} |'''46%'''
+|38%
+|10%
+|6%
+|-
+|style="text-align:left;"|''[[Atlanta Journal-Constitution]]''<ref name="AJCApirl2025"/><ref name="AJC crosstabs">{{cite web |author1=M.V. Hood III |title=AJC 2025 SPRING SURVEY |url=https://s3.documentcloud.org/documents/25922540/ajc-poll-april-2025.pdf |publisher=University of Georgia School of Public & International Affairs |access-date=May 2, 2025 |date=April 28, 2025}}</ref>
+|April 15–24, 2025
+|1,000 (RV)
+|±&nbsp;3.1%
+|{{party shading/Democratic}} |'''48%'''
+|39%
+|{{sdash}}
+|3%
+|-
+|style="text-align:left;"|WPA Intelligence (R)<ref name="WPAINTELGASEN"/>{{efn-ua|name=CFG}}
+|January 14–15, 2025
+|500 (LV)
+|±&nbsp;4.4%
+|{{party shading/Democratic}} |'''46%'''
+|32%
+|{{sdash}}
+|22%
+|}
+
+'''Jon Ossoff vs. Brian Kemp'''
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"}}
+! Margin<br />of error
+! style="width:100px;"| Jon<br />Ossoff (D)
+! style="width:100px;"| Brian<br />Kemp (R)
+! Undecided
+|-
+|style="text-align:left;"|''[[Atlanta Journal-Constitution]]''<ref name="AJCApirl2025">{{Cite web|url=https://www.ajc.com/politics/georgia-senate-seat-would-be-toss-up-between-kemp-and-ossoff/ODLMO73SKZCT3IDYG3VWX2T4AE/|title=AJC poll: Kemp neck and neck with Ossoff in possible Georgia Senate matchup|first=Greg|last= Bluestein|website=[[Atlanta Journal-Constitution]]|date=May 1, 2025|access-date=May 1, 2025}}</ref><ref name="AJC crosstabs"/>
+|April 15–24, 2025
+|1,000 (RV)
+|±&nbsp;3.1%
+|46%
+|{{party shading/Republican}} |'''49%'''
+|5%
+|-
+|style="text-align:left;"|Quantus Insights (R)<ref>{{cite web|url=https://drive.google.com/file/d/1y1OMfSEOT4Y1_ABcW5Ap5cHAjyPr9kie/view|title=February 2025 – Georgia 2026 Senate race|work=Quantus Insights|date=February 14, 2025|access-date=February 14, 2025}}</ref>
+|February 11–13, 2025
+|800 (RV)
+|±&nbsp;3.5%
+|45%
+|{{party shading/Republican}} |'''48%'''
+|7%
+|-
+|style="text-align:left;"|Tyson Group (R)<ref name="TYSONGASEN">{{cite web|url=https://www.nj.com/politics/2025/02/trump-loving-marjorie-taylor-greene-gets-some-bad-polling-news.html|title=Trump-loving Marjorie Taylor Greene gets some bad polling news|first=Lauren|last=Sforza|website=[[NJ.com]]|date=February 13, 2025|access-date=March 3, 2025}}</ref>
+|January 30–31, 2025
+|600 (LV)
+|±&nbsp;4.0%
+|42%
+|{{party shading/Republican}} |'''49%'''
+|8%
+|-
+|style="text-align:left;"|WPA Intelligence (R)<ref name="WPAINTELGASEN">{{cite web|url=https://www.politico.com/news/2025/01/16/kemp-ossoff-poll-georgia-senate-00198719|title=GOP poll shows Kemp beating Ossoff in hypothetical Georgia Senate matchup|first=Natalie|last=Allison|website=Politico|date=January 16, 2025}}</ref>{{efn-ua|name=CFG|Poll sponsored by [[Club for Growth]]}}
+|January 14–15, 2025
+|500 (LV)
+|±&nbsp;4.4%
+|40%
+|{{party shading/Republican}} |'''46%'''
+|14%
+|}
+
+'''Jon Ossoff vs. John King'''
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"}}
+! Margin<br />of error
+! style="width:100px;"| Jon<br />Ossoff (D)
+! style="width:100px;"| John<br />King (R)
+! Undecided
+|-
+|style="text-align:left;"|Cygnal (R)<ref name="CygnalJune2025"/>
+|June 16–18, 2025
+|610 (LV)
+|±&nbsp;3.9%
+|{{party shading/Democratic}} |'''50%'''
+|40%
+|10%
+|-
+|style="text-align:left;"|Cygnal (R)<ref name="CygnalMay2025"/>
+|May 15–17, 2025
+|800 (LV)
+|±&nbsp;3.4%
+|{{party shading/Democratic}} |'''45%'''
+|42%
+|13%
+|-
+|style="text-align:left;"|''[[Atlanta Journal-Constitution]]''<ref name="AJCApirl2025"/><ref name="AJC crosstabs"/>
+|April 15–24, 2025
+|1,000 (RV)
+|±&nbsp;3.1%
+|{{party shading/Democratic}} |'''51%'''
+|38%
+|11%
+|-
+|style="text-align:left;"|WPA Intelligence (R)<ref name="WPAINTELGASEN"/>{{efn-ua|name=CFG}}
+|January 14–15, 2025
+|500 (LV)
+|±&nbsp;4.4%
+|{{party shading/Democratic}} |'''47%'''
+|31%
+|22%
+|}
+
+'''Jon Ossoff vs. Marjorie Taylor Greene'''
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"}}
+! Margin<br />of error
+! style="width:100px;"| Jon<br />Ossoff (D)
+! style="width:100px;"| Marjorie Taylor<br />Greene (R)
+! Other
+! Undecided
+|-
+|style="text-align:left;"|[[Trafalgar Group]] (R)<ref name="TrafApr25"/>
+|April 24–27, 2025
+|1,426 (LV)
+|±&nbsp;2.9%
+|{{party shading/Democratic}} |'''48%'''
+|37%
+|8%
+|7%
+|-
+|style="text-align:left;"|''[[Atlanta Journal-Constitution]]''<ref name="AJCApirl2025"/><ref name="AJC crosstabs"/>
+|April 15–24, 2025
+|1,000 (RV)
+|±&nbsp;3.1%
+|{{party shading/Democratic}} |'''54%'''
+|37%
+|{{sdash}}
+|9%
+|-
+|style="text-align:left;"|Tyson Group (R)<ref name="TYSONGASEN"/>
+|January 30–31, 2025
+|600 (LV)
+|±&nbsp;4.0%
+|{{party shading/Democratic}} |'''51%'''
+|39%
+|{{sdash}}
+|9%
+|}
+
+'''Jon Ossoff vs. Rich McCormick'''
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"|Key:<br />A – all adults<br />RV – registered voters<br />LV – likely voters<br />V – unclear}}
+! Margin<br />of error
+! style="width:100px;"| Jon<br />Ossoff (D)
+! style="width:100px;"| Rich<br />McCormick (R)
+! Undecided
+|-
+|style="text-align:left;"|WPA Intelligence (R)<ref name="WPAINTELGASEN"/>{{efn-ua|name=CFG}}
+|January 14–15, 2025
+|500 (LV)
+|±&nbsp;4.4%
+|{{party shading/Democratic}} |'''44%'''
+|33%
+|23%
+|}
+
+'''Jon Ossoff vs. Kelly Loeffler'''<br />
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"}}
+! Margin<br />of error
+! style="width:100px;"| Jon<br />Ossoff (D)
+! style="width:100px;"| Kelly<br />Loeffler
+! Undecided
+|-
+|style="text-align:left;"|Cygnal (R)<ref name="CygnalMay2025"/>
+|May 15–17, 2025
+|800 (LV)
+|±&nbsp;3.4%
+|{{party shading/Democratic}} |'''46%'''
+|43%
+|11%
+|-
+|}
+
+'''Jon Ossoff vs. Generic Republican'''<br />
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"}}
+! Margin<br />of error
+! style="width:100px;"| Jon<br />Ossoff (D)
+! style="width:100px;"| Generic<br />Republican
+! Undecided
+|-
+|style="text-align:left;"|Cygnal (R)<ref>{{Cite web|url=https://www.ajc.com/politics/politically-georgia/vote-to-block-transgender-bill-could-hurt-jon-ossoff-new-poll-finds/C4BYVU4YPNH7BDKLH3UUQUIVOM/|title=Vote to block transgender bill could hurt Jon Ossoff, new poll finds|first1=Greg|last1=Bluestein|first2=Tia|last2=Mitchell|first3=Patricia|last3=Murphy|first4=Adam|last4=Beam|website=The Atlanta Journal-Constitution|date=March 12, 2025|archive-url=https://archive.today/20250312152248/https://www.ajc.com/politics/politically-georgia/vote-to-block-transgender-bill-could-hurt-jon-ossoff-new-poll-finds/C4BYVU4YPNH7BDKLH3UUQUIVOM/|archive-date=March 12, 2025|access-date=March 12, 2025}}</ref><ref name="AJC crosstabs"/>
+|March 9–10, 2025
+|600 (LV)
+|±&nbsp;4.0%
+|'''44%'''
+|'''44%'''
+|16%
+|}
+{{hidden end}}
+
+===Results===
+{{Election box begin
+ | title=2026 United States Senate election in Georgia}}
+{{Election box candidate with party link no change
+ | party=Democratic Party (United States)
+ | candidate=[[Jon Ossoff]] (incumbent)
+ | votes= 
+ | percentage=
+ | change=
+}}
+{{Election box candidate with party link 
+ | party=Republican Party (United States)
+ | candidate= [[Mike Collins (politician)|Mike Collins]]
+ | votes=
+ | percentage=
+ | change=
+}}
+{{Election box total
+ | votes= 
+ | percentage=100.0
+ | change=
+}}
+{{Election box end}}
+
+==Notes==
+{{notelist}}
+'''Partisan clients'''<br />
+{{notelist-ua}}
+
+==References==
+{{Reflist}}
+
+==External links==
+;Official campaign websites 
+*[https://mikecollinsga.com/ Mike Collins (R)]
+*[https://electjon.com/ Jon Ossoff (D)]
+{{2026 United States elections}}
+
+[[Category:United States Senate elections in Georgia (U.S. state)|2026]]
+[[Category:2026 United States Senate elections|Georgia]]
+[[Category:2026 Georgia (U.S. state) elections|United States Senate]]

@@ -1,0 +1,569 @@
+{{Short description|none}}
+{{for|related races|2026 United States Senate elections}}
+{{Use American English|date=January 2026}}
+{{Use mdy dates|date=November 2025}}
+{{Infobox election
+| election_name      = 2026 United States Senate election in Virginia
+| country            = Virginia
+| type               = presidential
+| ongoing            = yes
+| previous_election  = 2020 United States Senate election in Virginia
+| previous_year      = 2020
+| next_election      = 2032 United States Senate election in Virginia
+| next_year          = 2032
+| election_date      = November 3, 2026
+| image1             = Senator Mark Warner Portrait (cut cropped).png
+| nominee1           = [[Mark Warner]]
+| party1             = Democratic Party (United States)
+| popular_vote1      = 
+| percentage1        = 
+| image2             = 110311160930 MG Mizusawa, Bert (cropped).jpg
+| nominee2           = [[Bert Mizusawa]]
+| party2             = Republican Party (United States)
+| popular_vote2      = 
+| percentage2        = 
+| map_image = <!-- Please keep this map hidden until election day. {{switcher
+| [[File:2026 United States Senate election in Virginia results map by county and independent city.svg|300px]]
+| County and independent city results}}-->
+| map_caption = 
+| title              = U.S. senator
+| before_election    = [[Mark Warner]]
+| before_party       = Democratic Party (United States)
+| after_election     = 
+| after_party        = 
+}}
+{{Elections in Virginia}}
+The '''2026 United States Senate election in Virginia''' will be held on November 3, 2026, to elect a member of the [[United States Senate]] to represent the [[Commonwealth of Virginia]]. [[Democratic Party (United States)|Democratic]] incumbent [[Mark Warner]] is seeking a fourth term. He is being challenged by [[Republican Party (United States)|Republican]] Army general [[Bert Mizusawa]].
+
+In the August 4 [[primary elections]], Warner was unopposed for the Democratic nomination. Mizusawa won the Republican nomination with 51.5% of the vote over Marine Corps Reserves officer David Williams and financial accountant Kim Farington.
+
+Republicans have not won a Senate election in Virginia since [[2002 United States Senate election in Virginia|2002]].
+
+== Democratic primary ==
+=== Candidates ===
+==== Nominee ====
+*[[Mark Warner]], incumbent U.S. senator (2009–present)<ref>{{cite web |last1=Shokraei |first1=Carrie |date=December 2, 2025 |title=Sen. Mark Warner announces reelection campaign in Virginia |url=https://wtop.com/virginia/2025/12/sen-mark-warner-announces-reelection-campaign-in-virginia/ |access-date=December 2, 2025 |work=[[WTOP-FM]]}}</ref><ref name="PresumptiveWarner">{{Cite news |title=Virginia Sen. Mark Warner wins Democratic nomination in reelection bid |url=https://virginiaindependentnews.com/elections/virginia-sen-mark-warner-wins-democratic-nomination-in-reelection-bid/ |date=8 April 2026 |access-date=8 June 2026 |work=The Virginia Independent |last=Israel |first=Josh |lang=en |quote=Incumbent U.S. Sen. Mark Warner is the Democratic nominee as he seeks a fourth term in the November midterms after he was the only Democratic candidate to qualify for the primary by the April 2 filing deadline. Republicans will nominate his challenger in an August primary.}}</ref>
+
+==== Withdrawn ====
+*Lorita Daniels, [[Spotsylvania County, Virginia|Spotsylvania County]] [[Spotsylvania County Public Schools|school board]] member<ref>{{Cite web|title=Former Spotsylvania County school board chair announces Virginia Senate campaign|url=https://www.wusa9.com/article/news/local/virginia/former-spotsylvania-county-school-board-chair-virginia-senate-campaign/65-9bd563ed-7b66-4b3a-97b2-1aaf7f89c587|website=[[WUSA (TV)|WUSA]]|author=Eggleston, Mark|date=2025-11-11|access-date=2025-11-28|language=en-US}}</ref>
+*Gregory Eichelberger, [[United States Army|Army]] [[United States Army Adjutant General's Corps|Adjutant General Corps]] Reserve 2nd Lieutenant<ref>{{Cite web |title= FEC Form 2 for Report FEC-1924170 |url=https://docquery.fec.gov/cgi-bin/forms/S6VA00192/1924170/ |date=November 5, 2025}}</ref><ref>{{Cite web |date=2025-12-05 |title=Virginia Democratic Sen. Mark Warner announces he will seek reelection in 2026 |url=https://virginiaindependentnews.com/elections/virginia-democratic-sen-mark-warner-announces-he-will-seek-reelection-in-2026/ |access-date=2026-03-10 |website=The Virginia Independent |language=en-US}}</ref>
+*Mark Moran, former investment banker and [[Reality television|reality TV]] star ''(ran as an independent)''<ref name="Iafrate">{{Cite web |last=Iafrate|first=Anthony |date=April 2, 2026 |title=EXCLUSIVE: Democrat Senate Candidate Leaves Party To Put ‘Our Country First’ |url=https://dailycaller.com/2026/04/02/virginia-senate-candidate-mark-moran-leaves-democratic-party/|website=[[Daily Caller]]}}</ref><ref name="mn">{{Cite web |last=ARLnow.com |date=2026-04-03 |title=Morning Notes for April 3, 2026 {{!}} ARLnow.com |url=https://www.arlnow.com/2026/04/03/morning-notes-for-april-3-2026/ |access-date=2026-04-03 |language=en-US}}</ref>
+*Jason Reynolds, IT professional<ref>{{Cite web |date=September 25, 2025 |title=Who in Virginia is running for US Senate in 2026? |url=https://www.vpm.org/news/2025-09-25/us-senator-2026-mark-warner-jason-reynolds-bryce-reeves-kim-farington |work=[[Virginia Public Media]]}}</ref>
+
+=== Endorsements ===
+{{Endorsements box
+|title=Mark Warner
+|list=
+;U.S. senators
+*[[Tim Kaine]], [[Virginia]] (2013–present)<ref name="WarnerAnnounce">{{cite web|author=Lowkell|date=December 2, 2025|title=Video: Sen. Mark Warner Launches Reelection Campaign “to continue his fight to lower costs and prepare Virginia for the economy of the future”|url=https://bluevirginia.us/2025/12/video-sen-mark-warner-launches-reelection-campaign-to-continue-his-fight-to-lower-costs-and-prepare-virginia-for-the-economy-of-the-future/|archive-url=https://web.archive.org/web/20251218001335/https://bluevirginia.us/2025/12/video-sen-mark-warner-launches-reelection-campaign-to-continue-his-fight-to-lower-costs-and-prepare-virginia-for-the-economy-of-the-future/|archive-date=December 18, 2025|website=[[Democratic Party of Virginia|Blue Virginia]]|access-date=December 2, 2025}}</ref>
+
+;U.S. representatives
+*[[Don Beyer]], [[VA-08]] (2015–present)<ref name="WarnerAnnounce" />
+*[[Jennifer McClellan]], [[VA-04]] (2023–present)<ref name="WarnerAnnounce" />
+*[[Bobby Scott (U.S. politician)|Bobby Scott]], [[VA-03]] (1993–present)<ref name="WarnerAnnounce" />
+*[[Suhas Subramanyam]], [[Virginia's 10th congressional district|VA-10]] (2025–present)<ref name="WarnerAnnounce" />
+*[[Eugene Vindman]], [[VA-07]] (2025–present)<ref name="WarnerAnnounce" />
+*[[James Walkinshaw]], [[Virginia's 11th congressional district|VA-11]] (2025–present)<ref name="WarnerAnnounce" />
+
+;Statewide officials
+*[[Ghazala Hashmi]], [[lieutenant governor of Virginia]] (2026–present)<ref name="WarnerAnnounce" />
+*[[Jay Jones]], [[attorney general of Virginia]] (2026–present)<ref name="WarnerAnnounce" />
+*[[Abigail Spanberger]], [[governor of Virginia]] (2026–present)<ref name="WarnerAnnounce" />
+
+;State legislators
+*[[Don Scott (Virginia politician)|Don Scott]], speaker of the [[Virginia House of Delegates]] (2024–present) from [[Virginia's 88th House of Delegates district|HD-88]] (2020–present)<ref name="Scott">{{cite news |last1=Stuart |first1=Bob |title=Democrat Mark Warner seeks fourth term in U.S. Senate |url=https://www.dnronline.com/news/elections/democrat-mark-warner-seeks-fourth-term-in-u-s-senate/article_380c7bdd-4ac0-5a22-81f0-19608f986923.html |access-date=3 December 2025 |website=Daily News Record |date=December 3, 2025}}</ref>
+*18 [[Virginia Senate|state senators]]<ref name="WarnerAnnounce"/>
+*62 [[Virginia House of Delegates|state delegates]]<ref name="WarnerAnnounce"/>
+
+;Organizations
+*[[AIPAC]]<ref>{{Cite web |title=- AIPAC Political Portal |url=https://candidates.aipacpac.org/page/featured |access-date=2025-04-28 |website=candidates.aipacpac.org}}</ref>
+*[[Brady Campaign]]<ref>{{cite web |title=Candidates|url=https://bradypac.org/candidates/?_office=federal |website=The Brady Campaign |access-date=29 January 2026}}</ref>
+*[[Jewish Democratic Council of America]]<ref>{{cite web |title=JDCA Endorsed Candidates |url=https://jewishdems.org/endorsements/|website=Jewish Democratic Council of America}}</ref>
+*[[Joint Action Committee for Political Affairs]]<ref>{{cite web|title=Candidates|url=https://www.jacpac.org/jac-candidates|website=Joint Action Committee for Political Affairs|access-date=November 16, 2025|archive-url=https://web.archive.org/web/20251121062543/https://www.jacpac.org/jac-candidates|archive-date=November 21, 2025|url-status=dead}}</ref>
+*[[Planned Parenthood Action Fund]]<ref name="PPAF">{{cite web |title=2026 Planned Parenthood Action Fund Endorsed Candidates |url=https://www.plannedparenthoodaction.org/endorsements |website=www.plannedparenthoodaction.org |publisher=[[Planned Parenthood Action Fund]] |access-date=April 8, 2026 |language=en}}</ref>
+*[[Population Connection]]<ref>{{cite web |title=2026 Endorsements |url=https://www.populationconnectionaction.org/vote/2026-endorsements/ |website=Population Connection Action Fund |access-date=16 November 2025}}</ref>
+}}
+
+===Fundraising===
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of June 30, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|''Lorita Daniels (D)''
+|$57,159
+|$50,121
+|$7,038
+|-
+|{{party shading/Democratic}}|''Gregory Eichelberger (D)''
+|$5,698
+|$5,698
+|$0
+|-
+|{{party shading/Democratic}}|Mark Warner (D)
+|$25,160,577
+|$9,434,262
+|$16,114,725
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC1">{{cite web |title=2026 Election United States Senate - Virginia |url=https://www.fec.gov/data/elections/senate/VA/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=April 23, 2025}}</ref></small>
+|}
+
+== Republican primary ==
+=== Candidates ===
+==== Nominee ====
+*[[Bert Mizusawa]], retired [[United States Army]] [[Major general (United States)|major general]], candidate for U.S. Senate in [[2018 United States Senate election in Virginia|2018]], and candidate for [[Virginia's 2nd congressional district|VA-02]] in [[2010 United States House of Representatives elections in Virginia#District 2|2010]]<ref>{{Cite web |last=Kirwin |first=Brian |date=2026-01-20 |title=Gen. Bert Mizusawa to Run for US Senate in Virginia |url=https://www.einpresswire.com/article/884832889/gen-bert-mizusawa-to-run-for-us-senate-in-virginia |access-date=2026-02-23 |website=EIN Presswire |language=en-US}}</ref>
+
+==== Eliminated in primary ====
+*Kim Farington, financial accountant<ref>{{Cite news|last1=Stuart|first1=Bob|title=Kim Farington wants to unseat Mark Warner. But who is she? |url=https://newsvirginian.com/news/local/government-politics/elections/article_3c3e76e5-2dbc-45cd-9e80-1ee5e2d002b1.html|date=July 30, 2025 |access-date=August 4, 2025|publisher=[[The News Virginian]] |language=en}}</ref>
+*David Williams, [[U.S. Marine Corps Reserves]] colonel<ref>{{Cite web |last1=Quarshie|first1=Mabinty|title=Navy and Marine Corps veteran launches Virginia Senate campaign to unseat Mark Warner|url=https://www.washingtonexaminer.com/news/campaigns/congressional/3886732/navy-marine-veteran-david-williams-virginia-senate-campaign-oust-mark-warner/|date=November 18, 2025|website=[[Washington Examiner]]}}</ref>
+
+====Withdrawn====
+*Alex De Paula, former nonprofit executive<ref>{{Cite web |title=FEC Form 2 for Report FEC-1949844 |url=https://docquery.fec.gov/cgi-bin/forms/S6VA00226/1949844 |access-date=2026-02-21 |website=docquery.fec.gov}}</ref>
+*Aldous Mina, economic development consultant and independent candidate for this seat in [[2020 United States Senate election in Virginia|2020]]<ref name="Staff"/>
+*[[Bryce Reeves]], [[Virginia Senate|state senator]] from [[Virginia's 28th Senate district|SD-28]] (2012–present)<ref name="Staff">{{Cite web |last=Staff |first=Cardinal |date=2025-12-28 |title=Reeves drops out of U.S. Senate race; Republicans left with three little-known contenders |url=https://cardinalnews.org/2025/12/28/reeves-drops-out-of-u-s-senate-race-republicans-left-with-three-little-known-contenders/ |access-date=2025-12-28 |website=Cardinal News |language=en-US}}</ref> ''(endorsed Mizusawa)''<ref name=Reeves/>
+*Chuck Smith, attorney, nominee for {{ushr|VA|3}} in [[2010 United States House of Representatives elections in Virginia#District 3|2010]], and [[perennial candidate]]<ref name="RPV">{{Cite web|title=Republican Party of Virginia Announces Candidates for U.S. Senate Primary|url=https://virginia.gop/republican-party-of-virginia-announces-candidates-for-u-s-senate-primary/|date=April 7, 2026|publisher=[[Republican Party of Virginia]]}}</ref>
+
+====Declined====
+*[[Jason Miyares]], former [[Virginia Attorney General|attorney general of Virginia]] (2022–2026)<ref>{{Cite web |last=Fahlberg |first=Audrey |date=2026-01-21 |title=Exclusive: Virginia’s Outgoing GOP Attorney General Jason Miyares Hints at 2029 Gubernatorial Run |url=https://www.nationalreview.com/news/exclusive-virginias-outgoing-gop-attorney-general-jason-miyares-hints-at-2029-gubernatorial-run/ |access-date=2026-01-21 |website=National Review}}</ref>
+*[[Glenn Youngkin]], former [[governor of Virginia]] (2022–2026)<ref>{{Cite web |last=Parks |first=Molly |date=November 26, 2025 |title=Youngkin rules out Senate run but leaves door open for presidential bid |url=https://www.washingtonexaminer.com/news/campaigns/congressional/3899951/glenn-youngkin-rules-out-senate-run-leaves-door-open-presidential-bid/ |access-date=November 26, 2025 |website=[[Washington Examiner]]}}</ref>
+
+=== Endorsements ===
+{{Endorsements box
+|title=Bert Mizusawa
+|list=
+;U.S. representatives
+*[[Ben Cline]], [[Virginia's 6th congressional district|VA–06]] (2019–present)<ref>{{Cite news|last1=Stuart|first1=Bob|title=Valley Republicans break bread, get ready for November|url=https://www.nvdaily.com/nvdaily/valley-republicans-break-bread-get-ready-for-november/article_e86709a9-34e0-5520-b22d-5c82b4462331.html|date=July 20, 2026|access-date=July 24, 2026|publisher=The Northern Virginia Daily}}</ref>
+*[[Thelma Drake]], former [[Virginia's 2nd congressional district|VA–02]] (2005–2009)<ref name="Martz">{{Cite web|last1=Martz|first1=Michael|title=Va. Republicans to pick nominee to face Sen. Mark Warner|url=https://roanoke.com/news/state-regional/government-politics/article_bd90adbd-12ea-5faa-976c-39a2e6e0a93b.html|date=August 2, 2026|access-date=August 3, 2026|publisher=[[The Roanoke Times]]}}</ref>
+;State legislators
+*[[Luther Cifers]], [[Virginia's 10th Senate district|SD–10]] (2025–present)<ref name="Martz"/>
+*[[Mark Obenshain]], [[Virginia's 2nd Senate district|SD–02]] (2004–present)<ref name="Martz"/>
+*[[Bryce Reeves]], [[Virginia's 28th Senate district|SD–28]] (2012–present)<ref name=Reeves>{{cite web|author=Daily News Headlines|title=Three Fairfax Republicans competing in Aug 4 Republican Primary for the chance to unseat Mark Warner|url=https://shoredailynews.com/headlines/three-fairfax-republicans-competing-in-aug-4-republican-primary-for-the-chance-to-unseat-mark-warner/|date=July 17, 2026|access-date=July 24, 2026|publisher=Shore Daily News}}</ref>
+}}
+
+=== Fundraising ===
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of June 30, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|Kim Farington (R)
+|$148,369
+|$132,209
+|$16,159
+|-
+|{{party shading/Republican}}|Bert Mizusawa (R)
+|$376,213
+|$323,248
+|$52,964
+|-
+|{{party shading/Republican}}|''Bryce Reeves (R)''
+|$106,324
+|$106,324
+|$0
+|-
+|{{party shading/Republican}}|David Williams (R)
+|$97,044
+|$89,856
+|$7,187
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC1"/></small>
+|}
+
+===Polling===
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- style="vertical-align:bottom"
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|Key:<br />A – all adults<br />RV – registered voters<br />LV – likely voters<br />V – unclear|name="Key"}}
+! Margin<br />of error
+! style="width:65px;"| Kim  Farington
+! style="width:65px;"| Bert <br/>Mizusawa
+! style="width:65px;"| David <br/> Williams
+! Other
+! Undecided
+|-
+|style="text-align:left;" rowspan="2"|The Public Sentiment Institute<ref name="TPSI2">{{cite web|url=https://tpsiofficial.substack.com/p/tpsi-new-tpsi-senate-poll-confirms|title=TPSI - New TPSI Senate Poll Confirms Democratic Structural Advantage; With Shifts Worth Watching|date=May 5, 2026|access-date=July 12, 2026|work=The Public Sentiment Institute}}</ref>
+|rowspan="2"|June 12–16, 2026
+|326 (LV)
+|rowspan="2"|–
+|{{party shading/Republican}}| '''23%'''
+|16%
+|15%
+|1%{{efn|"Would not vote" with 1%}}
+|{{party shading/Undecided}}|'''45%'''
+|-
+|326 (RV)
+|{{party shading/Republican}}| '''22%'''
+|16%
+|16%
+|2%{{efn|"Would not vote" with 2%}}
+|{{party shading/Undecided}}|'''45%'''
+|-
+|style="text-align:left;" rowspan="2"|The Public Sentiment Institute/<br />Virginia Project (R)<ref name="TPSI">{{cite web|url=https://tpsiofficial.substack.com/p/the-virginia-project-the-public-sentiment|title=The Virginia Project / The Public Sentiment Institute - NEW Virginia Poll Shows Democrats' Advantage Across The State|date=May 5, 2026|access-date=May 6, 2026|work=The Public Sentiment Institute}}</ref>
+|rowspan="2"|May 1–5, 2026
+|382 (LV)
+|rowspan="2"|–
+|22%
+|{{party shading/Republican}}|'''24%'''
+|10%
+|4%{{efn|"Would not vote" with 4%}}
+|{{party shading/Undecided}}|'''40%'''
+|-
+|396 (RV)
+|20%
+|{{party shading/Republican}}|'''21%'''
+|11%
+|6%{{efn|"Would not vote" with 6%}}
+|{{party shading/Undecided}}|'''42%'''
+|}
+
+===Debates and forums===
+{| class="wikitable" style="text-align:center;"
+|+ 2026 Virginia Senate Republican Debate
+|-
+! scope="col" | {{abbr|No.|Number}}
+! scope="col" | Date
+! scope="col" | Host
+! scope="col" | Moderator
+! scope="col" | Link
+! scope="col"| <small>[[Republican Party (US)|Republican]]</small>
+! scope="col"| <small>[[Republican Party (US)|Republican]]</small>
+! scope="col"| <small>[[Republican Party (US)|Republican]]</small>
+|-
+! colspan="5" rowspan="2" |Key:<br />{{Colors|black|#90ff90|&nbsp;P&nbsp;}} <small>Participant&nbsp;</small> {{Colors|black|#FFFFDD|&nbsp;A&nbsp;}} <small>Absent&nbsp;</small> {{Colors|black|#ff9090|&nbsp;N&nbsp;}} <small>Not invited&nbsp;</small> {{Colors|black|#CCFFCC|&nbsp;I&nbsp;}} <small>Invited {{color box|#f0e68c|W}} Withdrawn</small>
+! scope="col" style="background:{{party color|Republican Party (US)}}"|
+! scope="col" style="background:{{party color|Republican Party (US)}}"|
+! scope="col" style="background:{{party color|Republican Party (US)}}"|
+|-
+! scope="col" | Farington
+! scope="col" | Mizusawa
+! scope="col" | Williams
+|-
+!1
+| style="white-space:nowrap;" | June 26, 2026
+| style="white-space:nowrap;" | [[Family Foundation of Virginia]]
+| style="white-space:nowrap;" | [[Chris Saxman]]
+| style="white-space:nowrap;" | [https://www.facebook.com/share/v/18f7cqad19/ Facebook]
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+|}
+
+===Results===
+[[File:2026 United States Senate Republican primary election in Virginia results map by county and independent city.svg|thumb|300px|Results by county and independent city:
+{{collapsible list
+| title = {{legend|#E27F7F|Mizusawa}}
+|{{legend|#FFC8CD|30–40%}}
+|{{legend|#FFB2B2|40–50%}}
+|{{legend|#E27F7F|50–60%}}
+|{{legend|#D75D5D|60–70%}}
+}}
+{{collapsible list
+| title = {{legend|#FF9A50|Williams}}
+|{{legend|#FFB580|40–50%}}
+}}
+]]
+{{Election box begin no change
+| title = Republican primary results<ref>{{Cite web|title=Virginia {{!}} 2026 August Republican Primary|date=August 4, 2026|url=https://enr.elections.virginia.gov/results/public/virginia/elections/2026-August-Republican-Primary|access-date=August 5, 2026|publisher=[[Virginia Department of Elections]]}}</ref>
+}}
+{{Election box winning candidate with party link no change
+| candidate = [[Bert Mizusawa]]
+| party = Republican Party (United States)
+| votes = 124,271
+| percentage = 51.5
+}}
+{{Election box candidate with party link no change
+| candidate = David Williams
+| party = Republican Party (United States)
+| votes = 69,725
+| percentage = 28.9
+}}
+{{Election box candidate with party link no change
+| candidate = Kim Farington
+| party = Republican Party (United States)
+| votes = 47,357
+| percentage = 19.6
+}}
+{{Election box total no change
+| votes = 241,353
+| percentage = 100.0
+}}
+{{Election box end}}
+
+==Independents==
+===Candidates===
+====Withdrawn====
+*Mark Moran, former investment banker and reality TV star (previously ran as a Democrat)<ref name="Iafrate"/><ref name="mn"/> ''(running for Fairfax County Commonwealth’s Attorney)''<ref>{{Cite web |last=Senate |first=Mark Moran for |title=Mark Moran — Wall Street. HBO Max. Went Viral. Now Fixing Virginia. |url=https://www.runwithmoran.com/ |access-date=2026-07-08 |website=Mark Moran for U.S. Senate |language=en}}</ref><ref>{{Cite web |title=MSN |url=https://www.msn.com/en-us/politics/government/exclusive-ex-fboy-island-star-mark-moran-drops-virginia-senate-bid-sets-eyes-on-soros-backed-da/ar-AA25UpkK |access-date=2026-07-08 |website=www.msn.com}}</ref>
+
+== General election ==
+===Campaign===
+Two proposed debates were canceled, with the Warner campaign's noncommittal stance cited as the reason for both cancellations. On September 8, [[AARP]] announced that "The People's Debate," scheduled for October 7 in [[Richmond, Virginia|Richmond]], had been canceled.<ref>{{Cite web|last1=Beyer|first1=Elizabeth|title=Warner and Mizusawa may not debate in 2026 Senate race|url=https://cardinalnews.org/2026/09/10/warner-and-mizusawa-may-not-debate-in-2026-senate-race/|date=September 10, 2026|access-date=September 23, 2026|website=Cardinal news}}</ref> A week later, on September 15, the [[League of Women Voters]] also announced the cancellation of its proposed debate planned for the first week of October.<ref>{{Cite web|last1=Englander|first1=Tyler|title=Another Virginia Senate debate canceled, then things get complicated|url=https://www.wric.com/news/politics/capitol-connection/va-senate-debate-canceled-warner-mizusawa/|date=September 15, 2026|access-date=September 23, 2026|website=[[WRIC-TV]]}}</ref>
+
+=== Predictions ===
+{| class="wikitable" style=text-align:center
+!Source
+!Ranking
+!As of
+|-
+|align="left"|''[[The Cook Political Report]]''<ref>{{Cite web|title=2026 CPR Senate Race Ratings|url=https://www.cookpolitical.com/ratings/senate-race-ratings|access-date=October 7, 2026|website=[[Cook Political Report]]}}</ref>
+|{{USRaceRating|Solid|D}}
+|October 6, 2026
+|-
+|align="left"|[[Decision Desk HQ]]<ref>{{cite web|title=2026 Senate Ratings|url=https://votes.decisiondeskhq.com/forecast/2026/senate|url-access=registration|publisher=[[Decision Desk HQ]]|access-date=October 7, 2026}}</ref>
+|{{USRaceRating|Safe|D}}
+|October 7, 2026
+|-
+|align="left"|''[[The Economist]]''<ref>{{Cite web|title=2026 Senate Forecast|url=https://www.economist.com/interactive/2026/us-midterms/prediction-model/senate/|access-date=October 7, 2026|website=[[The Economist]]}}</ref>{{efn|''The Economist''{{'}}s prediction model uses unconventional terminology. For the purpose of equivalency, their "Very Likely" ratings are formatted as a "Likely" rating while "Likely" ratings are formatted as a "Lean" rating.}}
+|{{USRaceRating|Safe|D}}
+|October 7, 2026
+|-
+|align="left"|[[FiftyPlusOne]]<ref>{{Cite web |title=2026 Congressional Forecast |url=https://fiftyplusone.news/forecast/senate |access-date=October 7, 2026 |website=[[FiftyPlusOne]]}}</ref>
+|{{USRaceRating|Safe|D}}
+|October 7, 2026
+|-
+|align="left"|[[Fox News]]<ref>{{Cite news |last=Numa |first=Rémy |title=Fox News Power Rankings: The biggest surprises come after October |url=https://www.foxnews.com/politics/fox-news-power-rankings-the-biggest-surprises-come-after-october |work=[[Fox News]] |date=October 6, 2026 |access-date=October 7, 2026}}</ref>
+|{{USRaceRating|Solid|D}}
+|October 6, 2026
+|-
+|align="left"|''[[Inside Elections]]''<ref>{{Cite web|title=Senate Ratings|url=https://www.insideelections.com/ratings/senate|access-date=October 7, 2026|website=[[Inside Elections]]}}</ref>
+|{{USRaceRating|Solid|D}}
+|October 1, 2026
+|-
+|align="left"|[[RealClearPolitics]]<ref>{{Cite web|url=https://www.realclearpolling.com/maps/senate/2026/toss-up|title=Battle for the Senate 2026|access-date=October 7, 2026|website=[[RealClearPolitics]]}}</ref>
+|{{USRaceRating|Solid|D}}
+|October 5, 2026
+|-
+|align="left"|''[[Sabato's Crystal Ball]]''<ref>{{cite web|title=2026 Senate ratings|url=https://centerforpolitics.org/crystalball/2026-senate/|website=[[Sabato's Crystal Ball]]|access-date=October 7, 2026}}</ref>
+|{{USRaceRating|Safe|D}}
+|October 6, 2026
+|-
+|align="left"|''[[Silver Bulletin]]''<ref name="Silver">{{Cite web |url=https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model |title=FLIPR 2026 midterm election forecast |last1=Silver |first1=Nate |author1-link=Nate Silver |last2=McKown-Dawson |first2=Eli |website=[[Silver Bulletin]] |via=[[Substack]] |date=October 7, 2026 |orig-date=August 11, 2026 |access-date=October 7, 2026 |url-access=subscription}}</ref>
+|{{USRaceRating|Solid|D}}
+|October 7, 2026
+|-
+|align="left"|[[Split Ticket (website)|Split Ticket]]<ref>{{Cite magazine |title=Split Ticket 2026 Midterms Model |url=https://www.theargumentmag.com/p/split-ticket-2026-midterms-model |magazine=[[The Argument (magazine)|The Argument]] |via=[[Substack]] |access-date=October 7, 2026}}</ref>
+|{{USRaceRating|Safe|D}}
+|October 7, 2026
+|}
+
+===Fundraising===
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of July 15, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|Mark Warner (D)
+|$25,160,577
+|$9,434,262
+|$16,114,725
+|-
+|{{party shading/Republican}}|Bert Mizusawa (R)
+|$376,213
+|$323,248
+|$52,964
+|-
+!colspan="4"|<small>Source: [[Federal Election Commission]]<ref name="FEC">{{cite web|title=2026 Election United States Senate - Virginia|url=https://www.fec.gov/data/elections/senate/VA/2026/|publisher=[[Federal Election Commission]]|access-date=August 5, 2026}}</ref></small>
+|}
+
+===Post-primary endorsements===
+{{Endorsements box
+|title=Mark Warner (D)
+|list =
+;U.S. Representatives
+*[[Barbara Comstock]], former U.S. Representative for Virginia's [[Virginia's 10th congressional district|10th district]] (2015–2019) ''(Republican)''<ref name="fr"/>
+*[[Denver Riggleman]], former U.S. Representative for Virginia's [[Virginia's 5th congressional district|5th district]] (2019–2021) ''(Independent; elected as a Republican)''<ref name="fr"/>
+
+;State legislators
+*[[Tommy Norment]], former [[Virginia Senate]] Republican caucus leader (2012–2024) from the [[Virginia's 3rd Senate district|3rd district]] (1992–2024) ''(Republican)''<ref name="fr">{{Cite web|last1=Martz|first1=Michael|title=Former Republican Senate leader endorses Sen. Mark Warner|url=https://richmond.com/news/state-regional/government-politics/elections/article_9612fd92-212f-485f-b01e-f0530fb5efbe.html|date=October 7, 2026|website=[[Richmond Times-Dispatch]]}}</ref>
+*[[Ken Stolle]], former State Senator from the [[Virginia's 8th Senate district|8th district]] (1992–2010) ''(Republican)''<ref name="fr"/>
+*[[John Watkins (Virginia politician, born 1947)|John Watkins]], former State Senator from the [[Virginia's 10th Senate district|10th district]] (1998–2016) ''(Republican)''<ref name="fr"/>
+}}
+
+===Polling===
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"}}
+! Margin<br />of error
+! style="width:100px;"| Mark<br />Warner (D)
+! style="width:100px;"| Bert<br />Mizusawa (R)
+! style="width:100px;"| Other
+! Undecided
+|-
+|- style="background:lightyellow;"
+| style="border-right-style:hidden; background:lightyellow;" |
+| style="border-right-style:hidden; " | August 4, 2026
+| colspan="16"| Primary elections
+|-
+|style=text-align:left|The Public Sentiment Institute<ref name="TPSI2"/>
+|June 12–16, 2026
+|996 (LV)
+|±&nbsp;3.7%
+|{{party shading/Democratic}}|'''51%'''
+|33%
+|3%{{efn|"Mark Moran (I)" with 3%}}
+|14%
+|-
+|style=text-align:left|The Public Sentiment Institute/<br />Virginia Project (R)<ref name="TPSI"/>
+|May 1–5, 2026
+|1,047 (LV)
+|±&nbsp;3.7%
+|{{party shading/Democratic}}|'''55%'''
+|29%
+|3%{{efn|"Mark Moran (I)" with 3%}}
+|14%
+|}
+
+<!-- = = = don't edit the line below = = = -->
+{{hidden begin|titlestyle=background:#cff|title=Hypothetical polling|contentstyle=border:solid 1px silver; padding:8px; background:var(--background-color-base); color:var(--color-base);}}
+<!-- = = = don't edit the line above = = = -->
+'''Mark Warner vs. Kim Farington'''
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"|Key:<br />A – all adults<br />RV – registered voters<br />LV – likely voters<br />V – unclear}}
+! Margin<br />of error
+! style="width:75px;"| Mark<br />Warner (D)
+! style="width:75px;"| Kim<br />Farington (R)
+! style="width:75px;"| Mark<br /> Moran (I)
+! Undecided
+|-
+|- style="background:lightyellow;"
+| style="border-right-style:hidden; background:lightyellow;" |
+| style="border-right-style:hidden; " | June 17, 2026
+| colspan="10" | Moran withdraws from the race
+|-
+|style=text-align:left|The Public Sentiment Institute<ref name="TPSI2"/>
+|June 12–16, 2026
+|996 (LV)
+|±&nbsp;3.7%
+|{{party shading/Democratic}}|'''51%'''
+|33%
+|3%
+|13%
+|-
+|style=text-align:left|The Public Sentiment Institute/<br />Virginia Project (R)<ref name="TPSI"/>
+|May 1–5, 2026
+|1,047 (LV)
+|±&nbsp;3.7%
+|{{party shading/Democratic}}|'''54%'''
+|29%
+|2%
+|14%
+|}
+
+'''Mark Warner vs. David Williams'''
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"}}
+! Margin<br />of error
+! style="width:75px;"| Mark<br />Warner (D)
+! style="width:75px;"| David<br />Williams (R)
+! style="width:75px;"| Mark<br /> Moran (I)
+! Undecided
+|-
+|- style="background:lightyellow;"
+| style="border-right-style:hidden; background:lightyellow;" |
+| style="border-right-style:hidden; " | June 17, 2026
+| colspan="10" | Moran withdraws from the race
+|-
+|style=text-align:left|The Public Sentiment Institute<ref name="TPSI2"/>
+|June 12–16, 2026
+|996 (LV)
+|±&nbsp;3.7%
+|{{party shading/Democratic}}|'''51%'''
+|33%
+|3%
+|13%
+|-
+|style=text-align:left|The Public Sentiment Institute/<br />Virginia Project (R)<ref name="TPSI"/>
+|May 1–5, 2026
+|1,047 (LV)
+|±&nbsp;3.7%
+|{{party shading/Democratic}}|'''54%'''
+|29%
+|3%
+|14%
+|}
+
+'''Mark Warner vs. Glenn Youngkin'''
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"|Key:<br />A – all adults<br />RV – registered voters<br />LV – likely voters<br />V – unclear}}
+! Margin<br />of error
+! style="width:75px;"| Mark<br />Warner (D)
+! style="width:75px;"| Glenn<br />Youngkin (R)
+! Undecided
+|-
+|style=text-align:left|[[Virginia Commonwealth University]]<ref>{{Cite web|url=https://wilder.vcu.edu/news-and-events/news-posts/commonwealth-poll-virginians-overwhelmingly-concerned-about-cost-of-living.html|title=Commonwealth Poll: Virginians overwhelmingly concerned about cost of living|first=Robyn|last=McDougle|website=Virginia Commonwealth University|date=January 24, 2025|access-date=April 28, 2025}}</ref>
+|December 18, 2024 – January 15, 2025
+|806 (A)
+|±&nbsp;4.7%
+|{{party shading/Democratic}}|'''45%'''
+|38%
+|17%
+|}
+{{hidden end}}
+
+=== Results ===
+{{Election box begin
+ | title      = 2026 United States Senate election in Virginia}}
+{{Election box candidate with party link
+ | party      = Democratic Party (United States)
+ | candidate  = [[Mark Warner]] (incumbent)
+ | votes      = 
+ | percentage = 
+ | change     = 
+}}
+{{Election box candidate with party link|party=Republican Party (United States)|candidate=[[Bert Mizusawa]]|votes=|percentage=|change=}}
+{{Election box write-in with party link
+ | votes      = 
+ | percentage = 
+ | change     =
+}}
+{{Election box total
+ | votes      =
+ | percentage = 100.0%
+ | change = 
+}}
+{{Election box end}}
+
+== See also ==
+*[[2026 United States elections]]
+*[[2026 Virginia elections]]
+*[[2026 United States House of Representatives elections in Virginia]]
+
+== Notes ==
+{{notelist}}
+
+== References ==
+{{reflist}}
+
+== External links ==
+'''Official campaign websites'''
+*[https://bertforsenate.com/ Bert Mizusawa (R)]
+*[https://www.markwarnerva.com/ Mark Warner (D)]
+
+{{2026 United States elections}}
+
+[[Category:United States Senate elections in Virginia|2026]]
+[[Category:2026 United States Senate elections|Virginia]]
+[[Category:2026 Virginia elections|United States Senate]]

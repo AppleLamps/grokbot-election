@@ -1,0 +1,911 @@
+{
+ "title": "Apple Lamps Grok Bot Election Analysis and Prediction",
+ "as_of": "2026-10-10",
+ "generic_ballot_d": 8.4,
+ "generic_ballot_as_of": "2026-10-09",
+ "baseline": {
+  "senate": {
+   "R": 53,
+   "D": 45,
+   "I": 2,
+   "up": 35
+  },
+  "house": {
+   "R": 218,
+   "D": 214
+  }
+ },
+ "scenarios": [
+  {
+   "key": "unbiased",
+   "short": "i",
+   "label": "Polls unbiased",
+   "model_label": "(i) Polls unbiased",
+   "description": "Polling error centered on zero (mean 0, sd 3 pts).",
+   "bias_mean": 0.0,
+   "bias_sd": 3.0,
+   "sims": 100000,
+   "senate": {
+    "p_D": 0.67941,
+    "p_R": 0.31126,
+    "p_none": 0.00933000000000006,
+    "D_mean": 51.72789,
+    "D_p10": 48,
+    "D_p90": 55,
+    "R_mean": 48.13877,
+    "R_p10": 45,
+    "R_p90": 52,
+    "tipping": [
+     [
+      "AK",
+      0.102
+     ],
+     [
+      "TX",
+      0.099
+     ],
+     [
+      "OH",
+      0.098
+     ],
+     [
+      "ME",
+      0.096
+     ],
+     [
+      "IA",
+      0.096
+     ]
+    ]
+   },
+   "house": {
+    "p_D": 0.92974,
+    "p_R": 0.07025999999999999,
+    "D_mean": 235.08217,
+    "D_median": 234,
+    "D_p10": 219,
+    "D_p90": 252,
+    "tipping": [
+     [
+      "CO-8",
+      0.021
+     ],
+     [
+      "NJ-7",
+      0.021
+     ],
+     [
+      "AZ-6",
+      0.021
+     ],
+     [
+      "MI-7",
+      0.02
+     ],
+     [
+      "PA-7",
+      0.02
+     ]
+    ]
+   }
+  },
+  {
+   "key": "pres_style_D_overstatement",
+   "short": "ii",
+   "label": "Polls overstate Dems +3",
+   "model_label": "(ii) Presidential-style miss: polls overstate D by 3",
+   "description": "Like 2016/2020/2024: polls overstate Democrats by 3 pts on average (sd 3).",
+   "bias_mean": 3.0,
+   "bias_sd": 3.0,
+   "sims": 100000,
+   "senate": {
+    "p_D": 0.34545,
+    "p_R": 0.64591,
+    "p_none": 0.008640000000000037,
+    "D_mean": 49.28961,
+    "D_p10": 46,
+    "D_p90": 53,
+    "R_mean": 50.64388,
+    "R_p10": 47,
+    "R_p90": 54,
+    "tipping": [
+     [
+      "AK",
+      0.102
+     ],
+     [
+      "TX",
+      0.099
+     ],
+     [
+      "OH",
+      0.098
+     ],
+     [
+      "ME",
+      0.096
+     ],
+     [
+      "IA",
+      0.096
+     ]
+    ]
+   },
+   "house": {
+    "p_D": 0.70151,
+    "p_R": 0.29849000000000003,
+    "D_mean": 223.772,
+    "D_median": 223,
+    "D_p10": 210,
+    "D_p90": 238,
+    "tipping": [
+     [
+      "TX-28",
+      0.021
+     ],
+     [
+      "PA-7",
+      0.02
+     ],
+     [
+      "TX-34",
+      0.02
+     ],
+     [
+      "FL-25",
+      0.02
+     ],
+     [
+      "CO-8",
+      0.02
+     ]
+    ]
+   }
+  },
+  {
+   "key": "r_overstatement_2025",
+   "short": "iii",
+   "label": "Polls overstate Reps +6",
+   "model_label": "(iii) 2025-style miss: polls overstate R by 6",
+   "description": "Like the 2025 off-year elections: polls overstate Republicans by 6 pts on average (sd 3).",
+   "bias_mean": -6.0,
+   "bias_sd": 3.0,
+   "sims": 100000,
+   "senate": {
+    "p_D": 0.98661,
+    "p_R": 0.0123,
+    "p_none": 0.0010900000000000354,
+    "D_mean": 55.59297,
+    "D_p10": 53,
+    "D_p90": 58,
+    "R_mean": 44.09364,
+    "R_p10": 42,
+    "R_p90": 47,
+    "tipping": [
+     [
+      "AK",
+      0.102
+     ],
+     [
+      "TX",
+      0.099
+     ],
+     [
+      "OH",
+      0.098
+     ],
+     [
+      "ME",
+      0.096
+     ],
+     [
+      "IA",
+      0.096
+     ]
+    ]
+   },
+   "house": {
+    "p_D": 0.99962,
+    "p_R": 0.00038000000000004697,
+    "D_mean": 263.62829,
+    "D_median": 263,
+    "D_p10": 242,
+    "D_p90": 287,
+    "tipping": [
+     [
+      "FL-14",
+      0.021
+     ],
+     [
+      "NJ-7",
+      0.021
+     ],
+     [
+      "FL-25",
+      0.02
+     ],
+     [
+      "TX-28",
+      0.02
+     ],
+     [
+      "CO-8",
+      0.02
+     ]
+    ]
+   }
+  }
+ ],
+ "senate_races": [
+  {
+   "state": "MA",
+   "state_name": "Massachusetts",
+   "seat": "regular",
+   "holder": "D",
+   "dem_side_candidate": "Ed Markey",
+   "dem_side_party": "D",
+   "rep_candidate": "John Deaton",
+   "pvi_d": 14.0,
+   "poll_margin_d": null,
+   "poll_sources": 0,
+   "est_margin": 39.4,
+   "tipping_freq": 0.0,
+   "p_dem": {
+    "unbiased": 1.0,
+    "pres_style_D_overstatement": 1.0,
+    "r_overstatement_2025": 1.0
+   }
+  },
+  {
+   "state": "OR",
+   "state_name": "Oregon",
+   "seat": "regular",
+   "holder": "D",
+   "dem_side_candidate": "Jeff Merkley",
+   "dem_side_party": "D",
+   "rep_candidate": "David Brock Smith",
+   "pvi_d": 8.0,
+   "poll_margin_d": null,
+   "poll_sources": 0,
+   "est_margin": 27.4,
+   "tipping_freq": 0.00011,
+   "p_dem": {
+    "unbiased": 0.99981,
+    "pres_style_D_overstatement": 0.99907,
+    "r_overstatement_2025": 0.99999
+   }
+  },
+  {
+   "state": "RI",
+   "state_name": "Rhode Island",
+   "seat": "regular",
+   "holder": "D",
+   "dem_side_candidate": "Jack Reed",
+   "dem_side_party": "D",
+   "rep_candidate": "Raymond McKay",
+   "pvi_d": 8.0,
+   "poll_margin_d": null,
+   "poll_sources": 0,
+   "est_margin": 27.4,
+   "tipping_freq": 0.00013,
+   "p_dem": {
+    "unbiased": 0.99975,
+    "pres_style_D_overstatement": 0.99891,
+    "r_overstatement_2025": 0.99998
+   }
+  },
+  {
+   "state": "DE",
+   "state_name": "Delaware",
+   "seat": "regular",
+   "holder": "D",
+   "dem_side_candidate": "Chris Coons",
+   "dem_side_party": "D",
+   "rep_candidate": "Michael Katz",
+   "pvi_d": 8.0,
+   "poll_margin_d": null,
+   "poll_sources": 0,
+   "est_margin": 27.4,
+   "tipping_freq": 9e-05,
+   "p_dem": {
+    "unbiased": 0.99972,
+    "pres_style_D_overstatement": 0.99907,
+    "r_overstatement_2025": 0.99998
+   }
+  },
+  {
+   "state": "CO",
+   "state_name": "Colorado",
+   "seat": "regular",
+   "holder": "D",
+   "dem_side_candidate": "John Hickenlooper",
+   "dem_side_party": "D",
+   "rep_candidate": "Mark Baisley",
+   "pvi_d": 6.0,
+   "poll_margin_d": null,
+   "poll_sources": 0,
+   "est_margin": 23.4,
+   "tipping_freq": 0.0006,
+   "p_dem": {
+    "unbiased": 0.99857,
+    "pres_style_D_overstatement": 0.99546,
+    "r_overstatement_2025": 0.99985
+   }
+  },
+  {
+   "state": "NM",
+   "state_name": "New Mexico",
+   "seat": "regular",
+   "holder": "D",
+   "dem_side_candidate": "Ben Ray Lujan",
+   "dem_side_party": "D",
+   "rep_candidate": "Larry Marker",
+   "pvi_d": 4.0,
+   "poll_margin_d": 16.5,
+   "poll_sources": 2,
+   "est_margin": 17.66,
+   "tipping_freq": 0.00114,
+   "p_dem": {
+    "unbiased": 0.99814,
+    "pres_style_D_overstatement": 0.99102,
+    "r_overstatement_2025": 0.99996
+   }
+  },
+  {
+   "state": "IL",
+   "state_name": "Illinois",
+   "seat": "regular",
+   "holder": "D",
+   "dem_side_candidate": "Juliana Stratton",
+   "dem_side_party": "D",
+   "rep_candidate": "Don Tracy",
+   "pvi_d": 6.0,
+   "poll_margin_d": null,
+   "poll_sources": 0,
+   "est_margin": 20.4,
+   "tipping_freq": 0.00231,
+   "p_dem": {
+    "unbiased": 0.99513,
+    "pres_style_D_overstatement": 0.98632,
+    "r_overstatement_2025": 0.99957
+   }
+  },
+  {
+   "state": "VA",
+   "state_name": "Virginia",
+   "seat": "regular",
+   "holder": "D",
+   "dem_side_candidate": "Mark Warner",
+   "dem_side_party": "D",
+   "rep_candidate": "Bert Mizusawa",
+   "pvi_d": 3.0,
+   "poll_margin_d": 18.0,
+   "poll_sources": 1,
+   "est_margin": 17.61,
+   "tipping_freq": 0.00302,
+   "p_dem": {
+    "unbiased": 0.99408,
+    "pres_style_D_overstatement": 0.98186,
+    "r_overstatement_2025": 0.99968
+   }
+  },
+  {
+   "state": "NJ",
+   "state_name": "New Jersey",
+   "seat": "regular",
+   "holder": "D",
+   "dem_side_candidate": "Cory Booker",
+   "dem_side_party": "D",
+   "rep_candidate": "Justin Murphy",
+   "pvi_d": 4.0,
+   "poll_margin_d": null,
+   "poll_sources": 0,
+   "est_margin": 19.4,
+   "tipping_freq": 0.00298,
+   "p_dem": {
+    "unbiased": 0.99303,
+    "pres_style_D_overstatement": 0.98187,
+    "r_overstatement_2025": 0.99939
+   }
+  },
+  {
+   "state": "NC",
+   "state_name": "North Carolina",
+   "seat": "regular",
+   "holder": "R",
+   "dem_side_candidate": "Roy Cooper",
+   "dem_side_party": "D",
+   "rep_candidate": "Michael Whatley",
+   "pvi_d": -1.0,
+   "poll_margin_d": 9.2,
+   "poll_sources": 5,
+   "est_margin": 8.78,
+   "tipping_freq": 0.02693,
+   "p_dem": {
+    "unbiased": 0.94776,
+    "pres_style_D_overstatement": 0.85642,
+    "r_overstatement_2025": 0.99689
+   }
+  },
+  {
+   "state": "GA",
+   "state_name": "Georgia",
+   "seat": "regular",
+   "holder": "D",
+   "dem_side_candidate": "Jon Ossoff",
+   "dem_side_party": "D",
+   "rep_candidate": "Mike Collins",
+   "pvi_d": -1.0,
+   "poll_margin_d": 8.3,
+   "poll_sources": 5,
+   "est_margin": 8.465,
+   "tipping_freq": 0.03042,
+   "p_dem": {
+    "unbiased": 0.94289,
+    "pres_style_D_overstatement": 0.84347,
+    "r_overstatement_2025": 0.99636
+   }
+  },
+  {
+   "state": "NH",
+   "state_name": "New Hampshire",
+   "seat": "regular",
+   "holder": "D",
+   "dem_side_candidate": "Chris Pappas",
+   "dem_side_party": "D",
+   "rep_candidate": "John E. Sununu",
+   "pvi_d": 2.0,
+   "poll_margin_d": 6.5,
+   "poll_sources": 5,
+   "est_margin": 7.385,
+   "tipping_freq": 0.04172,
+   "p_dem": {
+    "unbiased": 0.91474,
+    "pres_style_D_overstatement": 0.79229,
+    "r_overstatement_2025": 0.99424
+   }
+  },
+  {
+   "state": "MN",
+   "state_name": "Minnesota",
+   "seat": "regular",
+   "holder": "D",
+   "dem_side_candidate": "Peggy Flanagan",
+   "dem_side_party": "D",
+   "rep_candidate": "Michele Tafoya",
+   "pvi_d": 3.0,
+   "poll_margin_d": 2.9,
+   "poll_sources": 5,
+   "est_margin": 4.625,
+   "tipping_freq": 0.07775,
+   "p_dem": {
+    "unbiased": 0.80516,
+    "pres_style_D_overstatement": 0.619,
+    "r_overstatement_2025": 0.97638
+   }
+  },
+  {
+   "state": "MI",
+   "state_name": "Michigan",
+   "seat": "regular",
+   "holder": "D",
+   "dem_side_candidate": "Abdul El-Sayed",
+   "dem_side_party": "D",
+   "rep_candidate": "Mike Rogers",
+   "pvi_d": 0.0,
+   "poll_margin_d": 3.3,
+   "poll_sources": 5,
+   "est_margin": 4.065,
+   "tipping_freq": 0.08562,
+   "p_dem": {
+    "unbiased": 0.77358,
+    "pres_style_D_overstatement": 0.57833,
+    "r_overstatement_2025": 0.96897
+   }
+  },
+  {
+   "state": "ME",
+   "state_name": "Maine",
+   "seat": "regular",
+   "holder": "R",
+   "dem_side_candidate": "Troy Jackson",
+   "dem_side_party": "D",
+   "rep_candidate": "Susan Collins",
+   "pvi_d": 4.0,
+   "poll_margin_d": 2.0,
+   "poll_sources": 5,
+   "est_margin": 2.6,
+   "tipping_freq": 0.09584,
+   "p_dem": {
+    "unbiased": 0.68667,
+    "pres_style_D_overstatement": 0.46997,
+    "r_overstatement_2025": 0.94596
+   }
+  },
+  {
+   "state": "OH",
+   "state_name": "Ohio",
+   "seat": "special",
+   "holder": "R",
+   "dem_side_candidate": "Sherrod Brown",
+   "dem_side_party": "D",
+   "rep_candidate": "Jon Husted",
+   "pvi_d": -5.0,
+   "poll_margin_d": 3.5,
+   "poll_sources": 5,
+   "est_margin": 2.51,
+   "tipping_freq": 0.09757,
+   "p_dem": {
+    "unbiased": 0.68032,
+    "pres_style_D_overstatement": 0.46536,
+    "r_overstatement_2025": 0.9433
+   }
+  },
+  {
+   "state": "TX",
+   "state_name": "Texas",
+   "seat": "regular",
+   "holder": "R",
+   "dem_side_candidate": "James Talarico",
+   "dem_side_party": "D",
+   "rep_candidate": "Ken Paxton",
+   "pvi_d": -6.0,
+   "poll_margin_d": 3.3,
+   "poll_sources": 6,
+   "est_margin": 2.265,
+   "tipping_freq": 0.09889,
+   "p_dem": {
+    "unbiased": 0.66267,
+    "pres_style_D_overstatement": 0.44568,
+    "r_overstatement_2025": 0.9381
+   }
+  },
+  {
+   "state": "AK",
+   "state_name": "Alaska",
+   "seat": "regular",
+   "holder": "R",
+   "dem_side_candidate": "Mary Peltola",
+   "dem_side_party": "D",
+   "rep_candidate": "Dan Sullivan",
+   "pvi_d": -6.0,
+   "poll_margin_d": 2.4,
+   "poll_sources": 4,
+   "est_margin": 1.83,
+   "tipping_freq": 0.10153,
+   "p_dem": {
+    "unbiased": 0.63238,
+    "pres_style_D_overstatement": 0.41251,
+    "r_overstatement_2025": 0.9273
+   }
+  },
+  {
+   "state": "IA",
+   "state_name": "Iowa",
+   "seat": "regular",
+   "holder": "R",
+   "dem_side_candidate": "Josh Turek",
+   "dem_side_party": "D",
+   "rep_candidate": "Ashley Hinson",
+   "pvi_d": -6.0,
+   "poll_margin_d": 1.1,
+   "poll_sources": 5,
+   "est_margin": 0.395,
+   "tipping_freq": 0.09576,
+   "p_dem": {
+    "unbiased": 0.52754,
+    "pres_style_D_overstatement": 0.31264,
+    "r_overstatement_2025": 0.8831
+   }
+  },
+  {
+   "state": "KS",
+   "state_name": "Kansas",
+   "seat": "regular",
+   "holder": "R",
+   "dem_side_candidate": "Adam Hamilton",
+   "dem_side_party": "D",
+   "rep_candidate": "Roger Marshall",
+   "pvi_d": -8.0,
+   "poll_margin_d": 0.6,
+   "poll_sources": 5,
+   "est_margin": -1.08,
+   "tipping_freq": 0.07959,
+   "p_dem": {
+    "unbiased": 0.41943,
+    "pres_style_D_overstatement": 0.22494,
+    "r_overstatement_2025": 0.81974
+   }
+  },
+  {
+   "state": "NE",
+   "state_name": "Nebraska",
+   "seat": "regular",
+   "holder": "R",
+   "dem_side_candidate": "Dan Osborn",
+   "dem_side_party": "I",
+   "rep_candidate": "Pete Ricketts",
+   "pvi_d": -10.0,
+   "poll_margin_d": -0.9,
+   "poll_sources": 3,
+   "est_margin": -2.6,
+   "tipping_freq": 0.05983,
+   "p_dem": {
+    "unbiased": 0.32727,
+    "pres_style_D_overstatement": 0.16449,
+    "r_overstatement_2025": 0.722
+   }
+  },
+  {
+   "state": "SC",
+   "state_name": "South Carolina",
+   "seat": "regular",
+   "holder": "R",
+   "dem_side_candidate": "Annie Andrews",
+   "dem_side_party": "D",
+   "rep_candidate": "Darline Graham",
+   "pvi_d": -8.0,
+   "poll_margin_d": -1.6,
+   "poll_sources": 5,
+   "est_margin": -2.725,
+   "tipping_freq": 0.05862,
+   "p_dem": {
+    "unbiased": 0.30694,
+    "pres_style_D_overstatement": 0.14361,
+    "r_overstatement_2025": 0.72858
+   }
+  },
+  {
+   "state": "FL",
+   "state_name": "Florida",
+   "seat": "special",
+   "holder": "R",
+   "dem_side_candidate": "Angie Nixon",
+   "dem_side_party": "D",
+   "rep_candidate": "Ashley Moody",
+   "pvi_d": -5.0,
+   "poll_margin_d": -6.1,
+   "poll_sources": 5,
+   "est_margin": -5.65,
+   "tipping_freq": 0.02437,
+   "p_dem": {
+    "unbiased": 0.14839,
+    "pres_style_D_overstatement": 0.05455,
+    "r_overstatement_2025": 0.52501
+   }
+  },
+  {
+   "state": "LA",
+   "state_name": "Louisiana",
+   "seat": "regular",
+   "holder": "R",
+   "dem_side_candidate": "Jamie Davis",
+   "dem_side_party": "D",
+   "rep_candidate": "Julia Letlow",
+   "pvi_d": -11.0,
+   "poll_margin_d": -5.8,
+   "poll_sources": 1,
+   "est_margin": -10.87,
+   "tipping_freq": 0.0092,
+   "p_dem": {
+    "unbiased": 0.06147,
+    "pres_style_D_overstatement": 0.02439,
+    "r_overstatement_2025": 0.24354
+   }
+  },
+  {
+   "state": "MS",
+   "state_name": "Mississippi",
+   "seat": "regular",
+   "holder": "R",
+   "dem_side_candidate": "Scott Colom",
+   "dem_side_party": "D",
+   "rep_candidate": "Cindy Hyde-Smith",
+   "pvi_d": -11.0,
+   "poll_margin_d": -6.0,
+   "poll_sources": 1,
+   "est_margin": -12.89,
+   "tipping_freq": 0.00446,
+   "p_dem": {
+    "unbiased": 0.03264,
+    "pres_style_D_overstatement": 0.01157,
+    "r_overstatement_2025": 0.16239
+   }
+  },
+  {
+   "state": "KY",
+   "state_name": "Kentucky",
+   "seat": "regular",
+   "holder": "R",
+   "dem_side_candidate": "Charles Booker",
+   "dem_side_party": "D",
+   "rep_candidate": "Andy Barr",
+   "pvi_d": -15.0,
+   "poll_margin_d": null,
+   "poll_sources": 0,
+   "est_margin": -21.6,
+   "tipping_freq": 0.00042,
+   "p_dem": {
+    "unbiased": 0.00339,
+    "pres_style_D_overstatement": 0.00094,
+    "r_overstatement_2025": 0.02308
+   }
+  },
+  {
+   "state": "AL",
+   "state_name": "Alabama",
+   "seat": "regular",
+   "holder": "R",
+   "dem_side_candidate": "Everett Wess",
+   "dem_side_party": "D",
+   "rep_candidate": "Barry Moore",
+   "pvi_d": -15.0,
+   "poll_margin_d": null,
+   "poll_sources": 0,
+   "est_margin": -21.6,
+   "tipping_freq": 0.00034,
+   "p_dem": {
+    "unbiased": 0.00309,
+    "pres_style_D_overstatement": 0.00108,
+    "r_overstatement_2025": 0.02393
+   }
+  },
+  {
+   "state": "MT",
+   "state_name": "Montana",
+   "seat": "regular",
+   "holder": "R",
+   "dem_side_candidate": "Seth Bodnar / Alani Bankhead",
+   "dem_side_party": "I",
+   "rep_candidate": "Kurt Alme",
+   "pvi_d": -10.0,
+   "poll_margin_d": -15.7,
+   "poll_sources": 4,
+   "est_margin": -15.085,
+   "tipping_freq": 0.0002,
+   "p_dem": {
+    "unbiased": 0.00238,
+    "pres_style_D_overstatement": 0.00029,
+    "r_overstatement_2025": 0.04513
+   }
+  },
+  {
+   "state": "TN",
+   "state_name": "Tennessee",
+   "seat": "regular",
+   "holder": "R",
+   "dem_side_candidate": "Marquita Bradshaw",
+   "dem_side_party": "D",
+   "rep_candidate": "Bill Hagerty",
+   "pvi_d": -14.0,
+   "poll_margin_d": null,
+   "poll_sources": 0,
+   "est_margin": -22.6,
+   "tipping_freq": 0.00019,
+   "p_dem": {
+    "unbiased": 0.00187,
+    "pres_style_D_overstatement": 0.00045,
+    "r_overstatement_2025": 0.01781
+   }
+  },
+  {
+   "state": "SD",
+   "state_name": "South Dakota",
+   "seat": "regular",
+   "holder": "R",
+   "dem_side_candidate": "Brian Bengs",
+   "dem_side_party": "I",
+   "rep_candidate": "Mike Rounds",
+   "pvi_d": -15.0,
+   "poll_margin_d": null,
+   "poll_sources": 0,
+   "est_margin": -24.6,
+   "tipping_freq": 0.00014,
+   "p_dem": {
+    "unbiased": 0.00094,
+    "pres_style_D_overstatement": 0.00029,
+    "r_overstatement_2025": 0.00933
+   }
+  },
+  {
+   "state": "AR",
+   "state_name": "Arkansas",
+   "seat": "regular",
+   "holder": "R",
+   "dem_side_candidate": "Hallie Shoffner",
+   "dem_side_party": "D",
+   "rep_candidate": "Tom Cotton",
+   "pvi_d": -15.0,
+   "poll_margin_d": null,
+   "poll_sources": 0,
+   "est_margin": -24.6,
+   "tipping_freq": 0.00017,
+   "p_dem": {
+    "unbiased": 0.00092,
+    "pres_style_D_overstatement": 0.00021,
+    "r_overstatement_2025": 0.00897
+   }
+  },
+  {
+   "state": "OK",
+   "state_name": "Oklahoma",
+   "seat": "regular",
+   "holder": "R",
+   "dem_side_candidate": "N'Kiyla Jasmine Thomas",
+   "dem_side_party": "D",
+   "rep_candidate": "Kevin Hern",
+   "pvi_d": -17.0,
+   "poll_margin_d": null,
+   "poll_sources": 0,
+   "est_margin": -25.6,
+   "tipping_freq": 6e-05,
+   "p_dem": {
+    "unbiased": 0.00052,
+    "pres_style_D_overstatement": 6e-05,
+    "r_overstatement_2025": 0.0068
+   }
+  },
+  {
+   "state": "ID",
+   "state_name": "Idaho",
+   "seat": "regular",
+   "holder": "R",
+   "dem_side_candidate": "Todd Achilles",
+   "dem_side_party": "I",
+   "rep_candidate": "Jim Risch",
+   "pvi_d": -18.0,
+   "poll_margin_d": null,
+   "poll_sources": 0,
+   "est_margin": -30.6,
+   "tipping_freq": 0.0,
+   "p_dem": {
+    "unbiased": 4e-05,
+    "pres_style_D_overstatement": 0.0,
+    "r_overstatement_2025": 0.00098
+   }
+  },
+  {
+   "state": "WV",
+   "state_name": "West Virginia",
+   "seat": "regular",
+   "holder": "R",
+   "dem_side_candidate": "Rachel Fetty Anderson",
+   "dem_side_party": "D",
+   "rep_candidate": "Shelley Moore Capito",
+   "pvi_d": -21.0,
+   "poll_margin_d": null,
+   "poll_sources": 0,
+   "est_margin": -36.6,
+   "tipping_freq": 0.0,
+   "p_dem": {
+    "unbiased": 0.0,
+    "pres_style_D_overstatement": 0.0,
+    "r_overstatement_2025": 5e-05
+   }
+  },
+  {
+   "state": "WY",
+   "state_name": "Wyoming",
+   "seat": "regular",
+   "holder": "R",
+   "dem_side_candidate": "James W. Byrd",
+   "dem_side_party": "D",
+   "rep_candidate": "Harriet Hageman",
+   "pvi_d": -23.0,
+   "poll_margin_d": null,
+   "poll_sources": 0,
+   "est_margin": -37.6,
+   "tipping_freq": 0.0,
+   "p_dem": {
+    "unbiased": 0.0,
+    "pres_style_D_overstatement": 0.0,
+    "r_overstatement_2025": 2e-05
+   }
+  }
+ ],
+ "charts": {
+  "senate": "model/output/charts/senate_seat_distribution.png",
+  "house": "model/output/charts/house_seat_distribution.png",
+  "senate_races": "model/output/charts/senate_race_probabilities.png"
+ }
+}

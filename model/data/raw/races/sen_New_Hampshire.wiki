@@ -1,0 +1,1575 @@
+{{Short description|none}}
+{{for|related races|2026 United States Senate elections}}
+{{Use American English|date=November 2025}}
+{{Use mdy dates|date=September 2023}}
+{{Infobox election
+| election_name = 2026 United States Senate election in New Hampshire
+| country = New Hampshire
+| type = presidential
+| ongoing = yes
+| previous_election = 2020 United States Senate election in New Hampshire
+| previous_year = 2020
+| next_election = 2032 United States Senate election in New Hampshire
+| next_year = 2032
+| election_date = November 3, 2026
+| image1 = Chris Pappas, official portrait - 2022 (cropped 2).png
+| nominee1 = [[Chris Pappas (American politician)|Chris Pappas]]
+| party1 = Democratic Party (United States)
+| popular_vote1 = 
+| percentage1 = 
+| image2 = John E. Sununu (cropped 2).jpg
+| nominee2 = [[John E. Sununu]]
+| party2 = Republican Party (United States)
+| popular_vote2 = 
+| percentage2 = 
+| map_image = 
+| map_size = 
+| map_caption = County results
+| title = U.S. senator
+| before_election = [[Jeanne Shaheen]]
+| before_party = Democratic Party (United States)
+| after_election = 
+| after_party = 
+}}
+{{ElectionsNH}}
+
+The '''2026 United States Senate election in New Hampshire''' will be held on November 3, 2026, to elect a member of the [[United States Senate]] to represent the state of [[New Hampshire]]. [[Democratic Party (United States)|Democratic]] congressman [[Chris Pappas (American politician)|Chris Pappas]] and [[Republican Party (United States)|Republican]] former senator [[John E. Sununu|John Sununu]] are the nominees for their respective parties. Democratic incumbent [[Jeanne Shaheen]] is not seeking a fourth term.
+
+[[Primary elections]] were held on September 8. Pappas won the Democratic nomination with 65% of the vote against medical scientist Karishma Manzur. Sununu, who held the seat for one term until he was defeated by Shaheen in [[2008 United States Senate election in New Hampshire|2008]], won the Republican nomination with 68.5% of the vote against former Massachusetts senator [[Scott Brown (politician)|Scott Brown]].
+
+This will be the first open Senate election in New Hampshire since [[2010 United States Senate election in New Hampshire|2010]]. Republicans have not won a Senate election in New Hampshire since that race.
+
+{{toclimit|3}}
+
+== Background ==
+New Hampshire is considered to be a [[Red states and blue states|slightly to moderately blue]] state at the federal level, with [[Kamala Harris]] carrying the state by roughly 3 percentage points in the [[2024 United States presidential election in New Hampshire|2024 presidential election]]. The state's congressional delegation has been entirely Democratic since 2017. However, Republicans control the [[Governor of New Hampshire|governorship]], both state legislative chambers, and a majority in the [[Executive Council of New Hampshire|executive council]].<ref>{{Cite web |date=2024-11-05 |title=New Hampshire keeps all-Democratic delegation with Pappas, Goodlander wins in US House races |url=https://apnews.com/article/new-hampshire-congress-election-2024-b9a8e05a7847c3ba93c424c2094a49a7 |access-date=2024-12-10 |website=AP News |language=en}}</ref><ref>{{Cite web |date=2024-11-06 |title=NH Republicans claim big State House wins and strengthen majorities in House and Senate |url=https://www.nhpr.org/nh-news/2024-11-06/nh-republicans-claim-big-state-house-wins-and-strengthen-majorities-in-house-and-senate |access-date=2024-12-10 |website=New Hampshire Public Radio |language=en}}</ref>
+
+Shaheen was first elected in [[2008 United States Senate election in New Hampshire|2008]], defeating incumbent [[John E. Sununu|John Sununu]] in a rematch of [[2002 United States Senate election in New Hampshire|2002]], and was reelected in [[2014 United States Senate election in New Hampshire|2014]] and [[2020 United States Senate election in New Hampshire|2020]].<ref>{{Cite web |last=Castronuovo |first=Celine |date=2020-11-04 |title=Shaheen wins reelection in New Hampshire |url=https://thehill.com/homenews/senate/523894-shaheen-wins-reelection-in-new-hampshire/ |access-date=2024-12-10 |website=The Hill |language=en-US}}</ref> Republicans have not won a U.S. Senate race in New Hampshire since [[2010 United States Senate election in New Hampshire|2010]].<ref>https://rollcall.com/2025/10/22/new-hampshire-john-sununu-race-rating/</ref>
+
+==Democratic primary==
+===Candidates===
+==== Nominee ====
+*[[Chris Pappas (American politician)|Chris Pappas]], [[U.S. representative]] for {{ushr|NH|1}} (2019–present)<ref>{{Cite web |last=Sexton |first=Adam |date=2025-04-03 |title=News 9 Exclusive: Chris Pappas announces he will run for U.S. Senate |url=https://www.wmur.com/article/chris-pappas-announces-run-for-us-senate-04032025/64370925 |access-date=2025-04-03 |website=[[WMUR-TV]] |language=en}}</ref>
+
+==== Eliminated in primary ====
+*David Jarvis, information technology consultant<ref name=":1">{{Cite web |last=Writer |first=Staff |date=2026-06-08 |title=2026 Candidate Filing Update: Who's in? Who's Out? |url=https://nhjournal.com/2026-candidate-filing-update-whos-in-whos-out/ |access-date=2026-06-12 |website=NH Journal |language=en-US}}</ref>
+*Karishma Manzur, medical scientist and member of the [[New Hampshire Democratic Party]] Rules Committee<ref name="manzur">{{Cite web |last=Graham |first=Michael |date=2025-08-17 |title=Progressive Manzur To Challenge Pappas in Dem Senate Primary |url=https://nhjournal.com/progressive-manzur-to-challenge-establishment-dem-pappas-in-senate-primary/ |access-date=2025-08-18 |website=NH Journal |language=en-US}}</ref>
+*Maxwell L. Saal, medical researcher<ref name=":2">{{Cite web |title=CUMULATIVE FILING |url=https://www.sos.nh.gov/sites/g/files/ehbemt561/files/inline-documents/sonh/cumulative-filings-6.11.26.pdf |website=NH SOS}}</ref><ref name=":1" />
+*John Vail, candidate for president in [[2024 Democratic Party presidential primaries|2024]]<ref name=":2" /><ref name=":1" />
+
+====Withdrawn====
+*[[Jared Sullivan]], [[New Hampshire House of Representatives|state representative]] from the [[Grafton County, New Hampshire|Grafton]] 2nd district (2022–present)<ref name="SullivanPappas"/>
+
+====Declined====
+*[[Maggie Goodlander]], [[U.S. representative]] for {{ushr|NH|2}} (2025–present) ''([[2026 United States House of Representatives elections in New Hampshire#District 2|running for re-election]], endorsed Pappas)''<ref name="Decline">{{Cite web |last=Sexton |first=Adam |date=April 17, 2025 |title=US Rep. Maggie Goodlander decides against run for US Senate in 2026 |url=https://www.wmur.com/article/maggie-goodlander-senate-run-decision-41725/64514504 |access-date=April 17, 2025 |website=[[WMUR-TV]] |language=en}}</ref>
+*[[Annie Kuster]], former [[U.S. representative]] for {{ushr|NH|2}} (2013–2025) ''(endorsed Pappas)''<ref name="eyes">{{Cite web |last=Solender |first=Andrew |date=2025-03-12 |title=Scoop: Rep. Chris Pappas eyes Jeanne Shaheen's newly open N.H. Senate seat |url=https://www.axios.com/2025/03/12/chris-pappas-jeanne-shaheen-senate-new-hampshire |access-date=2025-03-12 |website=[[Axios (website)|Axios]] |quote=Former Rep. Annie Kuster (D-N.H.), who retired from Congress this year, told Axios she 'will take a serious look if Pappas does not run.' |language=en}}</ref>
+*[[Jeanne Shaheen]], incumbent U.S. Senator (2009–present)<ref name="shaheen">{{cite news |last=Belman |first=Felice |title=Senator Jeanne Shaheen, New Hampshire Democrat, Won't Run Again in 2026 |url=https://www.nytimes.com/2025/03/12/us/politics/jeanne-shaheen-new-hampshire-senate-2026.html |access-date=March 12, 2025 |work=[[The New York Times]] |date=March 12, 2025}}</ref> ''(endorsed Pappas)''<ref name=ShaheenPappas/>
+*[[Andru Volinsky]], former [[Executive Council of New Hampshire|Executive Councilor]] (2017–2021) and candidate for governor in [[2020 New Hampshire gubernatorial election|2020]]<ref>{{Cite AV media |url=https://www.wmur.com/article/andru-volinsky-closeup-new-book-school-funding/64331862 |title=Andru Volinsky debuts new book on fight for education funding |date=2025-03-30 |last=Sexton |first=Adam |language=en |access-date=2025-03-30 |work=[[WMUR-TV]] |quote=[Adam Sexton]: Are you interested in running for U.S. Senate at all in 2026? [Andru Volinsky]: My focus is the book.}}</ref>
+
+===Endorsements===
+{{Endorsements box
+| title = Karishma Manzur
+| list =
+;U.S. representatives
+*[[Jamaal Bowman]], former {{ushr|NY|16|NY-16}} (2021–2025)<ref name="Bowman">{{cite web |title=State House Dome: Looks like Aaron had his 'day' in federal court |url=https://www.unionleader.com/news/human_interest/state-house-dome-looks-like-aaron-had-his-day-in-federal-court/article_886065c9-6a28-4dd3-be56-d8cac8daac5e.html |website=Union Leader |access-date=23 August 2026 |date=August 14, 2026}}</ref>
+
+;State legislators
+*[[Suraj Budathoki]], [[New Hampshire House of Representatives|state representative]] from the [[Hillsborough County, New Hampshire|Hillsborough]] 40th district (2024–present)<ref name=manzur/>
+*[[Tony Caplan]], [[New Hampshire House of Representatives|state representative]] from the [[Merrimack County, New Hampshire|Merrimack]] 8th district (2020–present)<ref name=manzur/>
+
+;Organizations
+*[[350.org|350NH]]<ref>{{cite web |last1=Beaulieu |first1=Rebecca |title=350NH Action Endorses Karishma Manzur for U.S. Senate |url=https://www.350nhaction.org/blog/350nh-action-endorses-karishma-manzur |website=350NH Action |access-date=8 September 2026 |date=20 May 2026}}</ref>
+*[[Peace Action]]<ref>{{cite web |title=Meet Our 2026 Candidates |url=https://www.peaceaction.org/endorsements/ |website=Peace Action |access-date=26 November 2025 |language=en-EN}}</ref>
+*[[Progressive Democrats of America]]<ref>{{cite web |title=ENDORSEMENTS |url=https://pdamerica.org/endorsements/ |website=Progressive Democrats of America |access-date=8 September 2026 |date=22 February 2021}}</ref>
+*[[Progressive Victory]]<ref>{{cite tweet|user=ProgressiveVic|number=2012955213066359212|title=ENDORSEMENT ALERT! Here is our first 18 endorsements for this year's 2026 midterms.|access-date=January 18, 2026}}</ref>
+*[[Third Act Movement|Third Act]]<ref name="ThirdAct">{{cite web |title=Third Act Endorses Karishma Manzur for U.S. Senate, Citing Her Commitment to Democracy and Climate Action |url=https://thirdact.org/new-hampshire/2026/07/30/third-act-endorses-karishma-manzur-for-u-s-senate-citing-her-commitment-to-democracy-and-climate-action/ |website=Third Act |access-date=8 August 2026 |date=July 30, 2026}}</ref>
+*[[Track AIPAC]]<ref>{{cite web |title=Our Endorsements |url=https://www.trackaipac.com/endorsements |website=Track AIPAC |access-date=8 September 2026}}</ref>
+}}
+{{Endorsements box
+| title = Chris Pappas
+| colwidth=60
+| list =
+;Executive branch officials
+*[[Pete Buttigieg]], former [[United States Secretary of Transportation|secretary of transportation]] (2021–2025)<ref>{{cite web |last1=Sexton |first1=Adam |title=Less than two years away from 2028 New Hampshire presidential primary, race starting to take shape |url=https://www.wmur.com/article/2028-new-hampshire-primary-preview/70386755 |access-date=February 17, 2026 |work=[[WMUR]] |date=February 16, 2026 |quote=Pete Buttigieg, the former secretary of transportation, is coming to campaign for Chris Pappas later this week.}}</ref>
+*[[Kamala Harris]], former [[vice president of the United States]] (2021–2025)<ref>{{cite news |last1=Vakil |first1=Caroline |title=Harris endorses Pappas for New Hampshire Senate |url=https://thehill.com/homenews/campaign/6060905-harris-pappas-new-hampshire-senate/ |work=[[The Hill (newspaper)|The Hill]] |access-date=August 31, 2026 |language=en |date=August 31, 2026}}</ref>
+
+*[[Maura Sullivan]], former [[Assistant to the Secretary of Defense for Public Affairs|assistant to the secretary of defense for public affairs]] (2015) and candidate for [[New Hampshire's 1st congressional district|NH-01]] in [[2026 United States House of Representatives elections in New Hampshire#District 1|2026]]<ref>{{Cite web |last=Lips |first=Evan |date=2025-04-04 |title=Both Parties Optimistic About NH01 Fight in 2026 |url=https://nhjournal.com/both-parties-optimistic-about-nh01-fight-in-2026/ |access-date=2026-04-01 |website=NH Journal |language=en-US}}</ref><ref>{{Cite web |last=Sexton |first=Adam |date=2025-04-10 |title=First on WMUR: Maura Sullivan launches 2026 campaign in NH's 1st District |url=https://www.wmur.com/article/maura-sullivan-2026-congress-campaign-040925/64436932 |access-date=2026-04-01 |website=WMUR |language=en}}</ref>
+
+;U.S. senators
+*[[Maggie Hassan]], [[New Hampshire]] (2017–present)<ref>{{cite web | title=Hassan backs Pappas as Dems unite in N.H. | url=https://punchbowl.news/article/campaigns/hassan-pappas-democrats-unite-new-hampshire/ }}</ref>
+*[[Mark Kelly]], [[Arizona]] (2020–present)<ref name="auto">https://www.wmur.com/article/mark-kelly-gabby-giffords-new-hampshire/70733249</ref>
+*[[Amy Klobuchar]], [[Minnesota]] (2007–present)<ref>{{Cite web |url=https://nhjournal.com/a-frustrated-and-feisty-dem-base-will-greet-klobuchar-in-nh-friday |title=A frustrated and feisty Dem base will greet Klobuchar in NH, Friday |access-date=January 1, 2026}}</ref>
+*[[Jeanne Shaheen]], [[New Hampshire]] (2009–present)<ref name=ShaheenPappas>{{cite web|url=https://www.wmur.com/article/jeanne-shaheen-endorses-chris-pappas-senate-42425/64582798|title=Shaheen endorses Pappas to replace her in Senate|last=Sexton|first=Adam|date=April 24, 2025|access-date=April 24, 2025|website=[[WMUR-TV]]}}</ref>
+*[[Elizabeth Warren]], [[Massachusetts]] (2013–present)<ref name="Commanding">{{cite web|url=https://www.semafor.com/article/08/28/2026/poll-pappas-holds-commanding-lead-in-nh-democratic-primary|title=Poll: Pappas holds commanding lead in N.H. Democratic primary|last=Everett|first=Burgess|date=August 28, 2026|access-date=August 28, 2026|website=[[Semafor (website)|Semafor]]}}</ref>
+
+;U.S. representatives
+*[[Gabby Giffords]], former {{ushr|AZ|8|AZ-08}} (2007–2012)<ref name="auto"/>
+*[[Maggie Goodlander]], {{ushr|NH|2|NH-02}} (2025–present)<ref name=Decline/>
+*[[Annie Kuster]], former {{ushr|NH|2|NH-02}} (2013–2025)<ref name=eyes/>
+
+;Statewide officials
+*[[John Lynch (New Hampshire governor)|John Lynch]], former [[governor of New Hampshire]] (2005–2013)<ref name="Lynch">{{cite web|url=https://www.unionleader.com/news/politics/voters/ex-gov-john-and-wife-susan-lynch-endorse-pappas-for-senate/article_9ce6ccbf-7f5e-43d4-9d6f-e8ba48b85d7c.html|title=Former Gov. John Lynch and wife Susan endorse Pappas for Senate|last=Landrigan|first=Kevin|date=April 28, 2025|access-date=April 29, 2025|website=[[New Hampshire Union Leader]]}}</ref>
+
+;State legislators
+*[[Evan Low]], former [[California State Assembly|California state assemblymember]] from the [[California's 26th State Assembly district|26th district]] (2014–2024)<ref name="Victory">{{cite web |title=LGBTQ+ Victory Fund Endorses Chris Pappas for U.S. Senate |url=https://victoryfund.org/news/lgbtq-victory-fund-endorses-chris-pappas-for-u-s-senate/ |website=LGBTQ+ Victory Fund |access-date=3 April 2025}}</ref>
+*[[Jared Sullivan]], [[New Hampshire House of Representatives|state representative]] from the [[Grafton County, New Hampshire|Grafton]] 2nd district (2022–present) and former candidate for this seat<ref name="SullivanPappas">{{cite web |last1=Sexton |first1=Adam |title=Former opponent endorses Chris Pappas in US Senate race |url=https://www.wmur.com/article/jared-sullivan-endorses-chris-pappas/73430072 |website=WMUR 9 |access-date=17 August 2026 |date=August 13, 2026}}</ref>
+
+;Individuals
+*[[Susan Lynch (pediatrician)|Susan Lynch]], former [[first lady]] of New Hampshire (2005–2013)<ref name="Lynch"/>
+
+;Labor unions
+*New Hampshire [[AFL-CIO]]<ref>{{cite web |title= NH AFL-CIO backing Pappas in Democratic Senate primary |url= https://www.unionleader.com/news/politics/voters/nh-afl-cio-backing-pappas-in-democratic-senate-primary/article_a2a25674-b2a7-4920-b58e-2e879002abb2.html |website=www.unionleader.com |publisher=New Hampshire Union Leader |access-date=September 3, 2026 |language=en |date=September 2, 2026}}</ref>
+*[[American Federation of Government Employees]]<ref>{{cite web |title=Largest Federal Employee Union Endorses Rep. Chris Pappas for Senate |url=https://www.afge.org/publication/largest-federal-employee-union-endorses-rep-chris-pappas-for-senate/ |website=www.afge.org |publisher=American Federation of Government Employees |access-date=May 6, 2025 |language=en |date=May 6, 2025}}</ref>
+*[[American Federation of Teachers]]–New Hampshire<ref name="AFT">{{cite web |last1=Splaine |first1=Dan |title=At Nashua event, AFT–New Hampshire backs Pappas for Senate |url=https://www.nashuaindependent.com/at-nashua-event-aft-new-hampshire-backs-pappas-for-senate/ |website=Nashua Independent |access-date=9 August 2026 |date=August 7, 2026}}</ref>
+*[[International Brotherhood of Teamsters]] Local 633<ref name="Lynch" />
+*[[International Union of Painters and Allied Trades]] District Council 35<ref name="IUPAT">{{cite web |last1=Booth |first1=Colin |title=Exclusive: 500+ member NH union backs Congressman Chris Pappas for US Senate |url=https://granitepostnews.com/news/politics/exclusive-500-member-nh-union-backs-congressman-chris-pappas-for-us-senate/ |website=Granite Post |access-date=17 August 2026 |date=May 22, 2025}}</ref> 
+*[[North America's Building Trades Unions|New Hampshire Building and Construction Trades Council]]<ref name="SEIU" />
+*[[SEIU]] Local 1984<ref name="SEIU">{{cite web |last1=Sexton |first1=Adam |title=Pappas picks up Employees' Association endorsement in NH Senate race |url=https://www.wmur.com/article/pappas-picks-up-employees-association-endorsement-in-nh-senate-race/73489813 |website=WMUR 9 |access-date=20 August 2026 |date=August 20, 2026}}</ref>
+
+;Organizations
+*[[AIPAC]]<ref>{{Cite web |title=AIPAC Political Portal |url=https://candidates.aipacpac.org/page/featured |access-date=2025-04-28 |website=candidates.aipacpac.org}}</ref>
+*[[Brady Campaign]]<ref>{{cite web |title=Candidates |url=https://bradypac.org/candidates/ |website=Brady PAC |access-date=29 January 2026}}</ref>
+*[[Council for a Livable World]]<ref>{{cite web |title=Senate Candidates |url=https://livableworld.org/meet-the-candidates/senate-candidates/ |website=Council for a Livable World |access-date=23 November 2025}}</ref>
+*[[Democratic Majority for Israel]]<ref>{{cite web |last1=Rod |first1=Marc |title=DMFI backs Haley Stevens, Angie Craig as they face primaries from the anti-Israel left |url=https://jewishinsider.com/2025/11/dmfi-backs-haley-stevens-angie-craig-as-they-face-primaries-from-the-anti-israel-left/ |access-date=November 20, 2025 |work=[[Jewish Insider]] |date=November 20, 2025}}</ref>
+*[[End Citizens United]]<ref>{{cite web|url=https://endcitizensunited.org/latest-news/press-releases/end-citizens-united-endorses-representative-chris-pappas-for-u-s-senate/|title=End Citizens United Endorses Representative Chris Pappas for U.S. Senate|date=April 3, 2025|access-date=April 7, 2025}}</ref>
+*[[Equality PAC]]<ref>{{cite web |title=2026 Endorsed LGBTQ Candidates |url=https://lgbtequalitypac.org/endorsements/ |website=Equality PAC |access-date=27 November 2025}}</ref>
+*[[Giffords]]<ref>{{cite web |title=GIFFORDS PAC endorses Chris Pappas for US Senate |url=https://giffords.org/press-release/2025/07/giffords-pac-endorses-chris-pappas-for-us-senate/ |website=giffords.org |date=July 17, 2025 |access-date=September 8, 2025}}</ref>
+*[[Human Rights Campaign]]<ref>{{cite web |title=Human Rights Campaign PAC Endorses New Hampshire Rep. Chris Pappas… |url=https://www.hrc.org/press-releases/human-rights-campaign-pac-endorses-new-hampshire-rep-chris-pappas-for-u-s-senate |website=HRC |access-date=25 November 2025 |date=17 September 2025}}</ref>
+*[[Jewish Democratic Council of America]]<ref>{{cite web |title=Jewish Dems Endorsed Candidates |url=https://jewishdems.org/endorsements/ |website=Jewish Democratic Council of America |access-date=28 October 2025}}</ref>
+*[[Joint Action Committee for Political Affairs]]<ref>{{cite web|title=Candidates|url=https://www.jacpac.org/jac-candidates|website=Joint Action Committee for Political Affairs|access-date=November 16, 2025|archive-url=https://web.archive.org/web/20251121062543/https://www.jacpac.org/jac-candidates|archive-date=November 21, 2025|url-status=dead}}</ref>
+*[[League of Conservation Voters]] Action Fund<ref>{{cite news |last1=Booth |first1=Colin |title=Exclusive: Leading climate group endorses Rep. Chris Pappas for US Senate |url=https://granitepostnews.com/2025/08/11/exclusive-leading-climate-group-endorses-rep-chris-pappas-for-us-senate/ |access-date=August 11, 2025 |work=Granite Post |date=August 11, 2025}}</ref>
+*[[LGBTQ+ Victory Fund]]<ref name="Victory"/>
+*[[National Committee to Preserve Social Security and Medicare]]<ref>{{cite web |title=National Seniors' Group Endorses Chris Pappas for U.S. Senate |url=https://www.ncpssm.org/documents/latest-news/national-seniors-group-endorses-chris-pappas-for-senate/ |website=NCPSSM |access-date=28 April 2026}}</ref>
+*[[Natural Resources Defense Council]]<ref name="NRDC">{{cite web |title=NRDC Action Fund Endorsements |url=https://www.nrdcactionfund.org/nrdc-action-fund-endorsements#2026 |website=NRDC Action Fund |access-date=23 August 2026}}</ref>
+*[[Planned Parenthood | Planned Parenthood Action Fund]]<ref>{{cite web |url=https://thehill.com/homenews/campaign/5700069-planned-parenthood-action-fund/ |title=Planned Parenthood Action Fund rolls out first Senate endorsements ahead of November midterms |access-date=January 22, 2026}}</ref>
+*[[Population Connection]]<ref>{{cite web |title=2026 Endorsements |url=https://www.populationconnectionaction.org/vote/2026-endorsements/ |website=Population Connection Action Fund}}</ref>
+*[[Reproductive Freedom for All]]<ref>{{cite web |last1=Santaliz |first1=Kate |title=Abortion rights group backs Janet Mills and others in first 2026 Senate endorsements |url=https://www.axios.com/2025/12/09/abortion-rights-maine-senate-mills-platner |website=Axios |access-date=9 December 2025 |language=en |date=9 December 2025}}</ref>
+}}
+
+===Fundraising===
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of June 30, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|Karishma Manzur (D)
+|$206,753
+|$157,755
+|$48,998
+|-
+|{{party shading/Democratic}}|Chris Pappas (D)
+|$13,371,607
+|$8,595,871
+|$5,183,321
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC1">{{cite web |title=2026 Election United States Senate - New Hampshire |url=https://www.fec.gov/data/elections/senate/NH/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=April 18, 2026}}</ref></small>
+|}
+
+=== Polling ===
+'''Aggregate polls'''<br />
+{| class="wikitable sortable" style="text-align:center;font-size:90%;line-height:17px"
+!Source of poll<br />aggregation
+!Dates<br />administered
+!Dates<br />updated
+! style="width:75px;"| Karishma<br />Manzur
+! style="width:75px;"| Chris<br />Pappas
+! style="width:75px;"| Jared<br />Sullivan
+! style="width:75px;"| Undecided{{Efn|name=combined|Calculated by taking the difference of 100% and all other candidates combined.}}
+!Margin
+|-
+|[[270toWin]]<ref name="270toWin" />
+|August 20–26, 2026
+|September 3, 2026
+|31.0%
+|{{party shading/Democratic}}|'''53.0%'''
+|{{sdash}}
+|16.0%
+|{{party shading/Democratic}}|'''Pappas +22.0%'''
+|-
+|Race to the WH<ref>{{cite web |title=Latest Polling for Senate Races – 2026 |url=https://www.racetothewh.com/senate/26polls |website=Race to the WH |access-date=23 April 2026}}</ref>
+|through August 22, 2026
+|September 3, 2026
+|25.7%
+|{{party shading/Democratic}}|'''57.0%'''
+|1.5%
+|15.8%
+|{{party shading/Democratic}}|'''Pappas +31.3%'''
+|-
+|[[RealClearPolitics]]<ref>{{cite web |title= 2026 New Hampshire Senate - Democratic Primary |url=https://www.realclearpolling.com/polls/senate/democratic-primary/2026/new-hampshire |website=[[RealClearPolitics]] |access-date=17 August 2026}}</ref>
+|June 18–25, 2026
+|August 17, 2026
+|24.5%
+|{{party shading/Democratic}}|'''57.5%'''
+|{{sdash}}
+|18.0%
+|{{party shading/Democratic}}|'''Pappas +33.0%'''
+|-
+|colspan="3" |'''Average'''
+|27.1%
+|{{party shading/Democratic}}|'''55.8%'''
+|{{sdash}}
+|17.1%
+|{{party shading/Democratic}}|'''Pappas +28.7%'''
+|}
+
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- style="vertical-align:bottom"
+! Poll source
+! Date(s)<br>administered
+! Sample<br>size{{efn|name="Key"|Key:<br />A – all adults<br />RV – registered voters<br />LV – likely voters<br />V – unclear}}
+! Margin<br>of error
+! style="width:75px;" |Karishma<br/>Manzur
+! style="width:75px;" |Chris<br/>Pappas
+! style="width:75px;" |Jared<br/>Sullivan
+! Other
+! Undecided
+|-
+|style="text-align:left;"|GQR (D)<ref name="Commanding"/>{{efn-ua|Poll sponsored by Pappas' campaign}}
+|August 19–25, 2026
+|422 (LV)
+|{{sdash}}
+|15%
+|{{party shading/Democratic}}|'''71%'''
+|{{sdash}}
+|{{sdash}}
+|14%
+|-
+|style="text-align:left;"|[[University of New Hampshire]]<ref name="UNHAugust26">{{cite web|url=https://scholars.unh.edu/cgi/viewcontent.cgi?article=1987&context=survey_center_polls|title=Pappas Support Slides, CD1 Primaries Down to the Wire|last1=McKinley|first1=Sean P.|last2=Smith|first2=Andrew E.|last3=Azem|first3=Zachary S.|last4=Keirns|first4=Tracy|website=[[University of New Hampshire]]|date=August 26, 2026|access-date=August 26, 2026}}</ref>
+|August 20–24, 2026
+|893 (LV)
+|±&nbsp;3.3%
+|34%
+|{{party shading/Democratic}}|'''47%'''
+|{{sdash}}
+|{{sdash}}
+|18%
+|-
+|-
+|style="text-align:left;"|[[Saint Anselm College]]<ref name="AnselmAugust2026">{{cite web|url=https://www.anselm.edu/about/anselmian-hub/news/new-saint-anselm-college-poll-finds-republicans-facing-midterm-headwinds-democratic-lead-widens|title=New Saint Anselm College Poll Finds Republicans Facing Midterm Headwinds as Democratic Lead Widens|website=[[Saint Anselm College]]|date=August 20, 2026|access-date=August 20, 2026}}</ref>
+|August 17–18, 2026
+|733 (LV)
+|±&nbsp;3.6%
+|28%
+|{{party shading/Democratic}}|'''59%'''
+|{{sdash}}
+|{{sdash}}
+|13%
+|-
+|-
+|style="text-align:left;"|[[Saint Anselm College]]<ref name="AnselmJune2026">{{cite web|url=https://www.anselm.edu/about/anselmian-hub/news/saint-anselm-college-survey-center-june-poll-finds-democrats-expand-generic-ballot-lead|title=Saint Anselm College Survey Center June Poll Finds Democrats Expand Generic Ballot Lead|website=[[Saint Anselm College]]|date=June 30, 2026|access-date=June 30, 2026}}</ref>
+|June 24–25, 2026
+|810 (RV)
+|±&nbsp;3.4%
+|20%
+|{{party shading/Democratic}}|'''62%'''
+|{{sdash}}
+|{{sdash}}
+|18%
+|-
+|-
+|style="text-align:left;"|[[University of New Hampshire]]<ref name="UNHJune 2026">{{Cite web|last1=McKinley|first1=Sean P.|last2=Smith|first2=Andrew E.|last3=Azem|first3=Zachary S.|last4=Keirns|first4=Tracy|date=June 30, 2026|title=Races Tighten in New Hampshire for Governor and Senate Island|url=https://scholars.unh.edu/cgi/viewcontent.cgi?article=1973&context=survey_center_polls|access-date=June 30, 2026|website=[[University of New Hampshire]]}}</ref>
+|June 18–23, 2026
+|997 (LV)
+|±&nbsp;3.1%
+|29%
+|{{party shading/Democratic}}|'''53%'''
+|{{sdash}}
+|2%
+|16%
+|-
+|style="text-align:left;"|[[University of New Hampshire]]<ref name="UNHApril2026">{{cite web |title=NH Senate Race: Sununu Increases GOP Primary Lead, Pappas Leads General Election Matchups |url=https://scholars.unh.edu/cgi/viewcontent.cgi?article=1943&context=survey_center_polls |first1=Sean P. |last1=McKinley |first2=Andrew E. |last2=Smith |first3=Zachary S. |last3=Azem |first4=Tracy |last4=Keirns |website=UNH Scholars Repository |access-date=23 April 2025 |date=23 April 2025}}</ref>
+|April 17–21, 2026
+|481 (LV)
+|±&nbsp;4.5%
+|18%
+|{{Party shading/Democratic}}|'''61%'''
+|1%
+|1%{{efn|name="AC1"}}
+|18%
+|-
+|style="text-align:left;"|[[Saint Anselm College]]<ref name="AnselmMarch2026"/>
+|March 16–18, 2026
+|691 (RV)
+|±&nbsp;3.7%
+|9%
+|{{party shading/Democratic}}|'''71%'''
+|3%
+|{{sdash}}
+|18%
+|-
+| style="text-align: left;" |[[University of New Hampshire]]<ref name=":0" />
+|January 15–19, 2026
+|893 (LV)
+|±&nbsp;3.3%
+|11%
+|{{party shading/Democratic}}|'''65%'''
+|2%
+|{{sdash}}
+|22%
+|-
+|style="text-align:left;"|[[Saint Anselm College]]<ref name=AnselmNov>{{cite web |title=New Poll by the Saint Anselm College Survey Shows Declining Optimism, Democracy Dominant as Issue, and Early Partisan Divides Ahead of 2026 |url=https://www.anselm.edu/about/anselmian-hub/news/new-poll-saint-anselm-college-survey-shows-declining-optimism-democracy-dominant-issue-and-early-partisan-divides-ahead-2026 |website=[[Saint Anselm College]] |date=24 November 2025 | access-date=24 November 2025}}</ref>
+|November 18–19, 2025
+|1,015 (RV)
+|±&nbsp;3.1%
+|8%
+|{{party shading/Democratic}}|'''64%'''
+|2%
+|{{sdash}}
+|26%
+|-
+|style="text-align:left;"|[[University of New Hampshire]]<ref name="UNHNov">{{cite web |title=Pappas, Sununu Lead in Early NH Senate Primary Races |url=https://scholars.unh.edu/cgi/viewcontent.cgi?article=1909&context=survey_center_polls |first1=Sean P. |last1=McKinley |first2=Andrew E. |last2=Smith |first3=Zachary S. |last3=Azem |first4=Tracy |last4=Keirns |website=UNH Scholars Repository |access-date=24 November 2025 |date=24 November 2025}}</ref>
+|November 13–17, 2025
+|521 (LV)
+|±&nbsp;4.3%
+|8%
+|{{Party shading/Democratic}}|'''57%'''
+|5%
+|{{sdash}}
+|30%
+|-
+|style="text-align:left;"|[[University of New Hampshire]]<ref name="UNHSept2025">{{cite web|url=https://scholars.unh.edu/cgi/viewcontent.cgi?article=1887&context=survey_center_polls|title=Early Look at 2026 NH Races|first1=Sean P.|last1=McKinley|first2=Andrew E.|last2=Smith|first3=Zachary S.|last3=Azem|first4=Tracy|last4=Keirns|website=UNH Scholars Repository|date=September 29, 2025|access-date=September 29, 2025}}</ref>
+|September 17–23, 2025
+|508 (LV)
+|±&nbsp;4.3%
+|14%
+|{{Party shading/Democratic}}|'''65%'''
+|{{sdash}}
+|1%{{efn|name="WISE1"|"Write in someone else" with 1%}}
+|20%
+|}
+
+===Results===
+{{Election box begin no change
+| title = Democratic primary results
+}}
+{{Election box winning candidate with party link no change
+| candidate = [[Chris Pappas (American politician)|Chris Pappas]]
+| party = Democratic Party (United States)
+| votes = 100,088
+| percentage = 65.0
+}}
+{{Election box candidate with party link no change
+| candidate = Karishma Manzur
+| party = Democratic Party (United States)
+| votes = 50,321
+| percentage = 32.7
+}}
+{{Election box candidate with party link no change
+| candidate = David Jarvis
+| party = Democratic Party (United States)
+| votes = 1,212
+| percentage = 0.8
+}}
+{{Election box candidate with party link no change
+| candidate = John Vail
+| party = Democratic Party (United States)
+| votes = 956
+| percentage = 0.6
+}}
+{{Election box candidate with party link no change
+| candidate = Maxwell L. Saal
+| party = Democratic Party (United States)
+| votes = 932
+| percentage = 0.6
+}}
+{{Election box write-in with party link no change
+|votes = 355
+|percentage = 0.2
+}}
+{{Election box total no change
+| votes = 153,864
+| percentage = 100.0
+}}
+{{Election box end}}
+
+==Republican primary==
+===Candidates===
+
+==== Nominee ====
+* [[John E. Sununu|John Sununu]], former U.S. senator from this seat (2003–2009)<ref>{{Cite web |last=Sexton |first=Adam |date=2025-10-22 |title=News 9 Exclusive: John E. Sununu officially launches campaign for US Senate |url=https://www.wmur.com/article/john-e-sununu-campaign-senate-102225/69112692 |access-date=2025-10-22 |website=[[WMUR-TV]] |language=en}}</ref>
+
+==== Eliminated in primary ====
+*[[Tom Alciere]], former [[New Hampshire House of Representatives|state representative]] (2000–2001) and perennial candidate<ref name=":1" />
+*[[Scott Brown (politician)|Scott Brown]], former [[U.S. Ambassador to New Zealand and Samoa|ambassador to New Zealand and Samoa]] (2017–2020), former U.S. senator from [[Massachusetts]] (2010–2013), and nominee for this seat in [[2014 United States Senate election in New Hampshire|2014]]<ref>{{Cite web |last=Sexton |first=Adam |date=2025-06-25 |title=News 9 Exclusive: Scott Brown jumping into 2026 race for U.S. Senate in New Hampshire |url=https://www.wmur.com/article/scott-brown-new-hampshire-us-senate-2026/65175908 |access-date=2025-06-25 |website=[[WMUR-TV]] |language=en}}</ref>
+*Sky Danley, president of the [[Fitz John Porter|Fitz John Porter Project, Inc.]]<ref name=":2" /><ref name=":1" />
+*[[Andy Martin]], perennial candidate<ref name=":2" /><ref name=":1" />
+*Mary Maxwell, perennial candidate<ref name=":2" /><ref name=":1" />
+*Richard A. McMenamon II, auto repair shop owner<ref name=":2" /><ref name=":1" />
+*Sabrina Ann Smith, member of the [[Pittsfield, New Hampshire|Pittsfield]] budget committee<ref name=":1" />
+
+====Withdrawn ====
+*[[Dan Innis]], [[New Hampshire Senate|state senator]] (2016–2018, 2022–present) and candidate for [[New Hampshire's 1st congressional district]] in [[United States House of Representatives elections in New Hampshire, 2014#District 1|2014]] ''([[2026 New Hampshire Senate election#District 7|running for re-election]], endorsed Sununu)''<ref name=innis>{{Cite web |last=Graham |first=Michael |date=2025-09-25 |title=Innis Suspends US Senate Campaign, Backs John E. Sununu |url=https://nhjournal.com/innis-suspends-us-senate-campaign-backs-john-e-sununu/ |access-date=2025-09-25 |website=NH Journal |language=en-US}}</ref>
+
+====Declined====
+*[[Kelly Ayotte]], [[governor of New Hampshire]] (2025–present) and former [[U.S. senator]] (2011–2017) ''([[
+2026 New Hampshire gubernatorial election|running for re-election]])''<ref>{{Cite web |last1=Nir |first1=David |title=Morning Digest: Jeanne Shaheen, a New Hampshire institution, will retire from the Senate |url=https://www.the-downballot.com/i/158958480/nh-sen |access-date=March 13, 2025 |website=The Downballot |date=March 13, 2025 |last2=Singer |first2=Jeff |quote=Gov. Kelly Ayotte, though, unequivocally said she wasn't interested in returning to the Senate this cycle. |language=en}}</ref><ref>{{cite web |last1=Skipworth |first1=William |title=Ayotte's opponents on the campaign trail take aim at her Medicaid record |url=https://newhampshirebulletin.com/2026/05/18/ayottes-opponents-on-the-campaign-trail-take-aim-at-her-medicaid-record/ |website=New Hampshire Bulletin |access-date=20 May 2026 |date=18 May 2026}}</ref>
+*[[Chris Sununu]], former [[governor of New Hampshire]] (2017–2025) and brother of former U.S. Senator [[John E. Sununu]]<ref>{{Cite web |last=Porter |first=Steven |date=April 8, 2025 |title=Former N.H. governor Chris Sununu says he won't run for US Senate in 2026 |url=https://www.bostonglobe.com/2025/04/08/metro/nh-chris-sununu-says-he-will-not-run-us-senate-shaheen-pappas/ |access-date=2025-04-08 |website=[[The Boston Globe]] |language=en-US}}</ref>
+*[[Lily Tang Williams]], former chair of the [[Colorado Libertarian Party]], nominee for {{ushr|NH|2}} in [[2024 United States House of Representatives elections in New Hampshire#District 2|2024]] and candidate in [[2022 United States House of Representatives elections in New Hampshire#District 2|2022]], and Libertarian nominee for U.S. Senate in [[Colorado]] in [[2016 United States Senate election in Colorado|2016]]<ref>{{cite web |last=Graham |first=Michael |date=March 17, 2025 |title=NH Republicans Eying Possible Open Congressional Seats Amid Goodlander-Pappas Chatter |url=https://nhjournal.com/some-nh-republicans-eying-possible-open-congressional-seats-amid-goodlander-v-pappas-chatter/ |access-date=March 18, 2025 |work=NH Journal |quote=2024 nominee Lily Tang Williams told NHJournal she is 'open minded' to the possibilities of running for either the House or Senate.}}</ref> ''([[2026 United States House of Representatives elections in New Hampshire#District 2|running for U.S. House]])''<ref>{{Cite web |last=Lips |first=Evan |date=2025-04-10 |title=Lily Tang Williams Enters 2nd CD Race as Goodlander Considers Senate Run |url=https://nhjournal.com/lily-tang-williams-enters-2nd-cd-race-as-goodlander-considers-senate-run/ |access-date=2025-04-10 |website=NH Journal |language=en-US}}</ref>
+
+===Endorsements===
+{{Endorsements box
+| title = Scott Brown
+| list =
+;Executive branch officials
+*[[Mike Pompeo]], former [[United States secretary of state|secretary of state]] (2018–2021)<ref name="Pompeo">{{cite web |title=PRESS RELEASE: Secretary Mike Pompeo Endorses Ambassador Scott Brown for U.S. Senate in New Hampshire |url=https://cavpac.com/press-releases/press-release-secretary-mike-pompeo-endorses-ambassador-scott-brown-for-u-s-senate-in-new-hampshire/ |website=Champion American Value PAC |access-date=11 August 2026 |date=October 23, 2025}}</ref>
+
+;U.S. senators
+*[[Bob Smith (New Hampshire politician)|Bob Smith]], former [[New Hampshire]] (1990–2003)<ref name="HouseDome">{{cite web |last1=Landrigan |first1=Kevin |title=State House Dome: Bob Smith, who faced both GOP Senate candidates, goes with Scott Brown |url=https://www.unionleader.com/news/politics/statehouse_dome/state-house-dome-bob-smith-who-faced-both-gop-senate-candidates-goes-with-scott-brown/article_f0d030ed-5671-4531-9c65-2a8259921853.html |access-date=November 10, 2025 |website=[[UnionLeader.com]] |date=November 8, 2025}}</ref>
+
+;Individuals
+*[[Don Bolduc]], retired [[U.S. Army]] brigadier general, nominee for senate in [[2022 United States Senate election in New Hampshire|2022]], and candidate for this seat in [[2020 United States Senate election in New Hampshire|2020]]<ref name="Bolduc">{{cite web |title=NH Senate Race Update: Bolduc Backs Brown, Slams Sununu |url=https://www.einpresswire.com/article/917437400/nh-senate-race-update-bolduc-backs-brown-slams-sununu |website=EIN Presswire |access-date=11 August 2026 |date=June 1, 2026}}</ref>
+
+;Labor unions
+*[[Police unions in the United States#Police Benevolent Associations|New England Police Benevolent Association]]<ref name="NEPBA">{{cite web |title=NEPBA Endorses Former State Senator and Ambassador Scott Brown for U.S. Senate in New Hampshire |url=https://nepba.org/news/nepba-endorses-former-state-senator-and-ambassador-scott-brown-for-u-s-senate-in-new-hampshire |website=New England Police Benevolent Association |access-date=27 August 2026 |date=July 24, 2025}}</ref>
+
+;Organizations
+*[[Animal Wellness Action]]<ref>{{cite web |title=Animal Wellness Action Endorses Former Senator Scott Brown in New Hampshire Republican Senate Primary |url=https://animalwellnessaction.org/animal-wellness-action-endorses-former-senator-scott-brown-in-new-hampshire-republican-senate-primary/ |website=Animal Wellness Action |access-date=11 February 2026 |date=20 January 2026}}</ref>
+}}
+{{Endorsements box
+| title = John E. Sununu
+| colwidth = 20em
+| list =
+;Executive branch officials
+*[[Donald Trump]], [[president of the United States]] (2017–2021, 2025–present)<ref>{{cite web |last=Manchester |first=Julia |title=Trump backs John Sununu in New Hampshire Senate race |url=https://thehill.com/homenews/5717664-trump-endorses-sununu-nh-senate/ |website=The Hill |date=February 1, 2026 |access-date=February 1, 2026}}</ref>
+;U.S. senators 
+*[[Jim Banks]], [[Indiana]] (2025–present)<ref name="NabsGroup">{{cite web |last1=Vakil |first1=Caroline |title=John Sununu nabs endorsements from group of GOP senators in New Hampshire Senate race |url=https://thehill.com/homenews/campaign/5574367-sununu-gop-endorsements-senate/ |access-date=October 27, 2025 |work=[[The Hill (newspaper)|The Hill]] |date=October 27, 2025}}</ref>
+*[[John Barrasso]], [[Senate Majority Whip]] (2025–present) from [[Wyoming]] (2007–present)<ref name="NabsGroup"/>
+*[[Marsha Blackburn]], [[Tennessee]] (2019–present)<ref name="NabsGroup"/>
+*[[Katie Britt]], [[Alabama]] (2023–present)<ref name="NabsGroup"/>
+*[[Shelley Moore Capito]], [[West Virginia]] (2015–present)<ref name="NabsGroup"/>
+*[[Bill Cassidy]], [[Louisiana]] (2015–present)<ref name="Kickoff">{{cite web|url=https://www.politico.com/f/?id=0000019a-8f2a-df0f-abfa-ef6a1d4a0000|title=You are Invited to Attend a Campaign Kickoff Reception & Dinner|date=November 17, 2025|access-date=November 17, 2025|website=[[Politico]]}}</ref>
+*[[Susan Collins]], [[Maine]] (1997–present)<ref name="Kickoff"/>
+*[[John Cornyn]], [[Texas]] (2002–present)<ref name="Kickoff"/>
+*[[Tom Cotton]], [[Arkansas]] (2015–present)<ref name="NabsGroup"/>
+*[[Kevin Cramer]], [[North Dakota]] (2019–present)<ref name="Kickoff"/>
+*[[Joni Ernst]], [[Iowa]] (2015–present)<ref name="Kickoff"/>
+*[[Lindsey Graham]], former [[South Carolina]] (2003–2026) ''(deceased)''<ref name="Kickoff"/>
+*[[Judd Gregg]], former [[New Hampshire]] (1993–2011)<ref name=reacts>{{cite news |work=NHJournal |author=Graham, Michael |access-date=October 25, 2025 |title=Sununu Announces Run, NH Politics Reacts |url=https://nhjournal.com/sununu-announces-run-nh-politics-reacts/ |date=October 23, 2025}}</ref>
+*[[Bill Hagerty]], [[Tennessee]] (2021–present)<ref name="Kickoff"/>
+*[[Jon Husted]], [[Ohio]] (2025–present)<ref name="Kickoff"/>
+*[[Cindy Hyde-Smith]], [[Mississippi]] (2018–present)<ref name="Kickoff"/>
+*[[Ron Johnson]], [[Wisconsin]] (2011–present)<ref name="Kickoff"/>
+*[[John Kennedy (Louisiana politician)|John Kennedy]], [[Louisiana]] (2017–present)<ref name="Kickoff"/>
+*[[James Lankford]], [[Oklahoma]] (2015–present)<ref name="NabsGroup"/>
+*[[Jerry Moran]], [[Kansas]] (2011–present)<ref name="Kickoff"/>
+*[[Bernie Moreno]], [[Ohio]] (2025–present)<ref name="Kickoff"/>
+*[[Lisa Murkowski]], [[Alaska]] (2002–present)<ref name="Kickoff"/>
+*[[Pete Ricketts]], [[Nebraska]] (2023–present)<ref name="NabsGroup"/>
+*[[Mike Rounds]], [[South Dakota]] (2015–present)<ref name="NabsGroup"/>
+*[[Eric Schmitt]], [[Missouri]] (2023–present)<ref name="NabsGroup"/>
+*[[Tim Scott]], [[South Carolina]] (2013–present)<ref>{{cite news |work=The Downballot |author1=Nir, David |author2=Singer, Jeff |url=https://www.the-downballot.com/i/176872870/nh-sen |date=October 23, 2025 |access-date=October 25, 2025 |title=Morning Digest, sponsored by FiftyPlusOne: Republicans land their second-choice Sununu in New Hampshire}}</ref>
+*[[Tim Sheehy]], [[Montana]] (2025–present)<ref name="Kickoff"/>
+*[[Tommy Tuberville]], [[Alabama]] (2021–present)<ref name="Kickoff"/>
+*[[Roger Wicker]], [[Mississippi]] (2007–present)<ref name="Kickoff"/>
+*[[Todd Young]], [[Indiana]] (2017–present)<ref name="Kickoff"/>
+
+;Statewide officials
+*[[Craig Benson]], former [[governor of New Hampshire]] (2003–2005)<ref>{{cite web |last=Michael |first=Graham |date=October 23, 2025 |title=Sununu Announces Run, NH Politics Reacts |url=https://nhjournal.com/sununu-announces-run-nh-politics-reacts/ |archive-url=https://web.archive.org/web/20260426150225/https://nhjournal.com/sununu-announces-run-nh-politics-reacts/ |archive-date=April 26, 2026 |access-date=April 26, 2026 |website=New Hampshire Journal}}</ref>
+*[[Joseph Kenney]], [[New Hampshire Executive Council|New Hampshire executive councilor]] from the 1st district (2014–2019, 2021–present)<ref name=reacts/>
+*[[John Stephen (New Hampshire politician)|John Stephen]], [[New Hampshire Executive Council|New Hampshire executive councilor]] from the 4th district (2025–present)<ref name=reacts/>
+*[[Janet Stevens]], [[New Hampshire Executive Council|New Hampshire executive councilor]] from the 3rd district (2021–present)<ref name=reacts/>
+
+;State legislators
+*[[Sharon Carson]], [[president of the New Hampshire Senate]] (2024–present) from the [[New Hampshire's 14th State Senate district|14th district]] (2008–present)<ref name="Flip">{{cite web|url=https://www.foxnews.com/politics/former-gop-senator-running-flip-key-swing-state-seat-says-he-wants-work-president-trump.amp|title=Former GOP senator running to flip key swing state seat says he wants to 'work with President Trump'|last=Steinhauser|first=Paul|date=October 25, 2025|access-date=November 17, 2025|website=[[Fox News]]}}</ref>
+*[[Dan Innis]], [[New Hampshire Senate|state senator]] from the [[New Hampshire's 7th State Senate district|7th district]] (2016–2018, 2022–present)<ref name=innis/>
+*[[Jason Osborne (politician)|Jason Osborne]], [[New Hampshire House of Representatives|state representative]] from the [[Rockingham County, New Hampshire|Rockingham]] 2nd district (2014–present)<ref name="HouseDome"/>
+*[[Joseph Sweeney (American politician)|Joe Sweeney]], [[New Hampshire House of Representatives|state representative]] from the [[Rockingham County, New Hampshire|Rockingham]] 25th district (2012–present)<ref name="HouseDome"/>
+*[[Joe Alexander Jr.]], [[New Hampshire House of Representatives|state representative]] from the [[Hillsborough County, New Hampshire|Hillsborough]] 29th district (2022–present)<ref name="HouseDome"/>
+*[[Peter Varney]], [[New Hampshire House of Representatives|state representative]] from the [[Belknap County, New Hampshire|Belknap]] 5th district (2014–present)<ref name="HouseDome"/>
+*[[Sam Farrington]], [[New Hampshire House of Representatives|state representative]] from the [[Strafford County, New Hampshire|Strafford]] 8th district (2024–present)<ref name="HouseDome"/>
+
+;Party officials
+*[[Stephen Stepanek]], former chair of the [[New Hampshire Republican Party]] (2019–2023)<ref name="Flip"/>
+
+;Labor unions
+* [[Service Employees International Union|SEIU]] Local 1984<ref>{{cite web |last=Sexton |first=Adam |title=Sununu endorsed by State Employees' Association in Republican Senate primary |url=https://www.wmur.com/article/sununu-endorsed-state-employees-senate-primary/73514459 |website=[[WMUR-TV]] |date=August 24, 2026 |access-date=August 24, 2026}}</ref>
+
+;Organizations
+*[[Americans for Prosperity]]<ref name=reacts/>
+*[[Log Cabin Republicans]]<ref name="LCR">{{cite web |title=Log Cabin Republicans PAC Announces Third Round of Endorsements |url=https://logcabin.org/log-cabin-republicans-pac-announces-third-round-of-endorsements-2/ |website=Log Cabin Republicans |access-date=8 August 2026 |date=May 26, 2026}}</ref>
+*[[National Republican Senatorial Committee]]<ref name="NabsGroup"/>
+*[[Senate Leadership Fund]]<ref>{{cite web |last=Gentry |first=Dante |title=Republican PAC pumps $17M into New Hampshire Senate race |url=https://www.thecentersquare.com/new_hampshire/article_cc52d218-7bed-40e1-8080-a302d08e3a8a.html |website=[[The Center Square]] |date=March 6, 2026 |access-date=April 7, 2026}}</ref>
+*[[Turning Point Action]]<ref name="TPActionEndorsements">{{cite web |title=Turning Point Action Endorsements |url=https://www.tpaction.com/endorsements |website=Turning Point Action |access-date=June 7, 2026}}</ref>
+}}
+
+===Fundraising===
+''Italics'' indicate a withdrawn candidate.
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of June 30, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|Scott Brown (R)
+|$1,943,325
+|$1,207,514
+|$735,811
+|-
+|{{party shading/Republican}}|John E. Sununu (R)
+|$3,662,252
+|$989,605
+|$2,672,646
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC1" /></small>
+|}
+
+=== Polling ===
+'''Aggregate polls'''<br />
+{| class="wikitable sortable" style="text-align:center;font-size:90%;line-height:17px"
+!Source of poll<br />aggregation
+!Dates<br />administered
+!Dates<br />updated
+! style="width:100px;"| Scott<br />Brown
+! style="width:100px;"| John E.<br />Sununu
+! style="width:100px;"| Other/Undecided<br />{{Efn|name=combined|Calculated by taking the difference of 100% and all other candidates combined.}}
+!Margin
+|-
+|[[270 to Win]]<ref name="270toWin">{{cite web |title=2026 Polls: New Hampshire Senate|url=https://www.270towin.com/2026-senate-polls/new-hampshire |website=270 to Win |access-date=23 April 2025}}</ref>
+|August 20–26, 2026
+|September 3, 2026
+|22.0%
+|{{party shading/Republican}}|'''57.0%'''
+|21.0%
+|{{party shading/Republican}}|'''Sununu +35.0%'''
+|-
+|[[Decision Desk HQ]]<ref name="DDHQGOP">{{cite web |title=2026 New Hampshire US Senate|url=https://votes.decisiondeskhq.com/races/2026-09-08/new-hampshire-us-senate-republican-primary/polling |website=[[Decision Desk HQ]] |access-date=3 September 2026}}</ref>
+|through August 24, 2026
+|September 3, 2026
+|22.1%
+|{{party shading/Republican}}|'''56.5%'''
+|21.4%
+|{{party shading/Republican}}|'''Sununu +34.4%'''
+|-
+|Race to the WH<ref>{{cite web |title=Latest Polling for Senate Races – 2026 |url=https://www.racetothewh.com/senate/26polls |website=Race to the WH |access-date=26 March 2026}}</ref>
+|through June 25, 2026
+|July 13, 2026
+|21.7%
+|{{party shading/Republican}}|'''57.6%'''
+|20.7%{{efn|Charlie Hough with 1.4%; Tejasinha Sivalingam with 0.4%}}
+|{{party shading/Republican}}|'''Sununu +35.9%'''
+|-
+|[[RealClearPolitics]]<ref>{{cite web |title=2026 New Hampshire Senate - Republican Primary|url=https://www.realclearpolling.com/polls/senate/republican-primary/2026/new-hampshire |website=RealClearPolitics |access-date=13 November 2025}}</ref>
+|March 21 – August 24, 2026
+|September 3, 2026
+|21.0%
+|{{party shading/Republican}}|'''54.0%'''
+|25.0%
+|{{party shading/Republican}}|'''Sununu +33.0%'''
+|-
+| colspan="3" |'''Average'''
+|21.7%
+|{{party shading/Republican}}|'''56.3%'''
+|22.0%
+|{{party shading/Republican}}|'''Sununu +34.6%'''
+|}
+
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- style="vertical-align:bottom"
+! Poll source
+! Date(s)<br>administered
+! Sample<br>size{{efn|name="Key"|Key:<br />A – all adults<br />RV – registered voters<br />LV – likely voters<br />V – unclear}}
+! Margin<br>of error
+! style="width:75px;" |Scott<br/>Brown
+! style="width:75px;" |Dan<br/>Innis
+! style="width:75px;" |John E.<br/>Sununu
+! Other
+! Undecided
+|-
+|style="text-align:left;"|[[University of New Hampshire]]<ref name="UNHAugust26" />
+|August 20–24, 2026
+|856 (LV)
+|±&nbsp;3.3%
+|20%
+|{{sdash}}
+|{{party shading/Republican}}|'''60%'''
+|2%{{efn|Mary Maxwell and "write in someone else" with 1%}}
+|17%
+|-
+|style="text-align:left;"|[[Saint Anselm College]]<ref name="AnselmAugust2026"/>
+|August 17–18, 2026
+|678 (LV)
+|±&nbsp;3.7%
+|24%
+|{{sdash}}
+|{{party shading/Republican}}|'''54%'''
+|{{sdash}}
+|23%
+|-
+|style="text-align:left;"|[[Saint Anselm College]]<ref name="AnselmJune2026"/>
+|June 24–25, 2026
+|739 (RV)
+|±&nbsp;3.6%
+|21%
+|{{sdash}}
+|{{party shading/Republican}}|'''59%'''
+|{{sdash}}
+|20%
+|-
+|style="text-align:left;"|[[University of New Hampshire]]<ref name="UNHJune 2026"/>
+|June 18–23, 2026
+|978 (LV)
+|±&nbsp;3.1%
+|20%
+|{{sdash}}
+|{{party shading/Republican}}|'''59%'''
+|1%
+|20%
+|-
+|style="text-align:left;"|NHJournal/Praecones Analytica<ref>{{Cite web|url=https://nhjournal.com/exclusive-vance-dominates-new-nhgop-2028-poll/|title=EXCLUSIVE: Vance Dominates NHGOP 2028 FITN Poll|first=Michael|last=Graham|website=NHJournal|date=May 15, 2026|access-date=May 17, 2026}}</ref>
+|April 22 – May 13, 2026
+|350 (RV)
+|±&nbsp;5.2%
+|27%
+|{{sdash}}
+|{{Party shading/Republican}}|'''73%'''
+|colspan="2" {{sdash}}
+|-
+|style="text-align:left;"|[[University of New Hampshire]]<ref name="UNHApril2026"/>
+|April 17–21, 2026
+|562 (LV)
+|±&nbsp;4.1%
+|19%
+|{{sdash}}
+|{{Party shading/Republican}}|'''56%'''
+|4%{{efn|Charlie Hough and "Write in another candidate" with 2%}}
+|21%
+|-
+|style="text-align:left;"|[[Emerson College]]<ref name="EmersonMarch2026"/>
+|March 21–23, 2026
+|524 (LV)
+|±&nbsp;4.2%
+|19%
+|{{sdash}}
+|{{Party shading/Republican}}|'''48%'''
+|1%{{efn|Charlie Hough with 1%; Tejasinha Sivalingam with 0%}}
+|32%
+|-
+|style="text-align:left;"|[[Saint Anselm College]]<ref name="AnselmMarch2026"/>
+|March 16–18, 2026
+|673 (RV)
+|±&nbsp;3.8%
+|28%
+|{{sdash}}
+|{{Party shading/Republican}}|'''49%'''
+|{{sdash}}
+|23%
+|-
+| style="text-align: left;" |[[University of New Hampshire]]<ref name=":0" />
+|January 15–19, 2026
+|967 (LV)
+|±&nbsp;3.2%
+|25%
+|{{sdash}}
+|{{party shading/Republican}}|'''48%'''
+|1%{{Efn|name="WISE1"}}
+|26%
+|-
+|style="text-align:left;"|Guidant Polling and Strategy (R)<ref name="GuidantJan2026"/>{{efn-ua|name=OneNation}}
+|December 9–11, 2025
+|353 (LV)
+|{{sdash}}
+|30%
+|{{sdash}}
+|{{Party shading/Republican}}|'''49%'''
+|{{sdash}}
+|21%
+|-
+|style="text-align:left;"|[[Saint Anselm College]]<ref name=AnselmNov/>
+|November 18–19, 2025
+|1,000 (RV)
+|±&nbsp;3.1%
+|30%
+|{{sdash}}
+|{{Party shading/Republican}}|'''39%'''
+|{{sdash}}
+|31%
+|-
+|style="text-align:left;"|[[University of New Hampshire]]<ref name="UNHNov"/>
+|November 13–17, 2025
+|593 (LV)
+|±&nbsp;4.0%
+|27%
+|{{sdash}}
+|{{Party shading/Republican}}|'''40%'''
+|1%
+|31%
+|-
+|- style="background:lightyellow;" 
+| style="border-right-style:hidden; background:lightyellow;" |
+| style="border-right-style:hidden; " | September 25, 2025
+| colspan="7" |Innis withdraws from the race
+|-
+|style="text-align:left;"|[[University of New Hampshire]]<ref name="UNHSept2025"/>
+|September 17–23, 2025
+|555 (LV)
+|±&nbsp;4.2%
+|19%
+|7%
+|{{Party shading/Republican}}|'''42%'''
+|4%{{efn|"Someone else" with 4%}}
+|28%
+|-
+|style="text-align:left;"|co/efficient (R)<ref name="c/eSept2025"/>
+|September 10–12, 2025
+|346 (LV)
+|{{sdash}}
+|23%
+|8%
+|{{party shading/Republican}}|'''40%'''
+|5%{{efn|name="SE5"|"Someone else" with 5%}}
+|24%
+|-
+| style="text-align:left;" |[[Saint Anselm College]]<ref>{{Cite web|url=https://www.anselm.edu/sites/default/files/2025-09/SACSC_NHRV_0825.pdf|title=A Survey of Registered NH Voters|first1=Neil|last1=Levesque|first2=Tauna|last2=Sisco|website=[[Saint Anselm College]]|date=September 5, 2025|access-date=September 9, 2025}}</ref>
+|August 26–27, 2025
+|791 (RV)
+|±&nbsp;3.5%
+|{{party shading/Republican}}|'''48%'''
+|13%
+|{{sdash}}
+|{{sdash}}
+|39%
+|}
+
+===Results===
+{{Election box begin no change
+ | title=Republican primary results}}
+{{Election box winning candidate with party link no change
+ | party=Republican Party (United States)
+ | candidate=[[John E. Sununu]]
+ | votes= 75,839
+ | percentage=68.4
+}}
+{{Election box candidate with party link no change
+ | party=Republican Party (United States)
+ | candidate=[[Scott Brown (politician)|Scott Brown]]
+ | votes= 29,517
+ | percentage=26.6
+}}
+{{Election box candidate with party link no change
+ | party=Republican Party (United States)
+ | candidate=Sky Danley
+ | votes=1,187
+ | percentage=1.1
+}}
+{{Election box candidate with party link no change
+ | party=Republican Party (United States)
+ | candidate=Sabrina Ann Smith
+ | votes= 955
+ | percentage=0.9
+}}
+{{Election box candidate with party link no change
+ | party=Republican Party (United States)
+ | candidate=[[Andy Martin]]
+ | votes=789
+ | percentage=0.7
+}}
+{{Election box candidate with party link no change
+ | party=Republican Party (United States)
+ | candidate=Mary Maxwell
+ | votes= 774
+ | percentage=0.7
+}}
+{{Election box candidate with party link no change
+ | party=Republican Party (United States)
+ | candidate=[[Tom Alciere]]
+ | votes=602
+ | percentage=0.5
+}}
+{{Election box candidate with party link no change
+ | party=Republican Party (United States)
+ | candidate=Richard A. McMenamon II
+ | votes= 403
+ | percentage=0.4
+}}
+{{Election box write-in with party link no change
+|votes = 856
+|percentage = 0.8
+}}
+{{Election box total no change
+ | votes= 110,922
+ | percentage=100.0}}
+{{Election box end}}
+
+==Third-party and independent candidates==
+===Candidates===
+====Declared====
+*Edmond LaPlante ([[Constitution Party (United States)|Constitution]]), member of the [[List of school districts in New Hampshire|Monadnock Regional School Board]] and chairman of the [[Constitution Party (United States)|Constitution Party of New Hampshire]]<ref>{{Cite web |title=2026 Declarations of Intent |url=https://mm.nh.gov/files/uploads/sos/docs/declarations-of-intent-list-2026.pdf |website=Secretary of State: Declarations of Intent}}</ref><ref>{{Cite web |title=2026 Election Details |url=https://www.sos.nh.gov/2026-election-details}}</ref><ref>{{cite news |last1=Winger |first1=Richard |title=Constitution Party Petition Succeeds in New Hampshire |url=https://ballot-access.org/2026/09/02/constitution-party-petition-succeeds-in-new-hampshire/ |access-date=3 September 2026 |work=[[Ballot Access News]] |date=2 September 2026}}</ref>
+
+====Did not qualify====
+*Matt Giovonizzi (Independent), healthcare director<ref>{{Cite web |title=GIOVONIZZI, MATTHEW S. FEC FORM 2 STATEMENT OF CANDIDACY FILING FEC-1885748|url=https://docquery.fec.gov/cgi-bin/forms/S6NH00158/1885748/}}</ref>
+*Tim Harris (Independent), author and business advisor<ref>{{Cite web |title=NH Declaration of Candidacy |url=https://mm.nh.gov/files/uploads/sos/docs/declarations-of-intent-list-2026.pdf}}</ref>
+
+== General election ==
+=== Predictions ===
+{| class="wikitable" style=text-align:center
+!Source
+!Ranking
+!As of
+|-
+|align="left"|[[CBS News]]<ref>{{Cite news |title=2026 midterm election races to watch |url=https://www.cbsnews.com/news/2026-midterm-election-races/ |last1=Hubbard |first1=Kaia |last2=Linton |first2=Caroline |last3=Yilek |first3=Caitlin |last4=Walsh |first4=Joe |work=[[CBS News]] |orig-date=September 13, 2026 |date=October 6, 2026 |access-date=October 7, 2026}}</ref>
+|{{USRaceRating|Lean|D}}
+|October 6, 2026
+|-
+|align="left"|''[[The Cook Political Report]]''<ref>{{Cite web|title=2026 CPR Senate Race Ratings|url=https://www.cookpolitical.com/ratings/senate-race-ratings|access-date=October 7, 2026|website=[[Cook Political Report]]}}</ref>
+|{{USRaceRating|Lean|D}}
+|October 6, 2026
+|-
+|align="left"|[[Decision Desk HQ]]<ref>{{cite web|title=2026 Senate Ratings|url=https://votes.decisiondeskhq.com/forecast/2026/senate|url-access=registration|publisher=[[Decision Desk HQ]]|access-date=October 7, 2026}}</ref>
+|{{USRaceRating|Likely|D}}
+|October 7, 2026
+|-
+|align="left"|''[[The Economist]]''<ref>{{Cite web|title=2026 Senate Forecast|url=https://www.economist.com/interactive/2026/us-midterms/prediction-model/senate/|access-date=October 7, 2026|website=[[The Economist]]}}</ref>{{efn|''The Economist''{{'}}s prediction model uses unconventional terminology. For the purpose of equivalency, their "Very Likely" ratings are formatted as a "Likely" rating while "Likely" ratings are formatted as a "Lean" rating.}}
+|{{USRaceRating|Likely|D}}
+|October 7, 2026
+|-
+|align="left"|[[FiftyPlusOne]]<ref>{{Cite web |title=2026 Congressional Forecast |url=https://fiftyplusone.news/forecast/senate |access-date=October 7, 2026 |website=[[FiftyPlusOne]]}}</ref>
+|{{USRaceRating|Likely|D}}
+|October 7, 2026
+|-
+|align="left"|[[Fox News]]<ref>{{Cite news |last=Numa |first=Rémy |title=Fox News Power Rankings: The biggest surprises come after October |url=https://www.foxnews.com/politics/fox-news-power-rankings-the-biggest-surprises-come-after-october |work=[[Fox News]] |date=October 6, 2026 |access-date=October 7, 2026}}</ref>
+|{{USRaceRating|Lean|D}}
+|October 6, 2026
+|-
+|align="left"|''[[Inside Elections]]''<ref>{{Cite web|title=Senate Ratings|url=https://www.insideelections.com/ratings/senate|access-date=October 7, 2026|website=[[Inside Elections]]}}</ref>
+|{{USRaceRating|Tossup}}
+|October 1, 2026
+|-
+|align="left"|[[MS NOW]]<ref>{{Cite news |url=https://www.ms.now/news/2026-senate-ratings-ms-nows-races-to-watch |title=2026 Senate ratings: MS NOW's races to watch |last1=Khanna |first1=Kabir |last2=Thomas |first2=Shawna |orig-date=August 19, 2026 |work=[[MS NOW]] |date=September 16, 2026 |access-date=October 7, 2026}}</ref>
+|{{USRaceRating|Lean|D}}
+|September 16, 2026
+|-
+|align="left"|[[RealClearPolitics]]<ref>{{Cite web|url=https://www.realclearpolling.com/maps/senate/2026/toss-up|title=Battle for the Senate 2026|access-date=October 7, 2026|website=[[RealClearPolitics]]}}</ref>
+|{{USRaceRating|Lean|D}}
+|October 5, 2026
+|-
+|align="left"|''[[Sabato's Crystal Ball]]''<ref>{{cite web|title=2026 Senate ratings|url=https://centerforpolitics.org/crystalball/2026-senate/|website=[[Sabato's Crystal Ball]]|access-date=October 7, 2026}}</ref>
+|{{USRaceRating|Lean|D}}
+|October 6, 2026
+|-
+|align="left"|''[[Silver Bulletin]]''<ref name="Silver">{{Cite web |url=https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model |title=FLIPR 2026 midterm election forecast |last1=Silver |first1=Nate |author1-link=Nate Silver |last2=McKown-Dawson |first2=Eli |website=[[Silver Bulletin]] |via=[[Substack]] |date=October 7, 2026 |orig-date=August 11, 2026 |access-date=October 7, 2026 |url-access=subscription}}</ref>
+|{{USRaceRating|Likely|D}}
+|October 7, 2026
+|-
+|align="left"|[[Split Ticket (website)|Split Ticket]]<ref>{{Cite magazine |title=Split Ticket 2026 Midterms Model |url=https://www.theargumentmag.com/p/split-ticket-2026-midterms-model |magazine=[[The Argument (magazine)|The Argument]] |via=[[Substack]] |access-date=October 7, 2026}}</ref>
+|{{USRaceRating|Likely|D}}
+|October 7, 2026
+|}
+
+===Post-primary endorsements===
+{{Endorsements box|title=Chris Pappas (D)|list=;Organizations
+*[[J Street]]<ref>{{Cite web |title=Chris Pappas|url=https://jstreetpac.org/candidate/chris-pappas/|access-date=September 22, 2026 |publisher=J Street PAC |language=en-US}}</ref>
+}}{{Endorsements box|title=John E. Sununu (R)|list=;Executive branch officials
+*[[Scott Brown (politician)|Scott Brown]], former [[List of ambassadors of the United States to New Zealand|ambassador to New Zealand and Samoa]] (2017–2020)<ref>{{cite web |last=Robinson |first=Leonard |title=GOP Primary Wrap: Sununu Knocks Out Brown, Challenges Pappas to 10-Round Debate |url=https://nhjournal.com/gop-primary-wrap-sununu-knocks-out-brown-challenges-pappas-to-10-round-debate/ |website= NH Journal |date=September 9, 2026 |access-date=September 29, 2026}}</ref>
+*[[George W. Bush]], former [[president of the United States]] (2001–2009)<ref name="Bush">{{Cite web|url=https://www.nytimes.com/2026/09/21/us/politics/bush-cornyn-paxton-senate-fund-raiser.html|url-access=subscription|title=Bush and Cornyn Leave Out Paxton as They Raise Cash for Senate Candidates|last1=Schleifer|first1=Theodore|last2=Wagner|first2=Bayliss|date=September 21, 2026|access-date=September 21, 2026|work=[[The New York Times]]}}</ref>
+;U.S. senators
+*[[John Cornyn]], [[Texas]] (2002–present)<ref name="Bush"/>
+;Party officials
+*[[Joe Gruters]], [[chair of the Republican National Committee]] (2025–present), [[Florida]]'s [[Florida's 22nd Senate district|SD-22]] (2018–present)<ref>{{cite web |last=Graham |first=Michael |title=Gruters Pledges RNC Will Spend 'Whatever It Takes' to Win in NH |url=https://nhjournal.com/gruters-pledges-rnc-will-spend-whatever-it-takes-to-win-in-nh/ |website= NH Journal |date=September 14, 2026 |access-date=September 29, 2026}}</ref>
+;Organizations
+* [[Conservative Political Action Conference]]<ref>{{cite web |title= CPAC endorses John Sununu for U.S. Senate |url=https://www.facebook.com/CPAC/posts/cpac-endorses-john-sununu-for-us-senate-new-hampshire-has-a-chance-to-flip-a-sen/1540013404826948/ |website=[[Facebook]] |date=September 19, 2026 |access-date=September 29, 2026}}</ref>
+* [[National Rifle Association]]<ref>{{cite web |title=New Hampshire |url=https://www.nrapvf.org/grades/New-Hampshire/ |website=[[NRA Political Victory Fund]] |access-date=September 29, 2026}}</ref>
+* [[Republican Jewish Coalition]]<ref>{{cite web |title= RJC PAC Releases New Endorsements |url=https://www.rjchq.org/rjc_pac_releases_new_endorsements_2026 |website=[[Republican Jewish Coalition]] |date=September 23, 2026 |access-date=September 29, 2026}}</ref>}}
+
+===Fundraising===
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of August 19, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|Chris Pappas (D)
+|$15,384,657
+|$11,540,323
+|$4,251,918
+|-
+|{{party shading/Republican}}|John E. Sununu (R)
+|$4,124,582
+|$1,104,788
+|$3,019,794
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC1" /></small>
+|}
+
+===Polling===
+'''Aggregate polls'''<br />
+{|class="wikitable sortable" style="text-align:center;font-size:90%;line-height:17px"
+!Source of poll<br/>aggregation
+!Dates<br/>administered
+!Dates<br/>updated
+!style="width:100px;"|Chris<br/>Pappas
+!style="width:100px;"|John E.<br/>Sununu
+!style="width:100px;"|Other/Undecided<br/>{{Efn|name=combined}}
+!Margin
+|-
+|[[270toWin]]<ref name="270toWin"/>
+|September 14–27, 2026
+|September 27, 2026
+|{{party shading/Democratic}}|'''48.2%'''
+|42.8%
+|9.0%
+|{{party shading/Democratic}}|'''Pappas +5.4%'''
+|-
+|[[Decision Desk HQ]]<ref>{{cite web|title=2026 New Hampshire Senate Polling|url=https://votes.decisiondeskhq.com/races/2026-11-03/new-hampshire-us-senate-general-election/polling|publisher=[[Decision Desk HQ]]|access-date=September 15, 2026}}</ref>
+|through October 5, 2026
+|October 6, 2026
+|{{party shading/Democratic}}|'''50.2%'''
+|43.0%
+|6.8%
+|{{party shading/Democratic}}|'''Pappas +7.2%'''
+|-
+|[[FiftyPlusOne]]<ref>{{cite web|title=New Hampshire General Senate Election|url=https://fiftyplusone.news/polls/senate/general/new-hampshire|publisher=[[FiftyPlusOne]]|access-date=September 18, 2026}}</ref>
+|through October 5, 2026
+|October 6, 2026
+|{{party shading/Democratic}}|'''49.4%'''
+|42.8%
+|7.8%
+|{{party shading/Democratic}}|'''Pappas +6.6%'''
+|-
+|[[RealClearPolitics]]<ref>{{cite web|title=2026 New Hampshire Senate - Pappas vs. Sununu|url=https://www.realclearpolling.com/polls/senate/general/2026/new-hampshire/pappas-vs-sununu|publisher=[[RealClearPolitics]]|access-date=November 13, 2025}}</ref>
+|September 9 – October 5, 2026
+|October 6, 2026
+|{{party shading/Democratic}}|'''49.0%'''
+|43.1%
+|7.9%
+|{{party shading/Democratic}}|'''Pappas +5.9%'''
+|-
+|''[[Silver Bulletin]]''<ref name="Silver"/>
+|through October 5, 2026
+|October 6, 2026
+|{{party shading/Democratic}}|'''48.7%'''
+|41.4%
+|9.9%
+|{{party shading/Democratic}}|'''Pappas +7.3%'''
+|-
+|colspan="3"|'''Average'''
+|{{party shading/Democratic}}|'''49.1%'''
+|42.6%
+|8.3%
+|{{party shading/Democratic}}|'''Pappas +6.5%'''
+|}
+
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br/>administered
+! Sample<br/>size{{efn|name="Key"}}
+! Margin<br/>of error
+! style="width:100px;"| Chris<br/>Pappas (D)
+! style="width:100px;"| John E.<br/>Sununu (R)
+! Other
+! Undecided
+|-
+| style="text-align:left;|[[YouGov]]<ref>{{cite web|title=New Hampshire General Election 2026 – Likely Voters|url=https://d3nkl3psvxxpe9.cloudfront.net/documents/ttw_nh_20260921_lv.pdf |website=[[YouGov]] |date=October 6, 2026 |access-date=October 6, 2026}}</ref>
+|September 28 – October 5, 2026
+|1,520 (LV)
+|±&nbsp;3.9%
+|{{party shading/Democratic}} |'''51%'''
+|43%
+|1%
+|4%
+|-
+|style="text-align:left;"|[[Saint Anselm College]]<ref>{{cite web|url=https://www.aarp.org/content/dam/aarp/research/topics/voter-opinion-research/politics/2026-midterm-election-poll-new-hampshire.doi.10.26419-2fres.01065.022.pdf|title=A Survey of New Hampshire Likely Voters|date=October 6, 2026|access-date=October 6, 2026|website=[[AARP]]}}</ref>{{efn-ua|Poll sponsored by [[AARP]]}}
+|September 28–29, 2026
+|1,042 (LV)
+|±{{nbsp}}3.0%
+|{{party shading/Democratic}}|'''51%'''
+|44%
+|3%{{efn|"Someone else" with 3%}}
+|1%
+|-
+|style="text-align:left;"|[[Trafalgar Group]] (R)<ref>{{Cite web |url=https://www.thetrafalgargroup.org/wp-content/uploads/2026/09/NH-Midterms-Survey-Report-0927.pdf |title=New Hampshire General Election Survey |work=[[Trafalgar Group]] |date=September 27, 2026 |access-date=September 27, 2026}}</ref>
+|September 26–27, 2026
+|1,082 (LV)
+|±{{nbsp}}2.9%
+|{{party shading/Democratic}}|'''47%'''
+|41%
+|1%{{efn|Edmond Laplante (C) with 1%}}
+|11%
+|-
+| style="text-align: left;"|[[New York Times]]/[[Siena University (New York)|Siena University]]<ref>{{cite web |title=Democrats Show Strength in Michigan Senate Race but Trail in Maine, Polls Find |url=https://www.nytimes.com/2026/09/24/us/politics/democrats-show-strength-in-michigan-senate-race-but-trail-in-maine-polls-find.html |website=[[NYTimes]] |date=September 24, 2026 |access-date=September 24, 2026}}</ref>
+|September 15–22, 2026
+|613 (LV)
+|±&nbsp;4.9%
+|{{party shading/Democratic}}|'''50%'''
+|45%
+|{{sdash}}
+|5%
+|-
+|style="text-align:left;"|[[University of New Hampshire]]<ref>{{Cite web|url=https://scholars.unh.edu/cgi/viewcontent.cgi?article=2004&context=survey_center_polls |title=Pappas Opens Narrow Lead Over Sununu in New Hampshire Senate Race, Race for Governor Tightens |first1=Sean P. |last1=McKinley |first2=Andrew E. |last2=Smith |first3=Zachary S. |last3=Azem |first4=Tracy |last4=Keirns |publisher=[[University of New Hampshire]] |date=September 24, 2026 |access-date=September 24, 2026}}</ref>
+|September 17–21, 2026
+|1,418 (LV)
+|±&nbsp;2.6%
+|{{party shading/Democratic}}|'''50%'''
+|42%
+|4%{{efn|Edmond LaPlante (C) with 2%; Another candidate with 2%}}
+|4%
+|-
+|style="text-align:left;"|InsiderAdvantage (R)<ref>{{cite web|url=https://insideradvantage.com/nh-top-line-tabs/|title=NH Top Line Tabs|date=September 18, 2026|access-date=September 18, 2026}}</ref>
+|September 16–17, 2026
+|1,200 (LV)
+|±&nbsp;2.8%
+|{{party shading/Democratic}}|'''48%'''
+|40%
+|3%{{efn|Matt Giovonizzi (I), Tim Harris (I), and Edmond LaPlante (C) with 1%}}
+|9%
+|-
+|style="text-align:left;"|co/efficient (R)<ref name="co914">{{cite web |title=New Hampshire · U.S. Senate |url=https://battlegrounds.coefficient.org/nh/ |website=co/efficient |access-date=14 September 2026 |date=September 14, 2026}}</ref>
+|September 9–11, 2026
+|958 (LV)
+|±&nbsp;3.2%
+|'''46%'''
+|'''46%'''
+|–
+|9%
+|-
+|style="text-align:left;"|[[Rasmussen Reports]] (R)<ref>{{cite web |title=N.H. Senate: Democrat Pappas Leads by Double Digits |url=https://www.rasmussenreports.com/public_content/politics/elections/election_2026/n_h_senate_democrat_pappas_leads_by_double_digits |website=[[Rasmussen Reports]] |access-date=September 11, 2026 |date=September 11, 2026}}</ref>
+|September 8–10, 2026
+|1,000 (LV)
+|±&nbsp;2.0%
+|{{party shading/Democratic}}|'''45%'''
+|34%
+|13%{{efn|Day (I) with 4%; Harris (I) with 4%; Laplante (C) with 2%; Lopez (I) with 2%; Morrow (I) with 1%}}
+|9%
+|-
+|- style="background:lightyellow;"
+| style="border-right-style:hidden; background:lightyellow;" |
+| style="border-right-style:hidden; " | September 8, 2026
+| colspan="16"| Primary elections are held
+|-
+|style="text-align:left;"|Fabrizio, Lee, & Associates (R)<ref name="FabrizioSep2026">{{cite web |title=SUNUNU UP 1-POINT IN TIGHT NH SENATE RACE |url=https://www.nrsc.org/wp-content/uploads/2026/09/9-1-26-NRSC-NH-Polling-Memo.pdf |website=NRSC |access-date=3 September 2026 |date=September 1, 2026}}</ref>{{efn-ua|name=NRSC}}
+|August 27–30, 2026
+|600 (LV)
+|±&nbsp;4.0%
+|36%
+|{{party shading/Republican}}|'''37%'''
+|4%{{efn|Aaron Day (I), Christine Lopez (I), and Tim Harris (I) with 1%; Jeanne Morrow (I) with <1%}}
+|23%
+|-
+|style="text-align:left;"|[[University of New Hampshire]]<ref name="UNHAugust26" />
+|August 20–24, 2026
+|1,878 (LV)
+|±&nbsp;2.3%
+|43%
+|{{party shading/Republican}}|'''45%'''
+|5%{{efn|"Write in someone else" with 5%}}
+|7%
+|-
+|style="text-align:left;"|[[Saint Anselm College]]<ref name="AnselmAugust2026"/>
+|August 17–18, 2026
+|1,411 (LV)
+|±&nbsp;2.6%
+|{{party shading/Democratic}}|'''48%'''
+|41%
+|{{sdash}}
+|11%
+|-
+|style="text-align:left;"|Peak Insights (R)<ref>{{Cite web|url=https://www.nrsc.org/wp-content/uploads/2026/07/new-hampshire-poll.pdf|title=NH Senate Race is a Dead Heat|first=Erik|last=Iverson|work=Peak Insights|date=July 9, 2026|access-date=July 10, 2026}}</ref>{{efn-ua|name=NRSC|Poll sponsored by the [[National Republican Senatorial Committee|NRSC]]}}
+|June 24–27, 2026
+|500 (LV)
+|±&nbsp;4.0%
+|{{party shading/Democratic}}|'''43%'''
+|42%
+|{{sdash}}
+|15%
+|-
+|style="text-align:left;"|[[Saint Anselm College]]<ref name="AnselmJune2026"/>
+|June 24–25, 2026
+|1,614 (RV)
+|±&nbsp;2.4%
+|{{party shading/Democratic}}|'''47%'''
+|41%
+|{{sdash}}
+|12%
+|-
+|style="text-align:left;"|[[University of New Hampshire]]<ref name="UNHJune 2026"/>
+|June 18–23, 2026
+|2,232 (LV)
+|±&nbsp;2.1%
+|{{party shading/Democratic}}|'''47%'''
+|44%
+|2%
+|7%
+|-
+|style="text-align:left;"|[[University of New Hampshire]]<ref name="UNHApril2026"/>
+|April 17–21, 2026
+|1,295 (LV)
+|±&nbsp;2.7%
+|{{party shading/Democratic}}|'''49%'''
+|42%
+|4%{{efn|"Another candidate" with 4%}}
+|6%
+|-
+|style="text-align:left;"|[[Emerson College]]<ref name="EmersonMarch2026"/>
+|March 21–23, 2026
+|1,000 (LV)
+|±&nbsp;2.9%
+|{{party shading/Democratic}}|'''45%'''
+|44%
+|5%{{efn|name="SE5"}}
+|6%
+|-
+|style="text-align:left;"|[[Saint Anselm College]]<ref name="AnselmMarch2026"/>
+|March 16–18, 2026
+|1,491 (RV)
+|±&nbsp;2.5%
+|{{party shading/Democratic}}|'''46%'''
+|43%
+|{{sdash}}
+|11%
+|-
+|style="text-align: left;"|yes. every kid.<ref>{{Cite web|url=https://yeseverykid.com/new-hampshire-voters-support-expanded-public-school-access/|title=New Hampsh⁠i⁠re vo⁠t⁠ers suppor⁠t⁠ expanded publ⁠i⁠c school access|website=yes. every kid.|date=February 13, 2026|access-date=February 14, 2026}}</ref>
+|January 28–29, 2026
+|563 (LV)
+|±&nbsp;4.1%
+|{{party shading/Democratic}}|'''45%'''
+|41%
+|{{sdash}}
+|14%
+|-
+| style="text-align: left;" |[[University of New Hampshire]]<ref name=":0" />
+|January 15–19, 2026
+|2,053 (LV)
+|±&nbsp;2.1%
+|{{party shading/Democratic}}|'''50%'''
+|45%
+|1%{{Efn|name=AC1}}
+|5%
+|-
+|style="text-align:left;"|NHJournal/Praecones Analytica<ref name="NHJJan2026"/>
+|December 26–28, 2025
+|603 (RV)
+|±&nbsp;4.0%
+|{{party shading/Democratic}}|'''42%'''
+|36%
+|{{sdash}}
+|22%
+|-
+|style="text-align:left;"|Guidant Polling and Strategy (R)<ref name="GuidantJan2026"/>{{efn-ua|name=OneNation}}
+|December 9–11, 2025
+|600 (LV)
+|±&nbsp;4.0%
+|{{party shading/Democratic}}|'''47%'''
+|44%
+|{{sdash}}
+|9%
+|-
+|style="text-align:left;"|[[Saint Anselm College]]<ref name=AnselmNov/>
+|November 18–19, 2025
+|2,212 (RV)
+|{{sdash}}
+|{{Party shading/Democratic}}|'''44%'''
+|41%
+|{{sdash}}
+|16%
+|-
+|style="text-align:left;"|co/efficient (R)<ref name=coe2026gen/>
+|October 9–13, 2025
+|1,034 (LV)
+|±&nbsp;3.1%
+|{{party shading/Democratic}}|'''45%'''
+|42%
+|{{sdash}}
+|12%
+|-
+|style="text-align:left;"|[[University of New Hampshire]]<ref name="UNHSept2025"/>
+|September 17–23, 2025
+|1,235 (LV)
+|±&nbsp;2.8%
+|{{party shading/Democratic}}|'''49%'''
+|43%
+|1%{{efn||name=AC1}}
+|7%
+|-
+|style="text-align:left;"|co/efficient (R)<ref name="c/eSept2025"/>
+|September 10–12, 2025
+|904 (LV)
+|±&nbsp;3.3%
+|{{party shading/Democratic}}|'''46%'''
+|43%
+|{{sdash}}
+|11%
+|-
+|style="text-align:left;"|1892 Polling (R)<ref>{{Cite web|url=https://punchbowl.news/wp-content/uploads/NHSEN_Poll2Memo_d2b_090625.pdf|title=NH SEN: Sununu Would Flip the Script in New Hampshire Senate Race|work=1892 Polling|date=September 6, 2025|access-date=September 9, 2025}}</ref>{{efn-ua|name=OneNation|Poll sponsored by [[One Nation (United States)|One Nation]], a group aligned with the [[Senate Leadership Fund]]}}
+|September 2–4, 2025
+|500 (LV)
+|±&nbsp;4.4%
+|{{party shading/Democratic}}|'''45%'''
+|43%
+|{{sdash}}
+|12%
+|}
+
+<!-- = = = don't edit the line below = = = -->
+{{hidden begin|titlestyle=background:#cff|title=Hypothetical polling|contentstyle=border:solid 1px silver; padding:8px; background:var(--background-color-base); color:var(--color-base);}}
+<!-- = = = don't edit the line above = = = -->
+
+'''Chris Pappas vs. Scott Brown'''<br/>
+
+'''Aggregate polls'''<br />
+{| class="wikitable sortable" style="text-align:center;font-size:90%;line-height:17px"
+!Source of poll<br />aggregation
+!Dates<br />administered
+!Dates<br />updated
+! style="width:100px;"| Chris<br />Pappas
+! style="width:100px;"| Scott<br />Brown
+! style="width:100px;"| Other/Undecided<br />{{Efn|name=combined|Calculated by taking the difference of 100% and all other candidates combined.}}
+!Margin
+|-
+|[[270toWin]]<ref name="270toWin"/>
+|June 30 – June 30, 2026
+|July 13, 2026
+|{{party shading/Democratic}}|'''50.0%'''
+|37.0%
+|13.0%
+|{{party shading/Democratic}}|'''Pappas +13.0%'''
+|-
+|Race to the WH<ref name="rtwhpoll">{{Cite web |title=2026 Senate Polling Average |url=https://www.racetothewh.com/senate/26polls |access-date=February 8, 2026 |website=Race to the WH}}</ref>
+|through June 25, 2026
+|August 17, 2026
+|{{party shading/Democratic}}|'''48.4%'''
+|36.4%
+|15.2%
+|{{party shading/Democratic}}|'''Pappas +12.0%'''
+|-
+|[[RealClearPolitics]]<ref>{{cite web |title=2026 New Hampshire Senate - Pappas vs. Brown|url=https://www.realclearpolling.com/polls/senate/general/2026/new-hampshire/pappas-vs-brown |website=RealClearPolitics |access-date=13 November 2025}}</ref>
+|March 21 – June 25, 2026
+|July 13, 2026
+|{{party shading/Democratic}}|'''49.3%'''
+|37.7%
+|13.0%
+|{{party shading/Democratic}}|'''Pappas +11.6%'''
+|-
+| colspan="3" |'''Average'''
+|{{party shading/Democratic}}|'''49.2%'''
+|37.0%
+|13.7%
+|{{party shading/Democratic}}|'''Pappas +12.2%'''
+|}
+
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br/>administered
+! Sample<br/>size{{efn|name="Key"}}
+! Margin<br/>of error
+! style="width:100px;"| Chris<br/>Pappas (D)
+! style="width:100px;"| Scott<br/>Brown (R)
+! Other
+! Undecided
+|-
+|style="text-align:left;"|[[University of New Hampshire]]<ref name="UNHAugust26" />
+|August 20–24, 2026
+|1,878 (LV)
+|±&nbsp;2.3%
+|{{party shading/Democratic}}|'''45%'''
+|40%
+|5%{{efn|"Write in someone else" with 5%}}
+|10%
+|-
+|style="text-align:left;"|[[Saint Anselm College]]<ref name="AnselmAugust2026"/>
+|August 17–18, 2026
+|1,411 (LV)
+|±&nbsp;2.6%
+|{{party shading/Democratic}}|'''49%'''
+|37%
+|{{sdash}}
+|13%
+|-
+|style="text-align:left;"|[[Saint Anselm College]]<ref name="AnselmJune2026"/>
+|June 24–25, 2026
+|1,614 (RV)
+|±&nbsp;2.4%
+|{{party shading/Democratic}}|'''48%'''
+|36%
+|{{sdash}}
+|16%
+|-
+|style="text-align:left;"|[[University of New Hampshire]]<ref name="UNHJune 2026"/>
+|June 18–23, 2026
+|2,232 (LV)
+|±&nbsp;2.1%
+|{{party shading/Democratic}}|'''52%'''
+|38%
+|2%
+|8%
+|-
+|style="text-align:left;"|[[University of New Hampshire]]<ref name="UNHApril2026"/>
+|April 17–21, 2026
+|1,295 (LV)
+|±&nbsp;2.7%
+|{{party shading/Democratic}}|'''52%'''
+|38%
+|3%{{Efn|"Another candidate" with 3%|name=AC3}}
+|7%
+|-
+|style="text-align:left;"|[[Emerson College]]<ref name="EmersonMarch2026">{{cite web|url=https://emersoncollegepolling.com/new-hampshire-2026-sununu-leads-gop-nomination-ties-pappas-for-senate/|title=New Hampshire 2026: Sununu Leads GOP Nomination, Ties Pappas for Senate|website=[[Emerson College Polling]]|date=March 26, 2026|access-date=March 26, 2026}}</ref>
+|March 21–23, 2026
+|1,000 (LV)
+|±&nbsp;2.9%
+|{{party shading/Democratic}}|'''48%'''
+|39%
+|6%{{efn|"Someone else" with 6%}}
+|7%
+|-
+|style="text-align:left;"|[[Saint Anselm College]]<ref name="AnselmMarch2026">{{cite web|url=https://www.anselm.edu/sites/default/files/2026-03/SACSC_NHRV_0326.pdf|title=A Survey of New Hampshire Registered Voters|first1=Neil|last1=Levesque|first2=Tauna|last2=Sisco|website=[[Saint Anselm College]]|date=March 23, 2026|access-date=March 23, 2026}}</ref>
+|March 16–18, 2026
+|1,491 (RV)
+|±&nbsp;2.5%
+|{{party shading/Democratic}}|'''47%'''
+|38%
+|{{sdash}}
+|15%
+|-
+|style="text-align: left;"|[[University of New Hampshire]]<ref name=":0">{{Cite web |title=Sununu, Pappas Frontrunners in 2026 NH Senate Race; Ayotte Favored for Re-election as Governor |url=https://scholars.unh.edu/cgi/viewcontent.cgi?article=1921&amp;context=survey_center_polls |first1=Sean P. |last1=McKinley |first2=Andrew E. |last2=Smith |first3=Zachary S. |last3=Azem |first4=Tracy |last4=Keirns|website=UNH Scholars Repository|date=January 21, 2026|access-date=January 22, 2026}}</ref>
+|January 15–19, 2026
+|2,053 (LV)
+|±&nbsp;2.1%
+|{{party shading/Democratic}}|'''52%'''
+|42%
+|1%{{Efn|"Another candidate" with 1%|name=AC1}}
+|5%
+|-
+|style="text-align:left;"|NHJournal/Praecones Analytica<ref name="NHJJan2026">{{cite web|url=https://nhjournal.com/exclusive-trump-underwater-ayotte-still-afloat-in-new-nhjournal-poll/|title=EXCLUSIVE: Trump Underwater, Ayotte Still Afloat in New NHJournal Poll|first1=Michael|last1=Graham|website=NHJournal|date=January 4, 2026|access-date=January 5, 2026}}</ref>
+|December 26–28, 2025
+|603 (RV)
+|±&nbsp;4.0%
+|{{party shading/Democratic}}|'''46%'''
+|28%
+|{{sdash}}
+|26%
+|-
+|style="text-align:left;"|Guidant Polling and Strategy (R)<ref name="GuidantJan2026">{{cite web|url=https://www.politico.com/f/?id=0000019b-9106-d651-a1ff-bf668d720000|title=New Hampshire Senate Survey Results|work=Guidant Polling and Strategy|date=December 29, 2025|access-date=January 6, 2026}}</ref>{{efn-ua|name=OneNation}}
+|December 9–11, 2025
+|600 (LV)
+|±&nbsp;4.0%
+|{{party shading/Democratic}}|'''49%'''
+|38%
+|{{sdash}}
+|13%
+|-
+|style="text-align:left;"|[[Saint Anselm College]]<ref name=AnselmNov/>
+|November 18–19, 2025
+|2,212 (RV)
+|{{sdash}}
+|{{Party shading/Democratic}}|'''44%'''
+|36%
+|{{sdash}}
+|20%
+|-
+|style="text-align:left;"|co/efficient (R)<ref name=coe2026gen>{{cite web|url=https://coefficient.org/new-hampshire-us-senate-2026-general-election/|title=New Hampshire Senate 2026 General Election|website=co/efficient|date=October 13, 2025|access-date=October 15, 2025}}</ref>
+|October 9–13, 2025
+|1,034 (LV)
+|±&nbsp;3.1%
+|{{party shading/Democratic}}|'''49%'''
+|39%
+|{{sdash}}
+|13%
+|-
+|style="text-align:left;"|[[University of New Hampshire]]<ref name="UNHSept2025"/>
+|September 17–23, 2025
+|1,235 (LV)
+|±&nbsp;2.8%
+|{{party shading/Democratic}}|'''52%'''
+|37%
+|2%{{efn|"Another candidate" with 2%}}
+|8%
+|-
+|style="text-align:left;"|co/efficient (R)<ref name="c/eSept2025"/>
+|September 10–12, 2025
+|904 (LV)
+|±&nbsp;3.3%
+|{{party shading/Democratic}}|'''50%'''
+|40%
+|{{sdash}}
+|10%
+|-
+|style="text-align:left;"|[[Saint Anselm College]]<ref name="AnselmAug2025"/>
+|August 26–27, 2025
+|1,776 (RV)
+|±&nbsp;2.3%
+|{{party shading/Democratic}}|'''48%'''
+|37%
+|{{sdash}}
+|15%
+|}
+
+'''Chris Pappas vs. Dan Innis'''<br/>
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br/>administered
+! Sample<br/>size{{efn|name="Key"}}
+! Margin<br/>of error
+! style="width:100px;"| Chris<br/>Pappas (D)
+! style="width:100px;"| Dan<br/>Innis (R)
+! Undecided
+|-
+|style="text-align:left;"|co/efficient (R)<ref name="c/eSept2025">{{cite web|url=https://coefficient.org/wp-content/uploads/2025/09/NH-U.S.-Senate-General-Election-2026.pdf|title=New Hampshire Senate 2026 Election|website=co/efficient|date=September 12, 2025|access-date=September 15, 2025}}</ref>
+|September 10–12, 2025
+|904 (LV)
+|±&nbsp;3.3%
+|{{party shading/Democratic}}|'''49%'''
+|37%
+|14%
+|-
+|style="text-align:left;"|[[Saint Anselm College]]<ref name="AnselmAug2025">{{Cite web|url=https://www.wmur.com/article/poll-pappas-republicans-senate-race-9325/65974049|title=Poll shows Pappas leading potential Republican nominees in Senate racep|first=Adam|last=Sexton|website=[[WMUR]]|date=September 3, 2025|access-date=September 3, 2025}}</ref>
+|August 26–27, 2025
+|1,776 (RV)
+|±&nbsp;2.3%
+|{{party shading/Democratic}}|'''48%'''
+|30%
+|22%
+|}
+
+'''Chris Pappas vs. Chris Sununu'''<br/>
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br/>administered
+! Sample<br/>size{{efn|name="Key"}}
+! Margin<br/>of error
+! style="width:100px;"| Chris<br/>Pappas (D)
+! style="width:100px;"| Chris<br/>Sununu (R)
+! Undecided
+|-
+|style="text-align:left;"|Quantus Insights (R)<ref>{{Cite web|url=https://quantusinsights.org/f/sununu-leads-pappas-in-hypothetical-new-hampshire-senate-matchup|title=Sununu Leads Pappas in Hypothetical New Hampshire Senate Matchup|website=Quantus Insights|date=March 20, 2025|access-date=March 20, 2025}}</ref>{{efn-ua|name=Trending|Poll sponsored by Trending Politics, a conservative news website}}
+|March 17–19, 2025
+|650 (RV)
+|±&nbsp;3.8%
+|44%
+|{{party shading/Republican}}|'''53%'''
+|3%
+|}
+
+'''Jeanne Shaheen vs. Chris Sununu'''<br/>
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br/>administered
+! Sample<br/>size{{efn|name="Key"}}
+! Margin<br/>of error
+! style="width:100px;"| Jeanne<br/>Shaheen (D)
+! style="width:100px;"| Chris<br/>Sununu (R)
+! Undecided
+|-
+|style="text-align:left;"|Praecones Analytica<ref name="PraeconesMarch2025">{{Cite web|url=https://nhjournal.com/exclusive-poll-age-issue-dogs-shaheen-trails-sununu-by-9-points/|title=EXCLUSIVE POLL: Age Issue Dogs Shaheen, Trails Sununu by 9 Points|first=Michael|last=Graham|website=NHJournal|date=March 2, 2025|access-date=March 3, 2025}}</ref>{{efn-ua|name=NHJ|Poll conducted for the NHJournal}}
+|February 26 – March 1, 2025
+|626 (RV)
+|±&nbsp;4.5%
+|46%
+|{{party shading/Republican}}|'''54%'''
+|{{sdash}}
+|}
+
+'''Jeanne Shaheen vs. Frank Edelblut'''<br/>
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br/>administered
+! Sample<br/>size{{efn|name="Key"}}
+! Margin<br/>of error
+! style="width:100px;"| Jeanne<br/>Shaheen (D)
+! style="width:100px;"| Frank<br/>Edelblut (R)
+! Undecided
+|-
+|style="text-align:left;"|Praecones Analytica<ref name="PraeconesMarch2025"/>{{efn-ua|name=NHJ}}
+|February 26 – March 1, 2025
+|626 (RV)
+|±&nbsp;4.5%
+|{{party shading/Democratic}}|'''59%'''
+|41%
+|{{sdash}}
+|}
+
+'''Jeanne Shaheen vs. Scott Brown'''<br/>
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br/>administered
+! Sample<br/>size{{efn|name="Key"}}
+! Margin<br/>of error
+! style="width:100px;"| Jeanne<br/>Shaheen (D)
+! style="width:100px;"| Scott<br/>Brown (R)
+! Undecided
+|-
+|style="text-align:left;"|Praecones Analytica<ref name="PraeconesMarch2025"/>{{efn-ua|name=NHJ}}
+|February 26 – March 1, 2025
+|626 (RV)
+|±&nbsp;4.5%
+|{{party shading/Democratic}}|'''55%'''
+|45%
+|{{sdash}}
+|}
+
+'''Generic Democrat vs. generic Republican'''<br/>
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- valign=bottom
+! Poll source
+! Date(s)<br/>administered
+! Sample<br/>size{{efn|name="Key"}}
+! Margin<br/>of error
+! style="width:100px;"| Generic<br/>Democrat
+! style="width:100px;"| Generic<br/>Republican
+! Undecided
+|-
+|style="text-align:left;"|co/efficient (R)<ref name=coe2026gen/>
+|October 9–13, 2025
+|1,034 (LV)
+|±&nbsp;3.1%
+|{{party shading/Democratic}}|'''47%'''
+|44%
+|9%
+|}
+{{hidden end}}
+
+===Results===
+{{Election box begin
+ | title = 2026 United States Senate election in New Hampshire
+}}
+{{Election box candidate with party link|party=Democratic Party (United States)|candidate=[[Chris Pappas (American politician)|Chris Pappas]]|votes=|percentage=|change=}}
+{{Election box candidate with party link|party=Republican Party (United States)|candidate=[[John E. Sununu]]|votes=|percentage=|change=}}
+{{Election box candidate with party link|party=Constitution Party (United States)|candidate=Edmond J. LaPlante Jr.|votes=|percentage=|change=}}
+{{Election box write-in with party link
+ |votes      =
+ |percentage =
+ |change     =
+}}{{Election box total
+ |votes      =
+ |percentage =100.0
+ |change=
+}}{{Election box end}}
+
+== See also ==
+
+* [[2026 New Hampshire gubernatorial election]]
+* [[2026 New Hampshire elections]]
+
+==Notes==
+{{notelist}}
+'''Partisan clients'''<br/>
+{{notelist-ua}}
+
+==References==
+{{Reflist}}
+
+==External links==
+;Official campaign websites
+*[https://laplante4constitutionalnh.com/ Edmond Laplante (C)]
+*[https://chrispappas.org/ Chris Pappas (D)]
+*[https://www.sununusenator.com/ John E. Sununu (R)]
+
+{{2026 United States elections}}
+
+[[Category:United States Senate elections in New Hampshire|2026]]
+[[Category:2026 United States Senate elections|New Hampshire]]
+[[Category:2026 New Hampshire elections|United States Senate]]

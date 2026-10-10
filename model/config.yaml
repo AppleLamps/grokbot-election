@@ -1,0 +1,70 @@
+# ============================================================
+# 2026 Midterm Model - all tunable assumptions live here.
+# Margins are always D-minus-R in percentage points (positive = Dem/Dem-side ahead).
+# ============================================================
+
+simulations: 40000
+seed: 2026
+
+# ---- National environment -----------------------------------
+# Generic congressional ballot average (D minus R). Wikipedia aggregate of
+# DDHQ / FiftyPlusOne / NBC / RCP / Silver Bulletin, updated Oct 9 2026: D+8.4.
+generic_ballot_margin: 8.4
+
+# ---- Polling-error scenarios ---------------------------------
+# poll_bias = how much the polls OVERSTATE Democrats (margin points).
+#   +3  -> true result is 3 pts more Republican than polls (2016/2020/2024 style)
+#   -6  -> true result is 6 pts more Democratic than polls (2025 off-year style)
+# The bias is applied to EVERYTHING that comes from polls, which includes the
+# generic ballot that drives House + Senate fundamentals. It is shared by every
+# race in a given simulation (correlated), then a random national error with
+# sd = poll_bias_sd is drawn around that mean.
+scenarios:
+  unbiased:
+    label: "(i) Polls unbiased"
+    poll_bias_mean: 0.0
+    poll_bias_sd: 3.0
+  pres_style_D_overstatement:
+    label: "(ii) Presidential-style miss: polls overstate D by 3"
+    poll_bias_mean: 3.0
+    poll_bias_sd: 3.0
+  r_overstatement_2025:
+    label: "(iii) 2025-style miss: polls overstate R by 6"
+    poll_bias_mean: -6.0
+    poll_bias_sd: 3.0
+
+# ---- Correlated sub-national error ---------------------------
+state_error_sd: 2.0          # shared by the Senate race + every House seat in a state
+
+# ---- Senate ---------------------------------------------------
+senate:
+  seats_not_up_D: 34          # 45 D + 2 I (King, Sanders) = 47, minus 13 D seats up
+  seats_not_up_R: 31          # 53 R minus 22 R seats up
+  vp_party: R                 # VP JD Vance breaks 50-50 ties
+  pvi_multiplier: 2.0         # Cook PVI is in two-party-share points; margin = 2 x PVI
+  incumbency_bonus: 3.0       # margin pts for an elected incumbent running
+  appointed_incumbency_bonus: 1.5
+  use_candidate_adjustments: true   # ME Collins / NE Osborn / AK Peltola (see CSV notes)
+  # Weight on the polling average vs. fundamentals, by number of poll sources
+  poll_weight_by_sources: {0: 0.0, 1: 0.35, 2: 0.6, 3: 0.75, 4: 0.85, 5: 0.85, 6: 0.85}
+  # Race-specific (idiosyncratic) error sd by number of poll sources
+  race_sd_by_sources: {0: 7.0, 1: 6.0, 2: 5.0, 3: 4.5, 4: 4.0, 5: 4.0, 6: 4.0}
+  # Probability that an independent winner (Osborn NE, Bodnar MT, etc.)
+  # organizes with each party. Remainder = caucuses with neither.
+  independent_caucus: {D: 0.6, R: 0.0}
+
+# ---- House ----------------------------------------------------
+house:
+  majority: 218
+  pvi_multiplier: 2.0
+  incumbency_bonus: 3.0       # margin pts for an incumbent running for re-election
+  district_sd: 6.0            # idiosyncratic district error (no district poll)
+  district_sd_with_poll: 4.5
+  district_poll_weight: 0.5
+  house_independent_caucus: {CA-6: R}   # Kevin Kiley (ex-R, now independent)
+  seat_bias: 0.0              # optional manual shift for every district (D-margin pts)
+
+# ---- Early vote ----------------------------------------------
+# Early-vote volume does NOT reveal vote choice, so these default to 0.
+# Put a nonzero D-margin shift here if you want to encode a belief.
+early_vote_adjustment: {VA: 0.0, FL: 0.0, OH: 0.0, MI: 0.0, TX: 0.0}

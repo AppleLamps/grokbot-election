@@ -1,0 +1,918 @@
+{{short description|none}}
+{{for|related races|2026 United States Senate elections}}
+{{distinguish|text=the [[2026 Florida Senate election]]}}
+{{Use American English|date=July 2026}}
+{{Use mdy dates|date=July 2026}}
+{{Infobox election
+| election_name     = 2026 United States Senate special election in Florida
+| country           = Florida
+| type              = presidential
+| ongoing           = yes
+| previous_election = 2022 United States Senate election in Florida
+| previous_year     = 2022
+| next_election     = 2028 United States Senate election in Florida
+| next_year         = ''2028''
+| election_date     = November 3, 2026
+| image1            = Official Portrait of Senator Ashley Moody (cropped 2).jpg
+| image_size        = 150x150px 
+| nominee1          = [[Ashley Moody]]
+| party1            = Republican Party (United States)
+| image2            = File:Angie Nixon official portrait 2022 (cropped).jpg
+| nominee2          = [[Angie Nixon]]
+| party2            = Democratic Party (United States)
+| title             = U.S. senator
+| before_election   = [[Ashley Moody]]{{efn|[[Marco Rubio]], the three-term senator of Florida, was nominated by [[President of the United States|President]] Donald Trump to be the [[United States Secretary of State]] in his [[Second cabinet of Donald Trump|second cabinet]]. On January 20, 2025, he was confirmed by the Senate as Secretary of State and subsequently resigned his seat. [[Governor of Florida|Governor]] [[Ron DeSantis]] chose [[Ashley Moody]] to replace him.}}
+| before_party      = Republican Party (United States)
+}}
+{{Elections in Florida}}
+The '''2026 United States Senate special election in Florida''' will be held on November 3, 2026, to elect a member of the [[United States Senate]] to represent the state of [[Florida]]. [[Republican Party (United States)|Republican]] appointee [[Ashley Moody]] and [[Democratic Party (United States)|Democratic]] state representative [[Angie Nixon]] are the nominees for their respective parties. The winner will complete the term won in [[2022 United States Senate election in Florida|2022]] by [[Marco Rubio]], who resigned in 2025 to become secretary of state.
+
+After being appointed to the seat, Moody won the Republican nomination against minimal opposition. [[Alex Vindman]], the former director of European Affairs for the [[United States National Security Council|National Security Council]], was considered the Democratic frontrunner and held a significant fundraising advantage during the primary, but Nixon won the nomination with 56.1% of the vote in a major upset.
+
+Democrats have not won a Senate race in Florida since [[2012 United States Senate election in Florida|2012]].
+
+==Background==
+[[Marco Rubio]], a U.S. senator from Florida since [[2010 United States Senate election in Florida|2010]], was announced as president-elect [[Donald Trump]]'s nominee for [[United States Secretary of State|Secretary of State]] in November 2024.<ref>{{cite news |last1=Han |first1=Jeongyoon |last2=Grisales |first2=Claudia |title=President-elect Trump nominates Marco Rubio for secretary of state |url=https://www.npr.org/2024/11/11/nx-s1-5187110/donald-trump-marco-rubio-secretary-of-state |access-date=August 23, 2026 |publisher=[[NPR]] |date=November 13, 2024 |archive-url=https://web.archive.org/web/20260823003402/https://www.npr.org/2024/11/11/nx-s1-5187110/donald-trump-marco-rubio-secretary-of-state |archive-date=August 23, 2026 |url-status=live}}</ref> He was confirmed by the Senate on January 20, 2025 in a 99-0 vote.<ref>{{cite news |last1=Greve |first1=Joan E |title=Senate confirms Marco Rubio as US secretary of state in boost for Trump |url=https://www.theguardian.com/us-news/2025/jan/20/trump-marco-rubio-secretary-of-state |access-date=August 23, 2026 |work=[[The Guardian]] |date=January 20, 2025 |archive-url=https://web.archive.org/web/20260823003531/https://www.theguardian.com/us-news/2025/jan/20/trump-marco-rubio-secretary-of-state |archive-date=August 23, 2026 |url-status=live}}</ref> [[Ashley Moody]], the [[Florida Attorney General|attorney general of Florida]], was named by state governor [[Ron DeSantis]] to fill Rubio's vacant Senate seat, and was sworn in the day after Rubio's confirmation.<ref>{{cite news |last1=Perry |first1=Mitch |title=Ashley Moody sworn in as U.S. senator, while Marco Rubio takes over at State |url=https://floridaphoenix.com/2025/01/21/ashley-moody-sworn-in-as-u-s-senator-while-marco-rubio-takes-over-at-state/ |access-date=August 23, 2026 |work=[[States Newsroom|Florida Phoenix]] |date=January 21, 2025 |archive-url=https://web.archive.org/web/20260823005118/https://floridaphoenix.com/2025/01/21/ashley-moody-sworn-in-as-u-s-senator-while-marco-rubio-takes-over-at-state/ |archive-date=August 23, 2026 |url-status=live}}</ref><ref>{{cite news |last1=Rohrer |first1=Gray |title=From Tallahassee to DC: Ashley Moody sworn in as Florida's newest US senator |url=https://www.tallahassee.com/story/news/politics/2025/01/22/ashley-moody-us-senate-florida/77873340007/ |access-date=August 23, 2026 |work=[[Tallahassee Democrat]] |date=January 22, 2025 |archive-url=https://web.archive.org/web/20260823005001/https://www.tallahassee.com/story/news/politics/2025/01/22/ashley-moody-us-senate-florida/77873340007/ |archive-date=August 23, 2026 |url-status=live}}</ref> Rubio's resignation triggered a [[special election]] for 2026, the next statewide election cycle in Florida. The victor of the special election will serve for the remainder of Rubio's term, until a regular election for a full term in [[2028 United States Senate election in Florida|2028]] is held.<ref>{{cite news |last1=Leonard |first1=Kimberly |title=DeSantis picks Florida AG Ashley Moody to replace Rubio in the Senate |url=https://www.politico.com/news/2025/01/16/ashley-moody-florida-senator-marco-rubio-replacement-00198643 |access-date=August 23, 2026 |work=[[Politico]] |date=January 16, 2025 |archive-url=https://web.archive.org/web/20250711190055/https://www.politico.com/news/2025/01/16/ashley-moody-florida-senator-marco-rubio-replacement-00198643 |archive-date=July 11, 2025 |url-status=live}}</ref><ref>{{cite news |last1=Hubbard |first1=Kaia |title=What happens to JD Vance's Senate seat and others in Congress selected to join the Trump administration |url=https://www.cbsnews.com/news/senate-house-special-elections-jd-vance-trump-cabinet/ |access-date=August 23, 2026 |publisher=[[CBS News]] |date=November 13, 2024 |archive-url=https://web.archive.org/web/20260314151600/https://www.cbsnews.com/news/senate-house-special-elections-jd-vance-trump-cabinet/ |archive-date=March 14, 2026 |url-status=live}}</ref>
+==Interim appointment==
+===Appointee===
+*[[Ashley Moody]], [[Florida Attorney General|Florida attorney general]] (2019–2025)<ref name="NBC News 2025-01-16">{{Cite news |title=Ron DeSantis picks Florida Attorney General Ashley Moody to fill Rubio's Senate seat |url=https://www.nbcnews.com/politics/congress/ron-desantis-picks-florida-attorney-general-ashley-moody-fill-rubios-s-rcna187938 |date=January 16, 2025 |access-date=January 16, 2025 |publisher=[[NBC News]] |author=Dixon, Matt}}</ref>
+
+===Considered but not appointed===
+*[[Kat Cammack]], U.S. representative from {{ushr|FL|3}} (2021–present)<ref name="NBC News 2025-01-16" />
+*[[Jay Collins]], state senator from the 14th district (2022–2025)<ref name="NBC News 2025-01-16" />
+*[[Laurel Lee]], U.S. representative from {{ushr|FL|15}} (2023–present)<ref name="Lee">{{cite web|url=https://floridapolitics.com/archives/707466-laurel-lee-part-of-conversation-for-marco-rubios-senate-seat/|title=Laurel Lee part of conversation for Marco Rubio's Senate seat|last=Ogles|first=Jacob|date=November 12, 2024|access-date=April 4, 2025|website=[[Florida Politics]]}}</ref>
+*[[Cory Mills]], U.S. representative from {{ushr|FL|7}} (2023–present)<ref name="NBC News 2025-01-16" />
+*[[James Uthmeier]], chief of staff to [[Governor of Florida|Governor]] [[Ron DeSantis]] (2021–2025)<ref name="Lee" />
+
+===Declined to be considered===
+*[[Ron DeSantis]], [[governor of Florida]] (2019–present), former U.S. representative from {{ushr|FL|6}} (2013–2018), candidate for U.S. Senate in [[2016 United States Senate election in Florida|2016]], and [[Ron DeSantis 2024 presidential campaign|candidate for president]] in [[2024 United States presidential election|2024]]<ref>{{cite web |last1=Gancarski |first1=A.G. |title='Absolutely not': Gov. DeSantis says he won't appoint himself to replace Marco Rubio in the Senate |url=https://floridapolitics.com/archives/714980-ron-desantis-senate-no/ |website=[[Florida Politics]] |access-date=11 January 2025 |date=11 January 2025}}</ref>
+*[[Lara Trump]], former co-chair of the [[Republican National Committee]] (2024–2025) and daughter-in-law of President [[Donald Trump]]<ref>{{Cite news |access-date=December 22, 2024 |url=https://wpde.com/news/nation-world/lara-trump-says-shes-removing-herself-from-consideration-to-be-florida-senator-republican-maga-marco-rubio-president-elect-donald-trump-rnc-co-chair-secretary-of-state-united-states-politics-ron-desantis-elon-musk |via=[[WPDE-TV]] |publisher=[[The Associated Press]] |title=Lara Trump removes herself from consideration for Florida Senate, ending speculation |date=December 22, 2024}}</ref>
+
+==Republican primary==
+===Candidates===
+====Nominee====
+*[[Ashley Moody]], incumbent U.S. senator (2025–present)<ref name="Florida Politics 2025-04-03-Sheriffs">{{cite web |last=Wilson |first=Drew |date=March 20, 2025 |title=Ashley Moody's Senate campaign touts clean sweep of GOP Sheriffs |url=https://floridapolitics.com/archives/727150-ashley-moodys-senate-campaign-touts-clean-sweep-of-gop-sheriffs/ |work=[[Florida Politics]] |access-date=April 3, 2025}}</ref>
+====Eliminated in primary====
+*Chris Gleason, technology consultant<ref name="Div of Elections">{{Cite web |title=Candidates and Races - Candidate Tracking system |publisher=Florida Division of Elections - Department of State |url=https://dos.elections.myflorida.com/candidates/Index.asp |access-date=2026-04-26}}</ref>
+*Neelam Taneja Perry, physician<ref name="Div of Elections" />
+*Ernest "Ernie" Rivera, businessman and candidate in [[2016 United States Senate election in Florida|2016]]<ref name="Div of Elections" />
+
+====Not on ballot====
+*[[Jake Lang]], podcaster and participant in the [[January 6 U.S. Capitol attack]]<ref>{{cite news |last1=DeLuca |first1=Alex |title=Meet the January 6 Rioter Running for Marco Rubio's U.S. Senate Seat |url=https://www.miaminewtimes.com/news/january-6-rioter-jake-lang-is-running-for-marco-rubios-senate-seat-22641341 |access-date=March 12, 2025 |work=[[Miami New Times]] |date=March 12, 2025 |language=en}}</ref>
+*Alix Toulme, religion founder and perennial candidate<ref>{{cite web |title=Toulme, Alix Christopher Mr. Jr. - Candidate overview |url=https://www.fec.gov/data/candidate/S4FL00769/ |publisher=[[Federal Election Commission]] |date=January 2019 |access-date=31 May 2025 |language=en}}</ref>
+
+====Declined====
+*[[Matt Gaetz]], former U.S. representative from {{ushr|FL|1}} (2017–2024)<ref>{{cite news |url=https://www.politico.com/news/2025/07/11/uthmeier-desantis-trump-florida-alligator-alcatraz-00447141|title=He was DeSantis' 'bulldog.' Will Trump help Florida's attorney general stick around?|last1=Fineout|last2=Leonard|first1=Gary|first2=Kimberly|date=July 11, 2025|access-date=July 14, 2025|website=[[Politico]]}}</ref>
+
+=== Endorsements ===
+{{Endorsements box
+|title=Ashley Moody
+|colwidth = 60
+|list=
+;Executive branch officials
+*[[Donald Trump]], [[president of the United States]] (2017–2021, 2025–present)<ref>{{cite web|url=https://floridapolitics.com/archives/748780-donald-trump-endorses-ashley-moody-early/|title=Donald Trump endorses Ashley Moody's return to U.S. Senate|last=Gancarski|first=A.G.|date=July 25, 2025|access-date=July 25, 2025|website=[[Florida Politics]]}}</ref>
+
+;U.S. senators
+*[[Rick Scott]], [[Florida]] (2019–present)<ref>{{cite web |last1=Gancarski |first1=A.G. |title=Rick Scott endorses Ashley Moody in 2026 Senate race |url=https://floridapolitics.com/archives/728811-scott-endorses-moody/ |website=[[Florida Politics]] |access-date=28 March 2025 |date=28 March 2025}}</ref>
+*[[Ted Cruz]], [[Texas]] (2013–present)<ref>{{Cite tweet |author=Ashley Moody |user=AshleyMoodyFL |number=2011803163192344832 |date=January 15, 2026 |title=Grateful for @TedCruz's endorsement to return to the Senate and continue working to make Florida stronger and safer for generations to come.}}</ref>
+
+;U.S. representatives
+*[[Aaron Bean]], [[Florida's 4th congressional district|FL-04]] (2023–present)<ref name="8/12 Delegation">{{cite web|url=https://floridapolitics.com/archives/751235-delegation-for-8-12-25-redder-state-chinese-spyware-aquaculture-buses-turkey/|title=Delegation for 8.12.25: Redder state — Chinese spyware — aquaculture — buses — Turkey|date=August 12, 2025|access-date=August 12, 2025|website=[[Florida Politics]]}}</ref>
+*[[Gus Bilirakis]], [[Florida's 12th congressional district|FL-12]] (2007–present)<ref name="8/12 Delegation" />
+*[[Vern Buchanan]], [[Florida's 16th congressional district|FL-16]] (2013–present)<ref>{{cite news |last1=Leonard |first1=Kimberly |last2=Domínguez |first2=Isa |title=Donalds faces the anti-DOGE music |url=https://www.politico.com/newsletters/florida-playbook/2025/04/22/donalds-faces-the-anti-doge-music-00302350 |access-date=April 22, 2025 |work=[[Politico]] |date=April 22, 2025 |language=en}}</ref>
+*[[Kat Cammack]], [[Florida's 3rd congressional district|FL-03]] (2021–present)<ref name="8/12 Delegation" />
+*[[Mario Díaz-Balart]], [[Florida's 26th congressional district|FL-26]] (2003–present)<ref name="8/12 Delegation" />
+*[[Byron Donalds]], [[Florida's 19th congressional district|FL-19]] (2021–present) and Republican nominee in [[2026 Florida gubernatorial election]]<ref>{{cite news |last=Scheckner |first=Jesse |title=Badge of approval: With Police Chiefs nod, Byron Donalds bolsters law enforcement backing |url=https://floridapolitics.com/archives/806870-badge-of-approval-with-police-chiefs-nod-byron-donalds-bolsters-law-enforcement-backing/ |access-date=July 13, 2026 |work=[[Florida Politics]] |date=July 10, 2026}}</ref>
+*[[Neal Dunn]], [[Florida's 2nd congressional district|FL-02]] (2017–present)<ref name="8/12 Delegation" />
+*[[Scott Franklin (politician)|Scott Franklin]], [[Florida's 18th congressional district|FL-18]] (2021–present)<ref name="8/12 Delegation" />
+*[[Mike Haridopolos]], [[Florida's 8th congressional district|FL-08]] (2025–present)<ref name="8/12 Delegation" />
+*[[Laurel Lee]], [[Florida's 15th congressional district|FL-15]] (2023–present)<ref>{{cite web|url=https://floridapolitics.com/archives/730354-an-exceptional-leader-laurel-lee-wants-ashley-moody-to-remain-in-the-senate/|title='An exceptional leader': Laurel Lee wants Ashley Moody to remain in the Senate|last=Ogles|first=Jacob|date=April 4, 2025|access-date=April 4, 2025|website=[[Florida Politics]]}}</ref>
+*[[Brian Mast]], [[Florida's 21st congressional district|FL-21]] (2017–present)<ref name="8/12 Delegation" />
+*[[Jimmy Patronis]], [[Florida's 1st congressional district|FL-01]] (2025–present)<ref name="8/12 Delegation" />
+
+;Statewide officials
+*[[Wilton Simpson]], [[Florida Commissioner of Agriculture]] (2023–present)<ref>{{cite news |last1=Costeines |first1=Michael |title=Agricultural Commissioner Wilton Simpson Endorses Ashley Moody for Senate |url=https://floridianpress.com/2026/05/agricultural-commissioner-wilton-simpson-endorses-ashley-moody-for-senate/ |newspaper=The Floridian |access-date=May 19, 2026 |date=May 18, 2026}}</ref>
+
+;Multi-county officials
+*15 state attorneys<ref name="Florida Politics 2025-04-03-AGs">{{cite web |last=Ogles |first=Jacob |date=March 19, 2025 |title=Every Republican State Attorney in Florida endorses Ashley Moody's re-election to U.S. Senate |url=https://floridapolitics.com/archives/726946-every-republican-state-attorney-in-florida-endorses-ashley-moody/ |work=[[Florida Politics]] |access-date=April 3, 2025}}</ref>
+
+;County officials
+*[[Ric Bradshaw]], [[Palm Beach County Sheriff's Office|Palm Beach County sheriff]] (2005–present) ''(Democratic)''<ref name="Florida Politics 2025-04-03-Sheriffs" />
+*[[Mike Chitwood]], [[Volusia Sheriff's Office|Volusia County sheriff]] (2017–present) ''(independent)''<ref name="Florida Politics 2025-04-03-Sheriffs" />
+*[[Chad Chronister]], [[Hillsborough County Sheriff's Office|Hillsborough County sheriff]] (2017–present)<ref name="Florida Politics 2025-04-03-Sheriffs" />
+*[[Rosie Cordero-Stutz]], [[Miami-Dade Sheriff's Office|Miami-Dade County sheriff]] (2025–present)<ref name="Florida Politics 2025-04-03-Sheriffs" />
+*[[Bob Gualtieri]], [[Pinellas County]] sheriff (2011–present)<ref name="Florida Politics 2025-04-03-Sheriffs" />
+*[[Grady Judd]], [[Polk County, Florida|Polk County]] sheriff (2005–present)<ref name="Florida Politics 2025-04-03-Sheriffs" />
+*[[Dennis Lemma]], [[Seminole County Sheriff's Office|Seminole County sheriff]] (2017–present)<ref name="Florida Politics 2025-04-03-Sheriffs" />
+*[[John Mina]], [[Orange County Sheriff's Office (Florida)|Orange County sheriff]] (2018–present) ''(Democratic)''<ref name="Florida Politics 2025-04-03-Sheriffs" />
+*[[T. K. Waters]], [[Jacksonville Sheriff's Office|Duval County sheriff]] (2022–present)<ref name="Florida Politics 2025-04-03-Sheriffs" />
+*[[Morris A. Young]], [[Gadsden County, Florida|Gadsden County]] sheriff (2004–present) ''(Democratic)''<ref name="Florida Politics 2025-04-03-Sheriffs" />
+*54 other county sheriffs<ref name="Florida Politics 2025-04-03-Sheriffs" />
+
+;Labor unions
+*Florida [[National Fraternal Order of Police|Fraternal Order of Police]]<ref>{{cite web |last1=Schorsch |first1=Peter |title=Florida cops back Ashley Moody for U.S. Senate |url=https://floridapolitics.com/archives/761538-florida-cops-back-ashley-moody-for-u-s-senate/ |website=Florida Politics |access-date=29 November 2025 |date=21 October 2025}}</ref>
+
+;Organizations
+*[[Associated Builders and Contractors]] of Florida<ref name="ABCFL">{{cite web |last1=Dixon |first1=Drew |title=Ashley Moody builds strong re-election support with endorsement from Florida contractors |url=https://floridapolitics.com/archives/751652-ashley-moody-builds-strong-re-election-support-with-endorsement-from-florida-contractors/ |website=Florida Politics |access-date=29 November 2025 |date=14 August 2025}}</ref>
+*[[National Association of Realtors|Florida Association of Realtors]]<ref name="Realt" />
+*[[Florida Chamber of Commerce]]<ref>{{cite web |last1=Dixon |first1=Drew |title=Florida Chamber of Commerce throws support behind Ashley Moody in U.S. Senate race |url=https://floridapolitics.com/archives/810953-florida-chamber-of-commerce-throws-support-behind-ashley-moody-in-u-s-senate-race/ |website=[[Florida Politics]] |access-date=August 3, 2026 |date=August 3, 2026}}</ref>
+*[[Florida Farm Bureau|Florida Farm Bureau Federation]]<ref name="Sewsup">{{cite web |last1=Ogles |first1=Jacob |title=Florida farmers sow support for Ashley Moody |url=https://floridapolitics.com/archives/775693-florida-farmers-sow-support-for-ashley-moody/ |website=Florida Politics |access-date=24 January 2026 |date=23 January 2026}}</ref>
+*[[Maggie's List]]<ref>{{cite web |title=Maggie's List Announces First Round of 2026 Senate Endorsements |url=https://maggieslist.org/press/maggies-list-announces-first-round-of-2026-senate-endorsements |date=March 3, 2025 |publisher=Maggie's List |access-date=March 27, 2025}}</ref>
+*[[National Association of Realtors]]<ref name="Realt">{{cite web |last1=Scheckner |first1=Jesse |title=Realtors back Ashley Moody for U.S. Senate, citing her 'critical support' of key issues |url=https://floridapolitics.com/archives/753518-realtors-back-ashley-moody-for-u-s-senate-citing-her-critical-support-of-key-issues/ |website=Florida Politics |access-date=29 November 2025 |date=27 August 2025}}</ref>
+*[[National Rifle Association Political Victory Fund]]<ref name="NRA">{{cite web |title=Florida |url=https://www.nrapvf.org/grades/florida |publisher=NRA PVF |access-date=10 August 2026}}</ref>
+*[[Senate Conservatives Fund]]<ref>{{cite web |title=Candidates |url=https://www.senateconservatives.com/#candidates |publisher=Senate Conservatives Fund |access-date=29 November 2025}}</ref>
+
+;Political parties
+*[[Republican Party of Florida]]<ref>{{cite news |last1=Costeines |first1=Michael |title=Republican Party of Florida Formally Endorses Ashley Moody for Senate |url=https://floridianpress.com/2025/09/republican-party-of-florida-formally-endorses-ashley-moody-for-senate/ |website=The Floridian |access-date=29 November 2025 |date=1 September 2025}}</ref>
+}}
+
+===Fundraising===
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of July 29, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|Ashley Moody (R)
+|$11,259,074
+|$2,776,253
+|$8,482,821
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC1">{{cite web |title=2026 Election United States Senate - Florida |url=https://www.fec.gov/data/elections/senate/FL/2026/ |publisher=[[Federal Election Commission]] |access-date=February 6, 2026}}</ref></small>
+|}
+
+=== Results ===
+[[File:2026 U.S. Senate special election in Florida - Republican primary, results by county with legend.svg|thumb|Republican primary results by county]]
+{{Election box begin no change |title=Republican primary results<ref name="Primary results" />}}
+{{Election box winning candidate with party link no change|party=Republican Party (United States)|candidate=[[Ashley Moody]] (incumbent)|votes=1,320,780|percentage=79.6}}
+{{Election box candidate with party link no change|party=Republican Party (United States)|candidate=Chris Gleason|votes=228,010|percentage=13.7}}
+{{Election box candidate with party link no change|party=Republican Party (United States)|candidate=Ernie Rivera|votes=79,973|percentage=4.8}}
+{{Election box candidate with party link no change|party=Republican Party (United States)|candidate=Neelam Taneja Perry|votes=31,250|percentage=1.9}}
+{{Election box total no change|votes=1,660,013|percentage=100.0}}
+{{Election box end}}
+
+== Democratic primary ==
+===Campaign===
+[[Angie Nixon]], a [[Democratic Party (United States)#Progressives|progressive Democrat]] and a member of the [[Democratic Socialists of America]], won the nomination over [[Alex Vindman]], despite Vindman having amassed $16.3 million in campaign funding compared to Nixon's $975,000.<ref name="NBC Dixon 2026-08-18">{{cite news|url=https://www.nbcnews.com/politics/2026-election/angie-nixon-winner-florida-senate-primary-democrat-alex-vindman-moody-rcna593255|title=Democratic socialist Angie Nixon upsets Alex Vindman in Florida's Democratic Senate primary|publisher=NBC News|date=2026-08-18}}</ref><ref name="Guardian Luscombe 2026-08-18">{{cite news|url=https://www.theguardian.com/us-news/2026/aug/18/angie-nixon-alex-vindman-florida-results|title=Democratic socialist Angie Nixon clinches surprise primary win in Florida US Senate race|work=The Guardian|date=2026-08-18}}</ref><ref>{{cite news |last=Peters |first=Cameron |date=2026-09-06 |title=Can Democrats flip Florida in 2026? |url=https://www.vox.com/america-actually/502027/angie-nixon-florida-democratic-senate-nominee-progressive |access-date=2026-09-19 |website=Vox |language=en-US}}</ref><ref>{{Cite news |last=Mazzei |first=Patricia |date=2026-09-13 |title=She’s Been Fighting for 20 Years. Has Angie Nixon’s Moment Come? |url=https://www.nytimes.com/2026/09/13/us/politics/angie-nixon-florida-senate.html |access-date=2026-09-19 |work=The New York Times |language=en-US |issn=0362-4331}}</ref> Nixon campaigned on [[universal healthcare]], free [[childcare]], and a national [[rent freeze]].<ref name="Bloomberg Smith 2026-08-18">{{cite news|url=https://www.bloomberg.com/news/articles/2026-08-19/progressive-nixon-downs-vindman-in-florida-senate-primary-race|title=Progressive Nixon Downs Vindman in Florida Senate Primary Race|work=Bloomberg|date=2026-08-18}}</ref> Nixon had criticized Vindman for having only recently moved to Florida; Vindman ignored her and attacked the Republican candidate, Moody.<ref name="NBC Dixon 2026-08-18" /> The result was considered a major upset.<ref name="NBC Dixon 2026-08-18" /><ref name="Guardian Luscombe 2026-08-18" />
+
+=== Candidates ===
+==== Nominee ====
+*[[Angie Nixon]], [[Florida House of Representatives|state representative]] from the [[Florida's 13th House of Representatives district|13th district]] (2020–present)<ref>{{cite news |last1=Harvey |first1=Malcolm |title=Rep. Angie Nixon announces run for US Senate in Florida's 2026 midterm elections |url=https://www.firstcoastnews.com/article/news/local/jacksonville-rep-angie-nixon-announces-candidacy-us-senate/77-fd4beadf-5fb6-4af6-8f00-9699c977c54b |access-date=January 22, 2026 |work=[[First Coast News]] |date=January 22, 2026}}</ref>
+==== Eliminated in primary ====
+*[[Alex Vindman]], former director of European affairs for the [[U.S. National Security Council]], whistleblower in the [[2019 Trump–Ukraine scandal]], and brother of U.S. representative [[Eugene Vindman]]<ref>{{cite news |last1=Perry |first1=Mitch |title=Whistleblower Alexander Vindman to seek Florida Democratic nomination for Senate |url=https://floridaphoenix.com/2026/01/27/whistleblower-alexander-vindman-to-seek-florida-democratic-nomination-for-senate/ |access-date=January 27, 2026 |work=[[Florida Phoenix]] |date=January 27, 2026}}</ref>
+
+==== Did not qualify ====
+* Joey Atkins, attorney and nominee for {{ushr|FL|26}} in [[2024 United States House of Representatives elections in Florida#District 26|2024]] ''([[2026 Florida Commissioner of Agriculture election|running for agriculture commissioner]])''<ref>{{cite news |last=Tsoukas |first=Alex |date=August 2025 |title=Laura Kelley Talks with Joey Mendoza Atkins on Young Men Leaving the Democratic Party |url=https://www.msn.com/en-us/news/politics/laura-kelley-talks-with-joey-mendoza-atkins-on-young-men-leaving-the-democratic-party/ar-AA1KkrEb |access-date=October 30, 2025 |website=MSN}}</ref>
+*Alex Gould, business owner<ref>{{cite web |title=Gould, Charles Aka Alex A - Candidate overview |url=https://www.fec.gov/data/candidate/S6FL00699/ |publisher=[[Federal Election Commission]] |access-date=31 May 2025 |language=en |date=1 January 2019}}</ref>
+*[[Alan Grayson]], former U.S. representative from [[Florida's 9th congressional district]] (2009–2011, 2013–2017) (''[[2026 United States House of Representatives elections in Florida#District 7|ran for U.S. House]]'')<ref>{{cite news |work=[[Orlando Sentinel]] |access-date=July 14, 2025 |author=Lemongello, Steven |title=Alan Grayson jumps into Orlando state Senate race alongside Bracys |date=April 24, 2025 |url=https://www.orlandosentinel.com/2025/04/23/alan-grayson-jumps-into-orlando-state-senate-race-alongside-bracys/ |quote=Former congressman turned perennial candidate Alan Grayson}}</ref>
+
+==== Withdrawn ====
+*Jennifer Jenkins, former [[Brevard County, Florida|Brevard County]] school board member ''([[2026 United States House of Representatives elections in Florida#District 6|ran for U.S. House]], endorsed Vindman)''<ref name="Jenkins">{{cite news |url=https://floridaphoenix.com/2026/01/29/jennifer-jenkins-drops-out-of-the-democratic-senate-race-and-endorses-alexander-vindman/|title=Jennifer Jenkins drops out of the Democratic Senate race and endorses Alexander Vindman|last=Perry|first=Mitch|date=January 29, 2026|access-date=January 29, 2026|website=[[States Newsroom|Florida Phoenix]]}}</ref>
+*Tamika Lyles, former chair of the [[Osceola County, Florida|Osceola County]] Democratic Black Caucus ''([[2026 United States House of Representatives elections in Florida#District 16|ran for U.S. House]])<ref>{{Cite web |title=Campaign Documents - Florida Department of State |url=https://dos.elections.myflorida.com/campaign-docs/?account=89101 |access-date=2025-05-25 |publisher=Florida Division of Elections - Department of State}}</ref>''
+*Hector Mujica, tech executive ''([[2026 United States House of Representatives elections in Florida#District 28|ran for U.S. House]], endorsed Vindman)''<ref name="News-Journal 2026-05-27">{{cite news |last1=Harper |first1=Mark |title=Democrat leaves Senate race, endorses Alexander Vindman |url=https://www.news-journalonline.com/story/news/state/2026/04/06/florida-democrat-switches-races-endorses-alexander-vindman/89486022007/ |newspaper=[[The Daytona Beach News-Journal]] |access-date=April 27, 2026 |archive-url=https://web.archive.org/web/20260407023201/https://www.news-journalonline.com/story/news/state/2026/04/06/florida-democrat-switches-races-endorses-alexander-vindman/89486022007/ |archive-date=April 7, 2026 |date=April 6, 2026 |url-status=live |url-access=subscription}}</ref>
+*Josh Weil, teacher, nominee for {{ushr|FL|6}} in the [[2025 Florida's 6th congressional district special election|2025 special election]], and candidate for U.S. Senate in [[2022 United States Senate election in Florida|2022]]<ref name="Florida Politics 2025-07-31">{{cite news |last1=Ogles |first1=Jacob |title=Josh Weil drops out of U.S. Senate race against Ashley Moody |url=https://floridapolitics.com/archives/749643-josh-weil-drops-out-of-u-s-senate-race-against-ashley-moody/ |access-date=July 31, 2025 |work=[[Florida Politics]] |date=July 31, 2025}}</ref>
+
+==== Declined ====
+*[[Jerry Demings]], [[mayor of Orange County]] (2018–present) and husband of former [[United States House of Representatives|U.S. representative]] [[Val Demings]] ''([[2026 Florida gubernatorial election|ran for governor]])''<ref>{{cite news|url=https://www.politico.com/newsletters/florida-playbook/2025/08/05/jerry-demings-floats-trial-balloon-00493207|title=Jerry Demings floats trial balloon|last=Leonard|first=Kimberly|date=August 5, 2025|access-date=August 12, 2025|website=[[Politico]]}}</ref>
+*[[Jared Moskowitz]], U.S. representative from [[Florida's 23rd congressional district]] (2023–present) ''([[2026 United States House of Representatives elections in Florida#District 25|running for re-election]])''<ref>{{cite web|url=https://floridapolitics.com/archives/798747-delivering-results-jared-moskowitz-officially-launches-re-election-campaign-in-new-cd-25/|title='Delivering results': Jared Moskowitz officially launches re-election campaign in new CD 25|last=Ogles|first=Jacob|date=May 28, 2026|website=[[Florida Politics]]}}</ref>
+
+=== Endorsements ===
+{{Endorsements box
+|title=Angie Nixon
+|list=
+;U.S. representatives
+* [[Maxwell Frost]], {{ushr|FL|10|FL-10}} (2023–present)<ref name="Orlando Weekly 2026-07-24">{{cite news |last1=Schueler |first1=McKenna |title=Frost, Eskamani endorse progressive Angie Nixon for U.S. Senate |url=https://www.orlandoweekly.com/news/elections/frost-eskamani-endorse-progressive-angie-nixon-for-u-s-senate/|newspaper=Orlando Weekly |access-date=July 25, 2026 |date=July 24, 2026}}</ref>
+*[[Ilhan Omar]], {{ushr|MN|5|MN-05}} (2019–present)<ref>{{cite news |last1=Molina |first1=Daniel |title=Ilhan Omar Endorses Angie Nixon for Senate |url=https://floridianpress.com/2026/07/ilhan-omar-endorses-angie-nixon-for-senate/ |newspaper=The Floridian |access-date=July 10, 2026 |date=July 10, 2026}}</ref>
+* [[Ayanna Pressley]], {{ushr|MA|7|MA-07}} (2019–present)<ref>{{cite news |last1=Leonard |first1=Kimberly |title=The DeSantis era, through Driskell's eyes|url=https://www.politico.com/newsletters/florida-playbook/2026/07/30/the-desantis-era-through-driskells-eyes-01016796|newspaper=Politico|access-date=July 30, 2026 |date=July 30, 2026}}</ref>
+*[[Rashida Tlaib]], {{ushr|MI|12|MI-12}} (2019–present)<ref>{{cite web |last=Gancarski | first=A.G. |title=Rashida Tlaib among biggest donors to Angie Nixon exploratory committee |url=https://floridapolitics.com/archives/777329-tlaib-nixon/ |website=[[Florida Politics]] |access-date=13 July 2026 |date=2 February 2026}}</ref>
+
+;State legislators
+* [[Kristen Arrington]], [[Florida Senate|state senator]] from the [[Florida's 25th Senate district|25th district]] (2024–present)<ref name="cltampa">{{cite web |last1=Waagmeester |first1=Jay |title=Despite 16 to 1 fundraising gap, Florida Rep. Angie Nixon wins US Senate primary by double digits |url=https://www.cltampa.com/news/despite-16-to-1-fundraising-gap-florida-rep-angie-nixon-wins-us-senate-primary-by-double-digits/ |website=[[Creative Loafing]] Tampa Bay |access-date=September 30, 2026 |date=August 19, 2026}}</ref>
+* [[LaVon Bracy Davis]], [[Florida Senate|state senator]] from the [[Florida's 15th Senate district|15th district]] (2025–present)<ref>{{cite web |last1=Russon |first1=Gabrielle |title=Maxwell Frost, LaVon Bracy Davis and Anna Eskamani back 'fighter' Angie Nixon in U.S. Senate race|url=https://floridapolitics.com/archives/809353-maxwell-frost-lavon-bracy-davis-and-anna-eskamani-back-fighter-angie-nixon-in-u-s-senate-race/|website=[[Florida Politics]] |access-date=July 25, 2026 |date=July 24, 2026}}</ref>
+* [[Tracie Davis]], [[Florida Senate|state senator]] from the [[Florida's 5th Senate district|5th district]] (2022–present)<ref name="cltampa"></ref>
+* [[Anna Eskamani]], [[Florida House of Representatives|state representative]] from the [[Florida's 42nd House of Representatives district|42nd district]] (2018–present)<ref name="Orlando Weekly 2026-07-24" />
+* [[Ashley Gantt]], [[Florida House of Representatives|state representative]] from the [[Florida's 109th House of Representatives district|109th district]] (2022–present)<ref name="cltampa"></ref>
+* [[Dianne Hart]], [[Florida House of Representatives|state representative]] from the [[Florida's 63rd House of Representatives district|63rd district]] (2018–present)<ref name="cltampa"></ref>
+* [[Yvonne Hayes Hinson|Yvonne Hinson]], [[Florida House of Representatives|state representative]] from the [[Florida's 21st House of Representatives district|21st district]] (2020–present)<ref name="cltampa"></ref>
+* [[Rosalind Osgood]], [[Florida Senate|state senator]] from the [[Florida's 32nd Senate district|32nd district]] (2022–present)<ref name="cltampa"></ref>
+* [[Michele Rayner]], [[Florida House of Representatives|state representative]] from the [[Florida's 62nd House of Representatives district|62nd district]] (2020–present)<ref>{{cite news |last1=Muckle |first1=Shauna |title=Nixon's fight or Vindman's millions? Democrats weigh choice for U.S. Senate race |url=https://www.miamiherald.com/news/politics-government/state-politics/article316737321.html |website=[[Miami Herald]] |access-date=August 17, 2026 |date=August 2, 2026}}</ref>
+* [[Felicia Robinson]], [[Florida House of Representatives|state representative]] from the [[Florida's 104th House of Representatives district|104th district]] (2020–present)<ref name="cltampa"></ref>
+* [[RaShon Young]], [[Florida House of Representatives|state representative]] from the [[Florida's 40th House of Representatives district|40th district]] (2025–present)<ref name="cltampa"></ref>
+
+;Individuals
+*[[Ms. Rachel]], [[YouTuber]] and children's educator<ref>{{Cite web |last=Corbett |first=Jessica |date=July 31, 2026 |title=Ms. Rachel Signals Support for El-Sayed, Jackson, McKinney, and Other Candidates Who 'Care About All Kids' |url=https://www.commondreams.org/news/progressives-running-for-congress-2026 |website=Common Dreams |access-date=August 1, 2026 |language=en}}</ref>
+
+;Labor unions
+*[[SEIU]]<ref>{{cite web |title=SEIU Candidates|url=https://seiuvotes.org/run/|website=SEIU Votes|access-date=July 23, 2026}}</ref>
+
+;Organizations
+*[[Progressive caucus|Democratic Progressive Caucus]] of Florida<ref>{{cite news |title=Democratic Progressive Caucus of Florida releases congressional slate for Aug. 18 primaries |url=https://floridaphoenix.com/briefs/democratic-progressive-caucus-of-florida-releases-congressional-slate-for-aug-18-primaries/ |website=[[States_Newsroom#Newsrooms|Florida Phoenix]] |access-date=August 17, 2026 |date=July 22, 2026}}</ref>
+*[[Dream Defenders]]<ref>{{cite web |title=Dream defenders is proud to endorse|url=https://www.dreamdefendersfight.com/endorsements|publisher=Dream Defenders Fight PAC |access-date=August 13, 2026 |language=en-EN}}</ref>
+*[[Emgage]]<ref name="Emgage">{{cite web |title=See Our Endorsees |url=https://emgageaction.org/endorsements/|publisher=Emgage Action |access-date=July 23, 2026 |language=en-EN}}</ref>
+*[[Jewish Voice for Peace]]<ref>{{cite news |url=https://www.theclevelandamerican.com/jewish-voice-for-peace-action-endorses-angie-nixon-and-oliver-larkin-in-florida-congressional-races/|title=Jewish Voice for Peace Action Endorses Angie Nixon and Oliver Larkin in Florida Congressional Races|first=Oscar|last=Wilde|date=August 8, 2026}}</ref>
+*[[National Organization for Women]]<ref>{{cite web |title=Florida NOW PAC 2026 Endorsed Candidate Page|url=https://flnow.org/north-florida-now-pac-endorsed-candidates/|publisher=Florida Now|access-date=August 13, 2026 |language=en-EN}}</ref>
+*[[Progressive Democrats of America]]<ref name="Prog Dems Endorsements">{{cite web |title=Endorsements |url=https://pdamerica.org/endorsements/ |publisher=Progressive Democrats of America |access-date=23 July 2026}}</ref>
+*[[Progressive Victory]]<ref>{{cite web |title=Endorsements for 2026|url=https://www.progressivevictory.win/endorsements|access-date=August 14, 2026 |language=en-EN}}</ref>
+*[[Track AIPAC]]<ref>{{cite web |title=Candidates Endorsed By Citizens Against AIPAC Corruption |url=https://www.trackaipac.com/endorsements |website=Track AIPAC |access-date=June 29, 2026}}</ref>
+*[[US Campaign for Palestinian Rights]]<ref name="USCPR">{{Cite web |url=https://www.uscpraction.org/endorsements|title=USCPR ACTION ENDORSEMENTS|publisher=US Campaign for Palestinian Rights Action|access-date=July 23, 2026}}</ref>
+*[[Vote Mama]]<ref>{{cite web |title=Our Mamas|url=https://votemamapac.org/our-mamas/|publisher=Vote Mama PAC|access-date=July 23, 2026}}</ref>
+*[[Working Families Party]]<ref>{{cite web |title=Our 2026 Candidates|url=https://workingfamilies.org/candidates/|publisher=Working Families Party |access-date=July 8, 2026}}</ref>
+
+;Newspapers
+*''[[The Bradenton Times]]''<ref>{{cite news |title=For the U.S. Senate Democratic Primary, We Recommend Angie Nixon |url=https://thebradentontimes.com/stories/for-the-us-senate-democratic-primary-we-recommend-angie-nixon,204550 |access-date=13 July 2026 |date=10 July 2026}}</ref>
+*''[[The Miami Times]]''<ref>{{cite news |title=The Miami Times Editorial Board endorsement: Angie Nixon for U.S. Senate |url=https://www.miamitimesonline.com/news/florida/the-miami-times-editorial-board-endorsement-angie-nixon-for-u-s-senate/article_e6795647-5a2c-4ea6-822b-1274473717ce.html |access-date=August 17, 2026 |work=The Miami Times |date=August 14, 2026}}</ref>
+}}
+
+{{Endorsements box
+|title=Alexander Vindman
+|list=
+;U.S. senators
+*[[Tammy Duckworth]], [[Illinois]] (2017–present)<ref name="Orlando Weekly 2026-07-24" />
+*[[Mark Kelly]], [[Arizona]] (2020–present)<ref>{{cite web |last1=Ogles |first1=Jacob |title='Fearless advocate': Mark Kelly rockets in to support Alex Vindman's run for Senate |url=https://floridapolitics.com/archives/812849-fearless-advocate-mark-kelly-rockets-in-to-support-alex-vindmans-run-for-senate/ |website=[[Florida Politics]] |access-date=August 11, 2026 |date=August 11, 2026}}</ref>
+*[[Jack Reed (Rhode Island politician)|Jack Reed]], [[Rhode Island]] (1997–present)<ref name="Orlando Weekly 2026-07-24" />
+
+;U.S. representatives
+*[[Jamie Raskin]], {{ushr|MD|8|MD-08}} (2017–present)<ref>{{cite web |last1=Ogles |first1=Jacob |title='Champion of the people': Jamie Raskin backs Alex Vindman in Senate Democratic Primary |url=https://floridapolitics.com/archives/811585-champion-of-the-people-jamie-raskin-backs-alex-vindman-in-senate-democratic-primary/ |website=[[Florida Politics]] |access-date=August 6, 2026 |date=August 5, 2026}}</ref>
+
+;State legislators
+*[[Lori Berman]], minority leader of the [[Florida Senate]] (2025–present) from the [[Florida's 26th Senate district|26th district]] (2018–present)<ref>{{cite web |last1=Ogles |first1=Jacob |title='We need leaders who will never back down': Lori Berman endorses Alex Vindman |url=https://floridapolitics.com/archives/805557-we-need-leaders-who-will-never-back-down-lori-berman-endorses-alex-vindman/ |website=[[Florida Politics]] |access-date=July 3, 2026 |date=July 3, 2026}}</ref>
+*[[Dan Daley]], [[Florida House of Representatives|state representative]] from the [[Florida's 96th House of Representatives district|96th district]] (2019–present)<ref>{{cite web |last1=Ogles |first1=Jacob |title=Dan Daley becomes latest Democratic lawmaker to back Alex Vindman's Senate run |url=https://floridapolitics.com/archives/807425-dan-daley-becomes-latest-democratic-lawmaker-to-back-alex-vindmans-senate-run/ |website=[[Florida Politics]] |access-date=July 14, 2026 |date=July 14, 2026}}</ref>
+*[[Michael Gottlieb (politician)|Michael Gottlieb]], [[Florida House of Representatives|state representative]] from the [[Florida's 102nd House of Representatives district|102nd district]] (2018–present)<ref>{{cite web |last1=Ogles |first1=Jacob |title='Ready to fight': Mike Gottlieb becomes latest lawmaker to endorse Alex Vindman for Senate |url=https://floridapolitics.com/archives/812120-ready-to-fight-mike-gottlieb-becomes-latest-lawmaker-to-endorse-alex-vindman-for-senate/ |website=[[Florida Politics]] |access-date=August 8, 2026 |date=August 7, 2026}}</ref>
+*[[Tina Polsky]], [[Florida Senate|state senator]] from the [[Florida's 30th Senate district|30th district]] (2020–present) ''(previously endorsed Jenkins)''<ref>{{cite web |last1=Ogles |first1=Jacob |title='Fighter for everyday Floridians': Tina Polsky becomes latest lawmaker to endorse Alex Vindman |url=https://floridapolitics.com/archives/805748-fighter-for-everyday-floridians-tina-polsky-becomes-latest-lawmaker-to-endorse-alex-vindman/ |website=[[Florida Politics]] |access-date=August 8, 2026 |date=July 6, 2026}}</ref>
+*[[Debra Tendrich]], [[Florida House of Representatives|state representative]] from the [[Florida's 89th House of Representatives district|89th district]] (2024–present)<ref>{{cite web |last1=Ogles |first1=Jacob |title='Independent leadership': Debra Tendrich announces endorsement of Alex Vindman |url=https://floridapolitics.com/archives/806212-independent-leadership-debra-tendrich-announces-endorsement-of-alex-vindman/ |website=[[Florida Politics]] |access-date=July 8, 2026 |date=July 8, 2026}}</ref>
+
+;Local officials
+*[[Manny Diaz (Florida politician)|Manny Diaz]], former [[List of mayors of Miami|mayor of Miami]] (2001–2009)<ref>{{cite news |title=Herald Editorial Board should know anti-Zionism doesn't equal antisemitism {{!}} Opinion |url=https://www.miamiherald.com/opinion/letters-to-the-editor/article316792458.html |newspaper=[[Miami Herald]] |access-date=August 10, 2026 |date=August 7, 2026}}</ref>
+*Jennifer Jenkins, former [[Brevard County, Florida|Brevard County]] school board member and former candidate for this seat<ref name="Jenkins" />
+
+;Individuals
+*[[Larry David]], comedian and producer<ref>{{cite news|url=https://www.tallahassee.com/story/news/politics/2026/05/29/larry-david-supports-alex-vindman-for-florida-senate-seinfeld-creator/90296093007/|title=Larry David is raising money for Florida Senate candidate Alex Vindman|first=Curt|last=Anderson|website=Tallahassee Democrat}}</ref>
+*[[Paul Eaton]], former deputy chief of staff for the [[U.S. Army Training and Doctrine Command]]<ref name="2/10 Playbook">{{cite news |url=https://www.politico.com/newsletters/florida-playbook/2026/02/10/vindman-kicks-off-in-broward-00772912|title=Vindman kicks off in Broward|last1=Leonard|last2=Williams|first1=Kimberly|first2=Kylie|date=February 10, 2026|access-date=February 10, 2026|website=[[Politico]]}}</ref>
+*[[2026 United States House of Representatives elections in Florida#Democratic primary 28|Hector Mujica]], tech executive, former candidate for this seat and candidate for Florida's 26th congressional district in 2026<ref name="News-Journal 2026-05-27" />
+*[[Mary L. Trump]], psychologist, writer, and niece of President [[Donald Trump]] and sister of [[Fred Trump III]]<ref>{{cite news |url=https://www.msn.com/en-in/politics/elections/mary-trump-backs-vindman-in-florida-senate-race-against-trump-ally/ss-AA247MoF |title=Mary Trump backs Vindman in Florida Senate race against Trump Ally|access-date=2026-05-30 |publisher=MSN}}</ref>
+
+;Labor unions
+*[[American Federation of Government Employees|AFGE]]<ref name="Florida Politics 2026-08-14">{{cite web |last1=Ogles |first1=Jacob |title=Alex Vindman picks up key union endorsements from AFGE and CWA |url=https://floridapolitics.com/archives/814132-alex-vindman-picks-up-key-union-endorsements-from-afge-and-cwa/ |website=[[Florida Politics]] |access-date=August 14, 2026 |date=August 14, 2026}}</ref>
+*[[Communication Workers of America|CWA]] Florida chapter<ref name="Florida Politics 2026-08-14" />
+*[[Service Employees International Union|SEIU]] Local 1991<ref name="Florida Politics 2026-08-08">{{cite web |last1=Schorsch |first1=Peter |title=Reinforcements: Combat veterans Tammy Duckworth, Jack Reed enlist in Alex Vindman's Senate campaign |url=https://floridapolitics.com/archives/809321-reinforcements-combat-veterans-tammy-duckworth-jack-reed-enlist-in-alex-vindmans-senate-campaign/ |website=Florida Politics |access-date=8 August 2026 |date=July 24, 2026}}</ref>
+*[[United Brotherhood of Carpenters and Joiners of America|Southern Regional Council of Carpenters]]<ref name="Florida Politics 2026-08-08" />
+
+;Organizations
+*[[End Citizens United]]<ref>{{cite web |title=End Citizens United Endorses Alex Vindman's Historic U.S. Senate Run to End Corruption in D.C. |url=https://www.endcitizensunited.org/end-citizens-united-endorses-alex-vindmans-historic-us-senate-run-to-end-corruption-in-dc |publisher=End Citizens United |date=April 15, 2026 |access-date=April 16, 2026}}</ref>
+*[[Florida Democratic Party]] Veterans Caucus<ref>{{cite news |date=2026-07-10 |title=Alex Vindman Campaign Highlights New Endorsements, Fundraising in Florida U.S. Senate Race |url=https://floridanationalnews.com/blog/alex-vindman-campaign-highlights-new-endorsements-fundraising-in-florida-u-s-senate-race/ |access-date=2026-08-12 |website=Florida National News |language=en-US}}</ref>
+*[[Jewish Democratic Council of America]]<ref>{{cite web |title=Jewish Dems Endorse House, Senate, and Gubernatorial Candidates |url=https://jewishdems.org/press_release/jewish-dems-endorse-house-senate-and-gubernatorial-candidates/ |publisher=Jewish Democratic Council of America |access-date=June 18, 2026}}</ref>
+*[[VoteVets.org|VoteVets]]<ref name="2/10 Playbook" />
+
+;Newspapers
+*''[[Miami Herald]]''<ref>{{cite news |title=Herald endorsement: Florida's U.S. Senate Democratic primary {{!}} Opinion |url=https://www.miamiherald.com/opinion/election-recommendations/article316237148.html|access-date=25 July 2026 |date=14 July 2026}}</ref>
+*''[[Orlando Sentinel]]''<ref>{{cite news |date=2026-08-07 |title=List of Orlando Sentinel's endorsements, recommendations for 2026 August primary |url=https://www.orlandosentinel.com/2026/08/07/list-of-orlando-sentinels-endorsements-recommendations-for-2026-august-primary/ |access-date=2026-08-12 |website=Orlando Sentinel |language=en-US}}</ref>
+}}
+{{Endorsements box
+|title=Jennifer Jenkins ''(withdrawn)''
+|list=
+;U.S. representatives
+*[[Debbie Mucarsel-Powell]], former {{ushr|FL|26|FL-26}} (2019–2021) and nominee for U.S. senate in [[2024 United States Senate election in Florida|2024]]<ref name="Rally">{{cite web|url=https://floridapolitics.com/archives/750516-jennifer-jenkins-brings-on-campaign-team-as-florida-democrats-rally-around-potential-senate-bid/|title=Jennifer Jenkins brings on campaign team as Florida Democrats rally around potential Senate bid|last=Ogles|first=Jacob|date=August 6, 2025|access-date=August 12, 2025|website=[[Florida Politics]]}}</ref>
+
+;State legislators
+*<s>[[Tina Polsky]], [[Florida Senate|state senator]] from the [[Florida's 30th Senate district|30th district]] (2020–present)</s><ref name="Rally" /> ''(switched endorsement to Vindman after Jenkins withdrew)''
+}}
+{{Endorsements box
+|title=Hector Mujica ''(withdrawn)''
+|list=
+;U.S. representatives
+*[[Adam Smith (Washington politician)|Adam Smith]], {{ushr|WA|9|WA-09}} (1997–present)<ref>{{cite news|url=https://www.politico.com/newsletters/florida-playbook/2026/01/26/floridas-commercial-space-race-00746020|title=Florida's commercial space race|last1=Williams|last2=Leonard|first1=Kylie|first2=Kimberly|date=January 26, 2026|access-date=January 26, 2026|website=[[Politico]]}}</ref>
+}}
+
+===Fundraising===
+
+''Italics'' indicate a withdrawn candidate.
+
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of July 29, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Democratic}}|Angie Nixon (D)
+|$974,845
+|$709,866
+|$264,978
+|-
+|{{party shading/Democratic}}|Alex Vindman (D)
+|$16,273,862
+|$9,020,003
+|$7,253,859
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC1" /></small>
+|}
+
+===Polling===
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- style="vertical-align:bottom"
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name="Key"}}
+! Margin<br />{{nowrap|of error}}
+! style="width:70px;"| Angie<br />Nixon
+! style="width:70px;"| Alex<br />Vindman
+! Other
+! Undecided
+|-
+|style="text-align:left;"|[[Change Research]] (D)<ref name="ChangeJuly2026">{{Cite tweet|user=PollTracker2024|number=2077783493250068855|title= Change Research poll | 7/9-7/11 RV|access-date=July 16, 2026}}</ref>
+|July 9–11, 2026
+|{{sdash}} (LV)
+|{{sdash}}
+|24%
+|{{party shading/Democratic}}|'''34%'''
+|2%{{efn|"Would not vote" with 2%}}
+|{{party shading/Undecided}}|'''41%'''
+|-
+|}
+
+=== Results ===
+{{switcher|[[File:2026 U.S. Senate special election in Florida - Democratic primary, results by county with legend.svg|thumb|Democratic primary results by county]]|Primary results by county|
+[[File:2026 United States Senate special Democratic primary in Florida by Congressional District.svg|thumb|Democratic primary results by congressional district
+{{collapsible list
+| title = {{legend|#7996e2|Nixon}}|{{legend|#7996e2|50–60%}}|{{legend|#6674de|60–70%}}|{{legend|#584cde|70–80%}}|{{legend|#3933e5|80–90%}}}}
+{{collapsible list
+| title =  {{legend|#FF80B2|Vindman}}|{{legend|#FF80B2|50-60%}}|{{legend|#FF5599|60-70%}}}}
+]]|Primary results by congressional district}}
+{{Election box begin no change |title=Democratic primary results<ref name="Primary results">{{cite web |title=U.S. Senator |url=https://floridaelectionwatch.gov/FederalOffices/USSenator |publisher=[[Florida Department of State|Florida Division of Elections]] |access-date=August 20, 2026 |archive-url=https://web.archive.org/web/20260821011327/https://floridaelectionwatch.gov/FederalOffices/USSenator |archive-date=August 21, 2026 |url-status=live}}</ref>}}
+{{Election box winning candidate with party link no change|party=Democratic Party (United States)|candidate=[[Angie Nixon]]|votes=705,835|percentage=56.1}}
+{{Election box candidate with party link no change|party=Democratic Party (United States)|candidate=[[Alex Vindman]]|votes=553,138|percentage=43.9}}
+{{Election box total no change|votes=1,258,973|percentage=100.0}}
+{{Election box end}}
+
+== Third-parties and independents ==
+=== Independents ===
+==== Declared ====
+* Neil J. Gillespie<ref name="Div of Elections" />
+
+==== Declined ====
+*[[John Morgan (lawyer)|John Morgan]], lawyer and founder of [[Morgan & Morgan]]<ref>{{cite news |last1=Perano |first1=Ursula |last2=Diaz |first2=Daniella |title=Do Democrats Even Believe They Can Win Senate Seats in Florida and Texas? |url=https://www.notus.org/2026-election/democrats-senate-seats-florida-texas |access-date=April 23, 2025 |work=[[NOTUS (website)|NOTUS]] |date=April 23, 2025}}</ref>
+
+===American Party===
+==== Did not qualify ====
+*Jason Standridge, substance abuse counselor<ref>{{cite web |title=Standridge, Jason Clyde Mr. - Candidate overview - FEC.gov |url=https://www.fec.gov/data/candidate/S6FL00574/ |publisher=[[Federal Election Commission]] |date=January 2019 |access-date=1 June 2025 |language=en}}</ref>
+
+===Veterans Party===
+==== Did not qualify ====
+*Justin Green<ref>{{cite web |title=Green, Justin Mr - Candidate overview |url=https://www.fec.gov/data/candidate/S6FL00681/ |publisher=[[Federal Election Commission]] |date=January 2019 |access-date=1 June 2025 |language=en}}</ref>
+
+== General election ==
+Formerly a [[swing state]], Florida has shifted increasingly to the Republican Party in recent elections.<ref name="Hubbard-2026">{{cite news |last1=Hubbard |first1=Kaia |title=Florida Senate race set between Ashley Moody and Angie Nixon after projected primary wins |url=https://www.cbsnews.com/news/florida-senate-primary-results-ashley-moody-angie-nixon/ |access-date=August 22, 2026 |publisher=[[CBS News]] |archive-url=https://web.archive.org/web/20260820215616/https://www.cbsnews.com/news/florida-senate-primary-results-ashley-moody-angie-nixon/ |archive-date=August 20, 2026 |url-status=live |date=August 18, 2026}}</ref><ref name="Peoples-2026">{{cite news |last1=Peoples |first1=Steve |title=Alex Vindman, who testified against Trump during his first impeachment, enters Florida Senate race |url=https://apnews.com/article/alex-vindman-florida-senate-trump-ukraine-impeachment-1850e6e729d1d1efa2ca8baddc47a815 |access-date=August 22, 2026 |publisher=[[Associated Press]] |date=January 27, 2026 |archive-url=https://web.archive.org/web/20260822233656/https://apnews.com/article/alex-vindman-florida-senate-trump-ukraine-impeachment-1850e6e729d1d1efa2ca8baddc47a815 |archive-date=August 22, 2026 |url-status=live}}</ref> A Democratic candidate has not won a Senate seat in Florida since [[2012 United States Senate election in Florida|2012]].<ref name="Hubbard-2026" /><ref name="Peoples-2026" /><ref>{{cite news |last1=Leonard |first1=Kimberly |title=Florida Dems scramble to regroup after Nixon upset |url=https://www.politico.com/news/2026/08/19/florida-democrats-nixon-upset-aftermath-01042739 |access-date=August 22, 2026 |work=[[Politico]] |date=August 19, 2026}}</ref> This will be the first U.S. Senate election in Florida where both major party candidates are women.<ref>{{cite news |last1=Matat |first1=Stephany |title=Can Democratic firebrand Angie Nixon win in deep-red Florida? |url=https://www.tallahassee.com/story/news/politics/elections/2026/08/19/us-senate-race-pits-nixon-against-moody-whats-next/91362038007/ |access-date=26 August 2026 |work=[[Tallahassee Democrat]] |date=August 19, 2026 |archive-url=https://web.archive.org/web/20260826132851/https://www.tallahassee.com/story/news/politics/elections/2026/08/19/us-senate-race-pits-nixon-against-moody-whats-next/91362038007/ |archive-date=August 26, 2026 |url-status=live}}</ref>
+=== Predictions ===
+{| class="wikitable" style=text-align:center
+!Source
+!Ranking
+!As of
+|-
+|align="left"|''[[The Cook Political Report]]''<ref>{{Cite web|title=2026 CPR Senate Race Ratings|url=https://www.cookpolitical.com/ratings/senate-race-ratings|access-date=October 7, 2026|website=[[Cook Political Report]]}}</ref>
+|{{USRaceRating|Solid|R}}
+|October 6, 2026
+|-
+|align="left"|[[Decision Desk HQ]]<ref>{{cite web|title=2026 Senate Ratings|url=https://votes.decisiondeskhq.com/forecast/2026/senate|url-access=registration|publisher=[[Decision Desk HQ]]|access-date=October 7, 2026}}</ref>
+|{{USRaceRating|Likely|R}}
+|October 7, 2026
+|-
+|align="left"|''[[The Economist]]''<ref>{{cite news |title=2026 Senate Forecast|url=https://www.economist.com/interactive/2026/us-midterms/prediction-model/senate/|access-date=October 7, 2026|website=[[The Economist]]}}</ref>{{efn|''The Economist''{{'}}s prediction model uses unconventional terminology. For the purpose of equivalency, their "Very Likely" ratings are formatted as a "Likely" rating while "Likely" ratings are formatted as a "Lean" rating.}}
+|{{USRaceRating|Likely|R}}
+|October 7, 2026
+|-
+|align="left"|[[FiftyPlusOne]]<ref>{{Cite web |title=2026 Congressional Forecast |url=https://fiftyplusone.news/forecast/senate |access-date=October 7, 2026 |website=[[FiftyPlusOne]]}}</ref>
+|{{USRaceRating|Likely|R}}
+|October 7, 2026
+|-
+|align="left"|[[Fox News]]<ref>{{Cite news |last=Numa |first=Rémy |title=Fox News Power Rankings: The biggest surprises come after October |url=https://www.foxnews.com/politics/fox-news-power-rankings-the-biggest-surprises-come-after-october |work=[[Fox News]] |date=October 6, 2026 |access-date=October 7, 2026}}</ref>
+|{{USRaceRating|Solid|R}}
+|October 6, 2026
+|-
+|align="left"|''[[Inside Elections]]''<ref>{{Cite web|title=Senate Ratings|url=https://www.insideelections.com/ratings/senate|access-date=October 7, 2026 |website=[[Inside Elections]]}}</ref>
+|{{USRaceRating|Solid|R}}
+|October 1, 2026
+|-
+|align="left"|[[MS NOW]]<ref>{{Cite news |url=https://www.ms.now/news/2026-senate-ratings-ms-nows-races-to-watch |title=2026 Senate ratings: MS NOW's races to watch |last1=Khanna |first1=Kabir |last2=Thomas |first2=Shawna |orig-date=August 19, 2026 |work=[[MS NOW]] |date=September 16, 2026 |access-date=October 7, 2026}}</ref>
+|{{USRaceRating|Likely|R}}
+|September 16, 2026
+|-
+|align="left"|[[RealClearPolitics]]<ref>{{Cite web|url=https://www.realclearpolling.com/maps/senate/2026/toss-up|title=Battle for the Senate 2026|access-date=October 7, 2026|website=[[RealClearPolitics]]}}</ref>
+|{{USRaceRating|Lean|R}}
+|October 5, 2026
+|-
+|align="left"|''[[Sabato's Crystal Ball]]''<ref>{{cite web|title=2026 Senate ratings|url=https://centerforpolitics.org/crystalball/2026-senate/|website=[[Sabato's Crystal Ball]]|access-date=October 7, 2026}}</ref>
+|{{USRaceRating|Safe|R}}
+|October 6, 2026
+|-
+|align="left"|''[[Silver Bulletin]]''<ref name="Silver">{{Cite web |url=https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model |title=FLIPR 2026 midterm election forecast |last1=Silver |first1=Nate |author1-link=Nate Silver |last2=McKown-Dawson |first2=Eli |website=[[Silver Bulletin]] |via=[[Substack]] |date=October 7, 2026 |orig-date=August 11, 2026 |access-date=October 7, 2026 |url-access=subscription}}</ref>
+|{{USRaceRating|Likely|R}}
+|October 7, 2026
+|-
+|align="left"|[[Split Ticket (website)|Split Ticket]]<ref>{{Cite magazine |title=Split Ticket 2026 Midterms Model |url=https://www.theargumentmag.com/p/split-ticket-2026-midterms-model |magazine=[[The Argument (magazine)|The Argument]] |via=[[Substack]] |access-date=October 7, 2026}}</ref>
+|{{USRaceRating|Likely|R}}
+|October 7, 2026
+|}
+
+===Fundraising===
+{| class="wikitable sortable"
+|-
+! colspan=4 |Campaign finance reports as of July 29, 2026
+|- style="text-align:center;"
+!Candidate
+!Raised
+!Spent
+!Cash on hand
+|-
+|{{party shading/Republican}}|Ashley Moody (R)
+|$11,259,074
+|$2,776,253
+|$8,482,821
+|-
+|{{party shading/Democratic}}|Angie Nixon (D)
+|$974,845
+|$709,866
+|$264,978
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC1" /></small>
+|}
+
+===Post-primary endorsements===
+{{Endorsements box|title=Angie Nixon (D)|list=;Executive branch officials
+*[[Alex Vindman]], former director of European affairs for the [[U.S. National Security Council]] and primary candidate for this seat<ref>{{cite news|date=August 18, 2026|title=Alex Vindman loses Democratic Senate primary, endorses Rep. Angie Nixon|url=https://www.yahoo.com/news/videos/alex-vindman-loses-democratic-senate-032708559.html|publisher=WPBF |access-date=August 25, 2026}}</ref>
+
+;U.S. senators
+*[[Chris Murphy]], [[Connecticut]] (2013–present)<ref>{{cite web |last1=Leonard |first1=Kimberly |title=Florida GOP heads to Dallas (Florida Playbook) |url=https://www.politico.com/newsletters/florida-playbook/2026/09/08/florida-gop-heads-to-dallas-01067151 |website=[[POLITICO]] |access-date=September 27, 2026 |date=September 8, 2026}}</ref>
+*[[Bernie Sanders]], [[Vermont]] (2007–present) ''(Independent)''<ref>{{cite web|last=Pantazi|first=Andrew|date=August 20, 2026|title=Bernie Sanders endorses Florida's Angie Nixon for Senate|url=https://www.axios.com/2026/08/20/bernie-sanders-endorses-floridas-angie-nixon-for-senate|website=[[Axios (website)|Axios]]|access-date=August 20, 2026}}</ref>
+*[[Elizabeth Warren]], [[Massachusetts]] (2013–present)<ref>{{cite web |last1=Byington |first1=Lilliana |title=Progressive Candidates Eschew Labels as GOP Targets Democrats |url=https://news.bgov.com/bloomberg-government-news/progressive-candidates-eschew-labels-as-gop-targets-democrats |website=[[Bloomberg Government]] |access-date=September 27, 2026 |date=September 1, 2026 |quote=Nixon expanded her support to top progressive senators since the primary, including endorsements from Sens. Elizabeth Warren and Bernie Sanders.}}</ref>
+
+;U.S. representatives
+*[[Alexandria Ocasio-Cortez]], {{ushr|NY|14|NY-14}} (2019–present)<ref>{{cite news|last=Davis|first=Sarah|date=September 2, 2026|title=Ocasio-Cortez backs Nixon in Florida Senate race|url=https://thehill.com/homenews/campaign/6066299-aoc-endorses-angie-nixon/|website=[[The Hill (newspaper)|The Hill]]|access-date=September 2, 2026}}</ref>
+
+;Party officials
+*[[Nikki Fried]], chair of the [[Florida Democratic Party]] (2023–present)<ref>{{cite web |title=Florida Democrats are united to take back Florida|url=https://floridadems.org/2026/08/florida-democrats-are-united-to-take-back-florida/ |work=[[Florida Democratic Party]] |access-date=August 24, 2026 |date=August 24, 2026}}</ref>
+
+;Labor unions
+*[[Association of Flight Attendants]]<ref>{{cite web |title=2026 Endorsements |url=https://afacwa.org/endorsements/ |publisher=AFA-CWA |access-date=September 27, 2026}}</ref>
+*Florida [[AFL-CIO]]<ref>{{cite web |last1=Diaz |first1=Daniel |title=The Florida Labor Day Letter |url=https://flaflcio.org/the-florida-labor-day-letter/ |website=Florida AFL-CIO |access-date=September 27, 2026 |date=September 4, 2026}}</ref>
+*[[National Nurses United]]<ref>{{cite press release |title=National Nurses United endorses Angie Nixon to represent Florida in the U.S. Senate |url=https://www.nationalnursesunited.org/press/national-nurses-united-endorses-angie-nixon-to-represent-florida-in-the-us-senate |access-date=September 27, 2026 |date=September 23, 2026}}</ref>
+*[[United Auto Workers]]<ref>{{cite web |title=Endorsements across the country |url=https://uawpower.org/states/florida |website=UAW Power |publisher=[[United Auto Workers]] |access-date=October 3, 2026}}</ref>
+
+;Organizations
+*[[EMILYs List]]<ref>{{cite press release |title=EMILYs List Endorses State Rep. Angie Nixon in Florida's U.S. Senate Race |url=https://emilyslist.org/news/emilys-list-endorses-state-rep-angie-nixon-in-floridas-u-s-senate-race/ |publisher=[[EMILYs List]] |date=September 30, 2026 |access-date=September 30, 2026}}</ref>
+*[[Elect Democratic Women]]<ref>{{cite press release |title=Elect Democratic Women endorses Angie Nixon for U.S. Senate |url=https://electdemocraticwomen.org/elect-democratic-women-endorses-angie-nixon-for-u-s-senate/ |publisher=[[Elect Democratic Women]] |access-date=October 8, 2026 |date=October 2, 2026}}</ref>
+*[[End Citizens United]]<ref>{{cite press release |title=End Citizens United Endorses Angie Nixon for U.S. Senate in Florida |url=https://www.endcitizensunited.org/news/end-citizens-united-endorses-angie-nixon-for-us-senate-in-florida |access-date=September 27, 2026 |date=September 16, 2026}}</ref>
+*[[Equality Florida]] Action<ref>{{cite press release |title=Equality Florida Action, Inc. Endorses State Representative Angie Nixon for U.S. Senate |url=https://eqfl.org/newsroom/equality-florida-action-inc-endorses-state-representative-angie-nixon-for-u-s-senate/ |publisher=Equality Florida |access-date=October 3, 2026 |date=September 15, 2026}}</ref>
+*[[Giffords]] PAC<ref>{{cite press release |title=GIFFORDS PAC endorses State Representative Angie Nixon for U.S. Senate |url=https://giffords.org/press-release/2026/10/giffords-pac-endorses-state-representative-angie-nixon-for-u-s-senate/ |publisher=Giffords |access-date=October 3, 2026}}</ref>
+*[[Leaders We Deserve]]<ref>{{cite web |last1=Leonard |first1=Kimberly |title=9/11: Where they were (Florida Playbook) |url=https://www.politico.com/newsletters/florida-playbook/2026/09/11/9-11-where-they-were-01071999 |website=[[POLITICO]] |access-date=September 27, 2026 |date=September 11, 2026}}</ref>
+*[[MoveOn]]<ref>{{cite web |last1=Leonard |first1=Kimberly |title=Democrat's 'lightning in a bottle' scenario (Florida Playbook) |url=https://www.politico.com/newsletters/florida-playbook/2026/09/25/democrats-lightning-in-a-bottle-scenario-01093105 |website=[[POLITICO]] |access-date=September 27, 2026 |date=September 25, 2026}}</ref>
+*[[National Women's Political Caucus]]<ref>{{cite web |title=2026 Federal Endorsements |url=https://nwpc.org/endorsed-candidates/ |publisher=National Women's Political Caucus |access-date=September 16, 2026}}</ref>
+*[[Planned Parenthood Action Fund]]<ref>{{cite web |last1=Leonard |first1=Kimberly |title=Worrell gets a warning (Florida Playbook) |url=https://www.politico.com/newsletters/florida-playbook/2026/09/02/worrell-gets-a-warning-01061323 |website=[[POLITICO]] |access-date=September 27, 2026 |date=September 2, 2026}}</ref>
+*[[Voters of Tomorrow]]<ref>{{cite web |last1=Gaynor |first1=Gerren Keith |title=Exclusive: Major youth voting group backs 3 progressive Black candidates ahead of election day |url=https://thegrio.com/2026/10/05/exclusive-voters-of-tomorrow-endorsements-black-candidates/ |website=[[TheGrio]] |access-date=October 8, 2026 |date=October 5, 2026}}</ref>
+}}
+
+=== Polling ===
+;Aggregate polls
+{| class="wikitable sortable" style="text-align:center;font-size:90%;line-height:17px"
+!Source of poll<br>aggregation
+! Dates<br />administered
+! Dates<br />updated
+! style="width:100px;"| Ashley<br />Moody (R)
+! style="width:100px;"| Angie<br />Nixon (D)
+! style="width:100px;" |Other/<br />Undecided{{Efn|name=calculated|Calculated by taking the difference of 100% and all other candidates combined.}}
+! Margin
+|-
+|[[270toWin]]<ref>{{cite web|title=2026 Polls: Florida Senate
+|url=https://www.270towin.com/2026-senate-polls/florida#google_vignette|access-date=September 22, 2026|website=[[270toWin]]}}</ref>
+|September 8–27, 2026<!--Remember that dates listed on 270toWin are poll *publication dates*, not the dates when the polls were *administered*-->
+|October 2, 2026
+|{{party shading/Republican}} |'''48.6%'''
+|43.4%
+|8.0%
+|{{party shading/Republican}} |'''Moody +5.2%'''
+|-
+|[[Decision Desk HQ]]<ref>{{Cite web |title=2026 Florida US Senate |url=https://votes.decisiondeskhq.com/races/2026-11-03/florida-us-senate-special-election-general/polling |access-date=October 2, 2026 |website=[[Decision Desk HQ]]}}</ref>
+|through October 7, 2026
+|October 8, 2026
+|{{party shading/Republican}}|'''48.8%'''
+|42.8%
+|8.2%
+|{{party shading/Republican}}|'''Moody +6.0%'''
+|-
+|[[FiftyPlusOne]]<ref>{{cite web|title=Florida General Senate Election
+|url=https://fiftyplusone.news/polls/senate/general/florida|website=[[FiftyPlusOne]]}}</ref>
+|through October 7, 2026
+|October 8, 2026
+|{{party shading/Republican}} |'''49.0%'''
+|42.9%
+|7.9%
+|{{party shading/Republican}} |'''Moody +6.1%'''
+|-
+|[[RealClearPolitics]]<ref>{{cite web|title=2026 Florida Senate Special Election - Moody vs. Nixon |url=https://www.realclearpolling.com/polls/senate/general/2026/florida/moody-vs-nixon|access-date=October 6, 2026|website=[[RealClearPolitics]]}}</ref>
+|September 8 – October 7, 2026
+|October 8, 2026
+|{{party shading/Republican}} |'''49.3%'''
+|42.3%
+|8.4%
+|{{party shading/Republican}} |'''Moody +7.0%'''
+|-
+|''[[Silver Bulletin]]''<ref name="Silver" />
+|through October 5, 2026
+|October 6, 2026
+|{{party shading/Republican}} |'''48.9%'''
+|42.6%
+|8.5%
+|{{party shading/Republican}} |'''Moody +6.3%'''
+|-
+|colspan="3"|'''Average'''
+|{{party shading/Republican}}|'''48.9%'''
+|42.8%
+|8.2%
+|{{party shading/Republican}}|'''Moody +6.1%'''
+|}
+
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- style="vertical-align:bottom"
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name=Key}}
+! Margin<br />of error
+! style="width:100px;"| Ashley<br />Moody (R)
+! style="width:100px;"| Angie<br />Nixon (D)
+! Other
+! Undecided
+|-
+| style="text-align:left;|St. Pete Polls<ref>{{cite web |title=Florida Statewide survey conducted for FloridaPolitics.com |url=https://www.stpetepolls.org/files/StPetePolls_2026_State_Gov_October7_K7ZU3GA.pdf |publisher=St. Pete Polls |access-date=October 8, 2026 |date=October 7, 2026}}</ref>{{Efn-ua|name=FP}}
+|October 5–7, 2026
+|836 (LV)
+|±&nbsp;3.4%
+|{{party shading/Republican}}|'''47%'''
+|45%
+|2%{{Efn|"Someone else" with 2%}}
+|6%
+|-
+| style="text-align:left;|[[YouGov]]<ref>{{cite web|title=Florida General Election 2026 – Likely Voters|url=https://d3nkl3psvxxpe9.cloudfront.net/documents/ttw_fl_20260921_lv.pdf |website=[[YouGov]] |date=October 6, 2026 |access-date=October 6, 2026}}</ref>
+|September 28 – October 5, 2026
+|3,813 (LV)
+|±&nbsp;2.7%
+|{{party shading/Republican}}|'''49%'''
+|44%
+|1%
+|5%
+|-
+| style="text-align:left;|James Madison Institute<ref>{{cite web|title=Marginals|url=https://jamesmadison.org/wp-content/uploads/JMI-October-2026-Poll-Marginals.pdf |website=James Madison Institute |date=October 6, 2026 |access-date=October 9, 2026}}</ref>
+|September 28 – October 4, 2026
+|1,171 (LV)
+|±&nbsp;2.8%
+|{{party shading/Republican}}|'''52%'''
+|42%
+|2%
+|4%
+|-
+| style="text-align:left;|[[Mason-Dixon Polling & Strategy|Mason-Dixon]]<ref>{{cite web |title=NBC 6/Telemundo Station Group Florida Voter Poll |url=https://s3.documentcloud.org/documents/28724874/fl1026results.pdf |website=[[Mason-Dixon Polling & Strategy]] |date=October 6, 2026 |access-date=October 6, 2026}}</ref>
+|September 28 – October 1, 2026
+|625 (LV)
+|±&nbsp;4.0%
+|{{party shading/Republican}}|'''50%'''
+|40%
+|2%{{efn|Neil J. Gillespie (I) with 2%}}
+|8%
+|-
+|style="text-align:left;"|[[Change Research]] (D)<ref>{{cite web |title=Florida AAPOR Methodology Statement September 25-27, 2026|url=https://changeresearch.com/research/2026/2026-09-28-florida-aapor-methodology-statement|publisher=Change Research|access-date=September 29, 2026}}</ref>{{efn-ua|name=FPUSA}}
+|September 25–27, 2026
+|1,063 (LV)
+|±{{nbsp}}2.8%
+|{{party shading/Republican}}|'''48%'''
+|47%
+|1%{{efn|"Would not vote" 1%}}
+|5%
+|-
+|style="text-align:left;"|[[Stetson University]]<ref>{{cite web |title=Poll:Republicans Hold Double-Digit Leads in Florida Governor, U.S. Senate Races|url=https://www.stetson.edu/artsci/cpor/media/cpor-sept.-2026-poll-final.pdf |publisher=Stetson University |access-date=September 24, 2026 |date=September 24, 2026}}</ref>
+|September 14–21, 2026
+|830 (LV)
+|±{{nbsp}}4.3%
+|{{party shading/Republican}}|'''51%'''
+|40%
+|3%
+|5%
+|-
+|style="text-align: left;"|InsiderAdvantage (R)<ref>{{Cite web |title=FL U.S. Senate Survey Top Line Tabs |url=https://insideradvantage.com/fl-u-s-senate-survey-top-line-tabs/ |website=InsiderAdvantage |date=September 22, 2026 |access-date=September 22, 2026}}</ref>
+|September 20–21, 2026
+|600 (LV)
+|±{{nbsp}}4%
+|{{party shading/Republican}}|'''49%'''
+|42%
+|2%
+|7%
+|-
+|style="text-align:left;"|St. Pete Polls<ref>{{cite web |title=Florida Statewide survey conducted for FloridaPolitics.com |url=http://stpetepolls.org/files/StPetePolls_2026_State_Gov_September17_G7V29XU6.pdf |publisher=St. Pete Polls |access-date=September 18, 2026 |date=September 17, 2026}}</ref>{{Efn-ua|name=FP|Poll sponsored by [[Florida Politics]]}}
+|September 15–17, 2026
+|913 (LV)
+|±{{nbsp}}3.2%
+|'''45%'''
+|'''45%'''
+|3%{{efn|"Someone else" with 3%}}
+|7%
+|-
+|style="text-align:left;"|Quantus Insights (R)<ref>{{Cite web|url=https://quantusinsights.org/f/new-quantus-polls-moody-leads-in-florida-flanagan-in-minnesota|title=New Quantus Polls: Moody Leads in Florida, Flanagan in Minnesota|website=Quantus Insights|date=September 11, 2026|access-date=September 11, 2026}}</ref>
+|September 8–10, 2026
+|733 (LV)
+|±{{nbsp}}4.1%
+|{{party shading/Republican}}|'''50%'''
+|43%
+|3%{{efn|"Someone else" with 1%; "Wouldn't vote" with 1%}}
+|4%
+|-
+|style="text-align:left;"|[[Change Research]] (D)<ref>{{Cite web |url=https://changeresearch.com/research/2026/2026-09-10-florida-aapor-methodology-statement |title=Florida {{!}} AAPOR Methodology Statement {{!}} September 7-9, 2026 |website=Change Research |date=September 10, 2026 |access-date=September 10, 2026}}</ref>{{Efn-ua|name=FPUSA}}
+|September 7–9, 2026
+|1,107 (LV)
+|±{{nbsp}}2.8%
+|'''47%'''
+|'''47%'''
+|1%{{efn|name="WNV1"|}}
+|5%
+|- style="background:lightyellow;"
+| style="border-right-style:hidden; background:lightyellow;" |
+| style="border-right-style:hidden; " | August 18, 2026
+| colspan="16"| Primary elections
+|-
+|style="text-align:left;"|[[University of North Florida]]<ref name="UNFJuly2026">{{Cite web|url=https://www.unfporl.org/presser-page|title=UNF Poll: Support for Property Tax Amendment Hinges on Contested Ballot Language – Donalds, Moody Maintain Single-Digit Leads in November Governor, Senate Races|publisher=[[University of North Florida]]|date=July 20, 2026|access-date=July 20, 2026}}</ref>
+|July 8–17, 2026
+|848 (LV)
+|±{{nbsp}}3.8%
+|{{party shading/Republican}}|'''50%'''
+|42%
+|2%{{efn|"Someone else" and "Wouldn't vote" with 1%}}
+|6%
+|-
+|style="text-align:left;"|[[Stetson University]]<ref name=Stetson4.24>{{cite web |title=Stetson Poll: Republicans Lead in Florida 2026 Races, But Many Voters Undecided |url=https://www2.stetson.edu/today/2026/04/stetson-poll-republicans-lead-in-florida-2026-races-but-many-voters-still-undecided/ |publisher=[[Stetson University]] |access-date=April 25, 2026 |date=April 24, 2026}}</ref>
+|March 15 – April 13, 2026
+|848 (LV)
+|±{{nbsp}}4.1%
+|{{party shading/Republican}}|'''51%'''
+|38%
+|{{sdash}}
+|11%
+|-
+|style="text-align:left;"|[[Emerson College]]<ref name="EmersonApril2026">{{Cite web|url=https://emersoncollegepolling.com/florida-2026-poll-donalds-leads-gop-primary-for-governor-republicans-outpace-democrats-in-florida-elections/|title=Florida 2026 Poll: Donalds Leads GOP Primary for Governor, Republicans Outpace Democrats in Florida Elections Florida 2026 Poll: Donalds Leads GOP Primary for Governor, Republicans Outpace Democrats in Florida Elections|publisher=Emerson College Polling|date=April 2, 2026|access-date=April 2, 2026}}</ref>
+|March 29–31, 2026
+|1,125 (LV)
+|±{{nbsp}}2.8%
+|{{party shading/Republican}}|'''47%'''
+|36%
+|{{sdash}}
+|16%
+|-
+|style="text-align:left;"|[[University of North Florida]]<ref name="UNFMarch2026" />
+|February 21 – March 2, 2026
+|786 (LV)
+|±{{nbsp}}4.0%
+|{{party shading/Republican}}|'''46%'''
+|38%
+|2%
+|15%
+|}
+
+<!-- = = = don't edit the line below = = = -->
+{{hidden begin|titlestyle=background:#cff|title=Hypothetical polling|contentstyle=border:solid 1px silver; padding:8px; background:var(--background-color-base); color:var(--color-base);}}
+<!-- = = = don't edit the line above = = = -->
+
+'''Ashley Moody vs. Alexander Vindman'''
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- style="vertical-align:bottom"
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name=Key}}
+! Margin<br />of error
+! style="width:100px;"| Ashley<br />Moody (R)
+! style="width:100px;"| Alexander<br />Vindman (D)
+! Other
+! Undecided
+|-
+|style="text-align:left;"|[[University of North Florida]]<ref name="UNFJuly2026" />
+|July 8–17, 2026
+|848 (LV)
+|±{{nbsp}}3.8%
+|{{party shading/Republican}}|'''50%'''
+|40%
+|3%{{efn|"Someone else" with 2%; "Wouldn't vote" with 1%}}
+|7%
+|-
+|style="text-align:left;"|[[Change Research]] (D)<ref name="ChangeJuly2026" />{{efn-ua|name=FPUSA}}
+|July 9–11, 2026
+|1,348 (RV)
+|±{{nbsp}}2.8%
+|{{party shading/Republican}}|'''45%'''
+|37%
+|4%{{efn|"Would not Vote" with 4%}}
+|14%
+|-
+|style="text-align:left;"|McLaughlin & Associates (R)<ref>{{cite web |last1=Schorsch |first1=Peter |title=Ashley Moody opens a healthy — and hardened — lead over Alex Vindman in new AIF Senate poll |url=https://floridapolitics.com/archives/802818-ashley-moody-opens-a-healthy-and-hardened-lead-over-alex-vindman-in-new-aif-senate-poll/ |website=[[Florida Politics]] |access-date=June 19, 2026 |date=June 19, 2026}}</ref>{{Efn-ua|Polls sponsored by Associated Industries of Florida, which supports Moody}}
+|June 3–7, 2026
+|800 (LV)
+|±{{nbsp}}3.5%
+|{{party shading/Republican}}|'''47%'''
+|40%
+|{{sdash}}
+|13%
+|-
+|style="text-align:left;"|[[Global Strategy Group]] (D)<ref>{{cite web |last1=Ogles |first1=Jacob |title=Alex Vindman campaign polling shows him within striking distance of Ashley Moody |url=https://floridapolitics.com/archives/798776-alex-vindman-campaign-polling-shows-him-within-striking-distance-of-ashley-moody/ |website=[[Florida Politics]] |access-date=May 28, 2026 |date=May 28, 2026}}</ref>{{Efn-ua|name=Vindman}}
+|May 18–21, 2026
+|1,000 (LV)
+|±{{nbsp}}3.1%
+|{{party shading/Republican}}|'''46%'''
+|43%
+|{{sdash}}
+|12%
+|-
+|style="text-align:left;" rowspan='2"|[[Change Research]] (D)<ref name="ChangeMay2026">{{cite web |last1=Clermont |first1=Stephen |title=Deep Dive into Florida |url=https://changeresearch.com/wp-content/uploads/2026/05/Deep-Dive-into-Florida-1.pdf |website=Change Research |access-date=18 May 2026}}</ref><ref name="FPUSATabs">{{Cite web|url=https://www.freedomprojectusa.org/florida-crosstabs-may-13-16-2026.pdf|title=Florida – Crosstabs – May 13–16, 2026 – Client Copy|publisher=Freedom Project USA|access-date=July 16, 2026}}</ref>{{efn-ua|name=FPUSA|Poll commissioned by Freedom Project USA}}
+|rowspan='2"|May 13–16, 2026
+|1,593 (LV)
+|rowspan='2"|±{{nbsp}}2.3%
+|45%
+|{{party shading/Democratic}}|'''47%'''
+|1%{{efn|name="WNV1"|"Would not vote" with 1%}}
+|7%
+|-
+|2,070 (RV)
+|{{party shading/Republican}}|'''46%'''
+|41%
+|3%{{efn|name="WNV3"|"Would not vote" with 3%}}
+|10%
+|-
+|style="text-align: left;" |Cherry Communications (R)<ref name="CherryMay2026">{{Cite web|url=https://www.flchamber.com/new-florida-chamber-statewide-poll-shows-ashley-moody-byron-donalds-leading-potential-democratic-opponents-in-november-ballot-test/|title=New Florida Chamber Statewide Poll Shows Ashley Moody, Byron Donalds Leading Potential Democratic Opponents in November Ballot Test|website=[[Florida Chamber of Commerce]]|date=May 15, 2026|access-date=May 16, 2026}}</ref>{{efn-ua|name=FLChamber|Poll sponsored by the [[Florida Chamber of Commerce]]}}
+|May 1–9, 2026
+|604 (LV)
+|±{{nbsp}}4.0%
+|{{party shading/Republican}}|'''48%'''
+|40%
+|{{sdash}}
+|12%
+|-
+|style="text-align:left;"|[[Stetson University]]<ref name=Stetson4.24/>
+|March 15 – April 13, 2026
+|848 (LV)
+|±{{nbsp}}4.1%
+|{{party shading/Republican}}|'''49%'''
+|42%
+|{{sdash}}
+|9%
+|-
+|style="text-align:left;"|Echelon Insights (R)<ref>{{cite web|url=https://netchoice.org/wp-content/uploads/2026/04/NetChoice-Apr-2026-National-Antitrust-Survey-Topline.pdf|title=NetChoice — April 2026 Antitrust Survey — Topline|work=Echelon Insights|access-date=April 21, 2026}}</ref>{{efn-ua|Poll commissioned by [[NetChoice]]}}
+|April 3–9, 2026
+|406 (LV)
+|±{{nbsp}}6.0%
+|{{party shading/Republican}}|'''50%'''
+|43%
+|{{sdash}}
+|7%
+|-
+|style="text-align:left;"|MDW (D)<ref>{{Cite web|url=https://floridapolitics.com/archives/790357-poll-democrats-gaining-ground-key-races-tighten-in-florida-as-donald-trump-drags-gop/|title=Poll: Democrats gaining ground, key races tighten in Florida as Donald Trump drags GOP|first=Jesse|last=Scheckner|website=[[Florida Politics]]|date=April 13, 2026|access-date=April 13, 2026}}</ref>{{Efn-ua|name=EdgeComm|Poll sponsored by Edge Communications, a Democratic<ref>{{cite web |last1=Nir |first1=David |last2=Singer |first2=Jeff |title=Morning Digest: Swalwell and Gonzales both say they'll resign from Congress |url=https://www.the-downballot.com/i/194130705/poll-pile |website=The Downballot |access-date=April 14, 2026 |date=April 14, 2026}}</ref> firm}}
+|March 27 – April 3, 2026
+|1,834 (LV)
+|±{{nbsp}}2.0%
+|{{party shading/Republican}}|'''43%'''
+|42%
+|{{sdash}}
+|14%
+|-
+|style="text-align:left;"|[[Public Policy Polling]] (D)<ref>{{cite web |last1=Ogles |first1=Jacob |title=Alex Vindman internal poll shows him within striking distance of Ashley Moody |url=https://floridapolitics.com/archives/789481-alex-vindman-internal-poll-shows-him-within-striking-distance-of-ashley-moody/ |website=[[Florida Politics]] |access-date=April 8, 2026 |date=April 8, 2026}}</ref>{{Efn-ua|name=Vindman|Poll commissioned by Vindman's campaign}}
+|April 2–3, 2026
+|574 (RV)
+|±{{nbsp}}4.1%
+|{{party shading/Republican}}|'''43%'''
+|40%
+|{{sdash}}
+|17%
+|-
+|style="text-align:left;"|[[Emerson College]]<ref name="EmersonApril2026" />
+|March 29–31, 2026
+|1,125 (LV)
+|±{{nbsp}}2.8%
+|{{party shading/Republican}}|'''46%'''
+|38%
+|{{sdash}}
+|16%
+|-
+|style="text-align:left;"|[[University of North Florida]]<ref name="UNFMarch2026">{{cite news|url=https://www.orlandosentinel.com/2026/03/04/florida-poll-shows-republicans-lead-democrats-in-statewide-races-but-only-by-single-digits/|title=Florida poll shows Republicans lead Democrats in statewide races — but only by single digits|first=Anthony|last=Man|website=[[Orlando Sentinel]]|date=March 4, 2026|access-date=March 4, 2026}}</ref>
+|February 21 – March 2, 2026
+|786 (LV)
+|±{{nbsp}}4.0%
+|{{party shading/Republican}}|'''45%'''
+|38%
+|2%
+|15%
+|}
+
+'''Ashley Moody vs. Jennifer Jenkins'''
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- style="vertical-align:bottom"
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name=Key|Key:<br />A – all adults<br />RV – registered voters<br />LV – likely voters<br />V – unclear}}
+! Margin<br />of error
+! style="width:100px;"| Ashley<br />Moody (R)
+! style="width:100px;"| Jennifer<br />Jenkins (D)
+! Other
+! Undecided
+|-
+|style="text-align:left;" rowspan="2"|[[University of North Florida]]<ref>{{Cite web|url=https://www.unfporl.org/uploads/1/4/4/5/144559024/unf_porl_fall_statewide_2025_lv_-_press_release.pdf|title=Potential Republicans lead Democrats in Florida midterm matchups|publisher=[[University of North Florida]]|date=October 28, 2025|access-date=October 28, 2025}}</ref>
+|rowspan="2"|October 15–25, 2025
+|rowspan="2"|728 (LV)
+|rowspan="2"|±{{nbsp}}4.3%
+|{{party shading/Republican}}|'''49%'''{{efn|name="lean"|With voters who lean towards a given candidate}}
+|38%
+|3%{{efn|name="SEWVR1"|"Someone else", "Wouldn't vote", and "Refusal" with 1%}}
+|10%
+|-
+|{{party shading/Republican}}|'''47%'''
+|37%
+|3%{{efn|name="SEWVR1"}}
+|13%
+|-
+|style="text-align:left;"|The Tyson Group (R)<ref>{{cite web |title=Moody's Position on the Enhanced Premium Tax Credits Will Have Key Impact on Senate Race |url=https://pup-advocacy.com/news/polling-memo/moodys-position-on-the-enhanced-premium-tax-credits-will-have-key-impact-on-senate-race/ |publisher=Plymouth Union Public Advocacy |access-date=9 October 2025 |date=7 October 2025}}</ref>{{Efn-ua|Poll sponsored by Plymouth Union Public Advocacy}}
+|October 1–3, 2025
+|800 (LV)
+|{{sdash}}
+|{{party shading/Republican}}|'''44%'''
+|37%
+|{{sdash}}
+|19%
+|}
+
+'''Ashley Moody vs. Hector Mujica'''
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- style="vertical-align:bottom"
+! Poll source
+! Date(s)<br />administered
+! Sample<br />size{{efn|name=Key}}
+! Margin<br />of error
+! style="width:100px;"| Ashley<br />Moody (R)
+! style="width:100px;"| Hector<br />Mujica (D)
+! Other
+! Undecided
+|-
+|style="text-align:left;"|[[Emerson College]]<ref name="EmersonApril2026" />
+|March 29–31, 2026
+|1,125 (LV)
+|±{{nbsp}}2.8%
+|{{party shading/Republican}}|'''45%'''
+|38%
+|{{sdash}}
+|17%
+|}
+{{hiddenend}}
+
+===Results===
+{{Election box begin
+ | title=2026 United States Senate special election in Florida}}
+{{Election box candidate with party link 
+ | party=Republican Party (United States)
+ | candidate= [[Ashley Moody]] (incumbent)
+ | votes=
+ | percentage=
+ | change     = 
+}}
+{{Election box candidate with party link
+ | party=Democratic Party (United States)
+ | candidate=[[Angie Nixon]]
+ | votes= 
+ | percentage=
+ | change     = 
+}}
+{{Election box candidate with party link no change
+ | party=Independent
+ | candidate=Neil J. Gillespie
+ | votes= 
+ | percentage=
+ |change     =
+}}
+{{Election box total 
+ | votes= 
+ | percentage=100.0}}
+{{Election box end}}
+
+==Notes==
+{{notelist}}
+'''Partisan clients'''<br />
+{{notelist-ua}}
+
+==References==
+{{reflist}}
+
+== External links ==
+;Official campaign websites
+*[https://ashleymoody.com/ Ashley Moody (R)]
+*[https://angienixon.com/ Angie Nixon (D)]
+{{2026 United States elections}}
+
+[[Category:2026 United States Senate elections|Florida]]
+[[Category:2026 Florida elections|Senate]]
+[[Category:Florida special elections|United States Senate 2026]]
+[[Category:Special elections to the 119th United States Congress|Florida Senate 2026]]
+[[Category:United States Senate elections in Florida|2026]]
+[[Category:United States Senate special elections|Florida 2026]]
