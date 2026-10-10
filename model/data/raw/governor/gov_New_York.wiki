@@ -839,13 +839,13 @@ The [[New York State Board of Elections]] rejected all petitions for non-qualifi
 ! style="width:75px;"| Other/undecided<br/>{{Efn|Calculated by taking the difference of 100% and all other candidates combined.|name=|group=}}
 !Margin
 |-
-|[[270toWin]]<ref>{{cite web |title=2026 Polls: New York Governor |url=https://www.270towin.com/2026-governor-polls/new-york |website=[[270toWin]] |access-date=24 September 2026}}</ref>
-|September 23, 2026
-|September 24, 2026
-|{{party shading/Democratic}}|'''54.0%'''
-|40.0%
-|6.0%
-|{{party shading/Democratic}}|'''Hochul +14.0%'''
+|[[270toWin]]<ref>{{cite web |title=2026 Polls: New York Governor |url=https://www.270towin.com/2026-governor-polls/new-york |website=[[270toWin]] |access-date=10 October 2026}}</ref>
+|September 23 – October 8, 2026
+|October 8, 2026
+|{{party shading/Democratic}}|'''53.3%'''
+|40.5%
+|6.2%
+|{{party shading/Democratic}}|'''Hochul +12.8%'''
 |-
 |[[Decision Desk HQ]]<ref>{{cite web |title=2026 New York Governor Polling |url=https://votes.decisiondeskhq.com/races/2026-11-03/new-york-governor-general-election/polling |website=[[Decision Desk HQ]] |access-date=13 September 2026}}</ref>
 |through October 5, 2026
@@ -880,10 +880,10 @@ The [[New York State Board of Elections]] rejected all petitions for non-qualifi
 |{{party shading/Democratic}}|'''Hochul +12.4%'''
 |-
 |colspan="3"|'''Average'''
-|{{party shading/Democratic}}|'''53.0%'''
-|40.4%
-|6.6%
-|{{party shading/Democratic}}|'''Hochul +12.6%'''
+|{{party shading/Democratic}}|'''52.8%'''
+|40.5%
+|6.7%
+|{{party shading/Democratic}}|'''Hochul +12.3%'''
 |}
 
 {| class="wikitable" style="font-size:90%;text-align:center;"

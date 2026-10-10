@@ -2294,51 +2294,35 @@ After the primary, Crockett conceded to Talarico,<ref>{{Cite web |date=March 4, 
 ! style="width:75px;"| Other/Undecided<br />{{Efn|name=calculated}}
 !Margin
 |-
-|FiftyPlusOne<ref name="50p1D">{{cite web |title=Texas Democratic Senate Primary |url=https://fiftyplusone.news/polls/senate/democratic-primary/texas |archive-url=https://web.archive.org/web/20260303211146/https://fiftyplusone.news/polls/senate/democratic-primary/texas |archive-date=March 3, 2026 |website=Fifty Plus One |access-date=February 17, 2025}}</ref>
-|through February 27, 2026
-|March 2, 2026
-|{{party shading/Democratic}}|'''45.7%'''
-|{{party shading/Democratic}}|'''46.2%'''
-|8.1%
-|{{party shading/Democratic}}|'''Talarico +0.5%'''
-|-
 |[[270toWin]]<ref name="renamed_from_270_on_20260207205712"/>
-|February 9 – March 1, 2026
+|February 2 – March 2, 2026
 |March 2, 2026
 |{{party shading/Democratic}}|'''47.6%'''
 |{{party shading/Democratic}}|'''47.6%'''
 |4.8%
 |{{party shading/Democratic}}|'''Tied'''
 |-
-|Race to the WH<ref name="rtwhpoll" />
-|through February 27, 2026
-|March 2, 2026
-|{{party shading/Democratic}}|'''44.4%'''
-|{{party shading/Democratic}}|'''49.1%'''
-|6.5%
-|{{party shading/Democratic}}|'''Talarico +4.7%'''
-|-
-|VoteHub<ref>{{cite web |title=Who leads the 2026 Texas U.S. Senate Democratic primary?|url=https://votehub.com/polls/?poll=texas_sen_dem_2026 |archive-url=https://megalodon.jp/2026-0304-0617-34/https://votehub.com:443/polls/?poll=texas_sen_dem_2026 |archive-date=March 3, 2026 |website=VoteHub |access-date=February 7, 2026}}</ref>
-|through February 27, 2026
-|March 2, 2026
-|{{party shading/Democratic}}|'''45.5%'''
-|{{party shading/Democratic}}|'''45.9%'''
-|8.6%
-| {{party shading/Democratic}} |'''Talarico +0.4%'''
-|-
-|[[Decision Desk HQ]]<ref>{{cite web |title=Texas Senate Democratic Primary Ballot Test|url=https://polls.decisiondeskhq.com/averages/primary-ballot-test/2026-tx-us-senate-dem/texas/lv-rv-adults-independents-democrats |archive-url=https://megalodon.jp/2026-0304-0619-58/https://polls.decisiondeskhq.com:443/averages/primary-ballot-test/2026-tx-us-senate-dem/texas/lv-rv-adults-independents-democrats |archive-date=March 3, 2026 |website=Decision Desk HQ |access-date=February 26, 2026}}</ref>
-|through February 27, 2026
+|[[Decision Desk HQ]]<ref>{{cite web |title=2026 Texas Senate Democratic Primary Polling Test|url=https://polls.decisiondeskhq.com/averages/primary-ballot-test/2026-tx-us-senate-dem/texas/lv-rv-adults-independents-democrats |website=Decision Desk HQ |access-date=October 10, 2026 |archive-date=March 3, 2026 |archive-url=https://megalodon.jp/2026-0304-0619-58/https://polls.decisiondeskhq.com:443/averages/primary-ballot-test/2026-tx-us-senate-dem/texas/lv-rv-adults-independents-democrats |url-status=live}}</ref>
+|through March 2, 2026
 |March 2, 2026
 |{{party shading/Democratic}}|'''45.6%'''
 |{{party shading/Democratic}}|'''48.5%'''
 |8.6%
 | {{party shading/Democratic}} |'''Talarico +2.9%'''
 |-
+|[[FiftyPlusOne]]<ref name="50p1D">{{cite web |title=Texas Democratic Senate Primary |url=https://fiftyplusone.news/polls/senate/democratic-primary/texas |website=[[FiftyPlusOne]] |access-date=October 10, 2026 |archive-date=March 3, 2026 |archive-url=https://web.archive.org/web/20260303211146/https://fiftyplusone.news/polls/senate/democratic-primary/texas |url-status=live}}</ref>
+|through March 2, 2026
+|March 2, 2026
+|{{party shading/Democratic}}|'''45.7%'''
+|{{party shading/Democratic}}|'''46.2%'''
+|8.1%
+|{{party shading/Democratic}}|'''Talarico +0.5%'''
+|-
 | colspan="3" |'''Average'''
-|{{party shading/Democratic}}|'''45.76%'''
-|{{party shading/Democratic}}|'''47.46%'''
-|7.4%
-|{{party shading/Democratic}}|'''Talarico +1.14%'''
+|{{party shading/Democratic}}|'''46.3%'''
+|{{party shading/Democratic}}|'''47.4%'''
+|6.3%
+|{{party shading/Democratic}}|'''Talarico +1.1%'''
 |}
 
 {| class="wikitable" style="font-size:90%;text-align:center;"
@@ -3021,7 +3005,7 @@ Talarico has considerably outraised Paxton throughout the campaign. Due to the h
 ! style="width:100px;" |Other/<br />Undecided{{Efn|name=calculated}}
 ! Margin
 |-
-|[[270toWin]]<ref name="270toWin">{{cite web|title=2026 Polls: Texas Senate|url=https://www.270towin.com/2026-senate-polls/texas|website=[[270toWin]]|access-date=October 8, 2026}}</ref>
+|[[270toWin]]<ref name="270toWin">{{cite web|title=2026 Polls: Texas Senate|url=https://www.270towin.com/2026-senate-polls/texas|website=[[270toWin]]|access-date=October 10, 2026}}</ref>
 |September 15–30, 2026<!--Remember that dates listed on 270toWin are poll *publication dates*, not the dates when the polls were *administered*-->
 |October 3, 2026
 |45.6%
@@ -3029,29 +3013,29 @@ Talarico has considerably outraised Paxton throughout the campaign. Due to the h
 |4.8%
 |{{party shading/Democratic}} |'''Talarico +4.0%'''
 |-
-|[[Decision Desk HQ]]<ref>{{Cite web |title=2026 Texas US Senate |url=https://votes.decisiondeskhq.com/races/2026-11-03/texas-us-senate-general-election/polling |access-date=October 8, 2026 |website=[[Decision Desk HQ]]}}</ref>
-|through October 5, 2026
-|October 8, 2026
-|44.8%
-|{{party shading/Democratic}}|'''47.9%'''
-|7.3%
-|{{party shading/Democratic}}|'''Talarico +3.1%'''
+|[[Decision Desk HQ]]<ref>{{Cite web |title=2026 Texas US Senate |url=https://votes.decisiondeskhq.com/races/2026-11-03/texas-us-senate-general-election/polling |access-date=October 10, 2026 |website=[[Decision Desk HQ]]}}</ref>
+|through October 8, 2026
+|October 10, 2026
+|44.5%
+|{{party shading/Democratic}}|'''47.8%'''
+|7.7%
+|{{party shading/Democratic}}|'''Talarico +3.3%'''
 |-
-|[[FiftyPlusOne]]<ref>{{Cite web |title=Texas General Senate Election |url=https://fiftyplusone.news/polls/senate/general/texas |website=[[FiftyPlusOne]] |access-date=October 8, 2026}}</ref>
+|[[FiftyPlusOne]]<ref>{{Cite web |title=Texas General Senate Election |url=https://fiftyplusone.news/polls/senate/general/texas |website=[[FiftyPlusOne]] |access-date=October 10, 2026}}</ref>
 |through October 5, 2026
-|October 8, 2026
+|October 10, 2026
 |45.1%
-|{{party shading/Democratic}} |'''48.3%'''
-|6.6%
-|{{party shading/Democratic}} |'''Talarico +3.2%'''
+|{{party shading/Democratic}} |'''48.4%'''
+|6.5%
+|{{party shading/Democratic}} |'''Talarico +3.3%'''
 |-
-|[[RealClearPolitics]]<ref name="RCP19may">{{cite web |title=2026 Texas Senate - Paxton vs. Talarico |url=https://www.realclearpolling.com/polls/senate/general/2026/texas/talarico-vs-paxton |access-date=October 6, 2026 |website=[[RealClearPolitics]]}}</ref>
-|September 12 – October 5, 2026
-|October 8, 2026
-|45.3%
-|{{party shading/Democratic}}|'''48.1%'''
+|[[RealClearPolitics]]<ref name="RCP19may">{{cite web |title=2026 Texas Senate - Paxton vs. Talarico |url=https://www.realclearpolling.com/polls/senate/general/2026/texas/talarico-vs-paxton |access-date=October 10, 2026 |website=[[RealClearPolitics]]}}</ref>
+|September 12 – October 8, 2026
+|October 10, 2026
+|45.2%
+|{{party shading/Democratic}}|'''48.2%'''
 |6.6%
-|{{party shading/Democratic}}|'''Talarico +2.8%'''
+|{{party shading/Democratic}}|'''Talarico +3.0%'''
 |-
 |''[[The Texas Tribune]]''<ref>{{Cite news |last=Ngo |first=Hien An |title=U.S. Senate race: Tracking poll results for James Talarico and Ken Paxton |url=https://www.texastribune.org/2026/08/07/texas-us-senate-james-talarico-ken-paxton-polls/ |work=[[The Texas Tribune]] |language=en-US |date=October 8, 2026 |orig-date=August 7, 2026 |access-date=October 8, 2026}}</ref>
 |through October 5, 2026
@@ -3064,10 +3048,10 @@ Talarico has considerably outraised Paxton throughout the campaign. Due to the h
 |''[[Silver Bulletin]]''<ref name="Silver"/>
 |through October 5, 2026
 |October 8, 2026
-|45.6%
-|{{party shading/Democratic}}|'''49.0%'''
-|5.4%
-|{{party shading/Democratic}}|'''Talarico +3.5%'''
+|45.5%
+|{{party shading/Democratic}}|'''48.8%'''
+|5.7%
+|{{party shading/Democratic}}|'''Talarico +3.3%'''
 |-
 |colspan="3" |Average
 |45.2%
