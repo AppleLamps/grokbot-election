@@ -14,10 +14,10 @@
 
   <header class="site-header">
     <div class="wrap header-inner">
-      <span class="brand"><span class="brand-mark" aria-hidden="true"></span>Grok Bot Election Model</span>
+      <a class="brand" href="#main"><span class="brand-mark" aria-hidden="true"></span><span class="brand-text">Apple Lamps Grok Bot Election Analysis and Prediction</span></a>
       <nav aria-label="Sections">
         <a href="#scenarios">Scenarios</a>
-        <a href="#charts">Charts</a>
+        <a href="#charts">Seat charts</a>
         <a href="#races">Senate races</a>
         <a href="#method">Methodology</a>
       </nav>
@@ -25,47 +25,76 @@
   </header>
 
   <main id="main">
-    <!-- (a) Hero + bottom line -->
+    <!-- Hero + bottom line -->
     <section class="hero">
-      <div class="wrap">
-        <p class="eyebrow">2026 U.S. Midterms &middot; Snapshot as of October 10, 2026</p>
-        <h1>Apple Lamps Grok Bot Election Analysis and Prediction</h1>
-        <div class="bottom-line">
-          <h2>The bottom line</h2>
-          <p>
-            If the polls are roughly right, Democrats are favored to win <strong>both</strong> chambers:
-            about a <strong class="d">68%</strong> chance of a Senate majority and <strong class="d">93%</strong> for the House,
-            riding a generic-ballot lead of D+8.4. Republicans' realistic path to holding both chambers requires the polls to be
-            <em>understating</em> Republicans, as they did in 2016, 2020 and 2024. Even in that scenario Republicans become
-            Senate favorites (about <strong class="r">65%</strong>), but Democrats still win the House roughly
-            <strong class="d">70%</strong> of the time. If polls instead miss in Democrats' favor, as in the 2025 off-year
-            elections, it becomes a Democratic wave in both chambers.
-          </p>
+      <div class="wrap hero-grid">
+        <div class="hero-main">
+          <p class="eyebrow">2026 U.S. Midterms &middot; Snapshot as of October 10, 2026</p>
+          <h1>Apple Lamps Grok Bot Election Analysis and Prediction</h1>
+          <div class="bottom-line">
+            <h2>The bottom line</h2>
+            <p>
+              If the polls are roughly right, Democrats are favored to win <strong>both</strong> chambers:
+              about a <strong class="d">68%</strong> chance of a Senate majority and <strong class="d">93%</strong> for the House,
+              riding a generic-ballot lead of D+8.4. Republicans' realistic path to holding both chambers requires the polls to be
+              <em>understating</em> Republicans, as they did in 2016, 2020 and 2024. In that scenario, Republicans become
+              Senate favorites (about <strong class="r">65%</strong>), but Democrats still win the House roughly
+              <strong class="d">70%</strong> of the time. If polls instead miss in Democrats' favor, as in the 2025 off-year
+              elections, it becomes a Democratic wave in both chambers.
+            </p>
+          </div>
         </div>
+
+        <aside class="glance" aria-labelledby="glance-title">
+          <h2 id="glance-title" class="glance-title">Chance of winning control</h2>
+          <p class="glance-sub">If polls are unbiased (base case)</p>
+          <div class="glance-row">
+            <div class="glance-head"><span class="glance-chamber">Senate</span><span class="glance-note">51 seats for D control</span></div>
+            <div class="glance-nums"><span class="d"><b data-glance="senate-pD">&ndash;</b> Dem</span><span class="r">Rep <b data-glance="senate-pR">&ndash;</b></span></div>
+            <div class="split-bar" aria-hidden="true"><span class="bar-d" data-glance-bar="senate-d"></span><span class="bar-n" data-glance-bar="senate-n"></span><span class="bar-r" data-glance-bar="senate-r"></span></div>
+          </div>
+          <div class="glance-row">
+            <div class="glance-head"><span class="glance-chamber">House</span><span class="glance-note">218 seats for control</span></div>
+            <div class="glance-nums"><span class="d"><b data-glance="house-pD">&ndash;</b> Dem</span><span class="r">Rep <b data-glance="house-pR">&ndash;</b></span></div>
+            <div class="split-bar" aria-hidden="true"><span class="bar-d" data-glance-bar="house-d"></span><span class="bar-r" data-glance-bar="house-r"></span></div>
+          </div>
+          <a class="glance-link" href="#scenarios">See how a polling miss changes this &darr;</a>
+        </aside>
+
         <dl class="baseline" id="baseline">
           <div><dt>Senate today</dt><dd><span class="r">53 R</span> &middot; <span class="d">45 D</span> &middot; <span class="i">2 I</span></dd></div>
           <div><dt>Senate seats up</dt><dd>35</dd></div>
           <div><dt>House today</dt><dd><span class="r">218 R</span> &middot; <span class="d">214 D</span></dd></div>
           <div><dt>Generic ballot (Oct 9)</dt><dd class="d">D+8.4</dd></div>
-          <div><dt>Simulations / scenario</dt><dd id="sims">100,000</dd></div>
+          <div><dt>Simulations per scenario</dt><dd id="sims">100,000</dd></div>
         </dl>
       </div>
     </section>
 
-    <!-- (b) Scenario selector -->
+    <!-- Scenario selector -->
     <section id="scenarios" class="section">
       <div class="wrap">
         <h2 class="section-title">Pick a polling-error scenario</h2>
-        <p class="section-lede">Polls are never perfect, and their errors tend to point the same way in every race. Each scenario shifts that shared error.</p>
+        <p class="section-lede">Polls are never perfect, and their errors tend to point the same way in every race. Each scenario shifts that shared, nationwide error.</p>
 
-        <div class="scenario-buttons" role="tablist" aria-label="Polling-error scenario">
-          <button type="button" role="tab" data-scenario="unbiased" aria-selected="true">Polls unbiased</button>
-          <button type="button" role="tab" data-scenario="pres_style_D_overstatement" aria-selected="false">Polls overstate Dems +3</button>
-          <button type="button" role="tab" data-scenario="r_overstatement_2025" aria-selected="false">Polls overstate Reps +6</button>
+        <div class="scenario-tabs" role="tablist" aria-label="Polling-error scenario">
+          <button type="button" role="tab" id="tab-unbiased" data-scenario="unbiased" aria-selected="true" aria-controls="scenario-panel">
+            <span class="tab-title">Polls unbiased</span><span class="tab-sub">Error centered on zero</span>
+          </button>
+          <button type="button" role="tab" id="tab-pres_style_D_overstatement" data-scenario="pres_style_D_overstatement" aria-selected="false" aria-controls="scenario-panel" tabindex="-1">
+            <span class="tab-title">Polls overstate Dems by 3</span><span class="tab-sub">2016 / 2020 / 2024-style miss</span>
+          </button>
+          <button type="button" role="tab" id="tab-r_overstatement_2025" data-scenario="r_overstatement_2025" aria-selected="false" aria-controls="scenario-panel" tabindex="-1">
+            <span class="tab-title">Polls overstate Reps by 6</span><span class="tab-sub">2025 off-year-style miss</span>
+          </button>
         </div>
         <p class="scenario-desc" id="scenario-desc" aria-live="polite"></p>
+        <details class="why-asym">
+          <summary>Why +3 one way and +6 the other?</summary>
+          <p>Each scenario copies the size of a real, recent polling miss rather than mirroring the other. In presidential years polls overstated Democrats by about 3 points (2016: 3.0, 2020: 4.7, 2024: 2.9). In the 2025 off-year elections they overstated Republicans by about 6. Recent midterms were close to even (2018: R+0.5, 2022: D+0.8), which is the &ldquo;unbiased&rdquo; case. Every scenario also keeps a &plusmn;3-point standard deviation around its average miss.</p>
+        </details>
 
-        <div class="cards" id="scenario-panel" role="tabpanel" aria-live="polite">
+        <div class="cards" id="scenario-panel" role="tabpanel" aria-labelledby="tab-unbiased">
           <article class="card" id="senate-card">
             <header class="card-head"><h3>Senate control</h3><span class="muted">51 seats for a D majority; 50-50 goes to R via the VP</span></header>
             <div class="prob-row">
@@ -73,13 +102,15 @@
               <div class="prob r"><span class="prob-num" data-field="senate-pR">&ndash;</span><span class="prob-lbl">Republicans</span></div>
             </div>
             <div class="split-bar" aria-hidden="true"><span class="bar-d" data-bar="senate-d"></span><span class="bar-n" data-bar="senate-n"></span><span class="bar-r" data-bar="senate-r"></span></div>
-            <p class="small muted" data-field="senate-none"></p>
+            <p class="card-note" data-field="senate-none" hidden></p>
             <div class="stat-grid">
               <div><span class="stat-lbl">D + allied I seats (mean)</span><span class="stat-val" data-field="senate-mean">&ndash;</span></div>
               <div><span class="stat-lbl">80% range</span><span class="stat-val" data-field="senate-range">&ndash;</span></div>
             </div>
-            <div class="range-strip" data-strip="senate" aria-hidden="true"></div>
-            <p class="small"><span class="muted">Tipping-point races:</span> <span data-field="senate-tip"></span></p>
+            <div class="tips">
+              <p class="tips-lbl">Tipping-point races <span class="tips-hint">(share of simulations; nearly identical across scenarios)</span></p>
+              <div class="tip-list" data-field="senate-tip"></div>
+            </div>
           </article>
 
           <article class="card" id="house-card">
@@ -89,13 +120,15 @@
               <div class="prob r"><span class="prob-num" data-field="house-pR">&ndash;</span><span class="prob-lbl">Republicans</span></div>
             </div>
             <div class="split-bar" aria-hidden="true"><span class="bar-d" data-bar="house-d"></span><span class="bar-r" data-bar="house-r"></span></div>
-            <p class="small muted">&nbsp;</p>
+            <p class="card-note" data-field="house-need"></p>
             <div class="stat-grid">
               <div><span class="stat-lbl">Democratic seats (median)</span><span class="stat-val" data-field="house-median">&ndash;</span></div>
               <div><span class="stat-lbl">80% range</span><span class="stat-val" data-field="house-range">&ndash;</span></div>
             </div>
-            <div class="range-strip" data-strip="house" aria-hidden="true"></div>
-            <p class="small"><span class="muted">Most frequent tipping-point districts:</span> <span data-field="house-tip"></span></p>
+            <div class="tips">
+              <p class="tips-lbl">Most frequent tipping-point districts <span class="tips-hint">(share of simulations)</span></p>
+              <div class="tip-list" data-field="house-tip"></div>
+            </div>
           </article>
         </div>
 
@@ -103,52 +136,62 @@
           <h3>All three scenarios at a glance</h3>
           <div class="table-scroll">
             <table class="compare-table" id="compare-table">
-              <thead><tr><th scope="col">Scenario</th><th scope="col">P(D Senate)</th><th scope="col">P(R Senate)</th><th scope="col">Senate D+I seats</th><th scope="col">P(D House)</th><th scope="col">House D seats</th></tr></thead>
+              <thead><tr><th scope="col">Scenario</th><th scope="col" class="num">P(D Senate)</th><th scope="col" class="num">P(R Senate)</th><th scope="col" class="num">Senate D+I seats</th><th scope="col" class="num">P(D House)</th><th scope="col" class="num">House D seats</th></tr></thead>
               <tbody></tbody>
             </table>
           </div>
-          <p class="small muted">Seat ranges are the 10th&ndash;90th percentile of simulations. Senate D+I counts independents only when they caucus with Democrats in that simulation.</p>
+          <p class="footnote">Seat ranges are the 10th&ndash;90th percentile of simulations. Senate D+I counts independents only when they caucus with Democrats in that simulation. The highlighted row is the scenario selected above.</p>
         </div>
       </div>
     </section>
 
-    <!-- (c) Charts -->
+    <!-- Seat charts (drawn in-browser as inline SVG by app.js) -->
     <section id="charts" class="section alt">
       <div class="wrap">
-        <h2 class="section-title">Seat distributions</h2>
-        <p class="section-lede">Each bar is the share of 100,000 simulations ending with that many Democratic seats. Top to bottom: polls unbiased, polls overstate Dems by 3, polls overstate Reps by 6.</p>
+        <h2 class="section-title">How many seats Democrats win</h2>
+        <p class="section-lede">Each bar shows the middle 80% of 100,000 simulated elections for one scenario; the dot is the typical outcome. The dashed line is the majority threshold: bar segments to its right (blue) are Democratic majorities, to its left (red) Republican ones. The selected scenario is outlined.</p>
         <div class="chart-grid">
           <figure class="chart">
-            <img id="chart-senate" src="model/output/charts/senate_seat_distribution.png" alt="Histogram of Senate seats held by Democrats plus Democratic-caucusing independents in each of the three scenarios" loading="lazy" width="1170" height="1014">
-            <figcaption>Senate: Democrats + D-caucusing independents. Gray bar = 50 seats (Republican control via the Vice President).</figcaption>
+            <figcaption class="chart-title">Senate seats held by Democrats and allied independents</figcaption>
+            <div class="chart-svg" id="chart-senate" role="img" aria-label="Senate seat ranges by scenario"></div>
+            <p class="chart-note">Out of 100. Democrats need 51; at 50-50 the Republican Vice President breaks ties.</p>
           </figure>
           <figure class="chart">
-            <img id="chart-house" src="model/output/charts/house_seat_distribution.png" alt="Histogram of House seats won by Democrats in each of the three scenarios" loading="lazy" width="1170" height="1014">
-            <figcaption>House: Democratic seats out of 435. 218 needed for a majority.</figcaption>
+            <figcaption class="chart-title">House seats won by Democrats</figcaption>
+            <div class="chart-svg" id="chart-house" role="img" aria-label="House seat ranges by scenario"></div>
+            <p class="chart-note">Out of 435. 218 seats are needed for a majority.</p>
           </figure>
         </div>
-        <details class="more-chart">
-          <summary>Show per-race Senate probability chart</summary>
-          <img src="model/output/charts/senate_race_probabilities.png" alt="Per-race Democratic win probabilities for Senate races across scenarios" loading="lazy">
-        </details>
+        <figure class="chart chart-wide">
+          <figcaption class="chart-title">Democrats' chance in each competitive Senate race</figcaption>
+          <div class="chart-legend" id="race-chart-legend" aria-hidden="true"></div>
+          <div class="chart-svg" id="chart-races" role="img" aria-label="Democratic win probability in each competitive Senate race under each scenario"></div>
+          <p class="chart-note">Races where the Democratic side's chance is between 5% and 95% in at least one scenario. Right of 50% = Democratic-side favored.</p>
+        </figure>
       </div>
     </section>
 
-    <!-- (d) Senate race table -->
+    <!-- Senate race table -->
     <section id="races" class="section">
       <div class="wrap">
         <h2 class="section-title">Senate races, race by race</h2>
         <p class="section-lede">Probability that the Democrat (or Democratic-aligned independent) wins each race. Click a column header to sort. The column for the scenario selected above is highlighted.</p>
         <div class="filters">
-          <label class="field grow"><span>Search</span><input type="search" id="race-search" placeholder="State or candidate&hellip;" autocomplete="off"></label>
+          <label class="field grow"><span>Search</span><input type="search" id="race-search" placeholder="State, abbreviation or candidate name&hellip;" autocomplete="off" aria-describedby="race-count"></label>
           <label class="field"><span>Seat held by</span>
             <select id="race-holder"><option value="">Any party</option><option value="D">Democrat</option><option value="R">Republican</option></select>
           </label>
           <label class="check"><input type="checkbox" id="race-competitive"> Competitive only <span class="muted">(10&ndash;90% in any scenario)</span></label>
         </div>
-        <p class="small muted" id="race-count" aria-live="polite"></p>
-        <div class="table-scroll">
+        <p class="race-count" id="race-count" aria-live="polite"></p>
+        <div class="pill-legend" id="pill-legend" aria-label="Color key for win probabilities"></div>
+        <p class="scroll-hint" aria-hidden="true">Swipe the table sideways to see all columns &rarr;</p>
+        <div class="table-scroll race-scroll" tabindex="0" role="region" aria-label="Senate race table (scrolls horizontally on small screens)">
           <table class="race-table" id="race-table">
+            <colgroup>
+              <col class="c-state"><col class="c-held"><col class="c-cand"><col class="c-poll"><col class="c-margin">
+              <col class="c-p"><col class="c-p"><col class="c-p"><col class="c-tip">
+            </colgroup>
             <thead>
               <tr>
                 <th scope="col" data-sort="state" aria-sort="none"><button type="button">State</button></th>
@@ -156,20 +199,20 @@
                 <th scope="col" data-sort="dem_side_candidate" aria-sort="none"><button type="button">Candidates</button></th>
                 <th scope="col" data-sort="poll_margin_d" aria-sort="none" class="num"><button type="button">Poll avg</button></th>
                 <th scope="col" data-sort="est_margin" aria-sort="none" class="num"><button type="button">Model margin</button></th>
-                <th scope="col" data-sort="p_unbiased" aria-sort="descending" class="num" data-col="unbiased"><button type="button">P(D) unbiased</button></th>
-                <th scope="col" data-sort="p_pres_style_D_overstatement" aria-sort="none" class="num" data-col="pres_style_D_overstatement"><button type="button">P(D) Dems +3</button></th>
-                <th scope="col" data-sort="p_r_overstatement_2025" aria-sort="none" class="num" data-col="r_overstatement_2025"><button type="button">P(D) Reps +6</button></th>
+                <th scope="col" data-sort="p_unbiased" aria-sort="descending" class="num" data-col="unbiased"><button type="button"><span>P(D)<small>Unbiased</small></span></button></th>
+                <th scope="col" data-sort="p_pres_style_D_overstatement" aria-sort="none" class="num" data-col="pres_style_D_overstatement"><button type="button"><span>P(D)<small>Dems +3</small></span></button></th>
+                <th scope="col" data-sort="p_r_overstatement_2025" aria-sort="none" class="num" data-col="r_overstatement_2025"><button type="button"><span>P(D)<small>Reps +6</small></span></button></th>
                 <th scope="col" data-sort="tipping_freq" aria-sort="none" class="num"><button type="button">Tipping %</button></th>
               </tr>
             </thead>
             <tbody></tbody>
           </table>
         </div>
-        <p class="small muted">Poll avg / Model margin: Democratic margin in points (D+ / R+). Model margin blends the polling average with fundamentals (partisan lean, generic ballot, incumbency) before polling error is simulated. Tipping %: how often the race delivers the decisive 51st Democratic seat.</p>
+        <p class="footnote"><strong>Poll avg / Model margin:</strong> Democratic margin in points (D+ / R+); the number in parentheses is how many polls went into the average. <strong>&ldquo;No polls&rdquo;</strong> means no public polling was found for that race (mostly safe seats), so the model margin there comes from fundamentals alone. <strong>Model margin</strong> blends the polling average with fundamentals (partisan lean, generic ballot, incumbency) before polling error is simulated. <strong>Tipping %:</strong> how often the race delivers the decisive 51st Democratic seat; values under 0.1% are shown as &ldquo;&lt;0.1%&rdquo;. On small screens the table scrolls sideways.</p>
       </div>
     </section>
 
-    <!-- (e) Methodology + limitations -->
+    <!-- Methodology + limitations -->
     <section id="method" class="section alt">
       <div class="wrap two-col">
         <div>
@@ -180,10 +223,17 @@
             <li><strong>Simulate 100,000 elections</strong> per scenario and count who controls each chamber, including how independents caucus.</li>
             <li><strong>Vary the polling-error assumption</strong>: centered at zero, a 3-point pro-Democratic polling miss (the 2016/2020/2024 pattern), or a 6-point pro-Republican miss (the 2025 pattern).</li>
           </ol>
-          <p>Every assumption, source and parameter is documented in <a href="model/METHODOLOGY.md">METHODOLOGY.md</a>. The full generated report is in <a href="model/output/REPORT.md">REPORT.md</a>, and the raw outputs are <a href="model/output/summary.json">summary.json</a> and <a href="model/output/senate_race_probabilities_all_scenarios.csv">the per-race CSV</a>.</p>
+          <h3 class="sources-title">Source files</h3>
+          <p class="sources-intro">These open the model's source files on GitHub in a new tab.</p>
+          <ul class="sources">
+            <li><a href="https://github.com/AppleLamps/grokbot-election/blob/main/model/METHODOLOGY.md" target="_blank" rel="noopener">METHODOLOGY.md<span class="ext">View on GitHub &nearr;</span></a><span class="src-desc">Every assumption, source and parameter</span></li>
+            <li><a href="https://github.com/AppleLamps/grokbot-election/blob/main/model/output/REPORT.md" target="_blank" rel="noopener">REPORT.md<span class="ext">View on GitHub &nearr;</span></a><span class="src-desc">Full generated report</span></li>
+            <li><a href="https://github.com/AppleLamps/grokbot-election/blob/main/model/output/summary.json" target="_blank" rel="noopener">summary.json<span class="ext">Raw file on GitHub &nearr;</span></a><span class="src-desc">Raw scenario-level outputs</span></li>
+            <li><a href="https://github.com/AppleLamps/grokbot-election/blob/main/model/output/senate_race_probabilities_all_scenarios.csv" target="_blank" rel="noopener">senate_race_probabilities_all_scenarios.csv<span class="ext">Raw file on GitHub &nearr;</span></a><span class="src-desc">Per-race results, all scenarios</span></li>
+          </ul>
         </div>
         <aside class="limits" aria-labelledby="limits-title">
-          <h2 id="limits-title">Honest limitations</h2>
+          <h2 id="limits-title"><span class="limits-icon" aria-hidden="true">!</span>Honest limitations</h2>
           <ul>
             <li><strong>Snapshot as of October 10, 2026.</strong> Polls, candidates and ratings change; nothing here updates automatically.</li>
             <li><strong>The House model is crude.</strong> It uses only partisan lean, the generic ballot and incumbency, with no district polls, candidate quality or fundraising. It likely <strong>over-credits the Democratic wave by roughly 10 seats</strong>.</li>
@@ -198,11 +248,11 @@
   <footer class="site-footer">
     <div class="wrap">
       <p>A simplified model by <strong>Grok Bot</strong> for Apple Lamps. Data as of <time datetime="2026-10-10">October 10, 2026</time>. Not a professional forecast.</p>
-      <p class="small muted">Model code and data are in the <a href="model/README.md">model/</a> folder.</p>
+      <p class="small">Model code and data: <a href="https://github.com/AppleLamps/grokbot-election/tree/main/model" target="_blank" rel="noopener">model/ folder on GitHub &nearr;</a></p>
     </div>
   </footer>
 
-  <noscript><div class="noscript">This page needs JavaScript to show the interactive scenario panel and race table. The full results are also in <a href="model/output/REPORT.md">REPORT.md</a>.</div></noscript>
+  <noscript><div class="noscript">This page needs JavaScript to show the interactive scenario panel, charts and race table. The full results are also in <a href="model/output/REPORT.md">REPORT.md</a>.</div></noscript>
   <script src="app.js" defer></script>
 </body>
 </html>
