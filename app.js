@@ -17,8 +17,8 @@
 
   var state = {
     data: null,
-    scenario: "unbiased",
-    sortKey: "p_unbiased",
+    scenario: "pres_style_D_overstatement",
+    sortKey: "p_pres_style_D_overstatement",
     sortDir: "desc",
     search: "",
     holder: "",
@@ -308,21 +308,23 @@
   // ---------- hero "at a glance" (always the unbiased base case) ----------
   function renderGlance() {
     var s = scenarioByKey("unbiased"), m = scenarioByKey("pres_style_D_overstatement");
+    // Glance card features the "polls overstate Dems by 3" scenario (the landing default)
+    var g = m;
     setField("hero-senate-pD", pct0(s.senate.p_D));
     setField("hero-house-pD", pct0(s.house.p_D));
     setField("hero-miss-senate-pR", pct0(m.senate.p_R));
     setField("hero-miss-house-pD", pct0(m.house.p_D));
     setField("generic-ballot", "D+" + state.data.generic_ballot_d);
     setField("sims", s.sims.toLocaleString("en-US"));
-    $('[data-glance="senate-pD"]').textContent = pct0(s.senate.p_D);
-    $('[data-glance="senate-pR"]').textContent = pct0(s.senate.p_R);
-    $('[data-glance="house-pD"]').textContent = pct0(s.house.p_D);
-    $('[data-glance="house-pR"]').textContent = pct0(s.house.p_R);
-    setWidth($('[data-glance-bar="senate-d"]'), s.senate.p_D);
-    setWidth($('[data-glance-bar="senate-n"]'), s.senate.p_none);
-    setWidth($('[data-glance-bar="senate-r"]'), s.senate.p_R);
-    setWidth($('[data-glance-bar="house-d"]'), s.house.p_D);
-    setWidth($('[data-glance-bar="house-r"]'), s.house.p_R);
+    $('[data-glance="senate-pD"]').textContent = pct0(g.senate.p_D);
+    $('[data-glance="senate-pR"]').textContent = pct0(g.senate.p_R);
+    $('[data-glance="house-pD"]').textContent = pct0(g.house.p_D);
+    $('[data-glance="house-pR"]').textContent = pct0(g.house.p_R);
+    setWidth($('[data-glance-bar="senate-d"]'), g.senate.p_D);
+    setWidth($('[data-glance-bar="senate-n"]'), g.senate.p_none);
+    setWidth($('[data-glance-bar="senate-r"]'), g.senate.p_R);
+    setWidth($('[data-glance-bar="house-d"]'), g.house.p_D);
+    setWidth($('[data-glance-bar="house-r"]'), g.house.p_R);
   }
 
   // ---------- scenario panel ----------

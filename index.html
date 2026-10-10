@@ -47,7 +47,7 @@
 
         <aside class="glance" aria-labelledby="glance-title">
           <h2 id="glance-title" class="glance-title">Chance of winning control</h2>
-          <p class="glance-sub">If polls are unbiased (base case)</p>
+          <p class="glance-sub">If polls overstate Democrats by 3 (2016/20/24-style miss)</p>
           <div class="glance-row">
             <div class="glance-head"><span class="glance-chamber">Senate</span><span class="glance-note">51 seats for D control</span></div>
             <div class="glance-nums"><span class="d"><b data-glance="senate-pD">&ndash;</b> Dem</span><span class="r">Rep <b data-glance="senate-pR">&ndash;</b></span></div>
@@ -78,10 +78,10 @@
         <p class="section-lede">Polls are never perfect, and their errors tend to point the same way in every race. Each scenario shifts that shared, nationwide error.</p>
 
         <div class="scenario-tabs" role="tablist" aria-label="Polling-error scenario">
-          <button type="button" role="tab" id="tab-unbiased" data-scenario="unbiased" aria-selected="true" aria-controls="scenario-panel">
+          <button type="button" role="tab" id="tab-unbiased" data-scenario="unbiased" aria-selected="false" aria-controls="scenario-panel" tabindex="-1">
             <span class="tab-title">Polls unbiased</span><span class="tab-sub">Error centered on zero</span>
           </button>
-          <button type="button" role="tab" id="tab-pres_style_D_overstatement" data-scenario="pres_style_D_overstatement" aria-selected="false" aria-controls="scenario-panel" tabindex="-1">
+          <button type="button" role="tab" id="tab-pres_style_D_overstatement" data-scenario="pres_style_D_overstatement" aria-selected="true" aria-controls="scenario-panel">
             <span class="tab-title">Polls overstate Dems by 3</span><span class="tab-sub">2016 / 2020 / 2024-style miss</span>
           </button>
           <button type="button" role="tab" id="tab-r_overstatement_2025" data-scenario="r_overstatement_2025" aria-selected="false" aria-controls="scenario-panel" tabindex="-1">
@@ -94,7 +94,7 @@
           <p>Each scenario copies the size of a real, recent polling miss rather than mirroring the other. In presidential years polls overstated Democrats by about 3 points (2016: 3.0, 2020: 4.7, 2024: 2.9). In the 2025 off-year elections they overstated Republicans by about 6. Recent midterms were close to even (2018: R+0.5, 2022: D+0.8), which is the &ldquo;unbiased&rdquo; case. Every scenario also keeps a &plusmn;3-point standard deviation around its average miss.</p>
         </details>
 
-        <div class="cards" id="scenario-panel" role="tabpanel" aria-labelledby="tab-unbiased">
+        <div class="cards" id="scenario-panel" role="tabpanel" aria-labelledby="tab-pres_style_D_overstatement">
           <article class="card" id="senate-card">
             <header class="card-head"><h3>Senate control</h3><span class="muted">51 seats for a D majority; 50-50 goes to R via the VP</span></header>
             <div class="prob-row">
@@ -149,7 +149,7 @@
     <section id="charts" class="section alt">
       <div class="wrap">
         <h2 class="section-title">How many seats Democrats win</h2>
-        <p class="section-lede">Every bar is one possible seat count. Its height is the share of the <span data-field="sims">100,000</span> simulated elections that ended with Democrats holding exactly that many seats, under the scenario picked above (now: <strong data-field="hist-scenario">Polls unbiased</strong>). Red bars are Republican majorities and blue bars are Democratic majorities; the dashed line is the majority threshold. The solid line marks the average, the small teal triangle the median. Hover or tap a bar for its exact share.</p>
+        <p class="section-lede">Every bar is one possible seat count. Its height is the share of the <span data-field="sims">100,000</span> simulated elections that ended with Democrats holding exactly that many seats, under the scenario picked above (now: <strong data-field="hist-scenario">Polls overstate Dems by 3</strong>). Red bars are Republican majorities and blue bars are Democratic majorities; the dashed line is the majority threshold. The solid line marks the average, the small teal triangle the median. Hover or tap a bar for its exact share.</p>
         <div class="chart-grid">
           <figure class="chart">
             <figcaption class="chart-title">How many Senate seats will Democrats hold?</figcaption>
@@ -201,8 +201,8 @@
                 <th scope="col" data-sort="dem_side_candidate" aria-sort="none"><button type="button">Candidates</button></th>
                 <th scope="col" data-sort="poll_margin_d" aria-sort="none" class="num"><button type="button">Poll avg</button></th>
                 <th scope="col" data-sort="est_margin" aria-sort="none" class="num"><button type="button">Model margin</button></th>
-                <th scope="col" data-sort="p_unbiased" aria-sort="descending" class="num" data-col="unbiased"><button type="button"><span>P(D)<small>Unbiased</small></span></button></th>
-                <th scope="col" data-sort="p_pres_style_D_overstatement" aria-sort="none" class="num" data-col="pres_style_D_overstatement"><button type="button"><span>P(D)<small>Dems +3</small></span></button></th>
+                <th scope="col" data-sort="p_unbiased" aria-sort="none" class="num" data-col="unbiased"><button type="button"><span>P(D)<small>Unbiased</small></span></button></th>
+                <th scope="col" data-sort="p_pres_style_D_overstatement" aria-sort="descending" class="num" data-col="pres_style_D_overstatement"><button type="button"><span>P(D)<small>Dems +3</small></span></button></th>
                 <th scope="col" data-sort="p_r_overstatement_2025" aria-sort="none" class="num" data-col="r_overstatement_2025"><button type="button"><span>P(D)<small>Reps +6</small></span></button></th>
                 <th scope="col" data-sort="tipping_freq" aria-sort="none" class="num"><button type="button">Tipping %</button></th>
               </tr>
