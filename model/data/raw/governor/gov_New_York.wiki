@@ -763,7 +763,7 @@ The [[New York State Board of Elections]] rejected all petitions for non-qualifi
 *[[Kevin Riley (politician)|Kevin Riley]], [[New York City's 12th City Council district|CD-12]] (2021–present)<ref name="Gibson"/>
 *[[Justin Sanchez]], [[New York City's 17th City Council district|CD-17]] (2026–present)<ref name="Gibson"/>
 *[[Pierina Sanchez]], [[New York City's 14th City Council district|CD-14]] (2022–present)<ref name="Gibson"/>}}
-*[[Jumaane Williams]], [[New York City Public Advocate]] (2019-present)<ref>{{cite news |last= Roper |first=Nila |date=2026-10-03 |title=Jumaane Williams isn’t slowing down on pushing for progress|url=https://www.cityandstateny.com/personality/2026/10/jumaane-williams-isnt-slowing-down-pushing-progress/416407/ |work=City & State |location= |publisher= |access-date=2026-10-09 |archive-url=https://web.archive.org/web/20261004013525/https://www.cityandstateny.com/personality/2026/10/jumaane-williams-isnt-slowing-down-pushing-progress/416407/|archive-date=2026-10-04 |url-status=live}}</ref>
+*[[Jumaane Williams]], [[New York City Public Advocate|public advocate of New York City]] (2019–present)<ref>{{cite news |last= Roper |first=Nila |date=2026-10-03 |title=Jumaane Williams isn't slowing down on pushing for progress|url=https://www.cityandstateny.com/personality/2026/10/jumaane-williams-isnt-slowing-down-pushing-progress/416407/ |work=City & State |location= |publisher= |access-date=2026-10-09 |archive-url=https://web.archive.org/web/20261004013525/https://www.cityandstateny.com/personality/2026/10/jumaane-williams-isnt-slowing-down-pushing-progress/416407/|archive-date=2026-10-04 |url-status=live}}</ref>
 ;Labor unions
 *[[1199SEIU United Healthcare Workers East]]<ref name="HotLoud">{{cite news |last1=Rivard |first1=Ry |title=New York's hot, loud, busy weekend |url=https://www.politico.com/newsletters/new-york-playbook-pm/2026/07/01/new-yorks-hot-loud-busy-weekend-00983994 |work=Politico |access-date=2 July 2026 |language=en |date=1 July 2026}}</ref>
 *[[Actors' Equity Association]]<ref name="Holly">{{cite news |last1=Huston |first1=Caitlin |title=Kathy Hochul Nabs Three Entertainment Union Endorsements In New York Governor's Race |url=https://www.hollywoodreporter.com/news/politics-news/kathy-hochul-new-york-governors-endorsements-1236640445/ |archive-url=https://web.archive.org/web/20260709075225/https://www.hollywoodreporter.com/news/politics-news/kathy-hochul-new-york-governors-endorsements-1236640445/ |archive-date=2026-07-09 |url-status=live |work=The Hollywood Reporter |access-date=9 July 2026 |date=8 July 2026}}</ref>
@@ -790,9 +790,8 @@ The [[New York State Board of Elections]] rejected all petitions for non-qualifi
 |colwidth=
 |list=
 ;Local officials
-*[[Robert Holden (politician)|Robert Holden]], former member of the New York City Council from [[New York City's 30th City Council district|CD-30]] (2018–2025) ''(Democratic)''<ref name="RBH">{{cite news |title=Blakeman pitches himself as Republican Democrats can back |url=https://ny1.com/nyc/all-boroughs/politics/2026/09/23/bruce-blakeman-kathy-hochul-democrats |work=NY1 |access-date=24 September 2026 |language=en}}</ref>
-;Tribal officials
-* JC Seneca, President of the Seneca Nation<ref>{{cite news |last=Ironcloud |first=Petala |date=2026-10-06 |title='Our enemy of our enemy is still our enemy': Seneca Nation members protest tribal president's Blakeman fundraiser|url=https://www.cityandstateny.com/politics/2026/10/our-enemy-our-enemy-still-our-enemy-seneca-nation-members-protest-tribal-presidents-blakeman-fundraiser/416434/ |work=City & State |archive-url=https://web.archive.org/web/20261007023726/https://www.cityandstateny.com/politics/2026/10/our-enemy-our-enemy-still-our-enemy-seneca-nation-members-protest-tribal-presidents-blakeman-fundraiser/416434/ |archive-date=2026-10-07 |url-status=live|location= |publisher= |access-date=2026-10-09}}</ref>
+*[[Robert Holden (politician)|Robert Holden]], former [[New York City's 30th City Council district|CD-30]] (2018–2025) ''(Democratic)''<ref name="RBH">{{cite news |title=Blakeman pitches himself as Republican Democrats can back |url=https://ny1.com/nyc/all-boroughs/politics/2026/09/23/bruce-blakeman-kathy-hochul-democrats |work=NY1 |access-date=24 September 2026 |language=en}}</ref>
+
 ;Labor unions
 *[[Correction Officers' Benevolent Association]]<ref name="NYSCOBA">{{cite news |last1=Harding |first1=Robert |title=NY correction officers union overwhelmingly endorses Blakeman for governor |url=https://auburnpub.com/news/local/government-politics/article_a7e1854a-8f32-45b5-bc9e-094545431b53.html |work=The Citizen |access-date=16 September 2026 |language=en |date=15 September 2026 |archive-url=https://web.archive.org/web/20260928072537/https://auburnpub.com/news/local/government-politics/article_a7e1854a-8f32-45b5-bc9e-094545431b53.html |archive-date=2026-09-28 |url-status=live}}</ref>
 *[[United Association|United Association Steamfitters]] Local 638<ref name="L638">{{cite news |title=Steamfitters Local 638 endorses Bruce Blakeman for New York governor |url=https://www.fingerlakes1.com/2026/09/02/steamfitters-local-638-endorses-bruce-blakeman-for-new-york-governor/ |archive-url=https://web.archive.org/web/20260903143740/https://www.fingerlakes1.com/2026/09/02/steamfitters-local-638-endorses-bruce-blakeman-for-new-york-governor/ |archive-date=2026-09-03 |url-status=live |work= FingerLakes1.com |access-date=5 September 2026 |date=2 September 2026}}</ref>
@@ -1515,6 +1514,12 @@ The [[New York State Board of Elections]] rejected all petitions for non-qualifi
 {{notelist-ua}}
 
 ==References==
+{{Duplicated citations|reason=DuplicateReferences script detected:
+* https://www.politico.com/news/2025/12/20/trump-new-york-governor-endorsement-bruce-blakeman-00702013 (refs: 5, 95, 106)
+* https://www.cityandstateny.com/politics/2026/02/antonio-delgado-ends-his-campaign-governor/411320/ (refs: 15, 18)
+* https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model (refs: 147, 173)
+|date=October 2026}}
+
 {{reflist}}
 
 ==External links==

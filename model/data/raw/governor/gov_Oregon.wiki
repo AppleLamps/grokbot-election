@@ -507,7 +507,7 @@ This election will mark Oregon's first gubernatorial rematch since [[1978 Oregon
 ! Margin<br />of error
 ! style="width:100px;"| Tina<br />Kotek (D)
 ! style="width:100px;"| Christine<br />Drazan (R)
-! Other
+! style="width:100px;"| Brett<br />Smith (G)
 ! Undecided
 |-
 |style="text-align:left;"|GBAO (D)<ref>{{cite web|url=https://www.opb.org/article/2026/10/08/new-polls-kotek-may-lead/|title=2 new polls suggest Kotek may lead in Oregon governor’s race|last=VanderHart|first=Dirk|date=October 8, 2026|access-date=October 9, 2026|website=[[Oregon Public Broadcasting]]}}</ref>{{efn-ua|Poll sponsored by Kotek's campaign}}
@@ -516,7 +516,7 @@ This election will mark Oregon's first gubernatorial rematch since [[1978 Oregon
 |±&nbsp;3.5%
 |{{party shading/Democratic}}|'''46%'''
 |42%
-|6%{{efn|Brett Smith (G) with 6%}}
+|6%
 |6%
 |-
 |style="text-align:left;"|DHM Research<ref>{{Cite web|url=https://www.oregonlive.com/politics/2026/10/oregon-governors-race-may-be-shifting-new-poll-shows.html|title=Oregon governor’s race may be shifting, new poll shows|first=Carlos|last=Fuentes|website=The Oregonian|date=October 8, 2026|access-date=October 8, 2026}}</ref>{{efn-ua|Poll conducted on behalf of [[The Oregonian]]}}
@@ -525,7 +525,7 @@ This election will mark Oregon's first gubernatorial rematch since [[1978 Oregon
 |±&nbsp;4.0%
 |{{party shading/Democratic}}|'''46%'''
 |44%
-|3%{{efn|name=S3}}
+|3%
 |7%
 |-
 |rowspan="2" style="text-align:left;"|DHM Research<ref>{{cite web |last1=VanderHart |first1=Dirk |title=OPB poll shows Oregon governor’s race virtually deadlocked |url=https://www.opb.org/article/2026/09/30/opb-poll-shows-oregon-governors-race-virtually-deadlocked/ |website=[[Oregon Public Broadcasting]] |access-date=30 September 2026 |date=September 30, 2026}}</ref>{{efn-ua|Poll conducted on behalf of [[Oregon Public Broadcasting]]}}
@@ -534,12 +534,12 @@ This election will mark Oregon's first gubernatorial rematch since [[1978 Oregon
 |rowspan="2" |±&nbsp;3.2%
 |46%{{efn|With voters who lean towards a given candidate}}
 |{{party shading/Republican}}|'''47%'''
-|3%{{efn|name=S3|Brett Smith (G) with 3%}}
+|3%
 |5%
 |-
 |44%
 |{{party shading/Republican}}|'''46%'''
-|3%{{efn|name=S3}}
+|3%
 |8%
 |-
 |style="text-align:left;"|DHM Research<ref>{{Cite web|url=https://www.oregonjournalismproject.org/new-poll-shows-drazan-with-slight-lead-in-governors-race|title=New Poll Shows Drazan With Slight Lead in Governor’s Race|first=Nigel|last=Jaquiss|website=Oregon Journalism Project|date=September 15, 2026|access-date=September 15, 2026}}</ref>{{efn-ua|Poll conducted on behalf of Grow Oregon}}
@@ -548,7 +548,7 @@ This election will mark Oregon's first gubernatorial rematch since [[1978 Oregon
 |±&nbsp;4.0%
 |43%
 |{{party shading/Republican}}|'''45%'''
-|4%{{efn|Brett Smith (G) with 4%}}
+|4%
 |13%
 |-
 |style="text-align:left;"|Public Opinion Strategies (R)<ref>{{Cite web|url=https://www.oregonlive.com/politics/2026/07/new-poll-shows-oregon-governors-race-is-far-from-settled.html|title=New poll shows Oregon governor's race is far from settled|first=Carlos|last=Fuentes|website=[[The Oregonian]]|date=July 9, 2026|access-date=July 9, 2026}}</ref>{{efn-ua|name=Drazan|Poll sponsored by Drazan's campaign}}

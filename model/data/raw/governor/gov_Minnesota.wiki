@@ -1359,6 +1359,10 @@ Hashes indicate a tie.
 {{notelist-ua}}
 
 == References ==
+{{Duplicated citations|reason=DuplicateReferences script detected:
+* https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model (refs: 104, 110)
+|date=October 2026}}
+
 {{reflist}}
 
 == External links ==

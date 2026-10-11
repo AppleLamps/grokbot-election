@@ -564,14 +564,21 @@ Formerly a [[swing state]], Florida has shifted increasingly to the Republican P
 |1%
 |5%
 |-
-| style="text-align:left;|James Madison Institute<ref>{{cite web|title=Marginals|url=https://jamesmadison.org/wp-content/uploads/JMI-October-2026-Poll-Marginals.pdf |website=James Madison Institute |date=October 6, 2026 |access-date=October 9, 2026}}</ref>
-|September 28 – October 4, 2026
-|1,171 (LV)
-|±&nbsp;2.8%
+|rowspan="2" style="text-align:left;|Targoz Market Research<ref>{{cite web|title=James Madison Institute Poll Sept.28 to Oct 4, 2026, Registered Voters MOE +/- 2.77%|url=https://jamesmadison.org/wp-content/uploads/JMI-October-2026-Poll-Marginals.pdf |website=[[James Madison Institute]] |date=October 6, 2026 |access-date=October 9, 2026}}</ref>{{Efn-ua|Poll sponsored by the [[James Madison Institute]], a conservative think tank}}
+|rowspan="2"|September 28 – October 4, 2026
+|847 (LV)
+|–
 |{{party shading/Republican}}|'''52%'''
 |42%
-|2%
+|2%{{Efn|"Another candidate" with 2%}}
 |4%
+|-
+|1,171 (RV)
+|±&nbsp;2.8%
+|{{party shading/Republican}}|'''50%'''
+|38%
+|4%{{Efn|"Another candidate" with 4%}}
+|8%
 |-
 | style="text-align:left;|[[Mason-Dixon Polling & Strategy|Mason-Dixon]]<ref>{{cite web |title=NBC 6/Telemundo Station Group Florida Voter Poll |url=https://s3.documentcloud.org/documents/28724874/fl1026results.pdf |website=[[Mason-Dixon Polling & Strategy]] |date=October 6, 2026 |access-date=October 6, 2026}}</ref>
 |September 28 – October 1, 2026
