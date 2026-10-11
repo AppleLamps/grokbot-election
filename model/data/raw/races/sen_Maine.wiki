@@ -1252,7 +1252,6 @@ A debate featuring eight of the declared candidates, hosted by [[News Center Mai
 *[[Jeff Flake]], former [[United States Ambassador to Turkey|ambassador to Turkey]] (2022–2024) and U.S. senator from [[Arizona]] (2013–2019)<ref>{{cite news |last1=Flake |first1=Jeff |title=Why Maine Democrats should back Susan Collins |url=https://www.washingtonpost.com/opinions/2026/06/10/jeff-flake-graham-platner-maine-democrats-face-test/ |newspaper=[[The Washington Post]] |date=June 10, 2026 |access-date=June 10, 2026}}</ref>
 *[[Nikki Haley]], former [[United States Ambassador to the United Nations|ambassador to the United Nations]] (2017–2018) and governor of [[South Carolina]] (2011–2017)<ref>{{cite AV media |title=Iran Was Never Going To Do a Deal, Says Nikki Haley |url=https://www.bloomberg.com/news/videos/2026-06-10/iran-was-never-going-to-do-a-deal-says-nikki-haley-video |website=[[Bloomberg News]] |date=June 10, 2026 |access-date=June 11, 2026 |type=Video broadcast |quote="We have been helping Susan Collins raise money. I plan on going to Maine and campaigning for her... That race matters to us so much, and she's been such a remarkable senator. You know, it shouldn't go overseen that she's never missed a vote, never missed a vote. And regardless of where her views are, she's respected, she's a hard worker, she's come out of tough races... We need to make sure she wins again. We can't take this for granted, so yes, I will be out there."}}</ref>
 *[[Donald Trump]], [[president of the United States]] (2017–2021, 2025–present)<ref>{{cite web |date=June 10, 2026 |title=Trump voices support for Susan Collins and calls Platner 'a thug' |url=https://www.nbcnews.com/now/video/trump-voices-support-for-susan-collins-in-the-maine-senate-race-264880197892 |access-date=June 11, 2026 |work=[[NBC News]]}}</ref>
-*[[George W. Bush]], former [[president of the United States]] (2001–2009)<ref>{{Cite web|url=https://www.nytimes.com/2026/09/21/us/politics/bush-cornyn-paxton-senate-fund-raiser.html|title=Bush and Cornyn Leave Out Paxton as They Raise Cash for Senate Candidates|last1=Schleifer|first1=Theodore|last2=Wagner|first2=Bayliss|date=September 21, 2026|access-date=September 21, 2026|website=[[The New York Times]]}}</ref>
 
 ;U.S. senators
 *[[John Cornyn]], [[Texas]] (2002–present)<ref name="Bush">{{Cite web|url=https://www.nytimes.com/2026/09/21/us/politics/bush-cornyn-paxton-senate-fund-raiser.html|url-access=subscription|title=Bush and Cornyn Leave Out Paxton as They Raise Cash for Senate Candidates|last1=Schleifer|first1=Theodore|last2=Wagner|first2=Bayliss|date=September 21, 2026|access-date=September 21, 2026|work=[[The New York Times]]}}</ref>
@@ -1419,15 +1418,15 @@ A debate featuring eight of the declared candidates, hosted by [[News Center Mai
 ! style="width:100px;" |Other/<wbr/>Undecided
 ! Margin
 |-
-|[[270toWin]]<ref>{{cite web |title=2026 Polls: Maine Senate |url=https://www.270towin.com/2026-senate-polls/maine |website=[[270toWin]] |access-date=October 6, 2026}}</ref>
-|October 2–9, 2026<!--Remember that dates listed on 270toWin are poll *publication dates*, not the dates when the polls were *administered*-->
-|October 11, 2026
+|[[270toWin]]<ref>{{cite web |title=2026 Polls: Maine Senate |url=https://www.270towin.com/2026-senate-polls/maine |website=[[270toWin]] |access-date=October 11, 2026}}</ref>
+|September 23 – October 5, 2026<!--Remember that dates listed on 270toWin are poll *publication dates*, not the dates when the polls were *administered*-->
+|October 9, 2026
 |47.2%
 |{{party shading/Democratic}} |'''49.2%'''
 |3.6%
 |{{party shading/Democratic}} |'''Jackson +2.0%'''
 |-
-|[[Decision Desk HQ]]<ref>{{Cite web |title=2026 Maine Senate Polling |url=https://votes.decisiondeskhq.com/races/2026-11-03/maine-us-senate-general-election/polling |access-date=October 9, 2026 |website=[[Decision Desk HQ]]}}</ref>
+|[[Decision Desk HQ]]<ref>{{Cite web |title=2026 Maine Senate Polling |url=https://votes.decisiondeskhq.com/races/2026-11-03/maine-us-senate-general-election/polling |access-date=October 11, 2026 |website=[[Decision Desk HQ]]}}</ref>
 |through October 5, 2026
 |October 9, 2026
 |47.1%
@@ -1435,7 +1434,7 @@ A debate featuring eight of the declared candidates, hosted by [[News Center Mai
 |3.6%
 |{{party shading/Democratic}} |'''Jackson +2.2%'''
 |-
-|[[FiftyPlusOne]]<ref>{{Cite web |title=Maine General Senate Election |url=https://fiftyplusone.news/polls/senate/general/maine |access-date=October 9, 2026 |website=[[FiftyPlusOne]]}}</ref>
+|[[FiftyPlusOne]]<ref>{{Cite web |title=Maine General Senate Election |url=https://fiftyplusone.news/polls/senate/general/maine |access-date=October 11, 2026 |website=[[FiftyPlusOne]]}}</ref>
 |through October 5, 2026
 |October 11, 2026
 |46.8%
@@ -1443,7 +1442,7 @@ A debate featuring eight of the declared candidates, hosted by [[News Center Mai
 |4.1%
 |{{party shading/Democratic}} |'''Jackson +2.3%'''
 |-
-|[[RealClearPolitics]]<ref>{{cite web |title=2026 Maine Senate - Collins vs. Jackson |url=https://www.realclearpolling.com/polls/senate/general/2026/collins-vs-jackson |website=[[RealClearPolitics]] |access-date=October 9, 2026}}</ref>
+|[[RealClearPolitics]]<ref>{{cite web |title=2026 Maine Senate - Collins vs. Jackson |url=https://www.realclearpolling.com/polls/senate/general/2026/collins-vs-jackson |website=[[RealClearPolitics]] |access-date=October 11, 2026}}</ref>
 |September 14 – October 8, 2026
 |October 11, 2026
 |47.3%
@@ -1453,7 +1452,7 @@ A debate featuring eight of the declared candidates, hosted by [[News Center Mai
 |-
 |''[[Silver Bulletin]]''<ref name="Silver"/>
 |through October 5, 2026
-|October 9, 2026
+|October 10, 2026
 |46.5%
 |{{party shading/Democratic}} |'''49.2%'''
 |4.3%

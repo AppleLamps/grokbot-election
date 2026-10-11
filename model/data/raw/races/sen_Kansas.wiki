@@ -445,49 +445,49 @@ One issue raised during the campaign was Roger Marshall's history of suing over 
 |-
 |[[270toWin]]<ref>{{cite web |title=2026 Polls: Kansas Senate |url=https://www.270towin.com/2026-senate-polls/kansas |access-date=October 3, 2026 |website=[[270toWin]]}}</ref>
 |September 8 – October 1, 2026<!--Remember that dates listed on 270toWin are poll *publication dates*, not the dates when the polls were *administered*-->
-|October 3, 2026
-|{{party shading/Republican}} |'''45.8%'''
-|45.6%
-|8.6%
+|October 11, 2026
+|{{party shading/Republican}} |'''46.0%'''
+|45.8%
+|8.2%
 |{{party shading/Republican}} |'''Marshall +0.2%'''
 |-
-|[[Decision Desk HQ]]<ref>{{cite web |url=https://votes.decisiondeskhq.com/races/2026-11-03/kansas-us-senate-general-election/polling |title=2026 Kansas Senate Polling |website=[[Decision Desk HQ]] |access-date=October 7, 2026}}</ref>
-|through October 4, 2026
-|October 7, 2026
-|45.1%
-|{{party shading/Democratic}} |'''46.0%'''
-|8.9%
-|{{party shading/Democratic}} |'''Hamilton +0.9%'''
+|[[Decision Desk HQ]]<ref>{{cite web |url=https://votes.decisiondeskhq.com/races/2026-11-03/kansas-us-senate-general-election/polling |title=2026 Kansas Senate Polling |website=[[Decision Desk HQ]] |access-date=October 11, 2026}}</ref>
+|through October 10, 2026
+|October 11, 2026
+|45.5%
+|{{party shading/Democratic}} |'''46.5%'''
+|8.0%
+|{{party shading/Democratic}} |'''Hamilton +1.0%'''
 |-
 |[[FiftyPlusOne]]<ref>{{cite web |url=https://fiftyplusone.news/polls/senate/general/kansas |title=Kansas General Senate Election |website=[[FiftyPlusOne]] |access-date=October 7, 2026}}</ref>
 |through October 4, 2026
-|October 7, 2026
-|45.4%
+|October 11, 2026
+|45.0%
 |{{party shading/Democratic}} |'''46.5%'''
-|8.1%
-|{{party shading/Democratic}} |'''Hamilton +1.1%'''
+|8.5%
+|{{party shading/Democratic}} |'''Hamilton +1.5%'''
 |-
-|[[RealClearPolitics]]<ref>{{cite web |title=2026 Kansas Senate - Marshall vs. Hamilton |url=https://www.realclearpolling.com/polls/senate/general/2026/kansas/marshall-vs-hamilton |access-date=October 7, 2026 |website=[[RealClearPolitics]]}}</ref>
-|September 8 – October 4, 2026
-|October 6, 2026
-|{{party shading/Republican}} |'''45.6%'''
-|45.4%
-|9.0%
-|{{party shading/Republican}} |'''Marshall +0.2%'''
+|[[RealClearPolitics]]<ref>{{cite web |title=2026 Kansas Senate - Marshall vs. Hamilton |url=https://www.realclearpolling.com/polls/senate/general/2026/kansas/marshall-vs-hamilton |access-date=October 11, 2026 |website=[[RealClearPolitics]]}}</ref>
+|September 8 – October 10, 2026
+|October 11, 2026
+|'''45.8%'''
+|'''45.8%'''
+|8.4%
+|'''Tie'''
 |-
 |''[[Silver Bulletin]]''<ref name="Silver"/>
 |through October 4, 2026
-|October 6, 2026
+|October 10, 2026
 |45.1%
 |{{party shading/Democratic}} |'''46.5%'''
 |8.4%
 |{{party shading/Democratic}} |'''Hamilton +1.4%'''
 |-
 |colspan="3" |'''Average'''
-|45.4%
-|{{party shading/Democratic}} |'''46.0%'''
-|8.6%
-|{{party shading/Democratic}} |'''Hamilton +0.6%'''
+|45.5%
+|{{party shading/Democratic}} |'''46.2%'''
+|8.3%
+|{{party shading/Democratic}} |'''Hamilton +0.7%'''
 |}
 
 {| class="wikitable" style="font-size:90%;text-align:center;"
@@ -500,6 +500,15 @@ One issue raised during the campaign was Roger Marshall's history of suing over 
 ! style="width:100px;" | Adam<br />Hamilton (D)
 ! style="width:100px;" | David<br />Graham (L)
 ! Undecided
+|-
+|style="text-align: left;" |InsiderAdvantage (R)<ref>{{cite web|url=https://insideradvantage.com/insideradvantage-u-s-senate-surveys-alaska-ranks-choice-peltola-50-sullivan-48-kansas-hamilton-48-marshall-47-michigan-el-sayed-48-rogers-46/|title=InsiderAdvantage U.S. Senate Surveys: Alaska (Ranks Choice) Peltola 50%, Sullivan 48%; Kansas Hamilton 48%, Marshall, 47%; Michigan El-Sayed 48%, Rogers 46%|date=October 11, 2026|access-date=October 11, 2026}}</ref>
+|October 9–10, 2026
+|1,200 (LV)
+|±{{nbsp}}2.8%
+|47%
+|{{Party shading/Democratic}} | '''48%'''
+|{{sdash}}
+|5%
 |-
 |rowspan="2" style="text-align: left;" |GBAO (D)<ref>{{cite web|url=https://static.politico.com/37/ce/d434188d4d2b83a7e3c9bcf2427c/gbao-hamilton-polling-memo-100626.pdf|title=Adam Hamilton Leads +5 In Kansas|publisher=GBAO|via=[[Politico]]|date=October 6, 2026|access-date=October 7, 2026}}</ref><ref>{{Cite tweet |last=Benson |first=Samuel |user=sambbenson |number=2107792740259914148 |title=New KS-SEN poll |date=October 7, 2026|access-date=October 7, 2026}}</ref>{{efn-ua|name=Hamilton}}
 |rowspan="2"|September 30 – October 4, 2026

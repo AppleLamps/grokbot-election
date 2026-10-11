@@ -1019,7 +1019,7 @@ On August 11, 2026, the [[Associated Press]] and [[NBC News]] called the race fo
 ! Margin
 |-
 |[[270toWin]]<ref>{{cite web|title=2026 Polls: Minnesota Senate|url=https://www.270towin.com/2026-senate-polls/minnesota|access-date=September 15, 2026|website=[[270toWin]]}}</ref>
-|September 11–30, 2026
+|September 8–29, 2026<!--Remember that dates listed on 270toWin are poll *publication dates*, not the dates when the polls were *administered*-->
 |September 30, 2026
 |{{party shading/DFL}} |'''44.8%'''
 |43.3%

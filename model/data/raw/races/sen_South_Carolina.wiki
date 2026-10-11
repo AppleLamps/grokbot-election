@@ -1308,7 +1308,7 @@ In ''[[The New York Times]]'', Michael Gold wrote that Trump had two main disput
 ! scope="col" | Link
 ! scope="col" | <small>[[Republican Party (United States)|Republican]]</small>
 ! scope="col" | <small>[[Democratic Party (US)|Democratic]]</small>
-! scope="col" | <small>[[Libertarian Party (US)|Democratic]]</small>
+! scope="col" | <small>[[Libertarian Party (US)|Libertarian]]</small>
 |-
 ! colspan="5" rowspan="2" |Key:<br />{{Colors|black|#90ff90|&nbsp;P&nbsp;}} <small>Participant&nbsp;</small> {{Colors|black|#FFFFDD|&nbsp;A&nbsp;}} <small>Absent&nbsp;</small> {{Colors|black|#ff9090|&nbsp;N&nbsp;}} <small>Not invited&nbsp;</small> {{Colors|black|#CCFFCC|&nbsp;I&nbsp;}} <small>Invited {{color box|#f0e68c|W}} Withdrawn</small>
 ! scope="col" style="background:{{party color|Republican Party (US)}}" |
@@ -1364,15 +1364,15 @@ In ''[[The New York Times]]'', Michael Gold wrote that Trump had two main disput
 ! style="width:100px;" |Other/<br />Undecided{{Efn|name=calculated|Calculated by taking the difference of 100% and all other candidates combined.}}
 ! Margin
 |-
-|[[270toWin]]<ref>{{cite web|title=2026 Polls: South Carolina Senate|url=https://www.270towin.com/2026-senate-polls/south-carolina|website=[[270toWin]]|access-date=September 27, 2026}}</ref>
-|September 26 – October 2, 2026
-|October 11, 2026
+|[[270toWin]]<ref>{{cite web|title=2026 Polls: South Carolina Senate|url=https://www.270towin.com/2026-senate-polls/south-carolina|website=[[270toWin]]|access-date=October 11, 2026}}</ref>
+|September 23–28, 2026<!--Remember that dates listed on 270toWin are poll *publication dates*, not the dates when the polls were *administered*-->
+|October 3, 2026
 |{{party shading/Republican}} |'''44.5%'''
 |43.5%
 |12.0%
 |{{party shading/Republican}} |'''Graham +1.0%'''
 |-
-|[[FiftyPlusOne]]<ref>{{cite web|title=South Carolina General Senate Election|url=https://fiftyplusone.news/polls/senate/general/south-carolina|website=[[FiftyPlusOne]]|access-date=September 17, 2026}}</ref>
+|[[FiftyPlusOne]]<ref>{{cite web|title=South Carolina General Senate Election|url=https://fiftyplusone.news/polls/senate/general/south-carolina|website=[[FiftyPlusOne]]|access-date=October 11, 2026}}</ref>
 |through September 29, 2026
 |October 11, 2026
 |{{party shading/Republican}} |'''44.9%'''
@@ -1390,7 +1390,7 @@ In ''[[The New York Times]]'', Michael Gold wrote that Trump had two main disput
 |-
 |''[[Silver Bulletin]]''<ref name="Silver"/>
 |through September 29, 2026
-|October 11, 2026
+|October 10, 2026
 |{{party shading/Republican}} |'''45.2%'''
 |42.7%
 |12.1%

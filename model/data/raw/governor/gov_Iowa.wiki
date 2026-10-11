@@ -577,8 +577,8 @@ In early September, ''[[The Des Moines Register]]'' reported that the [[Black Ha
 ! style="width:100px;"| Other/Undecided<br />{{Efn|Calculated by taking the difference of 100% and all other candidates combined.|name=|group=}}
 ! Margin
 |-
-|[[270toWin]]<ref name="270General">{{cite web |title=2026 Polls: Iowa Governor |url=https://www.270towin.com/2026-governor-polls/iowa |website=[[270toWin]] |access-date=October 10, 2026}}</ref>
-|September 15 – October 9, 2026
+|[[270toWin]]<ref name="270General">{{cite web |title=2026 Polls: Iowa Governor |url=https://www.270towin.com/2026-governor-polls/iowa |website=[[270toWin]] |access-date=October 11, 2026}}</ref>
+|September 15 – October 6, 2026
 |October 9, 2026
 |43.2%
 |{{party shading/Democratic}}|'''51.2%'''
@@ -634,7 +634,7 @@ In early September, ''[[The Des Moines Register]]'' reported that the [[Black Ha
 ! Other
 ! Undecided
 |-
-|style="text-align:left;"|[[Emerson College]]<ref>{{Cite web|date=September 3, 2026|title=Iowa 2026 Poll: U.S. Senate Race Tightens; Sand Maintains Edge for Governor |url=https://emersoncollegepolling.com/iowa-2026-poll-u-s-senate-race-tightens-sand-maintains-edge-for-governor/|website=[[Emerson College Polling]]|access-date=October 9, 2026}}</ref>{{efn-ua|Poll sponsored by [[Nexstar Media Group]]}}
+|style="text-align:left;"|[[Emerson College]]<ref>{{Cite web|date=October 9, 2026|title=Iowa 2026 Poll: U.S. Senate Race Tightens; Sand Maintains Edge for Governor |url=https://emersoncollegepolling.com/iowa-2026-poll-u-s-senate-race-tightens-sand-maintains-edge-for-governor/|website=[[Emerson College Polling]]|access-date=October 9, 2026}}</ref>{{efn-ua|Poll sponsored by [[Nexstar Media Group]]}}
 |October 5–6, 2026
 |650 (LV)
 |±&nbsp;3.8%
