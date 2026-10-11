@@ -92,6 +92,10 @@ senate:
   appointed_incumbency_bonus: 1.5        # v1 value; used only when incumbency_reweight is OFF
   appointed_incumbency_bonus_v2: 0.0     # factor 6: appointed senators (Husted, Moody, Graham) = open seats (FLIPR practice)
   use_candidate_adjustments: true   # ME Collins / NE Osborn / AK Peltola (see CSV notes)
+  # User-directed state-specific polling adjustment (Oct 11, 2026; see METHODOLOGY §5a).
+  # Added to the Senate polling average (D minus R) before blending, in EVERY scenario,
+  # on top of the scenario-wide national bias. Negative = toward the Republican. Senate races only.
+  state_poll_adjust: {TX: -3.0, OH: -3.0, ME: -3.0}
   # Weight on the polling average vs. fundamentals, by number of poll sources
   poll_weight_by_sources: {0: 0.0, 1: 0.35, 2: 0.6, 3: 0.75, 4: 0.85, 5: 0.85, 6: 0.85}
   # Race-specific (idiosyncratic) error sd by number of poll sources

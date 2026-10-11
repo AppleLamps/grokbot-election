@@ -128,6 +128,7 @@ def main():
                             "dem_side_candidate": r["dem_side_candidate"], "dem_side_party": r["dem_side_party"],
                             "rep_candidate": r["rep_candidate"], "pvi_d": num(r["pvi_d"]),
                             "poll_margin_d": num(r["poll_margin_d"]), "poll_sources": int(float(r["poll_sources"] or 0)),
+                            "poll_adjust": num(r.get("state_poll_adjust", 0) or 0),
                             "est_margin": num(r["est_margin"]), "tipping_freq": num(r["tipping_freq"]),
                             "poll_weight": num(r.get("poll_weight")), "fundamentals_margin": num(r.get("fundamentals_margin")),
                             "candidate_quality_adj": num(r.get("candidate_quality_adj")), "mechanics_note": r.get("mechanics_note") or "",

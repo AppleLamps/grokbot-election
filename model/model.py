@@ -102,6 +102,10 @@ def senate_estimates(cfg) -> pd.DataFrame:
         stale = 0.5 ** (np.clip(days - pc["stale_grace_days"], 0, None) / pc["stale_half_life_days"])
         df["poll_age_days"] = days
         df["poll_weight_mult_cleanup"] = mult * stale
+    # User-directed state-specific polling adjustment (config senate.state_poll_adjust); applies in all scenarios
+    spa = s.get("state_poll_adjust") or {}
+    df["state_poll_adjust"] = df["state"].map(lambda x: float(spa.get(x, 0.0)))
+    poll = poll + df["state_poll_adjust"].where(has_poll, 0.0)
     df["poll_margin_adj"] = poll
     # Factor 1: herding-aware weighting
     gap = (poll - df["fundamentals_margin"]).abs().fillna(0.0)

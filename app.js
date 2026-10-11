@@ -450,7 +450,8 @@
         }).join("");
         var poll = r.poll_margin_d === null || r.poll_margin_d === undefined ?
           '<span class="no-poll" title="No public polling found for this race; the model uses fundamentals only">No polls</span>' :
-          '<span class="' + marginClass(r.poll_margin_d) + '">' + margin(r.poll_margin_d) + '</span> <span class="n-polls" title="' + r.poll_sources + " poll" + (r.poll_sources === 1 ? "" : "s") + ' in the average">(' + r.poll_sources + ")</span>";
+          '<span class="' + marginClass(r.poll_margin_d) + '">' + margin(r.poll_margin_d) + '</span> <span class="n-polls" title="' + r.poll_sources + " poll" + (r.poll_sources === 1 ? "" : "s") + ' in the average">(' + r.poll_sources + ")</span>" +
+          (r.poll_adjust ? ' <span class="n-polls" title="State-specific polling adjustment: the model shifts this polling average ' + Math.abs(r.poll_adjust) + ' pts toward the ' + (r.poll_adjust < 0 ? "Republican" : "Democrat") + ' in every scenario (on top of the scenario-wide bias)">\u2020</span>' : "");
         var partyName = { D: "Democrat", R: "Republican", I: "Independent" };
         return "<tr>" +
           '<th scope="row" class="state-cell"><strong>' + mark(r.state_name, q) + '</strong><span class="sub">' + mark(r.state, q) + " \u00b7 " + mark(seat, q) + "</span></th>" +

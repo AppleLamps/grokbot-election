@@ -83,7 +83,7 @@ def compact_json(obj, path):
 
 def senate_table(sen):
     t = sen[["state", "seat", "holder", "dem_side_candidate", "dem_side_party", "rep_candidate", "pvi_d",
-             "poll_margin_d", "poll_margin_adj", "poll_sources", "poll_weight_base", "poll_weight", "candidate_quality_adj",
+             "poll_margin_d", "state_poll_adjust", "poll_margin_adj", "poll_sources", "poll_weight_base", "poll_weight", "candidate_quality_adj",
              "fundamentals_margin", "poll_fund_gap", "est_margin", "race_sd", "census_region", "hispanic_share", "mechanics_note",
              "sim_p10", "sim_p90", "p_dem_side", "tipping_freq"]].copy()
     t["p_rep"] = 1 - t["p_dem_side"]
