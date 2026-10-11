@@ -62,6 +62,11 @@ MANUAL = {
  "VT": (-2.3, 3, "2026-10-04", "", "Mean of State Navigate Oct 2-4 LV (Scott 46-43), Braun/Vermont Public Sep 10-21 LV (44-34), UNH Sep 17-21 LV (Janoo 49-43)"),
 }
 
+# Newer forecaster ratings shown on the individual race pages before the overview table catches up.
+# key: state -> {column index in the overview Predictions table: replacement USRaceRating template args}
+# Silver Bulletin (col 6) ratings dated Oct 10, 2026 on the race pages (overview column still says Oct 8).
+RATING_OVERRIDE = {"IA": {6: "Likely|D|flip"}, "OH": {6: "Lean|D|flip"}}
+
 def rating_score(tmpl):
     p = [x.strip().lower() for x in tmpl.split("|")]
     if p[0].startswith("toss"):
@@ -86,6 +91,8 @@ def parse_overview():
         status = "term_limited" if "term-limited" in low else ("retiring" if "retiring" in low else "running")
         status = INC_STATUS.get(st, status)
         rs = re.findall(r"USRaceRating\|([^}]*)\}\}", b)
+        for k, v in RATING_OVERRIDE.get(st, {}).items():
+            rs[k] = v
         sc = [rating_score(r) for r in rs]
         sc = [x for x in sc if x is not None]
         out[st] = dict(state=st, state_name=name, holder=holder, incumbent=f"{gov.group(1)} {gov.group(2)}",

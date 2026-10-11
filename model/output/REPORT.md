@@ -175,8 +175,8 @@ Prior = average of 7 forecaster ratings (Cook, DDHQ, Fox, Inside Elections, RCP,
 
 | Scenario | D governors after election (median, 80% range, of 50) | D wins of 36 races (mean) | P(D hold 26+ governorships) |
 |---|---|---|---|
-| (i) Polls unbiased (2018/2022 midterm record) | 27 (23–30) | 20.6 | 65.1% |
-| (ii) Presidential-style miss: polls overstate D by 3 | 24 (20–28) | 18.1 | 31.9% |
+| (i) Polls unbiased (2018/2022 midterm record) | 27 (23–30) | 20.6 | 65.0% |
+| (ii) Presidential-style miss: polls overstate D by 3 | 24 (20–28) | 18.0 | 31.8% |
 | (iii) 2025-style miss (tail case): polls overstate R by 6 | 31 (28–35) | 25.3 | 97.5% |
 
 | state | candidates | holder | rating_score | prior_margin | poll_margin_d | poll_sources | est_margin | p_dem | p_dem_pres_style_D_overstatement | p_dem_r_overstatement_2025 | market_p_dem_polymarket |
@@ -193,11 +193,11 @@ Prior = average of 7 forecaster ratings (Cook, DDHQ, Fox, Inside Elections, RCP,
 | MN | Amy Klobuchar (D) vs Lisa Demuth (R) | D | +2.43 | D+12.0 | D+10.8 | 3 | D+11.2 | 96.8% | 91.6% | 99.6% | 95.5% |
 | IL | JB Pritzker (D) vs Darren Bailey (R) | D | +2.86 | D+15.0 | – | 0 | D+15.0 | 96.7% | 93.4% | 99.2% | 98.1% |
 | CO | Phil Weiser (D) vs Victor Marx (R) | D | +2.86 | D+15.0 | – | 0 | D+15.0 | 96.7% | 93.4% | 99.2% | 97.2% |
-| IA | Rob Sand (D) vs Zach Lahn (R) | R | +1.21 | D+5.5 | D+8.6 | 5 | D+8.1 | 92.8% | 82.4% | 99.2% | 88.5% |
+| IA | Rob Sand (D) vs Zach Lahn (R) | R | +1.07 | D+4.8 | D+8.6 | 5 | D+8.0 | 92.6% | 81.9% | 99.1% | 88.5% |
 | NM | Deb Haaland (D) vs Gregg Hull (R) | D | +2.43 | D+12.0 | D+7.7 | 1 | D+10.5 | 91.7% | 84.1% | 98.2% | 90.5% |
 | MI | Jocelyn Benson (D) vs John James (R) | D | +1.07 | D+4.8 | D+7.4 | 5 | D+7.0 | 89.7% | 76.9% | 98.7% | 93.8% |
 | AZ | Katie Hobbs (D) vs Andy Biggs (R) | D | +1.07 | D+4.8 | D+7.8 | 5 | D+7.3 | 89.6% | 77.3% | 98.6% | 88.5% |
-| OH | Amy Acton (D) vs Vivek Ramaswamy (R) | R | +0.43 | D+1.7 | D+4.5 | 5 | D+4.1 | 77.6% | 58.4% | 96.2% | 70.5% |
+| OH | Amy Acton (D) vs Vivek Ramaswamy (R) | R | +0.29 | D+1.1 | D+4.5 | 5 | D+4.0 | 77.2% | 57.7% | 96.0% | 70.5% |
 | AK | Jonathan Kreiss-Tomkins (D) vs Bernadette Wilson (R) | R | +0.57 | D+2.4 | D+6.0 | 2 | D+4.5 | 76.2% | 59.8% | 94.5% | 76.7% |
 | OR | Tina Kotek (D) vs Christine Drazan (R) | D | +1.29 | D+5.8 | D+2.0 | 1 | D+4.5 | 73.9% | 58.5% | 93.0% | 77.5% |
 | WI | David Crowley (D) vs Tom Tiffany (R) | D | +0.43 | D+1.7 | D+3.0 | 1 | D+2.1 | 62.4% | 44.9% | 87.8% | 80.5% |

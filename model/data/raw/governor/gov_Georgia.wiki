@@ -1296,8 +1296,8 @@ In the previous two occasions ([[2018 Georgia gubernatorial election|2018]] and 
 |-
 |colspan="3"|'''Average'''
 |{{party shading/Republican}}|'''47.6%'''
-|46.9%
-|5.7%
+|46.5%
+|5.3%
 |{{party shading/Republican}}|'''Jackson +0.7%'''
 |}
 
