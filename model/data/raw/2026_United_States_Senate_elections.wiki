@@ -1274,6 +1274,9 @@ See [[Template:USRaceRating]] for how to apply rating.
 <!--ST-->        |{{Party shading/Democratic}} | D/I - 52<br />R - 47<br />1 tossup
 |}
 
+== Impact of the Latino Vote in the 2026 Elections ==
+Latino voters make up a growing share of the eligible voting population in the United States, an increase of about 5 million people compared to 2022.<ref>{{Cite web |title=Latino Americans are the real swing voters |url=https://www.ft.com/content/6a28fe07-f7bd-4f65-9269-d1409756ef34 |access-date=2026-10-11 |website=www.ft.com |language=en-GB}}</ref> According to polls, Latino voters, who played a significant role in Trump's victory in the 2024 election, now support Democrats more.<ref>{{Cite web |last=Pantazi |first=Andrew |date=2026-10-05 |title=Latino men swung hard to Trump in 2024. Now they're swinging back |url=https://www.axios.com/2026/10/05/latinos-democrats-trump |access-date=2026-10-11 |website=Axios |language=en}}</ref><ref>{{Cite web |title=Latino voters favor Democratic control of Congress by 24-point margin: Survey |url=https://thehill.com/homenews/campaign/6129611-latino-voters-democrats-congress-poll/}}</ref> Rising prices and Trump's immigration policies are among the reasons for Latino voters' dissatisfaction. About two-thirds of them believe that deportation policies have gone too far, and three-quarters are dissatisfied with Trump's performance on the economy and the cost of living.<ref>{{Cite web |date=2026-10-04 |title=Poll: Latino voters swing away from Trump and Republicans |url=https://www.nbcnews.com/politics/2026-election/poll-latino-voters-swing-away-trump-republicans-midterm-shift-rcna599894 |access-date=2026-10-11 |website=NBC News |language=en}}</ref>
+
 == Generic congressional ballot aggregate polls ==
 {{#section:2026 United States House of Representatives elections|GenericBallotAgg}}
 
@@ -1928,7 +1931,7 @@ In these general elections, the winners will be elected for the term beginning J
 | data-sort-value=1 | Incumbent renominated
 | nowrap | {{Plainlist | 
 *{{Party stripe|Libertarian Party (US)}}Gary Lyndon Dye (Libertarian)<ref>{{cite web |title=Candidate Information |url=https://secure.sos.state.or.us/orestar/cfDetail.do?page=search&cfRsn=25840 |website=Oregon Secretary of State |access-date=August 26, 2026}}</ref>
-*{{Party stripe|Pacific Green Party}}Brett Smith (Pacific Green)<ref>{{cite web |title=Candidate Information |url=https://secure.sos.state.or.us/orestar/cfDetail.do?page=search&cfRsn=25907&OWASP_CSRFTOKEN=TFZD-CV65-3GQ0-YMTR-5HOL-IWR5-P067-5N07 |website=Oregon Secretary of State |access-date=August 26, 2026}}</ref>
+*{{Party stripe|Oregon Progressive Party}}Chris Henry (Progressive)<ref>{{cite web |title=Candidate Information |url=https://secure.sos.state.or.us/orestar/cfDetail.do?page=search&cfRsn=25907&OWASP_CSRFTOKEN=TFZD-CV65-3GQ0-YMTR-5HOL-IWR5-P067-5N07 |website=Oregon Secretary of State |access-date=August 26, 2026}}</ref>
 *{{Party stripe|Democratic Party (US)}}[[Jeff Merkley]] (Democratic)<ref name="OR2026">{{#invoke:cite|web|title=Candidates for 2026 Primary ELection|url=https://secure.sos.state.or.us/orestar/CFSearchPage.do#|publisher=Oregon Secretary of State|access-date=January 15, 2026}}</ref>
 *{{Party stripe|Republican Party (US)}}[[David Brock Smith]] (Republican)<ref name="OR2026" />
 }}

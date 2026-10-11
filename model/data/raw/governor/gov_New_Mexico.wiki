@@ -693,6 +693,15 @@ After winning the June 2 primary, Toulouse Oliver withdrew from the race on June
 !Other
 !Undecided
 |-
+|style="text-align:left;"|Research & Polling Inc.<ref>{{cite web |last1=Boyd |first1=Dan |title=Journal Poll: Haaland maintains lead over Hull as New Mexico's race for governor nears homestretch |url=https://www.abqjournal.com/news/journal-poll-haaland-maintains-lead-over-hull-as-new-mexicos-race-for-governor-nears-homestretch/3139307 |website=[[The Albuquerque Journal]] |date=October 11, 2026}}</ref>{{Efn-ua|name=ABQJ}}
+|October 1–9, 2026
+|1,125 (LV)
+|±&nbsp;2.9%
+|{{party shading/Democratic}}|'''49%'''
+|42%
+|—
+|9%
+|-
 |style="text-align:left;"|[[SurveyUSA]]<ref>{{Cite web|last=Troli|first=Blake|date=October 4, 2026|title=KOB poll finds Haaland leading Hull by 6 points in head-to-head race|url=https://www.kob.com/new-mexico/kob-poll-finds-haaland-leading-hull-by-6-points-in-head-to-head-race/|publisher=[[SurveyUSA]]|access-date=October 4, 2026|via=[[KOB (TV)|KOB]]}}</ref>{{Efn-ua|Poll commissioned by [[KOB (TV)|KOB]]}}
 |September 25–30, 2026
 |567 (LV)
@@ -702,7 +711,7 @@ After winning the June 2 primary, Toulouse Oliver withdrew from the race on June
 |—
 |12%
 |-
-|style="text-align:left;"|Research & Polling Inc.<ref>{{cite web|last=Boyd|first=Dan|title=Journal Poll: Haaland leads Hull by closer-than-expected margin in New Mexico's race for governor|url=https://www.abqjournal.com/news/journal-poll-haaland-leads-hull-by-closer-than-expected-margin-in-new-mexicos-race-for-governor/3111874|website=[[The Albuquerque Journal]]|access-date=August 30, 2026|date=August 30, 2026}}</ref>
+|style="text-align:left;"|Research & Polling Inc.<ref>{{cite web|last=Boyd|first=Dan|title=Journal Poll: Haaland leads Hull by closer-than-expected margin in New Mexico's race for governor|url=https://www.abqjournal.com/news/journal-poll-haaland-leads-hull-by-closer-than-expected-margin-in-new-mexicos-race-for-governor/3111874|website=[[The Albuquerque Journal]]|access-date=August 30, 2026|date=August 30, 2026}}</ref>{{Efn-ua|name=ABQJ}}
 |August 21–28, 2026
 |516 (LV)
 |±&nbsp;4.3%

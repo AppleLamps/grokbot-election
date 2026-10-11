@@ -387,7 +387,10 @@ A major issue in the general election has been the growing [[opposition to AI da
 |}
 
 ===Post-primary endorsements===
-{{Endorsements box|title=Josh Shapiro (D)|list=;Labor unions
+{{Endorsements box|title=Josh Shapiro (D)|list=
+;Executive branch officials
+*[[Barack Obama]], former [[president of the United States]] (2009–2017)<ref>{{cite news |last1=Gómez |first1=Fin Daniel |last2=Walsh |first2=Joe |title=Obama throws support behind Pennsylvania Gov. Josh Shapiro's reelection bid as former president enters midterm fray |url=https://www.cbsnews.com/news/obama-endorses-pennsylvania-governor-josh-shapiro/ |access-date=11 October 2026 |work=CBS News |date=October 9, 2026}}</ref>
+;Labor unions
 *[[Fraternal Order of Police]] Lodge 5<ref name=FOP />
 *Pennsylvania [[AFL-CIO]]<ref name=FOP />
 *Pennsylvania [[International Association of Fire Fighters|Professional Fire Fighters Association]]<ref name=FOP>{{cite news |last1=Baruchman |first1=Michelle |last2=Orso |first2=Anna |title=Philadelphia's police union endorses Gov. Josh Shapiro for his reelection bid |url=http://inquirer.com/politics/election/philadelphia-police-union-endorses-josh-shapiro-20260901.html |access-date=2 September 2026 |work=The Philadelphia Inquirer |date=September 1, 2026}}</ref>
@@ -471,7 +474,7 @@ A major issue in the general election has been the growing [[opposition to AI da
 !Other
 !Undecided
 |-
-|style="text-align:left;"|[[Quinnipiac University Polling Institute]]<ref>{{cite web |last1=Malloy |first1=Tim |last2=Schwartz |first2=Doug |title=PA GOVERNOR’S RACE: SHAPIRO 59%, GARRITY 34%, QUINNIPIAC UNIVERSITY PENNSYLVANIA POLL FINDS; VOTERS FAVOR DEMS TO WIN CONTROL OF U.S. HOUSE BY 15 POINTS |url=https://poll.qu.edu/images/polling/pa/pa10072026_pgrx47.pdf |publisher=[[Quinnipiac University Polling Institute]] |access-date=October 8, 2026 |date=October 7, 2026}}</ref>
+|style="text-align:left;"|[[Quinnipiac University Polling Institute|Quinnipiac University]]<ref>{{cite web |last1=Malloy |first1=Tim |last2=Schwartz |first2=Doug |title=PA GOVERNOR’S RACE: SHAPIRO 59%, GARRITY 34%, QUINNIPIAC UNIVERSITY PENNSYLVANIA POLL FINDS; VOTERS FAVOR DEMS TO WIN CONTROL OF U.S. HOUSE BY 15 POINTS |url=https://poll.qu.edu/images/polling/pa/pa10072026_pgrx47.pdf |publisher=[[Quinnipiac University Polling Institute]] |access-date=October 8, 2026 |date=October 7, 2026}}</ref>
 |October 1–5, 2026
 |1,159 (LV)
 |±&nbsp;3.9%

@@ -1484,14 +1484,14 @@ In September 2026, the [[Libertarian Party of Michigan]] formally disavowed conn
 ! Other
 ! Undecided
 |-
-|style="text-align: left;"|Wedgewood Polls<ref>{{Cite web |title=Wedgewood Polls MI Survey.pdf |url=https://drive.google.com/file/d/1aJZLOtyfQnZtPDHogNEN2UATqMhrLgxc/view |website=Wedgewood Polls |date=October 9, 2026 |access-date=October 9, 2026}}</ref>
+|style="text-align: left;"|Wedgewood Polls<ref>{{Cite web |title=2026 Michigan General Election – Senate & Governor: Toplines & Crosstabs |url=https://drive.google.com/file/d/1aJZLOtyfQnZtPDHogNEN2UATqMhrLgxc/view |work=Wedgewood Polls |date=October 9, 2026 |access-date=October 9, 2026}}</ref>
 |October 8–9, 2026
 |607 (LV)
 |±&nbsp;4.0%
 |{{party shading/Democratic}}|'''55%'''
 |45%
-|–
-|–
+|{{sdash}}
+|{{sdash}}
 |-
 | style="text-align:left;|[[YouGov]]<ref>{{cite web|title=Michigan General Election 2026 – Likely Voters|url=https://d3nkl3psvxxpe9.cloudfront.net/documents/ttw_mi_20260921_lv.pdf |website=[[YouGov]] |date=October 6, 2026 |access-date=October 6, 2026}}</ref>
 |September 22 – October 4, 2026
@@ -1514,7 +1514,7 @@ In September 2026, the [[Libertarian Party of Michigan]] formally disavowed conn
 |style="text-align:left;"|Z to A Research (D)<ref>{{cite web |title=NEW: @nzdunk  Z to A Research & Rust Belt Rising poll finds Democrats leading in the top races in Wisconsin, Michigan & Pennsylvania.  This is a cost-of-living election—gas, groceries & health care. Voters hold Trump responsible for price rises. 1,430-voter poll from 9/28-10/1. 🧵 |url=https://x.com/rbrtraining/status/2108302504446337272 |publisher=[[Twitter]] |access-date=October 9, 2026 |date=October 8, 2026}}</ref>{{Efn-ua|Poll sponsored by Rust Belt Rising, which supports Democrats}}
 |September 28 – October 1, 2026
 |483 (LV)
-|–
+|{{sdash}}
 |{{party shading/Democratic}}|'''50%'''
 |40%
 |5%{{Efn|Anthony Hudson (L) with 4%; Douglas Campbell (G) with 1%}}
@@ -1544,7 +1544,7 @@ In September 2026, the [[Libertarian Party of Michigan]] formally disavowed conn
 |±{{nbsp}}3.5%
 |{{party shading/Democratic}}|'''50%'''
 |45%
-|—
+|{{sdash}}
 |5%
 |-
 |style="text-align:left"|co/efficient (R)<ref>{{cite web |title=Michigan · U.S. Senate |url=https://battlegrounds.coefficient.org/mi/ |publisher=co/efficient |access-date=September 23, 2026 |archive-url=https://web.archive.org/web/20260923213813/https://battlegrounds.coefficient.org/mi/ |archive-date=September 23, 2026 |url-status=live}}</ref>
@@ -1553,7 +1553,7 @@ In September 2026, the [[Libertarian Party of Michigan]] formally disavowed conn
 |±{{nbsp}}3.36%
 |{{party shading/Democratic}}|'''47%'''
 |44%
-|–
+|{{sdash}}
 |8%
 |-
 | style="text-align: left;"|[[New York Times]]/[[Siena University (New York)|Siena University]]<ref>{{cite web |last1=Reynolds |first1=Evan |title=Polls Show Advantage for Incumbent Parties in 4 Governor’s Races |url=https://www.nytimes.com/2026/09/25/us/governor-polls-maine-michigan-new-hampshire-pennsylvania.html |website=[[New York Times]] |date=September 25, 2026}}</ref>
@@ -1702,7 +1702,7 @@ In September 2026, the [[Libertarian Party of Michigan]] formally disavowed conn
 |±&nbsp;4.0%
 |{{party shading/Democratic}}|'''47%'''
 |38%
-|–
+|{{sdash}}
 |15%
 |-
 |style="text-align:left;"|Mitchell Research & Communications<ref name="MitchellJuly2026">{{cite web|url=https://static1.squarespace.com/static/5f14ae6fb2a20e01e9c6d608/t/6a6d26262f442f133d15fa49/1785538087149/MITCHELL+MI+Poll+Nov+Electio+Press+Release+7-31-2026+305PM_A.pdf|title=Mitchell Michigan Poll|work=Mitchell Research & Communications|date=August 1, 2026|access-date=August 2, 2026|archive-date=August 1, 2026|archive-url=https://web.archive.org/web/20260801203910/https://static1.squarespace.com/static/5f14ae6fb2a20e01e9c6d608/t/6a6d26262f442f133d15fa49/1785538087149/MITCHELL%20MI%20Poll%20Nov%20Electio%20Press%20Release%207-31-2026%20305PM_A.pdf|url-status=live}}</ref>
@@ -1711,7 +1711,7 @@ In September 2026, the [[Libertarian Party of Michigan]] formally disavowed conn
 |±&nbsp;3.8%
 |{{party shading/Democratic}}|'''46%'''
 |44%
-|–
+|{{sdash}}
 |10%
 |-
 |style="text-align:left;"|Glengariff Group<ref name="GGJuly2026">{{cite web|url=https://mea.org/wp-content/uploads/2026/07/MICHIGAN-EDUCATION-SURVEY-REPORT-FINAL54.pdf|title=MICHIGAN EDUCATION SURVEY|work=Michigan Education Association|date=July 25, 2026|access-date=July 28, 2026|archive-date=July 28, 2026|archive-url=https://web.archive.org/web/20260728154623/https://mea.org/wp-content/uploads/2026/07/MICHIGAN-EDUCATION-SURVEY-REPORT-FINAL54.pdf|url-status=live}}</ref>{{efn-ua|name=MEA| Poll commissioned jointly by the [[Michigan Education Association]] and [[Business Leaders for Michigan]].}}
@@ -1729,7 +1729,7 @@ In September 2026, the [[Libertarian Party of Michigan]] formally disavowed conn
 |±&nbsp;3.4%
 |{{party shading/Democratic}}|'''51%'''
 |40%
-|–
+|{{sdash}}
 |9%
 |-
 |style="text-align: left;" rowspan="2"|TIPP Insights (R)<ref>{{Cite web|url=https://tippinsights.com/league-of-american-workers-survey-michigan/|title=League of American Workers Survey — Michigan|work=TIPP|date=June 1, 2026|access-date=June 1, 2026|archive-date=June 1, 2026|archive-url=https://web.archive.org/web/20260601180710/https://tippinsights.com/league-of-american-workers-survey-michigan/|url-status=live}}</ref>{{efn-ua|name=LAW}}
@@ -1750,17 +1750,17 @@ In September 2026, the [[Libertarian Party of Michigan]] formally disavowed conn
 |-
 |rowspan="2" style="text-align: left;" |Glengariff Group<ref name="GGFeb2026"/>{{efn-ua|name=DRC}}
 |rowspan="2"|January 27 – February 2, 2026
-|– (LV)
-|rowspan="2"|–
+|{{sdash}} (LV)
+|rowspan="2" {{sdash}}
 |{{party shading/Democratic}}|'''45%'''
 |41%
-|–
+|{{sdash}}
 |14%
 |-
 |600 (RV)
 |{{party shading/Democratic}}|'''45%'''
 |40%
-|–
+|{{sdash}}
 |15%
 |-
 |style="text-align: left;" |Glengariff Group<ref name=GG1.26/>{{Efn-ua|name=WDIVDN}}
@@ -1794,7 +1794,7 @@ In September 2026, the [[Libertarian Party of Michigan]] formally disavowed conn
 |±&nbsp;4.0%
 |{{party shading/Democratic}}|'''48%'''
 |36%
-|–
+|{{sdash}}
 |16%
 |-
 |style="text-align:left;"|Mitchell Research & Communications<ref name="MitchellJuly2026"/>
@@ -1803,7 +1803,7 @@ In September 2026, the [[Libertarian Party of Michigan]] formally disavowed conn
 |±&nbsp;3.8%
 |{{party shading/Democratic}}|'''48%'''
 |43%
-|–
+|{{sdash}}
 |9%
 |-
 |style="text-align:left;"|Glengariff Group<ref name="GGJuly2026"/>{{efn-ua|name=MEA}}
@@ -1821,7 +1821,7 @@ In September 2026, the [[Libertarian Party of Michigan]] formally disavowed conn
 |±&nbsp;3.4%
 |{{party shading/Democratic}}|'''50%'''
 |42%
-|–
+|{{sdash}}
 |8%
 |-
 |}
@@ -1890,7 +1890,7 @@ In September 2026, the [[Libertarian Party of Michigan]] formally disavowed conn
 |±&nbsp;3.4%
 |{{party shading/Democratic}}|'''48%'''
 |41%
-|–
+|{{sdash}}
 |12%
 |-
 |}
@@ -2081,7 +2081,7 @@ In September 2026, the [[Libertarian Party of Michigan]] formally disavowed conn
 |{{party shading/Democratic}}|'''42%'''
 |30%
 |13%
-|–
+|{{sdash}}
 |15%
 |-
 | style="text-align: left;" |Glengariff Group<ref name="GGMay2026">{{Cite web|url=https://www.detroitchamber.com/wp-content/uploads/2026/05/DRC_Glengariff-Group_2026-Mackinac-Policy-Conference_POLITICAL-REPORT.pdf|title=MICHIGAN STATEWIDE VOTER SURVEY|website=Detroit Regional Chamber|date=May 3, 2026|access-date=May 12, 2026|archive-date=May 18, 2026|archive-url=https://web.archive.org/web/20260518022946/https://www.detroitchamber.com/wp-content/uploads/2026/05/DRC_Glengariff-Group_2026-Mackinac-Policy-Conference_POLITICAL-REPORT.pdf|url-status=live}}</ref>{{efn-ua|name=DRC}}
@@ -2101,7 +2101,7 @@ In September 2026, the [[Libertarian Party of Michigan]] formally disavowed conn
 |{{party shading/Democratic}}|'''40%'''
 |36%
 |20%
-|–
+|{{sdash}}
 |4%
 |-
 |style="text-align: left;" rowspan=2|[[Michigan State University]]/[[YouGov]]<ref>{{Cite web|url=https://ippsr.msu.edu/news/msu-governors-poll-shows-slight-benson-lead-no-clear-cut-frontrunner|title=MSU Governors Poll Shows Slight Benson Lead, But No Clear-Cut Frontrunner|website=Michigan State University|access-date=April 20, 2026|archive-date=May 13, 2026|archive-url=https://web.archive.org/web/20260513061405/https://ippsr.msu.edu/news/msu-governors-poll-shows-slight-benson-lead-no-clear-cut-frontrunner|url-status=live}}</ref>
@@ -2117,7 +2117,7 @@ In September 2026, the [[Libertarian Party of Michigan]] formally disavowed conn
 |{{party shading/Democratic}}|'''30%'''{{efn|Leaners pushed}}
 |23%
 |19%
-|–
+|{{sdash}}
 |29%
 |-
 | style="text-align: left;" |Impact Research (D)<ref>{{Cite web|url=https://www.metrotimes.com/news/new-poll-shows-benson-pulling-ahead-as-duggan-slips-despite-big-spending/|title=New poll shows Benson pulling ahead as Duggan slips despite big spending|first1=Steve|last1=Neavling|website=[[Detroit Metro Times]]|date=February 19, 2026|access-date=February 20, 2026|archive-date=February 19, 2026|archive-url=https://web.archive.org/web/20260219183740/https://www.metrotimes.com/news/new-poll-shows-benson-pulling-ahead-as-duggan-slips-despite-big-spending/|url-status=live}}</ref>{{efn-ua|name=Benson|Poll sponsored by Benson's campaign}}
@@ -2127,13 +2127,13 @@ In September 2026, the [[Libertarian Party of Michigan]] formally disavowed conn
 |{{party shading/Democratic}}|'''39%'''
 |36%
 |20%
-|–
+|{{sdash}}
 |5%
 |-
 |rowspan="6" style="text-align: left;" |Glengariff Group<ref name="GGFeb2026">{{Cite web|url=https://www.detroitchamber.com/feb-2026-michigan-voter-poll/|title=New Statewide Poll: Voters Unaware as Michigan's Economic and Education Rankings Continue to Plummet|website=Detroit Regional Chamber|date=February 23, 2026|access-date=February 23, 2026|archive-date=February 23, 2026|archive-url=https://web.archive.org/web/20260223215141/https://www.detroitchamber.com/feb-2026-michigan-voter-poll/|url-status=live}}</ref>{{efn-ua|name=DRC}}
 |rowspan="6"|January 27 – February 2, 2026
-|rowspan="3"|– (LV)
-|rowspan="6"|–
+|rowspan="3" {{sdash}} (LV)
+|rowspan="6" {{sdash}}
 |28%
 |29%
 |{{party shading/Independent}} |'''30%'''
@@ -2141,15 +2141,15 @@ In September 2026, the [[Libertarian Party of Michigan]] formally disavowed conn
 |12%
 |-
 |32%
-|–
+|{{sdash}}
 |{{party shading/Independent}}|'''54%'''
-|–
+|{{sdash}}
 |14%
 |-
-|–
+|{{sdash}}
 |30%
 |{{party shading/Independent}}|'''58%'''
-|–
+|{{sdash}}
 |12%
 |-
 |rowspan="3"|600 (RV)
@@ -2160,15 +2160,15 @@ In September 2026, the [[Libertarian Party of Michigan]] formally disavowed conn
 |13%
 |-
 |31%
-|–
+|{{sdash}}
 |{{party shading/Independent}}|'''53%'''
-|–
+|{{sdash}}
 |16%
 |-
-|–
+|{{sdash}}
 |30%
 |{{party shading/Independent}}|'''57%'''
-|–
+|{{sdash}}
 |13%
 |-
 |style="text-align: left;" |Glengariff Group<ref name=GG1.26>{{cite web |last1=Sayles |first1=Samantha |title=Poll: Here's where Michigan voters stand in the 2026 gubernatorial race |url=https://www.clickondetroit.com/news/local/2026/01/12/poll-heres-where-michigan-voters-stand-in-the-2026-gubernatorial-race/ |publisher=[[WDIV-TV]] |access-date=14 January 2026 |date=13 January 2026 |archive-date=January 14, 2026 |archive-url=https://web.archive.org/web/20260114115536/https://www.clickondetroit.com/news/local/2026/01/12/poll-heres-where-michigan-voters-stand-in-the-2026-gubernatorial-race/ |url-status=live }}</ref>{{Efn-ua|name=WDIVDN|Poll commissioned by [[WDIV-TV]] and [[The Detroit News]]}}
@@ -2178,7 +2178,7 @@ In September 2026, the [[Libertarian Party of Michigan]] formally disavowed conn
 |32%
 |{{party shading/Republican}} |'''34%'''
 |26%
-|–
+|{{sdash}}
 |8%
 |-
 | style="text-align: left;" |Mitchell Research & Communications<ref>{{Cite web |title=Mitchell-MIRS-Michigan Poll |url=https://mirs-polls.s3.us-east-2.amazonaws.com/c7ba70f28c3812c553cbf07db509f469.pdf |access-date=January 13, 2026 |website=Mitchell Research & Communications}}</ref>{{efn-ua|name=MIRS}}
@@ -2188,7 +2188,7 @@ In September 2026, the [[Libertarian Party of Michigan]] formally disavowed conn
 |31%
 |{{party shading/Republican}} |'''37%'''
 |18%
-|–
+|{{sdash}}
 |14%
 |-
 |style="text-align:left;"|EPIC-MRA<ref>{{cite web |last1=Lobo |first1=Arpan |title=Michigan voters think Trump's tariffs are increasing costs, poll finds |url=https://www.freep.com/story/news/politics/elections/2025/11/14/michigan-poll-trump-tariffs-prices-governor-us-senate/87233591007/ |website=Detroit Free Press |access-date=16 November 2025}}</ref>
@@ -2198,7 +2198,7 @@ In September 2026, the [[Libertarian Party of Michigan]] formally disavowed conn
 |33%
 |{{party shading/Republican}} |'''34%'''
 |20%
-|–
+|{{sdash}}
 |13%
 |-
 |style="text-align:left;"|Rosetta Stone Communications (R)<ref name="RSCNov2025">{{Cite web|url=https://drive.google.com/file/d/1IXMRqu8XUE5k6Ao5G74CabOQMWKDxqAg/view|title=Benson, Rogers Likely Party Nominees – GOP Governor-Democratic US Senate Candidates Not As Clear|work=Rosetta Stone Communications|date=November 6, 2025|access-date=November 6, 2025|archive-date=November 19, 2025|archive-url=https://web.archive.org/web/20251119184559/https://drive.google.com/file/d/1IXMRqu8XUE5k6Ao5G74CabOQMWKDxqAg/view|url-status=live}}</ref>
@@ -2208,7 +2208,7 @@ In September 2026, the [[Libertarian Party of Michigan]] formally disavowed conn
 |34%
 |{{party shading/Republican}} |'''39%'''
 |18%
-|–
+|{{sdash}}
 |9%
 |-
 | style="text-align:left;" |Schoen Cooperman Research (D)<ref>{{Cite web|url=https://www.politico.com/f/?id=0000019a-141e-dc69-abda-fedeff110000|title= Michigan 2026 Poll Overview |work=Schoen Cooperman Research |date= October 22, 2025|access-date=October 22, 2025}}</ref>
@@ -2218,7 +2218,7 @@ In September 2026, the [[Libertarian Party of Michigan]] formally disavowed conn
 |{{party shading/Democratic}}|'''30%'''
 |29%
 |26%
-|–
+|{{sdash}}
 |15%
 |-
 | style="text-align:left;" rowspan="2"|Glengariff Group<ref name="GlengariffMay2025">{{Cite web|url=https://www.detroitchamber.com/wp-content/uploads/2025/05/Detroit-Regional-Chamber_Glengariff-Group_May-2025-Political-Survey-Report.pdf|title=Detroit Regional Chamber/Glengariff Group May 2025 Political Survey Report|website=Detroit Regional Chamber|date=May 11, 2025|access-date=May 27, 2025|archive-date=May 27, 2025|archive-url=https://web.archive.org/web/20250527200643/https://www.detroitchamber.com/wp-content/uploads/2025/05/Detroit-Regional-Chamber_Glengariff-Group_May-2025-Political-Survey-Report.pdf|url-status=live}}</ref>{{efn-ua|name=DRC|Poll sponsored by The Detroit Regional Chamber, which endorsed Duggan in July 2025}}
@@ -2228,13 +2228,13 @@ In September 2026, the [[Libertarian Party of Michigan]] formally disavowed conn
 |{{party shading/Democratic}}|'''35%'''
 |34%
 |22%
-|–
+|{{sdash}}
 |9%
 |-
 |{{party shading/Democratic}}|'''38%'''{{efn|name=Definite}}
 |33%
 |21%
-|–
+|{{sdash}}
 |8%
 |-
 |style="text-align:left;"|Mitchell Research & Communications<ref name="MIRSMarch2025"/>{{efn-ua|name=MIRS}}
@@ -2244,7 +2244,7 @@ In September 2026, the [[Libertarian Party of Michigan]] formally disavowed conn
 |{{party shading/Democratic}}|'''37%'''
 |34%
 |16%
-|–
+|{{sdash}}
 |13%
 |-
 |style="text-align:left;"|Target Insyght<ref>{{cite web|url=https://www.deadlinedetroit.com/articles/32917/poll_jocelyn_benson_dominates_mike_duggan_in_governor_s_race|title=Poll: Jocelyn Benson Dominates Mike Duggan in Governor's Race|website=Deadline Detroit|date=March 8, 2025|access-date=March 8, 2025|archive-date=March 13, 2025|archive-url=https://web.archive.org/web/20250313194750/https://www.deadlinedetroit.com/articles/32917/poll_jocelyn_benson_dominates_mike_duggan_in_governor_s_race|url-status=live}}</ref>
@@ -2254,7 +2254,7 @@ In September 2026, the [[Libertarian Party of Michigan]] formally disavowed conn
 |{{party shading/Democratic}}|'''42%'''
 |30%
 |21%
-|–
+|{{sdash}}
 |7%
 |}
 
@@ -2278,7 +2278,7 @@ In September 2026, the [[Libertarian Party of Michigan]] formally disavowed conn
 |{{party shading/Democratic}}|'''42%'''
 |32%
 |13%
-|–
+|{{sdash}}
 |13%
 |-
 | style="text-align: left;" |Glengariff Group<ref name="GGMay2026"/>{{efn-ua|name=DRC}}
@@ -2420,7 +2420,7 @@ In September 2026, the [[Libertarian Party of Michigan]] formally disavowed conn
 | style="text-align:left;" |Plymouth Union Public (R)<ref name="PUPOct2025"/>
 |October 8−9, 2025
 |600 (LV)
-|–
+|{{sdash}}
 |{{party shading/Democratic}}|'''31%'''
 |28%
 |15%
@@ -2442,7 +2442,7 @@ In September 2026, the [[Libertarian Party of Michigan]] formally disavowed conn
 | style="text-align:left;" |Plymouth Union Public (R)<ref name="PUPOct2025"/>
 |October 8−9, 2025
 |600 (LV)
-|–
+|{{sdash}}
 |31%
 |{{party shading/Republican}} |'''35%'''
 |12%

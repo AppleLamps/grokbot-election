@@ -1220,6 +1220,34 @@ In the previous two occasions ([[2018 Georgia gubernatorial election|2018]] and 
 *[[Jewish Democratic Council of America]]<ref>{{cite web |title=Jewish Dems Endorsed Candidates |url=https://jewishdems.org/endorsements/ |website=Jewish Democratic Council of America |access-date=September 25, 2026}}</ref>
 }}
 
+===Debates===
+{| class="wikitable" style="text-align:center;"
+|+ 2026 Georgia gubernatorial election debates
+|-
+! scope="col" | {{abbr|No.|Number}}
+! scope="col" | Date
+! scope="col" | Host
+! scope="col" | Moderator
+! scope="col" | Link
+! scope="col" | <small>[[Republican Party (United States)|Republican]]</small>
+! scope="col" | <small>[[Democratic Party (US)|Democratic]]</small>
+|-
+! colspan="5" rowspan="2" |Key:<br />{{Colors|black|#90ff90|&nbsp;P&nbsp;}} <small>Participant&nbsp;</small> {{Colors|black|#FFFFDD|&nbsp;A&nbsp;}} <small>Absent&nbsp;</small> {{Colors|black|#ff9090|&nbsp;N&nbsp;}} <small>Not invited&nbsp;</small> {{Colors|black|#CCFFCC|&nbsp;I&nbsp;}} <small>Invited {{color box|#f0e68c|W}} Withdrawn</small>
+! scope="col" style="background:{{party color|Republican Party (US)}}" |
+! scope="col" style="background:{{party color|Democratic Party (US)}}" |
+|-
+! scope="col" | Jackson
+! scope="col" | Bottoms
+|-
+!1<ref name="anf-debate-26">{{cite web|access-date=2026-10-07|title=From grocery taxes to Flock cameras: Biggest moments in Georgia governor debate|url=https://www.atlantanewsfirst.com/2026/10/07/grocery-tax-flock-cameras-biggest-moments-georgia-governor-debate/|date=7 October 2026|website=[[Atlanta News First]]}}</ref>
+| style="white-space:nowrap;" | October 6, 2026
+| style="white-space:nowrap;" | [[Atlanta News First]]<br>[[Gray Media]]
+| style="white-space:nowrap;" | Rick Folbaum
+| [https://www.youtube.com/watch?v=j7CnmPxFCdw YouTube]
+| {{D-P|'''P'''}}
+| {{D-P|'''P'''}}
+|}
+
 ===Fundraising===
 {| class="wikitable sortable"
 |-

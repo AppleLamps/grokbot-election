@@ -1365,6 +1365,28 @@ Cassidy's stance led analysts to view him as vulnerable to a [[Trumpism|pro-Trum
 |22%
 |}
 
+===Results===
+{{Election box begin
+ | title=2026 United States Senate election in Louisiana
+}}
+{{Election box candidate with party link
+ | party=Republican Party (United States)
+ | candidate=[[Julia Letlow]]
+ | votes=
+ | percentage=
+ | change = }}
+{{Election box candidate with party link
+ | party=Democratic Party (United States)
+ | candidate=Jamie Davis
+ | votes=
+ | percentage=
+ | change = }}
+{{Election box total no change
+ | votes=
+ | percentage=100.0
+ | change = N/A}}
+{{Election box end}}
+
 ==Notes==
 {{Notelist}}
 ;Partisan clients

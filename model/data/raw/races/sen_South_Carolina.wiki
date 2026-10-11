@@ -735,22 +735,22 @@ U.S. President [[Donald Trump]] said that if she ran in the primary he would end
 | style="white-space:nowrap;" | [[Gray Media]]
 | style="white-space:nowrap;" | Judi Gatson
 | style="white-space:nowrap;" | [https://www.youtube.com/watch?v=D-6ZDNlJc7s YouTube]
-| {{Yes|'''P'''}}
-| {{Yes|'''P'''}}
-| {{Yes|'''P'''}}
-| {{Yes|'''P'''}}
-| {{Yes|'''P'''}}
+| {{D-P|'''P'''}}
+| {{D-P|'''P'''}}
+| {{D-P|'''P'''}}
+| {{D-P|'''P'''}}
+| {{D-P|'''P'''}}
 |-
 !2
 | style="white-space:nowrap;" | August 4, 2026
 | style="white-space:nowrap;" | [[Nexstar Media Group]]
 | style="white-space:nowrap;" | Alicia Barnes<br>Carolyn Murray
 | style="white-space:nowrap;" | [https://www.youtube.com/watch?v=QOKOkhvh0Es YouTube]
-| {{Yes|'''P'''}}
+| {{D-P|'''P'''}}
 | {{Pending|'''A'''}}
-| {{Yes|'''P'''}}
-| {{Yes|'''P'''}}
-| {{Yes|'''P'''}}
+| {{D-P|'''P'''}}
+| {{D-P|'''P'''}}
+| {{D-P|'''P'''}}
 |-
 |}
 
@@ -1015,8 +1015,8 @@ In ''[[The New York Times]]'', Michael Gold wrote that Trump had two main disput
 | style="white-space:nowrap;" |[[SCETV]]<br>[[Newsmax]]
 | style="white-space:nowrap;" | [[Greta Van Susteren]]<br>[[Van Hipp Jr.]]<br>Gavin Jackson
 | style="white-space:nowrap;" | [https://www.youtube.com/watch?v=PyxGkBSpS8g YouTube]
-| {{Yes|'''P'''}}
-| {{Yes|'''P'''}}
+| {{D-P|'''P'''}}
+| {{D-P|'''P'''}}
 |}
 
 ====Results====
@@ -1297,6 +1297,38 @@ In ''[[The New York Times]]'', Michael Gold wrote that Trump had two main disput
 *[[National Women's Political Caucus]]<ref>{{cite web |title=2026 Federal Endorsements |url=https://nwpc.org/endorsed-candidates/ |website=National Women's Political Caucus |access-date=September 16, 2026}}</ref>
 }}
 
+===Debates===
+{| class="wikitable" style="text-align:center;"
+|+ 2026 South Carolina U.S. Senate election debates
+|-
+! scope="col" | {{abbr|No.|Number}}
+! scope="col" | Date
+! scope="col" | Host
+! scope="col" | Moderator
+! scope="col" | Link
+! scope="col" | <small>[[Republican Party (United States)|Republican]]</small>
+! scope="col" | <small>[[Democratic Party (US)|Democratic]]</small>
+! scope="col" | <small>[[Libertarian Party (US)|Democratic]]</small>
+|-
+! colspan="5" rowspan="2" |Key:<br />{{Colors|black|#90ff90|&nbsp;P&nbsp;}} <small>Participant&nbsp;</small> {{Colors|black|#FFFFDD|&nbsp;A&nbsp;}} <small>Absent&nbsp;</small> {{Colors|black|#ff9090|&nbsp;N&nbsp;}} <small>Not invited&nbsp;</small> {{Colors|black|#CCFFCC|&nbsp;I&nbsp;}} <small>Invited {{color box|#f0e68c|W}} Withdrawn</small>
+! scope="col" style="background:{{party color|Republican Party (US)}}" |
+! scope="col" style="background:{{party color|Democratic Party (US)}}" |
+! scope="col" style="background:{{party color|Libertarian Party (US)}}" |
+|-
+! scope="col" | Graham
+! scope="col" | Andrews
+! scope="col" | Whitener
+|-
+!1<ref>{{Cite news |url=https://www.scetv.org/stories/2026/south-carolina-etv-and-public-radio-host-broadcast-and-livestream-south-carolina |title=South Carolina ETV and Public Radio to host, broadcast and livestream 'South Carolina Election 2026' U.S. Senate debate |last=Masters |first=Landon |work=[[South Carolina ETV]] |date=September 25, 2026 |access-date=October 11, 2026}}</ref>
+| style="white-space:nowrap;" | October 11, 2026
+| style="white-space:nowrap;" | [[South Carolina ETV]]<br />[[South Carolina Public Radio|SCPR]]
+| style="white-space:nowrap;" | Gavin Jackson
+| {{TBA}}
+| {{D-I|'''I'''}}
+| {{D-I|'''I'''}}
+| {{D-I|'''I'''}}
+|}
+
 ===Fundraising===
 {| class="wikitable sortable"
 |-
@@ -1333,50 +1365,42 @@ In ''[[The New York Times]]'', Michael Gold wrote that Trump had two main disput
 ! Margin
 |-
 |[[270toWin]]<ref>{{cite web|title=2026 Polls: South Carolina Senate|url=https://www.270towin.com/2026-senate-polls/south-carolina|website=[[270toWin]]|access-date=September 27, 2026}}</ref>
-|September 10–26, 2026
-|September 27, 2026
-|{{party shading/Republican}} |'''44.0%'''
-|42.5%
-|13.5%
-|{{party shading/Republican}} |'''Graham +1.5%'''
+|September 26 – October 2, 2026
+|October 11, 2026
+|{{party shading/Republican}} |'''44.5%'''
+|43.5%
+|12.0%
+|{{party shading/Republican}} |'''Graham +1.0%'''
 |-
 |[[FiftyPlusOne]]<ref>{{cite web|title=South Carolina General Senate Election|url=https://fiftyplusone.news/polls/senate/general/south-carolina|website=[[FiftyPlusOne]]|access-date=September 17, 2026}}</ref>
 |through September 29, 2026
-|October 2, 2026
-|{{party shading/Republican}} |'''44.5%'''
+|October 11, 2026
+|{{party shading/Republican}} |'''44.9%'''
 |43.4%
-|12.1%
-|{{party shading/Republican}} |'''Graham +1.1%'''
-|-
-|Race to the WH<ref>{{cite web|title=2026 Senate Polling|url=https://www.racetothewh.com/senate/26polls|website=Race to the White House|access-date=September 10, 2026}}</ref>
-|through September 29, 2026
-|October 2, 2026
-|{{party shading/Republican}} |'''45.2%'''
-|43.9%
-|10.9%
-|{{party shading/Republican}} |'''Graham +1.3%'''
+|11.7%
+|{{party shading/Republican}} |'''Graham +1.5%'''
 |-
 |[[RealClearPolitics]]<ref>{{cite web|title=2026 South Carolina Senate - Graham Nordone vs. Andrews|url=https://www.realclearpolling.com/polls/senate/general/2026/south-carolina/graham-nordone-vs-andrews|website=[[RealClearPolitics]]|access-date=September 16, 2026}}</ref>
-|September 14–29, 2026
-|October 2, 2026
-|{{party shading/Republican}} |'''45.7%'''
-|43.3%
-|11.0%
-|{{party shading/Republican}} |'''Graham +2.4%'''
+|September 23 – October 8, 2026
+|October 11, 2026
+|{{party shading/Republican}} |'''46.0%'''
+|44.0%
+|10.0%
+|{{party shading/Republican}} |'''Graham +2.0%'''
 |-
 |''[[Silver Bulletin]]''<ref name="Silver"/>
-|through September 25, 2026
-|October 2, 2026
-|{{party shading/Republican}} |'''44.1%'''
-|42.4%
-|13.5%
-|{{party shading/Republican}} |'''Graham +1.7%'''
+|through September 29, 2026
+|October 11, 2026
+|{{party shading/Republican}} |'''45.2%'''
+|42.7%
+|12.1%
+|{{party shading/Republican}} |'''Graham +2.5%'''
 |-
 | colspan="3" |'''Average'''
-|{{party shading/Republican}}|'''44.7%'''
-|43.1%
-|12.2%
-|{{party shading/Republican}}|'''Graham +1.6%'''
+|{{party shading/Republican}}|'''45.2%'''
+|43.4%
+|11.4%
+|{{party shading/Republican}}|'''Graham +1.8%'''
 |}
 
 {| class="wikitable" style="font-size:90%;text-align:center;"
@@ -1389,6 +1413,15 @@ In ''[[The New York Times]]'', Michael Gold wrote that Trump had two main disput
 ! style="width:100px;"| Annie<br />Andrews (D)
 ! Other 
 ! Undecided
+|-
+|style="text-align: left;" |[[Rasmussen Reports]] (R)<ref name="Rasmussen10/9">{{cite web |title=Election 2026: South Carolina Senate |url=https://www.rasmussenreports.com/public_content/politics/elections/election_2026/election_2026_south_carolina_senate |website=[[Rasmussen Reports]] |access-date=11 October 2026 |date=October 9, 2026}}</ref>
+|October 5–8, 2026
+|837 (LV)
+|±{{nbsp}}3.0%
+|{{party shading/Republican}}|'''49%'''
+|45%
+|–
+|6%
 |-
 |style="text-align: left;" |InsiderAdvantage (R)<ref>{{cite web|url=https://insideradvantage.com/insideradvantage-south-carolina-senate-graham-leads-by-one-point/|title=InsiderAdvantage South Carolina Senate: Graham Leads by One Point|date=October 2, 2026|access-date=October 2, 2026}}</ref>
 |September 28–29, 2026
@@ -1406,6 +1439,15 @@ In ''[[The New York Times]]'', Michael Gold wrote that Trump had two main disput
 |{{party shading/Republican}}|'''43%'''
 |42%
 |6%{{efn|"Other" with 6%}}
+|9%
+|-
+|style="text-align: left;" |[[Rasmussen Reports]] (R)<ref name="Rasmussen9/15">{{cite web |title=South Carolina Senate: Graham Leads by 5 Points |url=https://www.rasmussenreports.com/public_content/archive/election_2026/south_carolina_senate_graham_leads_by_5_points |website=[[Rasmussen Reports]] |access-date=11 October 2026 |date=September 15, 2026}}</ref>
+|September 14, 2026
+|1,006 (LV)
+|±{{nbsp}}3.0%
+|{{party shading/Republican}}|'''48%'''
+|43%
+|–
 |9%
 |-
 |style="text-align: left;" |InsiderAdvantage (R)<ref>{{Cite web |title=Top Line Tabs SC |url=https://insideradvantage.com/top-line-tabs-sc/ |website=InsiderAdvantage |date=September 10, 2026 |access-date=September 10, 2026}}</ref>

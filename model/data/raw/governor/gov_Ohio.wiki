@@ -427,7 +427,6 @@ Democrats have not won a gubernatorial election in Ohio since [[2006 Ohio gubern
 *[[Jaime Harrison]], former chair of the [[Democratic National Committee]] (2021–2025)<ref>{{cite web |title=Week in review: November 16, 2026 |url=https://ohiocpa.com/get-involved/news/2025/11/14/week-in-review--november-16--2026 |website=The Ohio Society of CPAs |access-date=November 20, 2025 |language=en}}</ref>
 
 ;Individuals
-*[[Nick Fuentes]], far-right political commentator<ref>{{cite news |last=Millard |first=Katie |date=May 15, 2026 |title=Analyst says far-right support for Amy Acton unlikely to sway Ohio voters |url= https://www.yahoo.com/news/articles/analyst-says-far-support-amy-110000029.html|access-date=May 15, 2026 |website=[[WCMH]] |via=[[Yahoo News]] |language=en-US}}</ref>
 *[[Ed O'Neill]], actor<ref>{{cite web |title='From Youngstown kid to another,' TV star Ed O'Neill endorses Amy Acton for Ohio governor |url=https://abc6onyourside.com/news/local/ohio-politicsyoungstown-actor-ed-oneill-endorses-dr-amy-acton-for-ohio-governor-married-with-children-modern-family-tim-ryan-vivek-ramaswamy-jim-tressel-democratic-primary-election-2025 |website=[[WSYX]] |access-date=September 8, 2025 |date=August 27, 2025}}</ref>
 *[[Connie Schultz]], columnist and wife of [[Sherrod Brown]]<ref>{{Cite web |last=Tobias |first=Andrew |date=November 21, 2025 |title=Democrat Tim Ryan passes on running in Ohio governor's race |url=https://signalohio.org/democrat-tim-ryan-passes-on-running-in-ohio-governors-race/ |access-date=January 3, 2026 |website=Signal Ohio |language=en-US}}</ref>
 
@@ -633,7 +632,7 @@ On September 6, Acton was attacked at a campaign event at the [[Canfield, Ohio|C
 * [[International Association of Fire Fighters|Ohio Association of Professional Fire Fighters]]<ref>{{Cite web |last=Lang |first=Marlena |date=August 3, 2026 |title=Ohio Association of Professional Firefighters endorses Amy Acton for governor |url=https://www.wcpo.com/news/local-news/ohio-association-of-professional-firefighters-endorses-amy-acton-for-governor |access-date=August 4, 2026 |website=WCPO 9 Cincinnati |language=en}}</ref>
 
 ;Individuals
-*[[Nick Fuentes]], far-right political commentator<ref>{{cite news|last=Millard |first=Katie |date=May 15, 2026 |title=Analyst says far-right support for Amy Acton unlikely to sway Ohio voters |url= https://www.yahoo.com/news/articles/analyst-says-far-support-amy-110000029.html|access-date=May 15, 2026 |website=Yahoo |language=en-US}}</ref>
+*[[Nick Fuentes]], far-right political commentator<ref>{{cite news |last=Millard |first=Katie |date=May 15, 2026 |title=Analyst says far-right support for Amy Acton unlikely to sway Ohio voters |url= https://www.yahoo.com/news/articles/analyst-says-far-support-amy-110000029.html|access-date=May 15, 2026 |website=[[WCMH]] |via=[[Yahoo News]] |language=en-US}}</ref>
 }}
 
 === Fundraising ===

@@ -1161,7 +1161,7 @@ Republicans criticized Bodnar over a transgender athlete's participation in wome
   |percentage = 
   |change     = 
 }}{{Election box candidate with party link
-  |party      = Independent (US)
+  |party      = Independent politician
   |candidate  = [[Seth Bodnar]]
   |votes      = 
   |percentage = 
