@@ -4192,8 +4192,17 @@ File:2026 California Gov Primary Chad Bianco counties.svg|Vote share of Bianco b
 ! Other
 ! Undecided
 |-
+|style="text-align:left;"|[[Manhattan Institute for Policy Research|Manhattan Institute]] (R)<ref>{{cite web |last1=Arm |first1=Jesse |last2=Shor |first2=Matthew |last3=Abramson |first3=Karl |title=California’s Contradictions: Survey Analysis of 2026 Voter Preferences Statewide and in Los Angeles |url=https://manhattan.institute/article/californias-contradictions-survey-analysis-of-2026-voter-preferences-statewide-and-in-los-angeles |website=[[Manhattan Institute for Policy Research]] |date=October 9, 2026}}</ref>
+|September 24 – October 1, 2026
+|1,000 (LV)
+|±&nbsp;3.1%
+|{{party shading/Democratic}}|'''57%'''
+|39%
+|1%{{Efn|"Neither" with 1%}}
+|3%
+|-
 |style="text-align:left;"|[[Independent Voter Project]]<ref>{{cite web|url=https://ivn.us/new-ca-poll-voter-id-measure-leads-today-its-undecided-voters-point-the-other-way/|title=New CA Poll: Voter ID Measure Leads Today. Its Undecided Voters Point the Other Way|first=Cara|last=Brown McCormick|work=Independent Voter News|date=October 4, 2026|access-date=October 5, 2026}}</ref>
-|September 23 – October 2, 2026
+|September 23–28, 2026
 |2,906 (LV)
 |±&nbsp;2.5%
 |{{party shading/Democratic}}|'''48%'''

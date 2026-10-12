@@ -794,6 +794,15 @@ The [[Senate Leadership Fund]]—first reported by ''[[Semafor (website)|Semafor
 ! Other
 ! Undecided
 |-
+|style="text-align:left;"|[[Trafalgar Group]] (R)<ref>{{Cite web |url=https://www.thetrafalgargroup.org/wp-content/uploads/2026/10/NC-Gen-Sen-Poll-Report-1011.pdf |title=North Carolina Statewide General Election Survey |work=[[Trafalgar Group]] |date=October 12, 2026 |access-date=October 12, 2026}}</ref>
+|October 8–10, 2026
+|1,091 (LV)
+|±{{nbsp}}2.9%
+|41%
+|{{party shading/Democratic}}|'''49%'''
+|3%{{Efn|Michael Dublin (G) with 2%; Shannon Bray (L) with 1%}}
+|7%
+|-
 |rowspan="2" style="text-align:left"|[[East Carolina University]]<ref name="ECU10/8">{{cite web |title=ECU Poll: Cooper's Lead Holds at 7 Points |url=https://surveyresearch-ecu.reportablenews.com/pr/ecu-poll-cooper-s-lead-holds-at-7-points |website=ECU Poll |access-date=8 October 2026 |date=October 8, 2026}}</ref>
 |rowspan="2"|September 30 – October 3, 2026
 |rowspan="2"|810 (LV)

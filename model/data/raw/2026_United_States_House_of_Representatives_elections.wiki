@@ -17,6 +17,8 @@
 | seats_for_election = All 435 seats in the [[United States House of Representatives]]{{efn |As well as five of the six [[Delegate (United States Congress)|non-voting delegates]].}}
 | majority_seats = 218
 | turnout = 
+<!-- | outgoing_members = 119th United States Congress#Representatives
+| elected_members = 120th United States Congress#Representatives-->
 | image_size = x200px
 | party1 = Republican Party (US)
 | image1 = Speaker Mike Johnson Official Portrait (cropped).jpg
