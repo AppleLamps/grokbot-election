@@ -375,33 +375,33 @@ This election will mark Oregon's first gubernatorial rematch since [[1978 Oregon
 !Ranking
 !As of
 |-
-|align=left|''[[The Cook Political Report]]''<ref>{{cite web|title=2026 CPR Governor Race ratings|url=https://www.cookpolitical.com/ratings/governor-race-ratings|website=[[The Cook Political Report]]|access-date=January 23, 2025}}</ref>
+|align=left|''[[The Cook Political Report]]''<ref>{{cite web|title=2026 CPR Governor Race ratings|url=https://www.cookpolitical.com/ratings/governor-race-ratings|website=[[The Cook Political Report]]|access-date=October 11, 2026}}</ref>
 |{{USRaceRating|Lean|D}}
-|September 10, 2026
+|October 1, 2026
 |-
-|align=left|[[Decision Desk HQ]]<ref name="DDHQ">{{cite web |title=2026 Governor Forecast |url=https://votes.decisiondeskhq.com/forecast/2026/governor |website=Decision Desk HQ |access-date=September 22, 2026}}</ref>
+|align=left|[[Decision Desk HQ]]<ref name="DDHQ">{{cite web |title=2026 Governor Forecast |url=https://votes.decisiondeskhq.com/forecast/2026/governor |website=[[Decision Desk HQ]] |access-date=October 11, 2026}}</ref>
 |{{USRaceRating|Likely|D}}
-|September 23, 2026
+|October 11, 2026
 |-
-|align=left|[[Fox News]]<ref>{{cite web |title=Fox News Power Rankings: The top races to watch as 36 states choose their next governor |url=https://www.foxnews.com/politics/fox-news-power-rankings-top-races-watch-36-states-choose-next-governor |website=[[Fox News]] |publisher=Rémy Numa |access-date=July 24, 2026}}</ref>
+|align=left|[[Fox News]]<ref>{{Cite news |last=Numa |first=Rémy |title=Fox News Power Rankings: The biggest surprises come after October |url=https://www.foxnews.com/politics/fox-news-power-rankings-the-biggest-surprises-come-after-october |work=[[Fox News]] |date=October 6, 2026 |access-date=October 11, 2026}}</ref>
 |{{USRaceRating|Lean|D}}
 |October 6, 2026
 |-
-|align=left|''[[Inside Elections]]''<ref>{{Cite web|title=Gubernatorial Ratings|url=https://insideelections.com/ratings/governor|access-date=February 7, 2025|website=[[Inside Elections]]}}</ref>
+|align=left|''[[Inside Elections]]''<ref>{{Cite web|title=Gubernatorial Ratings|url=https://insideelections.com/ratings/governor|access-date=October 11, 2026|website=[[Inside Elections]]}}</ref>
 |{{USRaceRating|Lean|D}}
-|September 3, 2026
+|October 1, 2026
 |-
-|align="left"|[[RealClearPolitics]]<ref>{{Cite web|title=2026 Governor Races {{!}} RealClearPolitics|url=https://www.realclearpolling.com/maps/governor/2026/toss-up|access-date=October 5, 2026|website=[[RealClearPolitics]]|archive-url=https://web.archive.org/web/20260601183127/https://www.realclearpolling.com/maps/governor/2026/toss-up|archive-date=June 1, 2026|url-status=dead}}</ref>
+|align="left"|[[RealClearPolitics]]<ref>{{Cite web|url=https://www.realclearpolling.com/maps/governor/2026/toss-up |title=2026 Governor Races |website=[[RealClearPolitics]] |access-date=October 11, 2026}}</ref>
 |{{USRaceRating|Lean|D}}
 |October 5, 2026
 |-
-|align=left|''[[Sabato's Crystal Ball]]''<ref>{{cite web|title=2026 Governor|url=https://centerforpolitics.org/crystalball/2026-governor/|website=[[Sabato's Crystal Ball]]|access-date=May 1, 2025}}</ref>
+|align=left|''[[Sabato's Crystal Ball]]''<ref>{{cite web|title=2026 Governor|url=https://centerforpolitics.org/crystalball/2026-governor/|website=[[Sabato's Crystal Ball]]|access-date=October 11, 2026}}</ref>
 |{{USRaceRating|Lean|D}}
-|October 6, 2025
+|October 6, 2026
 |-
-| style="text-align: left;" |[[Silver Bulletin]]<ref name=":Silver">{{Cite web |last=Silver |first=Nate |date=August 20, 2026 |title=FLIPR 2026 midterm election forecast |url=https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model |url-access=subscription |access-date=August 20, 2026 |website=www.natesilver.net |language=en}}</ref>
-| {{US political race rating|Likely|D}}
-|August 25, 2026
+|align="left"|[[Silver Bulletin]]<ref name="Silver">{{Cite web |url=https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model |title=FLIPR 2026 midterm election forecast |last1=Silver |first1=Nate |author1-link=Nate Silver |last2=McKown-Dawson |first2=Eli |website=[[Silver Bulletin]] |via=[[Substack]] |date=October 11, 2026 |orig-date=August 11, 2026 |access-date=October 11, 2026 |url-access=subscription}}</ref>
+|{{USRaceRating|Likely|D}}
+|October 11, 2026
 |}
 
 === Debates ===
@@ -432,8 +432,8 @@ This election will mark Oregon's first gubernatorial rematch since [[1978 Oregon
 |style="white-space:nowrap;"| [[University of Oregon]]
 |style="white-space:nowrap;"| Kendall Bartley
 |style="white-space:nowrap;"|<ref>{{Cite web|url=https://www.youtube.com/watch?v=VUR0fsIADZU|publisher=[[KATU]]|title=ELECTION 2026: Kotek, Drazan face off in televised debate in Oregon governor’s race |date=October 1, 2026 |access-date=October 2, 2026 |via=YouTube}}</ref>
-| {{Yes|'''P'''}}
-| {{Yes|'''P'''}}
+| {{D-P|'''P'''}}
+| {{D-P|'''P'''}}
 |- style="background:#fff; font-size:small;"
 |}
 
@@ -490,7 +490,7 @@ This election will mark Oregon's first gubernatorial rematch since [[1978 Oregon
 ! style="width:100px;"| Other/Undecided<br />{{Efn|Calculated by taking the difference of 100% and all other candidates combined.|name=|group=}}
 ! Margin
 |-
-|''[[Silver Bulletin]]''<ref>{{Cite web|title=FLIPR 2026 midterm election forecast|url=https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model|work=[[Silver Bulletin]]|access-date=September 13, 2026}}</ref>
+|''[[Silver Bulletin]]''<ref name="Silver"/>
 |through October 1, 2026
 |October 8, 2026
 |{{party shading/Democratic}}|'''45.9%'''

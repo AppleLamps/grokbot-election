@@ -1085,7 +1085,7 @@ On August 11, 2026, the [[Associated Press]] and [[NBC News]] called the race fo
 |–
 |7%
 |-
-|style="text-align:left;"|[[Morning Consult]]<ref>{{cite web |title= morning take {{!}} The Daily Agenda Poll |url= https://www.thedailyagenda.com/p/morning-take-the-daily-agenda-poll/|publisher=The Daily Poll|access-date=October 9, 2026 |date=September 30, 2026}}</ref>
+|style="text-align:left;"|[[Morning Consult]]<ref>{{cite web |title= morning take {{!}} The Daily Agenda Poll |url= https://www.thedailyagenda.com/p/morning-take-the-daily-agenda-poll/|publisher=The Daily Poll|access-date=October 9, 2026 |date=September 30, 2026}}</ref>{{Efn-ua|Poll conducted for The Daily Agenda}}
 |October 2–7, 2026
 |1,000 (RV)
 |±{{nbsp}}3.1%

@@ -654,6 +654,24 @@ On September 23, ''[[The New York Times]]'' published allegations from anonymous
 ! style="width:60px;"| Gerald<br />Heikes (R)
 ! Undecided /<br /> Not Ranked
 |-
+|rowspan=2 style="text-align: left;" |InsiderAdvantage (R)<ref name="IAOct2026">{{cite web|url=https://insideradvantage.com/insideradvantage-u-s-senate-surveys-alaska-ranks-choice-peltola-50-sullivan-48-kansas-hamilton-48-marshall-47-michigan-el-sayed-48-rogers-46/|title=InsiderAdvantage U.S. Senate Surveys: Alaska (Ranks Choice) Peltola 50%, Sullivan 48%; Kansas Hamilton 48%, Marshall, 47%; Michigan El-Sayed 48%, Rogers 46%|date=October 11, 2026|access-date=October 11, 2026}}</ref>
+|rowspan=2|October 9–10, 2026
+|rowspan=2|1,200 (LV)
+|rowspan=2|±&nbsp;2.8%
+|{{abbr|BA|Before allocation}}
+|43%
+|style="background:#cce0ff"|'''48%'''
+|2%
+|2%
+|5% {{small|U}}
+|-
+|1{{efn|Gerald Heikes and Dan J. Sullivan were eliminated and their votes were distributed simultaneously}}
+|48%
+|{{party shading/Democratic}}|'''50%'''
+|–
+|–
+|2% {{small|U}}
+|-
 |rowspan=4 style="text-align:left;"|Alaska Survey Research<ref name="ASROct2026">{{cite tweet|user=The_Real_ASR|number=2107851752464884167|title=Mary Peltola continues to lead Alaska's pivotal Senate race.
 |access-date=October 9, 2026}}</ref>
 |rowspan=4|October 1–3, 2026
@@ -805,7 +823,7 @@ On September 23, ''[[The New York Times]]'' published allegations from anonymous
 ! Other
 ! Undecided
 |-
-|style="text-align: left;" |InsiderAdvantage (R)<ref>{{cite web|url=https://insideradvantage.com/insideradvantage-u-s-senate-surveys-alaska-ranks-choice-peltola-50-sullivan-48-kansas-hamilton-48-marshall-47-michigan-el-sayed-48-rogers-46/|title=InsiderAdvantage U.S. Senate Surveys: Alaska (Ranks Choice) Peltola 50%, Sullivan 48%; Kansas Hamilton 48%, Marshall, 47%; Michigan El-Sayed 48%, Rogers 46%|date=October 11, 2026|access-date=October 11, 2026}}</ref>
+|style="text-align: left;" |InsiderAdvantage (R)<ref name="IAOct2026"/>{{efn|name="First"|First-choice results from a ranked-choice poll}}
 |October 9–10, 2026
 |1,200 (LV)
 |±{{nbsp}}2.8%
@@ -815,6 +833,16 @@ On September 23, ''[[The New York Times]]'' published allegations from anonymous
 |2%
 |{{sdash}}
 |5%
+|-
+| style="text-align:left;"|Alaska Survey Research<ref name="ASROct2026"/>{{efn|name="First"}}
+|October 1–3, 2026
+|1,512 (LV)
+|±&nbsp;3.0%
+|45%
+|{{Party shading/Democratic}} | '''47%'''
+|5%
+|3%
+|{{sdash}}
 |-
 | style="text-align:left;|[[New York Times]]/[[Siena University (New York)|Siena University]]<ref>{{cite web|title=Toplines: September 2026 Times/Siena Poll of the Likely Electorate in Alaska|url=https://www.nytimes.com/interactive/2026/10/03/polls/times-siena-alaska-poll-toplines.html |date=October 3, 2026 |access-date=October 3, 2026}}</ref>
 |September 24 – October 1, 2026
@@ -892,7 +920,7 @@ On September 23, ''[[The New York Times]]'' published allegations from anonymous
 |{{sdash}}
 |9%
 |-
-| style="text-align:left;|Alaska Survey Research<ref name="ASRSept2026"/>{{efn|name="First"|First-choice results from a ranked-choice poll}}
+| style="text-align:left;|Alaska Survey Research<ref name="ASRSept2026"/>{{efn|name="First"}}
 |September 10–12, 2026
 |1,352 (LV)
 |±&nbsp;3.0%

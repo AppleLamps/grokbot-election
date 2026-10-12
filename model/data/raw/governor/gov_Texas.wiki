@@ -18,7 +18,7 @@
 | party1 = Republican Party of Texas
 | popular_vote1 = 
 | percentage1 = 
-| image2 = GinaHinojosa.jpg
+| image2 = Gina Hinojosa at LBJ Library Forum (3x4 cropped).jpg
 | nominee2 = [[Gina Hinojosa]]
 | party2 = Texas Democratic Party
 | popular_vote2 = 
@@ -470,33 +470,33 @@ If Abbott is re-elected and serves out his fourth term, he will become the state
 !Ranking
 !As of
 |-
-|align=left|''[[The Cook Political Report]]''<ref>{{cite web|title=2026 CPR Governor Race ratings|url=https://www.cookpolitical.com/ratings/governor-race-ratings|website=[[The Cook Political Report]]|access-date=October 1, 2026}}</ref>
+|align=left|''[[The Cook Political Report]]''<ref>{{cite web|title=2026 CPR Governor Race ratings|url=https://www.cookpolitical.com/ratings/governor-race-ratings|website=[[The Cook Political Report]]|access-date=October 11, 2026}}</ref>
 |{{USRaceRating|Lean|R}}
 |October 1, 2026
 |-
-|align=left|[[Decision Desk HQ]]<ref name="DDHQ">{{cite web |title=2026 Governor Forecast |url=https://votes.decisiondeskhq.com/forecast/2026/governor |website=Decision Desk HQ |access-date=September 22, 2026}}</ref>
+|align=left|[[Decision Desk HQ]]<ref name="DDHQ">{{cite web |title=2026 Governor Forecast |url=https://votes.decisiondeskhq.com/forecast/2026/governor |website=[[Decision Desk HQ]] |access-date=October 11, 2026}}</ref>
 |{{USRaceRating|Lean|R}}
-|September 23, 2026
+|October 11, 2026
 |-
-|align=left|[[Fox News]]<ref>{{Cite news |last=Numa |first=Rémy |title=Fox News Power Rankings: For the Democrats, where could it possibly go wrong? |url=https://www.foxnews.com/politics/fox-news-power-rankings-democrats-where-could-go-wrong |work=[[Fox News]] |date=September 22, 2026 |access-date=September 22, 2026}}</ref>
+|align=left|[[Fox News]]<ref>{{Cite news |last=Numa |first=Rémy |title=Fox News Power Rankings: The biggest surprises come after October |url=https://www.foxnews.com/politics/fox-news-power-rankings-the-biggest-surprises-come-after-october |work=[[Fox News]] |date=October 6, 2026 |access-date=October 11, 2026}}</ref>
 |{{USRaceRating|Lean|R}}
-|September 22, 2026
+|October 6, 2026
 |-
-|align=left|''[[Inside Elections]]''<ref>{{Cite web|title=Gubernatorial Ratings|url=https://insideelections.com/ratings/governor|access-date=February 7, 2025|website=[[Inside Elections]]}}</ref>
+|align=left|''[[Inside Elections]]''<ref>{{Cite web|title=Gubernatorial Ratings|url=https://insideelections.com/ratings/governor|access-date=October 11, 2026|website=[[Inside Elections]]}}</ref>
 |{{USRaceRating|Likely|R}}
-|September 17, 2026
+|October 1, 2026
 |-
-|align="left"|[[RealClearPolitics]]<ref>{{Cite web|title=2026 Governor Races {{!}} RealClearPolitics|url=https://www.realclearpolling.com/maps/governor/2026/toss-up|access-date=September 22, 2026|website=[[RealClearPolitics]]|archive-url=https://web.archive.org/web/20260601183127/https://www.realclearpolling.com/maps/governor/2026/toss-up|archive-date=June 1, 2026|url-status=dead}}</ref>
+|align="left"|[[RealClearPolitics]]<ref>{{Cite web|url=https://www.realclearpolling.com/maps/governor/2026/toss-up |title=2026 Governor Races |website=[[RealClearPolitics]] |access-date=October 11, 2026}}</ref>
 |{{USRaceRating|Tossup}}
-|September 22, 2026
+|October 5, 2026
 |-
-|align=left|''[[Sabato's Crystal Ball]]''<ref>{{cite web|title=2026 Governor|url=https://centerforpolitics.org/crystalball/2026-governor/|website=[[Sabato's Crystal Ball]]|access-date=May 1, 2025}}</ref>
+|align=left|''[[Sabato's Crystal Ball]]''<ref>{{cite web|title=2026 Governor|url=https://centerforpolitics.org/crystalball/2026-governor/|website=[[Sabato's Crystal Ball]]|access-date=October 11, 2026}}</ref>
 |{{USRaceRating|Lean|R}}
-|September 22, 2026
+|October 6, 2026
 |-
-| style="text-align: left;"|''[[Silver Bulletin]]''<ref name="Silver">{{Cite web |url=https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model |title=FLIPR 2026 midterm election forecast |last1=Silver |first1=Nate |author1-link=Nate Silver |last2=McKown-Dawson |first2=Eli |website=[[Silver Bulletin]] |via=[[Substack]] |access-date=August 20, 2026 |url-access=subscription}}</ref>
-| {{US political race rating|Lean|R}}
-|September 23, 2026
+|align="left"|[[Silver Bulletin]]<ref name="Silver">{{Cite web |url=https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model |title=FLIPR 2026 midterm election forecast |last1=Silver |first1=Nate |author1-link=Nate Silver |last2=McKown-Dawson |first2=Eli |website=[[Silver Bulletin]] |via=[[Substack]] |date=October 11, 2026 |orig-date=August 11, 2026 |access-date=October 11, 2026 |url-access=subscription}}</ref>
+|{{USRaceRating|Lean|R}}
+|October 11, 2026
 |}
 
 === Post-primary endorsements ===

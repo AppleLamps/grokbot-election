@@ -482,10 +482,8 @@ Formerly a [[swing state]], Florida has shifted increasingly to the Republican P
 *[[National Women's Political Caucus]]<ref>{{cite web |title=2026 Federal Endorsements |url=https://nwpc.org/endorsed-candidates/ |publisher=National Women's Political Caucus |access-date=September 16, 2026}}</ref>
 *[[Planned Parenthood Action Fund]]<ref>{{cite web |last1=Leonard |first1=Kimberly |title=Worrell gets a warning (Florida Playbook) |url=https://www.politico.com/newsletters/florida-playbook/2026/09/02/worrell-gets-a-warning-01061323 |website=[[POLITICO]] |access-date=September 27, 2026 |date=September 2, 2026}}</ref>
 *[[Voters of Tomorrow]]<ref>{{cite web |last1=Gaynor |first1=Gerren Keith |title=Exclusive: Major youth voting group backs 3 progressive Black candidates ahead of election day |url=https://thegrio.com/2026/10/05/exclusive-voters-of-tomorrow-endorsements-black-candidates/ |website=[[TheGrio]] |access-date=October 8, 2026 |date=October 5, 2026}}</ref>
-
-===Declined to endorse===
-
-;Local officials
+}}
+{{Endorsements box|title=Declined to endorse|list=;Local officials
 *[[Donna Deegan]], mayor of [[Jacksonville, Florida]] (2023–present)<ref>{{cite news |last=Johnson |first=Bob |date=October 8, 2026 |title=Deegan won't back Nixon, saying it's 'federal' despite endorsing Kamala Harris in 2024 |url=https://flvoicenews.com/deegan-wont-back-nixon-saying-its-federal-despite-endorsing-kamala-harris-in-2024/ |website=Florida Voice News |access-date=October 11, 2026}}</ref>
 }}
 

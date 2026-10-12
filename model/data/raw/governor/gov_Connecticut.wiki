@@ -424,7 +424,7 @@ In the following months before the convention, [[Erin Stewart]], the former mayo
 ! style="width:100px;" |Other/<wbr/>Undecided{{Efn|Calculated by taking the difference of 100% and all other candidates combined.}}
 !Margin
 |-
-|[[270toWin]]<ref>{{cite web |title=2026 Polls: Connecticut Governor |url=https://www.270towin.com/2026-governor-polls/connecticut |access-date=October 22, 2026 |website=[[270toWin]]}}</ref>
+|[[270toWin]]<ref>{{cite web |title=2026 Polls: Connecticut Governor |url=https://www.270towin.com/2026-governor-polls/connecticut |access-date= |website=[[270toWin]]}}</ref>
 |September 1–21, 2026<!--Remember that dates listed on 270toWin are poll *publication dates*, not the dates when the polls were *administered*. Dates listed here should be dates *administered*-->
 |September 22, 2026
 |{{party shading/Democratic}} |'''51.8%'''

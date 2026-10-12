@@ -911,13 +911,13 @@ Hashes indicate a tie.
 ! Undecided
 |-
 |style="text-align:left;"|[[Morning Consult]] (D)<ref>{{cite web |title= morning take |url= https://www.thedailyagenda.com/p/morning-take-the-daily-agenda-poll/
-|publisher=The Daily Agenda|access-date=October 9, 2026 |date=September 30, 2026}}</ref>
+|publisher=The Daily Agenda|access-date=October 9, 2026 |date=September 30, 2026}}</ref>{{Efn-ua|Poll conducted for The Daily Agenda}}
 |October 2–7, 2026
 |1,000 (RV)
 |±{{nbsp}}3.1%
 | {{party shading/DFL}} |'''48%'''
 |39%
-|4%
+|4%{{Efn|"Another candidate" with 4%}}
 |9%
 |-
 |style="text-align:left;"|co/efficient (R)<ref>{{cite web |title=Minnesota · U.S. Senate|url=https://battlegrounds.coefficient.org/mn/ |publisher=co/efficient |access-date=September 15, 2026 |date=September 15, 2026}}</ref>
