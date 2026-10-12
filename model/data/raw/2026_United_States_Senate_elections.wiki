@@ -1296,9 +1296,7 @@ The [[Democratic Party (United States)|Democratic]]-held Senate race expected to
 
 In [[2026 United States Senate election in Georgia|Georgia]], incumbent Democratic senator [[Jon Ossoff]] is running against Republican [[Mike Collins (politician)|Mike Collins]], the [[U.S. representative]] from {{ushr|GA|10}}.<ref>{{cite news |department= AJC Politics |access-date= July 18, 2025 |title= U.S. Rep. Mike Collins prepares Senate run in Georgia, aiming to seize MAGA lane |date= July 18, 2025 |url= https://www.ajc.com/politics/2025/07/us-rep-mike-collins-prepares-senate-run-in-georgia-aiming-to-seize-maga-lane/ |work= [[The Atlanta Journal-Constitution]] |author= Bluestein, Greg}}</ref> The race was initially expected to be very competitive,<ref name= "el" /> but election predictors have become increasingly confident of Ossoff's prospects.<ref>{{cite web |url= https://thehill.com/homenews/campaign/5999066-ossoff-georgia-sabatos-crystal-ball-uva/ |last= Mancini |first= Ryan |date= July 30, 2026 |access-date= August 5, 2026|website= The Hill |title= Ossoff reelection bid, 5 House seats move toward Democrats: Sabato's Crystal Ball}}</ref>
 
-== election ==
-==Election dates ==
-
+== Election dates ==
 {| class="wikitable sortable"
 |-
 ! State

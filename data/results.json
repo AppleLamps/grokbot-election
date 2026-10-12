@@ -433,7 +433,7 @@
     "pres_style_D_overstatement": 0.99714,
     "r_overstatement_2025": 0.99956
    },
-   "market_p_dem": 0.9865
+   "market_p_dem": 0.986
   },
   {
    "state": "OR",
@@ -458,7 +458,7 @@
     "pres_style_D_overstatement": 0.99688,
     "r_overstatement_2025": 0.99961
    },
-   "market_p_dem": 0.9805
+   "market_p_dem": 0.981
   },
   {
    "state": "CO",
@@ -508,7 +508,7 @@
     "pres_style_D_overstatement": 0.984,
     "r_overstatement_2025": 0.99841
    },
-   "market_p_dem": 0.9845
+   "market_p_dem": 0.9835
   },
   {
    "state": "NM",
@@ -558,7 +558,7 @@
     "pres_style_D_overstatement": 0.97855,
     "r_overstatement_2025": 0.99825
    },
-   "market_p_dem": 0.982
+   "market_p_dem": 0.9815
   },
   {
    "state": "NJ",
@@ -608,7 +608,7 @@
     "pres_style_D_overstatement": 0.86758,
     "r_overstatement_2025": 0.99447
    },
-   "market_p_dem": 0.962
+   "market_p_dem": 0.963
   },
   {
    "state": "GA",
@@ -633,7 +633,7 @@
     "pres_style_D_overstatement": 0.84555,
     "r_overstatement_2025": 0.99306
    },
-   "market_p_dem": 0.962
+   "market_p_dem": 0.9625
   },
   {
    "state": "MN",
@@ -708,7 +708,7 @@
     "pres_style_D_overstatement": 0.63909,
     "r_overstatement_2025": 0.96888
    },
-   "market_p_dem": 0.695
+   "market_p_dem": 0.705
   },
   {
    "state": "ME",
@@ -1008,7 +1008,7 @@
     "pres_style_D_overstatement": 0.00332,
     "r_overstatement_2025": 0.0306
    },
-   "market_p_dem": 0.025
+   "market_p_dem": 0.024
   },
   {
    "state": "KY",
@@ -1033,7 +1033,7 @@
     "pres_style_D_overstatement": 0.00319,
     "r_overstatement_2025": 0.03028
    },
-   "market_p_dem": 0.0235
+   "market_p_dem": 0.0265
   },
   {
    "state": "TN",
@@ -1058,7 +1058,7 @@
     "pres_style_D_overstatement": 0.00234,
     "r_overstatement_2025": 0.02323
    },
-   "market_p_dem": 0.057
+   "market_p_dem": 0.0585
   },
   {
    "state": "MT",
@@ -1083,7 +1083,7 @@
     "pres_style_D_overstatement": 0.00148,
     "r_overstatement_2025": 0.02769
    },
-   "market_p_dem": 0.061
+   "market_p_dem": 0.059
   },
   {
    "state": "AR",
@@ -1158,7 +1158,7 @@
     "pres_style_D_overstatement": 0.00123,
     "r_overstatement_2025": 0.01119
    },
-   "market_p_dem": 0.0205
+   "market_p_dem": 0.0185
   },
   {
    "state": "ID",
@@ -1183,7 +1183,7 @@
     "pres_style_D_overstatement": 0.00042,
     "r_overstatement_2025": 0.00364
    },
-   "market_p_dem": 0.037
+   "market_p_dem": 0.04
   },
   {
    "state": "WV",
@@ -1208,7 +1208,7 @@
     "pres_style_D_overstatement": 9e-05,
     "r_overstatement_2025": 0.00066
    },
-   "market_p_dem": 0.011
+   "market_p_dem": 0.0125
   },
   {
    "state": "WY",
@@ -1446,7 +1446,7 @@
    "poll_end_date": "",
    "poll_note": "No poll used (race unanimously rated safe or no public polls); ratings prior only",
    "est_margin": 16.0,
-   "market_p_dem": 0.989,
+   "market_p_dem": 0.99,
    "p_dem": {
     "unbiased": 0.97467,
     "pres_style_D_overstatement": 0.94791,
@@ -1470,7 +1470,7 @@
    "poll_end_date": "",
    "poll_note": "No poll used (race unanimously rated safe or no public polls); ratings prior only",
    "est_margin": 14.999,
-   "market_p_dem": 0.979,
+   "market_p_dem": 0.976,
    "p_dem": {
     "unbiased": 0.96716,
     "pres_style_D_overstatement": 0.93395,
@@ -1662,7 +1662,7 @@
    "poll_end_date": "2026-10-03",
    "poll_note": "Final RCV round of nonpartisan polls: Alaska Survey Research Oct 1-3 (Kreiss-Tomkins 54-46) and NYT/Siena Sep 24-Oct 1 (52-48); mean D+6.0",
    "est_margin": 4.542,
-   "market_p_dem": 0.784,
+   "market_p_dem": 0.785,
    "p_dem": {
     "unbiased": 0.76212,
     "pres_style_D_overstatement": 0.59846,
@@ -1734,7 +1734,7 @@
    "poll_end_date": "2026-09-26",
    "poll_note": "Mean of Wikipedia-listed aggregators: Decision Desk HQ -2.4, FiftyPlusOne -0.4, RealClearPolitics +0.0, Silver Bulletin -0.8",
    "est_margin": -0.8076,
-   "market_p_dem": 0.54,
+   "market_p_dem": 0.545,
    "p_dem": {
     "unbiased": 0.44328,
     "pres_style_D_overstatement": 0.25153,
@@ -1782,7 +1782,7 @@
    "poll_end_date": "2026-10-05",
    "poll_note": "Mean of Wikipedia-listed aggregators: 270toWin -1.4, Decision Desk HQ -0.7, FiftyPlusOne -2.4, RealClearPolitics -1.9, Silver Bulletin -1.4",
    "est_margin": -2.001,
-   "market_p_dem": 0.21,
+   "market_p_dem": 0.215,
    "p_dem": {
     "unbiased": 0.36793,
     "pres_style_D_overstatement": 0.20015,
@@ -1806,7 +1806,7 @@
    "poll_end_date": "2026-10-07",
    "poll_note": "Mean of Wikipedia-listed aggregators: 270toWin -3.7, Decision Desk HQ -4.1, FiftyPlusOne -3.9, RealClearPolitics -5.3, Silver Bulletin -4.2",
    "est_margin": -4.279,
-   "market_p_dem": 0.225,
+   "market_p_dem": 0.22,
    "p_dem": {
     "unbiased": 0.22642,
     "pres_style_D_overstatement": 0.10332,
@@ -1830,7 +1830,7 @@
    "poll_end_date": "2026-10-04",
    "poll_note": "Mean of State Navigate Oct 2-4 LV (Scott 46-43), Braun/Vermont Public Sep 10-21 LV (44-34), UNH Sep 17-21 LV (Janoo 49-43)",
    "est_margin": -4.4755,
-   "market_p_dem": 0.251,
+   "market_p_dem": 0.23,
    "p_dem": {
     "unbiased": 0.22112,
     "pres_style_D_overstatement": 0.10212,
@@ -1998,7 +1998,7 @@
    "poll_end_date": "2026-10-05",
    "poll_note": "Mean of Wikipedia-listed aggregators: 270toWin -12.5, Race to the WH -10.1, RealClearPolitics -10.7, Silver Bulletin -11.0",
    "est_margin": -10.66297,
-   "market_p_dem": 0.059,
+   "market_p_dem": 0.057,
    "p_dem": {
     "unbiased": 0.03076,
     "pres_style_D_overstatement": 0.00991,
@@ -2110,7 +2110,7 @@
   "up_R": 18
  },
  "markets": {
-  "as_of": "2026-10-12 03:19 ET",
+  "as_of": "2026-10-12 06:07 ET",
   "note": "Prediction-market prices for comparison only; not a model input.",
   "senate_p_D": {
    "polymarket": 0.635,
