@@ -272,23 +272,15 @@ Incumbent governor [[JB Pritzker]], a member of the Democratic Party, has comfor
 |}
 
 ===Post-primary endorsements===
-{{Endorsements box
-|title=JB Pritzker (D)
-|width=50em
-|list=
-'''State legislators'''
-*[[Jim Durkin]], former minority leader of the [[Illinois House of Representatives]] from the 82nd district (2013–2023) ''(Republican)''<ref>{{Cite web |last=Karlin |first=Ryan J. |title=Here are the Republicans backing Democratic candidates in the midterms |url=https://thehill.com/homenews/campaign/6120527-republicans-endorse-democrats-midterms/ |access-date=October 5, 2026 |website=[[The Hill (newspaper)|The Hill]]}}</ref>
+{{Endorsements box|title=JB Pritzker (D)|list=;State legislators
+*[[Jim Durkin]], former minority leader of the [[Illinois House of Representatives]] (2013–2023) from HD-82 (2006–2023) ''(Republican)''<ref>{{Cite web|last=Karlin|first=Ryan J.|date=October 7, 2026|title=Here are the Republicans backing Democratic candidates in the midterms|url=https://thehill.com/homenews/campaign/6120527-republicans-endorse-democrats-midterms/|work=[[The Hill (newspaper)|The Hill]]|access-date=October 5, 2026}}</ref>
 '''Organizations'''
 *[[End Citizens United]]<ref>{{Cite tweet |author=End Citizens United |author-link=End Citizens United |user=StopBigMoney |number=2059657642985828398 |title=🚨ENDORSEMENT ALERT🚨 We're proud to endorse Illinois Governor @JBPritzker for re-election. |date=May 27, 2026 |access-date=May 27, 2026}}</ref>
 *[[Giffords]]<ref>{{cite web |title=GIFFORDS PAC endorses Governor JB Pritzker and Christian Mitchell in Illinois |url=https://giffords.org/press-release/2026/04/giffords-pac-endorses-governor-jb-pritzker-and-christian-mitchell-in-illinois/ |website=[[Giffords]] |access-date=April 23, 2026 |date=23 April 2026}}</ref>
 *[[Human Rights Campaign]]<ref name="HRCAugust">{{cite web |title=Human Rights Campaign PAC Endorses Slate of Pro-Equality Candidates |url=https://www.hrc.org/press-releases/human-rights-campaign-pac-endorses-slate-of-pro-equality-candidates-for-governor-in-key-states |website=HRC |access-date=30 August 2026 |date=27 August 2026}}</ref>
 }}
-{{Endorsements box
-|title=Darren Bailey (R)
-|width=50em
-|list=
-'''U.S. Executive Branch officials'''
-*[[Donald Trump]], 45th and 47th [[president of the United States]] (2017–2021, 2025–present)<ref>https://www.chicagotribune.com/2026/09/14/donald-trump-endorses-darren-bailey/</ref>
+{{Endorsements box|title=Darren Bailey (R)|list=;Executive branch officials
+*[[Donald Trump]], [[president of the United States]] (2017–2021, 2025–present)<ref>{{Cite web|last=Pearson|first=Rick|date=September 14, 2026|title=Trump backs Darren Bailey for Illinois governor as GOP candidate has sought to distance himself from president|url=https://www.chicagotribune.com/2026/09/14/donald-trump-endorses-darren-bailey/|work=[[Chicago Tribune]]|access-date=October 12, 2026}}</ref>
 }}
 
 === Polling ===

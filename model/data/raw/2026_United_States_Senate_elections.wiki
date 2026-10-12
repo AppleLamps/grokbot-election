@@ -731,7 +731,7 @@ See [[Template:USRaceRating]] for how to apply rating.
 ! [[FiftyPlusOne|FPO]]<br />{{Small|Oct 11,<br />2026}}<ref name=":7">{{Cite web |title=2026 Congressional Forecast |url=https://fiftyplusone.news/forecast/senate/ |access-date=October 11, 2026 |website=FiftyPlusOne |language=en}}</ref>
 ! [[Fox News|Fox]]<br />{{small|Oct 6,<br/>2026}}<ref>{{Cite news |last=Numa |first=Rémy |title=Fox News Power Rankings: The biggest surprises come after October |url=https://www.foxnews.com/politics/fox-news-power-rankings-the-biggest-surprises-come-after-october |work=[[Fox News]] |date=October 6, 2026 |access-date=October 6, 2026}}</ref>
 ! ''[[Inside Elections|IE]]''<br />{{small|Oct 1,<br />2026}}<ref>{{Cite web |title=Senate Ratings |url=https://www.insideelections.com/ratings/senate |access-date=October 1, 2026 |website=Inside Elections}}</ref>
-! [[RealClearPolitics|RCP]]<br />{{small|Oct 5,<br />2026}}<ref>{{Cite web |title=Battle for the Senate 2026 |url=https://www.realclearpolling.com/maps/senate/2026/toss-up |access-date=October 11, 2026 |website=realclearpolling.com |language=en}}</ref>
+! [[RealClearPolitics|RCP]]<br />{{small|Oct 12,<br />2026}}<ref>{{Cite web |title=Battle for the Senate 2026 |url=https://www.realclearpolling.com/maps/senate/2026/toss-up |access-date=October 12, 2026 |website=realclearpolling.com |language=en}}</ref>
 ! [[Sabato's Crystal Ball|Sabato]]<br />{{small|Oct 6,<br />2026}}<ref name="sr">{{cite web |title=2026 Senate ratings |url=https://centerforpolitics.org/crystalball/2026-senate/ |website=Sabato's Crystal Ball |access-date=October 6, 2026}}</ref>
 ! [[Silver Bulletin|Silver]]<br />{{Small|Oct 9,<br />2026}}<ref>{{Cite web |url=https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model |title=FLIPR 2026 midterm election forecast |last1=Silver |first1=Nate |author1-link=Nate Silver |last2=McKown-Dawson |first2=Eli |website=[[Silver Bulletin]] |via=[[Substack]] |date=October 9, 2026 |orig-date=August 11, 2026 |access-date=October 9, 2026 |url-access=subscription}}</ref>
 ! [[Split Ticket (website)|ST]]<br />{{Small|Oct 7,<br />2026}}<ref>{{Cite magazine |title=Split Ticket 2026 Midterms Model |url=https://www.theargumentmag.com/p/split-ticket-2026-midterms-model |access-date=October 11, 2026 |magazine=[[The Argument (magazine)|The Argument]] |language=en}}</ref>
@@ -1031,7 +1031,7 @@ See [[Template:USRaceRating]] for how to apply rating.
 <!--FPO-->       | {{USRaceRating|Likely|R}}
 <!--Fox-->       | {{USRaceRating|Likely|R}}
 <!--IE-->        | {{USRaceRating|Lean|R}}
-<!--RCP-->       | {{USRaceRating|Tossup}}
+<!--RCP-->       | {{USRaceRating|Lean|R}}
 <!--Sabato-->    | {{USRaceRating|Likely|R}}
 <!--SB-->        | {{USRaceRating|Lean|R}}
 <!--ST-->        | {{USRaceRating|Lean|R}}
@@ -1268,7 +1268,7 @@ See [[Template:USRaceRating]] for how to apply rating.
 <!--FPO-->       |{{Party shading/Democratic}} | D/I - 52<br />R - 46<br />2 tossups
 <!--Fox-->       |  | D/I - 47<br />R - 47<br />6 tossups
 <!--IE-->        |  | D/I - 47<br />R - 49<br />4 tossups
-<!--RCP-->       |  | D/I - 46<br />R - 45<br />9 tossups
+<!--RCP-->       |  | D/I - 46<br />R - 46<br />8 tossups
 <!--Sabato-->    |  | D/I - 49<br />R - 47<br />4 tossups
 <!--SB-->        |{{Party shading/Democratic}} | D/I - 52<br />R - 46<br />2 tossups
 <!--ST-->        |{{Party shading/Democratic}} | D/I - 52<br />R - 47<br />1 tossup

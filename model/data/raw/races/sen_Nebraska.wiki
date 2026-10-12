@@ -292,9 +292,9 @@ Nebraska Working People Party organizers submitted completed petitions to form a
 |{{USRaceRating|Likely|R}}
 |September 16, 2026
 |-
-|align="left"|[[RealClearPolitics]]<ref>{{Cite web|url=https://www.realclearpolling.com/maps/senate/2026/toss-up|title=Battle for the Senate 2026|access-date=October 7, 2026|website=[[RealClearPolitics]]}}</ref>
-|{{USRaceRating|Tossup|}}
-|October 5, 2026
+|align="left"|[[RealClearPolitics]]<ref>{{Cite web|url=https://www.realclearpolling.com/maps/senate/2026/toss-up|title=Battle for the Senate 2026|access-date=October 12, 2026|website=[[RealClearPolitics]]}}</ref>
+|{{USRaceRating|Lean|R}}
+|October 12, 2026
 |-
 |align="left"|''[[Sabato's Crystal Ball]]''<ref>{{cite web|title=2026 Senate ratings|url=https://centerforpolitics.org/crystalball/2026-senate/|website=[[Sabato's Crystal Ball]]|access-date=October 7, 2026}}</ref>
 |{{USRaceRating|Likely|R}}
@@ -428,13 +428,21 @@ Nebraska Working People Party organizers submitted completed petitions to form a
 |9.0%
 |{{party shading/Republican}} |'''Ricketts +1.6%'''
 |-
+|[[Decision Desk HQ]]<ref>{{cite web|title=2026 Nebraska Senate Polling|url=https://votes.decisiondeskhq.com/races/2026-11-03/nebraska-us-senate-general-election/polling|access-date=October 12, 2026|website=[[Decision Desk HQ]]}}</ref>
+|through October 5, 2026
+|October 12, 2026
+|{{party shading/Republican}} |'''47.0%'''
+|45.3%
+|7.7%
+|{{party shading/Republican}} |'''Ricketts +1.7%'''
+|-
 |[[FiftyPlusOne]]<ref>{{cite web|title=Nebraska General Senate Election|url=https://fiftyplusone.news/polls/senate/general/nebraska|access-date=October 6, 2026|website=[[FiftyPlusOne]]}}</ref>
-|through October 3, 2026
-|October 6, 2026
-|{{party shading/Republican}} |'''46.3%'''
-|45.9%
-|7.8%
-|{{party shading/Republican}} |'''Ricketts +0.4%'''
+|through October 5, 2026
+|October 12, 2026
+|{{party shading/Republican}} |'''46.4%'''
+|45.7%
+|7.9%
+|{{party shading/Republican}} |'''Ricketts +0.7%'''
 |-
 |''[[Silver Bulletin]]''<ref name="Silver"/>
 |through October 3, 2026
@@ -445,10 +453,10 @@ Nebraska Working People Party organizers submitted completed petitions to form a
 |{{party shading/Republican}} |'''Ricketts +0.3%'''
 |-
 |colspan="3" |Average
-|{{party shading/Republican}} |'''46.5%'''
-|45.6%
+|{{party shading/Republican}} |'''46.6%'''
+|45.5%
 |7.9%
-|{{party shading/Republican}} |'''Ricketts +0.9%'''
+|{{party shading/Republican}} |'''Ricketts +1.1%'''
 |}
 
 {| class="wikitable" style="font-size:90%;text-align:center;"
@@ -461,6 +469,20 @@ Nebraska Working People Party organizers submitted completed petitions to form a
 ! style="width:100px;"| Dan<br/>Osborn (I)
 ! Other
 ! Undecided
+|-
+| rowspan="2" style="text-align: left;" |National Public Affairs (R)<ref name="NPA10/12">{{cite web |title=Nebraska 2026 General Election Survey Results |url=https://backend.natpublicaffairs.com/media/Nebraska_General_Election_Memo_100926.pdf |website=National Public Affairs Polling |access-date=October 12, 2026 |date=October 12, 2026}}</ref>
+| rowspan="2" |October 2–5, 2026
+| rowspan="2" |800 (LV)
+| rowspan="2" |±{{nbsp}}4.0%
+|{{party shading/Republican}}|'''46%'''
+|43%
+|6%{{Efn|Mike Marvin (LMN), Robin Richards (WPP), and Chuck Conboy (AF) with 2% each}}
+|5%
+|-
+|{{party shading/Republican}}|'''49%'''
+|46%
+|{{sdash}}
+|6%
 |-
 | style="text-align: left;" |[[YouGov]]<ref>{{cite web|title=Nebraska General Election 2026 – Likely Voters|url=https://d3nkl3psvxxpe9.cloudfront.net/documents/ttw_ne_20260921_lv.pdf |website=[[YouGov]] |date=October 6, 2026 |access-date=October 6, 2026}}</ref>
 |September 24 – October 3, 2026

@@ -53,7 +53,7 @@ This is the first election since [[2014 Hawaii gubernatorial election|2014]] in 
 *[[Alana DiMario]], state senator from the 36th district (2021–present)<ref>{{cite news |last1=Donnis |first1=Ian |title=State Sen. Alana DiMario on Trump and what's next in the Rhode Island Senate |url=https://thepublicsradio.org/political-roundtable/state-sen-alana-dimario-on-trump-and-whats-next-in-the-rhode-island-senate/ |access-date=March 7, 2025 |work=[[The Public's Radio]] |date=March 7, 2025 |quote=I'll break it to you right here. I am not running for governor in 2026. You can take me right off that list.}}</ref>
 *[[Sabina Matos]], [[Lieutenant Governor of Rhode Island|lieutenant governor of Rhode Island]] (2021–present) and candidate for [[Rhode Island's 1st congressional district]] in [[2023 Rhode Island's 1st congressional district special election|2023]] ''([[2026 Rhode Island lieutenant gubernatorial election|running for re-election]], endorsed McKee)''<ref>{{cite news |last1=Anderson |first1=Patrick |title=How Shekarchi's shadow looms large in the 2026 RI governor's race |url=https://www.providencejournal.com/story/news/politics/2025/01/13/who-will-run-for-rhode-island-governor-2026-dan-mckee-helena-foulkes-joseph-shekarchi/77491510007/?gnt-cfr=1&gca-cat=p&gca-uir=false&gca-epti=undefined&gca-ft=0&gca-ds=sophi |access-date= January 1, 2026 |work=[[The Providence Journal]] |date=January 13, 2025}}</ref><ref>{{cite news |last1=Donnis |first1=Ian |title=Approval for McKee and Matos falls in new Pell Center poll |url=https://thepublicsradio.org/politics/approval-for-mckee-and-matos-falls-in-new-pell-center-poll/ |access-date= January 1, 2026 |work=[[Rhode Island PBS]] |date=September 30, 2024}}</ref>
 *[[Peter Neronha]], [[Rhode Island Attorney General]] (2019–present) ''(endorsed Buonanno Foulkes)''<ref>{{cite news |last1=Lavin |first1=Nancy |title=Rhode Island AG Neronha will not run for governor |url=https://rhodeislandcurrent.com/briefs/rhode-island-ag-neronha-will-not-run-for-governor/ |access-date=October 3, 2025 |work=[[Rhode Island Current]] |date=October 3, 2025}}</ref><ref name="NeronhaFoulkes">{{Cite web |last=Anderson |first=Patrick |title=AG Neronha wades into governor race to endorse Helena Foulkes. Here's why. |url=https://www.providencejournal.com/story/news/politics/state/2026/03/05/ri-attorney-general-endorses-gov-dan-mckees-challenger-what-it-means/89000137007/ |access-date=2026-03-05 |website=The Providence Journal |language=en-US}}</ref>
-*[[Joe Shekarchi]], [[List of speakers of the Rhode Island House of Representatives|Speaker of the Rhode Island House of Representatives]] (2021–2026) from the 23rd district (2013–present)<ref>{{Cite web |last=Nesi |first=Ted |last2=Sherman |first2=Eli |date=2026-02-03 |title=Shekarchi won’t run for governor, leaving McKee to face Foulkes in primary |url=https://www.wpri.com/news/elections/shekarchi-wont-run-for-governor-leaving-mckee-to-face-foulkes-in-primary/ |access-date=2026-02-03 |website=WPRI 12}}</ref>
+*[[Joe Shekarchi]], [[List of speakers of the Rhode Island House of Representatives|Speaker of the Rhode Island House of Representatives]] (2021–2026) from the 23rd district (2013–present)<ref>{{Cite web |last1=Nesi |first1=Ted |last2=Sherman |first2=Eli |date=2026-02-03 |title=Shekarchi won't run for governor, leaving McKee to face Foulkes in primary |url=https://www.wpri.com/news/elections/shekarchi-wont-run-for-governor-leaving-mckee-to-face-foulkes-in-primary/ |access-date=2026-02-03 |website=WPRI 12}}</ref>
 
 ===Endorsements===
 {{Endorsements box
@@ -104,7 +104,7 @@ This is the first election since [[2014 Hawaii gubernatorial election|2014]] in 
 *[[Joseph Polisena Jr.]], mayor of [[Johnston, Rhode Island|Johnston]] (2023–present)<ref name="DoThey">{{cite web |last1=Gregg |first1=Katherine |title=Do endorsements actually sway votes? Why candidates fight for them. |url=https://www.providencejournal.com/story/news/politics/elections/2026/04/27/ri-political-races-are-bringing-in-endorsements-but-do-they-matter/89588970007/ |website=The Providence Journal |access-date=19 June 2026}}</ref>
 
 ;Labor unions
-* [[International Union of Operating Engineers]] Local 57<ref name="Foulkes Unions">https://helenafoulkes.com/endorsements/</ref>
+* [[International Union of Operating Engineers]] Local 57<ref name="Foulkes Unions">{{cite web | title=Endorsements | url=https://helenafoulkes.com/endorsements/ }}</ref>
 *Rhode Island [[SEIU]]<ref>{{cite news |last1=Tavares |first1=Jordan |date=July 2, 2026 |title=Rhode Island SEIU endorses Foulkes for governor |url=https://www.wpri.com/news/elections/rhode-island-seiu-endorses-foulkes-for-governor/ |work=WPRI-TV |access-date=August 15, 2026}}</ref>
 * [[Communications Workers of America|Rhode Island Troopers Association]]<ref name="Foulkes Unions"/>
 *[[UNITE HERE]] Local 26<ref>{{cite news |last1=Nesi |first1=Ted |title=Dem city, town chairs endorse Foulkes over McKee in race for governor |url=https://www.wpri.com/news/elections/dem-city-town-chairs-endorse-foulkes-over-mckee-in-race-for-governor/ |access-date=June 15, 2026 |work=[[WPRI-TV]] |date=June 8, 2026}}</ref>
@@ -121,7 +121,7 @@ This is the first election since [[2014 Hawaii gubernatorial election|2014]] in 
 | title = Dan McKee 
 | list =
 ;Statewide officials
-*[[Gregg Amore]], [[secretary of state of Rhode Island]] (2023–present)<ref name="LPR87">{{cite web |title=Four Weeks Out, It’s “A Winning Week for Governor McKee” |url=https://lprnews.org/four-weeks-out-its-a-winning-week-for-governor-mckee/ |website=LPR News |access-date=27 August 2026 |date=August 7, 2026}}</ref>
+*[[Gregg Amore]], [[secretary of state of Rhode Island]] (2023–present)<ref name="LPR87">{{cite web |title=Four Weeks Out, It's "A Winning Week for Governor McKee" |url=https://lprnews.org/four-weeks-out-its-a-winning-week-for-governor-mckee/ |website=LPR News |access-date=27 August 2026 |date=August 7, 2026}}</ref>
 *[[James Diossa]], [[General Treasurer of Rhode Island|treasurer of Rhode Island]] (2023–present)<ref name="LPR87" />
 *[[Sabina Matos]], [[Lieutenant Governor of Rhode Island|lieutenant governor of Rhode Island]] (2021–present)<ref>{{cite news |last1=Anderson |first1=Patrick |title=How Shekarchi's shadow looms large in the 2026 RI governor's race |url=https://www.providencejournal.com/story/news/politics/2025/01/13/who-will-run-for-rhode-island-governor-2026-dan-mckee-helena-foulkes-joseph-shekarchi/77491510007/ |access-date= January 1, 2026 |work=[[The Providence Journal]] |date=January 13, 2025}}</ref>
 
@@ -153,7 +153,7 @@ This is the first election since [[2014 Hawaii gubernatorial election|2014]] in 
 *[[Rhode Island Democratic Party]]<ref name="RIDems">{{cite news |last1=Lavin |first1=Nancy |title=A party divided: RI Dems convention split leaves no endorsements for governor, LG and AG |url=https://rhodeislandcurrent.com/2026/06/22/a-party-divided-ri-dems-convention-split-leaves-no-endorsements-for-governor-lg-and-ag/ |access-date=June 30, 2026 |work=Rhode Island Current |date=June 22, 2026 |archive-url=https://web.archive.org/web/20260625030152/https://rhodeislandcurrent.com/2026/06/22/a-party-divided-ri-dems-convention-split-leaves-no-endorsements-for-governor-lg-and-ag/ |archive-date=June 25, 2026 |url-status=live}}</ref>
 
 ;Labor unions
-*[[Rhode Island AFL-CIO]]<ref>{{cite news |last1=Nesi |first1=Ted |title=AFL-CIO won’t endorse for governor, dealing fresh blow to McKee |url=https://www.wpri.com/news/elections/afl-cio-wont-endorse-for-governor-dealing-fresh-blow-to-mckee/ |access-date=July 16, 2026 |work=WPRI-TV |date=July 15, 2026
+*[[Rhode Island AFL-CIO]]<ref>{{cite news |last1=Nesi |first1=Ted |title=AFL-CIO won't endorse for governor, dealing fresh blow to McKee |url=https://www.wpri.com/news/elections/afl-cio-wont-endorse-for-governor-dealing-fresh-blow-to-mckee/ |access-date=July 16, 2026 |work=WPRI-TV |date=July 15, 2026
 }}</ref>
 }}
 
@@ -465,7 +465,7 @@ This is the first election since [[2014 Hawaii gubernatorial election|2014]] in 
 *Robert Raimondo, businessman and cousin of former Democratic Governor [[Gina Raimondo]]<ref>{{Cite web |last=Allen |first=Christopher |date=November 20, 2025 |title=Robert Raimondo enters R.I. governor's race |url=https://pbn.com/robert-raimondo-enters-r-i-governors-race/ |access-date=November 20, 2025 |website=Providence Business News |language=en-US}}</ref>
 
 ====Declined====
-*[[Jessica de la Cruz]], minority leader of the [[Rhode Island Senate]] (2022–present) from the 23rd district (2019–present) ''([[2026 Rhode Island Senate election|running for re-election]])''<ref>{{Cite web |last=Kalunian |first=Kim |last2=Baccari |first2=Raymond |date=2026-01-21 |title=Community Focus: RI Senate Minority Leader Jessica de la Cruz |url=https://www.wpri.com/news/local-news/community-focus/community-focus-ri-senate-minority-leader-jessica-de-la-cruz-3/ |access-date=2026-01-21 |website=WPRI 12 News}}</ref>
+*[[Jessica de la Cruz]], minority leader of the [[Rhode Island Senate]] (2022–present) from the 23rd district (2019–present) ''([[2026 Rhode Island Senate election|running for re-election]])''<ref>{{Cite web |last1=Kalunian |first1=Kim |last2=Baccari |first2=Raymond |date=2026-01-21 |title=Community Focus: RI Senate Minority Leader Jessica de la Cruz |url=https://www.wpri.com/news/local-news/community-focus/community-focus-ri-senate-minority-leader-jessica-de-la-cruz-3/ |access-date=2026-01-21 |website=WPRI 12 News}}</ref>
 *[[Kenneth Hopkins]], mayor of [[Cranston, Rhode Island|Cranston]] (2021–present)<ref>{{cite web|url=https://www.wpri.com/news/local-news/ted-nesi/nesis-notes-july-19/|title=Nesi's Notes: July 19|last=Nesi|first=Ted|date=July 19, 2025|access-date=July 22, 2025|website=[[WPRI-TV]]}}</ref>
 
 ===Endorsements===
@@ -587,7 +587,7 @@ This is the first election since [[2014 Hawaii gubernatorial election|2014]] in 
 *CD Reynolds, perennial candidate<ref name="Candidates"/>
 
 ====Did not qualify====
-*Paul Rianna Jr., independent candidate for governor in [[2022 Rhode Island gubernatorial election|2022]]<ref>{{cite news |title=TGIF: Ian Donnis’ Rhode Island politics roundup for May 8, 2026 |url=https://www.oceanstatemedia.org/tgif-ian-donnis-rhode-island-politics-roundup-for-may-8-2026 |access-date=May 9, 2026 |work=[[Ocean State Media]] |date=May 8, 2026}}</ref>
+*Paul Rianna Jr., independent candidate for governor in [[2022 Rhode Island gubernatorial election|2022]]<ref>{{cite news |title=TGIF: Ian Donnis' Rhode Island politics roundup for May 8, 2026 |url=https://www.oceanstatemedia.org/tgif-ian-donnis-rhode-island-politics-roundup-for-may-8-2026 |access-date=May 9, 2026 |work=[[Ocean State Media]] |date=May 8, 2026}}</ref>
 *Julian J. Smith, photographer (''previously ran for [[2026 United States House of Representatives elections in Rhode Island#district 1|Rhode Island’s 1st congressional district]]'')<ref>{{Cite web |last=Bessette |first=James |date=2023-06-30 |title=Field for 1st Congressional District seat expands to 35 candidates |url=https://pbn.com/field-for-1st-congressional-district-seat-expands-to-35-candidates/ |access-date=2026-02-22 |website=Providence Business News |language=en-US}}</ref>
 
 ====Declined====
@@ -661,7 +661,7 @@ This is the first election since [[2014 Hawaii gubernatorial election|2014]] in 
 ! Other
 ! Undecided
 |-
-|rowspan="2" style="text-align:left;"|Opinion Diagnostics<ref>{{cite web|url=https://www.golocalprov.com/politics/new-blocks-campaign-poll-shows-he-leads-foulkes-head-to-head-in-race-for-gov-guckian-on-track-for-the-worst-gop-result-on-record|title=NEW: Block’s Campaign Poll Shows He Leads Foulkes Head-to-Head in Race for Gov; Guckian on Track for the Worst GOP Result on Record|website=GoLocalProv|date=September 29, 2026|access-date=September 29, 2026}}</ref>{{efn-ua|name=Block}}
+|rowspan="2" style="text-align:left;"|Opinion Diagnostics<ref>{{cite web|url=https://www.golocalprov.com/politics/new-blocks-campaign-poll-shows-he-leads-foulkes-head-to-head-in-race-for-gov-guckian-on-track-for-the-worst-gop-result-on-record|title=NEW: Block's Campaign Poll Shows He Leads Foulkes Head-to-Head in Race for Gov; Guckian on Track for the Worst GOP Result on Record|website=GoLocalProv|date=September 29, 2026|access-date=September 29, 2026}}</ref>{{efn-ua|name=Block}}
 |rowspan="2"|September 23–25, 2026
 |rowspan="2"|800 (LV)
 |rowspan="2"|±{{nbsp}}3.5%
@@ -676,7 +676,7 @@ This is the first election since [[2014 Hawaii gubernatorial election|2014]] in 
 |{{party shading/Independent}}|'''44%'''
 |colspan="2"| 17%
 |-
-| style="text-align:left;"|[[University of New Hampshire]]<ref>{{cite web|url=https://scholars.unh.edu/survey_center_polls/1009/|title=Democrats Foulkes & Reed Enjoy Wide Leads in Rhode Island While Matos Embattled in Lt. Governor Race|date=September 24, 2026|access-date=September 24, 2026}}</ref>
+| style="text-align:left;"|[[University of New Hampshire]]<ref>{{cite journal|url=https://scholars.unh.edu/survey_center_polls/1009/|title=Democrats Foulkes & Reed Enjoy Wide Leads in Rhode Island While Matos Embattled in Lt. Governor Race|journal=All UNH Survey Center Polls |date=September 24, 2026|access-date=September 24, 2026}}</ref>
 |September 17–21, 2026
 |598 (LV)
 |±{{nbsp}}4.0%
