@@ -873,7 +873,7 @@ As one of only two seats up held by a Democrat in a state that voted for Trump i
 !Margin
 |-
 |[[270toWin]]<ref name="270General">{{cite web |title=2026 Polls: Georgia Senate |url=https://www.270towin.com/2026-senate-polls/georgia |website=[[270toWin]] |access-date=September 2, 2026}}</ref>
-|September 14 – 23, 2026<!--Remember that dates listed on 270toWin are poll *publication dates*, not the dates when the polls were *administered*-->
+|September 14 – October 4, 2026<!--Remember that dates listed on 270toWin are poll *publication dates*, not the dates when the polls were *administered*-->
 |October 4, 2026
 |{{party shading/Democratic}} |'''51.0%'''
 |43.4%
@@ -881,42 +881,42 @@ As one of only two seats up held by a Democrat in a state that voted for Trump i
 |{{party shading/Democratic}} |'''Ossoff +7.6%'''
 |-
 |[[Decision Desk HQ]]<ref name="DDHQGeneral">{{cite web |title=Georgia Senate General Ballot Test |url=https://votes.decisiondeskhq.com/races/2026-11-03/georgia-us-senate-general-election/polling |website=[[Decision Desk HQ]] |access-date=September 2, 2026}}</ref>
-|through September 18, 2026
-|October 4, 2026
-|{{party shading/Democratic}} |'''52.5%'''
-|43.5%
-|4.0%
-|{{party shading/Democratic}} |'''Ossoff +9.0%'''
+|through October 9, 2026
+|October 11, 2026
+|{{party shading/Democratic}} |'''52.2%'''
+|43.4%
+|4.4%
+|{{party shading/Democratic}} |'''Ossoff +8.8%'''
 |-
 |[[FiftyPlusOne]]<ref>{{Cite web |title=FiftyPlusOne - Georgia General Senate Election Polls and Average for the 2026 General Election |url=https://fiftyplusone.news/polls/senate/general/georgia |access-date=September 2, 2026 |website=fiftyplusone.news}}</ref>
-|through September 18, 2026
-|October 4, 2026
-|{{party shading/Democratic}} |'''52.1%'''
-|43.1%
+|through October 9, 2026
+|October 10, 2026
+|{{party shading/Democratic}} |'''52.2%'''
+|43.0%
 |4.8%
-|{{party shading/Democratic}} |'''Ossoff +9.0%'''
+|{{party shading/Democratic}} |'''Ossoff +9.2%'''
 |-
 |[[RealClearPolitics]]<ref>{{cite web |title=2026 Georgia Senate – Collins vs. Ossoff|url=https://www.realclearpolling.com/polls/senate/general/2026/georgia/ossoff-vs-collins|access-date=September 2, 2026 |website=RealClearPolitics.com}}</ref>
-|July 13 – September 18, 2026
-|October 4, 2026
-|{{party shading/Democratic}}|'''51.1%'''
-|43.1%
-|5.8%
-|{{party shading/Democratic}}|'''Ossoff +8.0%'''
+|September 14 – October 9, 2026
+|October 11, 2026
+|{{party shading/Democratic}}|'''51.3%'''
+|43.2%
+|5.5%
+|{{party shading/Democratic}}|'''Ossoff +8.1%'''
 |-
 |''[[Silver Bulletin]]''<ref name="Silver"/>
-|through September 18, 2026
-|October 4, 2026
-|{{party shading/Democratic}} |'''51.0%'''
-|42.7%
-|6.3%
-|{{party shading/Democratic}} |'''Ossoff +8.3%'''
+|through October 9, 2026
+|October 11, 2026
+|{{party shading/Democratic}} |'''51.9%'''
+|42.9%
+|5.2%
+|{{party shading/Democratic}} |'''Ossoff +9.0%'''
 |-
 | colspan="3" |'''Average'''
-|{{party shading/Democratic}}|'''51.5%'''
+|{{party shading/Democratic}}|'''51.7%'''
 |43.2%
-|5.3%
-|{{party shading/Democratic}}|'''Ossoff +8.3%'''
+|5.1%
+|{{party shading/Democratic}}|'''Ossoff +8.5%'''
 |}
 
 {| class="wikitable" style="font-size:90%;text-align:center;"
@@ -929,6 +929,15 @@ As one of only two seats up held by a Democrat in a state that voted for Trump i
 ! style="width:100px;"| Mike<br />Collins (R)
 ! Other
 ! Undecided
+|-
+|style="text-align:left;"|[[Trafalgar Group]] (R)<ref>{{Cite web |url=https://www.thetrafalgargroup.org/wp-content/uploads/2026/10/GA-General-Report-1010.pdf |title=Georgia Statewide General Election Survey |work=[[Trafalgar Group]] |date=October 10, 2026 |access-date=October 12, 2026}}</ref>
+|October 7–9, 2026
+|1,101 (LV)
+|±{{nbsp}}2.9%
+|{{party shading/Democratic}}|'''51%'''
+|43%
+|–
+|6%
 |-
 |style="text-align: left;"|Wedgewood Polls<ref>{{Cite web |title=Wedgewood Polls GA Survey.pdf |url=https://drive.google.com/file/d/1-Qoij2YeWwq-EFaTY_W0iTf1fotSrKHI/view |website=Wedgewood Polls |date=October 3, 2026 |access-date=October 4, 2026}}</ref>
 |October 2–3, 2026

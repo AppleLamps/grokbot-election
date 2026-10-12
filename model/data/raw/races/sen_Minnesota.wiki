@@ -1076,6 +1076,15 @@ On August 11, 2026, the [[Associated Press]] and [[NBC News]] called the race fo
 ! Other
 ! Undecided
 |-
+|style="text-align:left;"|[[Mason-Dixon Polling & Strategy]]<ref>{{cite web|url=https://www.kare11.com/article/news/politics/elections/minnesota-poll-flanagan-with-narrow-lead-over-tafoya-in-us-senate-race/89-ed06354a-4656-4cc0-907e-12e67119cf00|title=Minnesota Poll: Flanagan with narrow lead over Tafoya in U.S. Senate race|date=October 12, 2026|access-date=October 12, 2026}}</ref>{{efn-ua|poll sponsored by [[KARE (TV)|KARE 11]]/[[The Minnesota Star Tribune]]}}
+|October 5–7, 2026
+|800 (LV)
+|±{{nbsp}}3.5%
+| {{party shading/DFL}} |'''47%'''
+|43%
+|0.6%
+|9%
+|-
 |style="text-align:left;|[[Rasmussen Reports]] (R)<ref>{{cite web|url=https://www.rasmussenreports.com/public_content/politics/elections/election_2026/election_2026_minnesota_senate|title=Election 2026: Minnesota Senate|date=October 9, 2026|access-date=October 9, 2026}}</ref>
 |October 5–7, 2026
 |856 (LV)

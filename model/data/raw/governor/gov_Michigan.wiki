@@ -1426,7 +1426,7 @@ In September 2026, the [[Libertarian Party of Michigan]] formally disavowed conn
 ! style="width:100px;"| Other/Undecided<br />{{Efn|Calculated by taking the difference of 100% and all other candidates combined.|name=|group=}}
 ! Margin
 |-
-|[[270toWin]]<ref>{{Cite web|title=2026 Polls: Michigan Governor|url=https://www.270towin.com/2026-governor-polls/michigan|publisher=[[270toWin]]|access-date=October 11, 2026}}</ref>
+|[[270toWin]]<ref>{{Cite web|title=2026 Polls: Michigan Governor|url=https://www.270towin.com/2026-governor-polls/michigan|publisher=[[270toWin]]|access-date=October 11, 2026}}</ref>	
 |September 15–28, 2026<!--Remember that dates listed on 270toWin are poll *publication dates*, not the dates when the polls were *administered*. Dates listed here should be dates *administered*-->
 |September 30, 2026
 |{{party shading/Democratic}}|'''49.4%'''
@@ -1435,20 +1435,20 @@ In September 2026, the [[Libertarian Party of Michigan]] formally disavowed conn
 |{{party shading/Democratic}}|'''Benson +7.2%'''
 |-
 |[[Decision Desk HQ]]<ref>{{Cite web|title=2026 Michigan Governor Polling|url=https://votes.decisiondeskhq.com/races/2026-11-03/michigan-governor-general-election/polling|publisher=[[Decision Desk HQ]]|access-date=September 17, 2026}}</ref>
-|through October 4, 2026
-|October 6, 2026
-|{{party shading/Democratic}}|'''48.7%'''
-|42.6%
-|8.7%
-|{{party shading/Democratic}}|'''Benson +6.1%'''
+|through October 9, 2026
+|October 10, 2026
+|{{party shading/Democratic}}|'''51.2%'''
+|43.8%
+|5.0%
+|{{party shading/Democratic}}|'''Benson +7.4%'''
 |-
 |[[FiftyPlusOne]]<ref>{{Cite web|title=Michigan General Governor Election|url=https://fiftyplusone.news/polls/governor/general/michigan|publisher=[[FiftyPlusOne]]|access-date=August 23, 2026}}</ref>
-|through October 4, 2026
-|October 7, 2026
-|{{party shading/Democratic}}|'''49.2%'''
-|41.7%
-|9.1%
-|{{party shading/Democratic}}|'''Benson +7.5%'''
+|through October 9, 2026
+|October 10, 2026
+|{{party shading/Democratic}}|'''49.8%'''
+|42.1%
+|8.1%
+|{{party shading/Democratic}}|'''Benson +7.7%'''
 |-
 |[[RealClearPolitics]]<ref>{{Cite web|title=2026 Michigan Governor - James vs. Benson|url=https://www.realclearpolling.com/polls/governor/general/2026/michigan/benson-vs-james|publisher=[[RealClearPolitics]]|access-date=August 23, 2026}}</ref>
 |September 10 – October 5, 2026
@@ -1459,18 +1459,18 @@ In September 2026, the [[Libertarian Party of Michigan]] formally disavowed conn
 |{{party shading/Democratic}}|'''Benson +8.2%'''
 |-
 |''[[Silver Bulletin]]''<ref name="Silver"/>
-|through October 4, 2026
-|October 6, 2026
-|{{party shading/Democratic}}|'''50.0%'''
-|42.1%
-|7.9%
+|through October 9, 2026
+|October 10, 2026
+|{{party shading/Democratic}}|'''50.3%'''
+|42.4%
+|7.3%
 |{{party shading/Democratic}}|'''Benson +7.9%'''
 |-
 |colspan="3" |'''Average'''
-|{{party shading/Democratic}}|'''49.3%'''
-|42.0%
-|8.7%
-|{{party shading/Democratic}}|'''Benson +7.3%'''
+|{{party shading/Democratic}}|'''50.0%'''
+|42.3%
+|7.7%
+|{{party shading/Democratic}}|'''Benson +7.7%'''
 |}
 
 {| class="wikitable" style="font-size:90%;text-align:center;"

@@ -602,28 +602,28 @@ On September 23, ''[[The New York Times]]'' published allegations from anonymous
 !Margin
 |-
 |[[Decision Desk HQ]]<ref>{{Cite web |title=2026 Alaska Senate Polling |url=https://votes.decisiondeskhq.com/races/2026-11-03/alaska-us-senate-general-election/polling |access-date=September 13, 2026 |website=[[Decision Desk HQ]]}}</ref>
-|through October 3, 2026
-|October 8, 2026
-|46.3%
-|{{party shading/Democratic}}|'''48.8%'''
-|4.9%
-|{{party shading/Democratic}}|'''Peltola +2.5%'''
+|through October 10, 2026
+|October 12, 2026
+|46.6%
+|{{party shading/Democratic}}|'''49.0%'''
+|4.4%
+|{{party shading/Democratic}}|'''Peltola +2.4%'''
 |-
 |[[FiftyPlusOne]]<ref>{{Cite web |title=Alaska General Senate Election |url=https://fiftyplusone.news/polls/senate/general/alaska |access-date=September 17, 2026 |website=[[FiftyPlusOne]]}}</ref>
-|through October 3, 2026
-|October 7, 2026
+|through October 10, 2026
+|October 11, 2026
 |46.0%
-|{{party shading/Democratic}}|'''48.9%'''
-|5.1%
-|{{party shading/Democratic}}|'''Peltola +2.9%'''
+|{{party shading/Democratic}}|'''48.8%'''
+|5.2%
+|{{party shading/Democratic}}|'''Peltola +2.8%'''
 |-
 |[[RealClearPolitics]]<ref name="RCPGeneral">{{cite web |title=2026 Alaska Senate - Sullivan vs. Peltola |url=https://www.realclearpolling.com/polls/senate/general/2026/alaska/peltola-vs-sullivan |website=[[RealClearPolitics]] |access-date=17 August 2026}}</ref>
-|September 14 – October 3, 2026
-|October 8, 2026
+|September 14 – October 10, 2026
+|October 12, 2026
 |47.3%
-|{{party shading/Democratic}}|'''48.5%'''
-|4.2%
-|{{party shading/Democratic}}|'''Peltola +1.2%'''
+|{{party shading/Democratic}}|'''48.8%'''
+|3.9%
+|{{party shading/Democratic}}|'''Peltola +1.5%'''
 |-
 |''[[Silver Bulletin]]''<ref name="Silver"/>
 |through October 3, 2026
@@ -634,9 +634,9 @@ On September 23, ''[[The New York Times]]'' published allegations from anonymous
 |{{party shading/Democratic}} |'''Peltola +2.8%'''
 |-
 |colspan="3" |Average
-|46.1%
-|{{party shading/Democratic}} |'''48.5%'''
-|5.4%
+|46.2%
+|{{party shading/Democratic}} |'''48.6%'''
+|5.2%
 |{{party shading/Democratic}} |'''Peltola +2.4%'''
 |}
 

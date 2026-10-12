@@ -5,13 +5,13 @@
     "bias_mean": 3.8,
     "bias_sd": 3.0,
     "sims": 100000,
-    "senate_p_R": 0.78022,
-    "senate_p_D": 0.21217,
-    "senate_p_none": 0.007609999999999978,
-    "senate_D_mean": 48.55214,
+    "senate_p_R": 0.77917,
+    "senate_p_D": 0.21316,
+    "senate_p_none": 0.007669999999999982,
+    "senate_D_mean": 48.56653,
     "senate_D_p10": 45,
     "senate_D_p90": 52,
-    "senate_R_mean": 51.39907,
+    "senate_R_mean": 51.38468,
     "senate_R_p10": 48,
     "senate_R_p90": 55,
     "senate_I_mean": 0.12132,
@@ -24,11 +24,11 @@
     "senate_tipping": [
       [
         "OH",
-        0.121
+        0.122
       ],
       [
         "IA",
-        0.11
+        0.111
       ],
       [
         "TX",
@@ -66,12 +66,12 @@
       ]
     ],
     "gov_races": 36,
-    "gov_D_wins_mean": 17.27603,
-    "gov_D_total_mean": 23.27603,
+    "gov_D_wins_mean": 17.2942,
+    "gov_D_total_mean": 23.2942,
     "gov_D_total_median": 23,
     "gov_D_total_p10": 19,
     "gov_D_total_p90": 27,
-    "gov_p_D_majority": 0.23634
+    "gov_p_D_majority": 0.23762
   },
   "offyear_1p3": {
     "scenario": "offyear_1p3",
@@ -79,13 +79,13 @@
     "bias_mean": -1.3,
     "bias_sd": 3.0,
     "sims": 100000,
-    "senate_p_R": 0.24327,
-    "senate_p_D": 0.7463,
-    "senate_p_none": 0.01043000000000005,
-    "senate_D_mean": 52.12479,
+    "senate_p_R": 0.2425,
+    "senate_p_D": 0.74706,
+    "senate_p_none": 0.010440000000000116,
+    "senate_D_mean": 52.12864,
     "senate_D_p10": 49,
     "senate_D_p90": 55,
-    "senate_R_mean": 47.72683,
+    "senate_R_mean": 47.72298,
     "senate_R_p10": 44,
     "senate_R_p90": 51,
     "senate_I_mean": 0.36887,
@@ -98,11 +98,11 @@
     "senate_tipping": [
       [
         "OH",
-        0.121
+        0.122
       ],
       [
         "IA",
-        0.11
+        0.111
       ],
       [
         "TX",
@@ -140,11 +140,11 @@
       ]
     ],
     "gov_races": 36,
-    "gov_D_wins_mean": 21.55484,
-    "gov_D_total_mean": 27.55484,
+    "gov_D_wins_mean": 21.56143,
+    "gov_D_total_mean": 27.56143,
     "gov_D_total_median": 28,
     "gov_D_total_p10": 24,
     "gov_D_total_p90": 31,
-    "gov_p_D_majority": 0.76799
+    "gov_p_D_majority": 0.7691
   }
 }

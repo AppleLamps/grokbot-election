@@ -708,7 +708,7 @@ In early September, it was reported that the Arizona Attorney General’s Office
 !Margin
 |-
 |[[270toWin]]<ref name="270toWin">{{cite web|title=2026 Polls: Arizona Governor|url=https://www.270towin.com/2026-governor-polls/arizona|publisher=270toWin|access-date=October 11, 2026}}</ref>
-|August 10–18, 2026<!--Remember that dates listed on 270toWin are poll *publication dates*, not the dates when the polls were *administered*. Dates listed here should be dates *administered*-->
+|August 17–25, 2026<!--Remember that dates listed on 270toWin are poll *publication dates*, not the dates when the polls were *administered*. Dates listed here should be dates *administered*-->
 |September 25, 2026
 |{{party shading/Democratic}}|'''45.8%'''
 |37.6%
@@ -740,18 +740,18 @@ In early September, it was reported that the Arizona Attorney General’s Office
 |{{party shading/Democratic}}|'''Hobbs +11.2%'''
 |-
 |''[[Silver Bulletin]]''<ref name="Silver"/>
-|through August 19, 2026
-|August 24, 2026
-|{{party shading/Democratic}}|'''48.5%'''
-|39.8%
-|11.7%
-|{{party shading/Democratic}}|'''Hobbs +8.7%'''
+|through October 8, 2026
+|October 11, 2026
+|{{party shading/Democratic}}|'''49.3%'''
+|40.5%
+|10.2%
+|{{party shading/Democratic}}|'''Hobbs +8.8%'''
 |-
 |colspan="3"|'''Average'''
-|{{party shading/Democratic}}|'''48.3%'''
-|40.2%
-|11.5%
-|{{party shading/Democratic}}|'''Hobbs +8.1%'''
+|{{party shading/Democratic}}|'''48.4%'''
+|40.4%
+|10.2%
+|{{party shading/Democratic}}|'''Hobbs +8.0%'''
 |}
 
 {| class="wikitable" style="font-size:90%;text-align:center;"
@@ -764,6 +764,15 @@ In early September, it was reported that the Arizona Attorney General’s Office
 ! style="width:100px;"| Andy<br />Biggs (R)
 ! Other
 ! Undecided
+|-
+|style="text-align:left;"|Grayhouse (R)<ref>{{Cite web|url=https://www.grayhouse.com/post/new-grayhouse-poll-norton-leads-for-arizona-treasurer|title=Arizona State Treasurer Statewide Survey|website=Grayhouse|date=October 11, 2026|access-date=October 12, 2026}}</ref>{{Efn-ua|name=Norton| Poll commissioned by Elijah Norton's campaign, the Republican candidate running for [[2026 Arizona State Treasurer election]]}}
+|October 6–8, 2026
+|550 (LV)
+|±&nbsp;4.2%
+|{{party shading/Democratic}}|'''50%'''
+|44%
+|2%{{efn|Teri Hourihan ([[No Labels Party|NL]]) with 1%; Risa Lombardo (G) with 1%}}
+|4%
 |-
 |style="text-align:left;"|GQR (D)<ref>{{Cite web|url=https://data.ddhq.io/polls/2026/10/08/GQR-Arizona|title=Arizona Gubernatorial Race Has Tightened, Is Now in the Margin of Error 
 |first1=Elizabeth|last1=Sena|website=GQR|date=October 7, 2026|access-date=October 8, 2026}}</ref>{{Efn-ua|name=Hobbs| Poll commissioned by Hobbs' campaign}}

@@ -674,12 +674,12 @@ After winning the June 2 primary, Toulouse Oliver withdrew from the race on June
 !Margin
 |-
 |''[[Silver Bulletin]]''<ref name="Silver"/>
-|through October 5, 2026
-|October 5, 2026
-|{{party shading/Democratic}}|'''47.5%'''
-|39.8%
-|12.7%
-|{{party shading/Democratic}}|'''Haaland +7.7%'''
+|through October 9, 2026
+|October 11, 2026
+|{{party shading/Democratic}}|'''48.0%'''
+|40.1%
+|11.9%
+|{{party shading/Democratic}}|'''Haaland +7.9%'''
 |-
 |}
 {|class="wikitable col1left"style="font-size:90%;text-align:center;"

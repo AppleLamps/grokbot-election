@@ -745,36 +745,36 @@ The [[Senate Leadership Fund]]—first reported by ''[[Semafor (website)|Semafor
 |{{party shading/Democratic}} |'''Cooper +9.2%'''
 |-
 |[[Decision Desk HQ]]<ref>{{Cite web |title=2026 North Carolina Senate Polling |url=https://votes.decisiondeskhq.com/races/2026-11-03/north-carolina-us-senate-general-election/polling |access-date=2026-09-13 |website=[[Decision Desk HQ]]}}</ref>
-|through October 2, 2026
-|October 8, 2026
-|40.1%
-|{{party shading/Democratic}} |'''49.0%'''
-|10.9%
-|{{party shading/Democratic}} |'''Cooper +8.9%'''
+|through October 10, 2026
+|October 12, 2026
+|40.5%
+|{{party shading/Democratic}} |'''48.9%'''
+|10.6%
+|{{party shading/Democratic}} |'''Cooper +8.4%'''
 |-
 |[[FiftyPlusOne]]<ref>{{Cite web |title=FiftyPlusOne - North Carolina General Senate Election Polls and Average for the 2026 General Election |url=https://fiftyplusone.news/polls/senate/general/north-carolina |access-date=2026-08-15 |website=fiftyplusone.news}}</ref>
-|through October 3, 2026
-|October 8, 2026
-|41.1%
-|{{party shading/Democratic}} |'''50.9%'''
-|8.0%
-|{{party shading/Democratic}} |'''Cooper +9.8%'''
+|through October 10, 2026
+|October 12, 2026
+|40.8%
+|{{party shading/Democratic}} |'''50.8%'''
+|8.4%
+|{{party shading/Democratic}} |'''Cooper +10.0%'''
 |-
 |[[RealClearPolitics]]<ref>{{cite web |title=2026 North Carolina Senate - Whatley vs. Cooper|url=https://www.realclearpolling.com/polls/senate/general/2026/north-carolina/cooper-vs-whatley |access-date=November 12, 2025 |website=[[RealClearPolitics]]}}</ref>
-|September 6 – October 3, 2026
-|October 8, 2026
-|41.0%
-|{{party shading/Democratic}} |'''49.8%'''
+|September 6 – October 10, 2026
+|October 12, 2026
+|40.9%
+|{{party shading/Democratic}} |'''49.9%'''
 |9.2%
-|{{party shading/Democratic}} |'''Cooper +8.8%'''
+|{{party shading/Democratic}} |'''Cooper +9.0%'''
 |-
 |''[[Silver Bulletin]]''<ref name="Silver"/>
-|through September 22, 2026
-|October 8, 2026
+|through October 3, 2026
+|October 12, 2026
 |41.5%
-|{{party shading/Democratic}} |'''50.8%'''
-|7.7%
-|{{party shading/Democratic}} |'''Cooper +9.3%'''
+|{{party shading/Democratic}} |'''50.5%'''
+|8.0%
+|{{party shading/Democratic}} |'''Cooper +9.0%'''
 |-
 |colspan="3"|'''Average'''
 |41.0%

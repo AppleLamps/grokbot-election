@@ -68,6 +68,8 @@ Stevens benefited from an outside spending advantage, with approximately $62 mil
 
 El-Sayed harnessed Democratic frustration with the party establishment to narrowly defeat Stevens in the primary.<ref>{{Cite news |last=Cappelletti |first=Joey |date=August 5, 2026 |title=How Abdul El-Sayed went from political oblivion to progressive breakthrough in Michigan Senate race |url=https://apnews.com/article/60c79349b60ffbf24a34d60b76e130ed |access-date=September 6, 2026 |work=[[Associated Press]]}}</ref> ''The Washington Post'' said that several factors helped with El-Sayed's success, including antiestablishment sentiment in the Democratic base, his campaign against large political donations, and opposition to AIPAC and Israel's actions in Gaza.<ref name="WaPoPrimaryAnalysis">{{Cite news |last1=Goodwin |first1=Liz |last2=Cox |first2=Erin |last3=Morse |first3=Clara Ence |last4=Marley |first4=Patrick |date=August 5, 2026 |title=How El-Sayed won the contentious Michigan Senate Democratic primary |url=https://www.washingtonpost.com/politics/2026/08/05/how-el-sayed-won-contentious-michigan-senate-democratic-primary/ |access-date=September 6, 2026 |newspaper=[[The Washington Post]]}}</ref> El-Sayed performed well in liberal strongholds and college towns in his win over Stevens.<ref name="PrimaryTurnout">{{Cite web |last=Mencarini |first=Matt |date=August 5, 2026 |title=How Abdul El-Sayed won Michigan: Big turnout, liberal towns, walkup votes |url=https://bridgemi.com/michigan-government/how-abdul-el-sayed-won-michigan-big-turnout-liberal-towns-walkup-votes/ |access-date=September 6, 2026 |website=[[Bridge Michigan]]}}</ref>
 
+[[Bernie Sanders|Senator Bernie Sanders]] also said in his post on [[X (social network)|X]] that [[AIPAC]] planned to spend $233 million to defeat candidates who oppose Benjamin Netanyahu's government. He also said: "They spent $33 million to defeat Abdul El-Sayed in the Michigan primary, but they lost."<ref>{{Cite web |date=2026-10-03 |title=US senator says AIPAC plans to spend $233M to defeat candidates critical of Netanyahu gov't |url=https://www.aa.com.tr/en/americas/us-senator-says-aipac-plans-to-spend-233m-to-defeat-candidates-critical-of-netanyahu-govt/4076743 |access-date=2026-10-12 |website=Anadolu |language=tr}}</ref>
+
 ===Candidates ===
 ==== Nominee ====
 *[[Abdul El-Sayed]], former [[Wayne County, Michigan|Wayne County]] health director (2023–2025) and candidate for governor in [[2018 Michigan gubernatorial election|2018]]<ref name="ElSayedPrimaryWinNBC">{{Cite news |url=https://www.nbcnews.com/politics/2026-election/abdul-el-sayed-wins-michigans-democratic-senate-primary-notching-midwe-rcna589750 |title=Abdul El-Sayed wins Michigan's Democratic Senate primary, notching a Midwest victory for the left |last=Gomez |first=Henry J. |work=[[NBC News]] |date=August 5, 2026 |access-date=August 5, 2026}}</ref><ref name="ElSayedPrimaryWinAP">{{Cite news |url=https://apnews.com/article/michigan-primary-senate-elsayed-stevens-60c79349b60ffbf24a34d60b76e130ed |title=Abdul El-Sayed wins Michigan Senate primary in major victory for Democrats' progressive wing |last1=Cappelletti |first1=Joey |last2=Ganun |first2=Jacqueline |last3=Bedayn |first3=Jesse |work=[[Associated Press]] |date=August 5, 2026 |access-date=August 5, 2026}}</ref>
@@ -1531,42 +1533,42 @@ Michigan was considered one of the top Republican senate pickup opportunities fo
 |{{party shading/Democratic}}|'''El-Sayed +4.0%'''
 |-
 |[[Decision Desk HQ]]<ref name="DDHQGeneral">{{cite web |title=2026 Michigan US Senate |url=https://votes.decisiondeskhq.com/races/2026-11-03/michigan-us-senate-general-election/polling |website=[[Decision Desk HQ]] |access-date=October 6, 2026}}</ref>
-|through October 6, 2026
-|October 7, 2026
-|{{party shading/Democratic}} |'''48.0%'''
-|45.3%
-|6.7%
-|{{party shading/Democratic}}|'''El-Sayed +2.7%'''
+|through October 10, 2026
+|October 12, 2026
+|{{party shading/Democratic}} |'''49.3%'''
+|45.9%
+|4.8%
+|{{party shading/Democratic}}|'''El-Sayed +3.4%'''
 |-
 |[[FiftyPlusOne]]<ref>{{Cite web |title=Michigan General Senate Election |url=https://fiftyplusone.news/polls/senate/general/michigan |access-date=October 6, 2026 |website=[[FiftyPlusOne]]}}</ref>
-|through October 6, 2026
-|October 7, 2026
-|{{party shading/Democratic}} |'''48.0%'''
-|44.5%
-|7.5%
+|through October 10, 2026
+|October 11, 2026
+|{{party shading/Democratic}} |'''48.2%'''
+|44.7%
+|7.1%
 |{{party shading/Democratic}}|'''El-Sayed +3.5%'''
 |-
 |[[RealClearPolitics]]<ref>{{cite web |title=2026 Michigan Senate - Rogers vs. El-Sayed |url=https://www.realclearpolling.com/polls/senate/general/2026/michigan/rogers-vs-el-sayed |website=RealClearPolitics |access-date=October 6, 2026}}</ref>
-|September 15 – October 6, 2026
-|October 7, 2026
+|September 15 – October 10, 2026
+|October 12, 2026
 |{{party shading/Democratic}} |'''48.1%'''
-|44.9%
-|7.0%
-|{{party shading/Democratic}}|'''El-Sayed +3.2%'''
+|45.0%
+|6.9%
+|{{party shading/Democratic}}|'''El-Sayed +3.1%'''
 |-
 |''[[Silver Bulletin]]''<ref name="Silver"/>
-|through October 6, 2026
-|October 7, 2026
-|{{party shading/Democratic}} |'''48.3%'''
-|44.9%
-|6.8%
-|{{party shading/Democratic}}|'''El-Sayed +3.4%'''
+|through October 9, 2026
+|October 10, 2026
+|{{party shading/Democratic}} |'''48.5%'''
+|45.0%
+|6.5%
+|{{party shading/Democratic}}|'''El-Sayed +3.5%'''
 |-
 |colspan="3" |'''Average'''
-|{{party shading/Democratic}} |'''48.0%'''
-|44.7%
-|7.3%
-|{{party shading/Democratic}}|'''El-Sayed +3.3%'''
+|{{party shading/Democratic}} |'''48.4%'''
+|44.9%
+|6.7%
+|{{party shading/Democratic}}|'''El-Sayed +3.5%'''
 |}
 
 {| class="wikitable" style="font-size:90%;text-align:center;"
