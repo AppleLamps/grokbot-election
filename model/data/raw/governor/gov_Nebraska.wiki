@@ -228,33 +228,33 @@ The '''2026 Nebraska gubernatorial election''' will be held on November 3, 2026,
 !Ranking
 !As of
 |-
-|align=left|''[[The Cook Political Report]]''<ref>{{cite web|title=2026 CPR Governor Race ratings|url=https://www.cookpolitical.com/ratings/governor-race-ratings|website=[[The Cook Political Report]]|access-date=January 23, 2025}}</ref>
+|align=left|''[[The Cook Political Report]]''<ref>{{cite web|title=2026 CPR Governor Race ratings|url=https://www.cookpolitical.com/ratings/governor-race-ratings|website=[[The Cook Political Report]]|access-date=October 11, 2026}}</ref>
 |{{USRaceRating|Solid|R}}
-|September 11, 2025
+|October 1, 2026
 |-
-|align=left|[[Decision Desk HQ]]<ref name="DDHQ">{{cite web |title=2026 Governor Forecast |url=https://votes.decisiondeskhq.com/forecast/2026/governor |website=Decision Desk HQ |access-date=22 September 2026}}</ref>
+|align=left|[[Decision Desk HQ]]<ref name="DDHQ">{{cite web |title=2026 Governor Forecast |url=https://votes.decisiondeskhq.com/forecast/2026/governor |website=[[Decision Desk HQ]] |access-date=October 11, 2026}}</ref>
 |{{USRaceRating|Likely|R}}
-|September 23, 2026
+|October 11, 2026
 |-
-|align=left|[[Fox News]]<ref>{{cite web |title=Fox News Power Rankings: The top races to watch as 36 states choose their next governor |url=https://www.foxnews.com/politics/fox-news-power-rankings-top-races-watch-36-states-choose-next-governor |website=[[Fox News]] |publisher=Rémy Numa |access-date=24 July 2026}}</ref>
+|align=left|[[Fox News]]<ref>{{Cite news |last=Numa |first=Rémy |title=Fox News Power Rankings: The biggest surprises come after October |url=https://www.foxnews.com/politics/fox-news-power-rankings-the-biggest-surprises-come-after-october |work=[[Fox News]] |date=October 6, 2026 |access-date=October 11, 2026}}</ref>
 |{{USRaceRating|Solid|R}}
-|July 23, 2026
+|October 6, 2026
 |-
-|align=left|''[[Inside Elections]]''<ref>{{Cite web|title=Gubernatorial Ratings|url=https://insideelections.com/ratings/governor|access-date=February 7, 2025|website=[[Inside Elections]]}}</ref>
+|align=left|''[[Inside Elections]]''<ref>{{Cite web|title=Gubernatorial Ratings|url=https://insideelections.com/ratings/governor|access-date=October 11, 2026|website=[[Inside Elections]]}}</ref>
 |{{USRaceRating|Solid|R}}
-|August 28, 2025
+|October 1, 2026
 |-
-|align="left"|[[RealClearPolitics]]<ref>{{Cite web|title=2026 Governor Races {{!}} RealClearPolitics|url=https://www.realclearpolling.com/maps/governor/2026/toss-up|access-date=June 5, 2026|website=[[RealClearPolitics]]|archive-url=https://web.archive.org/web/20260601183127/https://www.realclearpolling.com/maps/governor/2026/toss-up|archive-date=June 1, 2026|url-status=dead}}</ref>
+|align="left"|[[RealClearPolitics]]<ref>{{Cite web|url=https://www.realclearpolling.com/maps/governor/2026/toss-up |title=2026 Governor Races |website=[[RealClearPolitics]] |access-date=October 11, 2026}}</ref>
 |{{USRaceRating|Solid|R}}
-|June 5, 2026
+|October 5, 2026
 |-
-|align=left|''[[Sabato's Crystal Ball]]''<ref>{{cite web|title=2026 Governor|url=https://centerforpolitics.org/crystalball/2026-governor/|website=[[Sabato's Crystal Ball]]|access-date=May 1, 2025}}</ref>
+|align=left|''[[Sabato's Crystal Ball]]''<ref>{{cite web|title=2026 Governor|url=https://centerforpolitics.org/crystalball/2026-governor/|website=[[Sabato's Crystal Ball]]|access-date=October 11, 2026}}</ref>
 |{{USRaceRating|Likely|R}}
-|September 29, 2026
+|October 6, 2026
 |-
-| style="text-align: left;" |[[Silver Bulletin]]<ref name="Silver">{{Cite web |last=Silver |first=Nate |date=2026-08-20 |title=FLIPR 2026 midterm election forecast |url=https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model |url-access=subscription |access-date=2026-08-20 |website=www.natesilver.net |language=en}}</ref>
-| {{US political race rating|Likely|R}}
-|October 3, 2026
+|align="left"|[[Silver Bulletin]]<ref name="Silver">{{Cite web |url=https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model |title=FLIPR 2026 midterm election forecast |last1=Silver |first1=Nate |author1-link=Nate Silver |last2=McKown-Dawson |first2=Eli |website=[[Silver Bulletin]] |via=[[Substack]] |date=October 11, 2026 |orig-date=August 11, 2026 |access-date=October 11, 2026 |url-access=subscription}}</ref>
+|{{USRaceRating|Likely|R}}
+|October 11, 2026
 |}
 
 ===Post-primary endorsements===
@@ -276,6 +276,13 @@ The '''2026 Nebraska gubernatorial election''' will be held on November 3, 2026,
  |access-date=September 29, 2026
 }}</ref>
 *[[John Stinner]], [[Nebraska Legislature|state legislator]] from the 48th district (2015–2023) ''(Republican)''<ref name="TwoR"/>
+
+*[[John S. McCollister]], [[Nebraska Legislature|state legislator]] from the 20th district (2015–2023) ''(Republican)''<ref>{{cite news
+ |title=Op-ed: I'm a former Republican state senator. I support Lynne Walz for governor
+ |work=Omaha World-Herald
+ |url=https://omaha.com/opinion/column/article_2de88643-1c87-478d-a55a-f6c57bd84300.html
+ |access-date=2026-10-11
+}}</ref>
 }}
 {{Endorsements box
 |title=Jim Pillen (R)
@@ -296,36 +303,27 @@ The '''2026 Nebraska gubernatorial election''' will be held on November 3, 2026,
 ! Margin
 |-
 |[[270toWin]]<ref>{{cite web|title=2026 Polls: Nebraska Governor
-|url=https://www.270towin.com/2026-governor-polls/nebraska|access-date=September 16, 2026|website=[[270toWin]]}}</ref>
-|September 14 – October 2, 2026
+|url=https://www.270towin.com/2026-governor-polls/nebraska|access-date=October 11, 2026|website=[[270toWin]]}}</ref>
+|September 8–30, 2026
 |October 2, 2026
 |{{party shading/Republican}}|'''46.3%'''
 |36.3%
 |17.4%
 |{{party shading/Republican}}|'''Pillen +10.0%'''
 |-
-|Race to the WH<ref>{{cite web|title=2026 Governor Polling
-|url=https://www.racetothewh.com/governor/26polls|access-date=September 16, 2026|website=Race to the WH}}</ref>
-|through September 30, 2026
-|October 2, 2026
-|{{party shading/Republican}}|'''42.5%'''
-|37.0%
-|20.5%{{efn|Brett Lindstrom (AF) with 9.4%; Rick Beard (LMN) with 5.1%}}
-|{{party shading/Republican}}|'''Pillen +5.5%'''
-|-
 |''[[Silver Bulletin]]''<ref name="Silver"/>
-|through September 30, 2026
-|October 2, 2026
-|{{party shading/Republican}}|'''43.2%'''
-|36.7%
-|20.1%
-|{{party shading/Republican}}|'''Pillen +6.5%'''
+|through October 3, 2026
+|October 11, 2026
+|{{party shading/Republican}}|'''43.5%'''
+|38.5%
+|18.0%
+|{{party shading/Republican}}|'''Pillen +5.0%'''
 |-
 |colspan="3" |Average
-|{{party shading/Republican}}|'''44.0%'''
-|36.7%
-|19.3%
-|{{party shading/Republican}}|'''Pillen +7.3%'''
+|{{party shading/Republican}}|'''44.9%'''
+|37.4%
+|17.7%
+|{{party shading/Republican}}|'''Pillen +7.5%'''
 |}
 
 {| class="wikitable" style="font-size:90%;text-align:center;"
@@ -347,8 +345,8 @@ The '''2026 Nebraska gubernatorial election''' will be held on November 3, 2026,
 |±{{nbsp}}3.3%
 |{{party shading/Republican}}|'''44%'''
 |43%
-|–
-|–
+|{{sdash}}
+|{{sdash}}
 |2%
 |10%
 |-
@@ -360,7 +358,7 @@ The '''2026 Nebraska gubernatorial election''' will be held on November 3, 2026,
 |38%
 |5%
 |3%
-|–
+|{{sdash}}
 |10%
 |-
 | style="text-align: left;" |Wedgewood Polls<ref>{{Cite web|url=https://drive.google.com/file/d/1KBEbm4P_yziCxsZdgMhTzJ3p5UwtN7X5/view?pli=1|title=2026 Nebraska General Election – Senate, Governor & Generic Ballot: Toplines & Crosstabs|work=Wedgewood Polls|access-date=September 16, 2026}}</ref>
@@ -371,8 +369,8 @@ The '''2026 Nebraska gubernatorial election''' will be held on November 3, 2026,
 |36%
 |5%
 |6%
-|–
-|–
+|{{sdash}}
+|{{sdash}}
 |-
 | style="text-align: left;" |Lake Research Partners (D)<ref>{{cite web |title=New Democratic-aligned poll shows Pillen, Walz tied at 40% |url=https://omaha.com/news/state-regional/government-politics/elections/article_7261e7ba-664d-4d70-8e0e-5655e663f593.html |website=Omaha World-Herald |access-date=29 September 2026 |date=September 29, 2026}}</ref>{{efn-ua|name=Walz|Poll sponsored by Walz's campaign}}
 |September 8–14, 2026
@@ -382,7 +380,7 @@ The '''2026 Nebraska gubernatorial election''' will be held on November 3, 2026,
 |'''40%'''
 |9%
 |4%
-|–
+|{{sdash}}
 |7%
 |-
 | style="text-align: left;" |[[SurveyUSA]]<ref>{{Cite web|url=https://results.surveyusa.com/client/PollReport.aspx?g=d94236a7-5861-4b7f-9d81-d5a81ab786cc|title=Independent Candidate Dan Osborn Has Advantage in Nebraska's US Senate Contest, Even as Incumbent GOP Governor Poised to Win 2nd Term:|work=[[SurveyUSA]]|date=September 14, 2026|access-date=September 14, 2026}}</ref>{{efn-ua|name=|Poll sponsored by Grant Forbes, LLC.}}
@@ -391,8 +389,8 @@ The '''2026 Nebraska gubernatorial election''' will be held on November 3, 2026,
 |±&nbsp;6.4%
 |{{party shading/Republican}}|'''43%'''
 |35%
-|–
-|–
+|{{sdash}}
+|{{sdash}}
 |13%{{Efn|"Another candidate" with 13%}}
 |9%
 |-
@@ -414,9 +412,9 @@ The '''2026 Nebraska gubernatorial election''' will be held on November 3, 2026,
 |±&nbsp;3.3%
 |{{party shading/Republican}}|'''47%'''
 |45%
-|–
-|–
-|–
+|{{sdash}}
+|{{sdash}}
+|{{sdash}}
 |5%
 |-
 | style="text-align: left;" |[[Public Policy Polling]] (D)<ref>{{Cite web|url=https://x.com/PollTracker2024/status/2044076429176877138|title=Governor Pillen in Weak Standing as Nebraskans Overwhelmingly Feel State is on the Wrong Track|first1=Jim|last1=Williams|website=[[Twitter]]|date=April 9, 2026|access-date=April 14, 2026}}</ref>
@@ -425,9 +423,9 @@ The '''2026 Nebraska gubernatorial election''' will be held on November 3, 2026,
 |±&nbsp;3.8%
 |{{party shading/Republican}}|'''38%'''
 |33%
-|–
+|{{sdash}}
 |12%
-|–
+|{{sdash}}
 |17%
 |-
 | style="text-align: left;" |Lake Research Partners (D)<ref name="LRPMay2026"/>{{efn-ua|name=Walz}}
@@ -436,9 +434,9 @@ The '''2026 Nebraska gubernatorial election''' will be held on November 3, 2026,
 |±&nbsp;3.3%
 |{{party shading/Republican}}|'''48%'''
 |43%
-|–
-|–
-|–
+|{{sdash}}
+|{{sdash}}
+|{{sdash}}
 |9%
 |-
 | style="text-align: left;" |Lake Research Partners (D)<ref name="LRPMay2026"/>{{efn-ua|name=Walz}}
@@ -447,9 +445,9 @@ The '''2026 Nebraska gubernatorial election''' will be held on November 3, 2026,
 |±&nbsp;3.3%
 |{{party shading/Republican}}|'''51%'''
 |39%
-|–
-|–
-|–
+|{{sdash}}
+|{{sdash}}
+|{{sdash}}
 |10%
 |}
 

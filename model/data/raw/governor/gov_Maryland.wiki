@@ -275,22 +275,22 @@ As the primaries approached, some of the [[Maryland Republican Party]]'s establi
 |style="white-space:nowrap;"| North County Republican Club
 |style="white-space:nowrap;"| [[Kimberly Klacik]]<br>Torrey Snow<br>Yuripzy Morgan
 |style="white-space:nowrap;"| [[YouTube]]<ref>{{cite web |title="DEBATE on the ISSUES" - 2026 Maryland Republican Gubernatorial Primary Debate |url=https://www.youtube.com/watch?v=b1zEYkn8y5c |publisher=Metro Conservative Media |access-date=March 26, 2026 |date=March 26, 2026 |via=[[YouTube]]}}</ref>
-| {{Yes|'''P'''}}
-| {{Yes|'''P'''}}
-| {{Yes|'''P'''}}
-| {{Yes|'''P'''}}
-| {{Yes|'''P'''}}
+| {{D-P|'''P'''}}
+| {{D-P|'''P'''}}
+| {{D-P|'''P'''}}
+| {{D-P|'''P'''}}
+| {{D-P|'''P'''}}
 |- style="background:#FFFFFF;font-size:small;"
 !scope="row"| 2<ref>{{cite news |title=Watch the Maryland Republican Gubernatorial Primary Debate |url=https://www.wypr.org/wypr-news/2026-05-19/watch-the-maryland-republican-gubernatorial-primary-debate |access-date=May 19, 2026 |work=[[WYPR]] |date=May 19, 2026 |language=en}}</ref><ref>{{cite news |last1=Chingarande |first1=Tinashe |title=Majority of Maryland GOP governor candidates to skip debate |url=https://www.baltimoresun.com/2026/05/19/ed-hale-dan-cox-debate-maryland/ |access-date=May 19, 2026 |work=[[The Baltimore Sun]] |date=May 19, 2026}}</ref>
 |style="white-space:nowrap;"| May 19, 2026
 |style="white-space:nowrap;"| [[Maryland Public Television]]
 |style="white-space:nowrap;"| Matt Bush
 |style="white-space:nowrap;"| [[YouTube]]<ref>{{cite web |title=Who are the Republican candidates running for governor? Watch Maryland GOP Governor Primary Debate |url=https://www.youtube.com/watch?v=x-QFPYUolUw |publisher=Maryland Public Television |access-date=May 19, 2026 |date=May 19, 2026 |via=[[YouTube]]}}</ref>
-| {{No|'''A'''}}
-| {{Yes|'''P'''}}
-| {{Yes|'''P'''}}
-| {{No|'''A'''}}
-| {{Yes|'''P'''}}
+| {{D-A|'''A'''}}
+| {{D-P|'''P'''}}
+| {{D-P|'''P'''}}
+| {{D-A|'''A'''}}
+| {{D-P|'''P'''}}
 |}
 
 ===Fundraising===
@@ -475,34 +475,33 @@ Cox is expected to campaign against Moore's handling of economic issues.<ref nam
 !Ranking
 !As of
 |-
-|-
-|align=left|''[[The Cook Political Report]]''<ref>{{cite web|title=2026 CPR Governor Race ratings|url=https://www.cookpolitical.com/ratings/governor-race-ratings|website=[[The Cook Political Report]]|access-date=January 23, 2025}}</ref>
+|align=left|''[[The Cook Political Report]]''<ref>{{cite web|title=2026 CPR Governor Race ratings|url=https://www.cookpolitical.com/ratings/governor-race-ratings|website=[[The Cook Political Report]]|access-date=October 11, 2026}}</ref>
 |{{USRaceRating|Solid|D}}
-|September 11, 2025
+|October 1, 2026
 |-
-|align=left|[[Decision Desk HQ]]<ref name="DDHQ">{{cite web |title=2026 Governor Forecast |url=https://votes.decisiondeskhq.com/forecast/2026/governor |website=Decision Desk HQ |access-date=22 September 2026}}</ref>
+|align=left|[[Decision Desk HQ]]<ref name="DDHQ">{{cite web |title=2026 Governor Forecast |url=https://votes.decisiondeskhq.com/forecast/2026/governor |website=[[Decision Desk HQ]] |access-date=October 11, 2026}}</ref>
 |{{USRaceRating|Safe|D}}
-|September 23, 2026
+|October 11, 2026
 |-
-|align=left|[[Fox News]]<ref>{{cite web |title=Fox News Power Rankings: The top races to watch as 36 states choose their next governor |url=https://www.foxnews.com/politics/fox-news-power-rankings-top-races-watch-36-states-choose-next-governor |website=[[Fox News]] |publisher=Rémy Numa |access-date=24 July 2026}}</ref>
+|align=left|[[Fox News]]<ref>{{Cite news |last=Numa |first=Rémy |title=Fox News Power Rankings: The biggest surprises come after October |url=https://www.foxnews.com/politics/fox-news-power-rankings-the-biggest-surprises-come-after-october |work=[[Fox News]] |date=October 6, 2026 |access-date=October 11, 2026}}</ref>
 |{{USRaceRating|Solid|D}}
-|July 23, 2026
+|October 6, 2026
 |-
-|align=left|''[[Inside Elections]]''<ref>{{Cite web|title=Gubernatorial Ratings|url=https://insideelections.com/ratings/governor|access-date=February 7, 2025|website=[[Inside Elections]]}}</ref>
+|align=left|''[[Inside Elections]]''<ref>{{Cite web|title=Gubernatorial Ratings|url=https://insideelections.com/ratings/governor|access-date=October 11, 2026|website=[[Inside Elections]]}}</ref>
 |{{USRaceRating|Solid|D}}
-|August 28, 2025
+|October 1, 2026
 |-
-|align="left"|[[RealClearPolitics]]<ref>{{Cite web|title=2026 Governor Races {{!}} RealClearPolitics|url=https://www.realclearpolling.com/maps/governor/2026/toss-up|access-date=June 5, 2026|website=[[RealClearPolitics]]|archive-url=https://web.archive.org/web/20260601183127/https://www.realclearpolling.com/maps/governor/2026/toss-up|archive-date=June 1, 2026|url-status=dead}}</ref>
+|align="left"|[[RealClearPolitics]]<ref>{{Cite web|url=https://www.realclearpolling.com/maps/governor/2026/toss-up |title=2026 Governor Races |website=[[RealClearPolitics]] |access-date=October 11, 2026}}</ref>
 |{{USRaceRating|Solid|D}}
-|June 5, 2026
+|October 5, 2026
 |-
-|align=left|''[[Sabato's Crystal Ball]]''<ref>{{cite web|title=2026 Governor|url=https://centerforpolitics.org/crystalball/2026-governor/|website=[[Sabato's Crystal Ball]]|access-date=May 1, 2025}}</ref>
+|align=left|''[[Sabato's Crystal Ball]]''<ref>{{cite web|title=2026 Governor|url=https://centerforpolitics.org/crystalball/2026-governor/|website=[[Sabato's Crystal Ball]]|access-date=October 11, 2026}}</ref>
 |{{USRaceRating|Safe|D}}
-|September 4, 2025
+|October 6, 2026
 |-
-| style="text-align: left;" |[[Silver Bulletin]]<ref name=":Silver">{{Cite web |last=Silver |first=Nate |date=2026-08-20 |title=FLIPR 2026 midterm election forecast |url=https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model |url-access=subscription |access-date=2026-08-20 |website=www.natesilver.net |language=en}}</ref>
-| {{US political race rating|Solid|D}}
-|August 25, 2026
+|align="left"|[[Silver Bulletin]]<ref name="Silver">{{Cite web |url=https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model |title=FLIPR 2026 midterm election forecast |last1=Silver |first1=Nate |author1-link=Nate Silver |last2=McKown-Dawson |first2=Eli |website=[[Silver Bulletin]] |via=[[Substack]] |date=October 11, 2026 |orig-date=August 11, 2026 |access-date=October 11, 2026 |url-access=subscription}}</ref>
+|{{USRaceRating|Solid|D}}
+|October 11, 2026
 |}
 
 ===Post-primary endorsements===
@@ -571,16 +570,16 @@ Cox is expected to campaign against Moore's handling of economic issues.<ref nam
 |style="white-space:nowrap;"| Maryland Association of Counties
 |style="white-space:nowrap;"| Bryan P. Sears<br/>Mileah Kromer
 |style="white-space:nowrap;"| N/A
-| {{Yes|'''P'''}}
-| {{Yes|'''P'''}}
+| {{D-P|'''P'''}}
+| {{D-P|'''P'''}}
 |- style="background:#FFFFFF;font-size:small;"
 !scope="row"| 2<ref>{{cite news |last1=Wintrode |first1=Brenda |title=Governor candidates Wes Moore and Dan Cox will meet in October debate |url=https://www.thebanner.com/politics-power/state-government/wes-moore-dan-cox-debate-BVKHOU27MJEHVL6NEYF7W2GZZE/ |access-date=September 4, 2026 |work=[[The Baltimore Banner]] |date=August 27, 2026 |language=en}}</ref><ref>{{cite news |title=Maryland gubernatorial debate on WBAL-TV, WBAL NewsRadio |url=https://www.wbaltv.com/article/politics-maryland-governors-debate-wbal-tv-2026/73940491 |access-date=October 1, 2026 |work=[[WBAL-TV]] |date=September 29, 2026 |language=en}}</ref>
 |style="white-space:nowrap;"| October 6, 2026
 |style="white-space:nowrap;"| [[Maryland Public Television]]
 |style="white-space:nowrap;"| Jason Newton
 |style="white-space:nowrap;"| [[YouTube]]<ref>{{cite web |author1=Maryland Public Television |author1-link=Maryland Public Television |title=2026 Maryland Gubernatorial Debate {{!}} Wes Moore & Dan Cox |url=https://www.youtube.com/watch?v=woz75jR3wzs |website=[[YouTube]] |access-date=October 6, 2026 |date=October 6, 2026}}</ref>
-| {{Yes|'''P'''}}
-| {{Yes|'''P'''}}
+| {{D-P|'''P'''}}
+| {{D-P|'''P'''}}
 |}
 
 ===Fundraising===

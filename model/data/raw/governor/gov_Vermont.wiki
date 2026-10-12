@@ -207,8 +207,8 @@ While Scott historically won elections by landslide margins, 2026 was shaping up
 |September 29, 2026
 |-
 | style="text-align: left;" |[[Silver Bulletin]]<ref name=":Silver">{{Cite web |last=Silver |first=Nate |date=2026-08-20 |title=FLIPR 2026 midterm election forecast |url=https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model |url-access=subscription |access-date=2026-08-20 |website=www.natesilver.net |language=en}}</ref>
-|{{USRaceRating|Likely|R}}
-|October 3, 2026
+|{{USRaceRating|Solid|R}}
+|October 11, 2026
 |-
 |}
 

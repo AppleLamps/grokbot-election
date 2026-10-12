@@ -108,13 +108,13 @@ See [[Template:USRaceRating]] for how to apply rating.
 ! [[Cook Partisan Voting Index|PVI]]<ref>{{Cite web |date=March 6, 2025 |title=2025 Cook PVI℠: State Map and List |url=https://www.cookpolitical.com/cook-pvi/2025-partisan-voting-index/state-map-and-list |access-date=May 10, 2025 |website=Cook Political Report |language=en}}</ref>
 ! Governor
 ! data-sort-type="number"| Last<br />election{{efn|The last elections for this group of governors, with the exception of New Hampshire and Vermont, were in 2022, except for those who became governors after their predecessor's resignation.}}
-! [[Cook Political Report|Cook]]<br />{{Small|Oct. 1,<br />2026}}<ref>{{cite web |title=2026 CPR Governor Race ratings |url=https://www.cookpolitical.com/ratings/governor-race-ratings |website=Cook Political Report |access-date=October 7, 2026 |language=en}}</ref>
-![[Decision Desk HQ|DDHQ]]<br />{{Small|Oct. 8,<br />2026}}<ref>{{Cite web |title=2026 Governor Races |url=https://votes.decisiondeskhq.com/forecast/governor |access-date=October 8, 2026 |website=Decision Desk HQ |language=en}}</ref>
+! [[Cook Political Report|Cook]]<br />{{Small|Oct. 1,<br />2026}}<ref>{{cite web |title=2026 CPR Governor Race ratings |url=https://www.cookpolitical.com/ratings/governor-race-ratings |website=Cook Political Report |access-date=October 11, 2026 |language=en}}</ref>
+![[Decision Desk HQ|DDHQ]]<br />{{Small|Oct. 11,<br />2026}}<ref>{{Cite web |title=2026 Governor Races |url=https://votes.decisiondeskhq.com/forecast/governor |access-date=October 11, 2026 |website=Decision Desk HQ |language=en}}</ref>
 ![[Fox News|Fox]]<br />{{Small|Oct. 6,<br />2026}}<ref>{{Cite news |last=Numa |first=Rémy |title=Fox News Power Rankings: The biggest surprises come after October |url=https://www.foxnews.com/politics/fox-news-power-rankings-the-biggest-surprises-come-after-october |work=[[Fox News]] |date=October 6, 2026 |access-date=October 7, 2026}}</ref>
 ! [[Inside Elections|IE]]<br />{{Small|Oct. 1,<br />2026}}<ref>{{Cite web |title=Gubernatorial Ratings |url=https://insideelections.com/ratings/governor |access-date=October 7, 2026 |website=[[Inside Elections]] |language=en}}</ref>
-![[RealClearPolitics|RCP]]<br />{{Small|Oct. 5,<br />2026}}<ref>{{Cite web |title=2026 Governor Races |url=https://www.realclearpolling.com/maps/governor/2026/toss-up |access-date=October 7, 2026 |website=www.realclearpolling.com |language=en}}</ref>
+![[RealClearPolitics|RCP]]<br />{{Small|Oct. 5,<br />2026}}<ref>{{Cite web |title=2026 Governor Races |url=https://www.realclearpolling.com/maps/governor/2026/toss-up |access-date=October 11, 2026 |website=www.realclearpolling.com |language=en}}</ref>
 ! [[Larry Joseph Sabato|Sabato]]<br />{{Small|Oct. 6,<br />2026}}<ref>{{Cite web |title=2026 Governor |url=https://centerforpolitics.org/crystalball/2026-governor/ |website=[[Sabato's Crystal Ball]] |language=en |access-date=October 7, 2026}}</ref>
-![[Silver Bulletin|Silver]]<br />{{Small|Oct. 8,<br />2026}}<ref>{{Cite web |url=https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model |title=FLIPR 2026 midterm election forecast |last1=Silver |first1=Nate |author1-link=Nate Silver |last2=McKown-Dawson |first2=Eli |website=[[Silver Bulletin]] |via=[[Substack]] |date=October 8, 2026 |orig-date=August 11, 2026 |access-date=October 8, 2026 |url-access=subscription}}</ref>
+![[Silver Bulletin|Silver]]<br />{{Small|Oct. 11,<br />2026}}<ref>{{Cite web |url=https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model |title=FLIPR 2026 midterm election forecast |last1=Silver |first1=Nate |author1-link=Nate Silver |last2=McKown-Dawson |first2=Eli |website=[[Silver Bulletin]] |via=[[Substack]] |date=October 11, 2026 |orig-date=August 11, 2026 |access-date=October 11, 2026 |url-access=subscription}}</ref>
 |-
 ! [[2026 Alabama gubernatorial election|Alabama]]
 | {{Shading PVI|R|15}}
@@ -409,12 +409,12 @@ See [[Template:USRaceRating]] for how to apply rating.
 | {{Party shading/Republican}} | {{sortname|Mike|DeWine}}<br />{{small|(term-limited)}}
 | {{Party shading/Republican}} data-sort-value="62.4" | 62.41% R
 <!--Cook-->    | {{USRaceRating|Tossup}}
-<!--DDHQ-->    | {{USRaceRating|Lean|D|flip}}
+<!--DDHQ-->    | {{USRaceRating|Tossup}}
 <!--Fox News-->| {{USRaceRating|Tossup}}
 <!--IE-->      | {{USRaceRating|Tossup}}
 <!--RCP-->     | {{USRaceRating|Tossup}}
 <!--Sabato-->  | {{USRaceRating|Tossup}}
-<!--Silver-->  | {{USRaceRating|Likely|D|flip}}
+<!--Silver-->  | {{USRaceRating|Lean|D|flip}}
 |-
 ! [[2026 Oklahoma gubernatorial election|Oklahoma]]
 | {{Shading PVI|R|17}}
@@ -522,7 +522,7 @@ See [[Template:USRaceRating]] for how to apply rating.
 <!--IE-->      | {{USRaceRating|Solid|R}}
 <!--RCP-->     | {{USRaceRating|Lean|R}}
 <!--Sabato-->  | {{USRaceRating|Likely|R}}
-<!--Silver-->  | {{USRaceRating|Likely|R}}
+<!--Silver-->  | {{USRaceRating|Solid|R}}
 |-
 ! [[2026 Wisconsin gubernatorial election|Wisconsin]]
 | {{Shading PVI|EVEN|0}}
@@ -1639,14 +1639,14 @@ On the Democratic side, [[State Auditor of Iowa|State Auditor]] [[Rob Sand]] dec
 | previous_year = 2022
 | next_election = 2030 Kansas gubernatorial election
 | next_year = ''2030''
-| image1 = Cindy Holscher 2026 in Manhattan (cropped) (cropped).jpg
+| image1 = Cindy 2 cropped.jpg
 | image_size = 150x150px
 | nominee1 = [[Cindy Holscher]]
 | party1 = Democratic Party (United States)
 | running_mate1 = [[KC Ohaebosim]]
 | popular_vote1 = 
 | percentage1 = 
-| image2 = 3x4.svg
+| image2 = TY mASTERSON (cropped).jpg
 | nominee2 = [[Ty Masterson]]
 | party2 = Republican Party (United States)
 | running_mate2 = [[Jeff Klemp]]

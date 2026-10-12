@@ -719,33 +719,33 @@ The candidates also diverged on the issue of [[Data center|data centers]]. Brons
 !Ranking
 !As of
 |-
-|align=left|''[[The Cook Political Report]]''<ref>{{cite web|title=2026 CPR Governor Race ratings|url=https://www.cookpolitical.com/ratings/governor-race-ratings|website=[[The Cook Political Report]]|access-date=January 23, 2025}}</ref>
+|align=left|''[[The Cook Political Report]]''<ref>{{cite web|title=2026 CPR Governor Race ratings|url=https://www.cookpolitical.com/ratings/governor-race-ratings|website=[[The Cook Political Report]]|access-date=October 11, 2026}}</ref>
 |{{USRaceRating|Tossup}}
 |October 1, 2026
 |-
-|align=left|[[Decision Desk HQ]]<ref name="DDHQ">{{cite web |title=2026 Governor Forecast |url=https://votes.decisiondeskhq.com/forecast/2026/governor |website=Decision Desk HQ |access-date=22 September 2026}}</ref>
+|align=left|[[Decision Desk HQ]]<ref name="DDHQ">{{cite web |title=2026 Governor Forecast |url=https://votes.decisiondeskhq.com/forecast/2026/governor |website=[[Decision Desk HQ]] |access-date=October 11, 2026}}</ref>
 |{{USRaceRating|Tossup}}
-|September 23, 2026
+|October 11, 2026
 |-
-|align="left"|[[Fox News]]<ref>{{Cite news |last=Numa |first=Rémy |title=Fox News Power Rankings: For the Democrats, where could it possibly go wrong? |url=https://www.foxnews.com/politics/fox-news-power-rankings-democrats-where-could-go-wrong |work=[[Fox News]] |date=September 22, 2026 |access-date=September 22, 2026}}</ref>
+|align="left"|[[Fox News]]<ref>{{Cite news |last=Numa |first=Rémy |title=Fox News Power Rankings: The biggest surprises come after October |url=https://www.foxnews.com/politics/fox-news-power-rankings-the-biggest-surprises-come-after-october |work=[[Fox News]] |date=October 6, 2026 |access-date=October 11, 2026}}</ref>
 |{{USRaceRating|Tossup}}
-|September 22, 2026
+|October 6, 2026
 |-
-|align=left|''[[Inside Elections]]''<ref>{{Cite web|title=Gubernatorial Ratings|url=https://insideelections.com/ratings/governor|access-date=October 1, 2026|website=[[Inside Elections]]}}</ref>
+|align=left|''[[Inside Elections]]''<ref>{{Cite web|title=Gubernatorial Ratings|url=https://insideelections.com/ratings/governor|access-date=October 11, 2026|website=[[Inside Elections]]}}</ref>
 |{{USRaceRating|Tossup}}
 |October 1, 2026
 |-
-|align="left"|[[RealClearPolitics]]<ref>{{Cite web|title=2026 Governor Races {{!}} RealClearPolitics|url=https://www.realclearpolling.com/maps/governor/2026/toss-up|access-date=June 5, 2026|website=[[RealClearPolitics]]|archive-url=https://web.archive.org/web/20260601183127/https://www.realclearpolling.com/maps/governor/2026/toss-up|archive-date=June 1, 2026|url-status=dead}}</ref>
+|align="left"|[[RealClearPolitics]]<ref>{{Cite web|url=https://www.realclearpolling.com/maps/governor/2026/toss-up |title=2026 Governor Races |website=[[RealClearPolitics]] |access-date=October 11, 2026}}</ref>
 |{{USRaceRating|Lean|D|Flip}}
-|September 23, 2026
+|October 5, 2026
 |-
-|align="left"|''[[Sabato's Crystal Ball]]''<ref>{{cite web|title=2026 Governor|url=https://centerforpolitics.org/crystalball/2026-governor/|website=[[Sabato's Crystal Ball]]|access-date=May 1, 2025}}</ref>
+|align="left"|''[[Sabato's Crystal Ball]]''<ref>{{cite web|title=2026 Governor|url=https://centerforpolitics.org/crystalball/2026-governor/|website=[[Sabato's Crystal Ball]]|access-date=October 11, 2026}}</ref>
 |{{USRaceRating|Lean|D|flip}}
 |October 6, 2026
 |-
-| style="text-align: left;" |[[Silver Bulletin]]<ref name=":Silver">{{Cite web |last=Silver |first=Nate |date=2026-08-20 |title=FLIPR 2026 midterm election forecast |url=https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model |url-access=subscription |access-date=2026-08-20 |website=www.natesilver.net |language=en}}</ref>
-| {{US political race rating|Likely|D|Flip}}
-|October 10, 2026
+|align="left"|[[Silver Bulletin]]<ref name="Silver">{{Cite web |url=https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model |title=FLIPR 2026 midterm election forecast |last1=Silver |first1=Nate |author1-link=Nate Silver |last2=McKown-Dawson |first2=Eli |website=[[Silver Bulletin]] |via=[[Substack]] |date=October 11, 2026 |orig-date=August 11, 2026 |access-date=October 11, 2026 |url-access=subscription}}</ref>
+|{{USRaceRating|Likely|D|Flip}}
+|October 11, 2026
 |}
 
 ===Post-primary endorsements===
@@ -804,21 +804,21 @@ title=Bernadette Wilson (R)
 |style="background:#cce0ff"|'''48%'''
 |15%
 |10%
-|–
+|{{sdash}}
 |-
 |2
 |30%
 |{{party shading/Democratic}}|'''50%'''
 |20%
-|–
-|–
+|{{sdash}}
+|{{sdash}}
 |-
 |3
 |46%
 |{{party shading/Democratic}}|'''54%'''{{efn|name=continue}}
-|–
-|–
-|–
+|{{sdash}}
+|{{sdash}}
+|{{sdash}}
 |-
 |rowspan="4" style="text-align:left;"|[[New York Times]]/[[Siena University (New York)|Siena University]]<ref name=NYTPollOct>{{cite web|title=Toplines: September 2026 Times/Siena Poll of the Likely Electorate in Alaska|url=https://www.nytimes.com/interactive/2026/10/03/polls/times-siena-alaska-poll-toplines.html |date=October 3, 2026 |access-date=October 3, 2026}}</ref>
 |rowspan=4|September 24 – October 1, 2026
@@ -836,21 +836,21 @@ title=Bernadette Wilson (R)
 |style="background:#cce0ff"|'''46%'''
 |17%
 |13%
-|–
+|{{sdash}}
 |-
 |2
 |31%
 |style="background:#cce0ff"|'''48%'''
 |22%
-|–
-|–
+|{{sdash}}
+|{{sdash}}
 |-
 |3
 |48%
 |{{party shading/Democratic}}|'''52%'''
-|–
-|–
-|–
+|{{sdash}}
+|{{sdash}}
+|{{sdash}}
 |-
 |rowspan="4" style="text-align:left;"|Fabrizio Ward (R)/<br/>Impact Research (D)<ref name="AARP">{{cite web |last1=Bridges |first1=Kate |title=Alaska Voters 50+ Could Help Decide Key 2026 Races |url=https://www.aarp.org/pri/topics/voter-research/politics/2026-midterm-election-poll-alaska/?CMP=RDRCT-PRI-POLT |website=[[AARP]] |date=September 17, 2026}}</ref>{{efn-ua|name=AARP|Poll sponsored by [[AARP]]}}
 |rowspan="4"|September 8–11, 2026
@@ -874,14 +874,14 @@ title=Bernadette Wilson (R)
 |28%
 |{{party shading/Democratic}}|'''50%'''
 |21%
-|–
+|{{sdash}}
 |19% {{small|NR}}
 |-
 |3{{efn|name=continue}}
 |45%
 |{{party shading/Democratic}}|'''55%'''
-|–
-|–
+|{{sdash}}
+|{{sdash}}
 |25% {{small|NR}}
 |}
 
@@ -1222,11 +1222,11 @@ title=Bernadette Wilson (R)
 | style="white-space:nowrap;" | Alaska Oil and Gas Association
 | style="white-space:nowrap;" | Kati Capozzi
 | style="white-space:nowrap;" | [https://vimeo.com/1225083513 Vimeo]
-| {{Yes|'''P'''}}
-| {{Yes|'''P'''}}
-| {{Yes|'''P'''}}
-| {{No|'''N'''}}
-| {{Yes|'''P'''}}
+| {{D-P|'''P'''}}
+| {{D-P|'''P'''}}
+| {{D-P|'''P'''}}
+| {{D-N|'''N'''}}
+| {{D-P|'''P'''}}
 |-
 !2<ref name= "debatelist">{{cite news |last1=Brooks |first1=James |title=When will Alaska’s statewide candidates debate? Here’s a list of events. |url=https://alaskabeacon.com/2026/09/09/when-will-alaskas-statewide-candidates-debate-heres-a-list-of-events/ |access-date=September 15, 2026 |work=[[Alaska Beacon]] |date=September 9, 2026}}</ref>
 | style="white-space:nowrap;" | Aug. 28, 2026
@@ -1234,9 +1234,9 @@ title=Bernadette Wilson (R)
 | style="white-space:nowrap;" | 
 | style="white-space:nowrap;" | 
 | style="background-color:#FFFFDD"| '''A'''
-| {{Yes|'''P'''}}
-| {{Yes|'''P'''}}
-| {{No|'''N'''}}
+| {{D-P|'''P'''}}
+| {{D-P|'''P'''}}
+| {{D-N|'''N'''}}
 | style="background-color:#FFFFDD"| '''A'''
 |-
 !3<ref>{{cite news |last1=Rosen |first1=Yereth |title=Alaska gubernatorial candidates participate in first forum since a post-primary ballot shuffle |url=https://alaskabeacon.com/2026/09/09/alaska-gubernatorial-candidates-participate-in-first-forum-since-a-post-primary-ballot-shuffle/ |work=[[Alaska Beacon]] |access-date=10 September 2026 |date=10 September 2026 |archive-url=https://web.archive.org/web/20260910080334/https://alaskabeacon.com/2026/09/09/alaska-gubernatorial-candidates-participate-in-first-forum-since-a-post-primary-ballot-shuffle/ |archive-date=September 10, 2026 |url-status=live}}</ref>
@@ -1245,9 +1245,9 @@ title=Bernadette Wilson (R)
 | style="white-space:nowrap;" | 
 | style="white-space:nowrap;" | [https://vimeo.com/event/6157924 Vimeo]
 | style="background-color:#f0e68c"| '''W'''
-| {{Yes|'''P'''}}
-| {{Yes|'''P'''}}
-| {{Yes|'''P'''}}
+| {{D-P|'''P'''}}
+| {{D-P|'''P'''}}
+| {{D-P|'''P'''}}
 | style="background-color:#FFFFDD"| '''A'''
 |-
 !4<ref>{{cite news |last1=Rosen |first1=Yereth |title=Alaska gubernatorial candidates vow support for the seafood industry while revealing some splits |url=https://alaskabeacon.com/2026/09/10/alaska-gubernatorial-candidates-vow-support-for-the-seafood-industry-while-revealing-some-splits/ |access-date=September 10, 2026 |work=[[Alaska Beacon]] |date=September 10, 2026 |archive-url=https://web.archive.org/web/20260911054911/https://alaskabeacon.com/2026/09/10/alaska-gubernatorial-candidates-vow-support-for-the-seafood-industry-while-revealing-some-splits/ |archive-date=September 11, 2026 |url-status=live}}</ref>
@@ -1255,10 +1255,10 @@ title=Bernadette Wilson (R)
 | style="white-space:nowrap;" | [[Gary Stevens (politician)|Gary Stevens]]
 | style="white-space:nowrap;" | [https://www.youtube.com/live/0jJ7z-GL3vo YouTube]
 | style="background-color:#f0e68c"| '''W'''
-| {{Yes|'''P'''}}
-| {{Yes|'''P'''}}
-| {{Yes|'''P'''}}
-| {{Yes|'''P'''}}
+| {{D-P|'''P'''}}
+| {{D-P|'''P'''}}
+| {{D-P|'''P'''}}
+| {{D-P|'''P'''}}
 |-
 !5<ref>{{cite news |last1=Rosen |first1=Yereth |title=Alaska gubernatorial forum puts healthcare at center stage |url=https://alaskabeacon.com/2026/09/17/alaska_gubernatorial_forum/ |work=[[Alaska Beacon]] |date=September 17, 2026 |archive-url=https://web.archive.org/web/20260917181956/https://alaskabeacon.com/2026/09/17/alaska_gubernatorial_forum/ |archive-date=September 17, 2026 |url-status=live}}</ref>
 | style="white-space:nowrap;" | Sep. 16, 2026
@@ -1266,10 +1266,10 @@ title=Bernadette Wilson (R)
 | style="white-space:nowrap;" | Jared Kosin
 | style="white-space:nowrap;" | [https://otter.ai/u/kxMbg48aWKPk5u8GXYWGyVEhMcY Otter.ai (part one)]<br />[https://otter.ai/u/apOrt2G-UMGy7Q95CnbqdBO2a0U Otter.ai (part two)]
 | style="background-color:#f0e68c"| '''W'''
-| {{Yes|'''P'''}}
-| {{Yes|'''P'''}}
-| {{Yes|'''P'''}}
-| {{Yes|'''P'''}}
+| {{D-P|'''P'''}}
+| {{D-P|'''P'''}}
+| {{D-P|'''P'''}}
+| {{D-P|'''P'''}}
 |-
 !6<ref name="WilsonCalls"/>
 | rowspan="2" style="white-space:nowrap;" | Sep. 17, 2026
@@ -1277,19 +1277,19 @@ title=Bernadette Wilson (R)
 | style="white-space:nowrap;" | 
 | style="white-space:nowrap;" | 
 | style="background-color:#f0e68c"| '''W'''
-| {{Yes|'''P'''}}
-| {{Yes|'''P'''}}
-| {{Yes|'''P'''}}
-| {{Yes|'''P'''}}
+| {{D-P|'''P'''}}
+| {{D-P|'''P'''}}
+| {{D-P|'''P'''}}
+| {{D-P|'''P'''}}
 |-
 !7<ref name= "debatelist"/>
 | style="white-space:nowrap;" | [[Commonwealth North]]
 | style="white-space:nowrap;" | Moira Smith
 | style="white-space:nowrap;" | [https://www.youtube.com/watch?v=QT5eY6qIU-o YouTube]
 | style="background-color:#f0e68c"| '''W'''
-| {{Yes|'''P'''}}
-| {{Yes|'''P'''}}
-| {{Yes|'''P'''}}
+| {{D-P|'''P'''}}
+| {{D-P|'''P'''}}
+| {{D-P|'''P'''}}
 | style="background-color:#FFFFDD"| '''A'''
 |-
 !8<ref>{{cite web |author1=Alaska Entrepreneurship Week |title=Alaska Entrepreneurship Week |url=https://www.facebook.com/photo?fbid=1078877908372862&set=a.106801132247216 |website=[[Facebook]] |date=September 21, 2026}}</ref>
@@ -1298,10 +1298,10 @@ title=Bernadette Wilson (R)
 | style="white-space:nowrap;" | Pascual Reig
 | style="white-space:nowrap;" | 
 | style="background-color:#f0e68c"| '''W'''
-| {{Yes|'''P'''}}
-| {{Yes|'''P'''}}
-| {{Yes|'''P'''}}{{efn|Left before question rounds}}
-| {{Yes|'''P'''}}
+| {{D-P|'''P'''}}
+| {{D-P|'''P'''}}
+| {{D-P|'''P'''}}{{efn|Left before question rounds}}
+| {{D-P|'''P'''}}
 |-
 !9<ref name= "debatelist"/>
 | style="white-space:nowrap;" | Sep. 19, 2026
@@ -1309,10 +1309,10 @@ title=Bernadette Wilson (R)
 | style="white-space:nowrap;" | Destiny O'Daniel
 | style="white-space:nowrap;" | [https://www.youtube.com/watch?v=pALV1pZRcyM YouTube]
 | style="background-color:#f0e68c"| '''W'''
-| {{Yes|'''P'''}}
-| {{Yes|'''P'''}}
-| {{Yes|'''P'''}}
-| {{Yes|'''P'''}}
+| {{D-P|'''P'''}}
+| {{D-P|'''P'''}}
+| {{D-P|'''P'''}}
+| {{D-P|'''P'''}}
 |-
 !10<ref name= "debatelist"/>
 | rowspan="2" style="white-space:nowrap;" | Sep. 21, 2026
@@ -1320,20 +1320,20 @@ title=Bernadette Wilson (R)
 | style="white-space:nowrap;" | Connor Hajdukovich
 | style="white-space:nowrap;" | [https://vimeo.com/1229047123 Vimeo]
 | style="background-color:#f0e68c"| '''W'''
-| {{Yes|'''P'''}}
-| {{Yes|'''P'''}}
-| {{Yes|'''P'''}}
-| {{Yes|'''P'''}}
+| {{D-P|'''P'''}}
+| {{D-P|'''P'''}}
+| {{D-P|'''P'''}}
+| {{D-P|'''P'''}}
 |-
 !11<ref name= "debatelist"/>
 | style="white-space:nowrap;" | ''Various''
 | style="white-space:nowrap;" | Lori Townsend
 | style="white-space:nowrap;" | [https://www.youtube.com/live/iEK-juy0fz8 YouTube]
 | style="background-color:#f0e68c"| '''W'''
-| {{Yes|'''P'''}}
-| {{Yes|'''P'''}}
-| {{Yes|'''P'''}}
-| {{Yes|'''P'''}}
+| {{D-P|'''P'''}}
+| {{D-P|'''P'''}}
+| {{D-P|'''P'''}}
+| {{D-P|'''P'''}}
 |-
 !12<ref name= "debatelist"/>
 | style="white-space:nowrap;" | Sep. 22, 2026
@@ -1341,10 +1341,10 @@ title=Bernadette Wilson (R)
 | style="white-space:nowrap;" | 
 | style="white-space:nowrap;" | [https://otter.ai/u/wbLt4hOqZhqXNAqNsJIXuky_GHE Otter.ai]
 | style="background-color:#f0e68c"| '''W'''
-| {{Yes|'''P'''}}
-| {{Yes|'''P'''}}
-| {{Yes|'''P'''}}
-| {{Yes|'''P'''}}
+| {{D-P|'''P'''}}
+| {{D-P|'''P'''}}
+| {{D-P|'''P'''}}
+| {{D-P|'''P'''}}
 |-
 !13<ref name= "debatelist"/>
 | style="white-space:nowrap;" | Sep. 23, 2026
@@ -1352,8 +1352,8 @@ title=Bernadette Wilson (R)
 | style="white-space:nowrap;" | Heather Handyman
 | style="white-space:nowrap;" | [https://www.youtube.com/watch?v=AcSv9C5IwxU YouTube]
 | style="background-color:#f0e68c"| '''W'''
-| {{Yes|'''P'''}}
-| {{Yes|'''P'''}}
+| {{D-P|'''P'''}}
+| {{D-P|'''P'''}}
 | style="background-color:#FFFFDD"| '''A'''
 | style="background-color:#FFFFDD"| '''A'''
 |-
@@ -1363,9 +1363,9 @@ title=Bernadette Wilson (R)
 | style="white-space:nowrap;" | 
 | style="white-space:nowrap;" | 
 | style="background-color:#f0e68c"| '''W'''
-| {{Yes|'''P'''}}
-| {{Yes|'''P'''}}
-| {{Yes|'''P'''}}
+| {{D-P|'''P'''}}
+| {{D-P|'''P'''}}
+| {{D-P|'''P'''}}
 | style="background-color:#FFFFDD"| '''A'''
 |-
 !15<ref name= "debatelist"/>
@@ -1374,10 +1374,10 @@ title=Bernadette Wilson (R)
 | style="white-space:nowrap;" | 
 | style="white-space:nowrap;" | 
 | style="background-color:#f0e68c"| '''W'''
-| {{Yes|'''P'''}}
-| {{Yes|'''P'''}}
-| {{Yes|'''P'''}}
-| {{Yes|'''P'''}}
+| {{D-P|'''P'''}}
+| {{D-P|'''P'''}}
+| {{D-P|'''P'''}}
+| {{D-P|'''P'''}}
 |-
 !16<ref name= "debatelist"/>
 | style="white-space:nowrap;" | Oct. 2, 2026
@@ -1385,8 +1385,8 @@ title=Bernadette Wilson (R)
 | style="white-space:nowrap;" | 
 | style="white-space:nowrap;" | [https://otter.ai/u/r057H5lMKVCd39N7sLUxlKAwrEU Otter.ai]
 | style="background-color:#f0e68c"| '''W'''
-| {{Yes|'''P'''}}
-| {{Yes|'''P'''}}
+| {{D-P|'''P'''}}
+| {{D-P|'''P'''}}
 | style="background-color:#FFFFDD"| '''A'''
 | style="background-color:#FFFFDD"| '''A'''
 |-
@@ -1396,10 +1396,10 @@ title=Bernadette Wilson (R)
 | style="white-space:nowrap;" | 
 | style="white-space:nowrap;" | 
 | style="background-color:#f0e68c"| '''W'''
-| {{Yes|'''P'''}}
-| {{Yes|'''P'''}}
+| {{D-P|'''P'''}}
+| {{D-P|'''P'''}}
 | style="background-color:#FFFFDD"| '''A'''
-| {{Yes|'''P'''}}
+| {{D-P|'''P'''}}
 |-
 !18<ref>{{cite news |last1=Early |first1=Wesley |title=Alaska governor candidates spar over bipartisan cooperation, among other issues, in Debate for the State |url=https://alaskapublic.org/news/politics/elections/2026-10-09/alaska-governor-candidates-spar-over-bipartisan-cooperation-among-other-issues-in-debate-for-the-state |work=[[Alaska Public Media]] |date=October 9, 2026 |archive-url=https://web.archive.org/web/20261010013238/https://alaskapublic.org/news/politics/elections/2026-10-09/alaska-governor-candidates-spar-over-bipartisan-cooperation-among-other-issues-in-debate-for-the-state |archive-date=October 10, 2026 |url-status=live}}</ref>
 | style="white-space:nowrap;" | Oct. 8, 2026
@@ -1407,10 +1407,10 @@ title=Bernadette Wilson (R)
 | style="white-space:nowrap;" | Lori Townsend<br />Eric Stone<br />Wil Courtney
 | style="white-space:nowrap;" | [https://www.youtube.com/watch?v=XWhiyir9eoI YouTube]
 | style="background-color:#f0e68c"| '''W'''
-| {{Yes|'''P'''}}
-| {{Yes|'''P'''}}
-| {{Yes|'''P'''}}
-| {{Yes|'''P'''}}
+| {{D-P|'''P'''}}
+| {{D-P|'''P'''}}
+| {{D-P|'''P'''}}
+| {{D-P|'''P'''}}
 |-
 |}
 

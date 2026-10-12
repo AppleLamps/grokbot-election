@@ -372,10 +372,10 @@ Article IV, Section 5(b) of the [[Constitution of Florida|Florida Constitution]]
 |''[[PBD Podcast]]''
 |[[Patrick Bet-David]]
 |[https://www.youtube.com/watch?v=TIfBM4p0TEg Youtube]
-|{{Yes|'''P'''}}
-|{{D-A|'''A'''}}{{efn|Declined to participate}}
-|{{Yes|'''P'''}}
-|{{Yes|'''P'''}}
+|{{D-P|'''P'''}}
+|{{D-A|'''A'''}}
+|{{D-P|'''P'''}}
+|{{D-P|'''P'''}}
 |-
 |}
 
@@ -419,28 +419,28 @@ On June 25, Renner announced on X that the planned Fox 13 debate, set for July 2
 | [[Republican Party of Florida]]
 | {{TBA}}
 | [[Fort Lauderdale]]
-| {{No|'''N'''}}
-| {{YS|'''I'''}}
-| {{No|'''N'''}}
-| {{No|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-I|'''I'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
 |-
 | July 15, 2026<ref name="Cancelled">{{cite news |last=Fineout |first=Gary |date=June 12, 2026 |title=DeSantis zings Florida GOP over lack of governor primary debates |url=https://www.politico.com/news/2026/06/12/desantis-florida-gop-governor-debates-00960921 |work=[[Politico]]}}</ref><ref>{{cite tweet |number=2065844226303095141 |user=j_fishback |title=.@JayCollinsFL, all four of us have been invited to the CBS debate on July 15th. Why haven't you accepted yet? |last=Fishback |first=James}}</ref><ref name="Jax"/>
 | [[CBS News]]
 | {{TBA}}
 | [[Jacksonville, Florida|Jacksonville]]
-| {{No|'''I'''}}{{efn|Declined to participate}}
-| {{No|'''I'''}}{{efn|Declined to participate}}
-| {{YS|'''I'''}}
-| {{YS|'''I'''}}
+| {{D-I|'''I'''}}{{efn|Declined to participate}}
+| {{D-I|'''I'''}}{{efn|Declined to participate}}
+| {{D-I|'''I'''}}
+| {{D-I|'''I'''}}
 |-
 | July 21, 2026<ref>{{cite tweet |number=2025270021513936951 |user=j_fishback |title=Last night, I accepted Fox's invitation to debate Congressman Byron Donalds on July 21 in Tampa. Here is my full statement. |first=James |last=Fishback}}</ref><ref name="Fox Cancels"/>
 | [[Fox News]]
 | {{TBA}}
 | [[Tampa, Florida|Tampa]]
-| {{No|'''N'''}}
-| {{No|'''I'''}}{{efn|Declined to participate}}
-| {{YS|'''I'''}}
-| {{No|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-I|'''I'''}}{{efn|Declined to participate}}
+| {{D-I|'''I'''}}
+| {{D-N|'''N'''}}
 |}
 
 === Fundraising ===
@@ -1658,34 +1658,33 @@ On June 25, Renner announced on X that the planned Fox 13 debate, set for July 2
 !Ranking
 !As of
 |-
-|-
-|align=left|''[[The Cook Political Report]]''<ref>{{cite web |title=2026 CPR Governor Race ratings |url=https://www.cookpolitical.com/ratings/governor-race-ratings |access-date=October 1, 2026 |website=[[The Cook Political Report]]}}</ref>
+|align=left|''[[The Cook Political Report]]''<ref>{{cite web |title=2026 CPR Governor Race ratings |url=https://www.cookpolitical.com/ratings/governor-race-ratings |access-date=October 11, 2026 |website=[[The Cook Political Report]]}}</ref>
 |{{USRaceRating|Lean|R}}
 |October 1, 2026
 |-
-|align=left|[[Decision Desk HQ]]<ref name="DDHQ">{{cite web |title=2026 Governor Forecast |url=https://votes.decisiondeskhq.com/forecast/2026/governor |access-date=September 30, 2026 |website=Decision Desk HQ}}</ref>
+|align=left|[[Decision Desk HQ]]<ref name="DDHQ">{{cite web |title=2026 Governor Forecast |url=https://votes.decisiondeskhq.com/forecast/2026/governor |website=[[Decision Desk HQ]] |access-date=October 11, 2026}}</ref>
 |{{USRaceRating|Lean|R}}
-|September 30, 2026
+|October 11, 2026
 |-
-|align=left|[[Fox News]]<ref>{{cite web |title=Fox News Power Rankings: The top races to watch as 36 states choose their next governor |url=https://www.foxnews.com/politics/fox-news-power-rankings-top-races-watch-36-states-choose-next-governor.amp |access-date=September 30, 2026 |website=[[Fox News]] |date=September 30, 2026 |publisher=Rémy Numa}}</ref>
+|align=left|[[Fox News]]<ref>{{Cite news |last=Numa |first=Rémy |title=Fox News Power Rankings: The biggest surprises come after October |url=https://www.foxnews.com/politics/fox-news-power-rankings-the-biggest-surprises-come-after-october |work=[[Fox News]] |date=October 6, 2026 |access-date=October 11, 2026}}</ref>
 |{{USRaceRating|Likely|R}}
 |October 6, 2026
 |-
-|align=left|''[[Inside Elections]]''<ref>{{Cite web |title=Governor |url=https://insideelections.com/ratings/governor/ |access-date=September 30, 2026 |website=[[Inside Elections]]}}</ref>
+|align=left|''[[Inside Elections]]''<ref>{{Cite web |title=Governor |url=https://insideelections.com/ratings/governor/ |access-date=October 11, 2026 |website=[[Inside Elections]]}}</ref>
 |{{USRaceRating|Lean|R}}
-|September 30, 2026
+|October 1, 2026
 |-
-|align="left"|[[RealClearPolitics]]<ref>{{Cite web |title=2026 Governor Races {{!}} RealClearPolitics |url=https://www.realclearpolling.com/maps/governor/2026/toss-up |access-date=September 30, 2026 |website=[[RealClearPolitics]] |archive-url=https://web.archive.org/web/20260601183127/https://www.realclearpolling.com/maps/governor/2026/toss-up |archive-date=June 1, 2026 |url-status=dead}}</ref>
+|align="left"|[[RealClearPolitics]]<ref>{{Cite web|url=https://www.realclearpolling.com/maps/governor/2026/toss-up |title=2026 Governor Races |website=[[RealClearPolitics]] |access-date=October 11, 2026}}</ref>
 |{{USRaceRating|Tossup}}
-|September 30, 2026
+|October 5, 2026
 |-
-|align=left|''[[Sabato's Crystal Ball]]''<ref>{{cite web |title=2026 Governor |url=https://centerforpolitics.org/crystalball/2026-governor/ |access-date=September 30, 2026 |website=[[Sabato's Crystal Ball]]}}</ref>
+|align=left|''[[Sabato's Crystal Ball]]''<ref>{{cite web |title=2026 Governor |url=https://centerforpolitics.org/crystalball/2026-governor/ |access-date=October 11, 2026 |website=[[Sabato's Crystal Ball]]}}</ref>
 |{{USRaceRating|Lean|R}}
-|September 30, 2026
+|October 6, 2026
 |-
-| style="text-align: left;" |''[[Silver Bulletin]]''<ref name="Silver">{{Cite web |last1=Silver |first1=Nate |author1-link=Nate Silver |last2=McKown-Dawson |first2=Eli |title=FLIPR 2026 midterm election forecast |url=https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model |access-date=August 20, 2026 |website=[[Silver Bulletin]] |via=[[Substack]]}}</ref>
-| {{US political race rating|Lean|R}}
-|September 13, 2026
+|align="left"|[[Silver Bulletin]]<ref name="Silver">{{Cite web |url=https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model |title=FLIPR 2026 midterm election forecast |last1=Silver |first1=Nate |author1-link=Nate Silver |last2=McKown-Dawson |first2=Eli |website=[[Silver Bulletin]] |via=[[Substack]] |date=October 11, 2026 |orig-date=August 11, 2026 |access-date=October 11, 2026 |url-access=subscription}}</ref>
+|{{USRaceRating|Lean|R}}
+|October 11, 2026
 |}
 
 === Post-primary endorsements ===
@@ -1759,8 +1758,8 @@ On June 25, Renner announced on X that the planned Fox 13 debate, set for July 2
 ! style="width:100px;" |Other/<br />Undecided{{Efn|name=calculated|Calculated by taking the difference of 100% and all other candidates combined.}}
 ! Margin
 |-
-|[[270toWin]]<ref>{{cite web |title=2026 Polls: Florida Governor |url=https://www.270towin.com/2026-governor-polls/florida |access-date=October 8, 2026 |website=[[270toWin]]}}</ref>
-|September 17–28, 2026
+|[[270toWin]]<ref>{{cite web |title=2026 Polls: Florida Governor |url=https://www.270towin.com/2026-governor-polls/florida |access-date=October 11, 2026 |website=[[270toWin]]}}</ref>
+|September 15–27, 2026<!--Remember that dates listed on 270toWin are poll *publication dates*, not the dates when the polls were *administered*. Dates listed here should be dates *administered*-->
 |September 28, 2026
 |{{party shading/Republican}} |'''47.0%'''
 |43.3%
@@ -1792,18 +1791,18 @@ On June 25, Renner announced on X that the planned Fox 13 debate, set for July 2
 |{{party shading/Republican}} |'''Donalds +5.3%'''
 |-
 |''[[Silver Bulletin]]''<ref name="Silver"/>
-|through October 5, 2026
-|October 6, 2026
-|{{party shading/Republican}} |'''46.8%'''
-|43.1%
-|10.1%
-|{{party shading/Republican}} |'''Donalds +3.7%'''
+|through October 7, 2026
+|October 11, 2026
+|{{party shading/Republican}}|'''47.5%'''
+|43.3%
+|9.2%
+|{{party shading/Republican}}|'''Donalds +4.2%'''
 |-
 |colspan="3"|'''Average'''
-|{{party shading/Republican}}|'''47.2%'''
+|{{party shading/Republican}}|'''47.4%'''
 |43.1%
-|9.8%
-|{{party shading/Republican}}|'''Donalds +4.1%'''
+|9.5%
+|{{party shading/Republican}}|'''Donalds +4.3%'''
 |}
 
 {| class="wikitable" style="font-size:90%;text-align:center;"

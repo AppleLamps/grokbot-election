@@ -806,15 +806,15 @@ On September 23, ''[[The New York Times]]'' published allegations from anonymous
 ! Undecided
 |-
 |style="text-align: left;" |InsiderAdvantage (R)<ref>{{cite web|url=https://insideradvantage.com/insideradvantage-u-s-senate-surveys-alaska-ranks-choice-peltola-50-sullivan-48-kansas-hamilton-48-marshall-47-michigan-el-sayed-48-rogers-46/|title=InsiderAdvantage U.S. Senate Surveys: Alaska (Ranks Choice) Peltola 50%, Sullivan 48%; Kansas Hamilton 48%, Marshall, 47%; Michigan El-Sayed 48%, Rogers 46%|date=October 11, 2026|access-date=October 11, 2026}}</ref>
-|October 9-10, 2026
+|October 9–10, 2026
 |1,200 (LV)
 |±{{nbsp}}2.8%
-|48%
-|{{Party shading/Democratic}} | '''50%'''
-|{{sdash}}
-|{{sdash}}
-|{{sdash}}
+|43%
+|{{Party shading/Democratic}} | '''48%'''
 |2%
+|2%
+|{{sdash}}
+|5%
 |-
 | style="text-align:left;|[[New York Times]]/[[Siena University (New York)|Siena University]]<ref>{{cite web|title=Toplines: September 2026 Times/Siena Poll of the Likely Electorate in Alaska|url=https://www.nytimes.com/interactive/2026/10/03/polls/times-siena-alaska-poll-toplines.html |date=October 3, 2026 |access-date=October 3, 2026}}</ref>
 |September 24 – October 1, 2026

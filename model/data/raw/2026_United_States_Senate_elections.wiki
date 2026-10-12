@@ -724,17 +724,17 @@ See [[Template:USRaceRating]] for how to apply rating.
 ! [[Cook Partisan Voting Index|PVI]]<ref name="PVI" />
 ! Senator
 ! data-sort-type="number"| Last<br />election{{efn|The last elections for this group of senators were in 2020, except for those elected in a [[special election]] or who were appointed after the resignation or death of a sitting senator, as noted.}}
-! ''[[The Cook Political Report|Cook]]''<br />{{small|Oct 6,<br />2026}}<ref>{{Cite web |title=2026 CPR Senate Race Ratings|url=https://www.cookpolitical.com/ratings/senate-race-ratings |access-date=October 6, 2026 |website=Cook Political Report}}</ref>
-! [[Decision Desk HQ|DDHQ]]<br />{{small|Oct 9,<br/>2026}}<ref>{{cite web |title=2026 Senate Ratings|url=https://votes.decisiondeskhq.com/forecast/2026/senate |website=[[Decision Desk HQ]]|access-date=October 9, 2026 |language=en}}
+! ''[[The Cook Political Report|Cook]]''<br />{{small|Oct 6,<br />2026}}<ref>{{Cite web |title=2026 CPR Senate Race Ratings|url=https://www.cookpolitical.com/ratings/senate-race-ratings |access-date=October 11, 2026 |website=Cook Political Report}}</ref>
+! [[Decision Desk HQ|DDHQ]]<br />{{small|Oct 11,<br/>2026}}<ref>{{cite web |title=2026 Senate Ratings|url=https://votes.decisiondeskhq.com/forecast/2026/senate |website=[[Decision Desk HQ]]|access-date=October 11, 2026 |language=en}}
 </ref>
-! ''[[The Economist|Econ]]''<br />{{small|Oct 9,<br />2026}}<ref name=":3">{{cite news |title=2026 Senate Forecast |url=https://www.economist.com/interactive/2026/us-midterms/prediction-model/senate/ |newspaper=The Economist |access-date=October 9, 2026}}</ref>{{efn|This forecast uses the terms "Likely" and "Very Likely" the same way the other forecasts use the terms "Lean" and "Likely". To avoid confusion, and for the purposes of equivalency, the terms "Likely" and "Very Likely" will be changed to "Lean" and "Likely".}}
-! [[FiftyPlusOne|FPO]]<br />{{Small|Oct 9,<br />2026}}<ref name=":7">{{Cite web |title=2026 Congressional Forecast |url=https://fiftyplusone.news/forecast/senate/ |access-date=October 9, 2026 |website=FiftyPlusOne |language=en}}</ref>
+! ''[[The Economist|Econ]]''<br />{{small|Oct 11,<br />2026}}<ref name=":3">{{cite news |title=2026 Senate Forecast |url=https://www.economist.com/interactive/2026/us-midterms/prediction-model/senate/ |newspaper=The Economist |access-date=October 11, 2026}}</ref>{{efn|This forecast uses the terms "Likely" and "Very Likely" the same way the other forecasts use the terms "Lean" and "Likely". To avoid confusion, and for the purposes of equivalency, the terms "Likely" and "Very Likely" will be changed to "Lean" and "Likely".}}
+! [[FiftyPlusOne|FPO]]<br />{{Small|Oct 11,<br />2026}}<ref name=":7">{{Cite web |title=2026 Congressional Forecast |url=https://fiftyplusone.news/forecast/senate/ |access-date=October 11, 2026 |website=FiftyPlusOne |language=en}}</ref>
 ! [[Fox News|Fox]]<br />{{small|Oct 6,<br/>2026}}<ref>{{Cite news |last=Numa |first=Rémy |title=Fox News Power Rankings: The biggest surprises come after October |url=https://www.foxnews.com/politics/fox-news-power-rankings-the-biggest-surprises-come-after-october |work=[[Fox News]] |date=October 6, 2026 |access-date=October 6, 2026}}</ref>
 ! ''[[Inside Elections|IE]]''<br />{{small|Oct 1,<br />2026}}<ref>{{Cite web |title=Senate Ratings |url=https://www.insideelections.com/ratings/senate |access-date=October 1, 2026 |website=Inside Elections}}</ref>
-! [[RealClearPolitics|RCP]]<br />{{small|Oct 5,<br />2026}}<ref>{{Cite web |title=Battle for the Senate 2026 |url=https://www.realclearpolling.com/maps/senate/2026/toss-up |access-date=October 5, 2026 |website=realclearpolling.com |language=en}}</ref>
+! [[RealClearPolitics|RCP]]<br />{{small|Oct 5,<br />2026}}<ref>{{Cite web |title=Battle for the Senate 2026 |url=https://www.realclearpolling.com/maps/senate/2026/toss-up |access-date=October 11, 2026 |website=realclearpolling.com |language=en}}</ref>
 ! [[Sabato's Crystal Ball|Sabato]]<br />{{small|Oct 6,<br />2026}}<ref name="sr">{{cite web |title=2026 Senate ratings |url=https://centerforpolitics.org/crystalball/2026-senate/ |website=Sabato's Crystal Ball |access-date=October 6, 2026}}</ref>
 ! [[Silver Bulletin|Silver]]<br />{{Small|Oct 9,<br />2026}}<ref>{{Cite web |url=https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model |title=FLIPR 2026 midterm election forecast |last1=Silver |first1=Nate |author1-link=Nate Silver |last2=McKown-Dawson |first2=Eli |website=[[Silver Bulletin]] |via=[[Substack]] |date=October 9, 2026 |orig-date=August 11, 2026 |access-date=October 9, 2026 |url-access=subscription}}</ref>
-! [[Split Ticket (website)|ST]]<br />{{Small|Oct 7,<br />2026}}<ref>{{Cite magazine |title=Split Ticket 2026 Midterms Model |url=https://www.theargumentmag.com/p/split-ticket-2026-midterms-model |access-date=October 7, 2026 |magazine=[[The Argument (magazine)|The Argument]] |language=en}}</ref>
+! [[Split Ticket (website)|ST]]<br />{{Small|Oct 7,<br />2026}}<ref>{{Cite magazine |title=Split Ticket 2026 Midterms Model |url=https://www.theargumentmag.com/p/split-ticket-2026-midterms-model |access-date=October 11, 2026 |magazine=[[The Argument (magazine)|The Argument]] |language=en}}</ref>
 |-
 ! [[2026 United States Senate election in Alabama|Alabama]]
 | {{Shading PVI|R|15}}
@@ -928,7 +928,7 @@ See [[Template:USRaceRating]] for how to apply rating.
 <!--IE-->        | {{USRaceRating|Solid|R}}
 <!--RCP-->       | {{USRaceRating|Solid|R}}
 <!--Sabato-->    | {{USRaceRating|Safe|R}}
-<!--SB-->        | {{USRaceRating|Likely|R}}
+<!--SB-->        | {{USRaceRating|Solid|R}}
 <!--ST-->        | {{USRaceRating|Safe|R}}
 |-
 ! [[2026 United States Senate election in Maine|Maine]]
@@ -1274,9 +1274,7 @@ See [[Template:USRaceRating]] for how to apply rating.
 <!--ST-->        |{{Party shading/Democratic}} | D/I - 52<br />R - 47<br />1 tossup
 |}
 
-== Impact of the Latino Vote in the 2026 Elections ==
-Latino voters make up a growing share of the eligible voting population in the United States, an increase of about 5 million people compared to 2022.<ref>{{Cite web |title=Latino Americans are the real swing voters |url=https://www.ft.com/content/6a28fe07-f7bd-4f65-9269-d1409756ef34 |access-date=2026-10-11 |website=www.ft.com |language=en-GB}}</ref> According to polls, Latino voters, who played a significant role in Trump's victory in the 2024 election, now support Democrats more.<ref>{{Cite web |last=Pantazi |first=Andrew |date=2026-10-05 |title=Latino men swung hard to Trump in 2024. Now they're swinging back |url=https://www.axios.com/2026/10/05/latinos-democrats-trump |access-date=2026-10-11 |website=Axios |language=en}}</ref><ref>{{Cite web |title=Latino voters favor Democratic control of Congress by 24-point margin: Survey |url=https://thehill.com/homenews/campaign/6129611-latino-voters-democrats-congress-poll/}}</ref> Rising prices and Trump's immigration policies are among the reasons for Latino voters' dissatisfaction. About two-thirds of them believe that deportation policies have gone too far, and three-quarters are dissatisfied with Trump's performance on the economy and the cost of living.<ref>{{Cite web |date=2026-10-04 |title=Poll: Latino voters swing away from Trump and Republicans |url=https://www.nbcnews.com/politics/2026-election/poll-latino-voters-swing-away-trump-republicans-midterm-shift-rcna599894 |access-date=2026-10-11 |website=NBC News |language=en}}</ref>
-
+== Elections ==
 == Generic congressional ballot aggregate polls ==
 {{#section:2026 United States House of Representatives elections|GenericBallotAgg}}
 
@@ -1298,9 +1296,7 @@ The [[Democratic Party (United States)|Democratic]]-held Senate race expected to
 
 In [[2026 United States Senate election in Georgia|Georgia]], incumbent Democratic senator [[Jon Ossoff]] is running against Republican [[Mike Collins (politician)|Mike Collins]], the [[U.S. representative]] from {{ushr|GA|10}}.<ref>{{cite news |department= AJC Politics |access-date= July 18, 2025 |title= U.S. Rep. Mike Collins prepares Senate run in Georgia, aiming to seize MAGA lane |date= July 18, 2025 |url= https://www.ajc.com/politics/2025/07/us-rep-mike-collins-prepares-senate-run-in-georgia-aiming-to-seize-maga-lane/ |work= [[The Atlanta Journal-Constitution]] |author= Bluestein, Greg}}</ref> The race was initially expected to be very competitive,<ref name= "el" /> but election predictors have become increasingly confident of Ossoff's prospects.<ref>{{cite web |url= https://thehill.com/homenews/campaign/5999066-ossoff-georgia-sabatos-crystal-ball-uva/ |last= Mancini |first= Ryan |date= July 30, 2026 |access-date= August 5, 2026|website= The Hill |title= Ossoff reelection bid, 5 House seats move toward Democrats: Sabato's Crystal Ball}}</ref>
 
-== Allegation of fraud in the 2026 election ==
-Some analysts also believe that Trump's actions make voting more difficult for people and fraud easier.<ref>{{Cite web |date=2026-09-08 |title=Here is Trump's blueprint to rig the 2026 midterms |url=https://www.democracydocket.com/opinion/here-is-trumps-blueprint-to-rig-the-2026-midterms/ |access-date=2026-10-10 |website=Democracy Docket |language=en-US}}</ref>
-
+== election ==
 ==Election dates ==
 
 {| class="wikitable sortable"

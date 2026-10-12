@@ -19,6 +19,9 @@
 | image2 = Adam Hamilton at podium (cropped 2).jpg
 | nominee2 = [[Adam Hamilton (pastor)|Adam Hamilton]]
 | party2 = Democratic Party (United States)
+| image3 = 3x4.svg
+| nominee3 = David Graham
+| party3 = Libertarian Party (United States)
 | title = U.S. senator
 | before_election = [[Roger Marshall]]
 | before_party = Republican Party (United States)
@@ -49,6 +52,9 @@ Though generally considered to be a [[red state]],<ref>{{Cite news |url=https://
 |list=
 ;Executive branch officials
 *[[Donald Trump]], [[president of the United States]] (2017–2021, 2025–present)<ref>{{Cite web |date=2025-07-09 |title=Trump endorses Kansas politicians Roger Marshall, Derek Schmidt, Tracey Mann|url=https://www.cjonline.com/story/news/politics/elections/2025/07/22/donald-trump-endorses-kansas-gop-congressmen-for-reelection-in-2026/85307235007/ |access-date=2025-09-13 |website=[[The Topeka Capital-Journal]] |language=en-US}}</ref>
+
+;Statewide officials
+*[[Sam Brownback]], former [[governor of Kansas]] (2011–2018)
 
 ;Organizations
 *[[AIPAC]]<ref>{{Cite web |title=- AIPAC Political Portal |url=https://candidates.aipacpac.org/page/featured |access-date=2025-04-28 |website=candidates.aipacpac.org |archive-date=July 29, 2022 |archive-url=https://web.archive.org/web/20220729053435/https://candidates.aipacpac.org/page/featured |url-status=live }}</ref>
@@ -501,14 +507,14 @@ One issue raised during the campaign was Roger Marshall's history of suing over 
 ! style="width:100px;" | David<br />Graham (L)
 ! Undecided
 |-
-|style="text-align: left;" |InsiderAdvantage (R)<ref>{{cite web|url=https://insideradvantage.com/insideradvantage-u-s-senate-surveys-alaska-ranks-choice-peltola-50-sullivan-48-kansas-hamilton-48-marshall-47-michigan-el-sayed-48-rogers-46/|title=InsiderAdvantage U.S. Senate Surveys: Alaska (Ranks Choice) Peltola 50%, Sullivan 48%; Kansas Hamilton 48%, Marshall, 47%; Michigan El-Sayed 48%, Rogers 46%|date=October 11, 2026|access-date=October 11, 2026}}</ref>
+|style="text-align: left;" |InsiderAdvantage (R)<ref>{{cite web|url=https://insideradvantage.com/insideradvantage-u-s-senate-surveys-alaska-ranks-choice-peltola-50-sullivan-48-kansas-hamilton-48-marshall-47-michigan-el-sayed-48-rogers-46/|title=InsiderAdvantage U.S. Senate Surveys: Alaska (Ranks Choice) Peltola 50%, Sullivan 48%; Kansas Hamilton 48%, Marshall, 47%; Michigan El-Sayed 48%, Rogers 46%|date=October 11, 2026|access-date=October 11, 2026}}</ref><ref>{{Cite tweet |author=InsiderAdvantage |user=InsiderPolling |number=2109439147522007169 |title=Kansas Top Line Tabs |date=October 11, 2026 |access-date=October 11, 2026}}</ref>
 |October 9–10, 2026
 |1,200 (LV)
 |±{{nbsp}}2.8%
 |47%
 |{{Party shading/Democratic}} | '''48%'''
-|{{sdash}}
-|5%
+|3%
+|2%
 |-
 |rowspan="2" style="text-align: left;" |GBAO (D)<ref>{{cite web|url=https://static.politico.com/37/ce/d434188d4d2b83a7e3c9bcf2427c/gbao-hamilton-polling-memo-100626.pdf|title=Adam Hamilton Leads +5 In Kansas|publisher=GBAO|via=[[Politico]]|date=October 6, 2026|access-date=October 7, 2026}}</ref><ref>{{Cite tweet |last=Benson |first=Samuel |user=sambbenson |number=2107792740259914148 |title=New KS-SEN poll |date=October 7, 2026|access-date=October 7, 2026}}</ref>{{efn-ua|name=Hamilton}}
 |rowspan="2"|September 30 – October 4, 2026

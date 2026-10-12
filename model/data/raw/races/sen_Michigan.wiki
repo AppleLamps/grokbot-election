@@ -1406,7 +1406,7 @@ Michigan was considered one of the top Republican senate pickup opportunities fo
 *[[Bobby Schostak]], former chair of the [[Michigan Republican Party]] (2011–2015)<ref>{{cite web |last=Kassel |first=Matthew |title=Mike Rogers calibrates Jewish outreach as he builds broad coalition against Abdul El-Sayed |url=https://jewishinsider.com/2026/08/abdul-el-sayed-mike-rogers-michigan-senate-jewish-outreach/ |website=[[Jewish Insider]] |date=August 14, 2026 |access-date=August 21, 2026}}</ref>
 
 ;Individuals
-*[[Jake Lang]], far-right, anti-Muslim rioter<ref>{{Cite web |date=2026-08-20 |title='Dearborn didn't just survive. It taught': How the community fended off hate |url=https://yemeniamerican.com/en/dearborn-didnt-just-survive-it-taught-how-the-community-fended-off-hate/ |access-date=2026-10-11 |website=The Yemeni American |language=en}}</ref>
+*[[Jake Lang]], far-right activist<ref>{{Cite news |date=October 10, 2026 |title=Abdul El-Sayed campaign event disrupted by agitators in west Michigan |url=https://www.mlive.com/politics/2026/10/abdul-el-sayed-campaign-event-disrupted-by-agitators-in-west-michigan.html |access-date=October 11, 2026 |work=MLive |language=en}}</ref>
 *[[Asher Lopatin]], rabbi (''Democratic'')<ref>{{cite web |last=Tolen |first=Melanie |title=Mike Rogers launches 'Democrats for Rogers' effort in Michigan Senate race |url=https://spectrumlocalnews.com/mi/michigan/news/2026/08/20/mike-rodgers-campaign-2026 |website=[[Spectrum News]] |date=August 20, 2026 |access-date=August 21, 2026}}</ref>
 
 ;Organizations
@@ -1523,7 +1523,7 @@ Michigan was considered one of the top Republican senate pickup opportunities fo
 ! Margin
 |-
 |[[270toWin]]<ref name="270toWin">{{cite web |title=2026 Polls: Michigan Senate |url=https://www.270towin.com/2026-senate-polls/michigan |website=270toWin |access-date=October 6, 2026}}</ref>
-|September 18 – October 1, 2026<!--Remember that dates listed on 270toWin are poll *publication dates*, not the dates when the polls were *administered*-->
+|September 18 – October 1, 2026<!--Remember that dates listed on 270toWin are poll *publication dates*, not the dates when the polls were *administered*. Dates listed here should be dates *administered*-->
 |October 5, 2026
 |{{party shading/Democratic}} |'''47.8%'''
 |43.8%
@@ -1581,13 +1581,13 @@ Michigan was considered one of the top Republican senate pickup opportunities fo
 ! Undecided
 |-
 |style="text-align: left;" |InsiderAdvantage (R)<ref>{{cite web|url=https://insideradvantage.com/insideradvantage-u-s-senate-surveys-alaska-ranks-choice-peltola-50-sullivan-48-kansas-hamilton-48-marshall-47-michigan-el-sayed-48-rogers-46/|title=InsiderAdvantage U.S. Senate Surveys: Alaska (Ranks Choice) Peltola 50%, Sullivan 48%; Kansas Hamilton 48%, Marshall, 47%; Michigan El-Sayed 48%, Rogers 46%|date=October 11, 2026|access-date=October 11, 2026}}</ref>
-|October 9-10, 2026
+|October 9–10, 2026
 |1,200 (LV)
 |±{{nbsp}}2.8%
 |{{Party shading/Democratic}} | '''48%'''
 |46%
-|{{sdash}}
-|6%
+|1%{{efn|Christensen (L) with 1%; Marsh (G) and Long (UST) with <1%}}
+|5%
 |-
 |style="text-align: left;"|Wedgewood Polls<ref>{{Cite web |title=2026 Michigan General Election – Senate & Governor: Toplines & Crosstabs |url=https://drive.google.com/file/d/1aJZLOtyfQnZtPDHogNEN2UATqMhrLgxc/view |work=Wedgewood Polls |date=October 9, 2026 |access-date=October 9, 2026}}</ref>
 |October 8–9, 2026

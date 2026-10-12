@@ -948,13 +948,13 @@ UDW Endorses Tom Steyer for Governor of California |url=https://www.udw.org/news
 | {{D-A|'''A'''}}
 | {{D-A|'''A'''}}
 | {{D-A|'''A'''}}
-| {{Yes|'''P'''}}
+| {{D-P|'''P'''}}
 | {{D-A|'''A'''}}
-| {{Yes|'''P'''}}
+| {{D-P|'''P'''}}
 | {{D-A|'''A'''}}
 | {{D-A|'''A'''}}
-| {{Yes|'''P'''}}
-| {{Yes|'''P'''}}
+| {{D-P|'''P'''}}
+| {{D-P|'''P'''}}
 | {{D-A|'''A'''}}
 | {{D-A|'''A'''}}
 |- style="background:#fff; font-size:small;"
@@ -963,17 +963,17 @@ UDW Endorses Tom Steyer for Governor of California |url=https://www.udw.org/news
 | style="white-space:nowrap;" | Black Action Alliance<br />[[KTVU]]<br>[[KTTV]]
 | style="white-space:nowrap;" | Greg Lee<br />Andre Senior<br />Marla Tellez
 | style="white-space:nowrap;" | [https://www.youtube.com/watch?v=Ykw1qLhO1nM YouTube]
-| {{Yes|'''P'''}}
-| {{Yes|'''P'''}}
-| {{Yes|'''P'''}}
-| {{Yes|'''P'''}}
-| {{Yes|'''P'''}}
-| {{Yes|'''P'''}}
+| {{D-P|'''P'''}}
+| {{D-P|'''P'''}}
+| {{D-P|'''P'''}}
+| {{D-P|'''P'''}}
+| {{D-P|'''P'''}}
+| {{D-P|'''P'''}}
 | {{D-A|'''A'''}}{{refn|group=lower-alpha|Did not attend due to the [[January–February 2026 United States federal government shutdown]]}}
 | {{D-A|'''A'''}}
 | {{D-W|'''W'''}}
 | {{D-W|'''W'''}}
-| {{Yes|'''P'''}}
+| {{D-P|'''P'''}}
 | {{D-A|'''A'''}}
 |- style="background:#fff; font-size:small;"
 !3
@@ -982,16 +982,16 @@ UDW Endorses Tom Steyer for Governor of California |url=https://www.udw.org/news
 | style="white-space:nowrap;" | [[Alex Cohen]]
 | style="white-space:nowrap;" | [https://www.youtube.com/watch?v=mH-ZKGUUlv0 YouTube]
 | {{D-A|'''A'''}}
-| {{Yes|'''P'''}}
-| {{Yes|'''P'''}}
+| {{D-P|'''P'''}}
+| {{D-P|'''P'''}}
 | {{D-N|'''N'''}}
-| {{Yes|'''P'''}}
+| {{D-P|'''P'''}}
 | {{D-N|'''N'''}}
-| {{Yes|'''P'''}}
+| {{D-P|'''P'''}}
 | {{D-A|'''A'''}}
 | {{D-W|'''W'''}}
 | {{D-W|'''W'''}}
-| {{Yes|'''P'''}}
+| {{D-P|'''P'''}}
 | {{D-A|'''A'''}}
 |- style="background:#fff; font-size:small;"
 !4
@@ -999,90 +999,90 @@ UDW Endorses Tom Steyer for Governor of California |url=https://www.udw.org/news
 | [[Nexstar Media Group]]<br />[[NewsNation]]<br />''[[The Hill (newspaper)|The Hill]]''
 | Nikki Laurenzo<br />Frank Buckley
 | style="white-space:nowrap;" | [https://www.youtube.com/watch?v=Xd8xdLbbADw YouTube]
-| {{Yes|'''P'''}}
-| {{Yes|'''P'''}}
-| {{Yes|'''P'''}}
+| {{D-P|'''P'''}}
+| {{D-P|'''P'''}}
+| {{D-P|'''P'''}}
 | {{D-N|'''N'''}}
 | {{D-N|'''N'''}}
 | {{D-W|'''W'''}}
 | {{D-W|'''W'''}}
-| {{Yes|'''P'''}}
+| {{D-P|'''P'''}}
 | {{D-W|'''W'''}}
 | {{D-W|'''W'''}}
-| {{Yes|'''P'''}}
-| {{Yes|'''P'''}}
+| {{D-P|'''P'''}}
+| {{D-P|'''P'''}}
 |- style="background:#fff; font-size:small;"
 !5
 | style="white-space:nowrap;" | Apr. 28,<br>2026<ref>{{cite news|title=CBS California to host live Governor's Debate with top candidates|url=https://www.cbsnews.com/losangeles/news/the-cbs-california-governors-debate/|date=March 12, 2026| publisher=[[CBS News]]}}</ref>
 | style="white-space:nowrap;" | Asian Pacific<wbr> American <wbr>Public Affairs<br />[[CBS California]]<br />[[Pomona College]]
 | style="white-space:nowrap;" | [[Pat Harvey]]<br />Ryan Yamamoto<br />Tony Lopez<br />Julie Watts<br />Sara Sadhwani
 | style="white-space:nowrap;" | [https://www.youtube.com/watch?v=1ikN8crwsFM YouTube]
-| {{Yes|'''P'''}}<ref name=CBS>{{Cite web|url=https://www.cbsnews.com/losangeles/news/cbs-california-hosting-the-states-largest-gubernatorial-debate/|title=CBS-owned California Stations host the state's largest gubernatorial debate - CBS Los Angeles|date=April 26, 2026|website=www.cbsnews.com}}</ref>
-| {{Yes|'''P'''}}<ref name=CBS/>
-| {{Yes|'''P'''}}<ref name=CBS/>
-| {{Yes|'''P'''}}<ref name=CBS/>
-| {{Yes|'''P'''}}<ref name=CBS/>
+| {{D-P|'''P'''}}<ref name=CBS>{{Cite web|url=https://www.cbsnews.com/losangeles/news/cbs-california-hosting-the-states-largest-gubernatorial-debate/|title=CBS-owned California Stations host the state's largest gubernatorial debate - CBS Los Angeles|date=April 26, 2026|website=www.cbsnews.com}}</ref>
+| {{D-P|'''P'''}}<ref name=CBS/>
+| {{D-P|'''P'''}}<ref name=CBS/>
+| {{D-P|'''P'''}}<ref name=CBS/>
+| {{D-P|'''P'''}}<ref name=CBS/>
 | {{D-W|'''W'''}}
 | {{D-W|'''W'''}}
-| {{Yes|'''P'''}}<ref name=CBS/>
+| {{D-P|'''P'''}}<ref name=CBS/>
 | {{D-W|'''W'''}}
 | {{D-W|'''W'''}}
-| {{Yes|'''P'''}}<ref name=CBS/>
-| {{Yes|'''P'''}}<ref name=CBS/>
+| {{D-P|'''P'''}}<ref name=CBS/>
+| {{D-P|'''P'''}}<ref name=CBS/>
 |- style="background:#fff; font-size:small;"
 !6
 | style="white-space:nowrap;" | May 5,<br>2026<ref>{{cite news|title=When's the next California governor debate? See candidates, start time|url=https://www.usatoday.com/story/news/california/2026/04/15/california-governor-race-debates-cnn-cbs/89624072007/|date=April 15, 2026| publisher=[[USA Today]]}}</ref>
 | style="white-space:nowrap;" | [[CNN]]
 | style="white-space:nowrap;" | [[Elex Michaelson]]<br />[[Kaitlan Collins]]
 | style="white-space:nowrap;" | –
-| {{Yes|'''P'''}}
-| {{Yes|'''P'''}}
-| {{Yes|'''P'''}}
+| {{D-P|'''P'''}}
+| {{D-P|'''P'''}}
+| {{D-P|'''P'''}}
 | {{D-N|'''N'''}}<ref>{{Cite web|url=https://www.cnn.com/politics/who-are-the-california-governor-candidates-cnn-debate|title=Here are the candidates who have qualified for CNN's California governor's debate &#124; CNN Politics|first=Kaanita Iyer, Jack|last=Clifton|date=April 28, 2026|website=CNN}}</ref>
-| {{Yes|'''P'''}}
+| {{D-P|'''P'''}}
 | {{D-W|'''W'''}}
 | {{D-W|'''W'''}}
-| {{Yes|'''P'''}}
+| {{D-P|'''P'''}}
 | {{D-W|'''W'''}}
 | {{D-W|'''W'''}}
-| {{Yes|'''P'''}}
-| {{Yes|'''P'''}}
+| {{D-P|'''P'''}}
+| {{D-P|'''P'''}}
 |- style="background:#fff; font-size:small;"
 !7
 | style="white-space:nowrap;" | May 6,<br>2026<ref>{{cite web |last1=Lloyd |first1=Jonathan |title=Candidates for LA mayor, California governor to meet in debate doubleheader |url=https://www.nbclosangeles.com/news/politics/nbc4-debate-california-governor-la-mayor-election/3885376/ |website=[[KNBC]] |date=May 5, 2026}}</ref>
 | style="white-space:nowrap;" | [[KNBC]]<br>[[KVEA]]
 | style="white-space:nowrap;" | [[Colleen Williams]]<br />[[Conan Nolan]]<br>Enrique Chiabra
 | style="white-space:nowrap;" | [https://www.youtube.com/watch?v=6o0pu2huVvc&pp=ygURY2FsaWZvcm5pYSBkZWJhdGU%3D YouTube]
-| {{Yes|'''P'''}}
-| {{Yes|'''P'''}}
-| {{Yes|'''P'''}}
+| {{D-P|'''P'''}}
+| {{D-P|'''P'''}}
+| {{D-P|'''P'''}}
 | {{D-N|'''N'''}}
-| {{Yes|'''P'''}}
+| {{D-P|'''P'''}}
 | {{D-W|'''W'''}}
 | {{D-W|'''W'''}}
-| {{Yes|'''P'''}}
+| {{D-P|'''P'''}}
 | {{D-W|'''W'''}}
 | {{D-W|'''W'''}}
-| {{Yes|'''P'''}}
-| {{Yes|'''P'''}}
+| {{D-P|'''P'''}}
+| {{D-P|'''P'''}}
 |- style="background:#fff; font-size:small;"
 !8
 | style="white-space:nowrap;" | May 14,<br>2026<ref>{{cite web |last1=Fang |first1=Tim |title=How to watch the governor's debate hosted by CBS News California, San Francisco Examiner |url=https://www.cbsnews.com/sanfrancisco/news/how-to-watch-governor-debate-may-14-cbs-news-california-san-francisco-examiner/ |website=[[CBS News]] |date=May 14, 2026}}</ref>
 | style="white-space:nowrap;" | [[CBS News]]<br />[[San Francisco Examiner]]
 | style="white-space:nowrap;" | Schuyler Hudak Prionas<br />Tom Wait<br />Ryan Yamamoto
 | style="white-space:nowrap;" | [https://www.youtube.com/watch?v=YU1E6kv1JcM YouTube]
-| {{Yes|'''P'''}}
-| {{Yes|'''P'''}}
-| {{Yes|'''P'''}}
+| {{D-P|'''P'''}}
+| {{D-P|'''P'''}}
+| {{D-P|'''P'''}}
 | {{D-N|'''N'''}}
-| {{Yes|'''P'''}}
+| {{D-P|'''P'''}}
 | {{D-W|'''W'''}}
 | {{D-W|'''W'''}}
-| {{Yes|'''P'''}}
+| {{D-P|'''P'''}}
 | {{D-W|'''W'''}}
 | {{D-W|'''W'''}}
-| {{Yes|'''P'''}}
-| {{Yes|'''P'''}}
+| {{D-P|'''P'''}}
+| {{D-P|'''P'''}}
 |}</div>
 
 ====Canceled debate====
@@ -1103,7 +1103,7 @@ A debate scheduled for March 24, 2026, hosted by the [[USC Center for the Politi
 ! style="width:60px;"| Other/<br />Undecided<wbr>{{Efn|Calculated by taking the difference of 100% and all other candidates combined.|name=|group=}}
 !Margin
 |-
-|[[270toWin]]<ref>{{Cite web |title=2026 Polls: California Governor - 270toWin |url=https://www.270towin.com/2026-governor-polls/california |access-date=June 2, 2026 |website=270toWin.com}}</ref>
+|[[270toWin]]<ref name="270toWin"/>
 |May 14–31, 2026<!--Remember that dates listed on 270toWin are poll *publication dates*, not the dates when the poll were *administered*-->
 |June 2, 2026
 |{{party shading/Democratic}} |'''24.0%'''
@@ -4035,34 +4035,33 @@ File:2026 California Gov Primary Chad Bianco counties.svg|Vote share of Bianco b
 !Ranking
 !As of
 |-
-|-
-|align=left|''[[The Cook Political Report]]''<ref>{{cite web|title=2026 CPR Governor Race ratings|url=https://www.cookpolitical.com/ratings/governor-race-ratings|website=[[The Cook Political Report]]|access-date=January 23, 2025}}</ref>
+|align=left|''[[The Cook Political Report]]''<ref>{{cite web|title=2026 CPR Governor Race ratings|url=https://www.cookpolitical.com/ratings/governor-race-ratings|website=[[The Cook Political Report]]|access-date=October 11, 2026}}</ref>
 |{{USRaceRating|Solid|D}}
-|August 27, 2026
+|October 1, 2026
 |-
-|align=left|[[Decision Desk HQ]]<ref name="DDHQ">{{cite web |title=2026 Governor Forecast |url=https://votes.decisiondeskhq.com/forecast/2026/governor |website=Decision Desk HQ |access-date=22 September 2026}}</ref>
+|align=left|[[Decision Desk HQ]]<ref name="DDHQ">{{cite web |title=2026 Governor Forecast |url=https://votes.decisiondeskhq.com/forecast/2026/governor |website=[[Decision Desk HQ]] |access-date=October 11, 2026}}</ref>
 |{{USRaceRating|Safe|D}}
-|September 23, 2026
+|October 11, 2026
 |-
-|align=left|[[Fox News]]<ref>{{cite web |title=Fox News Power Rankings: The top races to watch as 36 states choose their next governor |url=https://www.foxnews.com/politics/fox-news-power-rankings-top-races-watch-36-states-choose-next-governor |website=[[Fox News]] |publisher=Rémy Numa |access-date=24 July 2026}}</ref>
+|align=left|[[Fox News]]<ref>{{Cite news |last=Numa |first=Rémy |title=Fox News Power Rankings: The biggest surprises come after October |url=https://www.foxnews.com/politics/fox-news-power-rankings-the-biggest-surprises-come-after-october |work=[[Fox News]] |date=October 6, 2026 |access-date=October 11, 2026}}</ref>
 |{{USRaceRating|Solid|D}}
-|July 23, 2026
+|October 6, 2026
 |-
-|align=left|''[[Inside Elections]]''<ref>{{Cite web|title=Gubernatorial Ratings|url=https://insideelections.com/ratings/governor|access-date=February 7, 2025|website=[[Inside Elections]]}}</ref>
+|align=left|''[[Inside Elections]]''<ref>{{Cite web|title=Gubernatorial Ratings|url=https://insideelections.com/ratings/governor|access-date=October 11, 2026|website=[[Inside Elections]]}}</ref>
 |{{USRaceRating|Solid|D}}
-|September 3, 2026
+|October 1, 2026
 |-
-|align="left"|[[RealClearPolitics]]<ref>{{Cite web|title=2026 Governor Races {{!}} RealClearPolitics|url=https://www.realclearpolling.com/maps/governor/2026/toss-up|access-date=June 5, 2026|website=[[RealClearPolitics]]|archive-url=https://web.archive.org/web/20260601183127/https://www.realclearpolling.com/maps/governor/2026/toss-up|archive-date=June 1, 2026|url-status=dead}}</ref>
+|align="left"|[[RealClearPolitics]]<ref>{{Cite web|url=https://www.realclearpolling.com/maps/governor/2026/toss-up |title=2026 Governor Races |website=[[RealClearPolitics]] |access-date=October 11, 2026}}</ref>
 |{{USRaceRating|Solid|D}}
-|June 5, 2026
+|October 5, 2026
 |-
-|align=left|''[[Sabato's Crystal Ball]]''<ref>{{cite web|title=2026 Governor|url=https://centerforpolitics.org/crystalball/2026-governor/|website=[[Sabato's Crystal Ball]]|access-date=May 1, 2025}}</ref>
+|align=left|''[[Sabato's Crystal Ball]]''<ref>{{cite web|title=2026 Governor|url=https://centerforpolitics.org/crystalball/2026-governor/|website=[[Sabato's Crystal Ball]]|access-date=October 11, 2026}}</ref>
 |{{USRaceRating|Safe|D}}
-|September 3, 2026
+|October 6, 2026
 |-
-| style="text-align: left;" |[[Silver Bulletin]]<ref name=":Silver">{{Cite web |last=Silver |first=Nate |date=2026-08-20 |title=FLIPR 2026 midterm election forecast |url=https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model |url-access=subscription |access-date=2026-08-20 |website=www.natesilver.net |language=en}}</ref>
-| {{US political race rating|Solid|D}}
-|August 25, 2026
+|align="left"|[[Silver Bulletin]]<ref name="Silver">{{Cite web |url=https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model |title=FLIPR 2026 midterm election forecast |last1=Silver |first1=Nate |author1-link=Nate Silver |last2=McKown-Dawson |first2=Eli |website=[[Silver Bulletin]] |via=[[Substack]] |date=October 11, 2026 |orig-date=August 11, 2026 |access-date=October 11, 2026 |url-access=subscription}}</ref>
+|{{USRaceRating|Solid|D}}
+|October 11, 2026
 |}
 
 === Debate ===
@@ -4093,40 +4092,9 @@ File:2026 California Gov Primary Chad Bianco counties.svg|Vote share of Bianco b
 | style="white-space:nowrap;" |[[CNN]]<ref>{{Cite web |last=Mehta |first=Seema |date=2026-09-08 |title=Becerra, Hilton to debate in governor's race days before voters receive mail-in ballots |url=https://www.latimes.com/california/story/2026-09-08/becerra-hilton-governors-race-debate-scheduled-days-before-voters-receive-ballots |access-date=2026-09-08 |website=Los Angeles Times |language=en-US}}</ref>
 | style="white-space:nowrap;" |[[Jake Tapper]]<br>[[Dana Bash]]
 | style="white-space:nowrap;" |TBA
-| {{Yes|'''P'''}}
-| {{Yes|'''P'''}}
+| {{D-P|'''P'''}}
+| {{D-P|'''P'''}}
  |}
-
-
-The gubernatorial debate, moderated by CNN anchors Jake Tapper and Dana Bash, was held at the network's Burbank studio and served as a precursor to the November 3 election, which aimed to succeed Governor 
-Gavin Newsom. A contentious debate ensued between Xavier Becerra, a Democratic candidate and former US [[Health and Human Services Secretary]], and Steve Hilton, a Republican candidate and former Fox News 
-host, as they vied for the position of California governor. The candidates engaged in a comprehensive discussion on a variety of critical issues, including affordability, immigration, education, vaccine policies, and strategies for mitigating the effects of artificial intelligence (AI) on the state's economy and society.
-
-During the opening question at the debate, Becerra expressed opposition to Hilton's proposal to reduce state taxes, citing the ongoing challenges of California's high cost of living. According to Becerra, Hilton's plan to eliminate state taxes on income up to $150,000 and impose a flat 8 percent tax rate on income above that level would exacerbate the state's existing issues. He argued that Hilton's proposal would disproportionately benefit wealthy Californians. Hilton attributed California's high cost of living to Democrat policies, arguing that these policies are the primary drivers of the issue. He suggested that alternative policies can be effective by referencing the experiences of other states with lower cost of living. Hilton proposed to reduce the cost of gasoline to $3 per gallon by eliminating environmental regulations and slashing the state gas tax and cut energy bills by targeting utility companies. Additionally, Hilton emphasized the need for change, stating that it is time to try something different, particularly in regards to reducing the cost of living.<ref>{{Cite web |last= |date=2026-09-30 |title=Becerra and Hilton clash over taxes, AI and immigration during the CNN California governor debate |url=https://edition.cnn.com/2026/09/30/politics/live-news/california-governor-debate-midterms |access-date=2026-10-04 |website=CNN |language=en}}</ref>
-Governor Gavin Newsom's campaign pledge to construct 3.5 million homes has not been fulfilled, as California's housing production has fallen substantially short of this goal during his administration. 
-Hilton proposed an innovative approach to address the issue, advocating for a cap on government fees for housing construction at $50,000 per home. Furthermore, he suggested building 10 new cities to 
-address urban sprawl and increase the state's housing stock, thereby decentralizing housing development and allowing communities to determine their own housing needs. In contrast, Becerra emphasized the need to accelerate housing construction in California, arguing that the state must at least double its current rate of building per month to have a meaningful impact on the housing gap. To achieve this, Becerra suggested streamlining the process by cutting red tape, expanding down payment assistance programs, and ensuring that Wall Street does not outbid local residents for housing. Additionally, Becerra reaffirmed his commitment to enforcing state housing laws, as he did during his tenure as Attorney General.
-
-In the context of the Trump administration's heightened efforts to deport undocumented immigrants, a discourse has emerged concerning the most suitable role for state governments in federal immigration 
-enforcement. California has opted for a policy of non-cooperation with Immigration and Customs Enforcement (ICE) agents, with the exception of instances involving violent offenders. Hilton, a critic of 
-California's policy, has proposed a more refined approach that prioritizes the removal of dangerous criminals, arguing that the current approach is driven by political considerations rather than a 
-commitment to public safety. In response, Becerra, a strong supporter of California's policy, accused Hilton of welcoming ICE agents into the state and argued that Hilton's approach 
-disproportionately affects certain immmigrant groups. Becerra maintained that his policies are designed to improve the lives of immigrants in California, while Hilton countered that Becerra's criticisms 
-are a distraction from the need for effective solutions to the state's immigration challenges.<ref>{{Cite news |last=Gambino |first=Lauren |date=2026-10-01 |title=Steve Hilton, Xavier Becerra clash in testy California governor’s race debate |url=https://www.theguardian.com/us-news/2026/oct/01/steve-hilton-xavier-becerra-clash-california-governor-race-debate |access-date=2026-10-04 |work=The Guardian |language=en-GB |issn=0261-3077}}</ref>
-
-Hilton criticized the Democratic Party's education policy in California, arguing that it spends a significant amount of resources with subpar results. Hilton portrayed his 
-opponent, Becerra, as a candidate who would perpetuate this trend. Hilton advocated for California to take a leading role in regulating the AI industry and called for an immediate pause on the use of AI in classrooms, emphasizing the importance of prioritizing safety. In response, Becerra refuted Hilton's characterization, suggesting that Hilton's stance on teachers is misguided. Becerra emphasized the importance of treating teachers as professionals, citing their underpayment compared to colleagues with similar education levels. He advocated for providing teachers with the necessary support and resources to ensure student success. Becerra atttributed California's education issues to an overemphasis on compliance requirements, which can hinder the effectiveness of education initiatives. 
-He proposed a multi-faceted approach to address these challenges, including providing tutoring, starting education earlier, and implementing transitional kindergarten to prepare young children for formal education. Becerra emphasized the importance of collaborating with teachers to ensure student success and committed to allocating taxpayer dollars to support public schools.
-
-During the COVID-19 pandemic, Becerra's department played a pivotal role in facilitating the distribution of vaccines to hundreds of millions of Americans. Becerra reiterated his unwavering support for 
-vaccination initiatives, citing the recent resurgence of measles cases in the country. He attributed this increase to the proliferation of vaccine denialism, arguing that this attitude is a hazardous 
-and misguided stance that can have far-reaching and devastating consequences for public health. In a stark warning, Becerra cautioned that if a governor with similar views were to be elected in 
-California, it would have calamitous effects on public health, potentially leading to the spread of preventable illnesses and fatalities. In contrast, Hilton also expressed support for vaccines, but 
-proposed a distinct approach to enhance compliance. He suggested that a reduction in the number of requirements for certain vaccines could lead to greater public acceptance and utilization of vaccines 
-that are essential for maintaining public health.
-
-California has enacted a range of legislative measures aimed at mitigating specific AI-related risks, while Governor Gavin Newsom has issued executive actions to ensure AI oversight. The candidates were 
-questioned concerning their stance on additional regulation. Hilton posited a dual-pronged strategy, commmencing with a thorough examination of the regulatory efficacy of AI in California, thereby informing the need for more stringent measures. Becerra countered Hilton's stance by positing that Hilton's lack of enthusiasm for AI regulation is reminiscent of Trump's approach, implying a diminished commitment to regulatory oversight in the AI domain. Hilton responded by highlighting contributions from Anthropic and OpenAI to Becerra's campaign, which Becerra utilized to underscore his commitment to AI innovation while emphasizing the need for robust guardrails to protect against real harms and safeguard children.<ref>{{Cite web |last=Prabha |first=Lakshmi |date=2026-10-01 |title=California Governor Debate: 7 Biggest Moments From Xavier Becerra vs Steve Hilton |url=https://www.ibtimes.sg/california-governor-debate-7-biggest-moments-xavier-becerra-vs-steve-hilton-94512 |access-date=2026-10-04 |website=International Business Times |language=en}}</ref>
 
 ===Post-primary endorsements===
 {{Endorsements box
@@ -4179,7 +4147,7 @@ questioned concerning their stance on additional regulation. Hilton posited a du
 *[[San Mateo County, California|San Mateo County Republican Party]]<ref>{{cite web |title=Voter Guide |url=https://smgop.org/voter-guide |website=San Mateo County Republican Party |access-date=14 September 2026}}</ref>
 }}
 
-===Post-primary polling===
+===Polling===
 '''Aggregate polls'''
 {|class="wikitable sortable"style="text-align:center;font-size:90%;line-height:17px"
 !Source of poll<br/>aggregation
@@ -4190,27 +4158,27 @@ questioned concerning their stance on additional regulation. Hilton posited a du
 !style="width:100px;"|Other/<wbr/>Undecided{{Efn|Calculated by taking the difference of 100% and all other candidates combined.}}
 !Margin
 |-
-|[[270toWin]]<ref>{{cite web|title=2026 Polls: California Governor|url=https://www.270towin.com/2026-governor-polls/california|publisher=[[270toWin]]|access-date=September 10, 2026}}</ref>
-|September 15 – October 4, 2026
+|[[270toWin]]<ref name="270toWin">{{cite web|title=2026 Polls: California Governor|url=https://www.270towin.com/2026-governor-polls/california|publisher=[[270toWin]]|access-date=October 11, 2026}}</ref>
+|September 4 – October 2, 2026<!--Remember that dates listed on 270toWin are poll *publication dates*, not the dates when the polls were *administered*. Dates listed here should be dates *administered*-->
 |October 4, 2026
 |{{party shading/Democratic}} |'''55.3%'''
 |35.5%
 |9.2%
 |{{party shading/Democratic}} |'''Becerra +19.8%'''
 |-
-|''[[Silver Bulletin]]''<ref>{{cite web|title=FLIPR 2026 midterm election forecast|url=https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model|work=[[Silver Bulletin]]|access-date=September 10, 2026}}</ref>
+|''[[Silver Bulletin]]''<ref name="Silver"/>
 |through October 2, 2026
-|October 5, 2026
-|{{party shading/Democratic}}|'''55.4%'''
-|35.4%
-|9.2%
-|{{party shading/Democratic}} |'''Becerra +20.0%'''
+|October 11, 2026
+|{{party shading/Democratic}}|'''55.6%'''
+|35.9%
+|8.5%
+|{{party shading/Democratic}} |'''Becerra +19.7%'''
 |-
 |colspan="3"|'''Average'''
-|{{party shading/Democratic}}|'''55.4%'''
-|35.5%
-|9.1%
-|{{party shading/Democratic}}|'''Becerra +19.9%'''
+|{{party shading/Democratic}}|'''55.5%'''
+|35.7%
+|8.8%
+|{{party shading/Democratic}}|'''Becerra +19.8%'''
 |}
 
 {| class="wikitable" style="font-size:90%;text-align:center;"

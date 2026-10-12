@@ -64,8 +64,9 @@ MANUAL = {
 
 # Newer forecaster ratings shown on the individual race pages before the overview table catches up.
 # key: state -> {column index in the overview Predictions table: replacement USRaceRating template args}
-# Silver Bulletin (col 6) ratings dated Oct 10, 2026 on the race pages (overview column still says Oct 8).
-RATING_OVERRIDE = {"IA": {6: "Likely|D|flip"}, "OH": {6: "Lean|D|flip"}}
+# Silver Bulletin (col 6): the Iowa race page shows "Likely D (flip)" dated Oct 10-11, 2026, while the overview
+# column (now dated Oct 11) still says "Solid D (flip)". OH was removed on Oct 12 once the overview showed Lean D (flip).
+RATING_OVERRIDE = {"IA": {6: "Likely|D|flip"}}
 
 def rating_score(tmpl):
     p = [x.strip().lower() for x in tmpl.split("|")]

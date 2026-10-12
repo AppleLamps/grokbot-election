@@ -1069,7 +1069,7 @@ Charles would win 37.7% of the vote, with Midgley and Bush finishing with 20.1% 
 | style="white-space:nowrap;" | Jon Chrisos
 | style="white-space:nowrap;" | [https://www.youtube.com/watch?v=0F7q2tBdVAU YouTube]
 | {{D-P|'''P'''}}
-| {{No|'''A'''}}
+| {{D-A|'''A'''}}
 | {{D-P|'''P'''}}
 | {{D-P|'''P'''}}
 | {{D-P|'''P'''}}
@@ -1082,12 +1082,12 @@ Charles would win 37.7% of the vote, with Midgley and Bush finishing with 20.1% 
 | style="white-space:nowrap;" | Gregg Lagerquist<br>Mike Shepherd
 | style="white-space:nowrap;" | [https://www.youtube.com/watch?v=0F7q2tBdVAU YouTube]
 | {{D-P|'''P'''}}
-| {{No|'''A'''}}
+| {{D-A|'''A'''}}
 | {{D-P|'''P'''}}
 | {{D-P|'''P'''}}
 | {{D-P|'''P'''}}
 | {{D-P|'''P'''}}
-| {{No|'''N'''}}
+| {{D-N|'''N'''}}
 |-
 !2
 | style="white-space:nowrap;" | May 14, 2026
@@ -1418,33 +1418,33 @@ On April 25, 2026, the Maine Republican Party announced the results of a straw p
 !Ranking
 !As of
 |-
-|align=left|''[[The Cook Political Report]]''<ref>{{cite web|title=2026 CPR Governor Race ratings|url=https://www.cookpolitical.com/ratings/governor-race-ratings|website=[[The Cook Political Report]]|access-date=January 23, 2025}}</ref>
-|{{USRaceRating|Solid|D}}
-|September 10, 2026
-|-
-|align=left|[[Decision Desk HQ]]<ref name="DDHQ">{{cite web |title=2026 Governor Forecast |url=https://votes.decisiondeskhq.com/forecast/2026/governor |website=Decision Desk HQ |access-date=22 September 2026}}</ref>
-|{{USRaceRating|Likely|D}}
-|September 23, 2026
-|-
-|align=left|[[Fox News]]<ref>{{Cite web |last=Numa |first=Rémy |date=2026-07-23 |title=Fox News Power Rankings: The top races to watch as 36 states choose their next governor |url=https://www.foxnews.com/politics/fox-news-power-rankings-top-races-watch-36-states-choose-next-governor |access-date=2026-07-23 |website=Fox News |language=en-US}}</ref>
-|{{USRaceRating|Solid|D}}
-|July 23, 2026
-|-
-|align=left|''[[Inside Elections]]''<ref>{{Cite web|title=Gubernatorial Ratings|url=https://insideelections.com/ratings/governor|access-date=October 1, 2026|website=[[Inside Elections]]}}</ref>
+|align=left|''[[The Cook Political Report]]''<ref>{{cite web|title=2026 CPR Governor Race ratings|url=https://www.cookpolitical.com/ratings/governor-race-ratings|website=[[The Cook Political Report]]|access-date=October 11, 2026}}</ref>
 |{{USRaceRating|Solid|D}}
 |October 1, 2026
 |-
-|align="left"|[[RealClearPolitics]]<ref>{{Cite web|title=2026 Governor Races {{!}} RealClearPolitics|url=https://www.realclearpolling.com/maps/governor/2026/toss-up|access-date=June 5, 2026|website=[[RealClearPolitics]]|archive-url=https://web.archive.org/web/20260601183127/https://www.realclearpolling.com/maps/governor/2026/toss-up|archive-date=June 1, 2026|url-status=dead}}</ref>
+|align=left|[[Decision Desk HQ]]<ref name="DDHQ">{{cite web |title=2026 Governor Forecast |url=https://votes.decisiondeskhq.com/forecast/2026/governor |website=[[Decision Desk HQ]] |access-date=October 11, 2026}}</ref>
 |{{USRaceRating|Likely|D}}
-|September 9, 2026
+|October 11, 2026
 |-
-|align=left|''[[Sabato's Crystal Ball]]''<ref>{{cite web|title=2026 Governor|url=https://centerforpolitics.org/crystalball/2026-governor/|website=[[Sabato's Crystal Ball]]|access-date=May 1, 2025}}</ref>
+|align=left|[[Fox News]]<ref>{{Cite news |last=Numa |first=Rémy |title=Fox News Power Rankings: The biggest surprises come after October |url=https://www.foxnews.com/politics/fox-news-power-rankings-the-biggest-surprises-come-after-october |work=[[Fox News]] |date=October 6, 2026 |access-date=October 11, 2026}}</ref>
+|{{USRaceRating|Solid|D}}
+|October 6, 2026
+|-
+|align=left|''[[Inside Elections]]''<ref>{{Cite web|title=Gubernatorial Ratings|url=https://insideelections.com/ratings/governor|access-date=October 11, 2026|website=[[Inside Elections]]}}</ref>
+|{{USRaceRating|Solid|D}}
+|October 1, 2026
+|-
+|align="left"|[[RealClearPolitics]]<ref>{{Cite web|url=https://www.realclearpolling.com/maps/governor/2026/toss-up |title=2026 Governor Races |website=[[RealClearPolitics]] |access-date=October 11, 2026}}</ref>
 |{{USRaceRating|Likely|D}}
-|September 3, 2026
+|October 5, 2026
 |-
-| style="text-align: left;" |[[Silver Bulletin]]<ref name=":Silver">{{Cite web |last=Silver |first=Nate |date=2026-08-20 |title=FLIPR 2026 midterm election forecast |url=https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model |url-access=subscription |access-date=2026-08-20 |website=www.natesilver.net |language=en}}</ref>
-| {{US political race rating|Solid|D}}
-|August 25, 2026
+|align=left|''[[Sabato's Crystal Ball]]''<ref>{{cite web|title=2026 Governor|url=https://centerforpolitics.org/crystalball/2026-governor/|website=[[Sabato's Crystal Ball]]|access-date=October 11, 2026}}</ref>
+|{{USRaceRating|Likely|D}}
+|October 6, 2026
+|-
+|align="left"|[[Silver Bulletin]]<ref name="Silver">{{Cite web |url=https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model |title=FLIPR 2026 midterm election forecast |last1=Silver |first1=Nate |author1-link=Nate Silver |last2=McKown-Dawson |first2=Eli |website=[[Silver Bulletin]] |via=[[Substack]] |date=October 11, 2026 |orig-date=August 11, 2026 |access-date=October 11, 2026 |url-access=subscription}}</ref>
+|{{USRaceRating|Solid|D}}
+|October 11, 2026
 |}
 
 === Post-primary endorsements ===
@@ -1519,7 +1519,7 @@ On April 25, 2026, the Maine Republican Party announced the results of a straw p
 |October 9, 2026
 |{{party shading/Democratic}}|'''50.6%'''
 |38.5%
-|–
+|{{sdash}}
 |10.9%
 |{{party shading/Democratic}}|'''Pingree +12.1%'''
 |-
@@ -1537,17 +1537,16 @@ On April 25, 2026, the Maine Republican Party announced the results of a straw p
 |October 9, 2026
 |{{party shading/Democratic}}|'''49.8%'''
 |38.4%
-|–
+|{{sdash}}
 |11.8%
 |{{party shading/Democratic}}|'''Pingree +11.4%'''
 |-
-|''[[Silver Bulletin]]''<ref>{{cite web |title=FLIPR 2026 midterm election forecast
-|url=https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model |access-date=September 11, 2026 |website=[[Silver Bulletin]]}}</ref>
+|''[[Silver Bulletin]]''<ref name="Silver"/>
 |through October 5, 2026
 |October 9, 2026
 |{{party shading/Democratic}}|'''50.9%'''
 |38.9%
-|–
+|{{sdash}}
 |10.2%
 |{{party shading/Democratic}} |'''Pingree +12.0%'''
 |-
@@ -1578,7 +1577,7 @@ On April 25, 2026, the Maine Republican Party announced the results of a straw p
 |{{party shading/Democratic}}|'''49%'''
 |36%
 |11%
-|–
+|{{sdash}}
 |3%
 |-
 | style="text-align:left;"|[[Marist University]]<ref>{{cite web|url=https://maristpoll.marist.edu/wp-content/uploads/2026/10/Marist-Poll_Maine-NOS-and-Tables_202610051032xtc92617B.pdf|title=Midterm Elections in Maine, October 2026|date=October 6, 2026|access-date=October 6, 2026|website=[[Marist University]]}}</ref>
@@ -1588,7 +1587,7 @@ On April 25, 2026, the Maine Republican Party announced the results of a straw p
 |{{party shading/Democratic}}|'''52%'''
 |40%
 |6%
-|–
+|{{sdash}}
 |2%
 |-
 |style="text-align:left;"|[[CBS]]/[[YouGov]]<ref>{{Cite web|url=https://www.cbsnews.com/news/maine-senate-poll-2026-10-02/ |title=CBS News poll finds voters split on state v. national focus in tied Maine Senate race |first1=Anthony |last1=Salvanto |first2=Jennifer |last2=De Pinto |first3=Fred |last3=Backus |publisher=[[CBS]] |date=October 2, 2026 |access-date=October 3, 2026}}</ref>
@@ -1597,9 +1596,9 @@ On April 25, 2026, the Maine Republican Party announced the results of a straw p
 |±{{nbsp}}4.7%
 |{{party shading/Democratic}}|'''56%'''
 |44%
-|–
-|–
-|–
+|{{sdash}}
+|{{sdash}}
+|{{sdash}}
 |-
 |style="text-align:left;"|co/efficient (R)<ref>{{cite web |title=Maine · U.S. Senate |url=https://battlegrounds.coefficient.org/me/ |publisher=co/efficient |date=September 30, 2026 |access-date=October 1, 2026}}</ref>
 |September 28–30, 2026
@@ -1608,7 +1607,7 @@ On April 25, 2026, the Maine Republican Party announced the results of a straw p
 |{{party shading/Democratic}}|'''47%'''
 |38%
 |6%
-|–
+|{{sdash}}
 |9%
 |-
 |style="text-align:left;"|Fabrizio Ward (R)/<br />Impact Research (D)<ref>{{cite web |title=Maine Voter Survey |url=https://www.aarp.org/content/dam/aarp/research/topics/voter-opinion-research/politics/2026-midterm-election-poll-maine.doi.10.26419-2fres.01065.013.pdf |publisher=[[AARP]] |date=October 1, 2026 |access-date=October 1, 2026}}</ref>{{Efn-ua|name=AARP|Poll commissioned by [[AARP]]}}
@@ -1618,7 +1617,7 @@ On April 25, 2026, the Maine Republican Party announced the results of a straw p
 |{{party shading/Democratic}}|'''52%'''
 |39%
 |6%
-|–
+|{{sdash}}
 |3%
 |-
 |rowspan="2" style="text-align: left;"|[[New York Times]]/[[Portland Press Herald]]/<br>[[Siena University (New York)|Siena University]]<ref>{{cite web |title=Toplines: September 2026 Times/Press Herald/Siena Poll of the Likely Electorate in Maine Results of a New York Times/Portland Press Herald/Siena |url=https://www.nytimes.com/interactive/2026/09/25/polls/times-siena-poll-me-toplines.html |website=[[NYTimes]] |date=September 23, 2026 |access-date=September 25, 2026}}</ref>
@@ -1628,13 +1627,13 @@ On April 25, 2026, the Maine Republican Party announced the results of a straw p
 |{{party shading/Democratic}}|'''47%'''
 |34%
 |8%
-|–
+|{{sdash}}
 |10%
 |-
 |{{party shading/Democratic}}|'''53%'''
 |39%
-|–
-|–
+|{{sdash}}
+|{{sdash}}
 |7%
 |-
 |style="text-align:left;"|[[University of New Hampshire]]<ref>{{Cite web|url=https://scholars.unh.edu/cgi/viewcontent.cgi?article=2006&context=survey_center_polls |title=Jackson and Collins Remain Close in Maine Senate Race, Pingree Leads Charles for Governor |first1=Sean P. |last1=McKinley |first2=Andrew E. |last2=Smith |first3=Zachary S. |last3=Azem |first4=Tracy |last4=Keirns |publisher=[[University of New Hampshire]] |date=September 24, 2026 |access-date=September 24, 2026}}</ref>
@@ -1653,7 +1652,7 @@ On April 25, 2026, the Maine Republican Party announced the results of a straw p
 |±{{nbsp}}4.7%
 |{{party shading/Democratic}}|'''49%'''
 |38%
-|–
+|{{sdash}}
 |1%{{efn|"Another candidate" with 1%}}
 |10%
 |-
@@ -1681,9 +1680,9 @@ On April 25, 2026, the Maine Republican Party announced the results of a straw p
 |±{{nbsp}}3.7%
 |{{party shading/Democratic}}|'''52%'''
 |39%
-|–
+|{{sdash}}
 |9%{{efn|"Neither" with 5%}}
-|–
+|{{sdash}}
 |-
 |style="text-align:left;" |Beacon Research (D)/<br/>Shaw & Co. Research (R)<ref>{{Cite web |last1=Blanton |first1=Dana |date=August 12, 2026 |title=Fox News Poll: New matchup, same result: Maine Senate race stays locked |url=https://www.foxnews.com/politics/fox-news-poll-new-matchup-same-result-maine-senate-race-stays-locked |access-date=August 13, 2026 |website=[[Fox News]]}}</ref>{{efn-ua|name=Fox}}
 |August 6–10, 2026
@@ -1692,7 +1691,7 @@ On April 25, 2026, the Maine Republican Party announced the results of a straw p
 |{{party shading/Democratic}}|'''49%'''
 |38%
 |9%
-|–
+|{{sdash}}
 |3%
 |-
 |-
@@ -1713,8 +1712,8 @@ On April 25, 2026, the Maine Republican Party announced the results of a straw p
 |±&nbsp;3.0%
 |{{party shading/Democratic}}|'''53%'''
 |42%
-|–
-|–
+|{{sdash}}
+|{{sdash}}
 |5%
 |-
 | rowspan="2" style="text-align:left;" |[[New York Times]]/[[Portland Press Herald]]/<br>[[Siena University (New York)|Siena University]]<ref>{{cite web |title=Cross-Tabs: June 2026 Times/Press Herald/Siena Poll of the Likely Electorate in Maine
@@ -1725,13 +1724,13 @@ On April 25, 2026, the Maine Republican Party announced the results of a straw p
 |{{party shading/Democratic}}|'''50%'''
 |36%
 |8%
-|–
+|{{sdash}}
 |5%
 |-
 |{{party shading/Democratic}}|'''55%'''
 |40%
-|–
-|–
+|{{sdash}}
+|{{sdash}}
 |4%
 |}
 

@@ -351,6 +351,7 @@ Tony Evers's decision not to seek re-election triggered a competitive Democratic
 |}
 
 ====Polling====
+The company [[Median Strategies]] released a poll purporting to show Hong with a 20-percentage point lead in the primary. However, it was later revealed that the poll was fabricated.<ref>{{Cite news |last=Mancini |first=Ryan |date=August 18, 2026 |title=Polling firm closes down after it faked Hong, Bass polls |url=https://thehill.com/homenews/campaign/6035570-median-strategies-closes-fake-polls/ |access-date=October 11, 2026 |work=[[The Hill (newspaper)|The Hill]]}}</ref>
 ;Aggregate polls
 {|class="wikitable sortable"style="text-align:center;font-size:90%;line-height:17px"
 !Source of poll<br />aggregation

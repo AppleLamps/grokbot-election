@@ -1075,16 +1075,6 @@ On August 11, 2026, the [[Associated Press]] and [[NBC News]] called the race fo
 ! style="width:100px;" |Michele<br />Tafoya (R)
 ! Other
 ! Undecided
-
-|-
-|style="text-align:left;"|[[Morning Consult]]<ref>{{cite web |title= morning take {{!}} The Daily Agenda Poll |url= https://www.thedailyagenda.com/p/morning-take-the-daily-agenda-poll/|publisher=The Daily Poll|access-date=October 9, 2026 |date=September 30, 2026}}</ref>
-|October 2–7, 2026
-|1,000 (RV)
-|±{{nbsp}}3.1%
-| {{party shading/DFL}} |'''45%'''
-|41%
-|2%
-|12%
 |-
 |style="text-align:left;|[[Rasmussen Reports]] (R)<ref>{{cite web|url=https://www.rasmussenreports.com/public_content/politics/elections/election_2026/election_2026_minnesota_senate|title=Election 2026: Minnesota Senate|date=October 9, 2026|access-date=October 9, 2026}}</ref>
 |October 5–7, 2026
@@ -1094,6 +1084,15 @@ On August 11, 2026, the [[Associated Press]] and [[NBC News]] called the race fo
 |45%
 |–
 |7%
+|-
+|style="text-align:left;"|[[Morning Consult]]<ref>{{cite web |title= morning take {{!}} The Daily Agenda Poll |url= https://www.thedailyagenda.com/p/morning-take-the-daily-agenda-poll/|publisher=The Daily Poll|access-date=October 9, 2026 |date=September 30, 2026}}</ref>
+|October 2–7, 2026
+|1,000 (RV)
+|±{{nbsp}}3.1%
+| {{party shading/DFL}} |'''45%'''
+|41%
+|2%
+|12%
 |-
 |rowspan="2" style="text-align:left;"|GQR (D)<ref>{{cite tweet|user=DrewSav|number=2108502733045334207|title=New Minnesota poll from Senate Majority PAC finds Flanagan up 8%.|access-date=October 9, 2026}}</ref>
 |rowspan="2"|October 1–4, 2026

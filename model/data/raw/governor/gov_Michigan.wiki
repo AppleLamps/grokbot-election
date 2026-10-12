@@ -1223,33 +1223,33 @@ In September 2026, the [[Libertarian Party of Michigan]] formally disavowed conn
 !Ranking
 !As of
 |-
-|align=left|''[[The Cook Political Report]]''<ref>{{cite web|title=2026 CPR Governor Race ratings|url=https://www.cookpolitical.com/ratings/governor-race-ratings|website=[[The Cook Political Report]]|access-date=January 23, 2025|archive-date=December 8, 2024|archive-url=https://web.archive.org/web/20241208105328/https://www.cookpolitical.com/ratings/governor-race-ratings|url-status=live}}</ref>
+|align=left|''[[The Cook Political Report]]''<ref>{{cite web|title=2026 CPR Governor Race ratings|url=https://www.cookpolitical.com/ratings/governor-race-ratings|website=[[The Cook Political Report]]|access-date=October 11, 2026|archive-date=December 8, 2024|archive-url=https://web.archive.org/web/20241208105328/https://www.cookpolitical.com/ratings/governor-race-ratings|url-status=live}}</ref>
 |{{USRaceRating|Lean|D}}
-|July 12, 2026
+|October 1, 2026
 |-
-|align=left|[[Decision Desk HQ]]<ref name="DDHQ">{{cite web |title=2026 Governor Forecast |url=https://votes.decisiondeskhq.com/forecast/2026/governor |website=Decision Desk HQ |access-date=October 4, 2026}}</ref>
+|align=left|[[Decision Desk HQ]]<ref name="DDHQ">{{cite web |title=2026 Governor Forecast |url=https://votes.decisiondeskhq.com/forecast/2026/governor |website=[[Decision Desk HQ]] |access-date=October 11, 2026}}</ref>
 |{{USRaceRating|Likely|D}}
-|October 4, 2026
+|October 11, 2026
 |-
-|align=left|[[Fox News]]<ref>{{cite web |title=Fox News Power Rankings: The top races to watch as 36 states choose their next governor |url=https://www.foxnews.com/politics/fox-news-power-rankings-top-races-watch-36-states-choose-next-governor |website=[[Fox News]] |date=July 23, 2026 |publisher=Rémy Numa |access-date=24 July 2026 |archive-date=July 23, 2026 |archive-url=https://web.archive.org/web/20260723154132/https://www.foxnews.com/politics/fox-news-power-rankings-top-races-watch-36-states-choose-next-governor |url-status=live }}</ref>
+|align=left|[[Fox News]]<ref>{{Cite news |last=Numa |first=Rémy |title=Fox News Power Rankings: The biggest surprises come after October |url=https://www.foxnews.com/politics/fox-news-power-rankings-the-biggest-surprises-come-after-october |work=[[Fox News]] |date=October 6, 2026 |access-date=October 11, 2026}}</ref>
 |{{USRaceRating|Lean|D}}
-|July 23, 2026
+|October 6, 2026
 |-
-|align=left|''[[Inside Elections]]''<ref>{{Cite web|title=Gubernatorial Ratings|url=https://insideelections.com/ratings/governor|access-date=February 7, 2025|website=[[Inside Elections]]|archive-date=January 5, 2021|archive-url=https://web.archive.org/web/20210105151723/https://insideelections.com/ratings/governor|url-status=live}}</ref>
+|align=left|''[[Inside Elections]]''<ref>{{Cite web|title=Gubernatorial Ratings|url=https://insideelections.com/ratings/governor|access-date=October 11, 2026|website=[[Inside Elections]]|archive-date=January 5, 2021|archive-url=https://web.archive.org/web/20210105151723/https://insideelections.com/ratings/governor|url-status=live}}</ref>
 |{{USRaceRating|Tilt|D}}
-|June 25, 2026
+|October 1, 2026
 |-
-|align="left"|[[RealClearPolitics]]<ref>{{Cite web|title=2026 Governor Races {{!}} RealClearPolitics|url=https://www.realclearpolling.com/maps/governor/2026/toss-up|access-date=June 5, 2026|website=[[RealClearPolitics]]|archive-date=June 1, 2026|archive-url=https://web.archive.org/web/20260601183127/https://www.realclearpolling.com/maps/governor/2026/toss-up|url-status=live}}</ref>
+|align="left"|[[RealClearPolitics]]<ref>{{Cite web|url=https://www.realclearpolling.com/maps/governor/2026/toss-up |title=2026 Governor Races |website=[[RealClearPolitics]] |access-date=October 11, 2026}}</ref>
 |{{USRaceRating|Lean|D}}
-|August 13, 2026
+|October 5, 2026
 |-
-|align=left|''[[Sabato's Crystal Ball]]''<ref>{{cite web|title=2026 Governor|url=https://centerforpolitics.org/crystalball/2026-governor/|website=[[Sabato's Crystal Ball]]|access-date=May 1, 2025|archive-date=November 21, 2025|archive-url=https://web.archive.org/web/20251121195048/https://centerforpolitics.org/crystalball/2026-governor/|url-status=live}}</ref>
+|align=left|''[[Sabato's Crystal Ball]]''<ref>{{cite web|title=2026 Governor|url=https://centerforpolitics.org/crystalball/2026-governor/|website=[[Sabato's Crystal Ball]]|access-date=October 11, 2026}}</ref>
 |{{USRaceRating|Lean|D}}
-|July 23, 2026
+|October 6, 2026
 |-
-| style="text-align: left;" |[[Silver Bulletin]]<ref name=":Silver">{{Cite web |last=Silver |first=Nate |date=2026-08-20 |title=FLIPR 2026 midterm election forecast |url=https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model |url-access=subscription |access-date=2026-08-20 |website=www.natesilver.net |language=en}}</ref>
-| {{US political race rating|Likely|D}}
-|October 10, 2026
+|align="left"|[[Silver Bulletin]]<ref name="Silver">{{Cite web |url=https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model |title=FLIPR 2026 midterm election forecast |last1=Silver |first1=Nate |author1-link=Nate Silver |last2=McKown-Dawson |first2=Eli |website=[[Silver Bulletin]] |via=[[Substack]] |date=October 11, 2026 |orig-date=August 11, 2026 |access-date=October 11, 2026 |url-access=subscription}}</ref>
+|{{USRaceRating|Likely|D}}
+|October 11, 2026
 |}
 
 === Post-primary endorsements ===
@@ -1426,8 +1426,8 @@ In September 2026, the [[Libertarian Party of Michigan]] formally disavowed conn
 ! style="width:100px;"| Other/Undecided<br />{{Efn|Calculated by taking the difference of 100% and all other candidates combined.|name=|group=}}
 ! Margin
 |-
-|[[270toWin]]<ref>{{Cite web|title=2026 Polls: Michigan Governor|url=https://www.270towin.com/2026-governor-polls/michigan|publisher=[[270toWin]]|access-date=August 23, 2026}}</ref>
-|September 23–30, 2026
+|[[270toWin]]<ref>{{Cite web|title=2026 Polls: Michigan Governor|url=https://www.270towin.com/2026-governor-polls/michigan|publisher=[[270toWin]]|access-date=October 11, 2026}}</ref>
+|September 15–28, 2026<!--Remember that dates listed on 270toWin are poll *publication dates*, not the dates when the polls were *administered*. Dates listed here should be dates *administered*-->
 |September 30, 2026
 |{{party shading/Democratic}}|'''49.4%'''
 |42.2%
@@ -1458,7 +1458,7 @@ In September 2026, the [[Libertarian Party of Michigan]] formally disavowed conn
 |9.4%
 |{{party shading/Democratic}}|'''Benson +8.2%'''
 |-
-|''[[Silver Bulletin]]''<ref>{{Cite web|title=FLIPR 2026 midterm election forecast|url=https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model|work=[[Silver Bulletin]]|access-date=September 12, 2026}}</ref>
+|''[[Silver Bulletin]]''<ref name="Silver"/>
 |through October 4, 2026
 |October 6, 2026
 |{{party shading/Democratic}}|'''50.0%'''
