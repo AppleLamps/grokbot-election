@@ -5,13 +5,13 @@
     "bias_mean": 3.8,
     "bias_sd": 3.0,
     "sims": 100000,
-    "senate_p_R": 0.77787,
-    "senate_p_D": 0.2143,
-    "senate_p_none": 0.00783000000000006,
-    "senate_D_mean": 48.58755,
+    "senate_p_R": 0.7799,
+    "senate_p_D": 0.21223,
+    "senate_p_none": 0.00786999999999996,
+    "senate_D_mean": 48.57412,
     "senate_D_p10": 45,
     "senate_D_p90": 52,
-    "senate_R_mean": 51.36406,
+    "senate_R_mean": 51.37749,
     "senate_R_p10": 48,
     "senate_R_p90": 55,
     "senate_I_mean": 0.12055,
@@ -24,18 +24,18 @@
     "senate_tipping": [
       [
         "OH",
-        0.121
+        0.122
       ],
       [
         "IA",
-        0.11
-      ],
-      [
-        "TX",
-        0.107
+        0.111
       ],
       [
         "AK",
+        0.105
+      ],
+      [
+        "TX",
         0.105
       ],
       [
@@ -66,12 +66,12 @@
       ]
     ],
     "gov_races": 36,
-    "gov_D_wins_mean": 17.22988,
-    "gov_D_total_mean": 23.22988,
+    "gov_D_wins_mean": 17.26071,
+    "gov_D_total_mean": 23.26071,
     "gov_D_total_median": 23,
     "gov_D_total_p10": 19,
     "gov_D_total_p90": 27,
-    "gov_p_D_majority": 0.23408
+    "gov_p_D_majority": 0.23802
   },
   "offyear_1p3": {
     "scenario": "offyear_1p3",
@@ -79,13 +79,13 @@
     "bias_mean": -1.3,
     "bias_sd": 3.0,
     "sims": 100000,
-    "senate_p_R": 0.24061,
-    "senate_p_D": 0.74876,
-    "senate_p_none": 0.010630000000000028,
-    "senate_D_mean": 52.14899,
+    "senate_p_R": 0.24283,
+    "senate_p_D": 0.74642,
+    "senate_p_none": 0.010750000000000037,
+    "senate_D_mean": 52.13311,
     "senate_D_p10": 49,
     "senate_D_p90": 55,
-    "senate_R_mean": 47.69564,
+    "senate_R_mean": 47.71152,
     "senate_R_p10": 44,
     "senate_R_p90": 51,
     "senate_I_mean": 0.38684,
@@ -98,18 +98,18 @@
     "senate_tipping": [
       [
         "OH",
-        0.121
+        0.122
       ],
       [
         "IA",
-        0.11
-      ],
-      [
-        "TX",
-        0.107
+        0.111
       ],
       [
         "AK",
+        0.105
+      ],
+      [
+        "TX",
         0.105
       ],
       [
@@ -140,11 +140,11 @@
       ]
     ],
     "gov_races": 36,
-    "gov_D_wins_mean": 21.56875,
-    "gov_D_total_mean": 27.56875,
+    "gov_D_wins_mean": 21.61835,
+    "gov_D_total_mean": 27.61835,
     "gov_D_total_median": 28,
     "gov_D_total_p10": 24,
     "gov_D_total_p90": 31,
-    "gov_p_D_majority": 0.76681
+    "gov_p_D_majority": 0.77106
   }
 }

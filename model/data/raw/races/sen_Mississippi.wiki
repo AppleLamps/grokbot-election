@@ -23,6 +23,11 @@
 | party2 = Democratic Party (United States)
 | popular_vote2 = 
 | percentage2 = 
+| image3             = 3x4.svg
+| nominee3           = Ty Pinkins
+| party3             = Independent 
+| popular_vote3      = 
+| percentage3        = 
 <!-- Remove this comment tag when Pinkins has reached three polls at 5% or greater. He's at two now.
 | image3 = 3x4.svg
 | nominee3 = Ty Pinkins

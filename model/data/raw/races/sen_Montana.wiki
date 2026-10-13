@@ -42,11 +42,11 @@
 {{ElectionsMT}}
 The '''2026 United States Senate election in Montana''' will be held on November 3, to elect a member of the [[United States Senate]] to represent the state of [[Montana]]. [[Republican Party (United States)|Republican]] U.S. Attorney [[Kurt Alme]], [[Democratic Party (United States)|Democratic]] Air Force officer Alani Bankhead, and [[Independent politician|independent]] former [[University of Montana]] president [[Seth Bodnar]] are the major candidates. Republican incumbent [[Steve Daines]] is not seeking a third term.
 
-Primaries were held on June 2. In the Republican primary, Daines announced he would seek re-election, but withdrew minutes before the filing deadline and endorsed Alme, who filed to run the same day. As the only major Republican candidate, Alme was nominated with 76.2% of the vote. Bankhead won the Democratic nomination with 43.7% of the vote over former state representative [[Reilly Neill]] and tribal historic preservation officer Michael Black Wolf. Bodnar, supported by former Democratic senator [[Jon Tester]], launched an independent campaign shortly after resigning from the University of Montana.
-
-This is the first open Senate election in Montana since [[1976 United States Senate election in Montana|1976]].
+Bodnar, supported by former Democratic senator [[Jon Tester]], launched an independent campaign on March 4, 2026 shortly after resigning from the University of Montana.<ref>{{cite web |last1=Federal Elections Commission |first1=United States |title=Seth Bodnar Filing |url=https://www.fec.gov/data/committee/C00941708/ |website=Seth Bodnar Filing March 4 |publisher=FEC |access-date=29 May 2026}}</ref> Primaries were held on June 2. In the Republican primary, Daines announced he would seek re-election, but withdrew minutes before the filing deadline and endorsed Alme, who filed to run the same day. As the only major Republican candidate, Alme was nominated with 76.2% of the vote. Bankhead won the Democratic nomination with 43.7% of the vote over former state representative [[Reilly Neill]] and tribal historic preservation officer Michael Black Wolf.
 
 == Background ==
+This is the first open Senate election in Montana since [[1976 United States Senate election in Montana|1976]].{{cn}}
+
 Montana is considered to be a red state at the federal level, having not voted for a Democratic president since [[Bill Clinton]]'s [[1992 United States presidential election in Montana|plurality victory in 1992]].<ref>{{Cite web|url=https://www.270towin.com/states/montana|title=Montana Presidential Election Voting History - 270toWin|website=270toWin.com}}</ref> Recently, the state has also been trending red on a statewide level, as Republicans flipped the governorship in [[2020 Montana gubernatorial election|2020]],<ref>{{Cite web|url=https://www.vox.com/2020/11/4/21536492/election-results-greg-gianforte-montana-governor-winner|title=Greg Gianforte flips Montana governorship to Republicans|first=Benjamin|last=Rosenberg|date=November 4, 2020|website=Vox}}</ref> and the Class I Senate seat in [[2024 United States Senate election in Montana|2024]].<ref>https://www.npr.org/2024/11/09/nx-s1-5181908/with-democratic-senator-jon-testers-loss-in-montana-republicans-take-full-control</ref>
 
 == Republican primary ==
@@ -600,12 +600,12 @@ On October 12, [[Shannon O'Brien (Montana politician)|Shannon O'Brien]], the Cha
 *[[Bryce Bennett (politician)|Bryce Bennett]], former [[Montana Senate|state senator]] from the 50th district (2019–2021) ''(Democratic)''<ref>{{cite web |title=Montana Democrats, it's time for a hard truth |url=https://billingsgazette.com/opinion/column/article_cb509ce4-8602-5701-af2d-2b332882ba83.html |website=Billings Gazette |access-date=22 July 2026 |language=en |date=14 July 2026}}</ref>
 *[[Dorothy Bradley]], former [[Montana House of Representatives|state representative]] from the 79th district (1971–1979, 1985–1993) ''(Democratic)''<ref name="BillingsGazette"/>
 ;Party officials
+*[[Shannon O'Brien (Montana politician)|Shannon O'Brien]], former Chair of the [[Montana Democratic Party]] (2025–2026) ''(Democratic)''<ref>{{cite web |title=Montana Democratic party chair resigns, endorses Bodnar |url=https://nbcmontana.com/news/local/montana-democratic-party-chair-resigns-endorses-bodnar-10-12-2026 |website=NBC Montana |access-date=12 October 2026 |language=en |date=12 October 2026}}</ref>
 *[[Andrew Yang]], co-chair of the [[Forward Party (United States)|Forward Party]] (2022–present) and former [[Andrew Yang 2020 presidential campaign|2020 Democratic presidential candidate]] ''(Forward)''<ref>{{Cite web|url=https://blog.andrewyang.com/p/seth-bodnar|title=Seth Bodnar|last=Yang|first=Andrew|date=April 27, 2026|access-date=April 27, 2026|website=[[Substack]]}}</ref> 
 
 ;Individuals
 *[[Reid Hoffman]], co-founder of [[LinkedIn]]<ref name="Atlantic"/>
 *[[Michael Novogratz]], co-founder and CEO of [[Galaxy Digital LP]]<ref name="Atlantic"/>
-*[[Shannon O'Brien (Montana politician)|Shannon O'Brien]], former Chair of the [[Montana Democratic Party]] (2025-2026) ''(Democratic)''<ref>{{cite web |title=Montana Democratic party chair resigns, endorses Bodnar |url=https://nbcmontana.com/news/local/montana-democratic-party-chair-resigns-endorses-bodnar-10-12-2026 |website=NBC Montana |access-date=12 October 2026 |language=en |date=12 October 2026}}</ref>
 
 ;Labor unions
 *Montana [[AFL-CIO]]<ref name="AFLCIO"/>

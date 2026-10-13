@@ -720,8 +720,8 @@ The candidates also diverged on the issue of [[Data center|data centers]]. Brons
 !As of
 |-
 |align=left|''[[The Cook Political Report]]''<ref>{{cite web|title=2026 CPR Governor Race ratings|url=https://www.cookpolitical.com/ratings/governor-race-ratings|website=[[The Cook Political Report]]|access-date=October 11, 2026}}</ref>
-|{{USRaceRating|Tossup}}
-|October 1, 2026
+|{{USRaceRating|Lean|D|flip}}
+|October 13, 2026
 |-
 |align=left|[[Decision Desk HQ]]<ref name="DDHQ">{{cite web |title=2026 Governor Forecast |url=https://votes.decisiondeskhq.com/forecast/2026/governor |website=[[Decision Desk HQ]] |access-date=October 11, 2026}}</ref>
 |{{USRaceRating|Tossup}}

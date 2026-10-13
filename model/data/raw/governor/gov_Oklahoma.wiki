@@ -759,8 +759,8 @@ On January 13, 2025, Drummond announced his campaign for governor. He was the fi
 !As of
 |-
 |align=left|''[[The Cook Political Report]]''<ref>{{cite web|title=2026 CPR Governor Race ratings|url=https://www.cookpolitical.com/ratings/governor-race-ratings|website=[[The Cook Political Report]]|access-date=October 11, 2026}}</ref>
-|{{USRaceRating|Solid|R}}
-|October 1, 2026
+|{{USRaceRating|Likely|R}}
+|October 13, 2026
 |-
 |align=left|[[Decision Desk HQ]]<ref name="DDHQ">{{cite web |title=2026 Governor Forecast |url=https://votes.decisiondeskhq.com/forecast/2026/governor |website=[[Decision Desk HQ]] |access-date=October 11, 2026}}</ref>
 |{{USRaceRating|Safe|R}}

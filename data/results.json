@@ -29,30 +29,30 @@
    "bias_sd": 3.0,
    "sims": 100000,
    "senate": {
-    "p_D": 0.61786,
-    "p_R": 0.36973,
-    "p_none": 0.012410000000000032,
-    "D_mean": 51.25475,
+    "p_D": 0.61509,
+    "p_R": 0.37248,
+    "p_none": 0.012430000000000052,
+    "D_mean": 51.239,
     "D_p10": 48,
     "D_p90": 55,
-    "R_mean": 48.62426,
+    "R_mean": 48.64001,
     "R_p10": 45,
     "R_p90": 52,
     "tipping": [
      [
       "OH",
-      0.121
+      0.122
      ],
      [
       "IA",
-      0.11
-     ],
-     [
-      "TX",
-      0.107
+      0.111
      ],
      [
       "AK",
+      0.105
+     ],
+     [
+      "TX",
       0.105
      ],
      [
@@ -68,23 +68,23 @@
      "max_seats": 100,
      "majority": 51,
      "majority_line": 50.5,
-     "mean": 51.255,
+     "mean": 51.239,
      "median": 51.0,
      "p10": 48,
      "p90": 55,
      "seats": [37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68],
-     "count": [1,2,10,9,26,70,169,383,792,1936,3781,6796,10497,13742,15274,14839,12280,8947,5622,3036,1285,386,72,30,9,2,1,1,0,0,0,2],
-     "prob": [1e-05,2e-05,0.0001,9e-05,0.00026,0.0007,0.00169,0.00383,0.00792,0.01936,0.03781,0.06796,0.10497,0.13742,0.15274,0.14839,0.1228,0.08947,0.05622,0.03036,0.01285,0.00386,0.00072,0.0003,9e-05,2e-05,1e-05,1e-05,0.0,0.0,0.0,2e-05]
+     "count": [1,2,10,9,26,70,170,383,802,1952,3811,6881,10565,13809,15301,14778,12202,8866,5581,3003,1275,386,72,30,9,2,1,1,0,0,0,2],
+     "prob": [1e-05,2e-05,0.0001,9e-05,0.00026,0.0007,0.0017,0.00383,0.00802,0.01952,0.03811,0.06881,0.10565,0.13809,0.15301,0.14778,0.12202,0.08866,0.05581,0.03003,0.01275,0.00386,0.00072,0.0003,9e-05,2e-05,1e-05,1e-05,0.0,0.0,0.0,2e-05]
     }
    },
    "governors": {
     "D_total_median": 27,
     "D_total_p10": 23,
     "D_total_p90": 30,
-    "D_total_mean": 26.489,
-    "D_wins_mean": 20.489,
+    "D_total_mean": 26.533,
+    "D_wins_mean": 20.533,
     "races": 36,
-    "p_D_majority": 0.64083
+    "p_D_majority": 0.64585
    },
    "house": {
     "p_D": 0.92605,
@@ -142,30 +142,30 @@
    "bias_sd": 3.0,
    "sims": 100000,
    "senate": {
-    "p_D": 0.28628,
-    "p_R": 0.70421,
-    "p_none": 0.009510000000000018,
-    "D_mean": 49.14393,
+    "p_D": 0.28371,
+    "p_R": 0.70669,
+    "p_none": 0.009599999999999942,
+    "D_mean": 49.12953,
     "D_p10": 46,
     "D_p90": 52,
-    "R_mean": 50.7961,
+    "R_mean": 50.8105,
     "R_p10": 47,
     "R_p90": 54,
     "tipping": [
      [
       "OH",
-      0.121
+      0.122
      ],
      [
       "IA",
-      0.11
-     ],
-     [
-      "TX",
-      0.107
+      0.111
      ],
      [
       "AK",
+      0.105
+     ],
+     [
+      "TX",
       0.105
      ],
      [
@@ -181,23 +181,23 @@
      "max_seats": 100,
      "majority": 51,
      "majority_line": 50.5,
-     "mean": 49.144,
+     "mean": 49.13,
      "median": 49.0,
      "p10": 46,
      "p90": 52,
      "seats": [37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68],
-     "count": [5,7,19,36,122,296,789,1852,3980,7233,11569,15009,15968,14487,11170,7827,4558,2703,1363,626,267,74,29,5,1,1,1,1,0,1,0,1],
-     "prob": [5e-05,7e-05,0.00019,0.00036,0.00122,0.00296,0.00789,0.01852,0.0398,0.07233,0.11569,0.15009,0.15968,0.14487,0.1117,0.07827,0.04558,0.02703,0.01363,0.00626,0.00267,0.00074,0.00029,5e-05,1e-05,1e-05,1e-05,1e-05,0.0,1e-05,0.0,1e-05]
+     "count": [5,7,19,36,122,297,790,1859,4000,7286,11631,15088,16019,14470,11121,7733,4497,2684,1338,618,266,74,29,5,1,1,1,1,0,1,0,1],
+     "prob": [5e-05,7e-05,0.00019,0.00036,0.00122,0.00297,0.0079,0.01859,0.04,0.07286,0.11631,0.15088,0.16019,0.1447,0.11121,0.07733,0.04497,0.02684,0.01338,0.00618,0.00266,0.00074,0.00029,5e-05,1e-05,1e-05,1e-05,1e-05,0.0,1e-05,0.0,1e-05]
     }
    },
    "governors": {
     "D_total_median": 24,
     "D_total_p10": 20,
     "D_total_p90": 28,
-    "D_total_mean": 23.934,
-    "D_wins_mean": 17.934,
+    "D_total_mean": 23.967,
+    "D_wins_mean": 17.967,
     "races": 36,
-    "p_D_majority": 0.30919
+    "p_D_majority": 0.31342
    },
    "house": {
     "p_D": 0.71121,
@@ -255,30 +255,30 @@
    "bias_sd": 3.0,
    "sims": 100000,
    "senate": {
-    "p_D": 0.97154,
-    "p_R": 0.02666,
-    "p_none": 0.0018000000000000238,
-    "D_mean": 54.98199,
+    "p_D": 0.97119,
+    "p_R": 0.02693,
+    "p_none": 0.0018799999999999928,
+    "D_mean": 54.97348,
     "D_p10": 52,
     "D_p90": 57,
-    "R_mean": 44.72157,
+    "R_mean": 44.73008,
     "R_p10": 42,
     "R_p90": 48,
     "tipping": [
      [
       "OH",
-      0.121
+      0.122
      ],
      [
       "IA",
-      0.11
-     ],
-     [
-      "TX",
-      0.107
+      0.111
      ],
      [
       "AK",
+      0.105
+     ],
+     [
+      "TX",
       0.105
      ],
      [
@@ -294,23 +294,23 @@
      "max_seats": 100,
      "majority": 51,
      "majority_line": 50.5,
-     "mean": 54.982,
+     "mean": 54.973,
      "median": 55.0,
      "p10": 52,
      "p90": 57,
      "seats": [39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68],
-     "count": [1,1,0,10,13,20,38,70,178,328,711,1476,3063,5754,9945,15237,19483,20311,14362,6332,1946,508,141,48,12,6,3,1,1,1],
-     "prob": [1e-05,1e-05,0.0,0.0001,0.00013,0.0002,0.00038,0.0007,0.00178,0.00328,0.00711,0.01476,0.03063,0.05754,0.09945,0.15237,0.19483,0.20311,0.14362,0.06332,0.01946,0.00508,0.00141,0.00048,0.00012,6e-05,3e-05,1e-05,1e-05,1e-05]
+     "count": [1,1,0,10,13,20,38,71,177,335,722,1493,3099,5827,9997,15200,19460,20243,14307,6322,1943,508,141,48,12,6,3,1,1,1],
+     "prob": [1e-05,1e-05,0.0,0.0001,0.00013,0.0002,0.00038,0.00071,0.00177,0.00335,0.00722,0.01493,0.03099,0.05827,0.09997,0.152,0.1946,0.20243,0.14307,0.06322,0.01943,0.00508,0.00141,0.00048,0.00012,6e-05,3e-05,1e-05,1e-05,1e-05]
     }
    },
    "governors": {
     "D_total_median": 31,
     "D_total_p10": 28,
     "D_total_p90": 35,
-    "D_total_mean": 31.318,
-    "D_wins_mean": 25.318,
+    "D_total_mean": 31.387,
+    "D_wins_mean": 25.387,
     "races": 36,
-    "p_D_majority": 0.97394
+    "p_D_majority": 0.97458
    },
    "house": {
     "p_D": 0.99666,
@@ -373,7 +373,7 @@
    "poll_sources": 0,
    "poll_adjust": 0.0,
    "est_margin": 39.8,
-   "tipping_freq": 3e-05,
+   "tipping_freq": 2e-05,
    "poll_weight": 0.0,
    "fundamentals_margin": 39.8,
    "candidate_quality_adj": 0.0,
@@ -383,7 +383,7 @@
     "pres_style_D_overstatement": 0.99987,
     "r_overstatement_2025": 0.99997
    },
-   "market_p_dem": 0.9825
+   "market_p_dem": 0.983
   },
   {
    "state": "RI",
@@ -398,7 +398,7 @@
    "poll_sources": 0,
    "poll_adjust": 0.0,
    "est_margin": 27.8,
-   "tipping_freq": 0.00042,
+   "tipping_freq": 0.0004,
    "poll_weight": 0.0,
    "fundamentals_margin": 27.8,
    "candidate_quality_adj": 0.0,
@@ -423,7 +423,7 @@
    "poll_sources": 0,
    "poll_adjust": 0.0,
    "est_margin": 27.8,
-   "tipping_freq": 0.00046,
+   "tipping_freq": 0.00045,
    "poll_weight": 0.0,
    "fundamentals_margin": 27.8,
    "candidate_quality_adj": 0.0,
@@ -433,7 +433,7 @@
     "pres_style_D_overstatement": 0.99714,
     "r_overstatement_2025": 0.99956
    },
-   "market_p_dem": 0.985
+   "market_p_dem": 0.986
   },
   {
    "state": "OR",
@@ -448,7 +448,7 @@
    "poll_sources": 0,
    "poll_adjust": 0.0,
    "est_margin": 27.8,
-   "tipping_freq": 0.00037,
+   "tipping_freq": 0.00036,
    "poll_weight": 0.0,
    "fundamentals_margin": 27.8,
    "candidate_quality_adj": 0.0,
@@ -458,7 +458,7 @@
     "pres_style_D_overstatement": 0.99688,
     "r_overstatement_2025": 0.99961
    },
-   "market_p_dem": 0.9805
+   "market_p_dem": 0.9795
   },
   {
    "state": "CO",
@@ -473,7 +473,7 @@
    "poll_sources": 0,
    "poll_adjust": 0.0,
    "est_margin": 23.8,
-   "tipping_freq": 0.00112,
+   "tipping_freq": 0.00111,
    "poll_weight": 0.0,
    "fundamentals_margin": 23.8,
    "candidate_quality_adj": 0.0,
@@ -498,7 +498,7 @@
    "poll_sources": 0,
    "poll_adjust": 0.0,
    "est_margin": 20.8,
-   "tipping_freq": 0.00204,
+   "tipping_freq": 0.00196,
    "poll_weight": 0.0,
    "fundamentals_margin": 20.8,
    "candidate_quality_adj": 0.0,
@@ -508,7 +508,7 @@
     "pres_style_D_overstatement": 0.984,
     "r_overstatement_2025": 0.99841
    },
-   "market_p_dem": 0.9825
+   "market_p_dem": 0.983
   },
   {
    "state": "NM",
@@ -523,7 +523,7 @@
    "poll_sources": 2,
    "poll_adjust": 0.0,
    "est_margin": 18.00216,
-   "tipping_freq": 0.00253,
+   "tipping_freq": 0.00255,
    "poll_weight": 0.5448,
    "fundamentals_margin": 19.8,
    "candidate_quality_adj": 0.0,
@@ -533,7 +533,7 @@
     "pres_style_D_overstatement": 0.98081,
     "r_overstatement_2025": 0.99882
    },
-   "market_p_dem": 0.974
+   "market_p_dem": 0.9775
   },
   {
    "state": "VA",
@@ -548,7 +548,7 @@
    "poll_sources": 1,
    "poll_adjust": 0.0,
    "est_margin": 17.81455,
-   "tipping_freq": 0.00317,
+   "tipping_freq": 0.00315,
    "poll_weight": 0.07273,
    "fundamentals_margin": 17.8,
    "candidate_quality_adj": 0.0,
@@ -558,7 +558,7 @@
     "pres_style_D_overstatement": 0.97855,
     "r_overstatement_2025": 0.99825
    },
-   "market_p_dem": 0.9775
+   "market_p_dem": 0.978
   },
   {
    "state": "NJ",
@@ -573,7 +573,7 @@
    "poll_sources": 0,
    "poll_adjust": 0.0,
    "est_margin": 19.8,
-   "tipping_freq": 0.00324,
+   "tipping_freq": 0.00318,
    "poll_weight": 0.0,
    "fundamentals_margin": 19.8,
    "candidate_quality_adj": 0.0,
@@ -583,7 +583,7 @@
     "pres_style_D_overstatement": 0.97788,
     "r_overstatement_2025": 0.99783
    },
-   "market_p_dem": 0.9725
+   "market_p_dem": 0.9735
   },
   {
    "state": "NC",
@@ -598,7 +598,7 @@
    "poll_sources": 5,
    "poll_adjust": 0.0,
    "est_margin": 9.47096,
-   "tipping_freq": 0.0209,
+   "tipping_freq": 0.02072,
    "poll_weight": 0.8364,
    "fundamentals_margin": 8.3,
    "candidate_quality_adj": 1.5,
@@ -608,7 +608,7 @@
     "pres_style_D_overstatement": 0.88098,
     "r_overstatement_2025": 0.99518
    },
-   "market_p_dem": 0.956
+   "market_p_dem": 0.957
   },
   {
    "state": "GA",
@@ -623,7 +623,7 @@
    "poll_sources": 5,
    "poll_adjust": 0.0,
    "est_margin": 8.70826,
-   "tipping_freq": 0.02696,
+   "tipping_freq": 0.02697,
    "poll_weight": 0.8398,
    "fundamentals_margin": 9.8,
    "candidate_quality_adj": 0.0,
@@ -633,7 +633,7 @@
     "pres_style_D_overstatement": 0.85268,
     "r_overstatement_2025": 0.99351
    },
-   "market_p_dem": 0.962
+   "market_p_dem": 0.961
   },
   {
    "state": "MN",
@@ -648,7 +648,7 @@
    "poll_sources": 5,
    "poll_adjust": 0.0,
    "est_margin": 9.10296,
-   "tipping_freq": 0.02746,
+   "tipping_freq": 0.02729,
    "poll_weight": 0.4828,
    "fundamentals_margin": 14.8,
    "candidate_quality_adj": 0.0,
@@ -658,7 +658,7 @@
     "pres_style_D_overstatement": 0.83938,
     "r_overstatement_2025": 0.98845
    },
-   "market_p_dem": 0.875
+   "market_p_dem": 0.865
   },
   {
    "state": "NH",
@@ -673,7 +673,7 @@
    "poll_sources": 5,
    "poll_adjust": 0.0,
    "est_margin": 7.84016,
-   "tipping_freq": 0.03757,
+   "tipping_freq": 0.03719,
    "poll_weight": 0.7208,
    "fundamentals_margin": 11.3,
    "candidate_quality_adj": -1.5,
@@ -698,7 +698,7 @@
    "poll_sources": 5,
    "poll_adjust": 0.0,
    "est_margin": 5.06986,
-   "tipping_freq": 0.07521,
+   "tipping_freq": 0.07491,
    "poll_weight": 0.7038,
    "fundamentals_margin": 8.8,
    "candidate_quality_adj": 0.0,
@@ -723,7 +723,7 @@
    "poll_sources": 5,
    "poll_adjust": -3.0,
    "est_margin": 1.72024,
-   "tipping_freq": 0.10191,
+   "tipping_freq": 0.10166,
    "poll_weight": 0.6324,
    "fundamentals_margin": 6.4,
    "candidate_quality_adj": 0.0,
@@ -748,7 +748,7 @@
    "poll_sources": 4,
    "poll_adjust": 0.0,
    "est_margin": 1.61256,
-   "tipping_freq": 0.10481,
+   "tipping_freq": 0.10524,
    "poll_weight": 0.7684,
    "fundamentals_margin": -1.0,
    "candidate_quality_adj": 0.0,
@@ -773,7 +773,7 @@
    "poll_sources": 5,
    "poll_adjust": -3.0,
    "est_margin": 0.47,
-   "tipping_freq": 0.12118,
+   "tipping_freq": 0.12198,
    "poll_weight": 0.85,
    "fundamentals_margin": 0.3,
    "candidate_quality_adj": 1.5,
@@ -784,31 +784,6 @@
     "r_overstatement_2025": 0.88476
    },
    "market_p_dem": 0.615
-  },
-  {
-   "state": "TX",
-   "state_name": "Texas",
-   "seat": "regular",
-   "holder": "R",
-   "dem_side_candidate": "James Talarico",
-   "dem_side_party": "D",
-   "rep_candidate": "Ken Paxton",
-   "pvi_d": -6.0,
-   "poll_margin_d": 3.4,
-   "poll_sources": 6,
-   "poll_adjust": -3.0,
-   "est_margin": 0.12736,
-   "tipping_freq": 0.10662,
-   "poll_weight": 0.8296,
-   "fundamentals_margin": -1.2,
-   "candidate_quality_adj": 2.0,
-   "mechanics_note": "",
-   "p_dem": {
-    "unbiased": 0.50674,
-    "pres_style_D_overstatement": 0.31216,
-    "r_overstatement_2025": 0.84813
-   },
-   "market_p_dem": 0.645
   },
   {
    "state": "IA",
@@ -823,7 +798,7 @@
    "poll_sources": 5,
    "poll_adjust": 0.0,
    "est_margin": -0.02746,
-   "tipping_freq": 0.1102,
+   "tipping_freq": 0.11055,
    "poll_weight": 0.7378,
    "fundamentals_margin": -3.2,
    "candidate_quality_adj": 0.0,
@@ -834,6 +809,31 @@
     "r_overstatement_2025": 0.85413
    },
    "market_p_dem": 0.425
+  },
+  {
+   "state": "TX",
+   "state_name": "Texas",
+   "seat": "regular",
+   "holder": "R",
+   "dem_side_candidate": "James Talarico",
+   "dem_side_party": "D",
+   "rep_candidate": "Ken Paxton",
+   "pvi_d": -6.0,
+   "poll_margin_d": 3.1,
+   "poll_sources": 6,
+   "poll_adjust": -3.0,
+   "est_margin": -0.10826,
+   "tipping_freq": 0.10522,
+   "poll_weight": 0.8398,
+   "fundamentals_margin": -1.2,
+   "candidate_quality_adj": 2.0,
+   "mechanics_note": "",
+   "p_dem": {
+    "unbiased": 0.49099,
+    "pres_style_D_overstatement": 0.29776,
+    "r_overstatement_2025": 0.83962
+   },
+   "market_p_dem": 0.635
   },
   {
    "state": "NE",
@@ -848,7 +848,7 @@
    "poll_sources": 4,
    "poll_adjust": 0.0,
    "est_margin": -3.12616,
-   "tipping_freq": 0.07084,
+   "tipping_freq": 0.07109,
    "poll_weight": 0.6732,
    "fundamentals_margin": -7.3,
    "candidate_quality_adj": 0.0,
@@ -873,7 +873,7 @@
    "poll_sources": 4,
    "poll_adjust": 0.0,
    "est_margin": -3.41784,
-   "tipping_freq": 0.06692,
+   "tipping_freq": 0.06742,
    "poll_weight": 0.7004,
    "fundamentals_margin": -7.2,
    "candidate_quality_adj": 0.0,
@@ -898,7 +898,7 @@
    "poll_sources": 5,
    "poll_adjust": 0.0,
    "est_margin": -4.60394,
-   "tipping_freq": 0.05052,
+   "tipping_freq": 0.05089,
    "poll_weight": 0.5134,
    "fundamentals_margin": -10.2,
    "candidate_quality_adj": 0.0,
@@ -923,7 +923,7 @@
    "poll_sources": 5,
    "poll_adjust": 0.0,
    "est_margin": -4.77,
-   "tipping_freq": 0.0486,
+   "tipping_freq": 0.04869,
    "poll_weight": 0.714,
    "fundamentals_margin": -1.2,
    "candidate_quality_adj": 0.0,
@@ -933,7 +933,7 @@
     "pres_style_D_overstatement": 0.09743,
     "r_overstatement_2025": 0.58662
    },
-   "market_p_dem": 0.105
+   "market_p_dem": 0.095
   },
   {
    "state": "LA",
@@ -948,7 +948,7 @@
    "poll_sources": 1,
    "poll_adjust": 0.0,
    "est_margin": -12.7171,
-   "tipping_freq": 0.00788,
+   "tipping_freq": 0.00783,
    "poll_weight": 0.14203,
    "fundamentals_margin": -13.2,
    "candidate_quality_adj": 0.0,
@@ -973,7 +973,7 @@
    "poll_sources": 1,
    "poll_adjust": 0.0,
    "est_margin": -15.75002,
-   "tipping_freq": 0.00358,
+   "tipping_freq": 0.00365,
    "poll_weight": 0.07258,
    "fundamentals_margin": -16.2,
    "candidate_quality_adj": 0.0,
@@ -998,7 +998,7 @@
    "poll_sources": 0,
    "poll_adjust": 0.0,
    "est_margin": -21.2,
-   "tipping_freq": 0.00127,
+   "tipping_freq": 0.0013,
    "poll_weight": 0.0,
    "fundamentals_margin": -21.2,
    "candidate_quality_adj": 0.0,
@@ -1008,7 +1008,7 @@
     "pres_style_D_overstatement": 0.00332,
     "r_overstatement_2025": 0.0306
    },
-   "market_p_dem": 0.0255
+   "market_p_dem": 0.024
   },
   {
    "state": "KY",
@@ -1023,7 +1023,7 @@
    "poll_sources": 0,
    "poll_adjust": 0.0,
    "est_margin": -21.2,
-   "tipping_freq": 0.00123,
+   "tipping_freq": 0.00124,
    "poll_weight": 0.0,
    "fundamentals_margin": -21.2,
    "candidate_quality_adj": 0.0,
@@ -1033,7 +1033,7 @@
     "pres_style_D_overstatement": 0.00319,
     "r_overstatement_2025": 0.03028
    },
-   "market_p_dem": 0.0305
+   "market_p_dem": 0.031
   },
   {
    "state": "TN",
@@ -1048,7 +1048,7 @@
    "poll_sources": 0,
    "poll_adjust": 0.0,
    "est_margin": -22.2,
-   "tipping_freq": 0.00086,
+   "tipping_freq": 0.00087,
    "poll_weight": 0.0,
    "fundamentals_margin": -22.2,
    "candidate_quality_adj": 0.0,
@@ -1058,7 +1058,7 @@
     "pres_style_D_overstatement": 0.00234,
     "r_overstatement_2025": 0.02323
    },
-   "market_p_dem": 0.059
+   "market_p_dem": 0.051
   },
   {
    "state": "MT",
@@ -1073,7 +1073,7 @@
    "poll_sources": 4,
    "poll_adjust": 0.0,
    "est_margin": -18.20677,
-   "tipping_freq": 0.00051,
+   "tipping_freq": 0.00049,
    "poll_weight": 0.62019,
    "fundamentals_margin": -22.3,
    "candidate_quality_adj": 0.0,
@@ -1083,7 +1083,7 @@
     "pres_style_D_overstatement": 0.00148,
     "r_overstatement_2025": 0.02769
    },
-   "market_p_dem": 0.0625
+   "market_p_dem": 0.0645
   },
   {
    "state": "AR",
@@ -1098,7 +1098,7 @@
    "poll_sources": 0,
    "poll_adjust": 0.0,
    "est_margin": -24.2,
-   "tipping_freq": 0.00046,
+   "tipping_freq": 0.00048,
    "poll_weight": 0.0,
    "fundamentals_margin": -24.2,
    "candidate_quality_adj": 0.0,
@@ -1108,7 +1108,7 @@
     "pres_style_D_overstatement": 0.00174,
     "r_overstatement_2025": 0.01504
    },
-   "market_p_dem": 0.058
+   "market_p_dem": 0.056
   },
   {
    "state": "SD",
@@ -1123,7 +1123,7 @@
    "poll_sources": 0,
    "poll_adjust": 0.0,
    "est_margin": -24.2,
-   "tipping_freq": 0.00053,
+   "tipping_freq": 0.00055,
    "poll_weight": 0.0,
    "fundamentals_margin": -24.2,
    "candidate_quality_adj": 0.0,
@@ -1133,7 +1133,7 @@
     "pres_style_D_overstatement": 0.00159,
     "r_overstatement_2025": 0.0144
    },
-   "market_p_dem": 0.0715
+   "market_p_dem": 0.045
   },
   {
    "state": "OK",
@@ -1158,7 +1158,7 @@
     "pres_style_D_overstatement": 0.00123,
     "r_overstatement_2025": 0.01119
    },
-   "market_p_dem": 0.022
+   "market_p_dem": 0.0225
   },
   {
    "state": "ID",
@@ -1173,7 +1173,7 @@
    "poll_sources": 0,
    "poll_adjust": 0.0,
    "est_margin": -30.2,
-   "tipping_freq": 0.00016,
+   "tipping_freq": 0.00015,
    "poll_weight": 0.0,
    "fundamentals_margin": -30.2,
    "candidate_quality_adj": 0.0,
@@ -1183,7 +1183,7 @@
     "pres_style_D_overstatement": 0.00042,
     "r_overstatement_2025": 0.00364
    },
-   "market_p_dem": 0.04
+   "market_p_dem": 0.0405
   },
   {
    "state": "WV",
@@ -1233,7 +1233,7 @@
     "pres_style_D_overstatement": 8e-05,
     "r_overstatement_2025": 0.00062
    },
-   "market_p_dem": 0.017
+   "market_p_dem": 0.0145
   }
  ],
  "governor_races": [
@@ -1254,7 +1254,7 @@
    "poll_end_date": "2026-10-05",
    "poll_note": "Mean of Wikipedia-listed aggregators: 270toWin +23.5, Decision Desk HQ +20.7, FiftyPlusOne +22.2, RealClearPolitics +23.2, Silver Bulletin +23.2",
    "est_margin": 21.576,
-   "market_p_dem": 0.979,
+   "market_p_dem": 0.977,
    "p_dem": {
     "unbiased": 0.99948,
     "pres_style_D_overstatement": 0.99834,
@@ -1278,7 +1278,7 @@
    "poll_end_date": "2026-09-22",
    "poll_note": "Mean of Wikipedia-listed aggregators: 270toWin +19.0, RealClearPolitics +20.3, Silver Bulletin +21.1",
    "est_margin": 18.91241,
-   "market_p_dem": 0.957,
+   "market_p_dem": 0.958,
    "p_dem": {
     "unbiased": 0.99781,
     "pres_style_D_overstatement": 0.99381,
@@ -1326,7 +1326,7 @@
    "poll_end_date": "2026-09-21",
    "poll_note": "UNH Granite State Poll Sep 17-21, 2026 (598 LV): Foulkes (D) 44, Block (I) 25, Guckian (R) 17; margin is Foulkes minus Block. Excludes Opinion Diagnostics Sep 23-25 (sponsored by Block's campaign: three-way Foulkes 41, Block 24, Guckian 19)",
    "est_margin": 16.97217,
-   "market_p_dem": 0.971,
+   "market_p_dem": 0.974,
    "p_dem": {
     "unbiased": 0.9882,
     "pres_style_D_overstatement": 0.97109,
@@ -1350,7 +1350,7 @@
    "poll_end_date": "2026-09-21",
    "poll_note": "Mean of Wikipedia-listed aggregators: 270toWin +13.5, RealClearPolitics +14.0, Silver Bulletin +14.3",
    "est_margin": 14.25668,
-   "market_p_dem": 0.966,
+   "market_p_dem": 0.968,
    "p_dem": {
     "unbiased": 0.988,
     "pres_style_D_overstatement": 0.96614,
@@ -1374,7 +1374,7 @@
    "poll_end_date": "2026-10-08",
    "poll_note": "Mean of Wikipedia-listed aggregators: 270toWin +12.8, Decision Desk HQ +11.6, FiftyPlusOne +12.0, RealClearPolitics +12.8, Silver Bulletin +12.4",
    "est_margin": 12.5717,
-   "market_p_dem": 0.958,
+   "market_p_dem": 0.955,
    "p_dem": {
     "unbiased": 0.98318,
     "pres_style_D_overstatement": 0.95258,
@@ -1398,7 +1398,7 @@
    "poll_end_date": "2026-10-05",
    "poll_note": "Mean of Wikipedia-listed aggregators: 270toWin +12.0, Decision Desk HQ +12.1, FiftyPlusOne +11.6, RealClearPolitics +11.4, Silver Bulletin +12.0",
    "est_margin": 11.99655,
-   "market_p_dem": 0.954,
+   "market_p_dem": 0.959,
    "p_dem": {
     "unbiased": 0.98084,
     "pres_style_D_overstatement": 0.94605,
@@ -1422,7 +1422,7 @@
    "poll_end_date": "",
    "poll_note": "No poll used (race unanimously rated safe or no public polls); ratings prior only",
    "est_margin": 16.0,
-   "market_p_dem": 0.994,
+   "market_p_dem": 0.993,
    "p_dem": {
     "unbiased": 0.97462,
     "pres_style_D_overstatement": 0.94885,
@@ -1446,7 +1446,7 @@
    "poll_end_date": "",
    "poll_note": "No poll used (race unanimously rated safe or no public polls); ratings prior only",
    "est_margin": 16.0,
-   "market_p_dem": 0.981,
+   "market_p_dem": 0.98,
    "p_dem": {
     "unbiased": 0.97426,
     "pres_style_D_overstatement": 0.94843,
@@ -1470,7 +1470,7 @@
    "poll_end_date": "",
    "poll_note": "No poll used (race unanimously rated safe or no public polls); ratings prior only",
    "est_margin": 14.999,
-   "market_p_dem": 0.974,
+   "market_p_dem": 0.976,
    "p_dem": {
     "unbiased": 0.96735,
     "pres_style_D_overstatement": 0.93324,
@@ -1518,7 +1518,7 @@
    "poll_end_date": "2026-10-06",
    "poll_note": "Mean of Wikipedia-listed aggregators: 270toWin +8.0, Decision Desk HQ +9.2, FiftyPlusOne +8.6, RealClearPolitics +8.4, Silver Bulletin +8.6",
    "est_margin": 7.99892,
-   "market_p_dem": 0.885,
+   "market_p_dem": 0.875,
    "p_dem": {
     "unbiased": 0.92401,
     "pres_style_D_overstatement": 0.82062,
@@ -1542,7 +1542,7 @@
    "poll_end_date": "2026-10-09",
    "poll_note": "Mean of Wikipedia-listed aggregators: Silver Bulletin +7.9",
    "est_margin": 10.56695,
-   "market_p_dem": 0.905,
+   "market_p_dem": 0.915,
    "p_dem": {
     "unbiased": 0.91985,
     "pres_style_D_overstatement": 0.84422,
@@ -1622,6 +1622,30 @@
    }
   },
   {
+   "state": "AK",
+   "state_name": "Alaska",
+   "holder": "R",
+   "incumbent": "Mike Dunleavy",
+   "inc_status": "term_limited",
+   "dem_candidate": "Jonathan Kreiss-Tomkins",
+   "rep_candidate": "Bernadette Wilson",
+   "challenger_party": "R",
+   "pvi_d": -6.0,
+   "rating_score": 0.714,
+   "prior_margin": 3.07,
+   "poll_margin_d": 6.0,
+   "poll_sources": 2,
+   "poll_end_date": "2026-10-03",
+   "poll_note": "Final RCV round of nonpartisan polls: Alaska Survey Research Oct 1-3 (Kreiss-Tomkins 54-46) and NYT/Siena Sep 24-Oct 1 (52-48); mean D+6.0",
+   "est_margin": 4.828,
+   "market_p_dem": 0.785,
+   "p_dem": {
+    "unbiased": 0.77532,
+    "pres_style_D_overstatement": 0.61187,
+    "r_overstatement_2025": 0.94717
+   }
+  },
+  {
    "state": "OH",
    "state_name": "Ohio",
    "holder": "R",
@@ -1638,35 +1662,11 @@
    "poll_end_date": "2026-10-06",
    "poll_note": "Mean of Wikipedia-listed aggregators: 270toWin +5.5, Decision Desk HQ +4.2, FiftyPlusOne +4.1, RealClearPolitics +3.8, Silver Bulletin +5.1",
    "est_margin": 3.9448,
-   "market_p_dem": 0.685,
+   "market_p_dem": 0.715,
    "p_dem": {
     "unbiased": 0.7659,
     "pres_style_D_overstatement": 0.57192,
     "r_overstatement_2025": 0.96219
-   }
-  },
-  {
-   "state": "AK",
-   "state_name": "Alaska",
-   "holder": "R",
-   "incumbent": "Mike Dunleavy",
-   "inc_status": "term_limited",
-   "dem_candidate": "Jonathan Kreiss-Tomkins",
-   "rep_candidate": "Bernadette Wilson",
-   "challenger_party": "R",
-   "pvi_d": -6.0,
-   "rating_score": 0.571,
-   "prior_margin": 2.355,
-   "poll_margin_d": 6.0,
-   "poll_sources": 2,
-   "poll_end_date": "2026-10-03",
-   "poll_note": "Final RCV round of nonpartisan polls: Alaska Survey Research Oct 1-3 (Kreiss-Tomkins 54-46) and NYT/Siena Sep 24-Oct 1 (52-48); mean D+6.0",
-   "est_margin": 4.542,
-   "market_p_dem": 0.785,
-   "p_dem": {
-    "unbiased": 0.76199,
-    "pres_style_D_overstatement": 0.5945,
-    "r_overstatement_2025": 0.94315
    }
   },
   {
@@ -1686,7 +1686,7 @@
    "poll_end_date": "2026-10-01",
    "poll_note": "Mean of Wikipedia-listed aggregators: Silver Bulletin +2.0",
    "est_margin": 4.04328,
-   "market_p_dem": 0.765,
+   "market_p_dem": 0.755,
    "p_dem": {
     "unbiased": 0.72138,
     "pres_style_D_overstatement": 0.56218,
@@ -1790,6 +1790,30 @@
    }
   },
   {
+   "state": "VT",
+   "state_name": "Vermont",
+   "holder": "R",
+   "incumbent": "Phil Scott",
+   "inc_status": "running",
+   "dem_candidate": "Amanda Janoo",
+   "rep_candidate": "Phil Scott",
+   "challenger_party": "R",
+   "pvi_d": 17.0,
+   "rating_score": -2.143,
+   "prior_margin": -10.001,
+   "poll_margin_d": -2.3,
+   "poll_sources": 3,
+   "poll_end_date": "2026-10-04",
+   "poll_note": "Mean of State Navigate Oct 2-4 LV (Scott 46-43), Braun/Vermont Public Sep 10-21 LV (44-34), UNH Sep 17-21 LV (Janoo 49-43)",
+   "est_margin": -4.22525,
+   "market_p_dem": 0.232,
+   "p_dem": {
+    "unbiased": 0.23261,
+    "pres_style_D_overstatement": 0.10744,
+    "r_overstatement_2025": 0.62334
+   }
+  },
+  {
    "state": "FL",
    "state_name": "Florida",
    "holder": "R",
@@ -1811,30 +1835,6 @@
     "unbiased": 0.22531,
     "pres_style_D_overstatement": 0.10327,
     "r_overstatement_2025": 0.61962
-   }
-  },
-  {
-   "state": "VT",
-   "state_name": "Vermont",
-   "holder": "R",
-   "incumbent": "Phil Scott",
-   "inc_status": "running",
-   "dem_candidate": "Amanda Janoo",
-   "rep_candidate": "Phil Scott",
-   "challenger_party": "R",
-   "pvi_d": 17.0,
-   "rating_score": -2.286,
-   "prior_margin": -11.002,
-   "poll_margin_d": -2.3,
-   "poll_sources": 3,
-   "poll_end_date": "2026-10-04",
-   "poll_note": "Mean of State Navigate Oct 2-4 LV (Scott 46-43), Braun/Vermont Public Sep 10-21 LV (44-34), UNH Sep 17-21 LV (Janoo 49-43)",
-   "est_margin": -4.4755,
-   "market_p_dem": 0.24,
-   "p_dem": {
-    "unbiased": 0.21962,
-    "pres_style_D_overstatement": 0.10019,
-    "r_overstatement_2025": 0.60606
    }
   },
   {
@@ -1871,18 +1871,42 @@
    "rep_candidate": "Jim Pillen",
    "challenger_party": "R",
    "pvi_d": -10.0,
-   "rating_score": -2.571,
-   "prior_margin": -12.997,
+   "rating_score": -2.429,
+   "prior_margin": -12.003,
    "poll_margin_d": -6.67,
    "poll_sources": 3,
    "poll_end_date": "2026-10-05",
    "poll_note": "Mean of Wikipedia-listed aggregators: 270toWin -10.0, FiftyPlusOne -5.0, Silver Bulletin -5.0",
-   "est_margin": -8.25175,
+   "est_margin": -8.00325,
    "market_p_dem": 0.095,
    "p_dem": {
-    "unbiased": 0.08277,
-    "pres_style_D_overstatement": 0.032,
-    "r_overstatement_2025": 0.35107
+    "unbiased": 0.08895,
+    "pres_style_D_overstatement": 0.03496,
+    "r_overstatement_2025": 0.36664
+   }
+  },
+  {
+   "state": "OK",
+   "state_name": "Oklahoma",
+   "holder": "R",
+   "incumbent": "Kevin Stitt",
+   "inc_status": "term_limited",
+   "dem_candidate": "Cyndi Munson",
+   "rep_candidate": "Mike Mazzei",
+   "challenger_party": "R",
+   "pvi_d": -17.0,
+   "rating_score": -2.571,
+   "prior_margin": -12.997,
+   "poll_margin_d": null,
+   "poll_sources": 0,
+   "poll_end_date": "",
+   "poll_note": "No poll used (race unanimously rated safe or no public polls); ratings prior only",
+   "est_margin": -12.997,
+   "market_p_dem": 0.07,
+   "p_dem": {
+    "unbiased": 0.05159,
+    "pres_style_D_overstatement": 0.02637,
+    "r_overstatement_2025": 0.18151
    }
   },
   {
@@ -1910,30 +1934,6 @@
    }
   },
   {
-   "state": "OK",
-   "state_name": "Oklahoma",
-   "holder": "R",
-   "incumbent": "Kevin Stitt",
-   "inc_status": "term_limited",
-   "dem_candidate": "Cyndi Munson",
-   "rep_candidate": "Mike Mazzei",
-   "challenger_party": "R",
-   "pvi_d": -17.0,
-   "rating_score": -2.714,
-   "prior_margin": -13.998,
-   "poll_margin_d": null,
-   "poll_sources": 0,
-   "poll_end_date": "",
-   "poll_note": "No poll used (race unanimously rated safe or no public polls); ratings prior only",
-   "est_margin": -13.998,
-   "market_p_dem": 0.075,
-   "p_dem": {
-    "unbiased": 0.04061,
-    "pres_style_D_overstatement": 0.02094,
-    "r_overstatement_2025": 0.14997
-   }
-  },
-  {
    "state": "AL",
    "state_name": "Alabama",
    "holder": "R",
@@ -1950,7 +1950,7 @@
    "poll_end_date": "",
    "poll_note": "No poll used (race unanimously rated safe or no public polls); ratings prior only",
    "est_margin": -14.999,
-   "market_p_dem": 0.066,
+   "market_p_dem": 0.061,
    "p_dem": {
     "unbiased": 0.03207,
     "pres_style_D_overstatement": 0.01519,
@@ -1974,7 +1974,7 @@
    "poll_end_date": "",
    "poll_note": "No poll used (race unanimously rated safe or no public polls); ratings prior only",
    "est_margin": -14.999,
-   "market_p_dem": 0.055,
+   "market_p_dem": 0.052,
    "p_dem": {
     "unbiased": 0.03175,
     "pres_style_D_overstatement": 0.01546,
@@ -1998,7 +1998,7 @@
    "poll_end_date": "2026-10-05",
    "poll_note": "Mean of Wikipedia-listed aggregators: 270toWin -12.5, Race to the WH -10.1, RealClearPolitics -10.7, Silver Bulletin -11.0",
    "est_margin": -10.66297,
-   "market_p_dem": 0.06,
+   "market_p_dem": 0.058,
    "p_dem": {
     "unbiased": 0.0302,
     "pres_style_D_overstatement": 0.01048,
@@ -2046,7 +2046,7 @@
    "poll_end_date": "",
    "poll_note": "No poll used (race unanimously rated safe or no public polls); ratings prior only",
    "est_margin": -16.0,
-   "market_p_dem": 0.021,
+   "market_p_dem": 0.015,
    "p_dem": {
     "unbiased": 0.02568,
     "pres_style_D_overstatement": 0.01247,
@@ -2070,7 +2070,7 @@
    "poll_end_date": "",
    "poll_note": "No poll used (race unanimously rated safe or no public polls); ratings prior only",
    "est_margin": -16.0,
-   "market_p_dem": 0.018,
+   "market_p_dem": 0.019,
    "p_dem": {
     "unbiased": 0.02553,
     "pres_style_D_overstatement": 0.01226,
@@ -2110,7 +2110,7 @@
   "up_R": 18
  },
  "markets": {
-  "as_of": "2026-10-13 12:33 ET",
+  "as_of": "2026-10-13 15:26 ET",
   "note": "Prediction-market prices for comparison only; not a model input.",
   "senate_p_D": {
    "polymarket": 0.635,
@@ -2495,9 +2495,9 @@
     "house_D_median": 234
    },
    "v2": {
-    "senate_p_D": 0.61786,
-    "senate_p_R": 0.36973,
-    "senate_D_mean": 51.25475,
+    "senate_p_D": 0.61509,
+    "senate_p_R": 0.37248,
+    "senate_D_mean": 51.239,
     "house_p_D": 0.92605,
     "house_D_median": 235
    }
@@ -2513,9 +2513,9 @@
     "house_D_median": 223
    },
    "v2": {
-    "senate_p_D": 0.28628,
-    "senate_p_R": 0.70421,
-    "senate_D_mean": 49.14393,
+    "senate_p_D": 0.28371,
+    "senate_p_R": 0.70669,
+    "senate_D_mean": 49.12953,
     "house_p_D": 0.71121,
     "house_D_median": 224
    }
@@ -2531,9 +2531,9 @@
     "house_D_median": 263
    },
    "v2": {
-    "senate_p_D": 0.97154,
-    "senate_p_R": 0.02666,
-    "senate_D_mean": 54.98199,
+    "senate_p_D": 0.97119,
+    "senate_p_R": 0.02693,
+    "senate_D_mean": 54.97348,
     "house_p_D": 0.99666,
     "house_D_median": 264
    }

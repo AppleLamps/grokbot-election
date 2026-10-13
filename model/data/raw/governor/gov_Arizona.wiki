@@ -765,6 +765,15 @@ In early September, it was reported that the Arizona Attorney General’s Office
 ! Other
 ! Undecided
 |-
+|style="text-align:left;"|HighGround, Inc.<ref>{{cite web |last1=Bentz |first1=Paul |title=Hurricane Season for Arizona Republicans? |url=https://azhighground.com/hurricane-season-for-arizona-republicans/ |website=HighGround Public Affairs Consultants |date=October 13, 2026}}</ref>
+|October 6–8, 2026
+|400 (LV)
+|±&nbsp;4.9%
+|{{party shading/Democratic}}|'''51%'''
+|34%
+|5%{{efn|Hourihan (NL) with 3%; Lombardo (G) with 1%; "Some other candidate" with 1%}}
+|10%
+|-
 |style="text-align:left;"|GrayHouse (R)<ref>{{Cite web|url=https://www.grayhouse.com/post/new-grayhouse-poll-norton-leads-for-arizona-treasurer|title=Arizona State Treasurer Statewide Survey|website=Grayhouse|date=October 11, 2026|access-date=October 12, 2026}}</ref>{{Efn-ua|name=Norton| Poll commissioned by the campaign of Elijah Norton, the Republican candidate running for [[2026 Arizona State Treasurer election|state treasurer]]}}
 |October 6–8, 2026
 |550 (LV)
@@ -810,15 +819,6 @@ In early September, it was reported that the Arizona Attorney General’s Office
 |38%
 |2%{{efn|Teri Hourihan ([[No Labels Party|NL]]) & Risa Lombardo (G) with 1%}}
 |22%
-|-
-|style="text-align:left;"|HighGround, Inc.<ref>{{cite web |last1=Bentz |first1=Paul |title=Hobbs Builds Double Digit Lead in Arizona |url=https://azhighground.com/hobbs-builds-double-digit-lead-in-arizona/ |website=HighGround Public Affairs |date=August 24, 2026}}</ref>
-|August 15–18, 2026
-|400 (LV)
-|±&nbsp;4.9%
-|{{party shading/Democratic}}|'''49%'''
-|34%
-|4%{{efn|Hourihan (NL) with 2%; Lombardo (G) with 1%; "Some other candidate" with 1%}}
-|13%
 |-
 |style="text-align:left;"|Quantus Insights (R)<ref>{{cite web |title=Arizona 2026: Hobbs Holds the Edge |url=https://quantusinsights.org/polling/f/arizona-2026-hobbs-holds-the-edge |website=Quantus Insights |date=August 21, 2026}}</ref>
 |August 14–17, 2026

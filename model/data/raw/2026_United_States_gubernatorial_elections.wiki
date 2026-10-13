@@ -108,7 +108,7 @@ See [[Template:USRaceRating]] for how to apply rating.
 ! [[Cook Partisan Voting Index|PVI]]<ref>{{Cite web |date=March 6, 2025 |title=2025 Cook PVI℠: State Map and List |url=https://www.cookpolitical.com/cook-pvi/2025-partisan-voting-index/state-map-and-list |access-date=May 10, 2025 |website=Cook Political Report |language=en}}</ref>
 ! Governor
 ! data-sort-type="number"| Last<br />election{{efn|The last elections for this group of governors, with the exception of New Hampshire and Vermont, were in 2022, except for those who became governors after their predecessor's resignation.}}
-! [[Cook Political Report|Cook]]<br />{{Small|Oct. 1,<br />2026}}<ref>{{cite web |title=2026 CPR Governor Race ratings |url=https://www.cookpolitical.com/ratings/governor-race-ratings |website=Cook Political Report |access-date=October 11, 2026 |language=en}}</ref>
+! [[Cook Political Report|Cook]]<br />{{Small|Oct. 13,<br />2026}}<ref>{{cite web |title=2026 CPR Governor Race ratings |url=https://www.cookpolitical.com/ratings/governor-race-ratings |website=Cook Political Report |access-date=October 13, 2026 |language=en}}</ref>
 ![[Decision Desk HQ|DDHQ]]<br />{{Small|Oct. 11,<br />2026}}<ref>{{Cite web |title=2026 Governor Races |url=https://votes.decisiondeskhq.com/forecast/governor |access-date=October 11, 2026 |website=Decision Desk HQ |language=en}}</ref>
 ![[Fox News|Fox]]<br />{{Small|Oct. 6,<br />2026}}<ref>{{Cite news |last=Numa |first=Rémy |title=Fox News Power Rankings: The biggest surprises come after October |url=https://www.foxnews.com/politics/fox-news-power-rankings-the-biggest-surprises-come-after-october |work=[[Fox News]] |date=October 6, 2026 |access-date=October 7, 2026}}</ref>
 ! [[Inside Elections|IE]]<br />{{Small|Oct. 1,<br />2026}}<ref>{{Cite web |title=Gubernatorial Ratings |url=https://insideelections.com/ratings/governor |access-date=October 7, 2026 |website=[[Inside Elections]] |language=en}}</ref>
@@ -132,7 +132,7 @@ See [[Template:USRaceRating]] for how to apply rating.
 | {{Shading PVI|R|6}}
 | {{Party shading/Republican}} | {{sortname|Mike|Dunleavy|Mike Dunleavy (politician)}}<br />{{small|(term-limited)}}
 | {{Party shading/Republican}} data-sort-value="50.3" | 50.29% R
-<!--Cook-->    | {{USRaceRating|Tossup}}
+<!--Cook-->    | {{USRaceRating|Lean|D|flip}}
 <!--DDHQ-->    | {{USRaceRating|Tossup}}
 <!--Fox News-->| {{USRaceRating|Tossup}}
 <!--IE-->      | {{USRaceRating|Tossup}}
@@ -348,7 +348,7 @@ See [[Template:USRaceRating]] for how to apply rating.
 | {{Shading PVI|R|10}}
 | {{Party shading/Republican}} | {{sortname|Jim|Pillen}}
 | {{Party shading/Republican}} data-sort-value="59.7" | 59.74% R
-<!--Cook-->    | {{USRaceRating|Solid|R}}
+<!--Cook-->    | {{USRaceRating|Likely|R}}
 <!--DDHQ-->    | {{USRaceRating|Likely|R}}
 <!--Fox News-->| {{USRaceRating|Solid|R}}
 <!--IE-->      | {{USRaceRating|Solid|R}}
@@ -420,7 +420,7 @@ See [[Template:USRaceRating]] for how to apply rating.
 | {{Shading PVI|R|17}}
 | {{Party shading/Republican}} | {{sortname|Kevin|Stitt}}<br />{{small|(term-limited)}}
 | {{Party shading/Republican}} data-sort-value="55.5" | 55.45% R
-<!--Cook-->    | {{USRaceRating|Solid|R}}
+<!--Cook-->    | {{USRaceRating|Likely|R}}
 <!--DDHQ-->    | {{USRaceRating|Safe|R}}
 <!--Fox News-->| {{USRaceRating|Solid|R}}
 <!--IE-->      | {{USRaceRating|Likely|R}}
@@ -516,7 +516,7 @@ See [[Template:USRaceRating]] for how to apply rating.
 | {{Shading PVI|D|17}}
 | {{Party shading/Republican}} | {{sortname|Phil|Scott}}
 | {{Party shading/Republican}} data-sort-value="73.4" | 73.43% R
-<!--Cook-->    | {{USRaceRating|Solid|R}}
+<!--Cook-->    | {{USRaceRating|Likely|R}}
 <!--DDHQ-->    | {{USRaceRating|Likely|R}}
 <!--Fox News-->| {{USRaceRating|Likely|R}}
 <!--IE-->      | {{USRaceRating|Solid|R}}
@@ -549,7 +549,7 @@ See [[Template:USRaceRating]] for how to apply rating.
 <!--Silver-->  | {{USRaceRating|Solid|R}}
 |- class="sortbottom"
 ! colspan=4 | Overall
-<!--Cook-->      |  | D - 23<br />R - 22<br />5 tossups
+<!--Cook-->      |  | D - 24<br />R - 22<br />4 tossups
 <!--DDHQ-->      |  | D - 25<br />R - 22<br />3 tossups
 <!--Fox-->       |  | D - 23<br />R - 22<br />5 tossups
 <!--IE-->        |  | D - 23<br />R - 23<br />4 tossups
@@ -1272,6 +1272,11 @@ This will be the first gubernatorial election in which a candidate is required t
 | party2 = Democratic Party (United States)
 | popular_vote2 = 
 | percentage2 = 
+| image3 = 3x4.svg
+| nominee3 = Colt Shelby
+| party3 = Libertarian Party (United States)
+| popular_vote3 = 
+| percentage3 = 
 | map_image = 
 | map_size = 
 | map_caption = County results
@@ -1419,7 +1424,7 @@ Former [[U.S. Representative]] for Colorado's 4th congressional district [[Greg 
 | election_date = <!--Don't need election date in section infoboxes when the date is the same as in the article's main infobox.-->
 | image_size = 125x136px
 | turnout = 
-| image1 = Rep. Byron Donalds official photo, 117th Congress (cropped).jpg
+| image1 = Byron Donalds 2023 (cropped).jpg
 | nominee1 = [[Byron Donalds]]
 | party1 = Republican Party (United States)
 | running_mate1 = [[Bryan Avila]]
@@ -1540,6 +1545,11 @@ On the Democratic side, former [[Mayor of Atlanta]] and former director of the [
 | party2 = Democratic Party (United States)
 | popular_vote2 = 
 | percentage2 = 
+| image3 = 3x4.svg
+| nominee3 = [[John Stegner]]
+| party3 = Independent politician
+| popular_vote3 = 
+| percentage3 = 
 | title = [[Governor of Idaho|Governor]]
 | before_election = [[Brad Little]]
 | before_party = Republican Party (United States)
@@ -1575,7 +1585,7 @@ Former [[Twin Falls, Idaho|Twin Falls]] Transit Coordinator Maxine Durand is run
 | image2 = Darren Bailey at a 2022 Campaign Event (cropped2).jpg
 | nominee2 = [[Darren Bailey]]
 | party2 = Republican Party (United States)
-| running_mate2 = [[Aaron Del Mar]]
+| running_mate2 = Aaron Del Mar
 | popular_vote2 = 
 | percentage2 = 
 | map_size = 200px
@@ -1878,6 +1888,18 @@ Republican candidates included State House Speaker [[Lisa Demuth]],<ref name="De
 | running_mate2 = Ben Steffen
 | popular_vote2 = 
 | percentage2 = 
+| image4 = 3x4.svg
+| nominee4 = Rick Beard
+| party4 = Legal Marijuana Now Party
+| running_mate4 = Keenya Barnes
+| popular_vote4 = 
+| percentage4 = 
+| image5 = Brett Lindstrom (cropped).jpg
+| nominee5 = [[Brett Lindstrom]]
+| party5 = America First Party (Nebraska)|America First
+| running_mate5 = Mike Picard
+| popular_vote5 = 
+| percentage5 = 
 | map_size = 200px
 | map_caption = County results
 | title = [[Governor of Nebraska|Governor]]
@@ -1903,7 +1925,7 @@ Former [[Nebraska Legislature|state senator]] and [[2018 Nebraska gubernatorial 
 | previous_year = 2022
 | next_election = 2030 Nevada gubernatorial election
 | next_year = ''2030''
-| image1 = Joe Lombardo by Gage Skidmore (3x4 cropped).jpg
+| image1 = Joe Lombardo (55512471876) (cropped).jpg
 | nominee1 = [[Joe Lombardo]]
 | party1 = Republican Party (United States)
 | popular_vote1 = 
@@ -1939,7 +1961,7 @@ Governor [[Joe Lombardo]], a Republican, was elected in [[2022 Nevada gubernator
 | previous_year = 2024
 | next_election = 2028 New Hampshire gubernatorial election
 | next_year = 2028
-| image1 = Governor Kelly Ayotte receives a briefing from National Guard cyber operators (cropped) (cropped).jpg
+| image1 = NH Governor Kelly Ayotte (December 11, 2025).jpg
 | nominee1 = [[Kelly Ayotte]]
 | party1 = Republican Party (United States)
 | running_mate1 = 
@@ -2019,13 +2041,13 @@ Former [[United States Secretary of the Interior|U.S. Secretary of the Interior]
 | next_election = 2030 New York gubernatorial election
 | next_year = ''2030''
 | image_size = 125x136px
-| image1 = Governor Hochul Announces Five-Point Plan to Protect New Yorkers on the Subway (cropped 4).jpg
+| image1 = World Cup Transportation and Safety (cropped) (cropped).jpg
 | nominee1 = [[Kathy Hochul]]
 | party1 = Democratic Party (United States)
 | running_mate1 = [[Adrienne Adams (politician)|Adrienne Adams]]
 | popular_vote1 = 
 | percentage1 = 
-| image2 = Blakeman Profile Picture (cropped 2).jpg
+| image2 = File:Donald J. Trump delivers remarks on the economy at Rockland Community College in Suffern, New York on Friday, May 22, 2026 - 17 (cropped).jpg
 | nominee2 = [[Bruce Blakeman]]
 | party2 = Republican Party (United States)
 | running_mate2 = Todd Hood

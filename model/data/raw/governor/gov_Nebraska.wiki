@@ -14,13 +14,13 @@
 | election_date = November 3, 2026
 | party_name = no
 | image1 = File:Jim Pillen SelectUSA (55251574792).jpg
-| candidate1 = [[Jim Pillen]]
+| nominee1 = [[Jim Pillen]]
 | party1 = [[Republican Party (United States)|Republican]]
 | running_mate1 = [[Joe Kelly (Nebraska politician)|Joe Kelly]]
 | popular_vote1 = 
 | percentage1 = 
 | image2 = 3x4.svg
-| candidate2 = [[Lynne Walz]]
+| nominee2 = [[Lynne Walz]]
 | running_mate2 = Ben Steffen
 | party2 = [[Democratic Party (United States)|Democratic]]
 | popular_vote2 = 
@@ -30,11 +30,11 @@
 | before_party = [[Republican Party (United States)|Republican]]
 | after_election = 
 | after_party = 
-| candidate4 = Rick Beard
+| nominee4 = Rick Beard
 | party4 = [[Nebraska Legal Marijuana NOW Party|Legal Marijuana NOW]]
 | image4 = 3x4.svg
 | running_mate4 = Keenya Barnes
-| candidate5 = [[Brett Lindstrom]]
+| nominee5 = [[Brett Lindstrom]]
 | color5 = 122A58
 | party5 = [[America First Party (Nebraska)|America First]]
 | image5 = Brett Lindstrom (cropped).jpg
@@ -229,8 +229,8 @@ The '''2026 Nebraska gubernatorial election''' will be held on November 3, 2026,
 !As of
 |-
 |align=left|''[[The Cook Political Report]]''<ref>{{cite web|title=2026 CPR Governor Race ratings|url=https://www.cookpolitical.com/ratings/governor-race-ratings|website=[[The Cook Political Report]]|access-date=October 11, 2026}}</ref>
-|{{USRaceRating|Solid|R}}
-|October 1, 2026
+|{{USRaceRating|Likely|R}}
+|October 13, 2026
 |-
 |align=left|[[Decision Desk HQ]]<ref name="DDHQ">{{cite web |title=2026 Governor Forecast |url=https://votes.decisiondeskhq.com/forecast/2026/governor |website=[[Decision Desk HQ]] |access-date=October 11, 2026}}</ref>
 |{{USRaceRating|Likely|R}}

@@ -209,8 +209,9 @@ According to Ohio law, if a U.S. Senate seat becomes vacant, the [[List of gover
 *[[Giffords]]<ref>{{cite web |title=GIFFORDS endorses Sherrod Brown in comeback bid for US Senate in Ohio |url=https://giffords.org/press-release/2025/09/giffords-endorses-sherrod-brown-in-comeback-bid-for-us-senate-in-ohio/ |website=giffords.org |date=September 3, 2025 |access-date=September 8, 2025}}</ref>
 *[[Human Rights Campaign]]<ref>{{cite web |last2=Comeriato |first2=H.L. |last1=Schneck |first1=Ken |title=Human Rights Campaign endorses Sherrod Brown for Ohio U.S. Senate seat |url=https://thebuckeyeflame.com/2025/12/19/human-rights-campaign-endorses-sherrod-brown/ |website=[[The Buckeye Flame]] |access-date=December 19, 2025 |language=en |date=December 19, 2025}}</ref>
 *[[Jewish Democratic Council of America]]<ref>{{cite web |title=🚨Key Endorsements for 2025 & 2026🚨 |url=https://jewishdems.org/%F0%9F%9A%A8key-endorsements-for-2025-2026%F0%9F%9A%A8/ |website=Jewish Democratic Council of America |access-date=August 28, 2025}}</ref>
-* [[Joint Action Committee for Political Affairs]]<ref>{{cite web|title=Candidates|url=https://www.jacpac.org/jac-candidates|website=Joint Action Committee for Political Affairs|access-date=November 16, 2025|archive-url=https://web.archive.org/web/20251121062543/https://www.jacpac.org/jac-candidates|archive-date=November 21, 2025|url-status=dead}}</ref>
+*[[Joint Action Committee for Political Affairs]]<ref>{{cite web|title=Candidates|url=https://www.jacpac.org/jac-candidates|website=Joint Action Committee for Political Affairs|access-date=November 16, 2025|archive-url=https://web.archive.org/web/20251121062543/https://www.jacpac.org/jac-candidates|archive-date=November 21, 2025|url-status=dead}}</ref>
 *[[League of Conservation Voters]]<ref>{{cite web |title=LCV Action Fund Endorses Sherrod Brown for U.S. Senate |url=https://www.lcv.org/media-center/lcv-action-fund-endorses-sherrod-brown-for-u-s-senate/ |website=www.lcv.org |date=November 10, 2025 |access-date=November 12, 2025}}</ref>
+*[[MoveOn]]<ref name="MoveOn">{{cite web |title=MoveOn endorses Sherrod Brown |url=https://front.moveon.org/endorsements/candidates/sherrrod-brown/ |website=[[MoveOn]] |access-date=13 October 2026}}</ref>
 *[[Planned Parenthood | Planned Parenthood Action Fund]]<ref>{{cite web |url=https://thehill.com/homenews/campaign/5700069-planned-parenthood-action-fund/ |title=Planned Parenthood Action Fund rolls out first Senate endorsements ahead of November midterms |access-date=January 22, 2026}}</ref>
 *[[Population Connection]]<ref>{{cite web |last1=Dixon |first1=Brian |title=Population Connection Action Fund Endorses Sherrod Brown for Senate |url=https://www.populationconnectionaction.org/press-releases/sherrod-brown-for-senate-2026/ |website=populationconnectionaction.org |date=August 13, 2025 |access-date=September 9, 2025}}</ref>
 *[[Reproductive Freedom for All]]<ref>{{cite web |last1=Santaliz |first1=Kate |title=Abortion rights group backs Janet Mills and others in first 2026 Senate endorsements |url=https://www.axios.com/2025/12/09/abortion-rights-maine-senate-mills-platner |website=Axios |access-date=9 December 2025 |language=en |date=9 December 2025}}</ref>
@@ -382,6 +383,7 @@ A September 2026 poll conducted by Bowling Green State University found that 25%
 *[[United States Chamber of Commerce|U.S. Chamber of Commerce]]<ref>{{cite web |title=U.S. Chamber Endorses Senator Jon Husted for U.S. Senate in Ohio on National Free Enterprise Express Opportunity Tour |url=https://www.uschamber.com/improving-government/u-s-chamber-endorses-senator-jon-husted-for-u-s-senate-in-ohio-on-national-free-enterprise-express-opportunity-tour |publisher=[[United States Chamber of Commerce]] |date=September 25, 2026 |access-date=September 26, 2026}}</ref><ref>{{cite web |title=Sen. Jon Husted (R-OH) Tours Manufacturing Facility & Receives Campaign Endorsement |url=https://www.c-span.org/program/campaign-2026/sen-jon-husted-r-oh-tours-manufacturing-facility-receives-campaign-endorsement/685770 |publisher=[[C-SPAN]] |date=September 25, 2026 |access-date=September 26, 2026}}</ref>
 *[[National Right to Life Committee]]<ref name="NRL">{{cite web |last1=Tobias |first1=Carol |title=National Right to Life Endorses Senator Jon Husted for Election to the U.S. Senate |url=https://nrlc.org/communications/nrl-endorses-senator-jon-husted-for-election-to-the-u-s-senate/ |website=[[National Right to Life Committee]] |date=September 3, 2026 |access-date=September 3, 2026 |language=en}}</ref>
 }}
+
 {{Endorsements box
 |title=Sherrod Brown (D)
 |colwidth=
@@ -392,7 +394,10 @@ A September 2026 poll conducted by Bowling Green State University found that 25%
 *[[Ohio Conference of Teamsters]]<ref>{{cite web |last1=Yeager |first1=Kate |title=Ohio Conference of Teamsters Announce 2026 Congressional Endorsements |url=https://teamster.org/2026/07/ohio-conference-of-teamsters-announce-2026-congressional-endorsements/ |website=International Brotherhood of Teamsters |access-date=10 July 2026 |language=en |date=10 July 2026}}</ref>
 *Ohio Patrolmen's Benevolent Association<ref>{{cite web |last1=Poling |first1=Isabelle |title=Ohio Patrolmen’s Benevolent Association endorses Sherrod Brown for U.S. Senate |url=https://www.wtap.com/2026/08/24/ohio-patrolmens-benevolent-association-endorses-sherrod-brown-us-senate/ |website=[[WTAP-TV]] |date=August 24, 2026 |access-date=August 25, 2026}}</ref>
 
+;Organizations
+*[[American Association of University Professors]]<ref name="AAUP">{{cite web |title=AAUP Endorses Midterm Election Candidates |url=https://www.aaup.org/news/aaup-endorses-midterm-election-candidates |website=[[American Association of University Professors |access-date=13 October 2026 |date=October 13, 2026}}</ref>
 }}
+
 {{Endorsements box
 |title=Declined to endorse
 |colwidth=
