@@ -259,7 +259,7 @@ Democrats have not won a statewide election in Wyoming since [[2006 Wyoming gube
 ==== Declared ====
 
 ===== Constitution Party =====
-* [[Rebecca Bextel]], business owner<ref>{{cite news |last1=Zumberge |first1=Marianne |title=Jackson’s Rebecca Bextel announces campaign for governor |url=https://buckrail.com/jacksons-rebecca-bextel-announces-campaign-for-governor/ |access-date=July 1, 2026 |work=[[Buckrail]] |date=May 13, 2026}}</ref>
+* Rebecca Bextel, business owner<ref>{{cite news |last1=Zumberge |first1=Marianne |title=Jackson’s Rebecca Bextel announces campaign for governor |url=https://buckrail.com/jacksons-rebecca-bextel-announces-campaign-for-governor/ |access-date=July 1, 2026 |work=Buckrail |date=May 13, 2026}}</ref>
 
 ==== Withdrawn ====
 
@@ -297,7 +297,7 @@ Democrats have not won a statewide election in Wyoming since [[2006 Wyoming gube
 |{{USRaceRating|Safe|R}}
 |October 6, 2026
 |-
-|align="left"|[[Silver Bulletin]]<ref name="Silver">{{Cite web |url=https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model |title=FLIPR 2026 midterm election forecast |last1=Silver |first1=Nate |author1-link=Nate Silver |last2=McKown-Dawson |first2=Eli |website=[[Silver Bulletin]] |via=[[Substack]] |date=October 11, 2026 |orig-date=August 11, 2026 |access-date=October 11, 2026 |url-access=subscription}}</ref>
+|align="left"|''[[Silver Bulletin]]''<ref name="Silver">{{Cite web |url=https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model |title=FLIPR 2026 midterm election forecast |last1=Silver |first1=Nate |author1-link=Nate Silver |last2=McKown-Dawson |first2=Eli |website=[[Silver Bulletin]] |via=[[Substack]] |date=October 11, 2026 |orig-date=August 11, 2026 |access-date=October 11, 2026 |url-access=subscription}}</ref>
 |{{USRaceRating|Solid|R}}
 |October 11, 2026
 |}

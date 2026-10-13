@@ -391,9 +391,9 @@ This election will mark Oregon's first gubernatorial rematch since [[1978 Oregon
 |{{USRaceRating|Lean|D}}
 |October 1, 2026
 |-
-|align="left"|[[RealClearPolitics]]<ref>{{Cite web|url=https://www.realclearpolling.com/maps/governor/2026/toss-up |title=2026 Governor Races |website=[[RealClearPolitics]] |access-date=October 11, 2026}}</ref>
-|{{USRaceRating|Lean|D}}
-|October 5, 2026
+|align="left"|[[RealClearPolitics]]<ref>{{Cite web|url=https://www.realclearpolling.com/maps/governor/2026/toss-up |title=2026 Governor Races |website=[[RealClearPolitics]] |access-date=October 12, 2026}}</ref>
+|{{USRaceRating|Tossup}}
+|October 12, 2026
 |-
 |align=left|''[[Sabato's Crystal Ball]]''<ref>{{cite web|title=2026 Governor|url=https://centerforpolitics.org/crystalball/2026-governor/|website=[[Sabato's Crystal Ball]]|access-date=October 11, 2026}}</ref>
 |{{USRaceRating|Lean|D}}

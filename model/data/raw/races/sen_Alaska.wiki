@@ -557,6 +557,7 @@ On September 23, ''[[The New York Times]]'' published allegations from anonymous
 *[[Fran Ulmer]], former [[Lieutenant Governor of Alaska|lieutenant governor of Alaska]] (1994–2002)<ref>{{cite news |last1=Ulmer |first1=Fran |title=Letter: A different vote for a different direction |url=https://www.adn.com/opinions/letters/2026/10/03/letter-a-different-vote-for-a-different-direction/ |work=[[Anchorage Daily News]] |date=October 3, 2026}}</ref>
 
 ;Individuals
+*[[Julia Louis-Dreyfus]], actress<ref>{{Cite web|url=https://www.politico.com/news/2026/09/02/democrats-fundraising-emails-analysis-01061550|title=Elon Musk and Donald Trump are all over Dems’ fundraising emails. Their opponents aren’t.|date=October 5, 2026|access-date=October 12, 2026|last=Ibarguen|first=Emilio|website=Politico}}</ref>
 *[[Matthew Yglesias]], journalist<ref>{{Cite web|url=https://www.slowboring.com/p/the-midterm-candidates-who-deserve|title=The midterm candidates who deserve your money|date=July 13, 2026|access-date=September 22, 2026|last=Yglesias|first=Matthew|website=Slow Boring}}</ref>
 
 ;Labor unions
@@ -842,6 +843,7 @@ On September 23, ''[[The New York Times]]'' published allegations from anonymous
 |{{Party shading/Democratic}} | '''47%'''
 |5%
 |3%
+|{{sdash}}
 |{{sdash}}
 |-
 | style="text-align:left;|[[New York Times]]/[[Siena University (New York)|Siena University]]<ref>{{cite web|title=Toplines: September 2026 Times/Siena Poll of the Likely Electorate in Alaska|url=https://www.nytimes.com/interactive/2026/10/03/polls/times-siena-alaska-poll-toplines.html |date=October 3, 2026 |access-date=October 3, 2026}}</ref>

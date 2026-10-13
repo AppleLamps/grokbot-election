@@ -780,6 +780,19 @@ title=Bernadette Wilson (R)
 *[[Shelley Hughes]], former majority leader of the [[Alaska State Senate|Alaska Senate]] (2021–2023) from [[Alaska Senate district M|district M]] (2017–2025) and former gubernatorial candidate<ref name=Refine/>
 }}
 
+{{Endorsements box
+|title=Declined to endorse
+|list=
+;Statewide officials
+*[[Mike Dunleavy (politician)|Mike Dunleavy]], incumbent governor (2018-present)<ref name="Jostle">{{cite news |last1=Samuels |first1=Iris |title=‘Failed as a party’: Bronson criticizes Wilson and GOP leaders as Republicans jostle over strategy in Alaska governor’s race |url=https://www.adn.com/politics/2026/10/10/failed-as-a-party-bronson-criticizes-wilson-and-gop-leaders-as-republicans-jostle-over-strategy-in-alaska-governors-race/ |access-date=October 12, 2026 |work=[[Anchorage Daily News]] |date=October 10, 2026 |archive-url=https://web.archive.org/web/20261010201035/https://www.adn.com/politics/2026/10/10/failed-as-a-party-bronson-criticizes-wilson-and-gop-leaders-as-republicans-jostle-over-strategy-in-alaska-governors-race/ |archive-date=October 10, 2026 |url-status=live}}</ref>
+
+;Party officials
+*Carmela Warfield, chair of the [[Alaska Republican Party]]<ref name="Jostle"/>
+
+;Political parties
+*[[Alaska Republican Party]]<ref name="Jostle"/>
+}}
+
 ===Polling===
 ====Ranked-choice polls====
 {| class="wikitable" style="font-size:90%;text-align:center;"

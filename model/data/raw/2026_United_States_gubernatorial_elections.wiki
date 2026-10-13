@@ -112,7 +112,7 @@ See [[Template:USRaceRating]] for how to apply rating.
 ![[Decision Desk HQ|DDHQ]]<br />{{Small|Oct. 11,<br />2026}}<ref>{{Cite web |title=2026 Governor Races |url=https://votes.decisiondeskhq.com/forecast/governor |access-date=October 11, 2026 |website=Decision Desk HQ |language=en}}</ref>
 ![[Fox News|Fox]]<br />{{Small|Oct. 6,<br />2026}}<ref>{{Cite news |last=Numa |first=Rémy |title=Fox News Power Rankings: The biggest surprises come after October |url=https://www.foxnews.com/politics/fox-news-power-rankings-the-biggest-surprises-come-after-october |work=[[Fox News]] |date=October 6, 2026 |access-date=October 7, 2026}}</ref>
 ! [[Inside Elections|IE]]<br />{{Small|Oct. 1,<br />2026}}<ref>{{Cite web |title=Gubernatorial Ratings |url=https://insideelections.com/ratings/governor |access-date=October 7, 2026 |website=[[Inside Elections]] |language=en}}</ref>
-![[RealClearPolitics|RCP]]<br />{{Small|Oct. 5,<br />2026}}<ref>{{Cite web |title=2026 Governor Races |url=https://www.realclearpolling.com/maps/governor/2026/toss-up |access-date=October 11, 2026 |website=www.realclearpolling.com |language=en}}</ref>
+![[RealClearPolitics|RCP]]<br />{{Small|Oct. 12,<br />2026}}<ref>{{Cite web |title=2026 Governor Races |url=https://www.realclearpolling.com/maps/governor/2026/toss-up |access-date=October 12, 2026 |website=www.realclearpolling.com |language=en}}</ref>
 ! [[Larry Joseph Sabato|Sabato]]<br />{{Small|Oct. 6,<br />2026}}<ref>{{Cite web |title=2026 Governor |url=https://centerforpolitics.org/crystalball/2026-governor/ |website=[[Sabato's Crystal Ball]] |language=en |access-date=October 7, 2026}}</ref>
 ![[Silver Bulletin|Silver]]<br />{{Small|Oct. 11,<br />2026}}<ref>{{Cite web |url=https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model |title=FLIPR 2026 midterm election forecast |last1=Silver |first1=Nate |author1-link=Nate Silver |last2=McKown-Dawson |first2=Eli |website=[[Silver Bulletin]] |via=[[Substack]] |date=October 11, 2026 |orig-date=August 11, 2026 |access-date=October 11, 2026 |url-access=subscription}}</ref>
 |-
@@ -436,7 +436,7 @@ See [[Template:USRaceRating]] for how to apply rating.
 <!--DDHQ-->    | {{USRaceRating|Likely|D}}
 <!--Fox News-->| {{USRaceRating|Lean|D}}
 <!--IE-->      | {{USRaceRating|Lean|D}}
-<!--RCP-->     | {{USRaceRating|Lean|D}}
+<!--RCP-->     | {{USRaceRating|Tossup}}
 <!--Sabato-->  | {{USRaceRating|Lean|D}}
 <!--Silver-->  | {{USRaceRating|Likely|D}}
 |-
@@ -553,7 +553,7 @@ See [[Template:USRaceRating]] for how to apply rating.
 <!--DDHQ-->      |  | D - 25<br />R - 22<br />3 tossups
 <!--Fox-->       |  | D - 23<br />R - 22<br />5 tossups
 <!--IE-->        |  | D - 23<br />R - 23<br />4 tossups
-<!--RCP-->       |  | D - 24<br />R - 19<br />7 tossups
+<!--RCP-->       |  | D - 23<br />R - 19<br />8 tossups
 <!--Sabato-->    |  | D - 25<br />R - 22<br />3 tossups
 <!--Silver-->    |{{Party shading/Democratic}} | D - 27<br />R - 22<br />1 tossup
 |}

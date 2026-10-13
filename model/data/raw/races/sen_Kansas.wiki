@@ -271,13 +271,14 @@ Though generally considered to be a [[red state]],<ref>{{Cite news |url=https://
 
 == Third-party and independent candidates ==
 === Nominee ===
-*David C. Graham, attorney ([[Libertarian Party (United States)|Libertarian]])<ref>{{cite web|title=Candidates for the 2026 General|url=https://sos.ks.gov/elections/elections_upcoming_candidate.aspx|publisher=Kansas Secretary of State|access-date=September 18, 2026|archive-url=https://web.archive.org/web/20260501151638/https://www.sos.ks.gov/elections/elections_upcoming_candidate.aspx|archive-date=May 1, 2026|url-status=dead}}</ref>
+*David C. Graham, attorney ([[Libertarian Party (United States)|Libertarian]])<ref>{{cite web|title=Candidates for the 2026 General|url=https://sos.ks.gov/elections/elections_upcoming_candidate.aspx|publisher=Kansas Secretary of State|access-date=September 18, 2026|archive-url=https://web.archive.org/web/20260501151638/https://www.sos.ks.gov/elections/elections_upcoming_candidate.aspx|archive-date=May 1, 2026|url-status=dead}}</ref> ''(no relation to Lindsey Graham)
+''
 
 == General election ==
 One issue raised during the campaign was Roger Marshall's history of suing over 700 of his patients for unpaid bills while he worked as an [[OB/GYN]] in Kansas. The ''New York Times'' reported that in at least 81 cases, patients were arrested at the request of Marshall's lawyers for failure to appear in court for their unpaid debts. There were 13 additional cases where an arrest warrant was requested, but the outcome is unknown. Most of the patients interviewed by the ''New York Times'' who were sued by Marshall said they lived paycheck-to-paycheck and did not have the money to pay the bills.<ref>{{Cite news |last=Kliff |first=Sarah |date=2026-09-08 |title=A Doctor Sued 700 Patients for Debts; 81 Were Arrested. Now He's a Senator. |url=https://www.nytimes.com/2026/09/08/us/politics/roger-marshall-obgyn-doctor-debts.html |access-date=2026-09-29 |work=The New York Times |language=en-US |issn=0362-4331}}</ref> Hamilton produced an advertisement featuring a woman who said she was arrested for missing a $50 payment to Marshall. The Marshall campaign sent a letter alleging the ad was "defamatory" because the woman was arrested for failing to appear in court over larger debts to him, rather than for missing one bill, and that she was subject to several other court proceedings.<ref>{{Cite web |last=Kaminski |first=Anna |date=2026-09-28 |title=Roger Marshall alleges defamation in new ad about former Kansas patient arrested while in debt • Kansas Reflector |url=https://kansasreflector.com/2026/09/28/roger-marshall-alleges-defamation-in-new-ad-about-former-kansas-patient-arrested-while-in-debt/ |access-date=2026-09-29 |website=Kansas Reflector |language=en-US}}</ref><ref>{{Cite news |last=Hudnall |first=David |date=September 29, 2026 |title=With new defamation threat, Roger Marshall is making a bad story worse |url=https://www.kansascity.com/opinion/article317419376.html |work=Kansas City Star}}</ref><ref>{{Cite web |last=Alatidd |first=Jason |title=What to know about Roger Marshall patient featured in Adam Hamilton ad |url=https://www.cjonline.com/story/news/politics/elections/congressional/2026/09/29/roger-marshall-disputes-adam-hamilton-political-ad-featuring-patient/91986984007/ |access-date=2026-09-29 |website=The Topeka Capital-Journal |language=en-US}}</ref>
 
 === Predictions ===
-{| class="wikitable" style=text-align:center
+{| class="wikitable sortable" style=text-align:center
 !Source
 !Ranking
 !As of
@@ -306,9 +307,9 @@ One issue raised during the campaign was Roger Marshall's history of suing over 
 |{{USRaceRating|Lean|R}}
 |October 6, 2026
 |-
-|align="left"|[[MS NOW]]<ref>{{Cite news |url=https://www.ms.now/news/2026-senate-ratings-ms-nows-races-to-watch |title=2026 Senate ratings: MS NOW's races to watch |last1=Khanna |first1=Kabir |last2=Thomas |first2=Shawna |orig-date=August 19, 2026 |work=[[MS NOW]] |date=September 16, 2026 |access-date=October 7, 2026}}</ref>
-|{{USRaceRating|Likely|R}}
-|September 16, 2026
+|align="left"|[[MS NOW]]<ref>{{Cite news |title=Senate ratings change: Kansas and Minnesota tighten |url=https://www.ms.now/news/senate-race-ratings-polls-kansas-minnesota-midterms |last=Stanton |first=Zack |website=[[MS NOW]] |date=October 13, 2026 |access-date=October 13, 2026}}</ref>
+|{{USRaceRating|Lean|R}}
+|October 12, 2026
 |-
 |align="left"|''[[Inside Elections]]''<ref>{{Cite web|title=Senate Ratings|url=https://www.insideelections.com/ratings/senate|access-date=October 7, 2026 |website=[[Inside Elections]]}}</ref>
 |{{USRaceRating|Likely|R}}

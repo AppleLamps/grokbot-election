@@ -33,7 +33,7 @@
 {{ElectionsRI}}
 The '''2026 Rhode Island gubernatorial election''' will be held on November 3, 2026, to elect the [[governor of Rhode Island]]. Incumbent [[Democratic Party (United States)|Democratic]] governor [[Dan McKee]] ran for re-election to a second full term but was defeated in the primary by [[Helena Buonanno Foulkes|Helena Foulkes]]. [[Primary elections]] took place on September 9, 2026.<ref>{{Cite web|date=September 26, 2025|title=2026 State Primary Election Dates|url=https://www.ncsl.org/elections-and-campaigns/2026-state-primary-election-dates|archive-url=https://web.archive.org/web/20260509222424/https://www.ncsl.org/elections-and-campaigns/2026-state-primary-election-dates|archive-date=May 9, 2026|url-status=live|access-date=September 27, 2025|website=[[National Conference of State Legislatures]]}}</ref> 
 
-Republicans have not won a statewide election in Rhode Island since [[2006 Rhode Island gubernatorial election|2006]]. While Rhode Island is generally a safely Democratic state, the Democratic primary was predicted to be competitive due to McKee's high unpopularity<ref name="politico-20260808" />. The election has also been noted as not following national trends of progressives versus moderates, with both Democrats being relatively moderate and the primary instead largely boiling down to anger over the longtime closure of the [[Washington Bridge (Providence, Rhode Island)|Washington Bridge]].<ref name="politico-20260808">{{Cite web |last1=Okun |first1=Eli |date=August 8, 2026 |title=Why Rhode Island may oust a sitting governor over a bridge |url=https://www.politico.com/news/2026/08/08/rhode-island-governor-bridge-01030024 |access-date=2026-08-12 |website=POLITICO |language=en}}</ref>
+Republicans have not won a statewide election in Rhode Island since [[2006 Rhode Island gubernatorial election|2006]]. While Rhode Island is generally a safely Democratic state, the Democratic primary was predicted to be competitive due to McKee's high unpopularity<ref name="politico-20260808" />. The election has also been noted as not following national trends of progressives versus moderates, with both Democrats being relatively moderate and the primary instead largely boiling down to anger over the longtime closure of the [[Washington Bridge (Providence, Rhode Island)|Washington Bridge]].<ref name="politico-20260808">{{Cite web |last1=Okun |first1=Eli |date=August 8, 2026 |title=Why Rhode Island may oust a sitting governor over a bridge |url=https://www.politico.com/news/2026/08/08/rhode-island-governor-bridge-01030024 |access-date=2026-08-12 |website=Politico |language=en}}</ref>
 
 This is the first election since [[2014 Hawaii gubernatorial election|2014]] in which an elected state governor lost renomination.{{efn|Governor [[Jeff Colyer]] of Kansas, who had taken office after the resignation of [[Sam Brownback]], was defeated by [[Kris Kobach]] in the [[2018 Kansas gubernatorial election|2018]] Republican primary election.}} It is also the first time since [[1994 Rhode Island gubernatorial election|1994]] in which an incumbent governor of Rhode Island lost renomination.
 
@@ -583,7 +583,7 @@ This is the first election since [[2014 Hawaii gubernatorial election|2014]] in 
 ===Candidates===
 ====Declared====
 *[[Ken Block (politician)|Ken Block]], founder of the [[Moderate Party of Rhode Island]], Moderate Party nominee for governor in [[2010 Rhode Island gubernatorial election|2010]] and Republican candidate in [[2014 Rhode Island gubernatorial election|2014]]<ref>{{cite news |title=Ken Block drops into Rhode Island's governor's race as independent |url=https://turnto10.com/politics/ken-block-drops-into-rhode-island-governor-race-independent-democrats-republicans-april-2-2026 |access-date=April 2, 2026 |work=[[WJAR]] |date=April 2, 2026}}</ref>
-*Jasjit Gotra, businessman<ref name="Candidates">{{cite web |title=Candidates for GOVERNOR |url=https://vote.sos.ri.gov/Candidates/CandidateSearchSummary?OfficeType=549&Election=18144 |website=Rhode Island Department of State}}</ref>
+*Jasjit Gotra, businessman<ref name="Candidates">{{cite web |title=Candidates for Governor |url=https://vote.sos.ri.gov/Candidates/CandidateSearchSummary?OfficeType=549&Election=18144 |website=Rhode Island Department of State}}</ref>
 *CD Reynolds, perennial candidate<ref name="Candidates"/>
 
 ====Did not qualify====
@@ -645,7 +645,7 @@ This is the first election since [[2014 Hawaii gubernatorial election|2014]] in 
 |list=
 ;Organizations
 *[[EMILYs List]]<ref>{{cite web |url=https://emilyslist.org/news/emilys-list-announces-four-new-gubernatorial-endorsements-expanding-its-slate-of-democratic-women-governors/ |title=EMILYs List Announces Four New Gubernatorial Endorsements, Expanding Its Slate of Democratic Women Governors |website=emilyslist.org |date=October 1, 2026 |access-date=October 1, 2026}}</ref>
-*[[Rhode Island Coalition Against Gun Violence (RICAGV)]]<ref>{{cite web |url=https://ricagv.org/wp-content/uploads/2026/09/RICAGV-Announces-2026-General-Election-Endorsements.pdf?emci=a0b93737-c8b6-f111-a6a7-0022482a9a8d&emdi=58571ddc-55b7-f111-a6a9-0022482a933b&ceid=569596 | date=September 21, 2026 |access-date=Octover 11, 2026}}</ref>
+*[[Rhode Island Coalition Against Gun Violence (RICAGV)]]<ref>{{cite web |url=https://ricagv.org/wp-content/uploads/2026/09/RICAGV-Announces-2026-General-Election-Endorsements.pdf?emci=a0b93737-c8b6-f111-a6a7-0022482a9a8d&emdi=58571ddc-55b7-f111-a6a9-0022482a933b&ceid=569596 | date=September 21, 2026 |access-date=October 11, 2026}}</ref>
 }}
 
 ===Polling===
@@ -661,7 +661,7 @@ This is the first election since [[2014 Hawaii gubernatorial election|2014]] in 
 ! Other
 ! Undecided
 |-
-|rowspan="2" style="text-align:left;"|Opinion Diagnostics<ref>{{cite web|url=https://www.golocalprov.com/politics/new-blocks-campaign-poll-shows-he-leads-foulkes-head-to-head-in-race-for-gov-guckian-on-track-for-the-worst-gop-result-on-record|title=NEW: Block's Campaign Poll Shows He Leads Foulkes Head-to-Head in Race for Gov; Guckian on Track for the Worst GOP Result on Record|website=GoLocalProv|date=September 29, 2026|access-date=September 29, 2026}}</ref>{{efn-ua|name=Block}}
+|rowspan="2" style="text-align:left;"|Opinion Diagnostics<ref>{{cite web|url=https://www.golocalprov.com/politics/new-blocks-campaign-poll-shows-he-leads-foulkes-head-to-head-in-race-for-gov-guckian-on-track-for-the-worst-gop-result-on-record|title=New: Block's Campaign Poll Shows He Leads Foulkes Head-to-Head in Race for Gov; Guckian on Track for the Worst GOP Result on Record|website=GoLocalProv|date=September 29, 2026|access-date=September 29, 2026}}</ref>{{efn-ua|name=Block}}
 |rowspan="2"|September 23–25, 2026
 |rowspan="2"|800 (LV)
 |rowspan="2"|±{{nbsp}}3.5%
@@ -674,7 +674,8 @@ This is the first election since [[2014 Hawaii gubernatorial election|2014]] in 
 |39%
 |–
 |{{party shading/Independent}}|'''44%'''
-|colspan="2"| 17%
+| {{sdash}}
+| 17%
 |-
 | style="text-align:left;"|[[University of New Hampshire]]<ref>{{cite journal|url=https://scholars.unh.edu/survey_center_polls/1009/|title=Democrats Foulkes & Reed Enjoy Wide Leads in Rhode Island While Matos Embattled in Lt. Governor Race|journal=All UNH Survey Center Polls |date=September 24, 2026|access-date=September 24, 2026}}</ref>
 |September 17–21, 2026
@@ -907,6 +908,24 @@ This is the first election since [[2014 Hawaii gubernatorial election|2014]] in 
 |17%
 |}
 {{hidden end}}
+
+===Results===
+{{Election box begin | title=2026 Rhode Island gubernatorial election}}
+{{Election box candidate with party link|party=Rhode Island Democratic Party|candidate=[[Helena Foulkes|Helena Buonanno Foulkes]]|votes=|percentage=|change=}}
+{{Election box candidate with party link|party=Rhode Island Republican Party|candidate=Aaron C. Guckian|votes=|percentage=|change=}}
+{{Election box candidate with party link|party=Independent|candidate=[[Ken Block (politician)|Kenneth Block]]|votes=|percentage=|change=}}
+{{Election box candidate with party link|party=Independent|candidate=Jasjit S. Gotra|votes=|percentage=|change=}}
+{{Election box candidate with party link|party=Independent|candidate=C.D. Reynolds|votes=|percentage=|change=}}
+{{Election box write-in with party link
+ |votes = 
+ |percentage = 
+ |change = 
+}}
+{{Election box total
+ |votes = 
+ |percentage = 100.0
+}}
+{{Election box end}}
 
 == See also ==
 *[[2026 United States gubernatorial elections]]

@@ -938,6 +938,24 @@ Anne Brensley did not officially become the running mate to a candidate for gove
 |}
 {{hidden end}}
 
+=== Results ===
+{{Election box begin |title=2026 Massachusetts gubernatorial election}}
+{{Election box candidate with party link
+  |party      = Massachusetts Democratic Party
+  |candidate  = {{ubl|[[Maura Healey]] (incumbent)|[[Kim Driscoll]] (incumbent)}}
+  |votes      = 
+  |percentage =
+  |change     =
+}}{{Election box candidate with party link|party=Massachusetts Republican Party|candidate={{ubl|Michael Minogue|Shawn Oliver}}|votes=|percentage=|change=}}{{Election box candidate with party link|party=Independent politician|candidate={{ubl|[[Andrea C. James]]|Kayla Kittredge}}|votes=|percentage=|change=}}{{Election box write-in with party link
+  |votes      =
+  |percentage =
+  |change     = 
+}}{{Election box total
+  |votes     =  
+  |percentage =100.0
+  |change=
+}}{{Election box end}}
+
 == See also ==
 *[[2026 United States gubernatorial elections]]
 

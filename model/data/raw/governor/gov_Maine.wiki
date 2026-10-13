@@ -520,21 +520,21 @@ Following his loss in the gubernatorial primary, [[Troy Jackson]] became the Dem
 {{Switcher|
 [[File:Maine Democratic gubernatorial primary 2026 first choice result by county.svg|280px|thumb|upright|First round results by county
 {{collapsible list
-| title = {{legend|#2affd5ff|Shah}}
-|{{legend|#2affd5ff|20–30%}}
+| title = {{legend|#C0F0C0|Shah}}
+|{{legend|#C0F0C0|20–30%}}
 }}
 {{collapsible list
-| title = {{legend|#9955ffff|Pingree}}
-|{{legend|#9955ffff|30–40%}}
+| title = {{legend|#BDD3FF|Pingree}}
+|{{legend|#BDD3FF|30–40%}}
 }}
 {{collapsible list
 | title = {{legend|#ff0066ff|Jackson}}
-|{{legend|#ff80b2ff|20–30%}}
-|{{legend|#ff0066ff|50–60%}}
+|{{legend|#FFDCEC|20–30%}}
+|{{legend|#FF80B2|50–60%}}
 }}
 {{collapsible list
-| title = {{legend|#ff9955ff|Bellows}}
-|{{legend|#ff9955ff|30–40%}}
+| title = {{legend|#FEE5D5|Bellows}}
+|{{legend|#FEE5D5|30–40%}}
 }}
 ]]|Results by county|
 [[File:Maine Democratic gubernatorial primary 2026 first choice result by town.svg|280px|thumb|upright|First round results by town

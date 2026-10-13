@@ -863,9 +863,7 @@ Shaheen was first elected in [[2008 United States Senate election in New Hampshi
 |}
 
 ===Post-primary endorsements===
-{{Endorsements box|title=Chris Pappas (D)|list=;Executive branch officials
-*[[Barack Obama]], former [[president of the United States]] (2009–2017)
-;Organizations
+{{Endorsements box|title=Chris Pappas (D)|list=;Organizations
 *[[J Street]]<ref>{{Cite web |title=Chris Pappas|url=https://jstreetpac.org/candidate/chris-pappas/|access-date=September 22, 2026 |publisher=J Street PAC |language=en-US}}</ref>
 }}{{Endorsements box|title=John E. Sununu (R)|list=;Executive branch officials
 *[[Scott Brown (politician)|Scott Brown]], former [[List of ambassadors of the United States to New Zealand|ambassador to New Zealand and Samoa]] (2017–2020)<ref>{{cite web |last=Robinson |first=Leonard |title=GOP Primary Wrap: Sununu Knocks Out Brown, Challenges Pappas to 10-Round Debate |url=https://nhjournal.com/gop-primary-wrap-sununu-knocks-out-brown-challenges-pappas-to-10-round-debate/ |website= NH Journal |date=September 9, 2026 |access-date=September 29, 2026}}</ref>

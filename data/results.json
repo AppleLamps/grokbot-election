@@ -81,10 +81,10 @@
     "D_total_median": 27,
     "D_total_p10": 23,
     "D_total_p90": 30,
-    "D_total_mean": 26.529,
-    "D_wins_mean": 20.529,
+    "D_total_mean": 26.509,
+    "D_wins_mean": 20.509,
     "races": 36,
-    "p_D_majority": 0.64624
+    "p_D_majority": 0.64322
    },
    "house": {
     "p_D": 0.92513,
@@ -194,10 +194,10 @@
     "D_total_median": 24,
     "D_total_p10": 20,
     "D_total_p90": 28,
-    "D_total_mean": 24.0,
-    "D_wins_mean": 18.0,
+    "D_total_mean": 23.976,
+    "D_wins_mean": 17.976,
     "races": 36,
-    "p_D_majority": 0.31528
+    "p_D_majority": 0.31205
    },
    "house": {
     "p_D": 0.70859,
@@ -307,10 +307,10 @@
     "D_total_median": 31,
     "D_total_p10": 28,
     "D_total_p90": 35,
-    "D_total_mean": 31.328,
-    "D_wins_mean": 25.328,
+    "D_total_mean": 31.321,
+    "D_wins_mean": 25.321,
     "races": 36,
-    "p_D_majority": 0.97447
+    "p_D_majority": 0.97413
    },
    "house": {
     "p_D": 0.99663,
@@ -408,7 +408,7 @@
     "pres_style_D_overstatement": 0.99725,
     "r_overstatement_2025": 0.9996
    },
-   "market_p_dem": 0.98
+   "market_p_dem": 0.9805
   },
   {
    "state": "DE",
@@ -483,7 +483,7 @@
     "pres_style_D_overstatement": 0.99211,
     "r_overstatement_2025": 0.99917
    },
-   "market_p_dem": 0.983
+   "market_p_dem": 0.9805
   },
   {
    "state": "IL",
@@ -508,7 +508,7 @@
     "pres_style_D_overstatement": 0.984,
     "r_overstatement_2025": 0.99841
    },
-   "market_p_dem": 0.982
+   "market_p_dem": 0.9835
   },
   {
    "state": "NM",
@@ -583,7 +583,7 @@
     "pres_style_D_overstatement": 0.97788,
     "r_overstatement_2025": 0.99783
    },
-   "market_p_dem": 0.9785
+   "market_p_dem": 0.974
   },
   {
    "state": "NC",
@@ -608,7 +608,7 @@
     "pres_style_D_overstatement": 0.86758,
     "r_overstatement_2025": 0.99447
    },
-   "market_p_dem": 0.96
+   "market_p_dem": 0.9605
   },
   {
    "state": "GA",
@@ -633,7 +633,7 @@
     "pres_style_D_overstatement": 0.85268,
     "r_overstatement_2025": 0.99351
    },
-   "market_p_dem": 0.962
+   "market_p_dem": 0.961
   },
   {
    "state": "MN",
@@ -733,7 +733,7 @@
     "pres_style_D_overstatement": 0.41472,
     "r_overstatement_2025": 0.89818
    },
-   "market_p_dem": 0.585
+   "market_p_dem": 0.595
   },
   {
    "state": "AK",
@@ -808,7 +808,7 @@
     "pres_style_D_overstatement": 0.30712,
     "r_overstatement_2025": 0.84546
    },
-   "market_p_dem": 0.625
+   "market_p_dem": 0.635
   },
   {
    "state": "IA",
@@ -1008,7 +1008,7 @@
     "pres_style_D_overstatement": 0.00332,
     "r_overstatement_2025": 0.0306
    },
-   "market_p_dem": 0.021
+   "market_p_dem": 0.0205
   },
   {
    "state": "KY",
@@ -1033,7 +1033,7 @@
     "pres_style_D_overstatement": 0.00319,
     "r_overstatement_2025": 0.03028
    },
-   "market_p_dem": 0.031
+   "market_p_dem": 0.0305
   },
   {
    "state": "TN",
@@ -1058,7 +1058,7 @@
     "pres_style_D_overstatement": 0.00234,
     "r_overstatement_2025": 0.02323
    },
-   "market_p_dem": 0.0595
+   "market_p_dem": 0.062
   },
   {
    "state": "MT",
@@ -1083,7 +1083,7 @@
     "pres_style_D_overstatement": 0.00148,
     "r_overstatement_2025": 0.02769
    },
-   "market_p_dem": 0.053
+   "market_p_dem": 0.054
   },
   {
    "state": "AR",
@@ -1108,7 +1108,7 @@
     "pres_style_D_overstatement": 0.00174,
     "r_overstatement_2025": 0.01504
    },
-   "market_p_dem": 0.058
+   "market_p_dem": 0.0585
   },
   {
    "state": "SD",
@@ -1158,7 +1158,7 @@
     "pres_style_D_overstatement": 0.00123,
     "r_overstatement_2025": 0.01119
    },
-   "market_p_dem": 0.0185
+   "market_p_dem": 0.019
   },
   {
    "state": "ID",
@@ -1183,7 +1183,7 @@
     "pres_style_D_overstatement": 0.00042,
     "r_overstatement_2025": 0.00364
    },
-   "market_p_dem": 0.04
+   "market_p_dem": 0.0395
   },
   {
    "state": "WV",
@@ -1208,7 +1208,7 @@
     "pres_style_D_overstatement": 9e-05,
     "r_overstatement_2025": 0.00066
    },
-   "market_p_dem": 0.0125
+   "market_p_dem": 0.014
   },
   {
    "state": "WY",
@@ -1233,7 +1233,7 @@
     "pres_style_D_overstatement": 8e-05,
     "r_overstatement_2025": 0.00062
    },
-   "market_p_dem": 0.016
+   "market_p_dem": 0.0165
   }
  ],
  "governor_races": [
@@ -1254,7 +1254,7 @@
    "poll_end_date": "2026-10-05",
    "poll_note": "Mean of Wikipedia-listed aggregators: 270toWin +23.5, Decision Desk HQ +20.7, FiftyPlusOne +22.2, RealClearPolitics +23.2, Silver Bulletin +23.2",
    "est_margin": 21.576,
-   "market_p_dem": 0.976,
+   "market_p_dem": 0.979,
    "p_dem": {
     "unbiased": 0.99948,
     "pres_style_D_overstatement": 0.99834,
@@ -1326,7 +1326,7 @@
    "poll_end_date": "2026-09-21",
    "poll_note": "UNH Granite State Poll Sep 17-21, 2026 (598 LV): Foulkes (D) 44, Block (I) 25, Guckian (R) 17; margin is Foulkes minus Block. Excludes Opinion Diagnostics Sep 23-25 (sponsored by Block's campaign: three-way Foulkes 41, Block 24, Guckian 19)",
    "est_margin": 16.97217,
-   "market_p_dem": 0.973,
+   "market_p_dem": 0.971,
    "p_dem": {
     "unbiased": 0.9882,
     "pres_style_D_overstatement": 0.97109,
@@ -1350,7 +1350,7 @@
    "poll_end_date": "2026-09-21",
    "poll_note": "Mean of Wikipedia-listed aggregators: 270toWin +13.5, RealClearPolitics +14.0, Silver Bulletin +14.3",
    "est_margin": 14.25668,
-   "market_p_dem": 0.964,
+   "market_p_dem": 0.966,
    "p_dem": {
     "unbiased": 0.988,
     "pres_style_D_overstatement": 0.96614,
@@ -1398,7 +1398,7 @@
    "poll_end_date": "2026-10-05",
    "poll_note": "Mean of Wikipedia-listed aggregators: 270toWin +12.0, Decision Desk HQ +12.1, FiftyPlusOne +11.6, RealClearPolitics +11.4, Silver Bulletin +12.0",
    "est_margin": 11.99655,
-   "market_p_dem": 0.957,
+   "market_p_dem": 0.961,
    "p_dem": {
     "unbiased": 0.98084,
     "pres_style_D_overstatement": 0.94605,
@@ -1422,7 +1422,7 @@
    "poll_end_date": "",
    "poll_note": "No poll used (race unanimously rated safe or no public polls); ratings prior only",
    "est_margin": 16.0,
-   "market_p_dem": 0.989,
+   "market_p_dem": 0.994,
    "p_dem": {
     "unbiased": 0.97462,
     "pres_style_D_overstatement": 0.94885,
@@ -1446,7 +1446,7 @@
    "poll_end_date": "",
    "poll_note": "No poll used (race unanimously rated safe or no public polls); ratings prior only",
    "est_margin": 16.0,
-   "market_p_dem": 0.982,
+   "market_p_dem": 0.974,
    "p_dem": {
     "unbiased": 0.97426,
     "pres_style_D_overstatement": 0.94843,
@@ -1470,7 +1470,7 @@
    "poll_end_date": "",
    "poll_note": "No poll used (race unanimously rated safe or no public polls); ratings prior only",
    "est_margin": 14.999,
-   "market_p_dem": 0.977,
+   "market_p_dem": 0.98,
    "p_dem": {
     "unbiased": 0.96735,
     "pres_style_D_overstatement": 0.93324,
@@ -1494,7 +1494,7 @@
    "poll_end_date": "",
    "poll_note": "No poll used (race unanimously rated safe or no public polls); ratings prior only",
    "est_margin": 14.999,
-   "market_p_dem": 0.969,
+   "market_p_dem": 0.971,
    "p_dem": {
     "unbiased": 0.96574,
     "pres_style_D_overstatement": 0.93286,
@@ -1614,7 +1614,7 @@
    "poll_end_date": "2026-10-08",
    "poll_note": "Mean of Wikipedia-listed aggregators: 270toWin +8.2, Decision Desk HQ +5.1, FiftyPlusOne +7.1, RealClearPolitics +11.2, Silver Bulletin +8.8",
    "est_margin": 7.59092,
-   "market_p_dem": 0.865,
+   "market_p_dem": 0.875,
    "p_dem": {
     "unbiased": 0.90331,
     "pres_style_D_overstatement": 0.78633,
@@ -1679,18 +1679,18 @@
    "rep_candidate": "Christine Drazan",
    "challenger_party": "R",
    "pvi_d": 8.0,
-   "rating_score": 1.286,
-   "prior_margin": 5.787,
+   "rating_score": 1.143,
+   "prior_margin": 5.1435,
    "poll_margin_d": 2.0,
    "poll_sources": 1,
    "poll_end_date": "2026-10-01",
    "poll_note": "Mean of Wikipedia-listed aggregators: Silver Bulletin +2.0",
-   "est_margin": 4.46155,
+   "est_margin": 4.04328,
    "market_p_dem": 0.775,
    "p_dem": {
-    "unbiased": 0.74154,
-    "pres_style_D_overstatement": 0.586,
-    "r_overstatement_2025": 0.92974
+    "unbiased": 0.72138,
+    "pres_style_D_overstatement": 0.56218,
+    "r_overstatement_2025": 0.92194
    }
   },
   {
@@ -1902,7 +1902,7 @@
    "poll_end_date": "2026-10-03",
    "poll_note": "Resonance Media Sep 29-Oct 3 (RV): Wilson 45-35. Excludes Hart (D, Johnson campaign) Aug R+8 and PPP (D) Jul",
    "est_margin": -11.94805,
-   "market_p_dem": 0.047,
+   "market_p_dem": 0.048,
    "p_dem": {
     "unbiased": 0.04712,
     "pres_style_D_overstatement": 0.02109,
@@ -1950,7 +1950,7 @@
    "poll_end_date": "",
    "poll_note": "No poll used (race unanimously rated safe or no public polls); ratings prior only",
    "est_margin": -14.999,
-   "market_p_dem": 0.058,
+   "market_p_dem": 0.066,
    "p_dem": {
     "unbiased": 0.03207,
     "pres_style_D_overstatement": 0.01519,
@@ -1974,7 +1974,7 @@
    "poll_end_date": "",
    "poll_note": "No poll used (race unanimously rated safe or no public polls); ratings prior only",
    "est_margin": -14.999,
-   "market_p_dem": 0.051,
+   "market_p_dem": 0.052,
    "p_dem": {
     "unbiased": 0.03175,
     "pres_style_D_overstatement": 0.01546,
@@ -1998,7 +1998,7 @@
    "poll_end_date": "2026-10-05",
    "poll_note": "Mean of Wikipedia-listed aggregators: 270toWin -12.5, Race to the WH -10.1, RealClearPolitics -10.7, Silver Bulletin -11.0",
    "est_margin": -10.66297,
-   "market_p_dem": 0.059,
+   "market_p_dem": 0.058,
    "p_dem": {
     "unbiased": 0.0302,
     "pres_style_D_overstatement": 0.01048,
@@ -2022,7 +2022,7 @@
    "poll_end_date": "",
    "poll_note": "No poll used (race unanimously rated safe or no public polls); ratings prior only",
    "est_margin": -16.0,
-   "market_p_dem": 0.025,
+   "market_p_dem": 0.023,
    "p_dem": {
     "unbiased": 0.02569,
     "pres_style_D_overstatement": 0.01192,
@@ -2070,7 +2070,7 @@
    "poll_end_date": "",
    "poll_note": "No poll used (race unanimously rated safe or no public polls); ratings prior only",
    "est_margin": -16.0,
-   "market_p_dem": 0.024,
+   "market_p_dem": 0.019,
    "p_dem": {
     "unbiased": 0.02553,
     "pres_style_D_overstatement": 0.01226,
@@ -2094,7 +2094,7 @@
    "poll_end_date": "",
    "poll_note": "No poll used (race unanimously rated safe or no public polls); ratings prior only",
    "est_margin": -16.0,
-   "market_p_dem": 0.025,
+   "market_p_dem": 0.021,
    "p_dem": {
     "unbiased": 0.0254,
     "pres_style_D_overstatement": 0.01209,
@@ -2110,11 +2110,11 @@
   "up_R": 18
  },
  "markets": {
-  "as_of": "2026-10-12 18:20 ET",
+  "as_of": "2026-10-13 00:09 ET",
   "note": "Prediction-market prices for comparison only; not a model input.",
   "senate_p_D": {
    "polymarket": 0.635,
-   "kalshi": 0.605
+   "kalshi": 0.615
   },
   "house_p_D": {
    "polymarket": 0.905,
