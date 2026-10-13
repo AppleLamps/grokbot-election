@@ -5,21 +5,21 @@
     "bias_mean": 0.0,
     "bias_sd": 3.0,
     "sims": 100000,
-    "senate_p_R": 0.37156,
-    "senate_p_D": 0.61607,
-    "senate_p_none": 0.012369999999999992,
-    "senate_D_mean": 51.24375,
+    "senate_p_R": 0.36973,
+    "senate_p_D": 0.61786,
+    "senate_p_none": 0.012410000000000032,
+    "senate_D_mean": 51.25475,
     "senate_D_p10": 48,
     "senate_D_p90": 55,
-    "senate_R_mean": 48.63526,
+    "senate_R_mean": 48.62426,
     "senate_R_p10": 45,
     "senate_R_p90": 52,
     "senate_I_mean": 0.30215,
-    "house_p_D": 0.92513,
-    "house_p_R": 0.07486999999999999,
-    "house_D_mean": 236.26385,
+    "house_p_D": 0.92605,
+    "house_p_R": 0.07394999999999996,
+    "house_D_mean": 236.36623,
     "house_D_median": 235,
-    "house_D_p10": 219,
+    "house_D_p10": 220,
     "house_D_p90": 254,
     "senate_tipping": [
       [
@@ -32,7 +32,7 @@
       ],
       [
         "TX",
-        0.106
+        0.107
       ],
       [
         "AK",
@@ -40,13 +40,13 @@
       ],
       [
         "ME",
-        0.101
+        0.102
       ]
     ],
     "house_tipping": [
       [
         "PA-1",
-        0.021
+        0.02
       ],
       [
         "VA-2",
@@ -54,24 +54,24 @@
       ],
       [
         "MI-7",
+        0.02
+      ],
+      [
+        "FL-25",
         0.019
       ],
       [
         "TX-34",
         0.019
-      ],
-      [
-        "FL-25",
-        0.019
       ]
     ],
     "gov_races": 36,
-    "gov_D_wins_mean": 20.50874,
-    "gov_D_total_mean": 26.50874,
+    "gov_D_wins_mean": 20.48921,
+    "gov_D_total_mean": 26.48921,
     "gov_D_total_median": 27,
     "gov_D_total_p10": 23,
     "gov_D_total_p90": 30,
-    "gov_p_D_majority": 0.64322
+    "gov_p_D_majority": 0.64083
   },
   "pres_style_D_overstatement": {
     "scenario": "pres_style_D_overstatement",
@@ -79,19 +79,19 @@
     "bias_mean": 3.0,
     "bias_sd": 3.0,
     "sims": 100000,
-    "senate_p_R": 0.70576,
-    "senate_p_D": 0.28467,
-    "senate_p_none": 0.009569999999999967,
-    "senate_D_mean": 49.12549,
+    "senate_p_R": 0.70421,
+    "senate_p_D": 0.28628,
+    "senate_p_none": 0.009510000000000018,
+    "senate_D_mean": 49.14393,
     "senate_D_p10": 46,
     "senate_D_p90": 52,
-    "senate_R_mean": 50.81454,
+    "senate_R_mean": 50.7961,
     "senate_R_p10": 47,
     "senate_R_p90": 54,
     "senate_I_mean": 0.14944,
-    "house_p_D": 0.70859,
-    "house_p_R": 0.29140999999999995,
-    "house_D_mean": 224.2617,
+    "house_p_D": 0.71121,
+    "house_p_R": 0.28879,
+    "house_D_mean": 224.3532,
     "house_D_median": 224,
     "house_D_p10": 209,
     "house_D_p90": 240,
@@ -106,7 +106,7 @@
       ],
       [
         "TX",
-        0.106
+        0.107
       ],
       [
         "AK",
@@ -114,7 +114,7 @@
       ],
       [
         "ME",
-        0.101
+        0.102
       ]
     ],
     "house_tipping": [
@@ -123,15 +123,15 @@
         0.021
       ],
       [
+        "PA-7",
+        0.02
+      ],
+      [
         "MI-7",
         0.02
       ],
       [
-        "PA-7",
-        0.019
-      ],
-      [
-        "CO-8",
+        "TX-28",
         0.019
       ],
       [
@@ -140,12 +140,12 @@
       ]
     ],
     "gov_races": 36,
-    "gov_D_wins_mean": 17.97616,
-    "gov_D_total_mean": 23.97616,
+    "gov_D_wins_mean": 17.93351,
+    "gov_D_total_mean": 23.93351,
     "gov_D_total_median": 24,
     "gov_D_total_p10": 20,
     "gov_D_total_p90": 28,
-    "gov_p_D_majority": 0.31205
+    "gov_p_D_majority": 0.30919
   },
   "r_overstatement_2025": {
     "scenario": "r_overstatement_2025",
@@ -153,19 +153,19 @@
     "bias_mean": -6.0,
     "bias_sd": 3.0,
     "sims": 100000,
-    "senate_p_R": 0.02681,
-    "senate_p_D": 0.97134,
-    "senate_p_none": 0.0018500000000000183,
-    "senate_D_mean": 54.97861,
+    "senate_p_R": 0.02666,
+    "senate_p_D": 0.97154,
+    "senate_p_none": 0.0018000000000000238,
+    "senate_D_mean": 54.98199,
     "senate_D_p10": 52,
     "senate_D_p90": 57,
-    "senate_R_mean": 44.72495,
+    "senate_R_mean": 44.72157,
     "senate_R_p10": 42,
     "senate_R_p90": 48,
     "senate_I_mean": 0.73855,
-    "house_p_D": 0.99663,
-    "house_p_R": 0.003369999999999984,
-    "house_D_mean": 266.0181,
+    "house_p_D": 0.99666,
+    "house_p_R": 0.0033400000000000096,
+    "house_D_mean": 266.11941,
     "house_D_median": 264,
     "house_D_p10": 243,
     "house_D_p90": 291,
@@ -180,7 +180,7 @@
       ],
       [
         "TX",
-        0.106
+        0.107
       ],
       [
         "AK",
@@ -188,16 +188,16 @@
       ],
       [
         "ME",
-        0.101
+        0.102
       ]
     ],
     "house_tipping": [
       [
-        "MI-7",
+        "FL-25",
         0.02
       ],
       [
-        "FL-25",
+        "MI-7",
         0.02
       ],
       [
@@ -209,16 +209,16 @@
         0.02
       ],
       [
-        "PA-1",
+        "TX-34",
         0.019
       ]
     ],
     "gov_races": 36,
-    "gov_D_wins_mean": 25.32054,
-    "gov_D_total_mean": 31.32054,
+    "gov_D_wins_mean": 25.31813,
+    "gov_D_total_mean": 31.31813,
     "gov_D_total_median": 31,
     "gov_D_total_p10": 28,
     "gov_D_total_p90": 35,
-    "gov_p_D_majority": 0.97413
+    "gov_p_D_majority": 0.97394
   }
 }

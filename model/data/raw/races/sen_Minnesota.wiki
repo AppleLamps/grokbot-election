@@ -463,7 +463,7 @@ On August 11, 2026, the [[Associated Press]] and [[NBC News]] called the race fo
 }}
 ]]
 |Results by congressional district
-|[[File:MN Dem Senate SD 2026.svg|thumb|280px|Results by congressional district
+|[[File:MN Dem Senate SD 2026.svg|thumb|280px|Results by state senate district
 {{collapsible list
 | title = {{legend|#7996e2|Flanagan}}
 |{{legend|#a5b0ff|40–50%}}
@@ -479,7 +479,7 @@ On August 11, 2026, the [[Associated Press]] and [[NBC News]] called the race fo
 }}
 ]]
 |Results by state senate district
-|[[File:MN Dem Senate HD 2026.svg|thumb|280px|Results by congressional district
+|[[File:MN Dem Senate HD 2026.svg|thumb|280px|Results by state house district
 {{collapsible list
 | title = {{legend|#7996e2|Flanagan}}
 |{{legend|#a5b0ff|40–50%}}
@@ -1076,7 +1076,7 @@ On August 11, 2026, the [[Associated Press]] and [[NBC News]] called the race fo
 ! Other
 ! Undecided
 |-
-|style="text-align:left;"|[[Mason-Dixon Polling & Strategy]]<ref>{{cite web|url=https://www.kare11.com/article/news/politics/elections/minnesota-poll-flanagan-with-narrow-lead-over-tafoya-in-us-senate-race/89-ed06354a-4656-4cc0-907e-12e67119cf00|title=Minnesota Poll: Flanagan with narrow lead over Tafoya in U.S. Senate race|date=October 12, 2026|access-date=October 12, 2026}}</ref>{{efn-ua|poll sponsored by [[KARE (TV)|KARE 11]]/[[The Minnesota Star Tribune]]}}
+|style="text-align:left;"|[[Mason-Dixon Polling & Strategy]]<ref>{{cite web|last=Jacobsen|first=Jeremiah|url=https://www.kare11.com/article/news/politics/elections/minnesota-poll-flanagan-with-narrow-lead-over-tafoya-in-us-senate-race/89-ed06354a-4656-4cc0-907e-12e67119cf00|title=Minnesota Poll: Flanagan with narrow lead over Tafoya in U.S. Senate race|website=[[KARE (TV)|KARE 11]]|date=October 12, 2026|access-date=October 12, 2026}}</ref>{{efn-ua|Poll sponsored by [[KARE (TV)|KARE 11]] & ''[[The Minnesota Star Tribune]]''}}
 |October 5–7, 2026
 |800 (LV)
 |±{{nbsp}}3.5%

@@ -1,10 +1,10 @@
 {
  "source": "Polymarket Gamma API (gamma-api.polymarket.com/events, tag midterms)",
- "fetched": "2026-10-13T00:09-04:00",
+ "fetched": "2026-10-13T12:33-04:00",
  "events": {
   "which-party-will-win-the-senate-in-2026": {
    "title": "Which party will win the Senate in 2026?",
-   "volume": 6374291,
+   "volume": 6385368,
    "markets": [
     {
      "q": "Democratic Party",
@@ -12,21 +12,21 @@
      "bid": 0.63,
      "ask": 0.64,
      "last": 0.63,
-     "vol": 3700703
+     "vol": 3706126
     },
     {
      "q": "Republican Party",
      "yes": 0.365,
      "bid": 0.36,
      "ask": 0.37,
-     "last": 0.36,
-     "vol": 2673588
+     "last": 0.37,
+     "vol": 2679242
     }
    ]
   },
   "which-party-will-win-the-house-in-2026": {
    "title": "Which party will win the House in 2026?",
-   "volume": 16574752,
+   "volume": 16611719,
    "markets": [
     {
      "q": "Democratic Party",
@@ -34,7 +34,7 @@
      "bid": 0.9,
      "ask": 0.91,
      "last": 0.91,
-     "vol": 9223900
+     "vol": 9233978
     },
     {
      "q": "Republican Party",
@@ -42,13 +42,13 @@
      "bid": 0.09,
      "ask": 0.1,
      "last": 0.09,
-     "vol": 7350852
+     "vol": 7377741
     }
    ]
   },
   "arizona-governor-winner-2026": {
    "title": "Arizona Governor Election Winner",
-   "volume": 131935,
+   "volume": 131965,
    "markets": [
     {
      "q": "Katie Hobbs (D)",
@@ -64,29 +64,29 @@
      "bid": 0.11,
      "ask": 0.12,
      "last": 0.12,
-     "vol": 60870
+     "vol": 60899
     }
    ]
   },
   "alabama-governor-winner-2026": {
    "title": "Alabama Governor Election Winner",
-   "volume": 37656,
+   "volume": 39557,
    "markets": [
     {
      "q": "Doug Jones (D)",
-     "yes": 0.066,
-     "bid": 0.062,
-     "ask": 0.07,
-     "last": 0.062,
-     "vol": 17130
+     "yes": 0.0615,
+     "bid": 0.058,
+     "ask": 0.065,
+     "last": 0.068,
+     "vol": 17445
     },
     {
      "q": "Tommy Tuberville (R)",
-     "yes": 0.934,
-     "bid": 0.933,
-     "ask": 0.935,
-     "last": 0.942,
-     "vol": 20526
+     "yes": 0.938,
+     "bid": 0.936,
+     "ask": 0.94,
+     "last": 0.941,
+     "vol": 22112
     }
    ]
   },
@@ -96,16 +96,16 @@
    "markets": [
     {
      "q": "Fredrick Love (D)",
-     "yes": 0.0185,
-     "bid": 0.01,
-     "ask": 0.027,
+     "yes": 0.0195,
+     "bid": 0.013,
+     "ask": 0.026,
      "last": 0.038,
      "vol": 1603
     },
     {
      "q": "Sarah Huckabee Sanders (R)",
-     "yes": 0.9695,
-     "bid": 0.962,
+     "yes": 0.9665,
+     "bid": 0.956,
      "ask": 0.977,
      "last": 0.956,
      "vol": 9478
@@ -114,7 +114,7 @@
   },
   "colorado-governor-winner-2026": {
    "title": "Colorado Governor Election Winner",
-   "volume": 17181,
+   "volume": 17186,
    "markets": [
     {
      "q": "Phil Weiser (D)",
@@ -126,11 +126,11 @@
     },
     {
      "q": "Victor Marx (R)",
-     "yes": 0.0275,
-     "bid": 0.022,
-     "ask": 0.033,
+     "yes": 0.031,
+     "bid": 0.026,
+     "ask": 0.036,
      "last": 0.033,
-     "vol": 6010
+     "vol": 6015
     }
    ]
   },
@@ -140,9 +140,9 @@
    "markets": [
     {
      "q": "Ned Lamont (D)",
-     "yes": 0.9655,
+     "yes": 0.968,
      "bid": 0.965,
-     "ask": 0.966,
+     "ask": 0.971,
      "last": 0.959,
      "vol": 5630
     },
@@ -158,7 +158,7 @@
   },
   "florida-governor-winner-2026": {
    "title": "Florida Governor Election Winner",
-   "volume": 295330,
+   "volume": 295823,
    "markets": [
     {
      "q": "David Jolly (D)",
@@ -166,7 +166,7 @@
      "bid": 0.2,
      "ask": 0.21,
      "last": 0.21,
-     "vol": 152591
+     "vol": 153072
     },
     {
      "q": "Byron Donalds (R) ",
@@ -174,13 +174,13 @@
      "bid": 0.78,
      "ask": 0.79,
      "last": 0.79,
-     "vol": 142739
+     "vol": 142751
     }
    ]
   },
   "georgia-governor-winner-2026": {
    "title": "Georgia Governor Election Winner",
-   "volume": 186533,
+   "volume": 187080,
    "markets": [
     {
      "q": "Keisha Lance Bottoms (D)",
@@ -192,11 +192,11 @@
     },
     {
      "q": "Rick Jackson (R)",
-     "yes": 0.535,
-     "bid": 0.53,
-     "ask": 0.54,
-     "last": 0.54,
-     "vol": 78774
+     "yes": 0.52,
+     "bid": 0.51,
+     "ask": 0.53,
+     "last": 0.52,
+     "vol": 79321
     }
    ]
   },
@@ -206,17 +206,17 @@
    "markets": [
     {
      "q": "Josh Green (D)",
-     "yes": 0.994,
+     "yes": 0.993,
      "bid": 0.99,
-     "ask": 0.998,
+     "ask": 0.996,
      "last": 0.989,
      "vol": 7648
     },
     {
      "q": "Gary Cordery (R)",
-     "yes": 0.007,
+     "yes": 0.0095,
      "bid": 0.003,
-     "ask": 0.011,
+     "ask": 0.016,
      "last": 0.003,
      "vol": 9537
     }
@@ -229,16 +229,16 @@
     {
      "q": "Terri Pickens (D)",
      "yes": 0.024,
-     "bid": 0.016,
-     "ask": 0.032,
+     "bid": 0.017,
+     "ask": 0.031,
      "last": 0.023,
      "vol": 4344
     },
     {
      "q": "Brad Little (R)",
-     "yes": 0.9735,
+     "yes": 0.974,
      "bid": 0.968,
-     "ask": 0.979,
+     "ask": 0.98,
      "last": 0.989,
      "vol": 22366
     }
@@ -250,17 +250,17 @@
    "markets": [
     {
      "q": "JB Pritzker (D)",
-     "yes": 0.9735,
-     "bid": 0.969,
-     "ask": 0.978,
+     "yes": 0.9755,
+     "bid": 0.97,
+     "ask": 0.981,
      "last": 0.981,
      "vol": 7424
     },
     {
      "q": "Darren Bailey (R)",
-     "yes": 0.0285,
+     "yes": 0.028,
      "bid": 0.027,
-     "ask": 0.03,
+     "ask": 0.029,
      "last": 0.027,
      "vol": 7769
     }
@@ -268,29 +268,29 @@
   },
   "iowa-governor-winner-2026": {
    "title": "Iowa Governor Election Winner",
-   "volume": 172500,
+   "volume": 173216,
    "markets": [
     {
      "q": "Rob Sand (D)",
-     "yes": 0.885,
-     "bid": 0.88,
-     "ask": 0.89,
-     "last": 0.89,
-     "vol": 89906
+     "yes": 0.875,
+     "bid": 0.87,
+     "ask": 0.88,
+     "last": 0.87,
+     "vol": 90327
     },
     {
      "q": "Zach Lahn (R)",
-     "yes": 0.115,
-     "bid": 0.11,
-     "ask": 0.12,
+     "yes": 0.125,
+     "bid": 0.12,
+     "ask": 0.13,
      "last": 0.12,
-     "vol": 82594
+     "vol": 82888
     }
    ]
   },
   "kansas-governor-winner-2026": {
    "title": "Kansas Governor Election Winner",
-   "volume": 62400,
+   "volume": 62417,
    "markets": [
     {
      "q": "Cindy Holscher (D)",
@@ -306,7 +306,7 @@
      "bid": 0.74,
      "ask": 0.75,
      "last": 0.74,
-     "vol": 41630
+     "vol": 41647
     }
    ]
   },
@@ -316,17 +316,17 @@
    "markets": [
     {
      "q": "Hannah Pingree (D)",
-     "yes": 0.9535,
-     "bid": 0.948,
-     "ask": 0.959,
+     "yes": 0.9585,
+     "bid": 0.949,
+     "ask": 0.968,
      "last": 0.949,
      "vol": 31215
     },
     {
      "q": "Robert Charles (R)",
-     "yes": 0.0455,
-     "bid": 0.041,
-     "ask": 0.05,
+     "yes": 0.04,
+     "bid": 0.031,
+     "ask": 0.049,
      "last": 0.049,
      "vol": 8665
     }
@@ -334,51 +334,51 @@
   },
   "maryland-governor-winner-2026": {
    "title": "Maryland Governor Election Winner",
-   "volume": 24226,
+   "volume": 24235,
    "markets": [
     {
      "q": "Wes Moore (D)",
-     "yes": 0.981,
+     "yes": 0.98,
      "bid": 0.973,
-     "ask": 0.989,
+     "ask": 0.987,
      "last": 0.973,
      "vol": 15013
     },
     {
      "q": "Dan Cox (R)",
-     "yes": 0.0185,
-     "bid": 0.008,
-     "ask": 0.029,
+     "yes": 0.019,
+     "bid": 0.01,
+     "ask": 0.028,
      "last": 0.013,
-     "vol": 9213
+     "vol": 9222
     }
    ]
   },
   "massachusetts-governor-winner-2026": {
    "title": "Massachusetts Governor Election Winner",
-   "volume": 112098,
+   "volume": 112164,
    "markets": [
     {
      "q": "Maura Healey (D)",
-     "yes": 0.957,
+     "yes": 0.958,
      "bid": 0.953,
-     "ask": 0.961,
-     "last": 0.965,
-     "vol": 42345
+     "ask": 0.963,
+     "last": 0.963,
+     "vol": 42395
     },
     {
      "q": "Michael Minogue (R)",
-     "yes": 0.0435,
-     "bid": 0.04,
+     "yes": 0.043,
+     "bid": 0.039,
      "ask": 0.047,
      "last": 0.038,
-     "vol": 69753
+     "vol": 69769
     }
    ]
   },
   "michigan-governor-winner-2026": {
    "title": "Michigan Governor Election Winner",
-   "volume": 255876,
+   "volume": 257637,
    "markets": [
     {
      "q": "Jocelyn Benson (D)",
@@ -386,7 +386,7 @@
      "bid": 0.938,
      "ask": 0.939,
      "last": 0.938,
-     "vol": 85831
+     "vol": 86592
     },
     {
      "q": "John James (R)",
@@ -394,7 +394,7 @@
      "bid": 0.061,
      "ask": 0.065,
      "last": 0.064,
-     "vol": 169246
+     "vol": 170247
     },
     {
      "q": "Independent",
@@ -408,7 +408,7 @@
   },
   "minnesota-governor-winner-2026": {
    "title": "Minnesota Governor Election Winner",
-   "volume": 88448,
+   "volume": 88487,
    "markets": [
     {
      "q": "Amy Klobuchar (D)",
@@ -420,11 +420,11 @@
     },
     {
      "q": "Lisa Demuth (R)",
-     "yes": 0.0515,
-     "bid": 0.051,
-     "ask": 0.052,
-     "last": 0.048,
-     "vol": 46325
+     "yes": 0.0485,
+     "bid": 0.044,
+     "ask": 0.053,
+     "last": 0.051,
+     "vol": 46364
     }
    ]
   },
@@ -452,7 +452,7 @@
   },
   "nevada-governor-winner-2026": {
    "title": "Nevada Governor Election Winner",
-   "volume": 359846,
+   "volume": 360050,
    "markets": [
     {
      "q": "Aaron Ford (D)",
@@ -460,51 +460,51 @@
      "bid": 0.54,
      "ask": 0.55,
      "last": 0.55,
-     "vol": 197175
+     "vol": 197352
     },
     {
      "q": "Joe Lombardo (R)",
-     "yes": 0.46,
+     "yes": 0.455,
      "bid": 0.45,
-     "ask": 0.47,
-     "last": 0.47,
-     "vol": 162670
+     "ask": 0.46,
+     "last": 0.45,
+     "vol": 162698
     }
    ]
   },
   "new-hampshire-governor-winner-2026": {
    "title": "New Hampshire Governor Election Winner",
-   "volume": 42979,
+   "volume": 47477,
    "markets": [
     {
      "q": "Cinde Warmington (D)",
-     "yes": 0.06,
-     "bid": 0.059,
-     "ask": 0.061,
+     "yes": 0.058,
+     "bid": 0.056,
+     "ask": 0.06,
      "last": 0.057,
      "vol": 23072
     },
     {
      "q": "Kelly Ayotte (R)",
-     "yes": 0.9415,
-     "bid": 0.941,
-     "ask": 0.942,
-     "last": 0.941,
-     "vol": 19908
+     "yes": 0.9305,
+     "bid": 0.93,
+     "ask": 0.931,
+     "last": 0.93,
+     "vol": 24405
     }
    ]
   },
   "new-mexico-governor-winner-2026": {
    "title": "New Mexico Governor Election Winner",
-   "volume": 50896,
+   "volume": 51116,
    "markets": [
     {
      "q": "Deb Haaland (D)",
-     "yes": 0.905,
-     "bid": 0.9,
-     "ask": 0.91,
-     "last": 0.9,
-     "vol": 30715
+     "yes": 0.915,
+     "bid": 0.91,
+     "ask": 0.92,
+     "last": 0.91,
+     "vol": 30935
     },
     {
      "q": "Gregg Hull (R)",
@@ -518,59 +518,59 @@
   },
   "new-york-governor-winner-2026": {
    "title": "New York Governor Election Winner",
-   "volume": 175299,
+   "volume": 175371,
    "markets": [
     {
      "q": "Kathy Hochul (D)",
-     "yes": 0.9575,
-     "bid": 0.953,
-     "ask": 0.962,
+     "yes": 0.955,
+     "bid": 0.954,
+     "ask": 0.956,
      "last": 0.963,
-     "vol": 57253
+     "vol": 57260
     },
     {
      "q": "Bruce Blakeman (R)",
-     "yes": 0.0405,
-     "bid": 0.034,
-     "ask": 0.047,
-     "last": 0.038,
-     "vol": 118046
+     "yes": 0.0475,
+     "bid": 0.047,
+     "ask": 0.048,
+     "last": 0.047,
+     "vol": 118111
     }
    ]
   },
   "ohio-governor-winner-2026": {
    "title": "Ohio Governor Election Winner",
-   "volume": 325063,
+   "volume": 397175,
    "markets": [
     {
      "q": "Amy Acton (D)",
-     "yes": 0.685,
-     "bid": 0.68,
-     "ask": 0.69,
-     "last": 0.69,
-     "vol": 159749
+     "yes": 0.715,
+     "bid": 0.71,
+     "ask": 0.72,
+     "last": 0.71,
+     "vol": 211204
     },
     {
      "q": "Vivek Ramaswamy (R)",
-     "yes": 0.315,
-     "bid": 0.31,
-     "ask": 0.32,
-     "last": 0.31,
-     "vol": 165314
+     "yes": 0.285,
+     "bid": 0.28,
+     "ask": 0.29,
+     "last": 0.29,
+     "vol": 185971
     }
    ]
   },
   "oklahoma-governor-winner-2026": {
    "title": "Oklahoma Governor Election Winner",
-   "volume": 34593,
+   "volume": 34603,
    "markets": [
     {
      "q": "Cyndi Munson (D)",
-     "yes": 0.075,
-     "bid": 0.07,
+     "yes": 0.07,
+     "bid": 0.06,
      "ask": 0.08,
      "last": 0.07,
-     "vol": 18926
+     "vol": 18936
     },
     {
      "q": "Mike Mazzei (R)",
@@ -584,45 +584,45 @@
   },
   "oregon-governor-winner-2026": {
    "title": "Oregon Governor Election Winner",
-   "volume": 87645,
+   "volume": 87951,
    "markets": [
     {
      "q": "Tina Kotek (D)",
-     "yes": 0.765,
-     "bid": 0.76,
-     "ask": 0.77,
-     "last": 0.78,
-     "vol": 40712
+     "yes": 0.755,
+     "bid": 0.75,
+     "ask": 0.76,
+     "last": 0.76,
+     "vol": 40895
     },
     {
      "q": "Christine Drazan (R)",
-     "yes": 0.24,
-     "bid": 0.23,
+     "yes": 0.245,
+     "bid": 0.24,
      "ask": 0.25,
      "last": 0.24,
-     "vol": 46933
+     "vol": 47056
     }
    ]
   },
   "pennsylvania-governor-winner-2026": {
    "title": "Pennsylvania Governor Election Winner",
-   "volume": 56773,
+   "volume": 56783,
    "markets": [
     {
      "q": "Josh Shapiro (D)",
-     "yes": 0.979,
-     "bid": 0.974,
-     "ask": 0.984,
+     "yes": 0.977,
+     "bid": 0.972,
+     "ask": 0.982,
      "last": 0.981,
      "vol": 10669
     },
     {
      "q": "Stacy Garrity (R)",
-     "yes": 0.019,
+     "yes": 0.0185,
      "bid": 0.016,
-     "ask": 0.022,
-     "last": 0.026,
-     "vol": 46104
+     "ask": 0.021,
+     "last": 0.021,
+     "vol": 46114
     }
    ]
   },
@@ -632,16 +632,16 @@
    "markets": [
     {
      "q": "Helena Foulkes (D)",
-     "yes": 0.971,
+     "yes": 0.9735,
      "bid": 0.968,
-     "ask": 0.974,
+     "ask": 0.979,
      "last": 0.979,
      "vol": 57393
     },
     {
      "q": "Republican",
-     "yes": 0.02,
-     "bid": 0.014,
+     "yes": 0.019,
+     "bid": 0.012,
      "ask": 0.026,
      "last": 0.026,
      "vol": 10593
@@ -684,17 +684,17 @@
    "markets": [
     {
      "q": "Dan Ahlers (D)",
-     "yes": 0.0205,
+     "yes": 0.021,
      "bid": 0.015,
-     "ask": 0.026,
+     "ask": 0.027,
      "last": 0.036,
      "vol": 17763
     },
     {
      "q": "Larry Rhoden (R)",
-     "yes": 0.981,
-     "bid": 0.974,
-     "ask": 0.988,
+     "yes": 0.98,
+     "bid": 0.973,
+     "ask": 0.987,
      "last": 0.959,
      "vol": 9263
     }
@@ -706,17 +706,17 @@
    "markets": [
     {
      "q": "Jerri Green (D)",
-     "yes": 0.055,
-     "bid": 0.051,
-     "ask": 0.059,
+     "yes": 0.0525,
+     "bid": 0.043,
+     "ask": 0.062,
      "last": 0.042,
      "vol": 8389
     },
     {
      "q": "Marsha Blackburn (R)",
-     "yes": 0.944,
+     "yes": 0.9425,
      "bid": 0.94,
-     "ask": 0.948,
+     "ask": 0.945,
      "last": 0.947,
      "vol": 8851
     }
@@ -724,7 +724,7 @@
   },
   "texas-governor-winner-2026": {
    "title": "Texas Governor Election Winner",
-   "volume": 525971,
+   "volume": 527348,
    "markets": [
     {
      "q": "Gina Hinojosa (D) ",
@@ -732,51 +732,51 @@
      "bid": 0.2,
      "ask": 0.21,
      "last": 0.2,
-     "vol": 228009
+     "vol": 228147
     },
     {
      "q": "Greg Abbott (R)",
-     "yes": 0.79,
-     "bid": 0.786,
-     "ask": 0.794,
-     "last": 0.794,
-     "vol": 297961
+     "yes": 0.789,
+     "bid": 0.788,
+     "ask": 0.79,
+     "last": 0.79,
+     "vol": 299200
     }
    ]
   },
   "vermont-governor-winner-2026": {
    "title": "Vermont Governor Election Winner",
-   "volume": 231359,
+   "volume": 231458,
    "markets": [
     {
      "q": "Amanda Janoo (D)",
-     "yes": 0.2405,
-     "bid": 0.24,
-     "ask": 0.241,
+     "yes": 0.232,
+     "bid": 0.226,
+     "ask": 0.238,
      "last": 0.239,
-     "vol": 115172
+     "vol": 115264
     },
     {
      "q": "Phil Scott (R)",
-     "yes": 0.745,
-     "bid": 0.74,
-     "ask": 0.75,
+     "yes": 0.755,
+     "bid": 0.75,
+     "ask": 0.76,
      "last": 0.75,
-     "vol": 116187
+     "vol": 116194
     }
    ]
   },
   "wisconsin-governor-winner-2026": {
    "title": "Wisconsin Governor Election Winner",
-   "volume": 717354,
+   "volume": 717363,
    "markets": [
     {
      "q": "David Crowley (D)",
      "yes": 0.805,
      "bid": 0.8,
      "ask": 0.81,
-     "last": 0.81,
-     "vol": 369138
+     "last": 0.8,
+     "vol": 369147
     },
     {
      "q": "Tom Tiffany (R)",
@@ -794,17 +794,17 @@
    "markets": [
     {
      "q": "Kenneth Casner (D)",
-     "yes": 0.0205,
-     "bid": 0.017,
-     "ask": 0.024,
+     "yes": 0.0155,
+     "bid": 0.009,
+     "ask": 0.022,
      "last": 0.024,
      "vol": 2507
     },
     {
      "q": "Eric Barlow (R)",
-     "yes": 0.978,
+     "yes": 0.9785,
      "bid": 0.975,
-     "ask": 0.981,
+     "ask": 0.982,
      "last": 0.969,
      "vol": 9546
     }
@@ -816,17 +816,17 @@
    "markets": [
     {
      "q": "Everett Wess (D)",
-     "yes": 0.0205,
-     "bid": 0.01,
-     "ask": 0.031,
+     "yes": 0.0255,
+     "bid": 0.019,
+     "ask": 0.032,
      "last": 0.025,
      "vol": 5986
     },
     {
      "q": "Barry Moore (R)",
-     "yes": 0.9725,
+     "yes": 0.973,
      "bid": 0.968,
-     "ask": 0.977,
+     "ask": 0.978,
      "last": 0.98,
      "vol": 7138
     }
@@ -834,21 +834,21 @@
   },
   "arkansas-senate-election-winner": {
    "title": "Arkansas Senate Election Winner",
-   "volume": 38902,
+   "volume": 39029,
    "markets": [
     {
      "q": "Hallie Shoffner (D)",
-     "yes": 0.0585,
+     "yes": 0.058,
      "bid": 0.054,
-     "ask": 0.063,
-     "last": 0.064,
-     "vol": 13614
+     "ask": 0.062,
+     "last": 0.063,
+     "vol": 13742
     },
     {
      "q": "Tom Cotton (R) ",
-     "yes": 0.943,
-     "bid": 0.939,
-     "ask": 0.947,
+     "yes": 0.9435,
+     "bid": 0.942,
+     "ask": 0.945,
      "last": 0.949,
      "vol": 25287
     }
@@ -860,8 +860,8 @@
    "markets": [
     {
      "q": "John Hickenlooper (D)",
-     "yes": 0.9805,
-     "bid": 0.969,
+     "yes": 0.98,
+     "bid": 0.968,
      "ask": 0.992,
      "last": 0.992,
      "vol": 14332
@@ -878,15 +878,15 @@
   },
   "delaware-senate-election-winner": {
    "title": "Delaware Senate Election Winner",
-   "volume": 31777,
+   "volume": 31882,
    "markets": [
     {
      "q": "Democrat",
      "yes": 0.985,
      "bid": 0.979,
      "ask": 0.991,
-     "last": 0.98,
-     "vol": 12081
+     "last": 0.979,
+     "vol": 12186
     },
     {
      "q": "Republican",
@@ -900,29 +900,29 @@
   },
   "georgia-senate-election-winner": {
    "title": "Georgia Senate Election Winner",
-   "volume": 222555,
+   "volume": 223701,
    "markets": [
     {
      "q": "Jon Ossoff (D) ",
-     "yes": 0.961,
-     "bid": 0.958,
-     "ask": 0.964,
-     "last": 0.964,
-     "vol": 95790
+     "yes": 0.962,
+     "bid": 0.961,
+     "ask": 0.963,
+     "last": 0.963,
+     "vol": 95791
     },
     {
      "q": "Mike Collins (R)",
      "yes": 0.0395,
      "bid": 0.039,
      "ask": 0.04,
-     "last": 0.039,
-     "vol": 126765
+     "last": 0.04,
+     "vol": 127910
     }
    ]
   },
   "idaho-senate-election-winner": {
    "title": "Idaho Senate Election Winner",
-   "volume": 140563,
+   "volume": 141683,
    "markets": [
     {
      "q": "Democrat",
@@ -930,7 +930,7 @@
      "bid": null,
      "ask": 0.001,
      "last": 0.001,
-     "vol": 18825
+     "vol": 19825
     },
     {
      "q": "Jim Risch (R)",
@@ -942,61 +942,61 @@
     },
     {
      "q": "Todd Achilles (I)",
-     "yes": 0.0395,
-     "bid": 0.032,
-     "ask": 0.047,
-     "last": 0.032,
-     "vol": 27341
+     "yes": 0.04,
+     "bid": 0.031,
+     "ask": 0.049,
+     "last": 0.046,
+     "vol": 27461
     }
    ]
   },
   "illinois-senate-election-winner": {
    "title": "Illinois Senate Election Winner",
-   "volume": 35872,
+   "volume": 36077,
    "markets": [
     {
      "q": "Juliana Stratton (D)",
-     "yes": 0.9835,
-     "bid": 0.974,
-     "ask": 0.993,
-     "last": 0.99,
-     "vol": 18762
+     "yes": 0.9825,
+     "bid": 0.973,
+     "ask": 0.992,
+     "last": 0.973,
+     "vol": 18862
     },
     {
      "q": "Don Tracy (R)",
-     "yes": 0.015,
+     "yes": 0.0165,
      "bid": 0.009,
-     "ask": 0.021,
+     "ask": 0.024,
      "last": 0.022,
-     "vol": 17110
+     "vol": 17215
     }
    ]
   },
   "iowa-senate-election-winner": {
    "title": "Iowa Senate Election Winner",
-   "volume": 870847,
+   "volume": 873008,
    "markets": [
     {
      "q": "Josh Turek (D)",
      "yes": 0.425,
      "bid": 0.42,
      "ask": 0.43,
-     "last": 0.42,
-     "vol": 482417
+     "last": 0.43,
+     "vol": 484461
     },
     {
      "q": "Ashley Hinson (R)",
-     "yes": 0.585,
-     "bid": 0.58,
-     "ask": 0.59,
+     "yes": 0.575,
+     "bid": 0.57,
+     "ask": 0.58,
      "last": 0.58,
-     "vol": 388430
+     "vol": 388546
     }
    ]
   },
   "kansas-senate-election-winner": {
    "title": "Kansas Senate Election Winner",
-   "volume": 884695,
+   "volume": 886686,
    "markets": [
     {
      "q": "Adam Hamilton (D)",
@@ -1004,7 +1004,7 @@
      "bid": 0.37,
      "ask": 0.38,
      "last": 0.38,
-     "vol": 362795
+     "vol": 363454
     },
     {
      "q": "Roger Marshall (R)",
@@ -1012,13 +1012,13 @@
      "bid": 0.62,
      "ask": 0.63,
      "last": 0.63,
-     "vol": 521900
+     "vol": 523232
     }
    ]
   },
   "kentucky-senate-election-winner": {
    "title": "Kentucky Senate Election Winner",
-   "volume": 36938,
+   "volume": 36956,
    "markets": [
     {
      "q": "Charles Booker (D)",
@@ -1034,21 +1034,21 @@
      "bid": 0.968,
      "ask": 0.969,
      "last": 0.969,
-     "vol": 29062
+     "vol": 29080
     }
    ]
   },
   "maine-senate-election-winner": {
    "title": "Maine Senate Election Winner",
-   "volume": 2230592,
+   "volume": 2233524,
    "markets": [
     {
      "q": "Troy Jackson (D)",
      "yes": 0.595,
      "bid": 0.59,
      "ask": 0.6,
-     "last": 0.59,
-     "vol": 1246127
+     "last": 0.6,
+     "vol": 1247777
     },
     {
      "q": "Susan Collins (R)",
@@ -1056,7 +1056,7 @@
      "bid": 0.41,
      "ask": 0.42,
      "last": 0.42,
-     "vol": 984465
+     "vol": 985747
     }
    ]
   },
@@ -1066,16 +1066,16 @@
    "markets": [
     {
      "q": "Ed Markey (D)",
-     "yes": 0.984,
+     "yes": 0.9825,
      "bid": 0.978,
-     "ask": 0.99,
+     "ask": 0.987,
      "last": 0.991,
      "vol": 36153
     },
     {
      "q": "John Deaton (R)",
-     "yes": 0.0165,
-     "bid": 0.011,
+     "yes": 0.018,
+     "bid": 0.014,
      "ask": 0.022,
      "last": 0.012,
      "vol": 13880
@@ -1084,29 +1084,29 @@
   },
   "michigan-senate-election-winner": {
    "title": "Michigan Senate Election Winner",
-   "volume": 1617971,
+   "volume": 1623334,
    "markets": [
     {
      "q": "Abdul El-Sayed (D)",
      "yes": 0.705,
      "bid": 0.7,
      "ask": 0.71,
-     "last": 0.7,
-     "vol": 946959
+     "last": 0.71,
+     "vol": 951906
     },
     {
      "q": "Mike Rogers (R)",
-     "yes": 0.295,
-     "bid": 0.29,
-     "ask": 0.3,
+     "yes": 0.305,
+     "bid": 0.3,
+     "ask": 0.31,
      "last": 0.3,
-     "vol": 671012
+     "vol": 671428
     }
    ]
   },
   "minnesota-senate-election-winner": {
    "title": "Minnesota Senate Election Winner",
-   "volume": 219328,
+   "volume": 220107,
    "markets": [
     {
      "q": "Peggy Flanagan (D)",
@@ -1114,21 +1114,21 @@
      "bid": 0.87,
      "ask": 0.88,
      "last": 0.88,
-     "vol": 124839
+     "vol": 124840
     },
     {
      "q": "Michele Tafoya (R)",
      "yes": 0.125,
      "bid": 0.12,
      "ask": 0.13,
-     "last": 0.13,
-     "vol": 94488
+     "last": 0.12,
+     "vol": 95266
     }
    ]
   },
   "montana-senate-election-winner": {
    "title": "Montana Senate Election Winner",
-   "volume": 163437,
+   "volume": 163623,
    "markets": [
     {
      "q": "Alani Bankhead (D)",
@@ -1148,25 +1148,25 @@
     },
     {
      "q": "Independent",
-     "yes": 0.054,
-     "bid": 0.046,
-     "ask": 0.062,
+     "yes": 0.0625,
+     "bid": 0.06,
+     "ask": 0.065,
      "last": 0.04,
-     "vol": 26973
+     "vol": 27159
     }
    ]
   },
   "new-hampshire-senate-election-winner": {
    "title": "New Hampshire Senate Election Winner",
-   "volume": 327855,
+   "volume": 328317,
    "markets": [
     {
      "q": "Chris Pappas (D)",
      "yes": 0.885,
      "bid": 0.88,
      "ask": 0.89,
-     "last": 0.89,
-     "vol": 164494
+     "last": 0.88,
+     "vol": 164956
     },
     {
      "q": "John E. Sununu (R)",
@@ -1180,23 +1180,23 @@
   },
   "new-jersey-senate-election-winner": {
    "title": "New Jersey Senate Election Winner",
-   "volume": 21622,
+   "volume": 21652,
    "markets": [
     {
      "q": "Cory Booker (D)",
-     "yes": 0.974,
+     "yes": 0.9725,
      "bid": 0.967,
-     "ask": 0.981,
+     "ask": 0.978,
      "last": 0.985,
      "vol": 11839
     },
     {
      "q": "Justin Murphy (R)",
-     "yes": 0.028,
+     "yes": 0.0285,
      "bid": 0.025,
-     "ask": 0.031,
-     "last": 0.029,
-     "vol": 9783
+     "ask": 0.032,
+     "last": 0.03,
+     "vol": 9813
     }
    ]
   },
@@ -1214,9 +1214,9 @@
     },
     {
      "q": "Larry Marker (R)",
-     "yes": 0.0205,
-     "bid": 0.011,
-     "ask": 0.03,
+     "yes": 0.019,
+     "bid": 0.007,
+     "ask": 0.031,
      "last": 0.029,
      "vol": 9271
     }
@@ -1224,43 +1224,43 @@
   },
   "north-carolina-senate-election-winner": {
    "title": "North Carolina Senate Election Winner",
-   "volume": 223043,
+   "volume": 223095,
    "markets": [
     {
      "q": "Roy Cooper (D)",
-     "yes": 0.9605,
-     "bid": 0.959,
-     "ask": 0.962,
-     "last": 0.962,
-     "vol": 109960
+     "yes": 0.956,
+     "bid": 0.951,
+     "ask": 0.961,
+     "last": 0.959,
+     "vol": 109987
     },
     {
      "q": "Michael Whatley (R)",
-     "yes": 0.0405,
-     "bid": 0.038,
-     "ask": 0.043,
-     "last": 0.044,
-     "vol": 113082
+     "yes": 0.0445,
+     "bid": 0.039,
+     "ask": 0.05,
+     "last": 0.043,
+     "vol": 113107
     }
    ]
   },
   "oregon-senate-election-winner": {
    "title": "Oregon Senate Election Winner",
-   "volume": 7358,
+   "volume": 7360,
    "markets": [
     {
      "q": "Jeff Merkley (D)",
      "yes": 0.9805,
      "bid": 0.975,
      "ask": 0.986,
-     "last": 0.986,
-     "vol": 4061
+     "last": 0.975,
+     "vol": 4063
     },
     {
      "q": "David Brock Smith (R)",
-     "yes": 0.021,
+     "yes": 0.0205,
      "bid": 0.018,
-     "ask": 0.024,
+     "ask": 0.023,
      "last": 0.018,
      "vol": 3298
     }
@@ -1280,8 +1280,8 @@
     },
     {
      "q": "Raymond McKay (R)",
-     "yes": 0.0155,
-     "bid": 0.005,
+     "yes": 0.015,
+     "bid": 0.004,
      "ask": 0.026,
      "last": 0.031,
      "vol": 19055
@@ -1290,7 +1290,7 @@
   },
   "south-carolina-senate-election-winner": {
    "title": "South Carolina Senate Election Winner",
-   "volume": 765608,
+   "volume": 767198,
    "markets": [
     {
      "q": "Annie Andrews (D)",
@@ -1298,7 +1298,7 @@
      "bid": 0.15,
      "ask": 0.16,
      "last": 0.16,
-     "vol": 443595
+     "vol": 444026
     },
     {
      "q": "Darline Graham Nordone (R)",
@@ -1306,13 +1306,13 @@
      "bid": 0.84,
      "ask": 0.85,
      "last": 0.85,
-     "vol": 322014
+     "vol": 323172
     }
    ]
   },
   "south-dakota-senate-election-winner": {
    "title": "South Dakota Senate Election Winner",
-   "volume": 55173,
+   "volume": 55633,
    "markets": [
     {
      "q": "Democrat",
@@ -1328,7 +1328,7 @@
      "bid": 0.93,
      "ask": 0.931,
      "last": 0.931,
-     "vol": 31685
+     "vol": 32009
     },
     {
      "q": "Brian Bengs (I)",
@@ -1336,43 +1336,43 @@
      "bid": 0.071,
      "ask": 0.072,
      "last": 0.072,
-     "vol": 9936
+     "vol": 10073
     }
    ]
   },
   "tennessee-senate-election-winner": {
    "title": "Tennessee Senate Election Winner",
-   "volume": 95841,
+   "volume": 96116,
    "markets": [
     {
      "q": "Marquita Bradshaw (D)",
-     "yes": 0.062,
-     "bid": 0.06,
-     "ask": 0.064,
-     "last": 0.059,
-     "vol": 46037
+     "yes": 0.059,
+     "bid": 0.057,
+     "ask": 0.061,
+     "last": 0.061,
+     "vol": 46137
     },
     {
      "q": "Bill Hagerty (R)",
-     "yes": 0.9385,
-     "bid": 0.935,
-     "ask": 0.942,
-     "last": 0.935,
-     "vol": 49804
+     "yes": 0.9425,
+     "bid": 0.941,
+     "ask": 0.944,
+     "last": 0.945,
+     "vol": 49979
     }
    ]
   },
   "texas-senate-election-winner": {
    "title": "Texas Senate Election Winner",
-   "volume": 3441996,
+   "volume": 3513210,
    "markets": [
     {
      "q": "James Talarico (D)",
-     "yes": 0.635,
-     "bid": 0.63,
-     "ask": 0.64,
-     "last": 0.64,
-     "vol": 1591871
+     "yes": 0.645,
+     "bid": 0.64,
+     "ask": 0.65,
+     "last": 0.65,
+     "vol": 1622417
     },
     {
      "q": "Ken Paxton (R)",
@@ -1380,7 +1380,7 @@
      "bid": 0.35,
      "ask": 0.36,
      "last": 0.36,
-     "vol": 1850125
+     "vol": 1890793
     }
    ]
   },
@@ -1390,17 +1390,17 @@
    "markets": [
     {
      "q": "Mark Warner (D)",
-     "yes": 0.9785,
-     "bid": 0.976,
+     "yes": 0.9775,
+     "bid": 0.974,
      "ask": 0.981,
      "last": 0.984,
      "vol": 16256
     },
     {
      "q": "Bert Mizusawa (R)",
-     "yes": 0.0195,
+     "yes": 0.0205,
      "bid": 0.013,
-     "ask": 0.026,
+     "ask": 0.028,
      "last": 0.02,
      "vol": 7455
     }
@@ -1412,9 +1412,9 @@
    "markets": [
     {
      "q": "Rachel Fetty Anderson (D)",
-     "yes": 0.014,
-     "bid": 0.008,
-     "ask": 0.02,
+     "yes": 0.0105,
+     "bid": 0.002,
+     "ask": 0.019,
      "last": 0.019,
      "vol": 5410
     },
@@ -1430,29 +1430,29 @@
   },
   "wyoming-senate-election-winner": {
    "title": "Wyoming Senate Election Winner",
-   "volume": 19947,
+   "volume": 19997,
    "markets": [
     {
      "q": "James W. Byrd (D)",
-     "yes": 0.0165,
-     "bid": 0.006,
-     "ask": 0.027,
+     "yes": 0.017,
+     "bid": 0.008,
+     "ask": 0.026,
      "last": 0.028,
      "vol": 5951
     },
     {
      "q": "Harriet Hageman (R) ",
-     "yes": 0.9835,
-     "bid": 0.974,
+     "yes": 0.983,
+     "bid": 0.973,
      "ask": 0.993,
-     "last": 0.992,
-     "vol": 13996
+     "last": 0.972,
+     "vol": 14046
     }
    ]
   },
   "mississippi-senate-election-winner": {
    "title": "Mississippi Senate Election Winner",
-   "volume": 138221,
+   "volume": 139058,
    "markets": [
     {
      "q": "Scott Colom (D)",
@@ -1460,15 +1460,15 @@
      "bid": 0.06,
      "ask": 0.07,
      "last": 0.07,
-     "vol": 67594
+     "vol": 67932
     },
     {
      "q": "Cindy Hyde-Smith (R)",
-     "yes": 0.935,
-     "bid": 0.93,
-     "ask": 0.94,
-     "last": 0.94,
-     "vol": 70627
+     "yes": 0.925,
+     "bid": 0.92,
+     "ask": 0.93,
+     "last": 0.92,
+     "vol": 71126
     }
    ]
   },
@@ -1478,8 +1478,8 @@
    "markets": [
     {
      "q": "N\u2019Kiyla \u201cJasmine\u201d Thomas (D)",
-     "yes": 0.019,
-     "bid": 0.015,
+     "yes": 0.022,
+     "bid": 0.021,
      "ask": 0.023,
      "last": 0.013,
      "vol": 6870
@@ -1496,7 +1496,7 @@
   },
   "florida-senate-election-winner": {
    "title": "Florida Senate Election Winner",
-   "volume": 223646,
+   "volume": 224110,
    "markets": [
     {
      "q": "Angie Nixon (D)",
@@ -1504,43 +1504,43 @@
      "bid": 0.1,
      "ask": 0.11,
      "last": 0.11,
-     "vol": 84807
+     "vol": 84837
     },
     {
      "q": "Ashley Moody (R)",
      "yes": 0.905,
      "bid": 0.9,
      "ask": 0.91,
-     "last": 0.9,
-     "vol": 138840
+     "last": 0.91,
+     "vol": 139272
     }
    ]
   },
   "ohio-senate-election-winner": {
    "title": "Ohio Senate Election Winner",
-   "volume": 1152203,
+   "volume": 1155444,
    "markets": [
     {
      "q": "Sherrod Brown (D)",
      "yes": 0.615,
      "bid": 0.61,
      "ask": 0.62,
-     "last": 0.61,
-     "vol": 689705
+     "last": 0.62,
+     "vol": 691083
     },
     {
      "q": "Jon Husted (R)",
-     "yes": 0.395,
-     "bid": 0.39,
-     "ask": 0.4,
-     "last": 0.4,
-     "vol": 462498
+     "yes": 0.385,
+     "bid": 0.38,
+     "ask": 0.39,
+     "last": 0.38,
+     "vol": 464361
     }
    ]
   },
   "louisiana-senate-election-winner": {
    "title": "Louisiana Senate Election Winner",
-   "volume": 48749,
+   "volume": 48867,
    "markets": [
     {
      "q": "Jamie Davis (D)",
@@ -1556,13 +1556,13 @@
      "bid": 0.92,
      "ask": 0.93,
      "last": 0.93,
-     "vol": 21871
+     "vol": 21989
     }
    ]
   },
   "nebraska-senate-election-winner": {
    "title": "Nebraska Senate Election Winner  ",
-   "volume": 592459,
+   "volume": 600907,
    "markets": [
     {
      "q": "Democrat",
@@ -1578,29 +1578,29 @@
      "bid": 0.72,
      "ask": 0.73,
      "last": 0.72,
-     "vol": 314024
+     "vol": 318752
     },
     {
      "q": "Independent",
      "yes": 0.285,
      "bid": 0.28,
      "ask": 0.29,
-     "last": 0.28,
-     "vol": 173804
+     "last": 0.29,
+     "vol": 177524
     }
    ]
   },
   "alaska-senate-election-winner": {
    "title": "Alaska Senate Election Winner",
-   "volume": 1260424,
+   "volume": 1273055,
    "markets": [
     {
      "q": "Sen. Dan Sullivan",
-     "yes": 0.27,
+     "yes": 0.265,
      "bid": 0.26,
-     "ask": 0.28,
+     "ask": 0.27,
      "last": 0.27,
-     "vol": 393947
+     "vol": 405648
     },
     {
      "q": "Ann Diener",
@@ -1612,11 +1612,11 @@
     },
     {
      "q": "Mary Peltola",
-     "yes": 0.725,
-     "bid": 0.72,
-     "ask": 0.73,
+     "yes": 0.735,
+     "bid": 0.73,
+     "ask": 0.74,
      "last": 0.73,
-     "vol": 777814
+     "vol": 778744
     },
     {
      "q": "Dustin Darden",
@@ -1654,15 +1654,15 @@
   },
   "which-party-will-win-the-maine-state-senate-in-2026": {
    "title": "Which party will win the Maine State Senate in 2026?",
-   "volume": 4837,
+   "volume": 4865,
    "markets": [
     {
      "q": "Democratic Party",
      "yes": 0.9,
      "bid": 0.89,
      "ask": 0.91,
-     "last": 0.89,
-     "vol": 2937
+     "last": 0.9,
+     "vol": 2965
     },
     {
      "q": "Republican Party",
@@ -1732,7 +1732,7 @@
   },
   "which-party-will-win-the-minnesota-state-senate-in-2026": {
    "title": "Which party will win the Minnesota State Senate in 2026?",
-   "volume": 5319,
+   "volume": 5320,
    "markets": [
     {
      "q": "Democratic Party",
@@ -1740,13 +1740,13 @@
      "bid": 0.8,
      "ask": 0.84,
      "last": 0.79,
-     "vol": 3067
+     "vol": 3069
     },
     {
      "q": "Republican Party",
-     "yes": 0.165,
-     "bid": 0.16,
-     "ask": 0.17,
+     "yes": 0.15,
+     "bid": 0.14,
+     "ask": 0.16,
      "last": 0.17,
      "vol": 2251
     },
@@ -1814,8 +1814,8 @@
    "markets": [
     {
      "q": "Democratic Party",
-     "yes": 0.795,
-     "bid": 0.79,
+     "yes": 0.79,
+     "bid": 0.78,
      "ask": 0.8,
      "last": 0.76,
      "vol": 1866
@@ -1823,8 +1823,8 @@
     {
      "q": "Republican Party",
      "yes": 0.195,
-     "bid": 0.19,
-     "ask": 0.2,
+     "bid": 0.18,
+     "ask": 0.21,
      "last": 0.21,
      "vol": 1920
     },
@@ -1888,23 +1888,23 @@
   },
   "which-party-will-win-the-texas-state-senate-in-2026": {
    "title": "Which party will win the Texas State Senate in 2026?",
-   "volume": 2340,
+   "volume": 3442,
    "markets": [
     {
      "q": "Democratic Party",
-     "yes": 0.0675,
-     "bid": 0.065,
-     "ask": 0.07,
+     "yes": 0.0655,
+     "bid": 0.06,
+     "ask": 0.071,
      "last": 0.083,
      "vol": 820
     },
     {
      "q": "Republican Party",
-     "yes": 0.9235,
-     "bid": 0.913,
-     "ask": 0.934,
-     "last": 0.917,
-     "vol": 1520
+     "yes": 0.903,
+     "bid": 0.9,
+     "ask": 0.906,
+     "last": 0.894,
+     "vol": 2622
     },
     {
      "q": "Party A",
@@ -2044,39 +2044,39 @@
   },
   "alaska-governor-election-winner": {
    "title": "Alaska Governor Election Winner  ",
-   "volume": 1424523,
+   "volume": 1426697,
    "markets": [
     {
      "q": "David Bronson",
-     "yes": 0.0065,
+     "yes": 0.0055,
      "bid": 0.004,
-     "ask": 0.009,
+     "ask": 0.007,
      "last": 0.009,
      "vol": 27583
     },
     {
      "q": "Bernadette Wilson",
-     "yes": 0.195,
-     "bid": 0.19,
-     "ask": 0.2,
+     "yes": 0.18,
+     "bid": 0.17,
+     "ask": 0.19,
      "last": 0.2,
      "vol": 193562
     },
     {
      "q": "Tom Begich",
-     "yes": 0.0125,
+     "yes": 0.013,
      "bid": 0.008,
-     "ask": 0.017,
+     "ask": 0.018,
      "last": 0.009,
      "vol": 166654
     },
     {
      "q": "Jonathan Kreiss-Tomkins",
      "yes": 0.7855,
-     "bid": 0.784,
-     "ask": 0.787,
-     "last": 0.784,
-     "vol": 114641
+     "bid": 0.785,
+     "ask": 0.786,
+     "last": 0.785,
+     "vol": 114651
     }
    ]
   }

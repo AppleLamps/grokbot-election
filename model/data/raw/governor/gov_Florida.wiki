@@ -1816,6 +1816,15 @@ On June 25, Renner announced on X that the planned Fox 13 debate, set for July 2
 ! Other
 ! Undecided
 |-
+|style="text-align:left;"|[[Change Research]] (D)<ref>{{cite web |title=Florida AAPOR Methodology Statement October 8-10, 2026|url=https://changeresearch.com/research/2026/2026-10-12-florida-aapor-methodology-statement|publisher=[[Change Research]]|access-date=October 13, 2026}}</ref>{{efn-ua|name=FPUSA}}
+|October 8–10, 2026
+|920 (LV)
+|±&nbsp;3.1%
+|'''47%'''
+|'''47%'''
+|1%{{Efn|name=WNV1}}
+|5%
+|-
 | style="text-align:left;|St. Pete Polls<ref>{{cite web |title=Florida Statewide survey conducted for FloridaPolitics.com |url=https://www.stpetepolls.org/files/StPetePolls_2026_State_Gov_October7_K7ZU3GA.pdf |publisher=St. Pete Polls |access-date=October 8, 2026 |date=October 7, 2026}}</ref>{{Efn-ua|name=FP}}
 |October 5–7, 2026
 |836 (LV)
@@ -1859,7 +1868,7 @@ On June 25, Renner announced on X that the planned Fox 13 debate, set for July 2
 |1%
 |10%
 |-
-|style="text-align:left;"|[[Change Research]] (D)<ref>{{cite web |title=Florida AAPOR Methodology Statement September 25-27, 2026|url=https://changeresearch.com/research/2026/2026-09-28-florida-aapor-methodology-statement|publisher=Change Research|access-date=September 29, 2026}}</ref>{{efn-ua|name=FPUSA}}
+|style="text-align:left;"|[[Change Research]] (D)<ref>{{cite web |title=Florida AAPOR Methodology Statement September 25-27, 2026|url=https://changeresearch.com/research/2026/2026-09-28-florida-aapor-methodology-statement|publisher=[[Change Research]]|access-date=September 29, 2026}}</ref>{{efn-ua|name=FPUSA}}
 |September 25–27, 2026
 |1,063 (LV)
 |±&nbsp;2.8%

@@ -185,8 +185,8 @@ While Scott historically won elections by landslide margins, 2026 was shaping up
 !As of
 |-
 |align=left|''[[The Cook Political Report]]''<ref>{{cite web|title=2026 CPR Governor Race ratings|url=https://www.cookpolitical.com/ratings/governor-race-ratings|website=[[The Cook Political Report]]|access-date=October 11, 2026}}</ref>
-|{{USRaceRating|Solid|R}}
-|October 1, 2026
+|{{USRaceRating|Likely|R}}
+|October 13, 2026
 |-
 |align=left|[[Decision Desk HQ]]<ref name="DDHQ">{{cite web |title=2026 Governor Forecast |url=https://votes.decisiondeskhq.com/forecast/2026/governor |website=[[Decision Desk HQ]] |access-date=October 11, 2026}}</ref>
 |{{USRaceRating|Likely|R}}

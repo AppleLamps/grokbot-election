@@ -44,7 +44,7 @@ The following are the latest published ratings for competitive seats.
 ![[Decision Desk HQ|DDHQ]]<br />{{small|Oct. 8,<br/>2026}}<ref>{{cite web |title=2026 House Ratings|url=https://votes.decisiondeskhq.com/forecast/2026/house |website=votes.decisiondeskhq.com |publisher=[[Decision Desk HQ]]|access-date=October 8, 2026 |language=en}}
 </ref>
 ![[FiftyPlusOne|FPO]]<br />{{Small|Oct. 8,<br />2026}}<ref>{{Cite web |title=2026 Congressional Forecast |url=https://fiftyplusone.news/forecast/house/ |access-date=October 8, 2026 |website=FiftyPlusOne|language=en}}</ref>
-![[Fox News|Fox]]<br />{{Small|Sep. 22,<br />2026}}<ref>{{cite web|url=https://www.foxnews.com/politics/fox-news-power-rankings-whats-economy|title=Fox News Power Rankings: What’s in an economy?|last=Numa|first=Rémy|date=September 8, 2026|access-date=September 9, 2026|website=[[Fox News]]}}</ref>
+![[Fox News|Fox]]<br />{{Small|Oct. 13,<br />2026}}<ref>{{Cite web |last=Numa |first=Rémy |date=2026-10-13 |title=Fox News Power Rankings: As the House falls, the Senate stays in play |url=https://www.foxnews.com/politics/fox-news-power-rankings-house-falls-senate-stays-play |access-date=2026-10-13 |website=Fox News |publisher=Fox News |language=en-US}}</ref>
 ![[Silver Bulletin|Silver]]<br />{{Small|Sep. 10,<br />2026}}<ref>{{Cite web |last=Silver |first=Nate |date=2026-08-18 |title=FLIPR 2026 midterm election forecast |url=https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model |access-date=2026-08-19 |website=www.natesilver.net |language=en}}</ref>
 ![[Real Clear Politics|RCP]]<br />{{Small|Oct. 7,<br />2026}}<ref>{{Cite web |date=2026-10-07 |title=Battle for the House 2026 |url=https://www.realclearpolling.com/maps/house/2026/toss-up}}</ref>
 |-
@@ -164,7 +164,7 @@ The following are the latest published ratings for competitive seats.
 |{{USRaceRating|Likely|R}}
 |{{USRaceRating|Likely|R}}
 |{{USRaceRating|Likely|R}}
-|{{USRaceRating|Solid|R}}
+|{{USRaceRating|Likely|R}}
 |{{USRaceRating|Likely|R}}
 |{{USRaceRating|Lean|R}}
 |-
@@ -734,7 +734,7 @@ The following are the latest published ratings for competitive seats.
 |{{USRaceRating|Likely|R}}
 |{{USRaceRating|Likely|R}}
 |{{USRaceRating|Likely|R}}
-|{{USRaceRating|Solid|R}}
+|{{USRaceRating|Likely|R}}
 |{{USRaceRating|Likely|R}}
 |{{USRaceRating|Likely|R}}
 |-
@@ -749,7 +749,7 @@ The following are the latest published ratings for competitive seats.
 |{{USRaceRating|Likely|D|Flip}}
 |{{USRaceRating|Likely|D|Flip}}
 |{{USRaceRating|Likely|D|Flip}}
-|{{USRaceRating|Tossup}}
+|{{USRaceRating|Lean|D|Flip}}
 |{{USRaceRating|Lean|D|Flip}}
 |{{USRaceRating|Lean|D|Flip}}
 |-
@@ -779,7 +779,7 @@ The following are the latest published ratings for competitive seats.
 |{{USRaceRating|Likely|D|Flip}}
 |{{USRaceRating|Lean|D|Flip}}
 |{{USRaceRating|Likely|D|Flip}}
-|{{USRaceRating|Tossup}}
+|{{USRaceRating|Lean|D|Flip}}
 |{{USRaceRating|Likely|D|Flip}}
 |{{USRaceRating|Lean|D|Flip}}
 |-
@@ -824,7 +824,7 @@ The following are the latest published ratings for competitive seats.
 |{{USRaceRating|Lean|R}}
 |{{USRaceRating|Likely|R}}
 |{{USRaceRating|Lean|R}}
-|{{USRaceRating|Likely|R}}
+|{{USRaceRating|Lean|R}}
 |{{USRaceRating|Likely|R}}
 |{{USRaceRating|Lean|R}}
 |-
@@ -1004,7 +1004,7 @@ The following are the latest published ratings for competitive seats.
 |{{USRaceRating|Lean|R}}
 |{{USRaceRating|Likely|R}}
 |{{USRaceRating|Tossup}}
-|{{USRaceRating|Likely|R}}
+|{{USRaceRating|Lean|R}}
 |{{USRaceRating|Likely|R}}
 |{{USRaceRating|Lean|R}}
 |-
@@ -1019,7 +1019,7 @@ The following are the latest published ratings for competitive seats.
 |{{USRaceRating|Lean|R}}
 |{{USRaceRating|Lean|R}}
 |{{USRaceRating|Tossup}}
-|{{USRaceRating|Lean|R}}
+|{{USRaceRating|Tossup}}
 |{{USRaceRating|Lean|R}}
 |{{USRaceRating|Tossup}}
 |-
@@ -1079,7 +1079,7 @@ The following are the latest published ratings for competitive seats.
 |{{USRaceRating|Likely|R}}
 |{{USRaceRating|Likely|R}}
 |{{USRaceRating|Lean|R}}
-|{{USRaceRating|Solid|R}}
+|{{USRaceRating|Likely|R}}
 |{{USRaceRating|Likely|R}}
 |{{USRaceRating|Lean|R}}
 |-
@@ -1244,7 +1244,7 @@ The following are the latest published ratings for competitive seats.
 |{{USRaceRating|Safe|D}}
 |{{USRaceRating|Likely|D}}
 |{{USRaceRating|Safe|D}}
-|{{USRaceRating|Lean|D}}
+|{{USRaceRating|Likely|D}}
 |{{USRaceRating|Solid|D}}
 |{{USRaceRating|Likely|D}}
 |-
@@ -1289,7 +1289,7 @@ The following are the latest published ratings for competitive seats.
 |{{USRaceRating|Safe|D}}
 |{{USRaceRating|Likely|D}}
 |{{USRaceRating|Safe|D}}
-|{{USRaceRating|Likely|D}}
+|{{USRaceRating|Solid|D}}
 |{{USRaceRating|Solid|D}}
 |{{USRaceRating|Solid|D}}
 |-
@@ -1304,7 +1304,7 @@ The following are the latest published ratings for competitive seats.
 |{{USRaceRating|Safe|R}}
 |{{USRaceRating|Likely|R}}
 |{{USRaceRating|Likely|R}}
-|{{USRaceRating|Solid|R}}
+|{{USRaceRating|Likely|R}}
 |{{USRaceRating|Likely|R}}
 |{{USRaceRating|Likely|R}}
 |-
@@ -1589,7 +1589,7 @@ The following are the latest published ratings for competitive seats.
 |{{USRaceRating|Likely|R}}
 |{{USRaceRating|Likely|R}}
 |{{USRaceRating|Tossup}}
-|{{USRaceRating|Likely|R}}
+|{{USRaceRating|Lean|R}}
 |{{USRaceRating|Likely|R}}
 |{{USRaceRating|Lean|R}}
 |-
@@ -1649,7 +1649,7 @@ The following are the latest published ratings for competitive seats.
 |{{USRaceRating|Tossup}}
 |{{USRaceRating|Lean|R}}
 |{{USRaceRating|Likely|D|Flip}}
-|{{USRaceRating|Lean|R}}
+|{{USRaceRating|Tossup}}
 |{{USRaceRating|Tossup}}
 |{{USRaceRating|Tossup}}
 |-
@@ -1664,7 +1664,7 @@ The following are the latest published ratings for competitive seats.
 |{{USRaceRating|Likely|D|Flip}}
 |{{USRaceRating|Lean|D|Flip}}
 |{{USRaceRating|Likely|D|Flip}}
-|{{USRaceRating|Tossup}}
+|{{USRaceRating|Lean|D|Flip}}
 |{{USRaceRating|Lean|D|Flip}}
 |{{USRaceRating|Lean|D|Flip}}
 |-
@@ -1694,7 +1694,7 @@ The following are the latest published ratings for competitive seats.
 |{{USRaceRating|Likely|D|Flip}}
 |{{USRaceRating|Lean|D|Flip}}
 |{{USRaceRating|Likely|D|Flip}}
-|{{USRaceRating|Tossup}}
+|{{USRaceRating|Lean|D|Flip}}
 |{{USRaceRating|Likely|D|Flip}}
 |{{USRaceRating|Lean|D|Flip}}
 |-
@@ -1844,7 +1844,7 @@ The following are the latest published ratings for competitive seats.
 |{{USRaceRating|Safe|R|Flip}}
 |{{USRaceRating|Likely|R|Flip}}
 |{{USRaceRating|Likely|R|Flip}}
-|{{USRaceRating|Solid|R|Flip}}
+|{{USRaceRating|Likely|R|Flip}}
 |{{USRaceRating|Solid|R|Flip}}
 |{{USRaceRating|Likely|R|Flip}}
 |-
@@ -1874,7 +1874,7 @@ The following are the latest published ratings for competitive seats.
 |{{USRaceRating|Lean|D|Flip}}
 |{{USRaceRating|Tossup}}
 |{{USRaceRating|Lean|R}}
-|{{USRaceRating|Lean|R}}
+|{{USRaceRating|Tossup}}
 |{{USRaceRating|Lean|R}}
 |{{USRaceRating|Lean|D|Flip}}
 |-
@@ -2174,7 +2174,7 @@ The following are the latest published ratings for competitive seats.
 |{{USRaceRating|Lean|R}}
 |{{USRaceRating|Lean|R}}
 |{{USRaceRating|Lean|D|Flip}}
-|{{USRaceRating|Likely|R}}
+|{{USRaceRating|Lean|R}}
 |{{USRaceRating|Lean|R}}
 |{{USRaceRating|Tossup}}
 |-
@@ -2246,7 +2246,7 @@ The following are the latest published ratings for competitive seats.
 | {{Party shading/Democratic}} |D – 225<br>R – 197<br>13 tossups
 | {{Party shading/Democratic}} |D – 223<br>R – 203<br>9 tossups
 | {{Party shading/Democratic}} |D – 230<br>R – 196<br>9 tossups
-| {{Party shading/Vacant}} |D – 215<br>R – 201<br>19 tossups
+| {{Party shading/Democratic}} |D – 219<br>R – 198<br>18 tossups
 | {{Party shading/Democratic}} |D – 230<br>R – 196<br>9 tossups
 | {{Party shading/Democratic}} |D – 226<br>R – 189<br>20 tossups
 |}

@@ -33,7 +33,7 @@
 }}
 {{ElectionsNH}}
 
-The '''2026 United States Senate election in New Hampshire''' will be held on November 3, 2026, to elect a member of the [[United States Senate]] to represent the state of [[New Hampshire]]. [[Democratic Party (United States)|Democratic]] congressman [[Chris Pappas (American politician)|Chris Pappas]] and [[Republican Party (United States)|Republican]] former senator [[John E. Sununu|John Sununu]] are the nominees for their respective parties. Democratic incumbent [[Jeanne Shaheen]] is not seeking a fourth term.
+The '''2026 United States Senate election in New Hampshire''' will be held on November 3, 2026, to elect a member of the [[United States Senate]] to represent the state of [[New Hampshire]]. [[Democratic Party (United States)|Democratic]] congressman [[Chris Pappas (American politician)|Chris Pappas]] and [[Republican Party (United States)|Republican]] former senator [[John E. Sununu|John Sununu]] are the nominees for their respective parties. Democratic incumbent [[Jeanne Shaheen]] is not seeking running, after serving three terms.
 
 [[Primary elections]] were held on September 8. Pappas won the Democratic nomination with 65% of the vote against medical scientist Karishma Manzur. Sununu, who held the seat for one term until he was defeated by Shaheen in [[2008 United States Senate election in New Hampshire|2008]], won the Republican nomination with 68.5% of the vote against former Massachusetts senator [[Scott Brown (politician)|Scott Brown]].
 
@@ -806,7 +806,7 @@ Shaheen was first elected in [[2008 United States Senate election in New Hampshi
 *Matt Giovonizzi (Independent), healthcare director<ref>{{Cite web |title=GIOVONIZZI, MATTHEW S. FEC FORM 2 STATEMENT OF CANDIDACY FILING FEC-1885748|url=https://docquery.fec.gov/cgi-bin/forms/S6NH00158/1885748/}}</ref>
 *Tim Harris (Independent), author and business advisor<ref>{{Cite web |title=NH Declaration of Candidacy |url=https://mm.nh.gov/files/uploads/sos/docs/declarations-of-intent-list-2026.pdf}}</ref>
 
-== General election ==
+== Polling ==
 === Predictions ===
 {| class="wikitable" style=text-align:center
 !Source

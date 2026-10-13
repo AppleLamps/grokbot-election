@@ -729,7 +729,7 @@ See [[Template:USRaceRating]] for how to apply rating.
 </ref>
 ! ''[[The Economist|Econ]]''<br />{{small|Oct 11,<br />2026}}<ref name=":3">{{cite news |title=2026 Senate Forecast |url=https://www.economist.com/interactive/2026/us-midterms/prediction-model/senate/ |newspaper=The Economist |access-date=October 11, 2026}}</ref>{{efn|This forecast uses the terms "Likely" and "Very Likely" the same way the other forecasts use the terms "Lean" and "Likely". To avoid confusion, and for the purposes of equivalency, the terms "Likely" and "Very Likely" will be changed to "Lean" and "Likely".}}
 ! [[FiftyPlusOne|FPO]]<br />{{Small|Oct 11,<br />2026}}<ref name=":7">{{Cite web |title=2026 Congressional Forecast |url=https://fiftyplusone.news/forecast/senate/ |access-date=October 11, 2026 |website=FiftyPlusOne |language=en}}</ref>
-! [[Fox News|Fox]]<br />{{small|Oct 6,<br/>2026}}<ref>{{Cite news |last=Numa |first=Rémy |title=Fox News Power Rankings: The biggest surprises come after October |url=https://www.foxnews.com/politics/fox-news-power-rankings-the-biggest-surprises-come-after-october |work=[[Fox News]] |date=October 6, 2026 |access-date=October 6, 2026}}</ref>
+! [[Fox News|Fox]]<br />{{small|Oct 13,<br/>2026}}<ref>{{Cite news |last=Numa |first=Rémy |title=Fox News Power Rankings: As the House falls, the Senate stays in play |url=https://www.foxnews.com/politics/fox-news-power-rankings-house-falls-senate-stays-play |work=[[Fox News]] |date=October 13, 2026 |access-date=October 13, 2026}}</ref>
 ! ''[[Inside Elections|IE]]''<br />{{small|Oct 1,<br />2026}}<ref>{{Cite web |title=Senate Ratings |url=https://www.insideelections.com/ratings/senate |access-date=October 1, 2026 |website=Inside Elections}}</ref>
 ! [[RealClearPolitics|RCP]]<br />{{small|Oct 12,<br />2026}}<ref>{{Cite web |title=Battle for the Senate 2026 |url=https://www.realclearpolling.com/maps/senate/2026/toss-up |access-date=October 12, 2026 |website=realclearpolling.com |language=en}}</ref>
 ! [[Sabato's Crystal Ball|Sabato]]<br />{{small|Oct 6,<br />2026}}<ref name="sr">{{cite web |title=2026 Senate ratings |url=https://centerforpolitics.org/crystalball/2026-senate/ |website=Sabato's Crystal Ball |access-date=October 6, 2026}}</ref>
@@ -984,7 +984,7 @@ See [[Template:USRaceRating]] for how to apply rating.
 <!--DDHQ-->      | {{USRaceRating|Likely|D}}
 <!--Economist--> | {{USRaceRating|Lean|D}}
 <!--FPO-->       | {{USRaceRating|Likely|D}}
-<!--Fox-->       | {{USRaceRating|Likely|D}}
+<!--Fox-->       | {{USRaceRating|Lean|D}}
 <!--IE-->        | {{USRaceRating|Lean|D}}
 <!--RCP-->       | {{USRaceRating|Tossup}}
 <!--Sabato-->    | {{USRaceRating|Likely|D}}
@@ -2151,7 +2151,7 @@ A [[nonpartisan primary]] was held on August 18, 2026, with the top four candida
 | popular_vote1 = 
 | percentage1 = 
 | image2 = Hallie Shoffner (cropped 2).jpg
-| nominee2 = Hallie Shoffner
+| nominee2 = [[Hallie Shoffner]]
 | party2 = Democratic Party (United States)
 | popular_vote2 = 
 | percentage2 = 
@@ -2351,7 +2351,7 @@ The Republican primary took place on May 19. U.S. Representative [[Mike Collins 
 | party1 = Republican Party (United States)
 | popular_vote1 = 
 | percentage1 = 
-| image2 = Todd Achilles 2026 (cropped2).jpg
+| image2 = Todd Achilles on LibertyDad's stream.png
 | nominee2 = [[Todd Achilles]]
 | party2 = Independent politician
 | popular_vote2 = 
@@ -2478,6 +2478,11 @@ In the Democratic primary, [[Iowa House of Representatives|state Representative]
 | party2 = Democratic Party (United States)
 | popular_vote2 = 
 | percentage2 = 
+| image3 = 3x4.svg
+| nominee3 = David Graham
+| party3 = Libertarian Party (United States)
+| popular_vote3 = 
+| percentage3 = 
 | map_image = 
 | map_size = 
 | map_caption = 
@@ -2802,11 +2807,16 @@ Ty Pinkins, the Democratic nominee for [[Secretary of State of Mississippi|Secre
 | party2 = Democratic Party (United States)
 | popular_vote2 = 
 | percentage2 = 
-| image3 = Seth Bodnar - President at University of Montana (cropped).jpg
-| nominee3 = [[Seth Bodnar]]
-| party3 = Independent politician
-| popular_vote3 = 
-| percentage3 = 
+| image4 = Seth Bodnar - President at University of Montana (cropped).jpg
+| nominee4 = [[Seth Bodnar]]
+| party4 = Independent politician
+| popular_vote4 = 
+| percentage4 = 
+| image5 = 3x4.svg
+| nominee5 = Kyle Austin
+| party5 = Libertarian Party (United States)
+| popular_vote5 = 
+| percentage5 = 
 | map_image = 
 | map_size = 
 | map_caption = 
