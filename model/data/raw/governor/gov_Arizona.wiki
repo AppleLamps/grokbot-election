@@ -685,14 +685,22 @@ In early September, it was reported that the Arizona Attorney General’s Office
 
 ===Post-primary endorsements===
 {{Endorsements box|title=Katie Hobbs (D)|list=
+;Executive branch officials
+*[[Eric Holder]], former [[United States attorney general]] (2009–2015)<ref name="Holder">{{cite web |title=Eric Holder Announces Endorsements for Arizona Governor and State Legislature |url=https://democraticredistricting.com/eric-holder-announces-endorsements-for-arizona-governor-and-state-legislature/ |website=NDRC |access-date=13 October 2026 |date=August 27, 2026}}</ref>
+*[[Barack Obama]], [[list of Presidents of the United States|44th]] [[president of the United States]] (2009–2017)<ref name="Obama">{{cite web |last1=Resnik |first1=Brahm |title=Obama endorses Arizona Gov. Hobbs for re-election amid tight race |url=https://www.12news.com/article/news/politics/elections/obama-endorses-arizona-gov-hobbs-re-election-amid-tight-race-politics/75-cb326da1-a781-4518-8686-c5694da0eee4 |website=12 News |access-date=13 October 2026 |date=October 13, 2026}}</ref>
+
 ;Labor unions
 *[[Communications Workers of America]] District 7<ref name="CWA">{{cite web |title=Arizona Endorsed Candidates |url=https://cwa-union.org/candidates-az |website=Communications Workers of America |access-date=21 August 2026}}</ref>
+
 ;Organizations
 *[[Everytown for Gun Safety]]<ref>{{cite web |title=Everytown for Gun Safety Action Fund Announces New Round of Statewide Endorsements, Backing 40 Statewide Candidates in 15 States |url=https://momsdemandaction.org/press/everytown-for-gun-safety-action-fund-announces-new-round-of-statewide-endorsements-backing-40-statewide-candidates-in-15-states/ |website=Moms Demand Action |access-date=September 15, 2026 |language=en-us}}</ref>
 *[[Human Rights Campaign]]<ref name="HRCAugust">{{cite web |title=Human Rights Campaign PAC Endorses Slate of Pro-Equality Candidates |url=https://www.hrc.org/press-releases/human-rights-campaign-pac-endorses-slate-of-pro-equality-candidates-for-governor-in-key-states |website=HRC |access-date=30 August 2026 |date=27 August 2026}}</ref>
+*[[Humane World for Animals|Humane World Action Fund]]<ref name="HWAF">{{cite web |title=Humane World Action Fund endorses Arizona Governor Katie Hobbs for Reelection |url=https://humaneaction.org/press-release/2026/10/humane-world-action-fund-endorses-arizona-governor-katie-hobbs-reelection |website=Humane World Action Fund |access-date=13 October 2026 |date=October 8, 2026}}</ref>
 }}
+
 {{Endorsements box|title=Andy Biggs (R)|list=
 ;Statewide officials
+*[[Jan Brewer]], former [[governor of Arizona]] (2009–2015)<ref name="Brewer">{{cite web |last1=Stone |first1=Kevin |title=Former President Barack Obama endorses Arizona Gov. Katie Hobbs’ reelection bid |url=https://ktar.com/arizona-politics-news/election/barack-obama-endorse-katie-hobbs |website=KTAR News |access-date=13 October 2026 |date=October 13, 2026}}</ref>
 *[[Doug Ducey]], former [[governor of Arizona]] (2015–2023)<ref>{{Cite web|last=Sanchez|first=Camryn|date=August 4, 2026|title=Ducey endorses Andy Biggs for Arizona governor |url=https://www.kjzz.org/politics/2026-08-04/ducey-endorses-andy-biggs-for-arizona-governor|access-date=August 4, 2026|website=[[KJZZ (FM)|KJZZ]]}}</ref>
 }}
 
@@ -782,6 +790,15 @@ In early September, it was reported that the Arizona Attorney General’s Office
 |44%
 |2%{{efn|Teri Hourihan ([[No Labels Party|NL]]) with 1%; Risa Lombardo (G) with 1%}}
 |4%
+|-
+|style="text-align:left;"|Wick (R)<ref>{{cite web |title=Hobbs leads Arizona governor’s race by 5.7 points as independents favor her |url=https://wick.io/research-arizona-governor-survey-october-2026 |website=wick.io |date=October 13, 2026}}</ref>
+|October 3–6, 2026
+|1,513 (LV)
+|±&nbsp;2.6%
+|{{party shading/Democratic}}|'''49%'''
+|43%
+|3%{{efn|"Someone else" with 3%}}
+|5%
 |-
 |style="text-align:left;"|GQR (D)<ref>{{Cite web|url=https://data.ddhq.io/polls/2026/10/08/GQR-Arizona|title=Arizona Gubernatorial Race Has Tightened, Is Now in the Margin of Error 
 |first1=Elizabeth|last1=Sena|website=GQR|date=October 7, 2026|access-date=October 8, 2026}}</ref>{{Efn-ua|name=Hobbs| Poll commissioned by Hobbs' campaign}}

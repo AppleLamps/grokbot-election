@@ -80,7 +80,7 @@ Two incumbent senators—[[Bill Cassidy]] of [[Louisiana]] and [[John Cornyn]] o
 
 Two nominees—[[Graham Platner]] and [[Lindsey Graham]]—were replaced, respectively by a convention and a special primary, as their party's nominee in [[2026 United States Senate election in Maine|Maine]] and [[2026 United States Senate election in South Carolina|South Carolina]]. The last nominee to be replaced by a convention or special primary was [[John Walsh (Montana politician)|John Walsh]] in [[2014 United States Senate election in Montana|2014]].{{efn|Two nominees in subsequent election cycles willingly withdrew their nominations after winning their primaries: [[Baron Hill (politician)|Baron Hill]] in the [[2016 United States Senate election in Indiana|2016 election in Indiana]] and [[H. Brooke Paige]] in the [[2018 United States Senate election in Vermont|2018 election in Vermont]]. The replacement nominees were selected by their parties without a convention or special primary; both lost in the general election.}} The last time multiple nominees were replaced was in [[2002 United States Senate elections|2002]], with [[Robert Torricelli]] of [[New Jersey]] and [[Paul Wellstone]] of [[Minnesota]].
 
-There are three states (Idaho, Nebraska, South Dakota) in 2026 Senate election cycle where the Democratic nominee has withdrawn from the race, effectively clearing the field for an independent.<ref>{{cite news |last = Shane Goldmacher |first = Shane Goldmacher |title = Democrat Quits Senate Race in South Dakota, Clearing Way for Independent |newspaper = The New York Times |date = August 4, 2026 |url = https://www.nytimes.com/2026/08/04/us/politics/julian-beaudion-drops-out-south-dakota.html |accessdate = October 12, 2026}}</ref>
+There are three states ([[Idaho]], [[Nebraska]], and [[South Dakota]]) in 2026 Senate election cycle where the Democratic nominee has withdrawn from the race, effectively clearing the field for an independent.<ref>{{cite news |last = Shane Goldmacher |first = Shane Goldmacher |title = Democrat Quits Senate Race in South Dakota, Clearing Way for Independent |newspaper = The New York Times |date = August 4, 2026 |url = https://www.nytimes.com/2026/08/04/us/politics/julian-beaudion-drops-out-south-dakota.html |accessdate = October 12, 2026}}</ref>
 
 ==Partisan composition==
 All 33 [[Classes of United States senators|Class 2]] Senate seats and two [[Classes of United States senators|Class 3]] seats are up for election in 2026. Class 2 currently consists of 20 Republicans and 13 Democrats.<ref>{{cite web |title=Class II - Senators Whose Terms of Service Expire in 2027 |url=https://www.senate.gov/senators/Class_II.htm |publisher=United States Senate |access-date=January 22, 2026}}</ref> Democrats are defending two seats in states won by [[Donald Trump]] in [[2024 United States presidential election|2024]], in both cases by less than 3 percentage points: [[2026 United States Senate election in Michigan|Michigan]], where incumbent [[Gary Peters]] is not running for reelection; and Georgia, where the incumbent is [[Jon Ossoff]]. Michigan elected Democrat [[Elissa Slotkin]] to the Senate in [[2024 United States Senate election in Michigan|2024]] by 0.3 percentage points. Georgia did not have a Senate election in 2024, although in the most recent Senate election, in [[2022 United States Senate election in Georgia|2022]], Democrat [[Raphael Warnock]] won by three points in a runoff.<ref name="margin">{{Cite web |date=November 26, 2024 |title=2024 Presidential Elections By State Margin of Victory |url=https://www.foxnews.com/elections/2024/general-results/margin-of-victory |access-date=November 26, 2024 |website=Fox News Elections}}</ref><ref>{{Cite web |title=Election Results |url=https://results.sos.ga.gov/results/public/Georgia/elections/2022DecGenRun |access-date=August 4, 2025 |publisher=Georgia Secreatary of State}}</ref>
@@ -1276,7 +1276,6 @@ See [[Template:USRaceRating]] for how to apply rating.
 <!--ST-->        |{{Party shading/Democratic}} | D/I - 52<br />R - 47<br />1 tossup
 |}
 
-== Elections ==
 == Generic congressional ballot aggregate polls ==
 {{#section:2026 United States House of Representatives elections|GenericBallotAgg}}
 
@@ -2051,7 +2050,8 @@ In these general elections, the winners will be elected for the term beginning J
 
 |}
 
-== Alabama ==
+== Elections ==
+=== Alabama ===
 {{Infobox election
 | election_name = Alabama election
 | country = Alabama
@@ -2093,7 +2093,7 @@ Held on May 19, the Republican primary featured U.S. Representative [[Barry Moor
 In the Democratic primary, no candidate received 50%, so a runoff was held between businessman Dakarai Larriet and attorney Everett Wess.<ref name= "Larriett">{{cite news |title= Democrat Dakarai Larriett launches U.S. Senate campaign |url= https://www.cullmantribune.com/2025/04/07/democrat-dakarai-larriett-launches-u-s-senate-campaign/ |access-date= April 7, 2025 |work= [[The Cullman Tribune]] |date= April 7, 2025}}</ref> Wess won the runoff with 54.6% of the vote.<ref name= ":5">{{Cite web |date= May 20, 2026 |title= Alabama Senate Primary Election 2026 Live Results: Track Barry Moore, Everett Wess and Others |url= https://www.nbcnews.com/politics/2026-primary-elections/alabama-senate-results |access-date= May 20, 2026 |publisher= NBC News |language=en}}</ref>
 {{clear}}
 
-== Alaska ==
+=== Alaska ===
 {{Infobox election
 | election_name = Alaska election
 | country = Alaska
@@ -2134,7 +2134,7 @@ A [[nonpartisan primary]] was held on August 18, 2026, with the top four candida
 
 {{clear}}
 
-== Arkansas ==
+=== Arkansas ===
 {{Infobox election
 | election_name = Arkansas election
 | country = Arkansas
@@ -2174,7 +2174,7 @@ Two-term Republican [[Tom Cotton]] was reelected in [[2020 United States Senate 
 Rice farmer Hallie Shoffner defeated Ethan Dunbar in the March 3 Democratic primary.<ref>{{Cite web |last=Jared |first=George |date=May 13, 2025 |title=Hallie Shoffner running for US Senate to challenge Cotton |url=https://talkbusiness.net/2025/05/hallie-shoffner-running-for-us-senate-to-challenge-cotton/ |access-date=May 31, 2025 |website=Talk Business & Politics |language=en-US}}</ref>
 {{clear}}
 
-== Colorado ==
+=== Colorado ===
 {{Infobox election
 | election_name = Colorado election
 | country = Colorado
@@ -2214,7 +2214,7 @@ One-term [[Democratic Party (United States)|Democrat]] [[John Hickenlooper]], el
 [[Colorado Senate|State Senator]] [[Mark Baisley]] is the Republican nominee following the [[Colorado Republican Party|Colorado Republican]] Assembly on April 11, as no other candidates surpassed the 30% threshold.<ref>{{Cite web |last1=Heaney |first1=Briana |last2=Kim |first2=Caitlyn |date=April 11, 2026 |title=Gubernatorial candidates Scott Bottoms, Victor Marx win slots on GOP primary ballot at state assembly |url=https://www.cpr.org/2026/04/11/colorado-gop-assembly-results-governor/ |access-date=April 12, 2026 |publisher=Colorado Public Radio |language=en}}</ref><ref name="Baisley">{{cite web |last1=Toomer |first1=Lindsey |title=Republican Mark Baisley now running for U.S. Senate, drops bid for Colorado governor |url=https://coloradonewsline.com/briefs/mark-baisley-senate-colorado/ |website=Colorado Newsline |date=January 5, 2026 |access-date=January 7, 2026}}</ref>
 {{clear}}
 
-== Delaware ==
+=== Delaware ===
 {{Infobox election
 | election_name = Delaware election
 | country = Delaware
@@ -2255,7 +2255,7 @@ Coons faced three challengers in the Democratic primary: philosopher and educato
 Former Democratic [[Delaware Senate|state Senator]] and [[Independent Party of Delaware]] nominee for U.S. Senate in [[2024 United States Senate election in Delaware|2024]] [[Michael Katz (politician)|Michael Katz]] defeated [[U.S. Army War College]] instructor John Shulli in the Republican primary.<ref name=":11" />
 {{clear}}
 
-== Florida (special) ==
+=== Florida (special) ===
 {{Infobox election
 | election_name = Florida special election
 | country = Florida
@@ -2295,7 +2295,7 @@ Three-term Republican [[Marco Rubio]] was [[2022 United States Senate election i
 [[Florida House of Representatives|State Representative]] [[Angie Nixon]]<ref>{{Cite web |date=March 15, 2026 |title=Florida Senate candidate Angie Nixon promises to fight for working people |url=https://www.cbsnews.com/miami/news/florida-democratic-senate-candidate-angie-nixon-campaign/ |access-date=March 20, 2026 |publisher=CBS News |language=en-US}}</ref> defeated [[Alex Vindman]], former director for European affairs at the [[United States National Security Council|U.S. National Security Council]], a [[Whistleblowing|whistleblower]] in the [[2019 Trump–Ukraine scandal]], and the twin brother of [[Virginia]] [[U.S. Representative]] [[Eugene Vindman]]<ref>{{Cite web |url=https://floridaphoenix.com/2026/01/27/whistleblower-alexander-vindman-to-seek-florida-democratic-nomination-for-senate/ |title=Whistleblower Alexander Vindman to seek Florida Democratic nomination for Senate |date=January 27, 2026 |access-date=January 30, 2026}}</ref><ref>{{Cite web |last=DeFede |first=Jim |date=May 16, 2025 |title=Trump whistleblower Alexander Vindman eyeing Florida Senate run |url=https://www.cbsnews.com/miami/news/trump-whistleblower-alexander-vindman-eyeing-florida-senate-run/ |access-date=May 31, 2025 |publisher=CBS News |language=en-US}}</ref> in the August 18 Democratic primary.
 {{clear}}
 
-==Georgia ==
+=== Georgia ===
 {{Infobox election
 | election_name = Georgia election
 | country = Georgia (U.S. state)
@@ -2335,7 +2335,7 @@ One-term Democrat [[Jon Ossoff]] is running for a second term.<ref name="Ossoff"
 The Republican primary took place on May 19. U.S. Representative [[Mike Collins (politician)|Mike Collins]]<ref>{{Cite web|url=https://www.foxcarolina.com/2026/05/20/us-rep-mike-collins-makes-gop-senate-runoff/|title=U.S. Rep. Mike Collins, Derek Dooley make GOP Senate runoff|first=Tim|last=Darnell|date=May 20, 2026|publisher=foxcarolina.com}}</ref> and former [[University of Tennessee football]] coach [[Derek Dooley (American football)|Derek Dooley]]<ref>{{Cite web |title=Former college football coach Derek Dooley enters Georgia Senate race |author=Booker, Brakkton|url=https://www.politico.com/news/2025/08/04/georgia-gop-primary-00491575 |access-date=August 6, 2025 |website=Politico |date=August 4, 2025}}</ref> advanced to a June 16 runoff, which Collins won with 56% of the vote.<ref>{{Cite web |date=May 19, 2026 |title=2026 Georgia U.S. Senate Primary Election Live Results |url=https://apnews.com/projects/elections-2026/georgia-primary-results-us-senate/ |access-date=May 20, 2026 |publisher=Associated Press |language=en}}</ref>
 {{clear}}
 
-== Idaho ==
+=== Idaho ===
 {{Infobox election
 | election_name = Idaho election
 | country = Idaho
@@ -2377,7 +2377,7 @@ David Roth, a realtor and the Democratic nominee for U.S. Senate in [[2022 Unite
 Matt Loesby, the nominee for Idaho's 1st congressional district in [[2024 United States House of Representatives elections in Idaho#District 1|2024]],<ref>{{cite news |title=Idaho citizens seek elected offices|url=https://www.lmtribune.com/local-news/idaho-citizens-seek-elected-offices-21588153|access-date=March 11, 2026|work=[[The Lewiston Tribune]]|date=February 28, 2026}}</ref> is running as a Libertarian. Former Democratic [[Idaho House of Representatives|state representative]] [[Todd Achilles]]<ref name="AchillesID2">{{cite news |last1=Guido |first1=Laura |title=Idaho lawmaker steps down from Legislature to run for U.S. Senate seat as independent candidate |url=https://idahocapitalsun.com/2025/07/01/idaho-lawmaker-steps-down-from-legislature-to-run-for-us-senate-seat-as-independent-candidate/ |access-date=July 1, 2025 |work=Idaho Capital Sun |date=July 1, 2025}}</ref> and software developer Natalie Fleming<ref name="wr" /> are running as [[Independent politician|independents]].
 {{clear}}
 
-== Illinois ==
+=== Illinois ===
 {{Infobox election
 | election_name = Illinois election
 | country = Illinois
@@ -2417,7 +2417,7 @@ On March 17, 2026, incumbent [[Lieutenant Governor of Illinois|Lieutenant Govern
 Former [[Illinois Republican Party]] Chairman [[Don Tracy]] easily won the Republican primary the same day, defeating attorney Jeannie Evans and [[Polish American Congress]] PAC national director Casey Chlebek.<ref name="lr" />
 {{clear}}
 
-== Iowa ==
+=== Iowa ===
 {{Infobox election
 | election_name = Iowa election
 | country = Iowa
@@ -2457,7 +2457,7 @@ Two-term Republican [[Joni Ernst]] was [[2020 United States Senate election in I
 In the Democratic primary, [[Iowa House of Representatives|state Representative]] [[Josh Turek]] defeated [[Iowa Senate|state Senator]] [[Zach Wahls]] by a comfortable margin.<ref> [[Iowa House of Representatives|state Representative]] [[Josh Turek]]</ref> Both candidates had cited Ernst's remarks about Medicare as a factor in their decisions to run.{{citation needed|date=June 2026}}
 {{clear}}
 
-== Kansas ==
+=== Kansas ===
 {{Infobox election
 | election_name = Kansas election
 | country = Kansas
@@ -2502,7 +2502,7 @@ One-term Republican [[Roger Marshall]] was [[2020 United States Senate election 
 Founder of the Church of the Resurrection and pastor [[Adam Hamilton (pastor)|Adam Hamilton]],<ref>{{cite web |last1=Kelly |first1=Matthew |last2=Bayless |first2=Kacen |title=Popular KC-area pastor launches challenge to Roger Marshall - with a twist |url=https://www.kansascity.com/news/politics-government/article315578310.html |website=The Star |publisher=McClatchy Media |access-date=April 30, 2026}}</ref> who initially considered running as an independent,<ref>{{cite news |last2=Bayless |first2=Kacen |last1=Kelly |first1=Matthew |title=Popular KC-area pastor considers independent Senate run to unseat Roger Marshall |url=https://www.kansascity.com/news/politics-government/article314837324.html |access-date=February 27, 2026 |work=[[Kansas City Star]] |date=February 27, 2026}}</ref> won the Democratic nomination with 35% of the vote. He defeated a field that included former state [[USDA]] Director Christy Davis,<ref name="DavisKS">{{cite news |last1=Newton |first1=Ryan |title=Kansas Democrat launches campaign for US Senate against incumbent Roger Marshall |url=https://www.ksn.com/news/your-local-election-hq/kansas-democrat-launches-campaign-for-us-senate-against-incumbent-roger-marshall/ |access-date=August 21, 2025 |publisher=[[KSNW]] |date=August 19, 2025}}</ref> former federal prosecutor Jason Hart,<ref>{{cite news |last1=Alatidd |first1=Jason |title=Kansas prosecutor Jason Hart joins Senate race, eyes Trump and Marshall |url=https://www.cjonline.com/story/news/politics/elections/congressional/2026/03/11/former-federal-prosecutor-joins-senate-primary-to-face-roger-marshall/89066799007/ |access-date=March 17, 2026 |work=Topeka Capital-Journal |date=March 11, 2026}}</ref> commercial real estate developer Erik Murray,<ref>{{cite web |last1=Cooper |first1=Brad |title=KCK developer announces for U.S. Senate as Democratic primary grows to five |url=https://sunflowerstatejournal.com/kck-developer-announces-for-u-s-senate-as-democratic-primary-grows-to-five/ |access-date=December 3, 2025 |work=Sunflower State Journal |date=December 3, 2025}}</ref> attorney Anne Parelkar,<ref name="Parelkar" /> [[Kansas Senate|state senator]] [[Patrick Schmidt (politician)|Patrick Schmidt]],<ref>{{cite news |last1=Alatidd|first1=Jason |title=Topeka Democrat joins US Senate primary to challenge Roger Marshall |url=https://www.cjonline.com/story/news/politics/elections/congressional/2026/02/04/topeka-democrat-patrick-schmidt-joins-senate-race-vs-roger-marshall/88507396007/ |access-date=February 4, 2026 |work=The Topeka Capital-Journal |date=February 4, 2026}}</ref> art gallery owner Mike Soetaertare,<ref name="Parelkar">{{cite news |last1=Kaminski |first1=Anna |title=Democratic immigration lawyer wants to fix broken system with run for U.S. Senate in Kansas |url=https://kansasreflector.com/2025/08/25/democratic-immigration-lawyer-wants-to-fix-broken-system-with-run-for-u-s-senate-in-kansas/ |access-date=August 27, 2025 |work=Kansas Reflector |date=August 25, 2025}}</ref> former financial services executive Sandy Spidel Neumann,<ref>{{cite web |last1=Cooper |first1=Brad |title=Democrat launches bid for U.S. Senate, expands party primary to four |url=https://sunflowerstatejournal.com/democrat-launches-bid-for-u-s-senate-expands-party-primary-to-four/ |access-date=October 16, 2025 |work=Sunflower State Journal |date=October 16, 2025}}</ref> and counterintelligence specialist Noah Tyler.<ref>{{cite news |last1=Saldanha-Olson |first1=Stacey |title=Afghanistan veteran Noah Taylor enters U.S. Senate race for Kansas |url=https://www.cjonline.com/story/news/state/2026/03/17/afghanistan-veteran-noah-taylor-runs-for-u-s-senate-from-kansas/89184140007/ |access-date=March 17, 2026 |work=[[The Topeka Capital-Journal]] |date=March 17, 2026}}</ref>
 {{clear}}
 
-== Kentucky ==
+=== Kentucky ===
 {{Infobox election
 | election_name = Kentucky election
 | country = Kentucky
@@ -2544,7 +2544,7 @@ On May 19, U.S. Representative [[Andy Barr]] of [[Kentucky's 6th congressional d
 Former [[Kentucky House of Representatives|state Representative]] [[Charles Booker (American politician)|Charles Booker]], the [[2022 United States Senate election in Kentucky|2022 Senate]] nominee and a former staffer for Governor [[Andy Beshear]], won the May 19 Democratic primary.<ref name="kentuckylantern.com">{{Cite web |title=Kentucky Democrat Charles Booker to run again for U.S. Senate seat • Kentucky Lantern |url=https://kentuckylantern.com/briefs/kentucky-democrat-charles-booker-to-run-again-for-u-s-senate-seat/ |access-date=March 5, 2026 |website=Kentucky Lantern |date=December 3, 2025 |language=en-US}}</ref> The seven-candidate field included [[2020 United States Senate election in Kentucky|2020 nominee]] and former [[United States Marine Corps|Marine]] fighter pilot [[Amy McGrath]].<ref name="kentuckylantern.com" /><ref name=":4" />
 {{clear}}
 
-== Louisiana ==
+=== Louisiana ===
 {{Infobox election
 | election_name = Louisiana election
 | country = Louisiana
@@ -2586,7 +2586,7 @@ U.S. Representative [[Julia Letlow]] and [[Louisiana State Treasurer|state Treas
 Sorghum farmer Jamie Davis and data scientist and political consultant Gary Crockett advanced to the Democratic primary runoff, while nonprofit executive Nick Albares placed third.<ref>{{cite web |last1=Grant|first1=Jalon|title=Concordia Parish native announces U.S. Senate bid in Louisiana |url=https://www.cenlanow.com/news/state-news/concordia-parish-native-announces-u-s-senate-bid-in-louisiana/ |access-date=December 12, 2025 |publisher=[[WNTZ-TV]] |date=December 12, 2025}}</ref> Davis defeated Crockett in the runoff.<ref name="Primary">{{cite web |title=Rancor ratchets up between Cassidy, Letlow with the US Senate field set |url=https://lailluminator.com/2026/02/13/cassidy-letlow-senate/ |website=Louisiana Illuminator |date=February 13, 2026|access-date=February 17, 2026}}</ref>
 {{clear}}
 
-== Maine ==
+=== Maine ===
 {{Infobox election
 | election_name = Maine election
 | country = Maine
@@ -2628,7 +2628,7 @@ On June 9, [[Sullivan, Maine|Sullivan]] [[harbor master]] and [[United States Ma
 On July 8, Platner announced his withdrawal from the race following allegations of sexual assault, which he denied. The same day, Maine Democrats voted to hold a state convention to select a replacement nominee.<ref>{{cite news |title=Live updates: Graham Platner suspends Senate bid as Maine Democrats vie to replace him |url=https://www.nbcnews.com/politics/politics-news/live-blog/graham-platner-maine-senate-election-trump-live-updates-rcna353556 |access-date=July 8, 2026 |work=[[NBC]] |date=July 8, 2026}}</ref> Candidates seeking the nomination were required to collect at least 500 signatures, including 50 from each of eight counties.<ref>{{Cite web |last=Mistler |first=Steve |date=July 10, 2026 |title=The latest on how Maine Democrats will nominate Graham Platner's replacement |url=https://www.mainepublic.org/politics/2026-07-10/the-latest-on-how-maine-democrats-will-nominate-graham-platners-replacement |access-date=July 10, 2026 |website=[[Maine Public]] |language=en}}</ref> During county meetings to select convention delegates, approximately 456 delegates pledged their support to former state Senator [[Troy Jackson]].<ref name="BangorDelegateResults">{{Cite news |last=Shepherd |first=Michael |date=July 13, 2026 |title=Troy Jackson closes in on Maine's Democratic Senate nod after dominant caucus day |url=https://www.bangordailynews.com/2026/07/18/politics/elections/troy-jackson-dominates-day-1-maine-democratic-senate-caucus/ |work=[[Bangor Daily News]] |language=en-US |access-date=July 19, 2026}}</ref><ref>{{cite web |last1=Svitek |first1=Patrick |last2=Cohen |first2=Ethan |date=July 18, 2026 |title=Troy Jackson, a former Graham Platner ally, well-positioned to win Maine Democrats' nomination to face Sen. Susan Collins |url=https://www.cnn.com/2026/07/18/politics/troy-jackson-graham-platner-maine |publisher=[[CNN]] |language=en-US |access-date=July 18, 2026}}</ref><ref name="Pellish & Howard 2026">{{cite news |last1=Pellish |first1=Aaron |last2=Howard |first2=Andrew |date=July 19, 2026 |title=Troy Jackson has effectively secured the Maine Senate Democratic nomination |url=https://www.politico.com/news/2026/07/19/troy-jackson-likely-maine-senate-nominee-platner-01004490 |website=Politico |language=en-US |access-date=July 19, 2026}}</ref> Jackson subsequently defeated Saundra Pelletier at the convention by a vote of 566–5.<ref name="ConvResultUsaToday">{{Cite news |last1=Condon |first1=Emily R. |last2=Margie |first2=Cullen |title=Troy Jackson replaces Graham Platner as Maine Senate Democratic nominee |url=https://www.usatoday.com/story/news/politics/2026/07/25/troy-jackson-replaces-graham-platner-maine-senate-democrat-nominee/91020463007/ |work=[[USA Today]] |date=July 25, 2026 |access-date=July 25, 2026}}</ref>
 {{clear}}
 
-== Massachusetts ==
+=== Massachusetts ===
 {{Infobox election
 | election_name = Massachusetts election
 | country = Massachusetts
@@ -2667,7 +2667,7 @@ Two-term Democrat [[Ed Markey]] was [[2020 United States Senate election in Mass
 Attorney John Deaton, who was the Republican nominee against U.S. Senator [[Elizabeth Warren]] in [[2024 United States Senate election in Massachusetts|2024]], is again the Republican nominee.<ref name="Deaton">{{cite news |last1=Klein |first1=Asher |title=Republican John Deaton announces second straight U.S. Senate run |url=https://www.nbcboston.com/news/local/john-deaton-2026-senate-campaign-mass/3843142/ |access-date=November 11, 2025 |publisher=[[NBC10 Boston]] |date=November 10, 2025}}</ref>
 {{clear}}
 
-==Michigan==
+=== Michigan ===
 {{Infobox election
 | election_name = Michigan election
 | country = Michigan
@@ -2707,7 +2707,7 @@ Former [[Wayne County, Michigan|Wayne County]] Health, Human, and Veterans Servi
 Former U.S. Representative for the [[Michigan's 8th congressional district|8th congressional district]] and [[2024 United States Senate election in Michigan|2024]] U.S. Senate nominee [[Mike Rogers (Michigan politician)|Mike Rogers]]<ref name="MRogers">{{Cite news |last=Robinson |first=Taylor |date=April 14, 2025 |title=Mike Rogers Runs for Senate in Michigan After a Close 2024 Loss |url=https://www.nytimes.com/2025/04/14/us/politics/mike-rogers-senate-michigan.html |access-date=April 14, 2025 |work=The New York Times |language=en-US |issn=0362-4331}}</ref> is the Republican nominee.
 {{clear}}
 
-== Minnesota ==
+=== Minnesota ===
 {{Infobox election
 | election_name = Minnesota election
 | country = Minnesota
@@ -2745,7 +2745,7 @@ One-term Democrat [[Tina Smith]] was [[2020 United States Senate election in Min
 Republicans running included [[sportscaster]] [[Michele Tafoya]],<ref name="Tafoya">{{Cite web |date=January 21, 2026 |title=Former sports reporter Michele Tafoya running for U.S. Senate in Minnesota - CBS News |url=https://www.cbsnews.com/news/michele-tafoya-files-to-run-u-s-senate-minnesota/ |access-date=January 21, 2026 |publisher=CBS News |language=en-US}}</ref> [[2024 United States Senate election in Minnesota|2024]] Republican U.S. Senate nominee and former professional basketball player [[Royce White]],<ref name="RoyceWhiteMN">{{Cite web|url=https://kstp.com/kstp-news/local-news/royce-white-fresh-off-loss-to-amy-klobuchar-announces-he-will-run-for-senate-again-in-2026/|title=Royce White, fresh off loss to Amy Klobuchar, announces he will run for Senate again in 2026|first=Kyle|last=Brown|date=November 7, 2024|publisher=KSTP |access-date=February 23, 2025}}</ref> retired [[U.S. Navy]] officer Tom Weiler,<ref name="rn">{{cite news |last1=Brown |first1=Kyle |title=Navy veteran Tom Weiler to seek Republican nomination for open U.S. Senate seat |url=https://kstp.com/kstp-news/local-news/navy-veteran-tom-weiler-to-seek-republican-nomination-for-open-u-s-senate-seat/ |access-date=August 11, 2025 |publisher=[[KSTP-TV]] |date=August 11, 2025}}</ref> and former [[Navy SEAL]] Adam Schwarze.<ref name="Schwarze">{{cite news |last1=Frey |first1=Josh |title=Adam Schwarze announces candidacy for U.S. Senate in Minnesota to replace Tina Smith |url=https://www.kaaltv.com/news/adam-schwarze-announces-candidacy-for-u-s-senate-in-minnesota-to-replace-tina-smith/ |access-date=February 13, 2025 |publisher=[[KAAL-TV]] |date=February 13, 2025}}</ref> Tafoya ultimately won the nomination with 52% of the vote.
 {{clear}}
 
-== Mississippi ==
+=== Mississippi ===
 {{Infobox election
 | election_name = Mississippi election
 | country = Mississippi
@@ -2787,7 +2787,7 @@ One-term Republican [[Cindy Hyde-Smith]] was [[2020 United States Senate electio
 Ty Pinkins, the Democratic nominee for [[Secretary of State of Mississippi|Secretary of State]] in [[2023 Mississippi elections#Secretary of state|2023]] and for [[United States Senate|U.S. Senate]] in [[2024 United States Senate election in Mississippi|2024]], is running as an independent.<ref name="Pinkins">{{cite news |last1=McLaughlin |first1=Grant |title=Pinkins leaving MS Democratic Party, running as independent. What to know |url=https://www.clarionledger.com/story/news/politics/2025/07/01/ty-pinkins-leaving-mississippi-democratic-party/84427842007/ |access-date=July 1, 2025 |work=The Clarion-Ledger |date=July 1, 2025}}</ref>
 {{clear}}
 
-== Montana ==
+=== Montana ===
 {{Infobox election
 | election_name = Montana election
 | country = Montana
@@ -2838,7 +2838,7 @@ Former [[Montana House of Representatives|state Representative]] [[Reilly Neill]
 [[Seth Bodnar]], the president of the [[University of Montana]] until January 2026, is running as an independent candidate.<ref>{{cite news |last1=Ambarian|first1=Jonathon|title=Bodnar announces independent run for Senate|url=https://www.kxlh.com/news/bodnar-announces-independent-run-for-senate|access-date=March 4, 2026|publisher=[[KXLH]]|date=March 4, 2026}}</ref> Former U.S. Senator [[Jon Tester]] endorsed Bodnar, surprising many and angering many Democrats.<ref>{{Cite web|url=https://montanafreepress.org/2026/01/14/bodnar-plans-senate-run-as-an-independent-and-testers-apparent-support-angers-democrats-in-montana/|title=Bodnar plans Senate run as an independent, and Tester's apparent support angers Democrats in Montana|first=Tom|last=Lutey|date=January 14, 2026}}</ref>
 {{clear}}
 
-== Nebraska ==
+=== Nebraska ===
 {{Infobox election
 | election_name = Nebraska election
 | country = Nebraska
@@ -2880,7 +2880,7 @@ Former labor union leader [[Dan Osborn]], who challenged Republican [[Deb Fische
 The [[Nebraska Democratic Party]] has declined to recruit a Democratic challenger to Ricketts,<ref>{{Cite web |last=Nir |first=David |title=Morning Digest: Nebraska independent who spooked GOP launches another Senate bid |url=https://www.the-downballot.com/p/morning-digest-nebraska-independent |access-date=September 6, 2025 |website=The Downballot |date=July 9, 2025 |language=en}}</ref> and the [[Jane Kleeb|party's chair]] has endorsed Osborn.<ref>{{Cite web |title=Nebraska Dems chair 'supporting' Dan Osborn vs. U.S. Sen. Pete Ricketts |url=https://www.newsfromthestates.com/article/nebraska-dems-chair-supporting-dan-osborn-vs-us-sen-pete-ricketts |access-date=September 6, 2025 |website=News From The States |language=en}}</ref> Other candidates filed for the Democratic primary, raising concern that their campaigns could split the vote and weaken Osborn's support in the general election,<ref name=":1">{{Cite web |date=March 9, 2026 |title=A slew of indie candidates are running for Senate in deep-red states. Democrats aren't all thrilled. |url=https://www.politico.com/news/2026/03/09/a-slew-of-indie-candidates-are-running-for-senate-in-deep-red-states-democrats-arent-all-thrilled-00817728 |access-date=March 16, 2026 |website=Politico |language=en}}</ref> but retired pharmacy technician Cindy Burbank won the Democratic primary and said she intended to withdraw from the general election if she sees no clear path to victory.<ref>{{Cite web |date=May 13, 2026 |title=Democrats pick Nebraska Senate nominee who could drop out and back independent Dan Osborn |url=https://www.nbcnews.com/politics/2026-election/democrats-nebraska-senate-primary-dan-osborn-pete-ricketts-rcna344474 |access-date=May 28, 2026 |publisher=NBC News |language=en}}</ref> She officially withdrew from the race on July 17.<ref>{{Cite news |url=https://www.ketv.com/article/nebraska-senate-democrat-candidate-cindy-burbank-ballot-removal/73172106 |title=Cindy Burbank, Democratic nominee for U.S. Senate in Nebraska, asks to be removed from ballot |last=Anderson |first=Jake |publisher=[[KETV]] |date=July 17, 2026 |access-date=July 17, 2026}}</ref>
 {{clear}}
 
-== New Hampshire ==
+=== New Hampshire ===
 {{Infobox election
 | election_name = New Hampshire election
 | country = New Hampshire
@@ -2922,7 +2922,7 @@ Three-term [[Democratic Party (United States)|Democrat]] [[Jeanne Shaheen]] was 
 Former U.S. Senator [[John E. Sununu]] won the Republican nomination on September 8, defeating former [[Massachusetts]] U.S. Senator and [[U.S. Ambassador to New Zealand and Samoa]] [[Scott Brown (politician)|Scott Brown.]]<ref name=":9" /><ref name="nh">{{Cite web |date=June 25, 2025 |title=Scott Brown launches campaign for Senate in New Hampshire |author1=Garrity, Kelly |author2=Kashinsky, Lisa |url=https://www.politico.com/news/2025/06/25/scott-brown-new-hampshire-senate-2026-midterms-00422703 |access-date=June 30, 2025 |website=Politico}}</ref> Both have previously lost Senate races to Shaheen: Sununu in [[2008 United States Senate election in New Hampshire|2008]] and Brown in [[2014 United States Senate election in New Hampshire|2014]].<ref name="JohnSununu" /> Sununu's brother, former [[Governor of New Hampshire|Governor]] [[Chris Sununu]], declined to run.<ref>{{Cite web |last=Porter |first=Steven |date=April 8, 2025 |title=Former N.H. governor Chris Sununu says he won't run for US Senate in 2026 |url=https://www.bostonglobe.com/2025/04/08/metro/nh-chris-sununu-says-he-will-not-run-us-senate-shaheen-pappas/ |access-date=April 8, 2025 |website=[[The Boston Globe]] |language=en-US}}</ref>
 {{clear}}
 
-== New Jersey ==
+=== New Jersey ===
 {{Infobox election
 | election_name = New Jersey election
 | country = New Jersey
@@ -2960,7 +2960,7 @@ Two-term Democrat [[Cory Booker]] was [[2020 United States Senate election in Ne
 
 On June 2, 2026, former [[Tabernacle Township, New Jersey|Tabernacle]] Mayor Justin Murphy, a Navy veteran and attorney, won the Republican nomination<ref>{{Cite web |title=Justin Murphy wins New Jersey's Republican Senate primary |url=https://whyy.org/articles/new-jersey-election-2026-primary-senate-republican-nomination/ |access-date=June 3, 2026 |publisher=WHYY |language=en-US}}</ref> with 33% of the vote, defeating physician Robert Lebovics, U.S. Army combat veteran Richard Tabor, and former [[News 12 Networks|News 12]] reporter Alex Zdan.<ref>{{Cite web |last=Wildstein |first=David |date=February 21, 2026 |title=Tabor defeats Zdan for U.S. Senate endorsement in Atlantic |url=https://newjerseyglobe.com/congress/tabor-defeats-zdan-for-u-s-senate-endorsement-in-atlantic/ |access-date=March 16, 2026 |website=New Jersey Globe |language=en-US}}</ref>{{clear}}
 
-== New Mexico ==
+=== New Mexico ===
 {{Infobox election
 | election_name = New Mexico election
 | country = New Mexico
@@ -2999,7 +2999,7 @@ One-term Democrat [[Ben Ray Luján]] was [[2020 United States Senate election in
 Christopher Heuvel, the only Republican to file, was disqualified for failing to meet ballot requirements.<ref>{{cite news |title=Four New Mexico candidates disqualified after failing to meet ballot requirements |url=https://www.abqjournal.com/news/four-new-mexico-candidates-disqualified-after-failing-to-meet-ballot-requirements/2978003?utm_campaign=mrf-twitter-ABQJournal&mrfcid=20260211698cbbd4871dae073950f595 |access-date=February 11, 2026 |work=[[Albuquerque Journal]] |date=February 10, 2026}}</ref> Former oil and gas operator Larry Marker subsequently qualified for the Republican primary as a [[Write-in candidate|write-in]].<ref name="NM2026" />
 {{clear}}
 
-== North Carolina==
+=== North Carolina ===
 {{Infobox election
 | election_name = North Carolina election
 | country = North Carolina
@@ -3041,7 +3041,7 @@ Two-term Republican [[Thom Tillis]], who was [[2020 United States Senate electio
 On the Democratic side, former [[U.S. Representative]] [[Wiley Nickel]] declared his candidacy in April 2025.<ref>{{Cite web |last=Wu |first=Nicholas |date=April 9, 2025 |title=Former Rep. Wiley Nickel is launching a Senate bid in North Carolina — giving hope to Democrats |url=https://www.politico.com/live-updates/2025/04/09/congress/wiley-nickel-senate-north-carolina-00279297 |access-date=April 9, 2025 |website=[[Politico]]}}</ref> Former [[North Carolina Governor|Governor]] [[Roy Cooper]] entered the race on July 28, 2025.<ref name="nc" /> Nickel withdrew the following day and endorsed Cooper,<ref>{{Cite web |date=July 29, 2025 |title=Former Congressman Wiley Nickel drops out of 2026 Senate race, endorses Roy Cooper |url=https://abc11.com/post/former-congressman-wiley-nickel-drops-2026-senate-race-endorses-north-carolina-governor-roy-cooper/17348739/ |access-date=July 29, 2025 |publisher=ABC11 |location=Raleigh-Durham |language=en}}</ref> who later won the Democratic nomination.<ref name=":0">{{Cite web |date=March 3, 2026 |title=Democrat Roy Cooper and Republican Michael Whatley set to face off in key North Carolina Senate race |url=https://www.nbcnews.com/politics/2026-election/cooper-whatley-north-carolina-senate-primary-wins-election-race-rcna259989 |access-date=March 4, 2025 |publisher=[[NBC News]] |language=en}}</ref>
 {{clear}}
 
-== Ohio (special) ==
+=== Ohio (special) ===
 {{Infobox election
 | election_name = Ohio special election
 | country = Ohio
@@ -3083,7 +3083,7 @@ Former U.S. Senator [[Sherrod Brown]], who was unseated [[2024 United States Sen
 Former [[Libertarian National Committee]] chair William Redpath is running as a Libertarian.<ref>{{Cite web |last=Henry |first=Megan |date=February 6, 2026 |title=Here are the candidates running for Ohio statewide office in 2026 • Ohio Capital Journal |url=https://ohiocapitaljournal.com/2026/02/06/here-are-the-candidates-running-for-ohio-statewide-office-in-2026/ |access-date=March 17, 2026 |website=Ohio Capital Journal |language=en-US}}</ref> Ohio Libertarians disqualified healthcare consultant Jeffrey Kanter from the Libertarian primary after he submitted hundreds of invalid signatures with his candidate petition.<ref>{{Cite web |last=Jeremy Pelzer |first=cleveland com |date=March 19, 2026 |title=Libertarian U.S. Senate candidate Jeffrey Kanter disqualified from Ohio ballot |url=https://www.cleveland.com/news/2026/03/libertarian-us-senate-candidate-jeffrey-kanter-disqualified-from-ohio-ballot.html |access-date=March 24, 2026 |website=The Plain Dealer |language=en}}</ref>
 {{clear}}
 
-== Oklahoma ==
+=== Oklahoma ===
 {{Infobox election
 | election_name = Oklahoma election
 | country = Oklahoma
@@ -3128,7 +3128,7 @@ In the June 16 Democratic primary, mediator Jim Priest<ref>{{cite news |last1=Do
 
 Entering Wedge Media executive director Ron Meinhardt and pharmacist Curtis Stinnett are running as independents.<ref name=":2" /><ref>{{Cite web |last=Brumbelow |first=Cole |date=April 1, 2026 |title=Candidates file for local, county and statewide races in Oklahoma |url=https://www.kswo.com/2026/04/01/candidates-file-local-county-statewide-races-oklahoma/ |access-date=April 3, 2026 |publisher=KSWO |language=en}}</ref> Sevier White, candidate for [[Oklahoma's 4th congressional district]] in [[2016 United States House of Representatives elections in Oklahoma#District 4|2016]], is running as a [[Libertarian Party of Oklahoma|Libertarian]].<ref name=":2" />{{clear}}
 
-== Oregon ==
+=== Oregon ===
 {{Infobox election
 | election_name = Oregon election
 | country = Oregon
@@ -3166,7 +3166,7 @@ Three-term Democrat [[Jeff Merkley]] was [[2020 United States Senate election in
 [[Oregon State Senate|State Senator]] [[David Brock Smith]],<ref>{{cite web|url=https://www.yahoo.com/news/articles/oregon-republican-lawmaker-running-unseat-220901834.html|title=Oregon Republican lawmaker running to unseat Merkley in US Senate race|author=Bourgeois, Michaela|date=March 3, 2026|access-date=March 10, 2026|work=Yahoo}}</ref> won the Republican primary that was held on May 19, 2026, defeating a crowded field of candidates, with former [[Linn County, Oregon|Linn County]] Republican Party chair [[Jo Rae Perkins]]<ref name="rc" /> finishing second.<ref>{{Cite web |date=May 19, 2026 |title=2026 Oregon U.S. Senate Primary Election Live Results |url=https://apnews.com/projects/elections-2026/oregon-primary-results-us-senate/ |access-date=May 23, 2026 |publisher=Associated Press |language=en}}</ref>
 {{clear}}
 
-== Rhode Island ==
+=== Rhode Island ===
 {{Infobox election
 | election_name     = Rhode Island election
 | country           = Rhode Island
@@ -3202,7 +3202,7 @@ Five-term Democrat [[Jack Reed (Rhode Island politician)|Jack Reed]] was [[2020 
 Former [[Rhode Island Republican Party]] official Raymond McKay is the Republican nominee.<ref name=":10" />
 {{clear}}
 
-== South Carolina==
+=== South Carolina ===
 {{Infobox election
 | election_name      = South Carolina election
 | country            = South Carolina
@@ -3242,7 +3242,7 @@ Pediatrician [[Annie Andrews (pediatrician)|Annie Andrews]]<ref>{{cite news |las
 }}</ref> 2022 US Senate candidate [[Catherine Fleming Bruce]] is running as a write-in candidate.
 {{clear}}
 
-== South Dakota ==
+=== South Dakota ===
 {{Infobox election
 | election_name = South Dakota election
 | country = South Dakota
@@ -3282,7 +3282,7 @@ Businessman and former [[South Dakota Highway Patrol|South Dakota state trooper]
 Brian Bengs, a [[U.S. Navy]] and [[Air Force Specialty Code|Air Force]] veteran, former [[Northern State University]] political science professor, and the [[Democratic Party (United States)|Democratic]] nominee for U.S. Senate in [[2022 United States Senate election in South Dakota|2022]], has announced his candidacy as an independent.<ref name="Bengs">{{cite news |title=Brian Bengs announces independent run for U.S. Senate |url=https://www.dakotanewsnow.com/2025/04/30/brian-bengs-announces-independent-run-us-senate/ |access-date=April 30, 2025 |work=Dakota News Now |date=April 30, 2025 |language=en}}</ref>
 {{clear}}
 
-== Tennessee ==
+=== Tennessee ===
 {{Infobox election
 | election_name = Tennessee election
 | country = Tennessee
@@ -3321,7 +3321,7 @@ Republican [[Bill Hagerty]] was [[2020 United States Senate election in Tennesse
 Consultant Marquita Bradshaw<ref name="ts" /> won the Democratic nomination on August 6.<ref>{{Cite web |date=August 6, 2026 |title=Tennessee U.S. Senate Primary Election Live Results 2026 |url=https://apnews.com/projects/elections-2026/tennessee-primary-results-us-senate/ |access-date=August 13, 2026 |publisher=Associated Press |language=en}}</ref>
 {{clear}}
 
-== Texas ==
+=== Texas ===
 {{Infobox election
 | election_name = Texas election
 | country = Texas
@@ -3364,7 +3364,7 @@ Cornyn and [[Texas Attorney General|state Attorney General]] [[Ken Paxton]] ran 
 
 {{clear}}
 
-== Virginia ==
+=== Virginia ===
 {{Infobox election
 | election_name = Virginia election
 | country = Virginia
@@ -3402,7 +3402,7 @@ Three-term Democrat [[Mark Warner]] was reelected in [[2020 United States Senate
 
 Retired [[United States Army]] [[Major general|Major General]] [[Bert Mizusawa]], who previously ran for U.S. Senate in [[2018 United States Senate election in Virginia|2018]] and [[Virginia's 2nd congressional district]] in [[2010 United States House of Representatives elections in Virginia#District 3|2010]],<ref>{{Cite web |last=Kirwin |first=Brian |date=January 20, 2026 |title=Gen. Bert Mizusawa to Run for US Senate in Virginia |url=https://www.einpresswire.com/article/884832889/gen-bert-mizusawa-to-run-for-us-senate-in-virginia |access-date=March 16, 2026 |website=EIN Presswire |language=en-US}}</ref> won the Republican nomination over [[Certified Public Accountant]] Kim Farrington<ref name="FarringtonVA">{{Cite news|last1=Stuart|first1=Bob|title=Kim Farington wants to unseat Mark Warner. But who is she? |url=https://newsvirginian.com/news/local/government-politics/elections/article_3c3e76e5-2dbc-45cd-9e80-1ee5e2d002b1.html|date=September 24, 2025 |access-date=September 24, 2025|work=[[Virginia Mercury]] |language=en}}</ref> and [[United States Marine Corps Reserve|U.S. Marine Corps Reserve]] Colonel David Williams.<ref>{{Cite web |last=Quarshie |first=Mabinty |date=November 18, 2025 |title=Virginia Republican launches Senate race against Mark Warner |url=https://www.washingtonexaminer.com/news/campaigns/congressional/3886732/navy-marine-veteran-david-williams-virginia-senate-campaign-oust-mark-warner/ |access-date=March 16, 2026 |website=Washington Examiner |language=en-US}}</ref>{{clear}}
 
-== West Virginia ==
+=== West Virginia ===
 {{Infobox election
 | election_name = West Virginia election
 | country = West Virginia
@@ -3442,7 +3442,7 @@ Two-term Republican [[Shelley Moore Capito]] was [[2020 United States Senate ele
 Former [[Morgantown, West Virginia|Morgantown]] City Councilwoman Rachel Fetty Anderson<ref name="WV">{{cite web |title=2026 Primary Election State Candidates List|url=https://candidates.wvsos.gov/|publisher=West Virginia Secretary of State|access-date=January 13, 2026}}</ref> won the Democratic primary on May 12, 2026.<ref>{{Cite web |last=Staff |first=WSAZ News |date=May 12, 2026 |title=Rachel Fetty Anderson wins Democratic nomination in W.Va. for U.S. Senate seat |url=https://www.wsaz.com/2026/05/12/five-wva-democrats-vying-us-senate-seat/ |access-date=May 13, 2026 |publisher=WSAZ |language=en}}</ref>
 {{clear}}
 
-== Wyoming ==
+=== Wyoming ===
 {{Infobox election
 | election_name = Wyoming election
 | country = Wyoming

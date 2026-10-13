@@ -895,6 +895,15 @@ The [[New York State Board of Elections]] rejected all petitions for non-qualifi
 ! Other
 ! Undecided
 |-
+| style="text-align:left;"|Pollfinity Research<ref>{{cite web|url=https://pollfinity.com/polls/ny-governor-2026-oct|title=Hochul 47%, Blakeman 44%: New York Governor's Race Tightens to Three Points in New Pollfinity Survey|date=October 13, 2026|access-date=October 13, 2026|website=Pollfinity Research}}</ref>
+|October 8–12, 2026
+|499 (RV)
+|±&nbsp;4.8%
+|{{party shading/Democratic}}|'''47%'''
+|44%
+|3%
+|6%
+|-
 | style="text-align:left;"|[[Emerson College]]<ref>{{cite web|url=https://emersoncollegepolling.com/new-york-2026-poll-governor-hochul-leads-blakeman-by-12/|title=New York 2026 Poll: Governor Hochul Leads Blakeman by 12|date=October 8, 2026|access-date=October 8, 2026|website=[[Emerson College Polling]]}}</ref>{{efn-ua|name=WPIX|Poll sponsored by [[WPIX]]}}
 |October 3–5, 2026
 |900 (LV)

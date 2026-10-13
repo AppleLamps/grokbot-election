@@ -2764,9 +2764,9 @@ The election is taking place amidst a broader push by the Trump administration t
 |{{USRaceRating|Tossup}}
 |October 7, 2026
 |-
-|align="left"|[[FiftyPlusOne]]<ref>{{Cite web |title=2026 Congressional Forecast |url=https://fiftyplusone.news/forecast/senate |access-date=October 7, 2026 |website=[[FiftyPlusOne]]}}</ref>
-|{{USRaceRating|Lean|D|flip}}
-|October 7, 2026
+|align="left"|[[FiftyPlusOne]]<ref>{{Cite web |title=2026 Congressional Forecast |url=https://fiftyplusone.news/forecast/senate |access-date=October 13, 2026 |website=[[FiftyPlusOne]]}}</ref>
+|{{USRaceRating|Tossup}}
+|October 13, 2026
 |-
 |align="left"|[[Fox News]]<ref>{{Cite news |last=Numa |first=Rémy |title=Fox News Power Rankings: The biggest surprises come after October |url=https://www.foxnews.com/politics/fox-news-power-rankings-the-biggest-surprises-come-after-october |work=[[Fox News]] |date=October 6, 2026 |access-date=October 7, 2026}}</ref>
 |{{USRaceRating|Tossup}}

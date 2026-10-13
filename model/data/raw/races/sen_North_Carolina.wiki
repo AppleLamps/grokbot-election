@@ -639,9 +639,9 @@ The [[Senate Leadership Fund]]—first reported by ''[[Semafor (website)|Semafor
 |{{USRaceRating|Solid|D|flip}}
 |October 7, 2026
 |-
-|align="left"|[[Split Ticket (website)|Split Ticket]]<ref>{{Cite magazine |title=Split Ticket 2026 Midterms Model |url=https://www.theargumentmag.com/p/split-ticket-2026-midterms-model |magazine=[[The Argument (magazine)|The Argument]] |via=[[Substack]] |access-date=October 7, 2026}}</ref>
-|{{USRaceRating|Safe|D|flip}}
-|October 7, 2026
+|align="left"|[[Split Ticket (website)|Split Ticket]]<ref>{{Cite magazine |title=Split Ticket 2026 Midterms Model |url=https://www.theargumentmag.com/p/split-ticket-2026-midterms-model |magazine=[[The Argument (magazine)|The Argument]] |via=[[Substack]] |access-date=October 13, 2026}}</ref>
+|{{USRaceRating|Likely|D|flip}}
+|October 13, 2026
 |}
 
 ===Post-primary endorsements===
@@ -678,6 +678,8 @@ The [[Senate Leadership Fund]]—first reported by ''[[Semafor (website)|Semafor
 {{Endorsements box
 |title=Roy Cooper (D)
 |list=
+;Executive branch officials
+*[[Barack Obama]], former [[president of the United States]] (2009–2017)<ref>{{cite news |last=Battaglia |first=Danielle |title=In a new ad, former President Barack Obama throws support behind NC’s Roy Cooper |url=https://amp.newsobserver.com/latest-news/article317592997.html |work=The News & Observer |date=13 October 2026 |access-date=13 October 2026}}</ref>
 ;Statewide officials
 *[[Wes Moore]], [[governor of Maryland]] (2023–present)<ref>{{cite news |title=Governor of Maryland supports Roy Cooper's US Senate campaign |url=https://www.wsoctv.com/news/local/governor-maryland-supports-roy-coopers-us-senate-campaign/FUQS7FPB2VE73M4VKHC5ONSPDQ/ |access-date=May 18, 2026 |work=[[WSOC-TV]] |date=May 18, 2026 |language=en}}</ref>
 *[[Gavin Newsom]], [[governor of California]] (2019–present)<ref>{{cite news |last1=O'Neill |first1=Nora |title=Why is California Gov. Gavin Newsom back campaigning in the Carolinas this weekend?|url=https://www.charlotteobserver.com/news/politics-government/election/article317092460.html |access-date=September 2, 2026 |work=[[The Charlotte Observer]] |date=September 2, 2026 |language=en}}</ref>

@@ -1770,42 +1770,42 @@ On June 25, Renner announced on X that the planned Fox 13 debate, set for July 2
 |{{party shading/Republican}} |'''Donalds +3.7%'''
 |-
 |[[Decision Desk HQ]]<ref>{{cite web |title=2026 Florida Governor |url=https://votes.decisiondeskhq.com/races/2026-11-03/florida-governor-general-election/polling |access-date=September 9, 2026 |website=[[Decision Desk HQ]]}}</ref>
-|through October 7, 2026
-|October 8, 2026
-|{{party shading/Republican}} |'''47.4%'''
-|43.3%
-|9.3%
-|{{party shading/Republican}} |'''Donalds +4.1%'''
+|through October 10, 2026
+|October 13, 2026
+|{{party shading/Republican}} |'''48.4%'''
+|43.6%
+|8.0%
+|{{party shading/Republican}} |'''Donalds +4.8%'''
 |-
 |[[FiftyPlusOne]]<ref>{{cite web|title=Florida General Governor Election|url=https://fiftyplusone.news/polls/governor/general/florida|publisher=[[FiftyPlusOne]]|access-date=October 8, 2026}}</ref>
-|through October 7, 2026
-|October 8, 2026
-|{{party shading/Republican}} |'''47.1%'''
-|43.2%
-|9.9%
-|{{party shading/Republican}} |'''Donalds +3.9%'''
+|through October 10, 2026
+|October 13, 2026
+|{{party shading/Republican}} |'''48.0%'''
+|43.0%
+|9.0%
+|{{party shading/Republican}} |'''Donalds +5.0%'''
 |-
 |[[RealClearPolitics]]<ref>{{cite web |title=2026 Florida Governor - Donalds vs. Jolly |url=https://www.realclearpolling.com/polls/governor/general/2026/florida/donalds-vs-jolly |access-date=September 9, 2026 |website=[[RealClearPolitics]]}}</ref>
-|September 14 – October 7, 2026
-|October 8, 2026
-|{{party shading/Republican}} |'''47.8%'''
-|42.5%
-|9.7%
-|{{party shading/Republican}} |'''Donalds +5.3%'''
+|September 24 – October 9, 2026
+|October 13, 2026
+|{{party shading/Republican}} |'''48.0%'''
+|43.0%
+|9.0%
+|{{party shading/Republican}} |'''Donalds +5.0%'''
 |-
 |''[[Silver Bulletin]]''<ref name="Silver"/>
 |through October 7, 2026
-|October 11, 2026
-|{{party shading/Republican}}|'''47.5%'''
-|43.3%
-|9.2%
-|{{party shading/Republican}}|'''Donalds +4.2%'''
+|October 13, 2026
+|{{party shading/Republican}}|'''47.9%'''
+|43.8%
+|8.3%
+|{{party shading/Republican}}|'''Donalds +4.1%'''
 |-
 |colspan="3"|'''Average'''
-|{{party shading/Republican}}|'''47.4%'''
-|43.1%
-|9.5%
-|{{party shading/Republican}}|'''Donalds +4.3%'''
+|{{party shading/Republican}}|'''47.9%'''
+|43.3%
+|8.8%
+|{{party shading/Republican}}|'''Donalds +4.6%'''
 |}
 
 {| class="wikitable" style="font-size:90%;text-align:center;"
@@ -1826,6 +1826,15 @@ On June 25, Renner announced on X that the planned Fox 13 debate, set for July 2
 |'''47%'''
 |'''47%'''
 |1%{{Efn|name=WNV1}}
+|5%
+|-
+| style="text-align:left;|[[Stetson University]]<ref>{{cite web |title=Poll: Donalds, Moody Maintain Double-Digit Leads as Florida Amendments Face 60% Threshold |url=https://www.stetson.edu/artsci/cpor/media/cpor-fall-2026-report-wave-2-october.pdf |website=[[Stetson University]] |access-date=13 October 2026 |date=October 13, 2026}}</ref>
+|October 1–9, 2026
+|716 (LV)
+|±&nbsp;4.2%
+|{{party shading/Republican}}|'''52%'''
+|41%
+|3%{{Efn|"Another candidate" with 3%}}
 |5%
 |-
 | style="text-align:left;|St. Pete Polls<ref>{{cite web |title=Florida Statewide survey conducted for FloridaPolitics.com |url=https://www.stpetepolls.org/files/StPetePolls_2026_State_Gov_October7_K7ZU3GA.pdf |publisher=St. Pete Polls |access-date=October 8, 2026 |date=October 7, 2026}}</ref>{{Efn-ua|name=FP}}
