@@ -1370,10 +1370,10 @@ A debate featuring eight of the declared candidates, hosted by [[News Center Mai
 !3<ref name="GenDebates"/>
 | style="white-space:nowrap;" | October 13, 2026
 | style="white-space:nowrap;" | [[WABI-TV|WABI]]<br/>[[WAGM-TV|WAGM]]
-| style="white-space:nowrap;" {{TBA}}
-| {{TBA}}
-| {{D-I|'''I'''}}
-| {{D-I|'''I'''}}
+| style="white-space:nowrap;" | Jon Small</br>Kathy O'Mara
+| [https://www.youtube.com/watch?v=9cXhqabYBF4 YouTube]
+| {{D-P|'''P'''}}
+| {{D-P|'''P'''}}
 |-
 !4<ref name="GenDebates"/>
 | style="white-space:nowrap;" | October 15, 2026

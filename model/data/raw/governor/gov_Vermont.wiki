@@ -208,9 +208,9 @@ While Scott historically won elections by landslide margins, 2026 was shaping up
 |{{USRaceRating|Likely|R}}
 |October 6, 2026
 |-
-|align="left"|[[Silver Bulletin]]<ref name="Silver">{{Cite web |url=https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model |title=FLIPR 2026 midterm election forecast |last1=Silver |first1=Nate |author1-link=Nate Silver |last2=McKown-Dawson |first2=Eli |website=[[Silver Bulletin]] |via=[[Substack]] |date=October 11, 2026 |orig-date=August 11, 2026 |access-date=October 11, 2026 |url-access=subscription}}</ref>
-|{{USRaceRating|Solid|R}}
-|October 11, 2026
+|align="left"|[[Silver Bulletin]]<ref name="Silver">{{Cite web |url=https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model |title=FLIPR 2026 midterm election forecast |last1=Silver |first1=Nate |author1-link=Nate Silver |last2=McKown-Dawson |first2=Eli |website=[[Silver Bulletin]] |via=[[Substack]] |date=October 13, 2026 |orig-date=August 11, 2026 |access-date=October 13, 2026 |url-access=subscription}}</ref>
+|{{USRaceRating|Lean|R}}
+|October 13, 2026
 |}
 
 ===Post-primary endorsements===

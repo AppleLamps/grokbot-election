@@ -727,15 +727,15 @@ See [[Template:USRaceRating]] for how to apply rating.
 ! Senator
 ! data-sort-type="number"| Last<br />election{{efn|The last elections for this group of senators were in 2020, except for those elected in a [[special election]] or who were appointed after the resignation or death of a sitting senator, as noted.}}
 ! ''[[The Cook Political Report|Cook]]''<br />{{small|Oct 6,<br />2026}}<ref>{{Cite web |title=2026 CPR Senate Race Ratings|url=https://www.cookpolitical.com/ratings/senate-race-ratings |access-date=October 11, 2026 |website=Cook Political Report}}</ref>
-! [[Decision Desk HQ|DDHQ]]<br />{{small|Oct 11,<br/>2026}}<ref>{{cite web |title=2026 Senate Ratings|url=https://votes.decisiondeskhq.com/forecast/2026/senate |website=[[Decision Desk HQ]]|access-date=October 11, 2026 |language=en}}
+! [[Decision Desk HQ|DDHQ]]<br />{{small|Oct 13,<br/>2026}}<ref>{{cite web |title=2026 Senate Ratings|url=https://votes.decisiondeskhq.com/forecast/2026/senate |website=[[Decision Desk HQ]]|access-date=October 13, 2026 |language=en}}
 </ref>
-! ''[[The Economist|Econ]]''<br />{{small|Oct 11,<br />2026}}<ref name=":3">{{cite news |title=2026 Senate Forecast |url=https://www.economist.com/interactive/2026/us-midterms/prediction-model/senate/ |newspaper=The Economist |access-date=October 11, 2026}}</ref>{{efn|This forecast uses the terms "Likely" and "Very Likely" the same way the other forecasts use the terms "Lean" and "Likely". To avoid confusion, and for the purposes of equivalency, the terms "Likely" and "Very Likely" will be changed to "Lean" and "Likely".}}
-! [[FiftyPlusOne|FPO]]<br />{{Small|Oct 11,<br />2026}}<ref name=":7">{{Cite web |title=2026 Congressional Forecast |url=https://fiftyplusone.news/forecast/senate/ |access-date=October 11, 2026 |website=FiftyPlusOne |language=en}}</ref>
+! ''[[The Economist|Econ]]''<br />{{small|Oct 12,<br />2026}}<ref name=":3">{{cite news |title=2026 Senate Forecast |url=https://www.economist.com/interactive/2026/us-midterms/prediction-model/senate/ |newspaper=The Economist |access-date=October 13, 2026}}</ref>{{efn|This forecast uses the terms "Likely" and "Very Likely" the same way the other forecasts use the terms "Lean" and "Likely". To avoid confusion, and for the purposes of equivalency, the terms "Likely" and "Very Likely" will be changed to "Lean" and "Likely".}}
+! [[FiftyPlusOne|FPO]]<br />{{Small|Oct 13,<br />2026}}<ref name=":7">{{Cite web |title=2026 Congressional Forecast |url=https://fiftyplusone.news/forecast/senate/ |access-date=October 13, 2026 |website=FiftyPlusOne |language=en}}</ref>
 ! [[Fox News|Fox]]<br />{{small|Oct 13,<br/>2026}}<ref>{{Cite news |last=Numa |first=Rémy |title=Fox News Power Rankings: As the House falls, the Senate stays in play |url=https://www.foxnews.com/politics/fox-news-power-rankings-house-falls-senate-stays-play |work=[[Fox News]] |date=October 13, 2026 |access-date=October 13, 2026}}</ref>
 ! ''[[Inside Elections|IE]]''<br />{{small|Oct 1,<br />2026}}<ref>{{Cite web |title=Senate Ratings |url=https://www.insideelections.com/ratings/senate |access-date=October 1, 2026 |website=Inside Elections}}</ref>
 ! [[RealClearPolitics|RCP]]<br />{{small|Oct 12,<br />2026}}<ref>{{Cite web |title=Battle for the Senate 2026 |url=https://www.realclearpolling.com/maps/senate/2026/toss-up |access-date=October 12, 2026 |website=realclearpolling.com |language=en}}</ref>
 ! [[Sabato's Crystal Ball|Sabato]]<br />{{small|Oct 6,<br />2026}}<ref name="sr">{{cite web |title=2026 Senate ratings |url=https://centerforpolitics.org/crystalball/2026-senate/ |website=Sabato's Crystal Ball |access-date=October 6, 2026}}</ref>
-! [[Silver Bulletin|Silver]]<br />{{Small|Oct 9,<br />2026}}<ref>{{Cite web |url=https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model |title=FLIPR 2026 midterm election forecast |last1=Silver |first1=Nate |author1-link=Nate Silver |last2=McKown-Dawson |first2=Eli |website=[[Silver Bulletin]] |via=[[Substack]] |date=October 9, 2026 |orig-date=August 11, 2026 |access-date=October 9, 2026 |url-access=subscription}}</ref>
+! [[Silver Bulletin|Silver]]<br />{{Small|Oct 13,<br />2026}}<ref>{{Cite web |url=https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model |title=FLIPR 2026 midterm election forecast |last1=Silver |first1=Nate |author1-link=Nate Silver |last2=McKown-Dawson |first2=Eli |website=[[Silver Bulletin]] |via=[[Substack]] |date=October 13, 2026 |orig-date=August 11, 2026 |access-date=October 13, 2026 |url-access=subscription}}</ref>
 ! [[Split Ticket (website)|ST]]<br />{{Small|Oct 7,<br />2026}}<ref>{{Cite magazine |title=Split Ticket 2026 Midterms Model |url=https://www.theargumentmag.com/p/split-ticket-2026-midterms-model |access-date=October 11, 2026 |magazine=[[The Argument (magazine)|The Argument]] |language=en}}</ref>
 |-
 ! [[2026 United States Senate election in Alabama|Alabama]]
@@ -1210,7 +1210,7 @@ See [[Template:USRaceRating]] for how to apply rating.
 <!--Cook-->      | {{USRaceRating|Tossup}}
 <!--DDHQ-->      | {{USRaceRating|Tossup}}
 <!--Economist--> | {{USRaceRating|Tossup}}
-<!--FPO-->       | {{USRaceRating|Lean|D|flip}}
+<!--FPO-->       | {{USRaceRating|Tossup}}
 <!--Fox-->       | {{USRaceRating|Tossup}}
 <!--IE-->        | {{USRaceRating|Tilt|R}}
 <!--RCP-->       | {{USRaceRating|Tossup}}
@@ -1267,7 +1267,7 @@ See [[Template:USRaceRating]] for how to apply rating.
 <!--Cook-->      |  | D/I - 47<br />R - 46<br />7 tossups
 <!--DDHQ-->      |  | D/I - 49<br />R - 47<br />4 tossups
 <!--Economist--> |  | D/I - 50<br />R - 46<br />4 tossups
-<!--FPO-->       |{{Party shading/Democratic}} | D/I - 52<br />R - 46<br />2 tossups
+<!--FPO-->       |{{Party shading/Democratic}} | D/I - 51<br />R - 46<br />3 tossups
 <!--Fox-->       |  | D/I - 47<br />R - 47<br />6 tossups
 <!--IE-->        |  | D/I - 47<br />R - 49<br />4 tossups
 <!--RCP-->       |  | D/I - 46<br />R - 46<br />8 tossups

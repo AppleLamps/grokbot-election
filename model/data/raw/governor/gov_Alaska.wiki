@@ -773,6 +773,8 @@ The candidates also diverged on the issue of [[Data center|data centers]]. Brons
 {{Endorsements box|
 title=Bernadette Wilson (R)
 |list=
+;Executive branch officials
+*[[Donald Trump]], [[president of the United States]] (2017–2021, 2025–present)<ref>{{cite news |last=Klecka |first=Joey |title=Trump endorses Wilson for Alaska governor |url=https://www.webcenterfairbanks.com/2026/10/13/trump-endorses-wilson-alaska-governor/ |work=Alaska's News Source |date=October 13, 2026 |access-date=October 13, 2026}}</ref>
 ;U.S. representatives
 *[[Nick Begich III]], [[AK-AL]] (2025–present)<ref name="Taylor"/>
 
@@ -784,7 +786,7 @@ title=Bernadette Wilson (R)
 |title=Declined to endorse
 |list=
 ;Statewide officials
-*[[Mike Dunleavy (politician)|Mike Dunleavy]], incumbent governor (2018-present)<ref name="Jostle">{{cite news |last1=Samuels |first1=Iris |title=‘Failed as a party’: Bronson criticizes Wilson and GOP leaders as Republicans jostle over strategy in Alaska governor’s race |url=https://www.adn.com/politics/2026/10/10/failed-as-a-party-bronson-criticizes-wilson-and-gop-leaders-as-republicans-jostle-over-strategy-in-alaska-governors-race/ |access-date=October 12, 2026 |work=[[Anchorage Daily News]] |date=October 10, 2026 |archive-url=https://web.archive.org/web/20261010201035/https://www.adn.com/politics/2026/10/10/failed-as-a-party-bronson-criticizes-wilson-and-gop-leaders-as-republicans-jostle-over-strategy-in-alaska-governors-race/ |archive-date=October 10, 2026 |url-status=live}}</ref>
+*[[Mike Dunleavy (politician)|Mike Dunleavy]], incumbent governor (2018–present)<ref name="Jostle">{{cite news |last1=Samuels |first1=Iris |title=‘Failed as a party’: Bronson criticizes Wilson and GOP leaders as Republicans jostle over strategy in Alaska governor’s race |url=https://www.adn.com/politics/2026/10/10/failed-as-a-party-bronson-criticizes-wilson-and-gop-leaders-as-republicans-jostle-over-strategy-in-alaska-governors-race/ |access-date=October 12, 2026 |work=[[Anchorage Daily News]] |date=October 10, 2026 |archive-url=https://web.archive.org/web/20261010201035/https://www.adn.com/politics/2026/10/10/failed-as-a-party-bronson-criticizes-wilson-and-gop-leaders-as-republicans-jostle-over-strategy-in-alaska-governors-race/ |archive-date=October 10, 2026 |url-status=live}}</ref>
 
 ;Party officials
 *Carmela Warfield, chair of the [[Alaska Republican Party]]<ref name="Jostle"/>

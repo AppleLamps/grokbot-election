@@ -66,7 +66,8 @@ MANUAL = {
 # key: state -> {column index in the overview Predictions table: replacement USRaceRating template args}
 # Silver Bulletin (col 6): the Iowa race page shows "Likely D (flip)" dated Oct 10-11, 2026, while the overview
 # column (now dated Oct 11) still says "Solid D (flip)". OH was removed on Oct 12 once the overview showed Lean D (flip).
-RATING_OVERRIDE = {"IA": {6: "Likely|D|flip"}}
+# IA was removed on Oct 13 (~21:15 ET) once the overview Silver column (dated Oct 13) showed Likely D (flip), matching the race page.
+RATING_OVERRIDE = {}
 
 def rating_score(tmpl):
     p = [x.strip().lower() for x in tmpl.split("|")]

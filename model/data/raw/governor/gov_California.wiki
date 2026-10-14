@@ -4114,7 +4114,11 @@ File:2026 California Gov Primary Chad Bianco counties.svg|Vote share of Bianco b
 *[[Gavin Newsom]], [[governor of California]] (2019–present)<ref>{{cite web |last1=Russell |first1=Lia |title=Gavin Newsom endorses Xavier Becerra for California governor |url=https://www.sacbee.com/news/politics-government/capitol-alert/article316068877.html |website=The Sacramento Bee |access-date=June 9, 2026}}</ref>
 
 ;Individuals
+*[[Rick Caruso]], founder of [[Caruso (company)|Caruso]] and runner-up for [[mayor of Los Angeles]] in [[2022 Los Angeles mayoral election|2022]]<ref name="MahanBecerra">{{Cite web|url=https://missionlocal.org/2026/07/silicon-valley-tech-billionaires-mahan-becerra/|title=After tough primary loss, some Silicon Valley donors regroup to back Becerra for governor|last=Pho|first=Brandon|date=July 21, 2026|access-date=October 13, 2026|website=Mission Local}}</ref>
+*[[Ron Conway]], co-founder of [[SV Angel]]<ref name="MahanBecerra"/>
+*[[Evan Spiegel]], CEO of [[Snap Inc.]]<ref name="MahanBecerra"/>
 * [[Tom Steyer]], businessman, environmental activist, and former gubernatorial candidate<ref>{{cite news |title=Steyer endorses Becerra after losing California gubernatorial primary |first=Sarah |last=Davis |work=The Hill |date=June 9, 2026 |access-date=June 9, 2026 |url=https://thehill.com/homenews/campaign/5917526-steyer-endorses-becerra-california/}}</ref>
+*[[Garry Tan]], CEO of [[Y Combinator]]<ref name="MahanBecerra"/>
 
 ;Newspapers
 * ''[[Santa Barbara Independent]]''<ref>{{cite web |title=The 'Santa Barbara Independent' Endorsements for the General Election, November 3, 2026 |url=https://www.independent.com/2026/10/07/the-santa-barbara-independent-endorsements-for-the-general-election-november-3-2026/ |website=The Santa Barbara Independent |access-date=October 8, 2026 |date=October 8, 2026}}</ref>
@@ -4140,6 +4144,9 @@ File:2026 California Gov Primary Chad Bianco counties.svg|Vote share of Bianco b
 
 ;Local officials
 *[[Andrew Gruel]], [[Huntington Beach, California|Huntington Beach city councilor]] from the at-large district (2025–present)<ref>{{cite web|last=Szabo|first=Matt|date=April 22, 2025|title=Steve Hilton launches California governor bid in Huntington Beach|url=https://www.latimes.com/socal/daily-pilot/news/story/2025-04-22/steve-hilton-launches-california-governor-bid-in-huntington-beach|work=[[Daily Pilot]]}}</ref>
+
+;News organizations
+*[[Pirate Wires]]<ref>{{Cite web|url=https://www.piratewires.com/p/a-san-francisco-voter-guide-for-people|title=A San Francisco Voter Guide for People Who Aren’t Insane|last1=Solana|first1=Mike|last2=Wizman|first2=Nicole|date=October 13, 2026|access-date=October 13, 2026|website=[[Pirate Wires]]}}</ref>
 
 ;Party branches
 *[[Placer County, California|Placer County Republican Party]]<ref>{{cite web |title=Endorsements |url=https://placergop.org/endorsements/ |website=Placer GOP |access-date=September 14, 2026}}</ref>
