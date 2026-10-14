@@ -561,42 +561,42 @@ If Abbott is re-elected and serves out his fourth term, he will become the state
 |{{party shading/Republican}} |'''Abbott +2.2%'''
 |-
 |[[Decision Desk HQ]]<ref>{{Cite web |title=2026 Texas Governor|url=https://votes.decisiondeskhq.com/races/2026-11-03/texas-governor-general-election/polling |access-date=September 27, 2026 |website=[[Decision Desk HQ]]}}</ref>
-|through October 8, 2026
-|October 13, 2026
-|{{party shading/Republican}} |'''47.4%'''
-|47.0%
-|5.6%
-|{{party shading/Republican}} |'''Abbott +0.4%'''
+|through October 11, 2026
+|October 14, 2026
+|{{party shading/Republican}} |'''47.8%'''
+|46.9%
+|5.3%
+|{{party shading/Republican}} |'''Abbott +0.9%'''
 |-
 |[[FiftyPlusOne]]<ref>{{Cite web |title=Texas General Governor Election |url=https://fiftyplusone.news/polls/governor/general/texas |website=[[FiftyPlusOne]] |access-date=September 27, 2026}}</ref>
-|through October 8, 2026
-|October 13, 2026
-|{{party shading/Republican}} |'''48.2%'''
-|46.2%
+|through October 11, 2026
+|October 14, 2026
+|{{party shading/Republican}} |'''48.3%'''
+|46.1%
 |5.6%
-|{{party shading/Republican}} |'''Abbott +2.0%'''
+|{{party shading/Republican}} |'''Abbott +2.2%'''
 |-
 |[[RealClearPolitics]]<ref name="RCP19may">{{cite web |title=2026 Texas Governor - Abbott vs. Hinojosa |url=https://www.realclearpolling.com/polls/governor/general/2026/texas/abbott-vs-hinojosa |access-date=October 1, 2026 |website=[[RealClearPolitics]]}}</ref>
-|September 15 – October 8, 2026
-|October 13, 2026
-|{{party shading/Republican}} |'''48.3%'''
-|46.6%
-|5.1%
-|{{party shading/Republican}} |'''Abbott +1.7%'''
+|September 15 – October 11, 2026
+|October 14, 2026
+|{{party shading/Republican}} |'''48.6%'''
+|46.4%
+|5.0%
+|{{party shading/Republican}} |'''Abbott +2.2%'''
 |-
 |''[[Silver Bulletin]]''<ref name="Silver"/>
-|through October 5, 2026
-|October 13, 2026
-|{{party shading/Republican}} |'''48.4%'''
-|46.8%
-|4.8%
-|{{party shading/Republican}} |'''Abbott +1.6%'''
+|through October 11, 2026
+|October 14, 2026
+|{{party shading/Republican}} |'''48.5%'''
+|46.2%
+|5.3%
+|{{party shading/Republican}} |'''Abbott +2.3%'''
 |-
 |colspan="3" |Average
-|{{party shading/Republican}} |'''48.3%'''
-|46.7%
-|5.0%
-|{{party shading/Republican}} |'''Abbott +1.6%'''
+|{{party shading/Republican}} |'''48.4%'''
+|46.5%
+|5.1%
+|{{party shading/Republican}} |'''Abbott +1.9%'''
 |}
 
 {| class="wikitable" style="font-size:90%;text-align:center;"

@@ -83,7 +83,7 @@ This is the first open gubernatorial election in Iowa since [[2006 Iowa gubernat
 ;Statewide officials
 *[[Chris Cournoyer]], [[lieutenant governor of Iowa]] (2024–present)<ref name="KCCI:FeenstraGarnersEndorsements"/>
 *[[Mike Naig]], [[Secretary of Agriculture of Iowa|Iowa secretary of agriculture]] (2018–present)<ref name="AgSec"/>
-*[[Matt Schultz]], former [[Secretary of State of Iowa|secretary of state of Iowa]] (2011–2015)<ref name="SFeen">{{cite web |title=Campaign Almanac: Iowa construction union backs Summit pipeline, Senate GOP eminent domain bill |url=https://www.thegazette.com/campaigns-elections/campaign-almanac-iowa-construction-union-backs-summit-pipeline-senate-gop-eminent-domain-bill/ |website=The Gazette |access-date=January 31, 2026 |language=en |date=January 30, 2026}}</ref>
+*[[Matt Schultz]], former [[Secretary of State of Iowa|Iowa secretary of state]] (2011–2015)<ref name="SFeen">{{cite web |title=Campaign Almanac: Iowa construction union backs Summit pipeline, Senate GOP eminent domain bill |url=https://www.thegazette.com/campaigns-elections/campaign-almanac-iowa-construction-union-backs-summit-pipeline-senate-gop-eminent-domain-bill/ |website=The Gazette |access-date=January 31, 2026 |language=en |date=January 30, 2026}}</ref>
 *[[Roby Smith]], [[Iowa State Treasurer|state treasurer of Iowa]] (2023–present)<ref name="Smith4Feenstra">{{cite news |url=https://www.thegazette.com/campaigns-elections/campaign-almanac-naig-will-seek-re-election-as-ag-secretary-not-run-for-iowa-governor/ |access-date=July 23, 2025 |title=Campaign Almanac: Naig will seek re-election as ag secretary, not run for Iowa governor |date=May 20, 2025 |work=[[The Gazette (Cedar Rapids, Iowa)|The Gazette]] |language=en}}</ref>
 
 ;State legislators
@@ -443,8 +443,8 @@ In early September, ''[[The Des Moines Register]]'' reported that the [[Black Ha
 
 ;Statewide officials
 *[[Brenna Bird]], [[Iowa Attorney General|attorney general of Iowa]] (2023–present)<ref name="Vance"/>
-*[[Mike Naig]], [[Secretary of Agriculture of Iowa|secretary of agriculture of Iowa]] (2018–present)<ref>{{cite web|date=September 4, 2026|title=Lahn. Neig Say Iowa Must Keep EPA Accountable On Promised Biofuel Reallocations |url=https://www.1380kcim.com/2026/09/04/lahn-naig-say-iowa-must-keep-epa-accountable-on-promised-biofuel-reallocations/ |website=1380KCMI|access-date=September 7, 2026}}</ref>
-*[[Paul Pate]], [[Secretary of State of Iowa|secretary of state of Iowa]] (1995–1999, 2015–present)<ref>{{cite web|date=August 24, 2026|title=Iowa State Fair straw poll results show Republican candidates ahead |url=https://www.kcci.com/article/iowa-state-fair-straw-poll-results-show-republican-candidates-ahead/73515382 |website=[[KCCI]]|access-date=August 25, 2026}}</ref>
+*[[Mike Naig]], [[Secretary of Agriculture of Iowa|Iowa secretary of agriculture]] (2018–present)<ref>{{cite web|date=September 4, 2026|title=Lahn. Neig Say Iowa Must Keep EPA Accountable On Promised Biofuel Reallocations |url=https://www.1380kcim.com/2026/09/04/lahn-naig-say-iowa-must-keep-epa-accountable-on-promised-biofuel-reallocations/ |website=1380KCMI|access-date=September 7, 2026}}</ref>
+*[[Paul Pate]], [[Secretary of State of Iowa|Iowa secretary of state]] (1995–1999, 2015–present)<ref>{{cite web|date=August 24, 2026|title=Iowa State Fair straw poll results show Republican candidates ahead |url=https://www.kcci.com/article/iowa-state-fair-straw-poll-results-show-republican-candidates-ahead/73515382 |website=[[KCCI]]|access-date=August 25, 2026}}</ref>
 *[[Kim Reynolds]], [[governor of Iowa]] (2017–present)<ref>{{cite web|last=Buerger|first=Mark|date=June 3, 2026|title=Zach Lahn wins Iowa GOP governor primary in tight race |url=https://www.kimt.com/news/zach-lahn-wins-iowa-gop-governor-primary-in-tight-race/article_2d1764af-541f-42da-beb9-db0e3a1e9d12.html|website=KIMT3 News|access-date=June 11, 2026}}</ref>
 *Adam Steen, former director of the Iowa Department of Administrative Services (2021–2025) and primary gubernatorial candidate<ref name="Lahn">{{cite web |last=Opsahl |first=Robin |url=https://iowacapitaldispatch.com/2026/06/13/republicans-call-for-unified-support-for-governor-nominee-zach-lahn-at-state-convention/|title=Republicans call for unified support for governor nominee Zach Lahn at state convention |date=June 13, 2026|access-date=July 3, 2026 |website=[[Iowa Capital Dispatch]]}}</ref>
 
@@ -589,42 +589,42 @@ In early September, ''[[The Des Moines Register]]'' reported that the [[Black Ha
 |{{party shading/Democratic}}|'''Sand +8.0%'''
 |-
 |[[Decision Desk HQ]]<ref>{{cite web |title=2026 Iowa Governor Polling |url=https://votes.decisiondeskhq.com/races/2026-11-03/iowa-governor-general-election/polling |website=[[Decision Desk HQ]] |access-date=8 October 2026}}</ref>
-|through October 6, 2026
-|October 9, 2026
-|42.8%
-|{{party shading/Democratic}}|'''52.0%'''
+|through October 12, 2026
+|October 14, 2026
+|43.1%
+|{{party shading/Democratic}}|'''51.7%'''
 |5.2%
-|{{party shading/Democratic}}|'''Sand +9.2%'''
-|-
-|[[FiftyPlusOne]]<ref name="FPOGeneral">{{cite web |title=General Governor Election |url=https://fiftyplusone.news/polls/governor/general/iowa |website=FiftyPlusOne |access-date=August 16, 2026}}</ref>
-|through October 6, 2026
-|October 9, 2026
-|42.8%
-|{{party shading/Democratic}}|'''51.4%'''
-|5.8%
 |{{party shading/Democratic}}|'''Sand +8.6%'''
 |-
+|[[FiftyPlusOne]]<ref name="FPOGeneral">{{cite web |title=General Governor Election |url=https://fiftyplusone.news/polls/governor/general/iowa |website=FiftyPlusOne |access-date=August 16, 2026}}</ref>
+|through October 12, 2026
+|October 14, 2026
+|43.1%
+|{{party shading/Democratic}}|'''51.1%'''
+|5.8%
+|{{party shading/Democratic}}|'''Sand +8.0%'''
+|-
 |[[RealClearPolitics]]<ref>{{Cite web|title=2026 Iowa Governor - Lahn vs. Sand|url=https://www.realclearpolling.com/polls/governor/general/2026/iowa/lahn-vs-sand|access-date=August 1, 2026|website=[[RealClearPolitics]]}}</ref>
-|September 3 – October 6, 2026
-|October 9, 2026
-|42.6%
-|{{party shading/Democratic}}|'''51.0%'''
-|6.4%
-|{{party shading/Democratic}}|'''Sand +8.4%'''
+|September 22 – October 12, 2026
+|October 14, 2026
+|43.2%
+|{{party shading/Democratic}}|'''51.7%'''
+|5.1%
+|{{party shading/Democratic}}|'''Sand +8.5%'''
 |-
 |''[[Silver Bulletin]]''<ref name="Silver"/>
 |through October 6, 2026
-|October 9, 2026
-|42.9%
+|October 14, 2026
+|43.0%
 |{{party shading/Democratic}}|'''51.5%'''
-|5.6%
-|{{party shading/Democratic}} |'''Sand +8.6%'''
+|5.5%
+|{{party shading/Democratic}} |'''Sand +8.5%'''
 |-
 |colspan="3"|'''Average'''
-|42.9%
+|43.1%
 |{{party shading/Democratic}}|'''51.4%'''
-|5.7%
-|{{party shading/Democratic}}|'''Sand +8.5%'''
+|5.5%
+|{{party shading/Democratic}}|'''Sand +8.3%'''
 |}
 {| class="wikitable" style="font-size:90%;text-align:center;"
 |- valign=bottom
@@ -637,13 +637,22 @@ In early September, ''[[The Des Moines Register]]'' reported that the [[Black Ha
 ! Other
 ! Undecided
 |-
+|style="text-align:left;"|[[YouGov]]<ref>{{cite web |title=Iowa General Election 2026 – Likely Voters |url=https://d3nkl3psvxxpe9.cloudfront.net/documents/ttw_ia_20261006_lv.pdf |website=[[YouGov]] |access-date=14 October 2026 |date=October 14, 2026}}</ref>
+|October 6–12, 2026
+|2,245 (LV)
+|±&nbsp;3.1%
+|44%
+|{{party shading/Democratic}}|'''50%'''
+|{{sdash}}
+|6%
+|-
 |style="text-align:left;"|[[Emerson College]]<ref>{{Cite web|date=October 9, 2026|title=Iowa 2026 Poll: U.S. Senate Race Tightens; Sand Maintains Edge for Governor |url=https://emersoncollegepolling.com/iowa-2026-poll-u-s-senate-race-tightens-sand-maintains-edge-for-governor/|website=[[Emerson College Polling]]|access-date=October 9, 2026}}</ref>{{efn-ua|Poll sponsored by [[Nexstar Media Group]]}}
 |October 5–6, 2026
 |650 (LV)
 |±&nbsp;3.8%
 |45%
 |{{party shading/Democratic}} |'''49%'''
-|—
+|2%{{efn|Thomas Laehn (L) with 2%}}
 |6%
 |-
 | style="text-align:left;|SSRS<ref>{{cite web |title=CNN Iowa Poll Conducted by SSRS |url=https://www.documentcloud.org/documents/28729018-cnn-iowa-poll-conducted-by-ssrs/ |work=SSRS |date=October 8, 2026 |access-date=October 8, 2026 |via=[[DocumentCloud]]}}</ref>{{efn-ua|Poll conducted for [[CNN]]}}
@@ -653,7 +662,7 @@ In early September, ''[[The Des Moines Register]]'' reported that the [[Black Ha
 |42%
 |{{party shading/Democratic}} |'''51%'''
 |7%{{efn|"Neither" with 5%; "Other" with 2%}}
-|—
+|{{sdash}}
 |-
 |style="text-align:left;"|[[Suffolk University]]<ref>{{cite web |title=Suffolk University Poll: In Iowa, Turek Overtakes Hinson in Senate Race While Sand Opens Up a Double-Digit Lead in Race for Governor - Statewide Marginals |url=https://www.suffolk.edu/-/media/suffolk/documents/academics/research-at-suffolk/suprc/polls/other-states/2026/10_7_2026_iowa_statewide_marginals.pdf?la=en&hash=2D72AC4AC373F8C2FA39466A7E5CD59D2370B6F9|website=[[Suffolk University]] |access-date=October 7, 2026 |date=October 7, 2026}}</ref>
 |October 1–4, 2026

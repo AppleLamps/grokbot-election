@@ -41,7 +41,7 @@ The following are the latest published ratings for competitive seats.
 ![[Sabato's Crystal Ball|Sabato]]<br>{{small|Oct. 8,<br>2026}}<ref name=":0">{{cite web |title=2026 House Ratings |url=https://centerforpolitics.org/crystalball/2026-house/ |website=Sabato's Crystal Ball |access-date=December 10, 2025}}</ref>
 ![[The Economist|Econ.]]<br>{{small|Oct. 7,<br>2026}}<ref>{{cite web |title=US Midterms 2026 |url=https://www.economist.com/interactive/2026/us-midterms/prediction-model/house?itm_source=parsely-api |access-date=October 7, 2026 |website=[[The Economist]] |language=en-US}}</ref>{{efn|This forecast uses the terms "Likely" and "Very Likely" the same way the other forecasts use the terms "Lean" and "Likely". To avoid confusion, and for the purposes of equivalency, the terms "Likely" and "Very Likely" will be changed to "Lean" and "Likely" for the purposes of this page. Also, "tossup" is labeled "uncertain", but for the purposes of this page, it will be labelled "tossup".}}
 ![[Split Ticket (website)|ST]]<br />{{small|Oct. 8,<br/>2026}}<ref>{{cite web |title=Split Ticket 2026 Midterms Model |url=https://www.theargumentmag.com/p/split-ticket-2026-midterms-model |website=www.theargumentmag.com |publisher=The Argument |access-date=October 8, 2026 |language=en}}</ref>
-![[Decision Desk HQ|DDHQ]]<br />{{small|Oct. 8,<br/>2026}}<ref>{{cite web |title=2026 House Ratings|url=https://votes.decisiondeskhq.com/forecast/2026/house |website=votes.decisiondeskhq.com |publisher=[[Decision Desk HQ]]|access-date=October 8, 2026 |language=en}}
+![[Decision Desk HQ|DDHQ]]<br />{{small|Oct. 14,<br/>2026}}<ref>{{cite web |title=2026 House Ratings|url=https://votes.decisiondeskhq.com/forecast/2026/house |website=votes.decisiondeskhq.com |publisher=[[Decision Desk HQ]]|access-date=October 14, 2026 |language=en}}
 </ref>
 ![[FiftyPlusOne|FPO]]<br />{{Small|Oct. 8,<br />2026}}<ref>{{Cite web |title=2026 Congressional Forecast |url=https://fiftyplusone.news/forecast/house/ |access-date=October 8, 2026 |website=FiftyPlusOne|language=en}}</ref>
 ![[Fox News|Fox]]<br />{{Small|Oct. 13,<br />2026}}<ref>{{Cite web |last=Numa |first=Rémy |date=2026-10-13 |title=Fox News Power Rankings: As the House falls, the Senate stays in play |url=https://www.foxnews.com/politics/fox-news-power-rankings-house-falls-senate-stays-play |access-date=2026-10-13 |website=Fox News |publisher=Fox News |language=en-US}}</ref>
@@ -313,7 +313,7 @@ The following are the latest published ratings for competitive seats.
 |{{USRaceRating|Lean|R}}
 |{{USRaceRating|Lean|R}}
 |{{USRaceRating|Likely|R}}
-|{{USRaceRating|Lean|D|Flip}}
+|{{USRaceRating|Tossup}}
 |{{USRaceRating|Lean|R}}
 |{{USRaceRating|Lean|R}}
 |{{USRaceRating|Lean|R}}
@@ -567,7 +567,7 @@ The following are the latest published ratings for competitive seats.
 |{{USRaceRating|Tossup}}
 |{{USRaceRating|Tossup}}
 |{{USRaceRating|Lean|R|Flip}}
-|{{USRaceRating|Lean|R|Flip}}
+|{{USRaceRating|Tossup}}
 |{{USRaceRating|Lean|D}}
 |{{USRaceRating|Tossup}}
 |{{USRaceRating|Lean|D}}
@@ -822,7 +822,7 @@ The following are the latest published ratings for competitive seats.
 |{{USRaceRating|Lean|R}}
 |{{USRaceRating|Tossup}}
 |{{USRaceRating|Lean|R}}
-|{{USRaceRating|Likely|R}}
+|{{USRaceRating|Lean|R}}
 |{{USRaceRating|Lean|R}}
 |{{USRaceRating|Lean|R}}
 |{{USRaceRating|Likely|R}}
@@ -957,7 +957,7 @@ The following are the latest published ratings for competitive seats.
 |{{USRaceRating|Likely|R}}
 |{{USRaceRating|Lean|R}}
 |{{USRaceRating|Likely|R}}
-|{{USRaceRating|Likely|R}}
+|{{USRaceRating|Lean|R}}
 |{{USRaceRating|Lean|R}}
 |{{USRaceRating|Likely|R}}
 |{{USRaceRating|Lean|R}}
@@ -1317,7 +1317,7 @@ The following are the latest published ratings for competitive seats.
 |{{USRaceRating|Safe|R}}
 |{{USRaceRating|Safe|R}}
 |{{USRaceRating|Safe|R}}
-|{{USRaceRating|Likely|R}}
+|{{USRaceRating|Safe|R}}
 |{{USRaceRating|Safe|R}}
 |{{USRaceRating|Solid|R}}
 |{{USRaceRating|Solid|R}}
@@ -1498,7 +1498,7 @@ The following are the latest published ratings for competitive seats.
 |{{USRaceRating|Likely|D}}
 |{{USRaceRating|Safe|D}}
 |{{USRaceRating|Likely|D}}
-|{{USRaceRating|Safe|D}}
+|{{USRaceRating|Likely|D}}
 |{{USRaceRating|Lean|D}}
 |{{USRaceRating|Likely|D}}
 |{{USRaceRating|Likely|D}}
@@ -1887,7 +1887,7 @@ The following are the latest published ratings for competitive seats.
 |{{USRaceRating|Safe|R}}
 |{{USRaceRating|Safe|R}}
 |{{USRaceRating|Safe|R}}
-|{{USRaceRating|Likely|R}}
+|{{USRaceRating|Safe|R}}
 |{{USRaceRating|Safe|R}}
 |{{USRaceRating|Solid|R}}
 |{{USRaceRating|Solid|R}}
@@ -1992,7 +1992,7 @@ The following are the latest published ratings for competitive seats.
 |{{USRaceRating|Safe|R}}
 |{{USRaceRating|Safe|R}}
 |{{USRaceRating|Safe|R}}
-|{{USRaceRating|Likely|R}}
+|{{USRaceRating|Safe|R}}
 |{{USRaceRating|Safe|R}}
 |{{USRaceRating|Solid|R}}
 |{{USRaceRating|Solid|R}}

@@ -526,6 +526,8 @@ To move forward to the primary, candidates had to petition onto the ballot or ac
 {{Endorsements box
 |title=Phil Weiser (D)
 |list=
+;U.S. representatives
+*[[Ken Buck]], former [[Colorado's 4th congressional district|CO-04]] (2015–2024) ''(Republican)''<ref>{{Cite web|url=https://www.coloradopolitics.com/2026/10/14/republican-ken-buck-endorses-phil-weiser-in-colorado-governors-race-2/|title=Republican Ken Buck endorses Phil Weiser in Colorado governor’s race|last=Luning|first=Ernest|date=October 14, 2026|access-date=October 14, 2026|website=Colorado Politics}}</ref>
 ;Organizations
 *[[Everytown for Gun Safety]]<ref>{{cite web |title=Everytown for Gun Safety Action Fund Announces New Round of Statewide Endorsements, Backing 40 Statewide Candidates in 15 States |url=https://momsdemandaction.org/press/everytown-for-gun-safety-action-fund-announces-new-round-of-statewide-endorsements-backing-40-statewide-candidates-in-15-states/ |website=Moms Demand Action |access-date=September 15, 2026 |language=en-us}}</ref>
 }}

@@ -760,41 +760,41 @@ On June 2, the Laehn campaign submitted nearly 10,000 signatures to the Iowa Sec
 |{{party shading/Democratic}} |'''Turek +1.6%'''
 |-
 |[[Decision Desk HQ]]<ref>{{Cite web |title=2026 Iowa US Senate |url=https://votes.decisiondeskhq.com/races/2026-11-03/iowa-us-senate-general-election/polling |access-date=2026-09-03 |website=[[Decision Desk HQ]]}}</ref>
-|through October 6, 2026
-|October 9, 2026
-|45.2%
-|{{party shading/Democratic}}|'''46.2%'''
-|8.8%
-|{{party shading/Democratic}} |'''Turek +1.0%'''
-|-
-|[[FiftyPlusOne]]<ref>{{Cite web |title=FiftyPlusOne - Iowa General Senate Election Polls and Average for the 2026 General Election |url=https://fiftyplusone.news/polls/senate/general/iowa |access-date=2026-08-15 |website=fiftyplusone.news}}</ref>
-|through October 6, 2026
-|October 9, 2026
+|through October 12, 2026
+|October 14, 2026
 |45.6%
-|{{party shading/Democratic}}|'''46.4%'''
-|8.0%
+|{{party shading/Democratic}}|'''46.5%'''
+|7.9%
 |{{party shading/Democratic}} |'''Turek +0.9%'''
 |-
+|[[FiftyPlusOne]]<ref>{{Cite web |title=FiftyPlusOne - Iowa General Senate Election Polls and Average for the 2026 General Election |url=https://fiftyplusone.news/polls/senate/general/iowa |access-date=2026-08-15 |website=fiftyplusone.news}}</ref>
+|through October 12, 2026
+|October 14, 2026
+|45.9%
+|{{party shading/Democratic}}|'''46.6%'''
+|7.5%
+|{{party shading/Democratic}} |'''Turek +0.7%'''
+|-
 |[[RealClearPolitics]]<ref>{{Cite web|title=2026 Iowa Senate - Hinson vs Turek|url=https://www.realclearpolling.com/polls/senate/general/2026/iowa/turek-vs-hinson|access-date=August 6, 2026|website=[[RealClearPolitics]]}}</ref>
-|September 9 – October 6, 2026
-|October 9, 2026
-|45.3%
-|{{party shading/Democratic}}|'''45.8%'''
-|8.9%
-|{{party shading/Democratic}}|'''Turek +0.5%'''
+|September 22 – October 12, 2026
+|October 14, 2026
+|45.9%
+|{{party shading/Democratic}}|'''46.6%'''
+|7.5%
+|{{party shading/Democratic}}|'''Turek +0.7%'''
 |-
 |''[[Silver Bulletin]]''<ref name="Silver"/>
 |through October 6, 2026
-|October 9, 2026
-|45.1%
-|{{party shading/Democratic}}|'''46.6%'''
-|8.3%
+|October 14, 2026
+|45.2%
+|{{party shading/Democratic}}|'''46.7%'''
+|8.1%
 |{{party shading/Democratic}}|'''Turek +1.5%'''
 |-
 |colspan="3"|'''Average'''
-|45.5%
-|{{party shading/Democratic}}|'''46.6%'''
-|7.8%
+|45.8%
+|{{party shading/Democratic}}|'''46.9%'''
+|7.3%
 |{{party shading/Democratic}}|'''Turek +1.1%'''
 |}
 
@@ -808,6 +808,15 @@ On June 2, the Laehn campaign submitted nearly 10,000 signatures to the Iowa Sec
 ! style="width:100px;"| Josh<br />Turek (D)
 ! Other
 ! Undecided
+|-
+|style="text-align:left;"|[[YouGov]]<ref>{{cite web |title=Iowa General Election 2026 – Likely Voters |url=https://d3nkl3psvxxpe9.cloudfront.net/documents/ttw_ia_20261006_lv.pdf |website=[[YouGov]] |access-date=14 October 2026 |date=October 14, 2026}}</ref>
+|October 6–12, 2026
+|2,245 (LV)
+|±&nbsp;3.1%
+|46%
+|{{party shading/Democratic}}|'''47%'''
+|2%
+|4%
 |-
 |style="text-align:left;"|[[Emerson College]]<ref>{{Cite web|date=September 3, 2026|title=Iowa 2026 Poll: U.S. Senate Race Tightens; Sand Maintains Edge for Governor |url=https://emersoncollegepolling.com/iowa-2026-poll-u-s-senate-race-tightens-sand-maintains-edge-for-governor/|website=[[Emerson College Polling]]|access-date=October 9, 2026}}</ref>{{efn-ua|Poll sponsored by [[Nexstar Media Group]]}}
 |October 5–6, 2026

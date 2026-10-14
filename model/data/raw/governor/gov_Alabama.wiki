@@ -128,7 +128,7 @@ The '''2026 Alabama gubernatorial election''' will be held on November 3, 2026, 
 |$3,666,061
 |$9,308,797
 |-
-! colspan="6" |<small>Source: Alabama FCPA<ref name="Finance">{{cite web |title=Political Race Search |url=https://fcpa.alabamavotes.gov/page.request.do?page=page.acfPublicPoliticalRaceSearch |website=Alabama FCPA |access-date=October 5, 2026}}</ref></small>
+! colspan="6" |<small>Source: Alabama FCPA<ref name="Finance">{{cite web |title=Political Race Search |url=https://fcpa.alabamavotes.gov/page.request.do?page=page.acfPublicPoliticalRaceSearch |website=Alabama FCPA |access-date=October 14, 2026}}</ref></small>
 |}
 
 ===Polling===
@@ -469,7 +469,7 @@ Jones has expressed support for a state [[lottery]] in Alabama.<ref>{{cite web |
 ===Fundraising===
 {| class="wikitable sortable"
 |-
-! colspan=6 |Campaign finance reports as of September 30, 2026
+! colspan=6 |Campaign finance reports as of October 9, 2026
 |- style="text-align:center;"
 !Candidate
 !Raised
@@ -478,16 +478,16 @@ Jones has expressed support for a state [[lottery]] in Alabama.<ref>{{cite web |
 !Cash on hand
 |-
 |{{party shading/Republican}}|Tommy Tuberville (R)
-|$15,668,398
+|$15,921,275
 |$152,329
-|$9,259,733
-|$6,560,994
+|$12,166,084
+|$3,907,520
 |-
 |{{party shading/Democratic}}|Doug Jones (D)
-|$5,873,022
+|$6,131,580
 |$0
-|$3,695,172
-|$2,178,350
+|$4,973,748
+|$1,158,331
 |-
 ! colspan="6" |<small>Source: Alabama FCPA<ref name="Finance"/></small>
 |}

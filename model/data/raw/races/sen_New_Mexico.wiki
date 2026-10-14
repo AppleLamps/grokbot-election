@@ -265,7 +265,15 @@ Christopher Heuvel, the only Republican to file for the race, was disqualified f
 ! style="width:100px;" |Larry<br/>Marker (R)
 ! Undecided
 |-
-|style="text-align:left;"|[[SurveyUSA]]<ref>{{cite web |title=Deb Haaland Leads Gregg Hull By 6 Points in New Mexico Governor Race, While Ben Ray Luján Appears to Have Easy Path to 2nd Term in Senate |url=https://results.surveyusa.com/client/PollReport.aspx?g=6e6ded19-6ad8-4379-8fa9-6a15dfa99052 |publisher=SurveyUSA |access-date=October 5, 2026 |archive-url=https://web.archive.org/web/20261005222847/https://results.surveyusa.com/client/PollReport.aspx?g=6e6ded19-6ad8-4379-8fa9-6a15dfa99052 |archive-date=October 5, 2026 |date=October 4, 2026 |url-status=live}}</ref>{{efn-ua|Poll sponsored by [[KOB-TV]]}}
+|style="text-align:left;"|Research & Polling Inc.<ref>{{cite web |last1=Boyd |first1=Dan |title=Journal Poll: Ben Ray Luján keeps comfortable lead in reelection bid for US Senate seat |url=https://www.abqjournal.com/news/journal-poll-ben-ray-lujan-keeps-comfortable-lead-in-reelection-bid-for-us-senate-seat/3141065 |website=[[Albuquerque Journal]] |access-date=October 14, 2026 |date=October 14, 2026}}</ref>{{Efn-ua|name=ABQJ}}
+|October 1–9, 2026
+|1,125 (LV)
+|±&nbsp;2.9%
+|{{party shading/Democratic}}|'''53%'''
+|37%
+|10%
+|-
+|style="text-align:left;"|[[SurveyUSA]]<ref>{{cite web |title=Deb Haaland Leads Gregg Hull By 6 Points in New Mexico Governor Race, While Ben Ray Luján Appears to Have Easy Path to 2nd Term in Senate |url=https://results.surveyusa.com/client/PollReport.aspx?g=6e6ded19-6ad8-4379-8fa9-6a15dfa99052 |publisher=[[SurveyUSA]] |access-date=October 5, 2026 |archive-url=https://web.archive.org/web/20261005222847/https://results.surveyusa.com/client/PollReport.aspx?g=6e6ded19-6ad8-4379-8fa9-6a15dfa99052 |archive-date=October 5, 2026 |date=October 4, 2026 |url-status=live}}</ref>{{efn-ua|Poll sponsored by [[KOB-TV]]}}
 |September 25–30, 2026
 |567 (LV)
 |±&nbsp;5.1%
@@ -273,7 +281,7 @@ Christopher Heuvel, the only Republican to file for the race, was disqualified f
 |36%
 |10%
 |-
-|style="text-align:left;"|Research & Polling Inc.<ref>{{cite web |last1=Boyd |first1=Dan |title=Journal Poll: US Sen. Ben Ray Luján has comfortable lead in reelection campaign |url=https://www.abqjournal.com/news/journal-poll-us-sen-ben-ray-lujan-has-comfortable-lead-in-reelection-campaign/3112569 |website=[[The Albuquerque Journal]] |access-date=September 1, 2026 |date=September 1, 2026}}</ref>
+|style="text-align:left;"|Research & Polling Inc.<ref>{{cite web |last1=Boyd |first1=Dan |title=Journal Poll: US Sen. Ben Ray Luján has comfortable lead in reelection campaign |url=https://www.abqjournal.com/news/journal-poll-us-sen-ben-ray-lujan-has-comfortable-lead-in-reelection-campaign/3112569 |website=[[Albuquerque Journal]] |access-date=September 1, 2026 |date=September 1, 2026}}</ref>{{Efn-ua|name=ABQJ}}
 |August 21–28, 2026
 |516 (LV)
 |±&nbsp;4.3%

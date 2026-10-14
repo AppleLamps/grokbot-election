@@ -76,7 +76,7 @@ CO-1,CO,29,D,0,0,0,Diana DeGette,
 CO-2,CO,20,D,1,0,0,Joe Neguse,
 CO-3,CO,-5,R,1,0,0,Jeff Hurd,-1.2
 CO-4,CO,-9,R,1,0,0,Lauren Boebert,-1.6
-CO-5,CO,-5,R,1,0,0,Jeff Crank,-0.85
+CO-5,CO,-5,R,1,0,0,Jeff Crank,-0.95
 CO-6,CO,11,D,1,0,0,Jason Crow,
 CO-7,CO,8,D,1,0,0,Brittany Pettersen,
 CO-8,CO,0,R,1,0,0,Gabe Evans,1.0
@@ -107,7 +107,7 @@ FL-18,FL,-8,R,1,0,0,Scott Franklin,-2.8
 FL-19,FL,-14,R,0,0,0,Byron Donalds,
 FL-20,FL,20,,0,0,1,,
 FL-21,FL,-7,R,1,0,0,Brian Mast,-2.8
-FL-22,FL,-4,,0,1,0,,-0.05
+FL-22,FL,-4,,0,1,0,,0.05
 FL-23,FL,9,D,1,0,0,Lois Frankel,
 FL-24,FL,22,D,0,0,0,Frederica Wilson,
 FL-25,FL,-3,D,1,0,0,Jared Moskowitz,1.0
@@ -171,7 +171,7 @@ KY-2,KY,-20,R,1,0,0,Brett Guthrie,
 KY-3,KY,10,D,1,0,0,Morgan McGarvey,
 KY-4,KY,-18,R,0,0,0,Thomas Massie,
 KY-5,KY,-32,R,1,0,0,Hal Rogers,
-KY-6,KY,-7,R,0,0,0,Andy Barr,-1.1
+KY-6,KY,-7,R,0,0,0,Andy Barr,-1.0
 LA-1,LA,-20,R,1,0,0,Steve Scalise,
 LA-2,LA,25,D,1,0,0,Troy Carter,
 LA-3,LA,-18,R,1,0,0,Clay Higgins,
@@ -210,7 +210,7 @@ MI-10,MI,-3,R,0,0,0,John James,0.55
 MI-11,MI,9,D,0,0,0,Haley Stevens,
 MI-12,MI,21,D,1,0,0,Rashida Tlaib,
 MI-13,MI,22,D,0,0,0,Shri Thanedar,
-MN-1,MN,-6,R,1,0,0,Brad Finstad,-1.6
+MN-1,MN,-6,R,1,0,0,Brad Finstad,-1.5
 MN-2,MN,3,D,0,0,0,Angie Craig,2.5
 MN-3,MN,11,D,1,0,0,Kelly Morrison,
 MN-4,MN,18,D,1,0,0,Betty McCollum,
@@ -278,7 +278,7 @@ NY-19,NY,1,D,1,0,0,Josh Riley,2.6
 NY-20,NY,8,D,1,0,0,Paul Tonko,
 NY-21,NY,-10,R,0,0,0,Elise Stefanik,-2.0
 NY-22,NY,4,D,1,0,0,John Mannion,
-NY-23,NY,-10,R,1,0,0,Nick Langworthy,-2.9
+NY-23,NY,-10,R,1,0,0,Nick Langworthy,-3.0
 NY-24,NY,-11,R,1,0,0,Claudia Tenney,
 NY-25,NY,10,D,1,0,0,Joseph Morelle,
 NY-26,NY,11,D,1,0,0,Tim Kennedy,
@@ -297,7 +297,7 @@ NC-12,NC,24,D,1,0,0,Alma Adams,
 NC-13,NC,-8,R,1,0,0,Brad Knott,-2.5
 NC-14,NC,-8,R,1,0,0,Tim Moore,-2.6
 ND-AL,ND,-18,R,1,0,0,Julie Fedorchak,
-OH-1,OH,-1,D,1,0,0,Greg Landsman,1.75
+OH-1,OH,-1,D,1,0,0,Greg Landsman,1.65
 OH-2,OH,-21,R,1,0,0,David Taylor,
 OH-3,OH,21,D,1,0,0,Joyce Beatty,
 OH-4,OH,-21,R,1,0,0,Jim Jordan,
@@ -375,7 +375,7 @@ TX-13,TX,-23,R,1,0,0,Ronny Jackson,
 TX-14,TX,-12,R,1,0,0,Randy Weber,
 TX-15,TX,-7,R,1,0,0,Monica De La Cruz,-0.05
 TX-16,TX,11,D,1,0,0,Veronica Escobar,
-TX-17,TX,-10,R,1,0,0,Pete Sessions,-2.9
+TX-17,TX,-10,R,1,0,0,Pete Sessions,-3.0
 TX-18,TX,29,D,1,0,0,Christian Menefee,
 TX-19,TX,-25,R,0,0,0,Jodey Arrington,
 TX-20,TX,16,D,1,0,0,Joaquin Castro,
@@ -389,7 +389,7 @@ TX-27,TX,-10,R,1,0,0,Michael Cloud,-2.9
 TX-28,TX,-3,D,1,0,0,Henry Cuellar,1.45
 TX-29,TX,17,D,1,0,0,Sylvia Garcia,
 TX-30,TX,25,,0,1,0,,
-TX-31,TX,-11,R,1,0,0,John Carter,-2.9
+TX-31,TX,-11,R,1,0,0,John Carter,-3.0
 TX-32,TX,-8,,0,1,0,,-2.5
 TX-33,TX,18,D,0,0,0,Jasmine Crockett,
 TX-34,TX,-3,D,1,0,0,Vicente Gonzalez,0.9
