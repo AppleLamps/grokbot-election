@@ -1370,7 +1370,7 @@ A debate featuring eight of the declared candidates, hosted by [[News Center Mai
 !3<ref name="GenDebates"/>
 | style="white-space:nowrap;" | October 13, 2026
 | style="white-space:nowrap;" | [[WABI-TV|WABI]]<br/>[[WAGM-TV|WAGM]]
-| style="white-space:nowrap;" | Jon Small</br>Kathy O'Mara
+| style="white-space:nowrap;" | Jon Small<br />Kathy O'Mara
 | [https://www.youtube.com/watch?v=9cXhqabYBF4 YouTube]
 | {{D-P|'''P'''}}
 | {{D-P|'''P'''}}
@@ -1475,6 +1475,15 @@ A debate featuring eight of the declared candidates, hosted by [[News Center Mai
 ! style="width:100px;"| Troy<br />Jackson (D)
 ! Other
 ! Undecided
+|-
+|style="text-align:left;" |[[Suffolk University]]<ref>{{Cite web |url=https://www.suffolk.edu/-/media/suffolk/documents/academics/research-at-suffolk/suprc/polls/other-states/2026/10_14_2026_maine_press_release.pdf |title=Suffolk University Statewide and Bellwether Polls Show Democrat Troy Jackson Holds Razor-Thin Edge in Statistically Tied Maine Senate Race |work=[[Suffolk University]] |date=October 14, 2026 |access-date=October 14, 2026}}</ref>
+|October 8–11, 2026
+|500 (LV)
+|±{{nbsp}}4.4%
+|47%
+|{{party shading/Democratic}}|'''49%'''
+|{{sdash}}
+|4%
 |-
 |style="text-align:left;" |[[Rasmussen Reports]] (R)<ref>{{Cite web |url=https://www.rasmussenreports.com/public_content/politics/elections/election_2026/election_2026_maine_senate |title=Election 2026: Maine Senate |work=[[Rasmussen Reports]] |date=October 9, 2026 |access-date=October 9, 2026}}</ref>
 |October 5–8, 2026

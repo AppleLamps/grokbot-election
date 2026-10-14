@@ -103,7 +103,6 @@ This is the first open gubernatorial election in Iowa since [[2006 Iowa gubernat
 
 ;Individuals
 *[[Rob Schneider]], actor and comedian ''(Independent)''<ref>{{cite web |last1=Barton |first1=Tom |title=Former SNL cast member headed to Iowa to campaign for Zach Lahn |url=https://www.thegazette.com/news/elections/former-snl-cast-member-headed-to-iowa-to-campaign-for-zach-lahn/article_a20f24a4-a801-4634-8c07-ac68dc63aa9b.html |website=The Gazette |access-date=May 6, 2026 |language=en |date=May 6, 2026}}</ref>
-*[[James Fishback]], Investor, politician, and former 2026 Florida gubernatorial candidate ([[Republican_Party_(United_States)|Republican]])
 
 ;Organizations
 *[[MAHA Action]]<ref>{{cite web |last1=Goldman |first1=Maya |title=MAHA group begins state election endorsements |url=https://www.axios.com/2025/12/08/maha-group-state-election-endorsements |website=Axios |access-date=December 9, 2025 |language=en |date=December 8, 2025}}</ref>
@@ -399,8 +398,8 @@ In early September, ''[[The Des Moines Register]]'' reported that the [[Black Ha
 |October 13,  2026
 |-
 |align=left|[[Decision Desk HQ]]<ref name="DDHQ">{{cite web |title=2026 Governor Forecast |url=https://votes.decisiondeskhq.com/forecast/2026/governor |website=[[Decision Desk HQ]] |access-date=October 11, 2026}}</ref>
-|{{USRaceRating|Lean|D|Flip}}
-|October 11, 2026
+|{{USRaceRating|Likely|D|Flip}}
+|October 14, 2026
 |-
 |align=left|[[Fox News]]<ref>{{Cite news |last=Numa |first=Rémy |title=Fox News Power Rankings: The biggest surprises come after October |url=https://www.foxnews.com/politics/fox-news-power-rankings-the-biggest-surprises-come-after-october |work=[[Fox News]] |date=October 6, 2026 |access-date=October 11, 2026}}</ref>
 |{{USRaceRating|Lean|D|Flip}}
@@ -456,10 +455,8 @@ In early September, ''[[The Des Moines Register]]'' reported that the [[Black Ha
 
 ;Individuals
 *[[Steve Deace]], conservative talk show host<ref name="Gain"/>
-*[[James Fishback]], conservative political activist<ref>https://www.instagram.com/p/DedJEYyCSQc/</ref>
 *[[Benny Johnson (columnist)|Benny Johnson]], conservative commentator<ref>{{cite web |title=Zach Lahn invokes Charlie Kirk at Iowa City Rally |url=https://www.thegazette.com/news/elections/zach-lahn-invokes-charlie-kirk-attacks-political-establishment-at-iowa-city-rally/article_5e1bcfaa-cd5f-4e06-a0e0-b66be0adfd65.html |website=[[The Gazette (Cedar Rapids, Iowa)|The Gazette]] |date=September 11, 2026 |access-date=September 12, 2026}}</ref>
 *[[Erika Kirk]], CEO of [[Turning Point USA]]<ref>{{cite web|last=Brennan|first=Paul|date=June 3, 2026|title=Lahn beats Trump-backed Feenstra by less than 1% of the vote; Turek scores landslide victory over Wahls |url=https://littlevillagemag.com/lahn-beats-feenstra-turek-trounces-wahls/ |website=[[Little Village (magazine)|Little Village]]|access-date=September 9, 2026}}</ref>
-*Chris McGowen, economic development executive<ref name="Vance"/>
 *[[Bob Vander Plaats]], president and CEO of [[The Family Leader]]<ref name="Who" />
 
 ;Organizations
@@ -483,7 +480,7 @@ In early September, ''[[The Des Moines Register]]'' reported that the [[Black Ha
 ;Statewide officials
 *[[Andy Beshear]], [[governor of Kentucky]] (2019–present)<ref name="Beshear">{{cite web |last=Opsahl |first=Robin |url=https://iowacapitaldispatch.com/2026/06/07/kentucky-gov-andy-beshear-rallies-with-iowa-governor-candidate-rob-sand/|title=Kentucky Gov. Andy Beshear rallies with Iowa governor candidate Rob Sand |date=July 7, 2026|access-date=July 25, 2026 |website=[[Iowa Capital Dispatch]]}}</ref>
 *[[Patty Judge]], former [[lieutenant governor of Iowa]] (2007–2011)<ref name="SandAGLeaders"/>
-*[[Laura Kelly]], [[governor of Kansas]] (2019-present)<ref name="TweetKelly">{{Cite tweet |user=LauraKellyKS |author=Laura Kelly |number=2107516447039815738 |date=October 6, 2026 |title=I care deeply about all of my constituents, even those running for office two states away. My message to Kansan Zach Lahn: |access-date=October 6, 2026 |link=https://x.com/LauraKellyKS/status/2107516447039815738}}</ref>
+*[[Laura Kelly]], [[List of governors of Kansas|governor of Kansas]] (2019–present)<ref>{{cite web |last=Opsahl |first=Robin |url=https://iowacapitaldispatch.com/2026/10/08/kansas-gov-laura-kelly-rallies-iowa-educators-for-sands-campaign/|title=Kansas Gov. Laura Kelly rallies Iowa educators for Sand's campeign |date=October 8, 2026|access-date=October 14, 2026 |website=[[Iowa Capital Dispatch]]}}</ref>
 *[[Tom Miller (politician)|Tom Miller]], former [[Iowa Attorney General|attorney general of Iowa]] (1979–1991, 1995–2023)<ref>{{cite web|url=https://robsand.com/news/rob-sand-announces-coalition-of-law-enforcement-and-public-safety-leaders-supporting-his-campaign-for-governor/|title=Rob Sand Announces Coalition of Law Enforcement and Public Safety Leaders Supporting His Campaign for Governor|access-date=September 15, 2026}}</ref>
 *[[Gavin Newsom]], [[governor of California]] (2019–present)<ref name="Beshear"/>
 *[[JB Pritzker]], [[governor of Illinois]] (2019–present)<ref name="Beshear"/>

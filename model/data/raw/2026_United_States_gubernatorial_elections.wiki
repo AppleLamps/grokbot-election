@@ -109,7 +109,7 @@ See [[Template:USRaceRating]] for how to apply rating.
 ! Governor
 ! data-sort-type="number"| Last<br />election{{efn|The last elections for this group of governors, with the exception of New Hampshire and Vermont, were in 2022, except for those who became governors after their predecessor's resignation.}}
 ! [[Cook Political Report|Cook]]<br />{{Small|Oct. 13,<br />2026}}<ref>{{cite web |title=2026 CPR Governor Race ratings |url=https://www.cookpolitical.com/ratings/governor-race-ratings |website=Cook Political Report |access-date=October 13, 2026 |language=en}}</ref>
-![[Decision Desk HQ|DDHQ]]<br />{{Small|Oct. 13,<br />2026}}<ref>{{Cite web |title=2026 Governor Races |url=https://votes.decisiondeskhq.com/forecast/governor |access-date=October 13, 2026 |website=Decision Desk HQ |language=en}}</ref>
+![[Decision Desk HQ|DDHQ]]<br />{{Small|Oct. 14,<br />2026}}<ref>{{Cite web |title=2026 Governor Races |url=https://votes.decisiondeskhq.com/forecast/governor |access-date=October 13, 2026 |website=Decision Desk HQ |language=en}}</ref>
 ![[Fox News|Fox]]<br />{{Small|Oct. 6,<br />2026}}<ref>{{Cite news |last=Numa |first=Rémy |title=Fox News Power Rankings: The biggest surprises come after October |url=https://www.foxnews.com/politics/fox-news-power-rankings-the-biggest-surprises-come-after-october |work=[[Fox News]] |date=October 6, 2026 |access-date=October 7, 2026}}</ref>
 ! [[Inside Elections|IE]]<br />{{Small|Oct. 1,<br />2026}}<ref>{{Cite web |title=Gubernatorial Ratings |url=https://insideelections.com/ratings/governor |access-date=October 7, 2026 |website=[[Inside Elections]] |language=en}}</ref>
 ![[RealClearPolitics|RCP]]<br />{{Small|Oct. 12,<br />2026}}<ref>{{Cite web |title=2026 Governor Races |url=https://www.realclearpolling.com/maps/governor/2026/toss-up |access-date=October 12, 2026 |website=www.realclearpolling.com |language=en}}</ref>
@@ -265,7 +265,7 @@ See [[Template:USRaceRating]] for how to apply rating.
 | {{Party shading/Republican}} | {{sortname|Kim|Reynolds}}<br />{{Small|(retiring)}}
 | {{Party shading/Republican}} data-sort-value="58.0" | 58.04% R
 <!--Cook-->    | {{USRaceRating|Lean|D|flip}}
-<!--DDHQ-->    | {{USRaceRating|Lean|D|flip}}
+<!--DDHQ-->    | {{USRaceRating|Likely|D|flip}}
 <!--Fox News-->| {{USRaceRating|Lean|D|flip}}
 <!--IE-->      | {{USRaceRating|Tilt|D|flip}}
 <!--RCP-->     | {{USRaceRating|Lean|D|flip}}

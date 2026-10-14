@@ -1571,6 +1571,16 @@ On April 25, 2026, the Maine Republican Party announced the results of a straw p
 ! Other
 ! Undecided
 |-
+|style="text-align:left;" |[[Suffolk University]]<ref>{{Cite web |url=https://www.suffolk.edu/-/media/suffolk/documents/academics/research-at-suffolk/suprc/polls/other-states/2026/10_14_2026_maine_press_release.pdf |title=Suffolk University Statewide and Bellwether Polls Show Democrat Troy Jackson Holds Razor-Thin Edge in Statistically Tied Maine Senate Race |work=[[Suffolk University]] |date=October 14, 2026 |access-date=October 14, 2026}}</ref>
+|October 8–11, 2026
+|500 (LV)
+|±{{nbsp}}4.4%
+|{{party shading/Democratic}}|'''49%'''
+|38%
+|8%
+|{{sdash}}
+|5%
+|-
 | style="text-align:left;"|[[The Washington Post]]/[[Schar School of Policy and Government|SSPG]]<ref>{{cite web |title=2026 Maine Poll Trend Shell |url=https://www.washingtonpost.com/documents/916dd450-a193-4312-9a75-1b14dd95cc28.pdf?itid=lk_inline_manual_1 |website=The Washington Post |access-date=October 9, 2026 |date=October 9, 2026}}</ref>
 |September 30 – October 5, 2026
 |800 (LV)

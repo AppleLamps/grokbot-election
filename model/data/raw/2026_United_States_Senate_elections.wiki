@@ -734,9 +734,9 @@ See [[Template:USRaceRating]] for how to apply rating.
 ! [[Fox News|Fox]]<br />{{small|Oct 13,<br/>2026}}<ref>{{Cite news |last=Numa |first=Rémy |title=Fox News Power Rankings: As the House falls, the Senate stays in play |url=https://www.foxnews.com/politics/fox-news-power-rankings-house-falls-senate-stays-play |work=[[Fox News]] |date=October 13, 2026 |access-date=October 13, 2026}}</ref>
 ! ''[[Inside Elections|IE]]''<br />{{small|Oct 1,<br />2026}}<ref>{{Cite web |title=Senate Ratings |url=https://www.insideelections.com/ratings/senate |access-date=October 1, 2026 |website=Inside Elections}}</ref>
 ! [[RealClearPolitics|RCP]]<br />{{small|Oct 12,<br />2026}}<ref>{{Cite web |title=Battle for the Senate 2026 |url=https://www.realclearpolling.com/maps/senate/2026/toss-up |access-date=October 12, 2026 |website=realclearpolling.com |language=en}}</ref>
-! [[Sabato's Crystal Ball|Sabato]]<br />{{small|Oct 6,<br />2026}}<ref name="sr">{{cite web |title=2026 Senate ratings |url=https://centerforpolitics.org/crystalball/2026-senate/ |website=Sabato's Crystal Ball |access-date=October 6, 2026}}</ref>
+! [[Sabato's Crystal Ball|Sabato]]<br />{{small|Oct 14,<br />2026}}<ref name="sr">{{cite web |title=Five Senate Rating Changes as Close Battle for Majority Control Rages |url=https://centerforpolitics.org/crystalball/10_14_senate/ |first1=J. Miles |last1=Coleman |first2=Kyle |last2=Kondik |website=Sabato's Crystal Ball |date=October 14, 2026 |access-date=October 14, 2026}}</ref>
 ! [[Silver Bulletin|Silver]]<br />{{Small|Oct 13,<br />2026}}<ref>{{Cite web |url=https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model |title=FLIPR 2026 midterm election forecast |last1=Silver |first1=Nate |author1-link=Nate Silver |last2=McKown-Dawson |first2=Eli |website=[[Silver Bulletin]] |via=[[Substack]] |date=October 13, 2026 |orig-date=August 11, 2026 |access-date=October 13, 2026 |url-access=subscription}}</ref>
-! [[Split Ticket (website)|ST]]<br />{{Small|Oct 7,<br />2026}}<ref>{{Cite magazine |title=Split Ticket 2026 Midterms Model |url=https://www.theargumentmag.com/p/split-ticket-2026-midterms-model |access-date=October 11, 2026 |magazine=[[The Argument (magazine)|The Argument]] |language=en}}</ref>
+! [[Split Ticket (website)|ST]]<br />{{Small|Oct 14,<br />2026}}<ref>{{Cite magazine |title=Split Ticket 2026 Midterms Model |url=https://www.theargumentmag.com/p/split-ticket-2026-midterms-model |access-date=October 14, 2026 |magazine=[[The Argument (magazine)|The Argument]] |language=en}}</ref>
 |-
 ! [[2026 United States Senate election in Alabama|Alabama]]
 | {{Shading PVI|R|15}}
@@ -899,9 +899,9 @@ See [[Template:USRaceRating]] for how to apply rating.
 <!--Fox-->       | {{USRaceRating|Lean|R}}
 <!--IE-->        | {{USRaceRating|Likely|R}}
 <!--RCP-->       | {{USRaceRating|Tossup}}
-<!--Sabato-->    | {{USRaceRating|Lean|R}}
+<!--Sabato-->    | {{USRaceRating|Tossup}}
 <!--SB-->        | {{USRaceRating|Tossup}}
-<!--ST-->        | {{USRaceRating|Lean|R}}
+<!--ST-->        | {{USRaceRating|Tossup}}
 |-
 ! [[2026 United States Senate election in Kentucky|Kentucky]]
 | {{Shading PVI|R|15}}
@@ -989,7 +989,7 @@ See [[Template:USRaceRating]] for how to apply rating.
 <!--Fox-->       | {{USRaceRating|Lean|D}}
 <!--IE-->        | {{USRaceRating|Lean|D}}
 <!--RCP-->       | {{USRaceRating|Tossup}}
-<!--Sabato-->    | {{USRaceRating|Likely|D}}
+<!--Sabato-->    | {{USRaceRating|Lean|D}}
 <!--SB-->        | {{USRaceRating|Likely|D}}
 <!--ST-->        | {{USRaceRating|Likely|D}}
 |-
@@ -1004,7 +1004,7 @@ See [[Template:USRaceRating]] for how to apply rating.
 <!--Fox-->       | {{USRaceRating|Solid|R}}
 <!--IE-->        | {{USRaceRating|Solid|R}}
 <!--RCP-->       | {{USRaceRating|Solid|R}}
-<!--Sabato-->    | {{USRaceRating|Safe|R}}
+<!--Sabato-->    | {{USRaceRating|Likely|R}}
 <!--SB-->        | {{USRaceRating|Solid|R}}
 <!--ST-->        | {{USRaceRating|Safe|R}}
 |-
@@ -1034,7 +1034,7 @@ See [[Template:USRaceRating]] for how to apply rating.
 <!--Fox-->       | {{USRaceRating|Likely|R}}
 <!--IE-->        | {{USRaceRating|Lean|R}}
 <!--RCP-->       | {{USRaceRating|Lean|R}}
-<!--Sabato-->    | {{USRaceRating|Likely|R}}
+<!--Sabato-->    | {{USRaceRating|Lean|R}}
 <!--SB-->        | {{USRaceRating|Lean|R}}
 <!--ST-->        | {{USRaceRating|Lean|R}}
 |-
@@ -1049,7 +1049,7 @@ See [[Template:USRaceRating]] for how to apply rating.
 <!--Fox-->       | {{USRaceRating|Lean|D}}
 <!--IE-->        | {{USRaceRating|Tossup}}
 <!--RCP-->       | {{USRaceRating|Lean|D}}
-<!--Sabato-->    | {{USRaceRating|Lean|D}}
+<!--Sabato-->    | {{USRaceRating|Likely|D}}
 <!--SB-->        | {{USRaceRating|Likely|D}}
 <!--ST-->        | {{USRaceRating|Likely|D}}
 |-
@@ -1271,9 +1271,9 @@ See [[Template:USRaceRating]] for how to apply rating.
 <!--Fox-->       |  | D/I - 47<br />R - 47<br />6 tossups
 <!--IE-->        |  | D/I - 47<br />R - 49<br />4 tossups
 <!--RCP-->       |  | D/I - 46<br />R - 46<br />8 tossups
-<!--Sabato-->    |  | D/I - 49<br />R - 47<br />4 tossups
+<!--Sabato-->    |  | D/I - 49<br />R - 46<br />5 tossups
 <!--SB-->        |{{Party shading/Democratic}} | D/I - 52<br />R - 46<br />2 tossups
-<!--ST-->        |{{Party shading/Democratic}} | D/I - 52<br />R - 47<br />1 tossup
+<!--ST-->        |{{Party shading/Democratic}} | D/I - 52<br />R - 46<br />2 tossups
 |}
 
 == Generic congressional ballot aggregate polls ==

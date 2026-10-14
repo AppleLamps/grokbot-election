@@ -297,8 +297,8 @@ Nebraska Working People Party organizers submitted completed petitions to form a
 |October 12, 2026
 |-
 |align="left"|''[[Sabato's Crystal Ball]]''<ref>{{cite web|title=2026 Senate ratings|url=https://centerforpolitics.org/crystalball/2026-senate/|website=[[Sabato's Crystal Ball]]|access-date=October 7, 2026}}</ref>
-|{{USRaceRating|Likely|R}}
-|October 6, 2026
+|{{USRaceRating|Lean|R}}
+|October 14, 2026
 |-
 |align="left"|''[[Silver Bulletin]]''<ref name="Silver">{{Cite web |url=https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model |title=FLIPR 2026 midterm election forecast |last1=Silver |first1=Nate |author1-link=Nate Silver |last2=McKown-Dawson |first2=Eli |website=[[Silver Bulletin]] |via=[[Substack]] |date=October 7, 2026 |orig-date=August 11, 2026 |access-date=October 7, 2026 |url-access=subscription}}</ref>
 |{{USRaceRating|Lean|R}}

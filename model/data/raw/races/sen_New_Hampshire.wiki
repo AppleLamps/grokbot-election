@@ -33,7 +33,7 @@
 }}
 {{ElectionsNH}}
 
-The '''2026 United States Senate election in New Hampshire''' will be held on November 3, 2026, to elect a member of the [[United States Senate]] to represent the state of [[New Hampshire]]. [[Democratic Party (United States)|Democratic]] congressman [[Chris Pappas (American politician)|Chris Pappas]] and [[Republican Party (United States)|Republican]] former senator [[John E. Sununu|John Sununu]] are the nominees for their respective parties. Democratic incumbent [[Jeanne Shaheen]] is not seeking running, after serving three terms.
+The '''2026 United States Senate election in New Hampshire''' will be held on November 3, 2026, to elect a member of the [[United States Senate]] to represent the state of [[New Hampshire]]. [[Democratic Party (United States)|Democratic]] congressman [[Chris Pappas (American politician)|Chris Pappas]] and [[Republican Party (United States)|Republican]] former senator [[John E. Sununu|John Sununu]] are the nominees for their respective parties. Democratic incumbent [[Jeanne Shaheen]] is not seeking re-election, after serving three terms.
 
 [[Primary elections]] were held on September 8. Pappas won the Democratic nomination with 65% of the vote against medical scientist Karishma Manzur. Sununu, who held the seat for one term until he was defeated by Shaheen in [[2008 United States Senate election in New Hampshire|2008]], won the Republican nomination with 68.5% of the vote against former Massachusetts senator [[Scott Brown (politician)|Scott Brown]].
 
@@ -850,8 +850,8 @@ Shaheen was first elected in [[2008 United States Senate election in New Hampshi
 |October 5, 2026
 |-
 |align="left"|''[[Sabato's Crystal Ball]]''<ref>{{cite web|title=2026 Senate ratings|url=https://centerforpolitics.org/crystalball/2026-senate/|website=[[Sabato's Crystal Ball]]|access-date=October 7, 2026}}</ref>
-|{{USRaceRating|Lean|D}}
-|October 6, 2026
+|{{USRaceRating|Likely|D}}
+|October 14, 2026
 |-
 |align="left"|''[[Silver Bulletin]]''<ref name="Silver">{{Cite web |url=https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model |title=FLIPR 2026 midterm election forecast |last1=Silver |first1=Nate |author1-link=Nate Silver |last2=McKown-Dawson |first2=Eli |website=[[Silver Bulletin]] |via=[[Substack]] |date=October 7, 2026 |orig-date=August 11, 2026 |access-date=October 7, 2026 |url-access=subscription}}</ref>
 |{{USRaceRating|Likely|D}}

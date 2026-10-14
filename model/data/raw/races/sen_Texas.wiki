@@ -2969,7 +2969,7 @@ The election is taking place amidst a broader push by the Trump administration t
 }}
 
 ===Fundraising===
-Talarico has considerably outraised Paxton throughout the campaign. Due to the high national profile of the race, both candidates, especially Talarico have received significant contributions from voters across the country. Within Texas, Talarico's donation base is concentrated in his home city of [[Austin, Texas|Austin]] and the state's other urban areas, while Paxton's is in [[Dallas]].<ref>{{Cite web |last1=Quinton |first1=Phoebe |last2=Moritz |first2=John C. |date=September 29, 2026 |title=The money behind Talarico and Paxton's Senate race, mapped by ZIP code |url=https://www.dallasnews.com/projects/2026/talarico-paxton-donations-map/ |access-date=October 1, 2026 |website=Dallas Morning News |language=en}}</ref> Despite Talarico's individual fundraising advantage, however, leading into the fall campaign season, and particularly after the [[2026 Republican National Convention|Republican National Convention]] in Dallas, Paxton has seen a massive infusion of [[political action committee]] and political party spending on his behalf to try to buoy his sagging polling numbers.<ref>{{Cite web |last=Howard |first=Andrew |date=September 11, 2026 |title=Republicans just opened the floodgates on spending for Ken Paxton |url=https://www.politico.com/news/2026/09/11/gop-money-texas-paxton-trump-01072972 |access-date=September 28, 2026|website=Politico |language=en}}</ref> The [[Senate Leadership Fund]] alone committed over $100 million to support Paxton, far exceeding Talarico's individual fundraising numbers, though a remarkably high investment to defend a seat in a state Republicans have not lost in over 30 years.<ref>{{Cite web |last=Birenbaum |first=Gabby |date=September 23, 2026 |title=Senate Republicans increase ad buy for Ken Paxton to $100M |url=https://www.texastribune.org/2026/09/22/texas-paxton-ads-100-million-senate-race-talarico/ |access-date=September 28, 2026 |website=The Texas Tribune |language=en-US}}</ref> The [[Supreme Court of the United States|Supreme Court]] over the summer additionally cleared the way for political parties themselves to freely coordinate advertising spending with candidates at the candidates' reduced rate, handing Republicans a monetary advantage across the country due to the Democratic Party lagging behind the Republicans in party fundraising.<ref>{{Cite web |last1=Doherty |first1=Erin |last2=Kashinsky |first2=Lisa |last3=Piper |first3=Jessica |last4=Howard |first4=Andrew |title=The Supreme Court just made the DNC's fundraising woes a much bigger problem|url=https://www.politico.com/news/2026/06/30/the-supreme-court-just-made-the-dncs-fundraising-woes-a-much-bigger-problem-00983172 |access-date=September 28, 2026 |website=Politico |language=en}}</ref>
+Talarico has considerably outraised Paxton throughout the campaign. Due to the high national profile of the race, both candidates, especially Talarico have received significant contributions from voters across the country. Within Texas, Talarico's donation base is concentrated in his home city of [[Austin, Texas|Austin]] and the state's other urban areas, while Paxton's is in [[Dallas]].<ref>{{Cite web |last1=Quinton |first1=Phoebe |last2=Moritz |first2=John C. |date=September 29, 2026 |title=The money behind Talarico and Paxton's Senate race, mapped by ZIP code |url=https://www.dallasnews.com/projects/2026/talarico-paxton-donations-map/ |access-date=October 1, 2026 |website=Dallas Morning News |language=en}}</ref> Despite Talarico's individual fundraising advantage, however, leading into the fall campaign season, and particularly after the [[2026 Republican National Convention|Republican National Convention]] in Dallas, Paxton has seen a massive infusion of [[political action committee]] and political party spending on his behalf to try to buoy his sagging polling numbers.<ref>{{Cite web |last=Howard |first=Andrew |date=September 11, 2026 |title=Republicans just opened the floodgates on spending for Ken Paxton |url=https://www.politico.com/news/2026/09/11/gop-money-texas-paxton-trump-01072972 |access-date=September 28, 2026|website=Politico |language=en}}</ref> The [[Senate Leadership Fund]] alone committed over $100 million to support Paxton, far exceeding Talarico's individual fundraising numbers, though a remarkably high investment to defend a seat in a state Republicans have not lost in over 30 years.<ref>{{Cite web |last=Birenbaum |first=Gabby |date=September 23, 2026 |title=Senate Republicans increase ad buy for Ken Paxton to $100M |url=https://www.texastribune.org/2026/09/22/texas-paxton-ads-100-million-senate-race-talarico/ |access-date=September 28, 2026 |website=The Texas Tribune |language=en-US}}</ref> [[Elon Musk]] also donated $10 million to Lone Star Liberty PAC, a group supporting Ken Paxton.<ref>{{Cite web |title=Elon Musk quietly becomes biggest known donor in midterm contests as he tries to save Republicans |url=https://apnews.com/article/elon-musk-midterms-republicans-donors-c06efc774a2e7c5d345e0d46641eb510}}</ref> The [[Supreme Court of the United States|Supreme Court]] over the summer additionally cleared the way for political parties themselves to freely coordinate advertising spending with candidates at the candidates' reduced rate, handing Republicans a monetary advantage across the country due to the Democratic Party lagging behind the Republicans in party fundraising.<ref>{{Cite web |last1=Doherty |first1=Erin |last2=Kashinsky |first2=Lisa |last3=Piper |first3=Jessica |last4=Howard |first4=Andrew |title=The Supreme Court just made the DNC's fundraising woes a much bigger problem|url=https://www.politico.com/news/2026/06/30/the-supreme-court-just-made-the-dncs-fundraising-woes-a-much-bigger-problem-00983172 |access-date=September 28, 2026 |website=Politico |language=en}}</ref>
 
 {| class="wikitable sortable"
 |-
@@ -3014,7 +3014,7 @@ Talarico has considerably outraised Paxton throughout the campaign. Due to the h
 ! style="width:100px;" |Other/<br />Undecided{{Efn|name=calculated}}
 ! Margin
 |-
-|[[270toWin]]<ref name="270toWin">{{cite web|title=2026 Polls: Texas Senate|url=https://www.270towin.com/2026-senate-polls/texas|website=[[270toWin]]|access-date=October 13, 2026}}</ref>
+|[[270toWin]]<ref name="270toWin">{{cite web|title=2026 Polls: Texas Senate|url=https://www.270towin.com/2026-senate-polls/texas|website=[[270toWin]]|access-date=October 14, 2026}}</ref>
 |September 15 – October 8, 2026<!--Remember that dates listed on 270toWin are poll *publication dates*, not the dates when the polls were *administered*-->
 |October 13, 2026
 |45.4%
@@ -3022,37 +3022,37 @@ Talarico has considerably outraised Paxton throughout the campaign. Due to the h
 |5.6%
 |{{party shading/Democratic}} |'''Talarico +3.6%'''
 |-
-|[[Decision Desk HQ]]<ref>{{Cite web |title=2026 Texas US Senate |url=https://votes.decisiondeskhq.com/races/2026-11-03/texas-us-senate-general-election/polling |access-date=October 13, 2026 |website=[[Decision Desk HQ]]}}</ref>
+|[[Decision Desk HQ]]<ref>{{Cite web |title=2026 Texas US Senate |url=https://votes.decisiondeskhq.com/races/2026-11-03/texas-us-senate-general-election/polling |access-date=October 14, 2026 |website=[[Decision Desk HQ]]}}</ref>
 |through October 11, 2026
-|October 13, 2026
-|45.3%
-|{{party shading/Democratic}}|'''47.6%'''
+|October 14, 2026
+|45.2%
+|{{party shading/Democratic}}|'''47.7%'''
 |7.1%
-|{{party shading/Democratic}}|'''Talarico +2.3%'''
+|{{party shading/Democratic}}|'''Talarico +2.5%'''
 |-
-|[[FiftyPlusOne]]<ref>{{Cite web |title=Texas General Senate Election |url=https://fiftyplusone.news/polls/senate/general/texas |website=[[FiftyPlusOne]] |access-date=October 13, 2026}}</ref>
+|[[FiftyPlusOne]]<ref>{{Cite web |title=Texas General Senate Election |url=https://fiftyplusone.news/polls/senate/general/texas |website=[[FiftyPlusOne]] |access-date=October 14, 2026}}</ref>
 |through October 11, 2026
-|October 13, 2026
-|44.9%
-|{{party shading/Democratic}} |'''48.5%'''
-|6.6%
-|{{party shading/Democratic}} |'''Talarico +3.6%'''
+|October 14, 2026
+|45.1%
+|{{party shading/Democratic}} |'''48.2%'''
+|6.7%
+|{{party shading/Democratic}} |'''Talarico +3.1%'''
 |-
-|[[RealClearPolitics]]<ref name="RCP19may">{{cite web |title=2026 Texas Senate - Paxton vs. Talarico |url=https://www.realclearpolling.com/polls/senate/general/2026/texas/talarico-vs-paxton |access-date=October 13, 2026 |website=[[RealClearPolitics]]}}</ref>
+|[[RealClearPolitics]]<ref name="RCP19may">{{cite web |title=2026 Texas Senate - Paxton vs. Talarico |url=https://www.realclearpolling.com/polls/senate/general/2026/texas/talarico-vs-paxton |access-date=October 14, 2026 |website=[[RealClearPolitics]]}}</ref>
 |September 18 – October 11, 2026
-|October 13, 2026
+|October 14, 2026
+|45.5%
+|{{party shading/Democratic}}|'''48.1%'''
+|6.4%
+|{{party shading/Democratic}}|'''Talarico +2.6%'''
+|-
+|''[[The Texas Tribune]]''<ref>{{Cite news |last=Ngo |first=Hien An |title=U.S. Senate race: Tracking poll results for James Talarico and Ken Paxton |url=https://www.texastribune.org/2026/08/07/texas-us-senate-james-talarico-ken-paxton-polls/ |work=[[The Texas Tribune]] |language=en-US |date=October 14, 2026 |orig-date=August 7, 2026 |access-date=October 14, 2026}}</ref>
+|through October 11, 2026
+|October 14, 2026
 |45.3%
 |{{party shading/Democratic}}|'''48.0%'''
 |6.7%
 |{{party shading/Democratic}}|'''Talarico +2.7%'''
-|-
-|''[[The Texas Tribune]]''<ref>{{Cite news |last=Ngo |first=Hien An |title=U.S. Senate race: Tracking poll results for James Talarico and Ken Paxton |url=https://www.texastribune.org/2026/08/07/texas-us-senate-james-talarico-ken-paxton-polls/ |work=[[The Texas Tribune]] |language=en-US |date=October 13, 2026 |orig-date=August 7, 2026 |access-date=October 13, 2026}}</ref>
-|through October 8, 2026
-|October 13, 2026
-|44.9%
-|{{party shading/Democratic}}|'''48.2%'''
-|6.9%
-|{{party shading/Democratic}}|'''Talarico +3.3%'''
 |-
 |''[[Silver Bulletin]]''<ref name="Silver"/>
 |through October 8, 2026
@@ -3063,10 +3063,10 @@ Talarico has considerably outraised Paxton throughout the campaign. Due to the h
 |{{party shading/Democratic}}|'''Talarico +3.4%'''
 |-
 |colspan="3" |Average
-|45.2%
+|45.3%
 |{{party shading/Democratic}} |'''48.3%'''
-|6.5%
-|{{party shading/Democratic}} |'''Talarico +3.1%'''
+|6.4%
+|{{party shading/Democratic}} |'''Talarico +3.0%'''
 |}
 
 {| class="wikitable" style="font-size:90%;text-align:center;"
@@ -3131,6 +3131,15 @@ Talarico has considerably outraised Paxton throughout the campaign. Due to the h
 |{{party shading/Democratic}}|'''50%'''
 |2%
 |3%
+|-
+| style="text-align: left;"|[[University of Texas]]/Texas Politics Project<ref>{{Cite web|url=http://texaspolitics.utexas.edu/blog/latest-ut-texas-politics-poll-finds-historic-levels-of-competition-in-texas-midterm-elections |title=Latest UT/Texas Politics Poll Finds Historic Levels of Competition in Texas Midterm Elections |work=The Texas Politics Project |date=October 13, 2026 |access-date=October 14, 2026}}</ref>
+|September 25 – October 5, 2026
+|861 (LV)
+|±{{nbsp}}3.3%
+|47%
+|{{Party shading/Democratic}}|'''50%'''
+|3%{{Efn|Ted Brown (L) with 1%; "Someone else" with 2%}}
+|{{sdash}}
 |-
 |style="text-align: left;"|[[New York Times]]/[[Siena University (New York)|Siena University]]<ref>{{cite web |title=Toplines: September 2026 Times/Siena Poll of the Likely Electorate in Texas |url=https://www.nytimes.com/interactive/2026/10/03/polls/times-siena-texas-poll-toplines.html |website=[[NYTimes]] |date=October 2, 2026 |access-date=October 3, 2026}}</ref>
 |September 21–30, 2026
