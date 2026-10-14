@@ -36,7 +36,8 @@
 | last_election2 = 215 seats, 47.2%
 | seats_before2 = 214
 | seats_needed2 = {{gain}} 4
-| title = [[Speaker of the United States House of Representatives|Speaker]]
+| title = [[Speaker of the United States House of Representatives|speaker]]
+| posttitle = [[Speaker of the United States House of Representatives|Speaker]] after election
 | before_election = [[Mike Johnson]]
 | before_party = Republican Party (United States)
 | after_election = 

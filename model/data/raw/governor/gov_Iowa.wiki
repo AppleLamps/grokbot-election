@@ -395,7 +395,7 @@ In early September, ''[[The Des Moines Register]]'' reported that the [[Black Ha
 |-
 |align=left|''[[The Cook Political Report]]''<ref>{{cite web|title=2026 CPR Governor Race ratings|url=https://www.cookpolitical.com/ratings/governor-race-ratings|website=[[The Cook Political Report]]|access-date=October 11, 2026}}</ref>
 |{{USRaceRating|Lean|D|Flip)}}
-|October 1, 2026
+|October 13,  2026
 |-
 |align=left|[[Decision Desk HQ]]<ref name="DDHQ">{{cite web |title=2026 Governor Forecast |url=https://votes.decisiondeskhq.com/forecast/2026/governor |website=[[Decision Desk HQ]] |access-date=October 11, 2026}}</ref>
 |{{USRaceRating|Lean|D|Flip}}
@@ -455,11 +455,11 @@ In early September, ''[[The Des Moines Register]]'' reported that the [[Black Ha
 
 ;Individuals
 *[[Steve Deace]], conservative talk show host<ref name="Gain"/>
+*[[James Fishback]], conservative political activist<ref>https://www.instagram.com/p/DedJEYyCSQc/</ref>
 *[[Benny Johnson (columnist)|Benny Johnson]], conservative commentator<ref>{{cite web |title=Zach Lahn invokes Charlie Kirk at Iowa City Rally |url=https://www.thegazette.com/news/elections/zach-lahn-invokes-charlie-kirk-attacks-political-establishment-at-iowa-city-rally/article_5e1bcfaa-cd5f-4e06-a0e0-b66be0adfd65.html |website=[[The Gazette (Cedar Rapids, Iowa)|The Gazette]] |date=September 11, 2026 |access-date=September 12, 2026}}</ref>
 *[[Erika Kirk]], CEO of [[Turning Point USA]]<ref>{{cite web|last=Brennan|first=Paul|date=June 3, 2026|title=Lahn beats Trump-backed Feenstra by less than 1% of the vote; Turek scores landslide victory over Wahls |url=https://littlevillagemag.com/lahn-beats-feenstra-turek-trounces-wahls/ |website=[[Little Village (magazine)|Little Village]]|access-date=September 9, 2026}}</ref>
 *Chris McGowen, economic development executive<ref name="Vance"/>
 *[[Bob Vander Plaats]], president and CEO of [[The Family Leader]]<ref name="Who" />
-*[[James Fishback]], conservative political activist and Republican candidate in the 2026 Florida Gubernatorial election.
 
 ;Organizations
 *[[American Conservation Coalition]]<ref>{{cite web|url=https://accaction.eco/endorsements/|title=Endorsments - ACC Action|access-date=September 23, 2026}}</ref>
@@ -501,7 +501,7 @@ In early September, ''[[The Des Moines Register]]'' reported that the [[Black Ha
 *[[National Farmers Union (United States)|Iowa Farmers Union]]<ref>{{Cite web |title=Iowa Farmers Union Endorses State Candidates in 2026 Elections – Iowa Farmers Union |url=https://iowafarmersunion.org/iowa-farmers-union-endorses-state-candidates-in-2026-elections/ |access-date=September 27, 2026 |language=en-US}}</ref>
 
 ;Newspapers
-*[[The Des Moines Register]]<ref>{{cite web|date=October 11, 2026|title=Register editorial board endorses Rob Sand for Iowa Governor |url=https://www.desmoinesregister.com/story/opinion/editorials/2026/10/11/rob-sand-iowa-governor-race-election-2026/91760644007/?gnt-cfr=1&gca-cat=p&gca-uir=true&gca-epti=z11xx01p119050l115750c119050e116075v11xx01d--48--b--48--&gca-ft=217&gca-ds=sophi |website=[[The Des Moines Register]]|access-date=October 11, 2026}}</ref>
+*''[[The Des Moines Register]]''<ref>{{cite web|date=October 11, 2026|title=Register editorial board endorses Rob Sand for Iowa Governor |url=https://www.desmoinesregister.com/story/opinion/editorials/2026/10/11/rob-sand-iowa-governor-race-election-2026/91760644007/?gnt-cfr=1&gca-cat=p&gca-uir=true&gca-epti=z11xx01p119050l115750c119050e116075v11xx01d--48--b--48--&gca-ft=217&gca-ds=sophi |website=[[The Des Moines Register]]|access-date=October 11, 2026}}</ref>
 
 ;Political parties
 *[[Iowa Democratic Party]]<ref>{{cite web|url=https://iowademocrats.org/statewide-candidates/|title=Statewide Candidates - Iowa Democratic Party|access-date=August 6, 2026}}</ref>
