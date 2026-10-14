@@ -1,41 +1,41 @@
 {
  "source": "Kalshi public API (api.elections.kalshi.com/trade-api/v2)",
- "fetched": "2026-10-14T03:11-04:00",
+ "fetched": "2026-10-14T06:14-04:00",
  "events": {
   "CONTROLS-2026": [
-   {
-    "t": "CONTROLS-2026-D",
-    "sub": "Democratic Party",
-    "bid": "0.6100",
-    "ask": "0.6200",
-    "last": "0.6200",
-    "vol": "6440237.20"
-   },
    {
     "t": "CONTROLS-2026-R",
     "sub": "Republican Party",
     "bid": "0.3700",
     "ask": "0.3800",
     "last": "0.3700",
-    "vol": "8033959.50"
+    "vol": "8036757.44"
+   },
+   {
+    "t": "CONTROLS-2026-D",
+    "sub": "Democratic Party",
+    "bid": "0.6100",
+    "ask": "0.6200",
+    "last": "0.6100",
+    "vol": "6472087.59"
    }
   ],
   "CONTROLH-2026": [
    {
     "t": "CONTROLH-2026-R",
     "sub": "Republican Party",
-    "bid": "0.1000",
-    "ask": "0.1100",
-    "last": "0.1100",
-    "vol": "37384602.31"
+    "bid": "0.0980",
+    "ask": "0.0990",
+    "last": "0.0990",
+    "vol": "37461581.69"
    },
    {
     "t": "CONTROLH-2026-D",
     "sub": "Democratic Party",
     "bid": "0.9000",
     "ask": "0.9010",
-    "last": "0.9010",
-    "vol": "19152414.41"
+    "last": "0.9000",
+    "vol": "19154438.01"
    }
   ]
  }

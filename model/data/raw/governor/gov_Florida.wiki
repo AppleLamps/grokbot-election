@@ -1772,10 +1772,10 @@ On June 25, Renner announced on X that the planned Fox 13 debate, set for July 2
 |[[Decision Desk HQ]]<ref>{{cite web |title=2026 Florida Governor |url=https://votes.decisiondeskhq.com/races/2026-11-03/florida-governor-general-election/polling |access-date=September 9, 2026 |website=[[Decision Desk HQ]]}}</ref>
 |through October 10, 2026
 |October 13, 2026
-|{{party shading/Republican}} |'''48.4%'''
-|43.6%
+|{{party shading/Republican}} |'''48.3%'''
+|43.1%
 |8.0%
-|{{party shading/Republican}} |'''Donalds +4.8%'''
+|{{party shading/Republican}} |'''Donalds +5.2%'''
 |-
 |[[FiftyPlusOne]]<ref>{{cite web|title=Florida General Governor Election|url=https://fiftyplusone.news/polls/governor/general/florida|publisher=[[FiftyPlusOne]]|access-date=October 8, 2026}}</ref>
 |through October 10, 2026
@@ -1802,8 +1802,8 @@ On June 25, Renner announced on X that the planned Fox 13 debate, set for July 2
 |{{party shading/Republican}}|'''Donalds +4.1%'''
 |-
 |colspan="3"|'''Average'''
-|{{party shading/Republican}}|'''47.9%'''
-|43.3%
+|{{party shading/Republican}}|'''47.8%'''
+|43.2%
 |8.8%
 |{{party shading/Republican}}|'''Donalds +4.6%'''
 |}
