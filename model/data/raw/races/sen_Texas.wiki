@@ -3080,15 +3080,6 @@ Talarico has considerably outraised Paxton throughout the campaign. Due to the h
 ! Other
 ! Undecided
 |-
-| style="text-align:left;"|[[Marist University]]<ref>{{cite web |title=Marist Poll of 1,196 Texas Registered Voters |url=https://maristpoll.marist.edu/wp-content/uploads/2026/10/Marist-Poll_TX-NOS-and-Tables_202610131056%5Eal3j7.pdf |work=[[Marist University]] |access-date=October 14, 2026}}</ref>
-|October 8–11, 2026
-|1,196 (RV)
-|±{{nbsp}}4.9%
-|45%
-|{{party shading/Democratic}}|'''47%'''
-|2%
-|4%
-|-
 | style="text-align: left;"|Quantus Insights<ref>{{cite web |title=Texas U.S. Senate Survey |url=https://drive.google.com/file/d/1awt_8mANYVHZ0UlMxkit8QAVLpDe8k5R/view |work=Quantus Insights |access-date=October 13, 2026}}</ref>
 |October 9–11, 2026
 |854 (LV)
@@ -3096,6 +3087,22 @@ Talarico has considerably outraised Paxton throughout the campaign. Due to the h
 |'''47%'''
 |'''47%'''
 |2%{{Efn|name="Brown2"}}
+|4%
+|-
+|style="text-align:left" rowspan="2"|[[Marist University]]<ref>{{cite web |title=Marist Poll of 1,196 Texas Registered Voters |url=https://maristpoll.marist.edu/wp-content/uploads/2026/10/Marist-Poll_TX-NOS-and-Tables_202610131056%5Eal3j7.pdf |work=[[Marist University]] |access-date=October 14, 2026}}</ref>
+|rowspan="2"|October 8–11, 2026
+|{{TBA}} (LV)
+|±{{nbsp}}4.9%
+|45%
+|{{Party shading/Democratic}}|'''47%'''
+|4%{{efn|name=MaristOct|"Another party's candidate" with 2%; "No response" with 2%}}
+|4%
+|-
+|1,196 (RV)
+|±{{nbsp}}4.3%
+|44%
+|{{Party shading/Democratic}}|'''48%'''
+|4%{{efn|name=MaristOct}}
 |4%
 |-
 |style="text-align:left;"|[[Trafalgar Group]] (R)<ref>{{Cite web |url=https://www.thetrafalgargroup.org/wp-content/uploads/2026/10/TX-Midterms-Report-1009.pdf |title=Texas Statewide General Election Survey |work=[[Trafalgar Group]] |date=October 10, 2026 |access-date=October 10, 2026}}</ref>

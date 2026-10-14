@@ -483,7 +483,7 @@
     "pres_style_D_overstatement": 0.99191,
     "r_overstatement_2025": 0.99914
    },
-   "market_p_dem": 0.979
+   "market_p_dem": 0.9795
   },
   {
    "state": "IL",
@@ -558,7 +558,7 @@
     "pres_style_D_overstatement": 0.97793,
     "r_overstatement_2025": 0.99822
    },
-   "market_p_dem": 0.9805
+   "market_p_dem": 0.9785
   },
   {
    "state": "NJ",
@@ -583,7 +583,7 @@
     "pres_style_D_overstatement": 0.97735,
     "r_overstatement_2025": 0.99777
    },
-   "market_p_dem": 0.973
+   "market_p_dem": 0.9725
   },
   {
    "state": "NC",
@@ -633,7 +633,7 @@
     "pres_style_D_overstatement": 0.85213,
     "r_overstatement_2025": 0.99351
    },
-   "market_p_dem": 0.9605
+   "market_p_dem": 0.9635
   },
   {
    "state": "MN",
@@ -708,7 +708,7 @@
     "pres_style_D_overstatement": 0.64325,
     "r_overstatement_2025": 0.96986
    },
-   "market_p_dem": 0.705
+   "market_p_dem": 0.685
   },
   {
    "state": "ME",
@@ -808,7 +808,7 @@
     "pres_style_D_overstatement": 0.29217,
     "r_overstatement_2025": 0.85212
    },
-   "market_p_dem": 0.425
+   "market_p_dem": 0.415
   },
   {
    "state": "TX",
@@ -1008,7 +1008,7 @@
     "pres_style_D_overstatement": 0.00321,
     "r_overstatement_2025": 0.02989
    },
-   "market_p_dem": 0.022
+   "market_p_dem": 0.019
   },
   {
    "state": "KY",
@@ -1033,7 +1033,7 @@
     "pres_style_D_overstatement": 0.00318,
     "r_overstatement_2025": 0.02943
    },
-   "market_p_dem": 0.0275
+   "market_p_dem": 0.027
   },
   {
    "state": "TN",
@@ -1058,7 +1058,7 @@
     "pres_style_D_overstatement": 0.00231,
     "r_overstatement_2025": 0.02272
    },
-   "market_p_dem": 0.0525
+   "market_p_dem": 0.0515
   },
   {
    "state": "MT",
@@ -1108,7 +1108,7 @@
     "pres_style_D_overstatement": 0.00172,
     "r_overstatement_2025": 0.01456
    },
-   "market_p_dem": 0.0565
+   "market_p_dem": 0.0595
   },
   {
    "state": "SD",
@@ -1133,7 +1133,7 @@
     "pres_style_D_overstatement": 0.00155,
     "r_overstatement_2025": 0.01402
    },
-   "market_p_dem": 0.052
+   "market_p_dem": 0.056
   },
   {
    "state": "OK",
@@ -1158,7 +1158,7 @@
     "pres_style_D_overstatement": 0.00121,
     "r_overstatement_2025": 0.01094
    },
-   "market_p_dem": 0.02
+   "market_p_dem": 0.0195
   },
   {
    "state": "ID",
@@ -1183,7 +1183,7 @@
     "pres_style_D_overstatement": 0.00042,
     "r_overstatement_2025": 0.00358
    },
-   "market_p_dem": 0.039
+   "market_p_dem": 0.0395
   },
   {
    "state": "WV",
@@ -2110,7 +2110,7 @@
   "up_R": 18
  },
  "markets": {
-  "as_of": "2026-10-14 00:14 ET",
+  "as_of": "2026-10-14 03:11 ET",
   "note": "Prediction-market prices for comparison only; not a model input.",
   "senate_p_D": {
    "polymarket": 0.635,

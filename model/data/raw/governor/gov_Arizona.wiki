@@ -626,6 +626,45 @@ In early September, it was reported that the Arizona Attorney General’s Office
 {{Election box end}}
 
 ==General election==
+===Debate===
+A debate was held on October 6 featuring Republican nominee Andy Biggs and No Labels nominee Teri Ann Hourihan. Governor Hobbs declined to attend. Green Party nominee Risa Lombardo had agreed to participate, but reversed course shortly before the debate.<ref name="Debate">{{cite news |last1=Evans |first1=Jordan Willow |title=Arizona No Labels Nominee Teri Ann Hourihan Faces Andy Biggs in Governor Debate |url=https://independentpoliticalreport.com/2026/10/arizona-no-labels-nominee-teri-ann-hourihan-faces-andy-biggs-in-governor-debate/ |access-date=October 13, 2026 |work=[[Independent Political Report]] |date=October 11, 2026}}</ref>
+
+{| class="wikitable" style="text-align:center;"
+|+ 2026 Arizona gubernatorial debate
+|-
+! scope="col" | {{abbr|No.|Number}}
+! scope="col" | Date
+! scope="col" | Host
+! scope="col" | Moderator
+! scope="col" | Link
+! scope="col"| <small>[[Democratic Party (US)|Democratic]]</small>
+! scope="col"| <small>[[Republican Party (US)|Republican]]</small>
+! scope="col"| <small>[[Green Party of the United States|Green]]</small>
+! scope="col"| <small>[[No Labels Party|No Labels]]</small>
+|-
+! colspan="5" rowspan="2" |Key:<br />{{Colors|black|#90ff90|&nbsp;P&nbsp;}} <small>Participant&nbsp;</small> {{Colors|black|#FFFFDD|&nbsp;A&nbsp;}} <small>Absent&nbsp;</small> {{Colors|black|#ff9090|&nbsp;N&nbsp;}} <small>Not invited&nbsp;</small> {{Colors|black|#CCFFCC|&nbsp;I&nbsp;}} <small>Invited {{color box|#f0e68c|W}} Withdrawn</small>
+! scope="col" style="background:{{party color|Democratic Party (US)}}"|
+! scope="col" style="background:{{party color|Republican Party (US)}}"|
+! scope="col" style="background:{{party color|Green Party of the United States}}"|
+! scope="col" style="background:{{party color|Arizona Independent Party}}"|
+|-
+! scope="col" | Hobbs
+! scope="col" | Biggs
+! scope="col" | Lombardo
+! scope="col" | Hourihan
+|-
+!1<ref name="Debate"/>
+| style="white-space:nowrap;" | Oct. 6, 2026
+| style="white-space:nowrap;" | Clean Elections
+| style="white-space:nowrap;" | Steve Goldstein<br />Danielle Lerner
+| style="white-space:nowrap;" | [https://www.youtube.com/watch?v=o7l64x3DyS8 YouTube]
+| style="background-color:#FFFFDD"| '''A'''
+| {{D-P|'''P'''}}
+| style="background-color:#FFFFDD"| '''A'''
+| {{D-P|'''P'''}}
+|-
+|}
+
 ===Predictions===
 {| class="wikitable" style="text-align:center;"
 !Source

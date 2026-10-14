@@ -610,14 +610,21 @@ If Abbott is re-elected and serves out his fourth term, he will become the state
 ! Other
 ! Undecided
 |-
-| style="text-align:left;"|[[Marist University]]<ref>{{cite web |title=Marist Poll of 1,196 Texas Registered Voters |url=https://maristpoll.marist.edu/wp-content/uploads/2026/10/Marist-Poll_TX-NOS-and-Tables_202610131056%5Eal3j7.pdf |work=[[Marist University]] |access-date=October 14, 2026}}</ref>
-|October 8–11, 2026
-|1,196 (RV)
+|style="text-align:left" rowspan="2"|[[Marist University]]<ref>{{cite web |title=Marist Poll of 1,196 Texas Registered Voters |url=https://maristpoll.marist.edu/wp-content/uploads/2026/10/Marist-Poll_TX-NOS-and-Tables_202610131056%5Eal3j7.pdf |work=[[Marist University]] |access-date=October 14, 2026}}</ref>
+|rowspan="2"|October 8–11, 2026
+|{{TBA}} (LV)
 |±{{nbsp}}4.9%
 |{{party shading/Republican}}|'''49%'''
 |45%
-|2%
-|4%
+|2%{{efn|name=MaristOct|"Another party's candidate" with 1%; "No response" with 1%}}
+|3%
+|-
+|1,196 (RV)
+|±{{nbsp}}4.3%
+|{{party shading/Republican}}|'''48%'''
+|47%
+|2%{{efn|name=MaristOct}}
+|3%
 |-
 |style="text-align:left;"|GBAO (D)<ref>{{Cite web|url=https://ginafortexas.com/wp-content/uploads/2026/10/TX-Gov-Poll-Memo-101226.pdf |title=Hinojosa Leads in Texas Governor's Race |work=GBAO |via=ginafortexas.com |date=October 12, 2026 |access-date=October 13, 2026}}</ref>{{Efn-ua|name=Hinojosa}}
 |October 5–8, 2026
