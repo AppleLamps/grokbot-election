@@ -1028,42 +1028,42 @@ On August 11, 2026, the [[Associated Press]] and [[NBC News]] called the race fo
 |{{party shading/DFL}} |'''Flanagan +1.5%'''
 |-
 |[[Decision Desk HQ]]<ref>{{cite web|title=2026 Minnesota Senate Polling|url=https://votes.decisiondeskhq.com/races/2026-11-03/minnesota-us-senate-general-election/polling|access-date=September 17, 2026|website=[[Decision Desk HQ]]}}</ref>
-|through October 7, 2026
-|October 12, 2026
-|{{party shading/DFL}} |'''45.9%'''
-|42.2%
-|11.9%
+|through October 12, 2026
+|October 15, 2026
+|{{party shading/DFL}} |'''45.8%'''
+|42.1%
+|12.1%
 |{{party shading/DFL}} |'''Flanagan +3.7%'''
 |-
 |[[FiftyPlusOne]]<ref>{{cite web|title=Minnesota General Senate Election|url=https://fiftyplusone.news/polls/senate/general/minnesota|access-date=September 17, 2026|website=[[FiftyPlusOne]]}}</ref>
-|through October 7, 2026
-|October 12, 2026
-|{{party shading/DFL}} |'''46.4%'''
-|42.7%
-|10.9%
-|{{party shading/DFL}} |'''Flanagan +3.7%'''
+|through October 12, 2026
+|October 15, 2026
+|{{party shading/DFL}} |'''46.0%'''
+|42.6%
+|10.4%
+|{{party shading/DFL}} |'''Flanagan +3.4%'''
 |-
 |[[RealClearPolitics]]<ref>{{cite web|title=2026 Minnesota Senate - Tafoya vs. Flanagan|url=https://www.realclearpolling.com/polls/senate/general/2026/minnesota/tafoya-vs-flanagan|access-date=September 9, 2026|website=[[RealClearPolitics]]}}</ref>
-|September 9 – October 7, 2026
-|October 12, 2026
-|{{party shading/DFL}} |'''45.3%'''
+|September 14 – October 12, 2026
+|October 15, 2026
+|{{party shading/DFL}} |'''45.7%'''
 |43.1%
-|11.6%
-|{{party shading/DFL}} |'''Flanagan +2.2%'''
+|11.2%
+|{{party shading/DFL}} |'''Flanagan +2.6%'''
 |-
 |''[[Silver Bulletin]]''<ref name="Silver"/>
-|through October 4, 2026
-|October 9, 2026
-|{{party shading/DFL}} |'''47.0%'''
-|43.1%
-|9.9%
-|{{party shading/DFL}} |'''Flanagan +3.9%'''
+|through October 12, 2026
+|October 15, 2026
+|{{party shading/DFL}} |'''47.3%'''
+|43.0%
+|9.7%
+|{{party shading/DFL}} |'''Flanagan +4.3%'''
 |-
 |colspan="3" |'''Average'''
 |{{party shading/DFL}} |'''45.9%'''
-|42.9%
-|11.2%
-|{{party shading/DFL}} |'''Flanagan +3.0%'''
+|42.8%
+|11.3%
+|{{party shading/DFL}} |'''Flanagan +3.1%'''
 |}
 
 {| class="wikitable" style="font-size:90%;text-align:center;"

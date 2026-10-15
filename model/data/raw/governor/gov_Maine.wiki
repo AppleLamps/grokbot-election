@@ -1507,7 +1507,7 @@ On April 25, 2026, the Maine Republican Party announced the results of a straw p
 |-
 |[[270toWin]]<ref>{{Cite web|title=2026 Polls: Maine Governor
 |url=https://www.270towin.com/2026-governor-polls/maine|publisher=[[270toWin]]|access-date=October 10, 2026}}</ref>
-|September 15 – October 5, 2026<!--Remember that dates listed on 270toWin are poll *publication dates*, not the dates when the polls were *administered*-->
+|September 25 – October 9, 2026<!--Remember that dates listed on 270toWin are poll *publication dates*, not the dates when the polls were *administered*-->
 |October 9, 2026
 |{{party shading/Democratic}}|'''49.4%'''
 |37.4%
@@ -1516,47 +1516,47 @@ On April 25, 2026, the Maine Republican Party announced the results of a straw p
 |{{party shading/Democratic}}|'''Pingree +12.0%'''
 |-
 |[[Decision Desk HQ]]<ref>{{Cite web|title=2026 Maine Governor Polling|url=https://votes.decisiondeskhq.com/races/2026-11-03/maine-governor-general-election/polling|publisher=[[Decision Desk HQ]]|access-date=October 9, 2026}}</ref>
-|through October 5, 2026
-|October 9, 2026
-|{{party shading/Democratic}}|'''50.6%'''
+|through October 11, 2026
+|October 14, 2026
+|{{party shading/Democratic}}|'''50.4%'''
 |38.5%
 |{{sdash}}
-|10.9%
-|{{party shading/Democratic}}|'''Pingree +12.1%'''
+|11.1%
+|{{party shading/Democratic}}|'''Pingree +11.9%'''
 |-
 |[[FiftyPlusOne]]<ref>{{Cite web|title=Maine General Governor Election|url=https://fiftyplusone.news/polls/governor/general/maine|publisher=[[FiftyPlusOne]]|access-date=September 2, 2026}}</ref>
-|through October 5, 2026
-|October 9, 2026
-|{{party shading/Democratic}}|'''50.1%'''
-|38.3%
-|6.4%
-|5.2%
-|{{party shading/Democratic}}|'''Pingree +11.6%'''
+|through October 11, 2026
+|October 14, 2026
+|{{party shading/Democratic}}|'''50.3%'''
+|38.6%
+|6.7%
+|4.4%
+|{{party shading/Democratic}}|'''Pingree +11.7%'''
 |-
 |[[RealClearPolitics]]<ref>{{Cite web|title=2026 Maine Governor - Charles vs. Pingree |url=https://www.realclearpolling.com/polls/governor/general/2026/maine/charles-vs-pingree|publisher=[[RealClearPolitics]]|access-date=September 9, 2026}}</ref>
-|September 2 – October 5, 2026
-|October 9, 2026
-|{{party shading/Democratic}}|'''49.8%'''
-|38.4%
+|September 2 – October 11, 2026
+|October 14, 2026
+|{{party shading/Democratic}}|'''49.7%'''
+|38.3%
 |{{sdash}}
-|11.8%
+|12.0%
 |{{party shading/Democratic}}|'''Pingree +11.4%'''
 |-
 |''[[Silver Bulletin]]''<ref name="Silver"/>
-|through October 5, 2026
-|October 9, 2026
-|{{party shading/Democratic}}|'''50.9%'''
-|38.9%
+|through October 11, 2026
+|October 14, 2026
+|{{party shading/Democratic}}|'''50.8%'''
+|38.8%
 |{{sdash}}
-|10.2%
+|10.4%
 |{{party shading/Democratic}} |'''Pingree +12.0%'''
 |-
 |colspan="3" |'''Average'''
-|{{party shading/Democratic}}|'''50.2%'''
+|{{party shading/Democratic}}|'''50.1%'''
 |38.3%
-|6.9%
-|4.6%
-|{{party shading/Democratic}}|'''Pingree +11.9%'''
+|7.1%
+|4.5%
+|{{party shading/Democratic}}|'''Pingree +11.8%'''
 |}
 
 {| class="wikitable" style="font-size:90%;text-align:center;"

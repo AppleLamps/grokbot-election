@@ -1391,7 +1391,7 @@ A debate featuring eight of the declared candidates, hosted by [[News Center Mai
 ===Fundraising===
 {| class="wikitable sortable"
 |-
-! colspan=4 |Campaign finance reports as of June 30, 2026
+! colspan=4 |Campaign finance reports as of September 30, 2026
 |- style="text-align:center;"
 !Candidate
 !Raised
@@ -1399,16 +1399,16 @@ A debate featuring eight of the declared candidates, hosted by [[News Center Mai
 !Cash on hand
 |-
 |{{party shading/Republican}}| Susan Collins (R)
-|$18,930,078
-|$9,187,155
-|$11,038,115
+|$24,345,845
+|$20,457,107
+|$5,388,482
 |-
 |{{party shading/Democratic}}| Troy Jackson (D)
 |$0
 |$0
 |$0
 |-
-! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC">{{cite web |title=2026 Election United States Senate - Maine |url=https://www.fec.gov/data/elections/senate/ME/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=July 21, 2026}}</ref></small>
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC">{{cite web |title=2026 Election United States Senate - Maine |url=https://www.fec.gov/data/elections/senate/ME/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=October 15, 2026}}</ref></small>
 |}
 
 ===Polling===

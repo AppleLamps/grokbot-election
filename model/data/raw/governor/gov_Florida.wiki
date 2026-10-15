@@ -1764,7 +1764,7 @@ On June 25, Renner announced on X that the planned Fox 13 debate, set for July 2
 ! Margin
 |-
 |[[270toWin]]<ref>{{cite web |title=2026 Polls: Florida Governor |url=https://www.270towin.com/2026-governor-polls/florida |access-date=October 11, 2026 |website=[[270toWin]]}}</ref>
-|September 15–27, 2026<!--Remember that dates listed on 270toWin are poll *publication dates*, not the dates when the polls were *administered*. Dates listed here should be dates *administered*-->
+|September 17–28, 2026<!--Remember that dates listed on 270toWin are poll *publication dates*, not the dates when the polls were *administered*. Dates listed here should be dates *administered*-->
 |September 28, 2026
 |{{party shading/Republican}} |'''47.0%'''
 |43.3%
@@ -1772,20 +1772,20 @@ On June 25, Renner announced on X that the planned Fox 13 debate, set for July 2
 |{{party shading/Republican}} |'''Donalds +3.7%'''
 |-
 |[[Decision Desk HQ]]<ref>{{cite web |title=2026 Florida Governor |url=https://votes.decisiondeskhq.com/races/2026-11-03/florida-governor-general-election/polling |access-date=September 9, 2026 |website=[[Decision Desk HQ]]}}</ref>
-|through October 10, 2026
-|October 13, 2026
-|{{party shading/Republican}} |'''48.3%'''
-|43.1%
-|8.0%
-|{{party shading/Republican}} |'''Donalds +5.2%'''
+|through October 11, 2026
+|October 15, 2026
+|{{party shading/Republican}} |'''48.2%'''
+|42.8%
+|9.0%
+|{{party shading/Republican}} |'''Donalds +5.4%'''
 |-
 |[[FiftyPlusOne]]<ref>{{cite web|title=Florida General Governor Election|url=https://fiftyplusone.news/polls/governor/general/florida|publisher=[[FiftyPlusOne]]|access-date=October 8, 2026}}</ref>
-|through October 10, 2026
-|October 13, 2026
-|{{party shading/Republican}} |'''48.0%'''
-|43.0%
+|through October 11, 2026
+|October 14, 2026
+|{{party shading/Republican}} |'''47.5%'''
+|43.5%
 |9.0%
-|{{party shading/Republican}} |'''Donalds +5.0%'''
+|{{party shading/Republican}} |'''Donalds +4.0%'''
 |-
 |[[RealClearPolitics]]<ref>{{cite web |title=2026 Florida Governor - Donalds vs. Jolly |url=https://www.realclearpolling.com/polls/governor/general/2026/florida/donalds-vs-jolly |access-date=September 9, 2026 |website=[[RealClearPolitics]]}}</ref>
 |September 24 – October 9, 2026
@@ -1796,18 +1796,18 @@ On June 25, Renner announced on X that the planned Fox 13 debate, set for July 2
 |{{party shading/Republican}} |'''Donalds +5.0%'''
 |-
 |''[[Silver Bulletin]]''<ref name="Silver"/>
-|through October 7, 2026
-|October 13, 2026
-|{{party shading/Republican}}|'''47.9%'''
-|43.8%
-|8.3%
-|{{party shading/Republican}}|'''Donalds +4.1%'''
+|through October 11, 2026
+|October 15, 2026
+|{{party shading/Republican}}|'''47.6%'''
+|43.6%
+|8.8%
+|{{party shading/Republican}}|'''Donalds +4.0%'''
 |-
 |colspan="3"|'''Average'''
-|{{party shading/Republican}}|'''47.8%'''
+|{{party shading/Republican}}|'''47.7%'''
 |43.2%
-|8.8%
-|{{party shading/Republican}}|'''Donalds +4.6%'''
+|9.1%
+|{{party shading/Republican}}|'''Donalds +4.5%'''
 |}
 
 {| class="wikitable" style="font-size:90%;text-align:center;"
@@ -1820,6 +1820,15 @@ On June 25, Renner announced on X that the planned Fox 13 debate, set for July 2
 ! style="width:100px;"| David<br />Jolly (D)
 ! Other
 ! Undecided
+|-
+|style="text-align:left;"|[[Tony Fabrizio|Fabrizio, Lee & Associates]] (R)<ref>{{cite web |last1=Schorsch |first1=Peter |date=October 15, 2026 |title=Internal poll: Byron Donalds up 6 over David Jolly with 3 weeks until Election Day |url=https://floridapolitics.com/archives/824726-poll-byron-donalds-up-6-over-david-jolly-with-3-weeks-until-election-day/ |access-date=October 15, 2026 |publisher=[[Florida Politics]]}}</ref>{{efn-ua|name=Donalds}}
+|October 8–11, 2026
+|1,200 (LV)
+|–
+|{{party shading/Republican}}|'''49%'''
+|43%
+|–
+|8%
 |-
 |style="text-align:left;"|[[Change Research]] (D)<ref>{{cite web |title=Florida AAPOR Methodology Statement October 8-10, 2026|url=https://changeresearch.com/research/2026/2026-10-12-florida-aapor-methodology-statement|publisher=[[Change Research]]|access-date=October 13, 2026}}</ref>{{efn-ua|name=FPUSA}}
 |October 8–10, 2026

@@ -442,16 +442,30 @@ This election will mark Oregon's first gubernatorial rematch since [[1978 Oregon
 | title = Tina Kotek (D)
 | list =
 ;Individuals
+*[[Carrie Brownstein]], musician, actress, writer, director, and comedian<ref name="Brownstein">{{cite web |last1=Slovic |first1=Beth |title=One of Portland’s biggest music stars weighs in on Oregon governor’s race |url=https://www.oregonlive.com/politics/2026/10/one-of-portlands-biggest-music-stars-weighs-in-on-the-governors-race.html |website=OregonLive |access-date=15 October 2026 |date=October 15, 2026}}</ref>
 *[[Jane Fonda]], actress and activist<ref name="Fonda">{{cite web |last1=Kavanaugh |first1=Shane |title=Jane Fonda weighs in on governor’s race: The latest on Oregon’s 2026 election |url=https://www.oregonlive.com/politics/2026/09/jane-fonda-weighs-in-on-governors-race-the-latest-on-oregons-2026-election.html |website=OregonLive |access-date=30 September 2026 |date=September 30, 2026}}</ref>
-*[[Carrie Brownstein]], musician, actress, writer, director, and comedian<ref name="Brownstein">{{cite web |last1=Slovic |first1=Beth |title=One of Portland’s biggest music stars weighs in on Oregon governor’s race
- |url=https://www.oregonlive.com/politics/2026/10/one-of-portlands-biggest-music-stars-weighs-in-on-the-governors-race.html |website=OregonLive |access-date=15 October 2026 |date=October 15, 2026}}</ref>
 
 ;Labor unions
 *[[AFSCME|Oregon AFSCME]]<ref name="AFSCME">{{cite web |title=Oregon AFSCME 2026 Endorsements |url=https://www.politicalaction.oregonafscme.org/elections2026?fbclid=IwY2xjawUqKZxleHRuA2FlbQIxMABwZG9mAWJyaWQRMTNHMEpLVlRpdHRFT0x0QjlzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEel9_Z1ecgFCCPoTDUYRWXuel-ze_9rlSUKn20KmvUCfcocF2XJ97f5xXxVDo_aem_a-M7XoCG80cdMi_ZhJRupw |website=Oregon AFSCME |access-date=30 September 2026}}</ref>
+*[[American Federation of Teachers]] Oregon<ref name="AFT Oregon">{{cite web |title=2026 General Election Voter's Guide |url=https://aft-oregon.org/political-legislative-news/2026-general-election-voters-guide |website=AFT Oregon |access-date=15 October 2026}}</ref>
+*[[Laborers' International Union of North America]] Oregon & Southern Idaho District Council of Laborers<ref name="Oregon LiUNA">{{cite web |title=Oregon LIUNA: 2026 November Election Endorsements |url=https://www.osidclaborers.org/2026-election-endorsements |access-date=15 October 2026}}</ref>
+*Oregon State Fire Fighters Council<ref name="OSFFC">{{cite web |title=OSFFC 2026 General Endorsement List |url=https://www.osffc.org/docs/2026endorsements.general.pdf |access-date=15 October 2026}}</ref>
+*[[United Food and Commercial Workers]] Local 555<ref name="UFCW">{{cite web |title=UFCW 555 Endorsed Labor Champions |url=https://www.ufcw555.org/endorsements/ |access-date=15 October 2026}}</ref>
+
+;Newspapers
+*Lookout Eugene-Springfield<ref name="Lookout">{{cite web |title=Lookout Editorial Board endorsements: state and federal races |url=https://lookouteugene-springfield.com/story/editorials/2026/10/15/lookout-editorial-board-endorsements-state-and-federal-races/ |website=Lookout Eugene-Springfield |access-date=15 October 2026 |date=October 15, 2026}}</ref>
+*[[The Oregonian]]<ref name="Oregonian">{{cite web |title=Editorial endorsement November 2026: A dispirited endorsement for Kotek |url=https://www.oregonlive.com/opinion/2026/10/editorial-endorsement-november-2026-a-dispirited-endorsement-for-kotek.html |website=OregonLive |access-date=15 October 2026 |date=October 14, 2026}}</ref>
+*[[Portland Mercury]]<ref name="Portland Mercury">{{cite web |title=Mercury Endorsements: Vote Kotek For Governor |url=https://www.portlandmercury.com/election-2026/mercury-endorsements-vote-kotek-for-governor/ |website=Portland Mercury |access-date=15 October 2026 |date=October 14, 2026}}</ref>
+*[[Willamette Week]]<ref name="WW">{{cite web |title=WW’s Fall 2026 Endorsements: Statewide |url=https://www.wweek.com/news/2026/10/14/wws-fall-2026-endorsements-statewide/ |website=Willamette Week |access-date=15 October 2026 |date=October 14, 2026}}</ref>
 
 ;Organizations
+*Building Power for Communities of Color<ref name="BPCC">{{cite web |title=BPCC’s 2026 Endorsements |url=https://www.colororegon.org/endorsements-1 |website=Building Power for Communities of Color |access-date=15 October 2026}}</ref>
 *[[End Citizens United]]<ref>{{cite web|title=Endorsements{{Em dash}}End Citizens United|url=https://www.endcitizensunited.org/endorsements#|access-date=June 6, 2026|publisher=[[End Citizens United]]}}</ref>
+*Humane Voters Oregon<ref name="Humane Voters Oregon">{{cite web |title=2026 General Election Endorsements |url=https://www.humanevotersoregon.org/2026endorsements |access-date=15 October 2026}}</ref>
+*[[Reproductive Freedom for All]]<ref name="Reproductive Freedom for All">{{cite web |title=Who We're Endorsing |url=https://reproductivefreedomforall.org/elections/ |website=Reproductive Freedom for All |access-date=15 October 2026}}</ref>
+*Safety & Justice Oregon<ref name="SJ Oregon">{{cite web |title=November 2026 Endorsements |url=https://sjoregon.org/endorsements/ |website=Safety and Justice Oregon |access-date=15 October 2026}}</ref>
 *[[Sierra Club]] Oregon<ref name="Sierra">{{cite web |title=2026 General Election Candidate Endorsements |url=https://www.sierraclub.org/oregon/2026-general-election-candidate-endorsements |website=Sierra Club Oregon Chapter |access-date=30 September 2026}}</ref>
+*[[Stand for Children]] Oregon<ref name="Stand for Children Oregon">{{cite web |title=endorsing education champions |url=https://stand.org/oregon/elections/endorsements/ |website=Stand for Children Oregon |access-date=15 October 2026}}</ref>
 
 ;Political parties
 *Oregon [[Working Families Party]]<ref name=opb>{{cite web|url=https://www.opb.org/article/2026/08/21/kotek-drazan-smith-minor-parties-three-way-race-oregon-governor/|title=Kotek snags final minor-party nomination, likely cementing a three-way race for Oregon governor|first=Dirk|last=VanderHart|publisher=[[Oregon Public Broadcasting]]|date=August 21, 2026|access-date=August 27, 2026}}</ref>
@@ -464,7 +478,11 @@ This election will mark Oregon's first gubernatorial rematch since [[1978 Oregon
 *Oregon [[Fraternal Order of Police]]<ref>{{cite web|title=For Immediate Release: Oregon Fraternal Order of Police and Oregon State FOP Labor Coalition|url=https://www.facebook.com/foporegon/posts/for-immediate-releaseoregon-fraternal-order-of-police-and-oregon-state-fop-labor/1539992758162276/|publisher=Facebook|access-date=August 28, 2026}}</ref>
 
 ;Organizations
+*AG-PAC<ref name="AG-PAC">{{cite web |title=2026 Candidate Endorsements |url=https://www.agpacoregon.org/endorsements |website=AG-PAC |access-date=15 October 2026 |date=October 15, 2025}}</ref>
+*[[Associated General Contractors of America]] Oregon-Columbia Chapter<ref name="AGC">{{cite web |url=https://www.facebook.com/AgcOregonColumbiaChapter/posts/comprised-of-67-members-representing-oregons-construction-industry-the-agc-orego/1449001577269109/ |website=[[Facebook]] |access-date=15 October 2026 |date=April 16, 2026}}</ref>
 *[[National Federation of Independent Business]]<ref name="NFIB">{{cite web |title=NFIB Endorses Christine Drazan for Oregon Governor |url=https://www.nfib.com/news/press-release/nfib-endorses-christine-drazan-for-oregon-governor/ |website=[[National Federation of Independent Business]] |access-date=30 September 2026 |date=September 29, 2026}}</ref>
+*Oregon Farm Bureau<ref name="Oregon Farm Bureau">{{cite web |title=Farm Bureau endorses Drazan |url=https://oregoncatalyst.com/94755-farm-bureau-endorses-drazan-governor.html |access-date=15 October 2026 |date=February 17, 2026}}</ref>
+*Oregon Nurseries’ Political Action Committee<ref name="ONPAC">{{cite web |title=ONPAC endorses Christine Drazan for Oregon governor |url=https://www.oan.org/news/716526/ONPAC-endorses-Christine-Drazan-for-Oregon-governor.htm |website=ONPAC |access-date=15 October 2026 |date=December 4, 2025}}</ref>
 
 ;Political parties
 *[[Libertarian Party of Oregon]] ''(cross-nomination)''<ref name=opb />

@@ -886,26 +886,26 @@ Hashes indicate a tie.
 |{{party shading/DFL}} |'''Klobuchar +4.5%'''
 |-
 |[[RealClearPolitics]]<ref>{{cite web|title=2026 Minnesota Governor - Demuth vs. Klobuchar|url=https://www.realclearpolling.com/polls/governor/general/2026/minnesota/demuth-vs-klobuchar|access-date=October 11, 2026|website=[[RealClearPolitics]]}}</ref>
-|August 31 – October 7, 2026
-|October 13, 2026
-|{{party shading/DFL}} |'''48.4%'''
-|41.0%
-|10.6%
+|August 31 – October 12, 2026
+|October 15, 2026
+|{{party shading/DFL}} |'''48.6%'''
+|41.2%
+|10.2%
 |{{party shading/DFL}} |'''Klobuchar +7.4%'''
 |-
 |''[[Silver Bulletin]]''<ref name="Silver"/>
-|through October 7, 2026
-|October 11, 2026
+|through October 12, 2026
+|October 15, 2026
 |{{party shading/DFL}}|'''49.4%'''
-|40.5%
-|10.1%
-|{{party shading/DFL}}|'''Klobuchar +8.9%'''
+|41.0%
+|9.6%
+|{{party shading/DFL}}|'''Klobuchar +8.4%'''
 |-
 |colspan="3" |'''Average'''
 |{{party shading/DFL}} |'''48.3%'''
-|41.3%
-|10.4%
-|{{party shading/DFL}} |'''Klobuchar +7.0%'''
+|41.6%
+|10.1%
+|{{party shading/DFL}} |'''Klobuchar +6.7%'''
 |}
 
 {| class="wikitable" style="font-size:90%;text-align:center;"
