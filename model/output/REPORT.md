@@ -181,41 +181,41 @@ Prior = average of 7 forecaster ratings (Cook, DDHQ, Fox, Inside Elections, RCP,
 
 | state | candidates | holder | rating_score | prior_margin | poll_margin_d | poll_sources | est_margin | p_dem | p_dem_pres_style_D_overstatement | p_dem_r_overstatement_2025 | market_p_dem_polymarket |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| PA | Josh Shapiro (D) vs Stacy Garrity (R) | D | +3.00 | D+16.0 | D+22.6 | 5 | D+21.6 | 99.9% | 99.8% | 100.0% | 97.6% |
-| MA | Maura Healey (D) vs Mike Minogue (R) | D | +3.00 | D+16.0 | D+20.1 | 3 | D+18.9 | 99.8% | 99.3% | 100.0% | 95.9% |
+| PA | Josh Shapiro (D) vs Stacy Garrity (R) | D | +3.00 | D+16.0 | D+22.6 | 5 | D+21.6 | 99.9% | 99.8% | 100.0% | 98.0% |
+| MA | Maura Healey (D) vs Mike Minogue (R) | D | +3.00 | D+16.0 | D+20.1 | 3 | D+18.9 | 99.8% | 99.3% | 100.0% | 96.2% |
 | CA | Xavier Becerra (D) vs Steve Hilton (R) | D | +3.00 | D+16.0 | D+19.8 | 2 | D+18.2 | 99.4% | 98.5% | 99.9% | – |
-| RI | Helena Foulkes (D) vs Ken Block (I) | D | +3.00 | D+16.0 | D+19.0 | 1 | D+17.0 | 98.8% | 97.2% | 99.8% | 96.7% |
-| CT | Ned Lamont (D) vs Ryan Fazio (R) | D | +2.86 | D+15.0 | D+13.9 | 3 | D+14.3 | 98.8% | 96.7% | 99.8% | 96.7% |
+| RI | Helena Foulkes (D) vs Ken Block (I) | D | +3.00 | D+16.0 | D+19.0 | 1 | D+17.0 | 98.8% | 97.2% | 99.8% | 96.9% |
+| CT | Ned Lamont (D) vs Ryan Fazio (R) | D | +2.86 | D+15.0 | D+13.9 | 3 | D+14.3 | 98.8% | 96.7% | 99.8% | 96.5% |
 | NY | Kathy Hochul (D) vs Bruce Blakeman (R) | D | +2.71 | D+14.0 | D+12.3 | 5 | D+12.6 | 98.3% | 95.1% | 99.8% | 95.1% |
-| ME | Hannah Pingree (D) vs Bobby Charles (R) | D | +2.57 | D+13.0 | D+11.8 | 5 | D+12.0 | 98.1% | 94.5% | 99.8% | 95.4% |
+| ME | Hannah Pingree (D) vs Bobby Charles (R) | D | +2.57 | D+13.0 | D+11.8 | 5 | D+12.0 | 98.1% | 94.5% | 99.8% | 95.3% |
 | HI | Josh Green (D) vs Gary Cordery (R) | D | +3.00 | D+16.0 | – | 0 | D+16.0 | 97.5% | 94.8% | 99.4% | 99.3% |
-| MD | Wes Moore (D) vs Dan Cox (R) | D | +3.00 | D+16.0 | – | 0 | D+16.0 | 97.4% | 94.9% | 99.4% | 97.8% |
-| IL | JB Pritzker (D) vs Darren Bailey (R) | D | +2.86 | D+15.0 | – | 0 | D+15.0 | 96.7% | 93.3% | 99.3% | 97.7% |
-| CO | Phil Weiser (D) vs Victor Marx (R) | D | +2.86 | D+15.0 | – | 0 | D+15.0 | 96.6% | 93.3% | 99.2% | 96.8% |
-| IA | Rob Sand (D) vs Zach Lahn (R) | R | +1.21 | D+5.5 | D+8.3 | 5 | D+7.9 | 92.2% | 81.3% | 99.0% | 90.5% |
+| MD | Wes Moore (D) vs Dan Cox (R) | D | +3.00 | D+16.0 | – | 0 | D+16.0 | 97.4% | 94.9% | 99.4% | 98.0% |
+| IL | JB Pritzker (D) vs Darren Bailey (R) | D | +2.86 | D+15.0 | – | 0 | D+15.0 | 96.7% | 93.3% | 99.3% | 98.1% |
+| CO | Phil Weiser (D) vs Victor Marx (R) | D | +2.86 | D+15.0 | – | 0 | D+15.0 | 96.6% | 93.3% | 99.2% | 96.5% |
+| IA | Rob Sand (D) vs Zach Lahn (R) | R | +1.21 | D+5.5 | D+8.3 | 5 | D+7.9 | 92.2% | 81.3% | 99.0% | 88.5% |
 | MN | Amy Klobuchar (D) vs Lisa Demuth (R) | D | +2.43 | D+12.0 | D+6.9 | 3 | D+8.2 | 91.8% | 81.5% | 98.8% | 95.5% |
-| NM | Deb Haaland (D) vs Gregg Hull (R) | D | +2.43 | D+12.0 | D+7.9 | 1 | D+10.6 | 91.7% | 84.4% | 98.2% | 93.0% |
+| NM | Deb Haaland (D) vs Gregg Hull (R) | D | +2.43 | D+12.0 | D+7.9 | 1 | D+10.6 | 91.7% | 84.4% | 98.2% | 92.5% |
 | MI | Jocelyn Benson (D) vs John James (R) | D | +1.21 | D+5.5 | D+7.7 | 5 | D+7.3 | 90.8% | 78.6% | 98.9% | 95.2% |
 | AZ | Katie Hobbs (D) vs Andy Biggs (R) | D | +1.07 | D+4.8 | D+8.1 | 5 | D+7.6 | 90.2% | 78.8% | 98.7% | 88.5% |
 | AK | Jonathan Kreiss-Tomkins (D) vs Bernadette Wilson (R) | R | +0.71 | D+3.1 | D+6.0 | 2 | D+4.8 | 77.3% | 61.4% | 94.8% | 76.6% |
 | OH | Amy Acton (D) vs Vivek Ramaswamy (R) | R | +0.14 | D+0.6 | D+4.5 | 5 | D+3.9 | 76.6% | 57.2% | 96.0% | 71.5% |
 | OR | Tina Kotek (D) vs Christine Drazan (R) | D | +1.14 | D+5.1 | D+2.0 | 1 | D+4.0 | 72.0% | 55.9% | 92.2% | 75.5% |
-| WI | David Crowley (D) vs Tom Tiffany (R) | D | +0.43 | D+1.7 | D+3.0 | 1 | D+2.1 | 62.6% | 44.9% | 88.0% | 81.0% |
-| NV | Aaron Ford (D) vs Joe Lombardo (R) | R | -0.07 | R+0.3 | R+0.9 | 4 | R+0.8 | 44.1% | 25.2% | 81.7% | 52.0% |
-| GA | Keisha Lance Bottoms (D) vs Rick Jackson (R) | R | +0.14 | D+0.6 | R+1.7 | 5 | R+1.4 | 39.9% | 21.3% | 80.2% | 48.5% |
+| WI | David Crowley (D) vs Tom Tiffany (R) | D | +0.43 | D+1.7 | D+3.0 | 1 | D+2.1 | 62.6% | 44.9% | 88.0% | 81.5% |
+| NV | Aaron Ford (D) vs Joe Lombardo (R) | R | -0.07 | R+0.3 | R+0.9 | 4 | R+0.8 | 44.1% | 25.2% | 81.7% | 52.5% |
+| GA | Keisha Lance Bottoms (D) vs Rick Jackson (R) | R | +0.14 | D+0.6 | R+1.7 | 5 | R+1.4 | 39.9% | 21.3% | 80.2% | 50.5% |
 | TX | Gina Hinojosa (D) vs Greg Abbott (R) | R | -1.00 | R+4.5 | R+2.0 | 5 | R+2.3 | 34.6% | 18.6% | 73.0% | 22.5% |
-| VT | Amanda Janoo (D) vs Phil Scott (R) | R | -1.86 | R+8.4 | R+2.3 | 3 | R+3.8 | 25.4% | 12.3% | 64.8% | 24.9% |
+| VT | Amanda Janoo (D) vs Phil Scott (R) | R | -1.86 | R+8.4 | R+2.3 | 3 | R+3.8 | 25.4% | 12.3% | 64.8% | 24.5% |
 | FL | David Jolly (D) vs Byron Donalds (R) | R | -1.00 | R+4.5 | R+4.6 | 5 | R+4.6 | 21.1% | 9.5% | 59.9% | 20.5% |
 | KS | Cindy Holscher (D) vs Ty Masterson (R) | D | -0.79 | R+3.4 | R+5.3 | 3 | R+4.8 | 20.4% | 9.3% | 58.1% | 23.0% |
 | NE | Lynne Walz (D) vs Jim Pillen (R) | R | -2.43 | R+12.0 | R+6.7 | 3 | R+8.0 | 9.0% | 3.6% | 36.4% | 9.5% |
 | OK | Cyndi Munson (D) vs Mike Mazzei (R) | R | -2.57 | R+13.0 | – | 0 | R+13.0 | 5.3% | 2.5% | 18.2% | 8.5% |
 | SC | Jermaine Johnson (D) vs Alan Wilson (R) | R | -2.57 | R+13.0 | R+10.0 | 1 | R+11.9 | 4.8% | 2.1% | 19.1% | 4.8% |
-| TN | Jerri Green (D) vs Marsha Blackburn (R) | R | -2.86 | R+15.0 | – | 0 | R+15.0 | 3.2% | 1.6% | 12.1% | 5.6% |
-| AL | Doug Jones (D) vs Tommy Tuberville (R) | R | -2.86 | R+15.0 | – | 0 | R+15.0 | 3.2% | 1.6% | 12.2% | 6.0% |
-| NH | Cinde Warmington (D) vs Kelly Ayotte (R) | R | -2.00 | R+9.0 | R+11.1 | 4 | R+10.8 | 2.9% | 0.9% | 19.2% | 5.0% |
-| ID | Terri Pickens (D) vs Brad Little (R) | R | -3.00 | R+16.0 | – | 0 | R+16.0 | 2.6% | 1.3% | 10.0% | 1.9% |
-| AR | Fredrick Love (D) vs Sarah Huckabee Sanders (R) | R | -3.00 | R+16.0 | – | 0 | R+16.0 | 2.5% | 1.2% | 10.0% | 2.5% |
-| SD | Dan Ahlers (D) vs Larry Rhoden (R) | R | -3.00 | R+16.0 | – | 0 | R+16.0 | 2.5% | 1.2% | 10.1% | 2.1% |
+| TN | Jerri Green (D) vs Marsha Blackburn (R) | R | -2.86 | R+15.0 | – | 0 | R+15.0 | 3.2% | 1.6% | 12.1% | 5.9% |
+| AL | Doug Jones (D) vs Tommy Tuberville (R) | R | -2.86 | R+15.0 | – | 0 | R+15.0 | 3.2% | 1.6% | 12.2% | 5.9% |
+| NH | Cinde Warmington (D) vs Kelly Ayotte (R) | R | -2.00 | R+9.0 | R+11.1 | 4 | R+10.8 | 2.9% | 0.9% | 19.2% | 5.7% |
+| ID | Terri Pickens (D) vs Brad Little (R) | R | -3.00 | R+16.0 | – | 0 | R+16.0 | 2.6% | 1.3% | 10.0% | 2.1% |
+| AR | Fredrick Love (D) vs Sarah Huckabee Sanders (R) | R | -3.00 | R+16.0 | – | 0 | R+16.0 | 2.5% | 1.2% | 10.0% | 2.8% |
+| SD | Dan Ahlers (D) vs Larry Rhoden (R) | R | -3.00 | R+16.0 | – | 0 | R+16.0 | 2.5% | 1.2% | 10.1% | 1.8% |
 | WY | Kenneth Casner (D) vs Eric Barlow (R) | R | -3.00 | R+16.0 | – | 0 | R+16.0 | 2.4% | 1.3% | 9.9% | 1.3% |
 
 ## Most competitive House seats (unbiased scenario)

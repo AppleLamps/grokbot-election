@@ -397,9 +397,9 @@ In early September, ''[[The Des Moines Register]]'' reported that the [[Black Ha
 |{{USRaceRating|Lean|D|Flip)}}
 |October 13,  2026
 |-
-|align=left|[[Decision Desk HQ]]<ref name="DDHQ">{{cite web |title=2026 Governor Forecast |url=https://votes.decisiondeskhq.com/forecast/2026/governor |website=[[Decision Desk HQ]] |access-date=October 11, 2026}}</ref>
-|{{USRaceRating|Likely|D|Flip}}
-|October 14, 2026
+|align=left|[[Decision Desk HQ]]<ref name="DDHQ">{{cite web |title=2026 Governor Forecast |url=https://votes.decisiondeskhq.com/forecast/2026/governor |website=[[Decision Desk HQ]] |access-date=October 15, 2026}}</ref>
+|{{USRaceRating|Lean|D|Flip}}
+|October 15, 2026
 |-
 |align=left|[[Fox News]]<ref>{{Cite news |last=Numa |first=Rémy |title=Fox News Power Rankings: The biggest surprises come after October |url=https://www.foxnews.com/politics/fox-news-power-rankings-the-biggest-surprises-come-after-october |work=[[Fox News]] |date=October 6, 2026 |access-date=October 11, 2026}}</ref>
 |{{USRaceRating|Lean|D|Flip}}
