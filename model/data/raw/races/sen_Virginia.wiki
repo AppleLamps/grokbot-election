@@ -378,17 +378,15 @@ Two proposed debates were canceled, with the Warner campaign's noncommittal stan
 |}
 
 ===Post-primary endorsements===
-{{Endorsements box
-|title=Mark Warner (D)
-|list =
-;U.S. Representatives
-*[[Barbara Comstock]], former U.S. Representative for Virginia's [[Virginia's 10th congressional district|10th district]] (2015–2019) ''(Republican)''<ref name="fr"/>
-*[[Denver Riggleman]], former U.S. Representative for Virginia's [[Virginia's 5th congressional district|5th district]] (2019–2021) ''(Independent; elected as a Republican)''<ref name="fr"/>
-
+{{Endorsements box|title=Mark Warner (D)|list =
+;U.S. representatives
+*[[Barbara Comstock]], former {{ushr|VA|10|VA-10}} (2015–2019) ''(Republican)''<ref name="fr"/>
+*[[Denver Riggleman]], former [[VA-05]] (2019–2021) ''(Independent; elected as a Republican)''<ref name="fr"/>
 ;State legislators
-*[[Tommy Norment]], former [[Virginia Senate]] Republican caucus leader (2012–2024) from the [[Virginia's 3rd Senate district|3rd district]] (1992–2024) ''(Republican)''<ref name="fr">{{Cite web|last1=Martz|first1=Michael|title=Former Republican Senate leader endorses Sen. Mark Warner|url=https://richmond.com/news/state-regional/government-politics/elections/article_9612fd92-212f-485f-b01e-f0530fb5efbe.html|date=October 7, 2026|website=[[Richmond Times-Dispatch]]}}</ref>
-*[[Ken Stolle]], former State Senator from the [[Virginia's 8th Senate district|8th district]] (1992–2010) and former [[sheriff]] of [[Virginia Beach, Virginia|Virginia Beach]] (2010–2024) ''(Republican)''<ref name="fr"/>
-*[[John Watkins (Virginia politician, born 1947)|John Watkins]], former State Senator from the [[Virginia's 10th Senate district|10th district]] (1998–2016) ''(Republican)''<ref name="fr"/>
+*[[Tommy Norment]], former [[Virginia Senate]] Republican caucus leader (2012–2024) from [[Virginia's 3rd Senate district|SD-03]] (1992–2024) ''(Republican)''<ref name="fr">{{Cite web|last=Martz|first=Michael|date=October 7, 2026|title=Former Republican Senate leader endorses Sen. Mark Warner|url=https://richmond.com/news/state-regional/government-politics/elections/article_9612fd92-212f-485f-b01e-f0530fb5efbe.html|work=[[Richmond Times-Dispatch]]|access-date=October 7, 2026}}</ref>
+*[[John Watkins (Virginia politician, born 1947)|John Watkins]], former [[Virginia's 10th Senate district|SD-10]] (1998–2016) ''(Republican)''<ref name="fr"/>
+;Local officials
+*[[Ken Stolle]], former [[sheriff]] of [[Virginia Beach, Virginia|Virginia Beach]] (2010–2024) ''(Republican)''<ref name="fr"/>
 }}
 
 ===Polling===

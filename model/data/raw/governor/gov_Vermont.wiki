@@ -197,9 +197,9 @@ While Scott has historically won elections by landslide margins, 2026 was shapin
 |{{USRaceRating|Likely|R}}
 |October 6, 2026
 |-
-|align=left|''[[Inside Elections]]''<ref>{{Cite web|title=Gubernatorial Ratings|url=https://insideelections.com/ratings/governor|access-date=October 11, 2026|website=[[Inside Elections]]}}</ref>
-|{{USRaceRating|Solid|R}}
-|October 1, 2026
+|align=left|''[[Inside Elections]]''<ref>{{Cite web|title=Gubernatorial Ratings|url=https://insideelections.com/ratings/governor|access-date=October 15, 2026|website=[[Inside Elections]]}}</ref>
+|{{USRaceRating|Likely|R}}
+|October 15, 2026
 |-
 |align="left"|[[RealClearPolitics]]<ref>{{Cite web|url=https://www.realclearpolling.com/maps/governor/2026/toss-up |title=2026 Governor Races |website=[[RealClearPolitics]] |access-date=October 11, 2026}}</ref>
 |{{USRaceRating|Lean|R}}

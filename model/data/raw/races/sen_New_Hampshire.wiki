@@ -33,7 +33,7 @@
 }}
 {{ElectionsNH}}
 
-The '''2026 United States Senate election in New Hampshire''' will be held on November 3, 2026, to elect a member of the [[United States Senate]] to represent the state of [[New Hampshire]]. [[Democratic Party (United States)|Democratic]] congressman [[Chris Pappas (American politician)|Chris Pappas]] and [[Republican Party (United States)|Republican]] former senator [[John E. Sununu|John Sununu]] are the nominees for their respective parties. Democratic incumbent [[Jeanne Shaheen]] is not seeking re-election, after serving three terms.
+The '''2026 United States Senate election in New Hampshire''' will be held on November 3, 2026, to elect a member of the [[United States Senate]] to represent the state of [[New Hampshire]]. [[Democratic Party (United States)|Democratic]] congressman [[Chris Pappas (American politician)|Chris Pappas]] and [[Republican Party (United States)|Republican]] former senator [[John E. Sununu|John Sununu]] are the nominees for their respective parties. Democratic incumbent [[Jeanne Shaheen]] is not seeking re-election to a fourth term.
 
 [[Primary elections]] were held on September 8. Pappas won the Democratic nomination with 65% of the vote against medical scientist Karishma Manzur. Sununu, who held the seat for one term until he was defeated by Shaheen in [[2008 United States Senate election in New Hampshire|2008]], won the Republican nomination with 68.5% of the vote against former Massachusetts senator [[Scott Brown (politician)|Scott Brown]].
 
@@ -837,9 +837,9 @@ Shaheen was first elected in [[2008 United States Senate election in New Hampshi
 |{{USRaceRating|Lean|D}}
 |October 6, 2026
 |-
-|align="left"|''[[Inside Elections]]''<ref>{{Cite web|title=Senate Ratings|url=https://www.insideelections.com/ratings/senate|access-date=October 7, 2026|website=[[Inside Elections]]}}</ref>
-|{{USRaceRating|Tossup}}
-|October 1, 2026
+|align="left"|''[[Inside Elections]]''<ref>{{Cite web|title=Senate Ratings|url=https://www.insideelections.com/ratings/senate|access-date=October 15, 2026|website=[[Inside Elections]]}}</ref>
+|{{USRaceRating|Tilt|D}}
+|October 15, 2026
 |-
 |align="left"|[[MS NOW]]<ref>{{Cite news |url=https://www.ms.now/news/2026-senate-ratings-ms-nows-races-to-watch |title=2026 Senate ratings: MS NOW's races to watch |last1=Khanna |first1=Kabir |last2=Thomas |first2=Shawna |orig-date=August 19, 2026 |work=[[MS NOW]] |date=September 16, 2026 |access-date=October 7, 2026}}</ref>
 |{{USRaceRating|Lean|D}}
@@ -870,7 +870,7 @@ Shaheen was first elected in [[2008 United States Senate election in New Hampshi
 *[[Gavin Newsom]], [[governor of California]] (2019–present)<ref>{{cite web|url=https://www.aol.com/articles/gavin-newsom-parachute-back-hampshire-002759000.html|title=Gavin Newsom to parachute back into New Hampshire ahead of midterm elections|last=Keohn|first=Josh|date=October 14, 2026|access-date=October 14, 2026|website=[[AOL]]}}</ref>
 
 ;Individuals
-*[[Don Bolduc]], retired [[Brigadier general|brigadier general]] and [[Republican Party (United States)|Republican]] nominee for [[United States Senate]] in [[2022 United States Senate election in New Hampshire|2022]] ''(Republican)''<ref>{{Cite web|url=https://www.unionleader.com/news/politics/bolduc-joins-republicans-independents-backing-pappas-for-senate-10f2fd54|title=Don Bolduc, 2022 GOP Senate nominee, endorses Democrat Chris Pappas over John E. Sununu|last=Landrigan|first=Kevin|date=October 15, 2026|access-date=October 15, 2026|website=New Hampshire Union Leader}}</ref>
+*[[Don Bolduc]], retired [[Brigadier general|brigadier general]] and Republican [[2022 United States Senate election in New Hampshire|2022 U.S. Senate]] nominee<ref>{{Cite web|url=https://www.unionleader.com/news/politics/bolduc-joins-republicans-independents-backing-pappas-for-senate-10f2fd54|title=Don Bolduc, 2022 GOP Senate nominee, endorses Democrat Chris Pappas over John E. Sununu|last=Landrigan|first=Kevin|date=October 15, 2026|access-date=October 15, 2026|website=New Hampshire Union Leader}}</ref>
 
 ;Organizations
 *[[J Street]]<ref>{{Cite web |title=Chris Pappas|url=https://jstreetpac.org/candidate/chris-pappas/|access-date=September 22, 2026 |publisher=J Street PAC |language=en-US}}</ref>

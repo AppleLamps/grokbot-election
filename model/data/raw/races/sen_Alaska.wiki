@@ -542,6 +542,9 @@ On September 23, ''[[The New York Times]]'' published allegations from anonymous
 ;Local officials
 * [[Dan Sullivan (Anchorage mayor)|Dan Sullivan]], [[List of mayors of Anchorage, Alaska|mayor of Anchorage]] (2009–2015)<ref>{{cite web |last= Coronell Uribe |first= Raquel |title=Dan Sullivan endorses Dan Sullivan to beat Dan Sullivan in perplexing Alaska Senate race |url=https://www.nbcnews.com/politics/2026-election/dan-sullivan-endorses-dan-sullivan-beat-dan-sullivan-perplexing-alaska-rcna594063 |website=[[NBCNews.com]] |date=August 23, 2026 |access-date=September 29, 2026}}</ref>
 
+;Individuals
+*[[Al Gross (politician)|Al Gross]], orthopedic surgeon ''(co-endorsement with Daniel J. Sullivan Jr.)'' ''(Independent)''<ref name="Gross">{{cite web|url=https://www.adn.com/opinions/2026/10/15/opinion-why-im-crossing-the-aisle-for-either-dan-sullivan/|title=Opinion: Why I’m crossing the aisle for either Dan Sullivan|last=Gross|first=Al|date=October 15, 2026|access-date=October 15, 2026|website=[[Anchorage Daily News]]}}</ref>
+
 ;Labor unions
 * Public Safety Employees Association [[American Federation of State, County and Municipal Employees|AFSCME]] Local 803<ref>{{cite news |last1=Sorrell |first1=Nick |title=Alaska Public Safety Union Endorses Dan Sullivan for U.S. Senate |url=https://radiokenai.com/alaska-public-safety-union-endorses-dan-sullivan-for-u-s-senate/ |access-date=September 2, 2026 |work=[[KSRM]] |date=September 1, 2026}}</ref>
 
@@ -551,7 +554,9 @@ On September 23, ''[[The New York Times]]'' published allegations from anonymous
 * [[Safari Club International]]<ref>{{cite web |title=SCI-PAC Endorses Sen. Dan Sullivan for Reelection in Alaska|url=https://safariclub.org/sci-pac-endorses-sen-dan-sullivan-for-reelection-in-alaska/ |website=[[Safari Club International]] |date=September 29, 2026 |access-date=September 29, 2026}}</ref>
 * [[Sealaska Corporation]] (''co-endorsed with Peltola'')<ref>{{cite web |title=Sealaska Board Announces Get Out the Native Vote Campaign and 2026 General Election Endorsements |url=https://www.mysealaska.com/news/item/local/Sealaska-Board-Announces-Get-Out-the-Native-Vote-Campaign-and-2026-General-Election-Endorsements/ |website=[[Sealaska Corporation]] |date=August 28, 2026 |access-date=September 29, 2026}}</ref>
 }}
-{{Endorsements box|title=Mary Peltola (D)|list=
+{{Endorsements box
+|title=Mary Peltola (D)
+|list=
 ;Statewide officials
 *[[Tony Knowles (politician)|Tony Knowles]], former [[List of governors of Alaska|governor of Alaska]] (1994–2002)<ref>{{Cite web|url=https://www.adn.com/opinions/2026/09/24/opinion-we-can-trust-mary-peltola-to-fight-for-alaska-families/|title=We can trust Mary Peltola to fight for Alaska families|last=Knowles|first=Tony|date=September 23, 2026|access-date=October 5, 2026|website=[[Anchorage Daily News]]}}</ref>
 *[[Fran Ulmer]], former [[Lieutenant Governor of Alaska|lieutenant governor of Alaska]] (1994–2002)<ref>{{cite news |last1=Ulmer |first1=Fran |title=Letter: A different vote for a different direction |url=https://www.adn.com/opinions/letters/2026/10/03/letter-a-different-vote-for-a-different-direction/ |work=[[Anchorage Daily News]] |date=October 3, 2026}}</ref>
@@ -561,7 +566,14 @@ On September 23, ''[[The New York Times]]'' published allegations from anonymous
 *[[Matthew Yglesias]], journalist<ref>{{Cite web|url=https://www.slowboring.com/p/the-midterm-candidates-who-deserve|title=The midterm candidates who deserve your money|date=July 13, 2026|access-date=September 22, 2026|last=Yglesias|first=Matthew|website=Slow Boring}}</ref>
 
 ;Labor unions
-*[[Communications Workers of America]]<ref>{{Cite web |title=Endorsements for Mary Peltola - Alaska Democratic Party Candidate |url=https://bluevoterguide.org/AK/candidate_Mary_Peltola/352697 |access-date=2026-10-02 |website=bluevoterguide.org |language=en}}</ref>}}
+*[[Communications Workers of America]]<ref>{{Cite web |title=Endorsements for Mary Peltola - Alaska Democratic Party Candidate |url=https://bluevoterguide.org/AK/candidate_Mary_Peltola/352697 |access-date=2026-10-02 |website=bluevoterguide.org |language=en}}</ref>
+}}
+{{Endorsements box
+|title=Daniel J. Sullivan Jr. (NPL)
+|list=
+;Individuals
+*[[Al Gross (politician)|Al Gross]], orthopedic surgeon ''(co-endorsement with Dan S. Sullivan)'' ''(Independent)''<ref name="Gross"/>
+}}
 
 ===Fundraising===
 {| class="wikitable sortable"

@@ -310,9 +310,9 @@ One issue raised during the campaign was Roger Marshall's history of suing over 
 |{{USRaceRating|Lean|R}}
 |October 12, 2026
 |-
-|align="left"|''[[Inside Elections]]''<ref>{{Cite web|title=Senate Ratings|url=https://www.insideelections.com/ratings/senate|access-date=October 7, 2026 |website=[[Inside Elections]]}}</ref>
-|{{USRaceRating|Likely|R}}
-|October 1, 2026
+|align="left"|''[[Inside Elections]]''<ref>{{Cite web|title=Senate Ratings|url=https://www.insideelections.com/ratings/senate|access-date=October 15, 2026 |website=[[Inside Elections]]}}</ref>
+|{{USRaceRating|Tilt|R}}
+|October 15, 2026
 |-
 |align="left"|[[RealClearPolitics]]<ref>{{Cite web|url=https://www.realclearpolling.com/maps/senate/2026/toss-up|title=Battle for the Senate 2026|access-date=October 7, 2026|website=[[RealClearPolitics]]}}</ref>
 |{{USRaceRating|Tossup}}

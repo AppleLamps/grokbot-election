@@ -37,7 +37,7 @@ The following are the latest published ratings for competitive seats.
 !Incumbent
 !Last result<ref name="2020results">{{cite web |url=https://www.cnn.com/election/2024/results/house |title=Election 2024: House results |publisher=CNN |access-date=March 7, 2025}}</ref>
 ![[Cook Political Report|Cook]]<br>{{small|Oct. 9,<br>2026}}<ref name="CPRratings1">{{cite web |url=https://www.cookpolitical.com/ratings/house-race-ratings|title=2026 CPR House Race Ratings|publisher=Cook Political Report|access-date=November 14, 2025}}</ref>
-![[Stuart Rothenberg|IE]]<br>{{small|Oct. 1,<br>2026}}<ref>{{cite web |title=2026 House Ratings |url=https://insideelections.com/ratings/house |publisher=Inside elections |access-date=December 6, 2025 |language=en}}</ref>
+![[Stuart Rothenberg|IE]]<br>{{small|Oct. 15,<br>2026}}<ref>{{cite web |title=2026 House Ratings |url=https://insideelections.com/ratings/house |publisher=Inside elections |access-date=December 6, 2025 |language=en}}</ref>
 ![[Sabato's Crystal Ball|Sabato]]<br>{{small|Oct. 8,<br>2026}}<ref name=":0">{{cite web |title=2026 House Ratings |url=https://centerforpolitics.org/crystalball/2026-house/ |website=Sabato's Crystal Ball |access-date=December 10, 2025}}</ref>
 ![[The Economist|Econ.]]<br>{{small|Oct. 7,<br>2026}}<ref>{{cite web |title=US Midterms 2026 |url=https://www.economist.com/interactive/2026/us-midterms/prediction-model/house?itm_source=parsely-api |access-date=October 7, 2026 |website=[[The Economist]] |language=en-US}}</ref>{{efn|This forecast uses the terms "Likely" and "Very Likely" the same way the other forecasts use the terms "Lean" and "Likely". To avoid confusion, and for the purposes of equivalency, the terms "Likely" and "Very Likely" will be changed to "Lean" and "Likely" for the purposes of this page. Also, "tossup" is labeled "uncertain", but for the purposes of this page, it will be labelled "tossup".}}
 ![[Split Ticket (website)|ST]]<br />{{small|Oct. 8,<br/>2026}}<ref>{{cite web |title=Split Ticket 2026 Midterms Model |url=https://www.theargumentmag.com/p/split-ticket-2026-midterms-model |website=www.theargumentmag.com |publisher=The Argument |access-date=October 8, 2026 |language=en}}</ref>
@@ -53,7 +53,7 @@ The following are the latest published ratings for competitive seats.
 | {{Party shading/Democratic}} |{{sortname|Shomari|Figures}}
 | {{Party shading/Democratic}} data-sort-value="-54.6" |54.6% D
 |{{USRaceRating|Likely|R|Flip}}
-|{{USRaceRating|Likely|R|Flip}}
+|{{USRaceRating|Lean|R|Flip}}
 |{{USRaceRating|Lean|R|Flip}}
 |{{USRaceRating|Likely|R|Flip}}
 |{{USRaceRating|Tossup}}
@@ -83,7 +83,7 @@ The following are the latest published ratings for competitive seats.
 | {{Party shading/Republican}} |{{sortname|David|Schweikert}}<br>{{small|(retiring)}}
 | {{Party shading/Republican}} data-sort-value="51.9" |51.9% R
 |{{USRaceRating|Lean|D|Flip}}
-|{{USRaceRating|Tossup}}
+|{{USRaceRating|Tilt|D|Flip}}
 |{{USRaceRating|Tossup}}
 |{{USRaceRating|Likely|D|Flip}}
 |{{USRaceRating|Likely|D|Flip}}
@@ -158,7 +158,7 @@ The following are the latest published ratings for competitive seats.
 | {{Party shading/Republican}} |{{sortname|French|Hill|dab=politician}}
 | {{Party shading/Republican}} data-sort-value="58.9" |58.9% R
 |{{USRaceRating|Likely|R}}
-|{{USRaceRating|Solid|R}}
+|{{USRaceRating|Likely|R}}
 |{{USRaceRating|Likely|R}}
 |{{USRaceRating|Lean|R}}
 |{{USRaceRating|Likely|R}}
@@ -728,7 +728,7 @@ The following are the latest published ratings for competitive seats.
 | {{Party shading/Republican}} |{{sortname|Victoria|Spartz}} 
 | {{Party shading/Republican}} data-sort-value="56.6" |56.6% R
 |{{USRaceRating|Likely|R}}
-|{{USRaceRating|Solid|R}}
+|{{USRaceRating|Likely|R}}
 |{{USRaceRating|Safe|R}}
 |{{USRaceRating|Likely|R}}
 |{{USRaceRating|Likely|R}}
@@ -758,7 +758,7 @@ The following are the latest published ratings for competitive seats.
 | {{Party shading/Republican}} |{{sortname|Ashley|Hinson}}<br>{{small|(retiring)}}
 | {{Party shading/Republican}} data-sort-value="57.1" |57.1% R
 |{{USRaceRating|Tossup}}
-|{{USRaceRating|Tilt|R}}
+|{{USRaceRating|Tossup}}
 |{{USRaceRating|Tossup}}
 |{{USRaceRating|Lean|D|Flip}}
 |{{USRaceRating|Lean|D|Flip}}
@@ -818,7 +818,7 @@ The following are the latest published ratings for competitive seats.
 | {{Party shading/Republican}} |{{sortname|Andy|Barr}}<br>{{small|(retiring)}}
 | {{Party shading/Republican}} data-sort-value="63.0" |63.0% R
 |{{USRaceRating|Lean|R}}
-|{{USRaceRating|Lean|R}}
+|{{USRaceRating|Tilt|R}}
 |{{USRaceRating|Lean|R}}
 |{{USRaceRating|Tossup}}
 |{{USRaceRating|Lean|R}}
@@ -833,7 +833,7 @@ The following are the latest published ratings for competitive seats.
 | {{Party shading/Democratic}} |{{sortname|Jared|Golden}}<br>{{small|(retiring)}}
 | {{Party shading/Democratic}} data-sort-value="-50.3" |50.3% D
 |{{USRaceRating|Lean|R|Flip}}
-|{{USRaceRating|Likely|R|Flip}}
+|{{USRaceRating|Lean|R|Flip}}
 |{{USRaceRating|Lean|R|Flip}}
 |{{USRaceRating|Tossup}}
 |{{USRaceRating|Lean|R|Flip}}
@@ -1013,7 +1013,7 @@ The following are the latest published ratings for competitive seats.
 | {{Party shading/Republican}} |{{sortname|Ryan|Zinke}}<br>{{small|(retiring)}}
 | {{Party shading/Republican}} data-sort-value="52.3" |52.3% R
 |{{USRaceRating|Lean|R}}
-|{{USRaceRating|Lean|R}}
+|{{USRaceRating|Tilt|R}}
 |{{USRaceRating|Lean|R}}
 |{{USRaceRating|Tossup}}
 |{{USRaceRating|Lean|R}}
@@ -1028,7 +1028,7 @@ The following are the latest published ratings for competitive seats.
 | {{Party shading/Republican}} |{{sortname|Mike|Flood|dab=politician}}
 | {{Party shading/Republican}} data-sort-value="60.1" |60.1% R
 |{{USRaceRating|Solid|R}}
-|{{USRaceRating|Solid|R}}
+|{{USRaceRating|Likely|R}}
 |{{USRaceRating|Safe|R}}
 |{{USRaceRating|Lean|R}}
 |{{USRaceRating|Likely|R}}
@@ -1043,7 +1043,7 @@ The following are the latest published ratings for competitive seats.
 | {{Party shading/Republican}} |{{sortname|Don|Bacon}}<br>{{small|(retiring)}}
 | {{Party shading/Republican}} data-sort-value="50.9" |50.9% R
 |{{USRaceRating|Likely|D|Flip}}
-|{{USRaceRating|Tilt|D|Flip}}
+|{{USRaceRating|Lean|D|Flip}}
 |{{USRaceRating|Likely|D|Flip}}
 |{{USRaceRating|Likely|D|Flip}}
 |{{USRaceRating|Safe|D|Flip}}
@@ -1073,7 +1073,7 @@ The following are the latest published ratings for competitive seats.
 | {{Party shading/Republican}} |{{sortname|Mark|Amodei}}<br>{{small|(retiring)}}
 | {{Party shading/Republican}} data-sort-value="55.0" |55.0% R
 |{{USRaceRating|Likely|R}}
-|{{USRaceRating|Likely|R}}
+|{{USRaceRating|Lean|R}}
 |{{USRaceRating|Likely|R}}
 |{{USRaceRating|Lean|R}}
 |{{USRaceRating|Likely|R}}
@@ -1178,7 +1178,7 @@ The following are the latest published ratings for competitive seats.
 | {{Party shading/Democratic}} |{{sortname|Nellie|Pou}} 
 | {{Party shading/Democratic}} data-sort-value="-50.8" |50.8% D
 |{{USRaceRating|Likely|D}}
-|{{USRaceRating|Likely|D}}
+|{{USRaceRating|Solid|D}}
 |{{USRaceRating|Likely|D}}
 |{{USRaceRating|Safe|D}}
 |{{USRaceRating|Safe|D}}
@@ -1283,7 +1283,7 @@ The following are the latest published ratings for competitive seats.
 | {{Party shading/Democratic}} |{{sortname|Josh|Riley}} 
 | {{Party shading/Democratic}} data-sort-value="-51.1" |51.1% D
 |{{USRaceRating|Likely|D}}
-|{{USRaceRating|Likely|D}}
+|{{USRaceRating|Solid|D}}
 |{{USRaceRating|Likely|D}}
 |{{USRaceRating|Safe|D}}
 |{{USRaceRating|Safe|D}}
@@ -1298,7 +1298,7 @@ The following are the latest published ratings for competitive seats.
 | {{Party shading/Republican}} |{{sortname|Elise|Stefanik}}<br>{{small|(retiring)}}
 | {{Party shading/Republican}} data-sort-value="62.1" |62.1% R
 |{{USRaceRating|Likely|R}}
-|{{USRaceRating|Likely|R}}
+|{{USRaceRating|Lean|R}}
 |{{USRaceRating|Likely|R}}
 |{{USRaceRating|Lean|R}}
 |{{USRaceRating|Safe|R}}
@@ -1313,7 +1313,7 @@ The following are the latest published ratings for competitive seats.
 | {{Party shading/Democratic}} |{{sortname|Don|Davis|dab=North Carolina politician}} 
 | {{Party shading/Democratic}} data-sort-value="-49.5" |49.5% D
 |{{USRaceRating|Tossup}}
-|{{USRaceRating|Tilt|R|Flip}}
+|{{USRaceRating|Tossup}}
 |{{USRaceRating|Tossup}}
 |{{USRaceRating|Tossup}}
 |{{USRaceRating|Lean|D}}
@@ -1433,7 +1433,7 @@ The following are the latest published ratings for competitive seats.
 | {{Party shading/Republican}} |{{sortname|Chuck|Edwards}}<br>{{small|(retiring)}}
 | {{Party shading/Republican}} data-sort-value="56.8" |56.8% R
 |{{USRaceRating|Tossup}}
-|{{USRaceRating|Lean|R}}
+|{{USRaceRating|Tossup}}
 |{{USRaceRating|Tossup}}
 |{{USRaceRating|Tossup}}
 |{{USRaceRating|Lean|D|Flip}}
@@ -1523,7 +1523,7 @@ The following are the latest published ratings for competitive seats.
 | {{Party shading/Democratic}} |{{sortname|Marcy|Kaptur}} 
 | {{Party shading/Democratic}} data-sort-value="-48.3" |48.3% D
 |{{USRaceRating|Tossup}}
-|{{USRaceRating|Tilt|R|Flip}}
+|{{USRaceRating|Tossup}}
 |{{USRaceRating|Tossup}}
 |{{USRaceRating|Lean|D}}
 |{{USRaceRating|Likely|D}}
@@ -1643,7 +1643,7 @@ The following are the latest published ratings for competitive seats.
 | {{Party shading/Republican}} |{{sortname|Ryan|Mackenzie}}
 | {{Party shading/Republican}} data-sort-value="50.5" |50.5% R
 |{{USRaceRating|Lean|D|Flip}}
-|{{USRaceRating|Tossup}}
+|{{USRaceRating|Tilt|D|Flip}}
 |{{USRaceRating|Lean|D|Flip}}
 |{{USRaceRating|Lean|D|Flip}}
 |{{USRaceRating|Likely|D|Flip}}
@@ -1658,7 +1658,7 @@ The following are the latest published ratings for competitive seats.
 | {{Party shading/Republican}} |{{sortname|Rob|Bresnahan}} 
 | {{Party shading/Republican}} data-sort-value="50.8" |50.8% R
 |{{USRaceRating|Tossup}}
-|{{USRaceRating|Tossup}}
+|{{USRaceRating|Tilt|D|Flip}}
 |{{USRaceRating|Tossup}}
 |{{USRaceRating|Tossup}}
 |{{USRaceRating|Lean|D|Flip}}
@@ -1703,7 +1703,7 @@ The following are the latest published ratings for competitive seats.
 | {{Party shading/Republican}} |{{sortname|Nancy|Mace}}<br>{{small|(retiring)}}
 | {{Party shading/Republican}} data-sort-value="58.3" |58.3% R
 |{{USRaceRating|Likely|R}}
-|{{USRaceRating|Likely|R}}
+|{{USRaceRating|Lean|R}}
 |{{USRaceRating|Likely|R}}
 |{{USRaceRating|Tossup}}
 |{{USRaceRating|Lean|R}}
@@ -1853,7 +1853,7 @@ The following are the latest published ratings for competitive seats.
 | {{Party shading/Republican}} |{{sortname|Monica|De La Cruz}}
 | {{Party shading/Republican}} data-sort-value="57.1" |57.1% R
 |{{USRaceRating|Tossup}}
-|{{USRaceRating|Tilt|R}}
+|{{USRaceRating|Tossup}}
 |{{USRaceRating|Tossup}}
 |{{USRaceRating|Tossup}}
 |{{USRaceRating|Lean|D|Flip}}
@@ -2192,10 +2192,25 @@ The following are the latest published ratings for competitive seats.
 |{{USRaceRating|Solid|R}}
 |{{USRaceRating|Solid|R}}
 |{{USRaceRating|Solid|R}}
+|-
+!{{ushr|WY|AL|X}}
+|{{Shading PVI|R|23}}
+| {{Party shading/Republican}} |{{sortname|Harriet|Hageman}}<br>{{small|(retiring)}}
+| {{Party shading/Republican}} data-sort-value="70.6" |70.6% R
+|{{USRaceRating|Solid|R}}
+|{{USRaceRating|Likely|R}}
+|{{USRaceRating|Safe|R}}
+|{{USRaceRating|Safe|R}}
+|{{USRaceRating|Safe|R}}
+|{{USRaceRating|Safe|R}}
+|{{USRaceRating|Safe|R}}
+|{{USRaceRating|Solid|R}}
+|{{USRaceRating|Solid|R}}
+|{{USRaceRating|Solid|R}}
 |- class="sortbottom"
 ! colspan="4" |Overall
 | {{party shading/Vacant}} |D – 213<br>R – 201<br>21 tossups
-| {{party shading/Vacant}} |D – 209<br>R – 210<br>16 tossups
+| {{party shading/Vacant}} |D – 212<br>R – 205<br>18 tossups
 | {{party shading/Vacant}} |D – 214<br>R – 201<br>20 tossups
 | {{Party shading/Democratic}} |D – 222<br>R – 194<br>19 tossups
 | {{Party shading/Democratic}} |D – 225<br>R – 197<br>13 tossups

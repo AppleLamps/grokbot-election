@@ -111,7 +111,7 @@ See [[Template:USRaceRating]] for how to apply rating.
 ! [[Cook Political Report|Cook]]<br />{{Small|Oct. 13,<br />2026}}<ref>{{cite web |title=2026 CPR Governor Race ratings |url=https://www.cookpolitical.com/ratings/governor-race-ratings |website=Cook Political Report |access-date=October 13, 2026 |language=en}}</ref>
 ![[Decision Desk HQ|DDHQ]]<br />{{Small|Oct. 14,<br />2026}}<ref>{{Cite web |title=2026 Governor Races |url=https://votes.decisiondeskhq.com/forecast/governor |access-date=October 13, 2026 |website=Decision Desk HQ |language=en}}</ref>
 ![[Fox News|Fox]]<br />{{Small|Oct. 6,<br />2026}}<ref>{{Cite news |last=Numa |first=Rémy |title=Fox News Power Rankings: The biggest surprises come after October |url=https://www.foxnews.com/politics/fox-news-power-rankings-the-biggest-surprises-come-after-october |work=[[Fox News]] |date=October 6, 2026 |access-date=October 7, 2026}}</ref>
-! [[Inside Elections|IE]]<br />{{Small|Oct. 1,<br />2026}}<ref>{{Cite web |title=Gubernatorial Ratings |url=https://insideelections.com/ratings/governor |access-date=October 7, 2026 |website=[[Inside Elections]] |language=en}}</ref>
+! [[Inside Elections|IE]]<br />{{Small|Oct. 15,<br />2026}}<ref>{{Cite web |title=Gubernatorial Ratings |url=https://insideelections.com/ratings/governor |access-date=October 15, 2026 |website=[[Inside Elections]] |language=en}}</ref>
 ![[RealClearPolitics|RCP]]<br />{{Small|Oct. 12,<br />2026}}<ref>{{Cite web |title=2026 Governor Races |url=https://www.realclearpolling.com/maps/governor/2026/toss-up |access-date=October 12, 2026 |website=www.realclearpolling.com |language=en}}</ref>
 ! [[Larry Joseph Sabato|Sabato]]<br />{{Small|Oct. 6,<br />2026}}<ref>{{Cite web |title=2026 Governor |url=https://centerforpolitics.org/crystalball/2026-governor/ |website=[[Sabato's Crystal Ball]] |language=en |access-date=October 7, 2026}}</ref>
 ![[Silver Bulletin|Silver]]<br />{{Small|Oct. 13,<br />2026}}<ref>{{Cite web |url=https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model |title=FLIPR 2026 midterm election forecast |last1=Silver |first1=Nate |author1-link=Nate Silver |last2=McKown-Dawson |first2=Eli |website=[[Silver Bulletin]] |via=[[Substack]] |date=October 13, 2026 |orig-date=August 11, 2026 |access-date=October 13, 2026 |url-access=subscription}}</ref>
@@ -351,7 +351,7 @@ See [[Template:USRaceRating]] for how to apply rating.
 <!--Cook-->    | {{USRaceRating|Likely|R}}
 <!--DDHQ-->    | {{USRaceRating|Likely|R}}
 <!--Fox News-->| {{USRaceRating|Solid|R}}
-<!--IE-->      | {{USRaceRating|Solid|R}}
+<!--IE-->      | {{USRaceRating|Likely|R}}
 <!--RCP-->     | {{USRaceRating|Solid|R}}
 <!--Sabato-->  | {{USRaceRating|Likely|R}}
 <!--Silver-->  | {{USRaceRating|Likely|R}}
@@ -507,7 +507,7 @@ See [[Template:USRaceRating]] for how to apply rating.
 <!--Cook-->    | {{USRaceRating|Lean|R}}
 <!--DDHQ-->    | {{USRaceRating|Lean|R}}
 <!--Fox News-->| {{USRaceRating|Lean|R}}
-<!--IE-->      | {{USRaceRating|Likely|R}}
+<!--IE-->      | {{USRaceRating|Lean|R}}
 <!--RCP-->     | {{USRaceRating|Tossup}}
 <!--Sabato-->  | {{USRaceRating|Lean|R}}
 <!--Silver-->  | {{USRaceRating|Lean|R}}
@@ -519,7 +519,7 @@ See [[Template:USRaceRating]] for how to apply rating.
 <!--Cook-->    | {{USRaceRating|Likely|R}}
 <!--DDHQ-->    | {{USRaceRating|Likely|R}}
 <!--Fox News-->| {{USRaceRating|Likely|R}}
-<!--IE-->      | {{USRaceRating|Solid|R}}
+<!--IE-->      | {{USRaceRating|Likely|R}}
 <!--RCP-->     | {{USRaceRating|Lean|R}}
 <!--Sabato-->  | {{USRaceRating|Likely|R}}
 <!--Silver-->  | {{USRaceRating|Lean|R}}

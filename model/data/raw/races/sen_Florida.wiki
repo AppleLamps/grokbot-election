@@ -392,9 +392,9 @@ Formerly a [[swing state]], Florida has shifted increasingly to the Republican P
 |{{USRaceRating|Solid|R}}
 |October 6, 2026
 |-
-|align="left"|''[[Inside Elections]]''<ref>{{Cite web|title=Senate Ratings|url=https://www.insideelections.com/ratings/senate|access-date=October 7, 2026 |website=[[Inside Elections]]}}</ref>
-|{{USRaceRating|Solid|R}}
-|October 1, 2026
+|align="left"|''[[Inside Elections]]''<ref>{{Cite web|title=Senate Ratings|url=https://www.insideelections.com/ratings/senate|access-date=October 15, 2026 |website=[[Inside Elections]]}}</ref>
+|{{USRaceRating|Likely|R}}
+|October 15, 2026
 |-
 |align="left"|[[MS NOW]]<ref>{{Cite news |url=https://www.ms.now/news/2026-senate-ratings-ms-nows-races-to-watch |title=2026 Senate ratings: MS NOW's races to watch |last1=Khanna |first1=Kabir |last2=Thomas |first2=Shawna |orig-date=August 19, 2026 |work=[[MS NOW]] |date=September 16, 2026 |access-date=October 7, 2026}}</ref>
 |{{USRaceRating|Likely|R}}
