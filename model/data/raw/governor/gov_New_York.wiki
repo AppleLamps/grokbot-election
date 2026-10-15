@@ -1479,6 +1479,34 @@ The [[New York State Board of Elections]] rejected all petitions for non-qualifi
 |}
 {{hidden end}}
 
+=== Debate ===
+{| class="wikitable" style="text-align:center;"
+|+ 2026 New York gubernatorial election debate
+|-
+! scope="col" | {{abbr|No.|Number}}
+! scope="col" | Date
+! scope="col" | Host
+! scope="col" | Moderator
+! scope="col" | Link
+! scope="col"| <small>[[Democratic Party (US)|Democratic]]</small>
+! scope="col"| <small>[[Republican Party (US)|Republican]]</small>
+|-
+! colspan="5" rowspan="2" |Key:<br>{{Colors|black|#90ff90|&nbsp;P&nbsp;}} <small>Participant&nbsp;</small> {{Colors|black|#FFFFDD|&nbsp;A&nbsp;}} <small>Absent&nbsp;</small> {{Colors|black|#ff9090|&nbsp;N&nbsp;}} <small>Not invited&nbsp;</small> {{Colors|black|#CCFFCC|&nbsp;I&nbsp;}} <small>Invited {{color box|#f0e68c|W}} Withdrawn</small>
+! scope="col" style="background:{{party color|Democratic Party (US)}}"|
+! scope="col" style="background:{{party color|Republican Party (US)}}"|
+|-
+! scope="col" | [[Kathy Hochul]]
+! scope="col" | [[Bruce Blakeman]]
+|-
+!1
+| style="white-space:nowrap;" | Oct. 13, 2026
+| style="white-space:nowrap;" | [[NY1]]
+| style="white-space:nowrap;" | Susan Arbetter<br>[[Errol Louis]]
+| style="white-space:nowrap;" | [https://www.youtube.com/watch?v=9B5A_8I8X9U YouTube]
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+|}
+
 === Results ===
 {{Election box begin
 | title = 2026 New York gubernatorial election

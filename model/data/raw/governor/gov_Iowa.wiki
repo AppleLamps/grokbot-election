@@ -646,6 +646,22 @@ In early September, ''[[The Des Moines Register]]'' reported that the [[Black Ha
 |{{sdash}}
 |6%
 |-
+|style="text-align:left" rowspan="2"|[[Marist University]]<ref>{{cite web |title=2026 Midterm Elections in Iowa, October 2026 |url= https://maristpoll.marist.edu/wp-content/uploads/2026/10/Marist-Poll_Iowa_NOS-and-Tables_202610131230@3bcy%5Ew.pdf |work=[[Marist University]] |access-date=October 14, 2026}}</ref>
+|rowspan="2"|October 8–11, 2026
+|{{TBA}} (LV)
+|±{{nbsp}}6.6%
+|45%
+|{{Party shading/Democratic}}|'''52%'''
+|2%{{efn|name=MaristOct|"Another party's candidate" with 1%; "No response" with 1%}}
+|2%
+|-
+|1,100 (RV)
+|±{{nbsp}}4.5%
+|43%
+|{{Party shading/Democratic}}|'''54%'''
+|1%{{efn|”Another party’s candidate” with 1%}}
+|2%
+|-
 |style="text-align:left;"|[[Emerson College]]<ref>{{Cite web|date=October 9, 2026|title=Iowa 2026 Poll: U.S. Senate Race Tightens; Sand Maintains Edge for Governor |url=https://emersoncollegepolling.com/iowa-2026-poll-u-s-senate-race-tightens-sand-maintains-edge-for-governor/|website=[[Emerson College Polling]]|access-date=October 9, 2026}}</ref>{{efn-ua|Poll sponsored by [[Nexstar Media Group]]}}
 |October 5–6, 2026
 |650 (LV)

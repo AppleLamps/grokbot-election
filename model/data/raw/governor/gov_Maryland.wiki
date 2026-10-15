@@ -712,9 +712,8 @@ Cox is expected to campaign against Moore's handling of economic issues.<ref nam
 |21%
 |}
 {{hidden end}}
-<!--
+
 ===Results===
-Wait until the week of the election to unhide this section.
 {{Election box begin
 | title = 2026 Maryland gubernatorial election
 }}
@@ -753,11 +752,10 @@ Wait until the week of the election to unhide this section.
 }}
 {{Election box total
 | votes = 
-| percentage = 
-| change = N/A
+| percentage = 100.0
+| change =
 }}
 {{Election box end}}
--->
 
 == See also ==
 *[[2026 United States gubernatorial elections]]

@@ -661,15 +661,21 @@ This is the first election since [[2014 Hawaii gubernatorial election|2014]] in 
 ! Other
 ! Undecided
 |-
-| style="text-align:left;"|[[Emerson College]]/[[WPRI-TV]]<ref>{{cite web|url=https://www.wpri.com/12-news-emerson-college-poll-results-october-2026/|title=12 News/Emerson College Poll Results: October 2026|date=October 13, 2026|access-date=October 13, 2026|website=[[WPRI-TV]]}}</ref>
-|October 8–11, 2026
-|800 (LV)
-|±{{nbsp}}3.5%
+|rowspan="2" style="text-align:left;"|[[Emerson College]]/[[WPRI-TV]]<ref>{{cite web|url=https://www.wpri.com/12-news-emerson-college-poll-results-october-2026/|title=12 News/Emerson College Poll Results: October 2026|date=October 13, 2026|access-date=October 13, 2026|website=[[WPRI-TV]]}}</ref>
+|rowspan="2"|October 8–11, 2026
+|rowspan="2"|800 (LV)
+|rowspan="2"|±{{nbsp}}3.5%
 |{{party shading/Democratic}}|'''44%'''
 |10%
 |35%
-|2%{{efn|"Someone else" with 2%}}
+|2%{{efn|Gotra (I) with 1%; Reynolds (I) with 1%}}
 |9%
+|-
+|{{party shading/Democratic}}|'''48%'''{{efn|With leaners}}
+|12%
+|38%
+|2%{{efn|Gotra (I) with 1%; Reynolds (I) with 1%}}
+|–
 |-
 |rowspan="2" style="text-align:left;"|Opinion Diagnostics<ref>{{cite web|url=https://www.golocalprov.com/politics/new-blocks-campaign-poll-shows-he-leads-foulkes-head-to-head-in-race-for-gov-guckian-on-track-for-the-worst-gop-result-on-record|title=New: Block's Campaign Poll Shows He Leads Foulkes Head-to-Head in Race for Gov; Guckian on Track for the Worst GOP Result on Record|website=GoLocalProv|date=September 29, 2026|access-date=September 29, 2026}}</ref>{{efn-ua|name=Block}}
 |rowspan="2"|September 23–25, 2026

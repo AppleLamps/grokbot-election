@@ -199,6 +199,19 @@ Republicans have not won a gubernatorial election in Hawaii since [[2006 Hawaii 
 |October 11, 2026
 |}
 
+===Results===
+{{Election box begin |title=2026 Hawaii gubernatorial election}}
+{{Election box candidate with party link
+  |party      = Democratic Party of Hawaii
+  |candidate  = {{ubl|[[Josh Green (politician)|Josh Green]] (incumbent)|[[Derek Kawakami]]}}
+  |votes      = 
+  |percentage = 
+  |change     = 
+}}{{Election box candidate with party link|party=Hawaii Republican Party|candidate={{ubl|Gary Cordery|Daniel Anthony}}|votes=|percentage=|change=}}{{Election box total
+  |votes      =
+  |percentage = 100.0
+}}{{Election box end}}
+
 == See also ==
 *[[2026 United States elections]]
 *[[2026 Hawaii elections]]

@@ -28,7 +28,7 @@
 | running_mate2      = <!--- TBD --->
 | popular_vote2      = 
 | percentage2        = 
-| image3             = 3x4.svg
+| image3             = Rick Bennett, May 2012.png
 | nominee3           = [[Rick Bennett (Maine politician)|Rick Bennett]]
 | party3             = Independent 
 | alliance3          =       

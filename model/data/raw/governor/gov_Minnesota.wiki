@@ -919,6 +919,15 @@ Hashes indicate a tie.
 ! Other
 ! Undecided
 |-
+|style="text-align:left;"|[[KSTP-TV|KSTP]]/[[SurveyUSA]]<ref>{{cite web |last1=Skluzacek |first1=Josh |last2=Hauser |first2=Tom |title=KSTP/SurveyUSA poll: Swing in Senate and AG races, Klobuchar up slightly on Demuth |url=https://kstp.com/kstp-news/top-news/kstp-surveyusa-poll-swing-in-senate-and-ag-races-klobuchar-up-slightly-on-demuth/ |publisher=[[KSTP-TV]] |access-date=October 15, 2026 |date=October 14, 2026}}</ref>
+|October 8–12, 2026
+|718 (LV)
+|±{{nbsp}}4.2%
+|{{party shading/DFL}}|'''48%'''
+|41%
+|3%{{Efn|Steven Young (G) with 3%}}
+|8%
+|-
 |style="text-align:left;"|[[KARE 11]]/[[Minnesota Star Tribune]]<ref>{{cite news |last1=Faircloth |first1=Ryan |title=Minnesota Poll: Klobuchar has a commanding lead over Demuth in governor's race |url=https://www.startribune.com/minnesota-poll-klobuchar-demuth-governor/601887444 |access-date=13 October 2026 |publisher=Minnesota Star Tribune |date=October 13, 2026}}</ref>
 |October 5–7, 2026
 |800 (LV)
