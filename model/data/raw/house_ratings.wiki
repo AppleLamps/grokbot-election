@@ -43,7 +43,7 @@ The following are the latest published ratings for competitive seats.
 ![[Split Ticket (website)|ST]]<br />{{small|Oct. 8,<br/>2026}}<ref>{{cite web |title=Split Ticket 2026 Midterms Model |url=https://www.theargumentmag.com/p/split-ticket-2026-midterms-model |website=www.theargumentmag.com |publisher=The Argument |access-date=October 8, 2026 |language=en}}</ref>
 ![[Decision Desk HQ|DDHQ]]<br />{{small|Oct. 14,<br/>2026}}<ref>{{cite web |title=2026 House Ratings|url=https://votes.decisiondeskhq.com/forecast/2026/house |website=votes.decisiondeskhq.com |publisher=[[Decision Desk HQ]]|access-date=October 14, 2026 |language=en}}
 </ref>
-![[FiftyPlusOne|FPO]]<br />{{Small|Oct. 8,<br />2026}}<ref>{{Cite web |title=2026 Congressional Forecast |url=https://fiftyplusone.news/forecast/house/ |access-date=October 8, 2026 |website=FiftyPlusOne|language=en}}</ref>
+![[FiftyPlusOne|FPO]]<br />{{Small|Oct. 14,<br />2026}}<ref>{{Cite web |title=2026 Congressional Forecast |url=https://fiftyplusone.news/forecast/house/ |access-date=October 14, 2026 |website=FiftyPlusOne|language=en}}</ref>
 ![[Fox News|Fox]]<br />{{Small|Oct. 13,<br />2026}}<ref>{{Cite web |last=Numa |first=Rémy |date=2026-10-13 |title=Fox News Power Rankings: As the House falls, the Senate stays in play |url=https://www.foxnews.com/politics/fox-news-power-rankings-house-falls-senate-stays-play |access-date=2026-10-13 |website=Fox News |publisher=Fox News |language=en-US}}</ref>
 ![[Silver Bulletin|Silver]]<br />{{Small|Sep. 10,<br />2026}}<ref>{{Cite web |last=Silver |first=Nate |date=2026-08-18 |title=FLIPR 2026 midterm election forecast |url=https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model |access-date=2026-08-19 |website=www.natesilver.net |language=en}}</ref>
 ![[Real Clear Politics|RCP]]<br />{{Small|Oct. 7,<br />2026}}<ref>{{Cite web |date=2026-10-07 |title=Battle for the House 2026 |url=https://www.realclearpolling.com/maps/house/2026/toss-up}}</ref>
@@ -478,7 +478,7 @@ The following are the latest published ratings for competitive seats.
 |{{USRaceRating|Lean|R}}
 |{{USRaceRating|Likely|R}}
 |{{USRaceRating|Likely|R}}
-|{{USRaceRating|Tossup}}
+|{{USRaceRating|Lean|R}}
 |{{USRaceRating|Lean|R}}
 |{{USRaceRating|Lean|R}}
 |{{USRaceRating|Tossup}}
@@ -1438,7 +1438,7 @@ The following are the latest published ratings for competitive seats.
 |{{USRaceRating|Safe|R}}
 |{{USRaceRating|Safe|R}}
 |{{USRaceRating|Likely|R}}
-|{{USRaceRating|Likely|R}}
+|{{USRaceRating|Safe|R}}
 |{{USRaceRating|Solid|R}}
 |{{USRaceRating|Solid|R}}
 |{{USRaceRating|Solid|R}}

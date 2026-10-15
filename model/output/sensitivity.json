@@ -15,9 +15,9 @@
     "senate_R_p10": 48,
     "senate_R_p90": 55,
     "senate_I_mean": 0.11894,
-    "house_p_D": 0.61291,
-    "house_p_R": 0.38709000000000005,
-    "house_D_mean": 221.11873,
+    "house_p_D": 0.61284,
+    "house_p_R": 0.38715999999999995,
+    "house_D_mean": 221.11464,
     "house_D_median": 221,
     "house_D_p10": 206,
     "house_D_p90": 236,
@@ -62,7 +62,7 @@
       ],
       [
         "IA-3",
-        0.02
+        0.019
       ]
     ],
     "gov_races": 36,
@@ -89,9 +89,9 @@
     "senate_R_p10": 44,
     "senate_R_p90": 51,
     "senate_I_mean": 0.38335,
-    "house_p_D": 0.96276,
-    "house_p_R": 0.03724000000000005,
-    "house_D_mean": 241.7503,
+    "house_p_D": 0.96274,
+    "house_p_R": 0.03725999999999996,
+    "house_D_mean": 241.74106,
     "house_D_median": 240,
     "house_D_p10": 224,
     "house_D_p90": 261,
