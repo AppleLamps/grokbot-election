@@ -15,9 +15,9 @@
     "senate_R_p10": 45,
     "senate_R_p90": 52,
     "senate_I_mean": 0.29579,
-    "house_p_D": 0.92102,
-    "house_p_R": 0.07898000000000005,
-    "house_D_mean": 235.74856,
+    "house_p_D": 0.92103,
+    "house_p_R": 0.07896999999999998,
+    "house_D_mean": 235.75599,
     "house_D_median": 235,
     "house_D_p10": 219,
     "house_D_p90": 254,
@@ -58,7 +58,7 @@
       ],
       [
         "TX-34",
-        0.02
+        0.019
       ],
       [
         "TX-28",
@@ -89,9 +89,9 @@
     "senate_R_p10": 48,
     "senate_R_p90": 54,
     "senate_I_mean": 0.14534,
-    "house_p_D": 0.69497,
-    "house_p_R": 0.30503,
-    "house_D_mean": 223.81408,
+    "house_p_D": 0.69501,
+    "house_p_R": 0.30499,
+    "house_D_mean": 223.81765,
     "house_D_median": 223,
     "house_D_p10": 209,
     "house_D_p90": 239,
@@ -165,7 +165,7 @@
     "senate_I_mean": 0.73056,
     "house_p_D": 0.99641,
     "house_p_R": 0.003589999999999982,
-    "house_D_mean": 265.29866,
+    "house_D_mean": 265.3268,
     "house_D_median": 264,
     "house_D_p10": 242,
     "house_D_p90": 290,

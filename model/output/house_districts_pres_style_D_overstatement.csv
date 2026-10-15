@@ -7,14 +7,14 @@ AL-5,Dale Strong,R,1,-15,,-16.0,0.15,South,0.053,-23.2,-22.119999999999997,-25.1
 AL-6,Gary Palmer,R,1,-17,,-16.0,0.15,South,0.053,-27.2,-25.519999999999996,-28.51518171875,0.00051,2e-05,pres_style_D_overstatement
 AL-7,Terri Sewell,D,1,10,,16.0,0.15,South,0.053,30.400000000000002,28.24,25.23296078125,0.99889,4e-05,pres_style_D_overstatement
 AK-AL,,R,1,-6,-1.9,-8.55,0.3,West,0.068,-5.2,-6.205,-9.2173048046875,0.09418,0.00355,pres_style_D_overstatement
-AZ-1,David Schweikert,R,0,-1,1.1,4.95,0.3,West,0.307,6.6,6.1049999999999995,3.133718681640625,0.67259,0.01796,pres_style_D_overstatement
+AZ-1,David Schweikert,R,0,-1,1.1,4.95,0.3,West,0.307,6.6,6.1049999999999995,3.133718681640625,0.67259,0.01797,pres_style_D_overstatement
 AZ-2,Eli Crane,R,1,-7,-1.5,-6.75,0.3,West,0.307,-7.2,-7.0649999999999995,-10.0477383203125,0.08195,0.00303,pres_style_D_overstatement
 AZ-3,Yassamin Ansari,D,1,22,,16.0,0.15,West,0.307,54.4,48.63999999999999,45.627470625,0.99998,0.0,pres_style_D_overstatement
-AZ-4,Greg Stanton,D,1,4,,16.0,0.15,West,0.307,18.400000000000002,18.04,15.047031875,0.97764,0.00165,pres_style_D_overstatement
+AZ-4,Greg Stanton,D,1,4,,16.0,0.15,West,0.307,18.400000000000002,18.04,15.047031875,0.97764,0.00164,pres_style_D_overstatement
 AZ-5,Andy Biggs,R,0,-10,-2.7,-13.900000000000002,0.3,West,0.307,-11.4,-12.15,-15.189707890625,0.02154,0.00072,pres_style_D_overstatement
-AZ-6,Juan Ciscomani,R,1,0,1.2,5.3999999999999995,0.3,West,0.307,6.8,6.38,3.394887119140625,0.68591,0.01894,pres_style_D_overstatement
+AZ-6,Juan Ciscomani,R,1,0,1.2,5.3999999999999995,0.3,West,0.307,6.8,6.38,3.394887119140625,0.68591,0.01896,pres_style_D_overstatement
 AZ-7,Adelita Grijalva,D,1,13,,16.0,0.15,West,0.307,36.4,33.339999999999996,30.3340709375,0.99961,2e-05,pres_style_D_overstatement
-AZ-8,Abraham Hamadeh,R,1,-8,-2.5,-12.5,0.3,West,0.307,-9.200000000000001,-10.190000000000001,-13.186154375,0.0377,0.00104,pres_style_D_overstatement
+AZ-8,Abraham Hamadeh,R,1,-8,-2.5,-12.5,0.3,West,0.307,-9.200000000000001,-10.190000000000001,-13.186154375,0.0377,0.00103,pres_style_D_overstatement
 AZ-9,Paul Gosar,R,1,-15,,-16.0,0.15,West,0.307,-23.2,-22.119999999999997,-25.125260546875,0.00155,4e-05,pres_style_D_overstatement
 AR-1,Rick Crawford,R,1,-23,,-16.0,0.15,South,0.085,-39.199999999999996,-35.71999999999999,-38.719776875,4e-05,0.0,pres_style_D_overstatement
 AR-2,French Hill,R,1,-8,-1.9,-8.55,0.3,South,0.085,-9.200000000000001,-9.005,-11.9860500390625,0.04567,0.00184,pres_style_D_overstatement
@@ -26,9 +26,9 @@ CA-3,Ami Bera,D,1,6,,16.0,0.15,West,0.394,22.400000000000002,21.44,18.4838236718
 CA-4,Mike Thompson,D,1,8,,16.0,0.15,West,0.394,26.400000000000002,24.84,21.85180140625,0.99652,0.00035,pres_style_D_overstatement
 CA-5,Tom McClintock,R,1,-10,-2.9,-15.299999999999999,0.3,West,0.394,-13.200000000000001,-13.83,-16.841344609375,0.01409,0.00043,pres_style_D_overstatement
 CA-6,Kevin Kiley,I,1,5,2.6,13.200000000000001,0.3,West,0.394,16.8,15.719999999999999,12.744229140625,0.95558,0.00329,pres_style_D_overstatement
-CA-7,Doris Matsui,D,1,7,,16.0,0.15,West,0.394,24.400000000000002,23.14,20.16689984375,0.99417,0.00045,pres_style_D_overstatement
+CA-7,Doris Matsui,D,1,7,,16.0,0.15,West,0.394,24.400000000000002,23.14,20.16689984375,0.99417,0.00044,pres_style_D_overstatement
 CA-8,John Garamendi,D,1,19,,16.0,0.15,West,0.394,48.4,43.54,40.56984734375,0.99997,1e-05,pres_style_D_overstatement
-CA-9,Josh Harder,D,1,8,,16.0,0.15,West,0.394,26.400000000000002,24.84,21.841099296875,0.99652,0.00018,pres_style_D_overstatement
+CA-9,Josh Harder,D,1,8,,16.0,0.15,West,0.394,26.400000000000002,24.84,21.841099296875,0.99652,0.00019,pres_style_D_overstatement
 CA-10,Mark DeSaulnier,D,1,18,,16.0,0.15,West,0.394,46.4,41.839999999999996,38.84009015625,0.99987,0.0,pres_style_D_overstatement
 CA-11,Nancy Pelosi,D,0,36,,16.0,0.15,West,0.394,80.6,70.91,67.938140625,1.0,0.0,pres_style_D_overstatement
 CA-12,Lateefah Simon,D,1,39,,16.0,0.15,West,0.394,88.39999999999999,77.53999999999999,74.542513125,1.0,0.0,pres_style_D_overstatement
@@ -40,17 +40,17 @@ CA-17,Ro Khanna,D,1,21,,16.0,0.15,West,0.394,52.4,46.94,43.93221171875,1.0,0.0,p
 CA-18,Zoe Lofgren,D,1,16,,16.0,0.15,West,0.394,42.4,38.44,35.4386278125,0.99985,0.0,pres_style_D_overstatement
 CA-19,Jimmy Panetta,D,1,18,,16.0,0.15,West,0.394,46.4,41.839999999999996,38.85258625,0.99995,1e-05,pres_style_D_overstatement
 CA-20,Vince Fong,R,1,-16,,-16.0,0.15,West,0.394,-25.2,-23.819999999999997,-26.85472859375,0.00086,2e-05,pres_style_D_overstatement
-CA-21,Jim Costa,D,1,5,2.7,13.900000000000002,0.3,West,0.394,20.400000000000002,18.450000000000003,15.466692421875,0.97792,0.00171,pres_style_D_overstatement
-CA-22,David Valadao,R,1,1,1.1,4.95,0.3,West,0.394,8.799999999999999,7.645,4.63832966796875,0.74002,0.01654,pres_style_D_overstatement
+CA-21,Jim Costa,D,1,5,2.7,13.900000000000002,0.3,West,0.394,20.400000000000002,18.450000000000003,15.466692421875,0.97792,0.0017,pres_style_D_overstatement
+CA-22,David Valadao,R,1,1,1.1,4.95,0.3,West,0.394,8.799999999999999,7.645,4.63832966796875,0.74002,0.01652,pres_style_D_overstatement
 CA-23,Jay Obernolte,R,1,-9,,-16.0,0.15,West,0.394,-11.200000000000001,-11.920000000000002,-14.91029984375,0.02548,0.00074,pres_style_D_overstatement
 CA-24,Salud Carbajal,D,1,13,,16.0,0.15,West,0.394,36.4,33.339999999999996,30.3243334375,0.99966,1e-05,pres_style_D_overstatement
 CA-25,Raul Ruiz,D,1,4,,16.0,0.15,West,0.394,18.400000000000002,18.04,15.054222265625,0.97531,0.00159,pres_style_D_overstatement
 CA-26,Julia Brownley,D,0,9,,16.0,0.15,West,0.394,26.6,25.009999999999998,22.01088546875,0.99654,0.00026,pres_style_D_overstatement
-CA-27,George T. Whitesides,D,1,6,,16.0,0.15,West,0.394,22.400000000000002,21.44,18.4353903125,0.99018,0.00068,pres_style_D_overstatement
+CA-27,George T. Whitesides,D,1,6,,16.0,0.15,West,0.394,22.400000000000002,21.44,18.4353903125,0.99018,0.00067,pres_style_D_overstatement
 CA-28,Judy Chu,D,1,14,,16.0,0.15,West,0.394,38.4,35.04,32.0643009375,0.99986,1e-05,pres_style_D_overstatement
 CA-29,Luz Rivas,D,1,19,,16.0,0.15,West,0.394,48.4,43.54,40.54379234375,0.99993,0.0,pres_style_D_overstatement
 CA-30,Laura Friedman,D,1,21,,16.0,0.15,West,0.394,52.4,46.94,43.9147209375,0.99997,0.0,pres_style_D_overstatement
-CA-31,Gil Cisneros,D,1,8,,16.0,0.15,West,0.394,26.400000000000002,24.84,21.869138125,0.99649,0.00037,pres_style_D_overstatement
+CA-31,Gil Cisneros,D,1,8,,16.0,0.15,West,0.394,26.400000000000002,24.84,21.869138125,0.99649,0.00038,pres_style_D_overstatement
 CA-32,Brad Sherman,D,1,14,,16.0,0.15,West,0.394,38.4,35.04,32.03371625,0.99968,0.0,pres_style_D_overstatement
 CA-33,Pete Aguilar,D,1,7,,16.0,0.15,West,0.394,24.400000000000002,23.14,20.12795921875,0.99411,0.00037,pres_style_D_overstatement
 CA-34,Jimmy Gomez,D,1,28,,16.0,0.15,West,0.394,66.39999999999999,58.83999999999999,55.8082059375,1.0,0.0,pres_style_D_overstatement
@@ -74,18 +74,18 @@ CA-51,Sara Jacobs,D,1,10,,16.0,0.15,West,0.394,30.400000000000002,28.24,25.24976
 CA-52,Juan Vargas,D,1,11,,16.0,0.15,West,0.394,32.4,29.939999999999998,26.93058375,0.99918,9e-05,pres_style_D_overstatement
 CO-1,Diana DeGette,D,0,29,,16.0,0.15,West,0.219,66.6,59.00999999999999,55.9844065625,0.99999,0.0,pres_style_D_overstatement
 CO-2,Joe Neguse,D,1,20,,16.0,0.15,West,0.219,50.4,45.239999999999995,42.22196453125,0.99997,0.0,pres_style_D_overstatement
-CO-3,Jeff Hurd,R,1,-5,-1.2,-5.3999999999999995,0.3,West,0.219,-3.2,-3.8599999999999994,-6.862222578125,0.16209,0.00721,pres_style_D_overstatement
+CO-3,Jeff Hurd,R,1,-5,-1.2,-5.3999999999999995,0.3,West,0.219,-3.2,-3.8599999999999994,-6.862222578125,0.16209,0.0072,pres_style_D_overstatement
 CO-4,Lauren Boebert,R,1,-9,-1.6,-7.2,0.3,West,0.219,-11.200000000000001,-10.0,-13.010611328125,0.03657,0.00124,pres_style_D_overstatement
-CO-5,Jeff Crank,R,1,-5,-0.95,-4.25,0.3,West,0.219,-3.2,-3.5149999999999997,-6.50291619140625,0.17434,0.00773,pres_style_D_overstatement
+CO-5,Jeff Crank,R,1,-5,-0.95,-4.25,0.3,West,0.219,-3.2,-3.5149999999999997,-6.50291619140625,0.17434,0.00771,pres_style_D_overstatement
 CO-6,Jason Crow,D,1,11,,16.0,0.15,West,0.219,32.4,29.939999999999998,26.93250296875,0.99904,6e-05,pres_style_D_overstatement
-CO-7,Brittany Pettersen,D,1,8,,16.0,0.15,West,0.219,26.400000000000002,24.84,21.79536125,0.99686,0.00037,pres_style_D_overstatement
-CO-8,Gabe Evans,R,1,0,1.0,4.5,0.3,West,0.219,6.8,6.109999999999999,3.067706513671875,0.67171,0.01889,pres_style_D_overstatement
+CO-7,Brittany Pettersen,D,1,8,,16.0,0.15,West,0.219,26.400000000000002,24.84,21.79536125,0.99686,0.00036,pres_style_D_overstatement
+CO-8,Gabe Evans,R,1,0,1.0,4.5,0.3,West,0.219,6.8,6.109999999999999,3.067706513671875,0.67171,0.01891,pres_style_D_overstatement
 CT-1,John B. Larson,D,0,12,,16.0,0.15,Northeast,0.173,32.6,30.11,27.13327515625,0.99934,2e-05,pres_style_D_overstatement
 CT-2,Joe Courtney,D,1,4,,16.0,0.15,Northeast,0.173,18.400000000000002,18.04,15.0445928125,0.97957,0.00189,pres_style_D_overstatement
 CT-3,Rosa DeLauro,D,1,8,,16.0,0.15,Northeast,0.173,26.400000000000002,24.84,21.83174109375,0.99687,0.00029,pres_style_D_overstatement
 CT-4,Jim Himes,D,1,13,,16.0,0.15,Northeast,0.173,36.4,33.339999999999996,30.33007296875,0.99969,4e-05,pres_style_D_overstatement
 CT-5,Jahana Hayes,D,1,3,,16.0,0.15,Northeast,0.173,16.4,16.339999999999996,13.339751171875,0.96673,0.003,pres_style_D_overstatement
-DE-AL,Sarah McBride,D,1,8,,16.0,0.15,South,0.105,26.400000000000002,24.84,21.82099859375,0.99673,0.00024,pres_style_D_overstatement
+DE-AL,Sarah McBride,D,1,8,,16.0,0.15,South,0.105,26.400000000000002,24.84,21.82099859375,0.99673,0.00023,pres_style_D_overstatement
 FL-1,Jimmy Patronis,R,1,-18,,-16.0,0.15,South,0.265,-29.2,-27.22,-30.187179375,0.00037,0.0,pres_style_D_overstatement
 FL-2,Neal Dunn,R,0,-8,-2.5,-12.5,0.3,South,0.265,-7.4,-8.93,-11.910193046875,0.05005,0.00186,pres_style_D_overstatement
 FL-3,Kat Cammack,R,1,-10,-2.9,-15.299999999999999,0.3,South,0.265,-13.200000000000001,-13.83,-16.828215546875,0.01289,0.00042,pres_style_D_overstatement
@@ -93,13 +93,13 @@ FL-4,Aaron Bean,R,1,-5,-2.5,-12.5,0.3,South,0.265,-3.2,-5.99,-8.9956598046875,0.
 FL-5,John Rutherford,R,1,-10,-2.8,-14.599999999999998,0.3,South,0.265,-13.200000000000001,-13.62,-16.597879375,0.01343,0.0004,pres_style_D_overstatement
 FL-6,Randy Fine,R,1,-14,,-16.0,0.15,South,0.265,-21.2,-20.419999999999998,-23.42985,0.00204,0.0001,pres_style_D_overstatement
 FL-7,Cory Mills,R,0,-5,-0.9,-4.0,0.3,South,0.265,-1.4000000000000004,-2.18,-5.1541689453125,0.22825,0.00961,pres_style_D_overstatement
-FL-8,Mike Haridopolos,R,1,-8,-2.6,-13.200000000000001,0.3,South,0.265,-9.200000000000001,-10.4,-13.395661953125,0.03302,0.00122,pres_style_D_overstatement
+FL-8,Mike Haridopolos,R,1,-8,-2.6,-13.200000000000001,0.3,South,0.265,-9.200000000000001,-10.4,-13.395661953125,0.03302,0.00121,pres_style_D_overstatement
 FL-9,Darren Soto,D,1,-8,-1.1,-4.95,0.3,South,0.265,-5.6000000000000005,-5.405,-8.422474296875,0.11811,0.00431,pres_style_D_overstatement
 FL-10,Maxwell Frost,D,1,13,,16.0,0.15,South,0.265,36.4,33.339999999999996,30.32770484375,0.99957,2e-05,pres_style_D_overstatement
 FL-11,Daniel Webster,R,0,-7,-2.5,-12.5,0.3,South,0.265,-5.4,-7.529999999999999,-10.5326766796875,0.07057,0.00265,pres_style_D_overstatement
 FL-12,Gus Bilirakis,R,1,-7,-2.5,-12.5,0.3,South,0.265,-7.2,-8.79,-11.7819128515625,0.0516,0.00181,pres_style_D_overstatement
-FL-13,Anna Paulina Luna,R,1,-6,-1.2,-5.3999999999999995,0.3,South,0.265,-5.2,-5.26,-8.2686484765625,0.12116,0.00463,pres_style_D_overstatement
-FL-14,Kathy Castor,D,1,-4,0.9,4.0,0.3,South,0.265,2.3999999999999995,2.8799999999999994,-0.10994298889160156,0.49335,0.01869,pres_style_D_overstatement
+FL-13,Anna Paulina Luna,R,1,-6,-1.2,-5.3999999999999995,0.3,South,0.265,-5.2,-5.26,-8.2686484765625,0.12116,0.00464,pres_style_D_overstatement
+FL-14,Kathy Castor,D,1,-4,0.9,4.0,0.3,South,0.265,2.3999999999999995,2.8799999999999994,-0.10994298889160156,0.49335,0.01867,pres_style_D_overstatement
 FL-15,Laurel Lee,R,1,-9,-2.8,-14.599999999999998,0.3,South,0.265,-11.200000000000001,-12.219999999999999,-15.216434140625,0.02145,0.0007,pres_style_D_overstatement
 FL-16,Vern Buchanan,R,0,-6,-1.9,-8.55,0.3,South,0.265,-3.4000000000000004,-4.945,-7.921197734375,0.13121,0.00489,pres_style_D_overstatement
 FL-17,Greg Steube,R,1,-10,,-16.0,0.15,South,0.265,-13.200000000000001,-13.620000000000001,-16.584451796875,0.01381,0.00033,pres_style_D_overstatement
@@ -107,15 +107,15 @@ FL-18,Scott Franklin,R,1,-8,-2.8,-14.599999999999998,0.3,South,0.265,-9.20000000
 FL-19,Byron Donalds,R,0,-14,,-16.0,0.15,South,0.265,-19.4,-18.889999999999997,-21.8515965625,0.00302,0.00012,pres_style_D_overstatement
 FL-20,,,0,20,,16.0,0.15,South,0.265,48.6,43.71,40.74255703125,0.99994,0.0,pres_style_D_overstatement
 FL-21,Brian Mast,R,1,-7,-2.8,-14.599999999999998,0.3,South,0.265,-7.2,-9.419999999999998,-12.4128998828125,0.04458,0.00137,pres_style_D_overstatement
-FL-22,,,0,-4,0.05,0.2,0.3,South,0.265,0.5999999999999996,0.4799999999999997,-2.488235634765625,0.36066,0.01471,pres_style_D_overstatement
+FL-22,,,0,-4,0.05,0.2,0.3,South,0.265,0.5999999999999996,0.4799999999999997,-2.488235634765625,0.36066,0.01472,pres_style_D_overstatement
 FL-23,Lois Frankel,D,1,9,,16.0,0.15,South,0.265,28.400000000000002,26.54,23.566779453125,0.99804,0.00017,pres_style_D_overstatement
 FL-24,Frederica Wilson,D,0,22,,16.0,0.15,South,0.265,52.6,47.11,44.109933125,0.99998,0.0,pres_style_D_overstatement
-FL-25,Jared Moskowitz,D,1,-3,1.0,4.5,0.3,South,0.265,4.3999999999999995,4.43,1.44702615234375,0.58271,0.01982,pres_style_D_overstatement
+FL-25,Jared Moskowitz,D,1,-3,1.0,4.5,0.3,South,0.265,4.3999999999999995,4.43,1.44702615234375,0.58271,0.0198,pres_style_D_overstatement
 FL-26,Mario Díaz-Balart,R,1,-7,-2.9,-15.299999999999999,0.3,South,0.265,-7.2,-9.629999999999999,-12.6303852734375,0.04121,0.00131,pres_style_D_overstatement
 FL-27,María Elvira Salazar,R,1,-6,-1.3,-5.85,0.3,South,0.265,-5.2,-5.395,-8.402649375,0.11883,0.00461,pres_style_D_overstatement
 FL-28,Carlos A. Giménez,R,1,-10,,-16.0,0.15,South,0.265,-13.200000000000001,-13.620000000000001,-16.644276875,0.01409,0.00043,pres_style_D_overstatement
 GA-1,Buddy Carter,R,0,-8,-2.6,-13.200000000000001,0.3,South,0.105,-7.4,-9.14,-12.1391116015625,0.04464,0.00188,pres_style_D_overstatement
-GA-2,Sanford Bishop,D,1,4,,16.0,0.15,South,0.105,18.400000000000002,18.04,15.0253284375,0.97929,0.00201,pres_style_D_overstatement
+GA-2,Sanford Bishop,D,1,4,,16.0,0.15,South,0.105,18.400000000000002,18.04,15.0253284375,0.97929,0.00202,pres_style_D_overstatement
 GA-3,Brian Jack,R,1,-15,,-16.0,0.15,South,0.105,-23.2,-22.119999999999997,-25.113785859375,0.00124,2e-05,pres_style_D_overstatement
 GA-4,Hank Johnson,D,1,27,,16.0,0.15,South,0.105,64.4,57.14,54.1211840625,1.0,0.0,pres_style_D_overstatement
 GA-5,Nikema Williams,D,1,36,,16.0,0.15,South,0.105,82.39999999999999,72.44,69.402364375,1.0,0.0,pres_style_D_overstatement
@@ -137,19 +137,19 @@ IL-2,Robin Kelly,D,0,18,,16.0,0.15,Midwest,0.182,44.6,40.31,37.301184375,0.9999,
 IL-3,Delia Ramirez,D,1,17,,16.0,0.15,Midwest,0.182,44.4,40.13999999999999,37.178703125,0.99995,1e-05,pres_style_D_overstatement
 IL-4,Chuy García,D,0,17,,16.0,0.15,Midwest,0.182,42.6,38.61,35.63183375,0.99994,1e-05,pres_style_D_overstatement
 IL-5,Mike Quigley,D,1,19,,16.0,0.15,Midwest,0.182,48.4,43.54,40.585800625,0.99995,0.0,pres_style_D_overstatement
-IL-6,Sean Casten,D,1,3,,16.0,0.15,Midwest,0.182,16.4,16.339999999999996,13.334117578125,0.96766,0.00255,pres_style_D_overstatement
+IL-6,Sean Casten,D,1,3,,16.0,0.15,Midwest,0.182,16.4,16.339999999999996,13.334117578125,0.96766,0.00253,pres_style_D_overstatement
 IL-7,Danny Davis,D,0,34,,16.0,0.15,Midwest,0.182,76.6,67.51,64.5616746875,1.0,0.0,pres_style_D_overstatement
-IL-8,Raja Krishnamoorthi,D,0,5,,16.0,0.15,Midwest,0.182,18.6,18.21,15.2083365625,0.98096,0.00152,pres_style_D_overstatement
+IL-8,Raja Krishnamoorthi,D,0,5,,16.0,0.15,Midwest,0.182,18.6,18.21,15.2083365625,0.98096,0.00153,pres_style_D_overstatement
 IL-9,Jan Schakowsky,D,0,19,,16.0,0.15,Midwest,0.182,46.6,42.01,39.0247621875,0.99995,1e-05,pres_style_D_overstatement
 IL-10,Brad Schneider,D,1,12,,16.0,0.15,Midwest,0.182,34.4,31.639999999999997,28.631026875,0.99959,6e-05,pres_style_D_overstatement
 IL-11,Bill Foster,D,1,6,,16.0,0.15,Midwest,0.182,22.400000000000002,21.44,18.417070234375,0.99234,0.00048,pres_style_D_overstatement
 IL-12,Mike Bost,R,1,-22,,-16.0,0.15,Midwest,0.182,-37.199999999999996,-34.019999999999996,-37.050314375,9e-05,0.0,pres_style_D_overstatement
-IL-13,Nikki Budzinski,D,1,5,,16.0,0.15,Midwest,0.182,20.400000000000002,19.74,16.73748765625,0.98707,0.00108,pres_style_D_overstatement
+IL-13,Nikki Budzinski,D,1,5,,16.0,0.15,Midwest,0.182,20.400000000000002,19.74,16.73748765625,0.98707,0.00107,pres_style_D_overstatement
 IL-14,Lauren Underwood,D,1,3,,16.0,0.15,Midwest,0.182,16.4,16.339999999999996,13.333880703125,0.96718,0.00287,pres_style_D_overstatement
 IL-15,Mary Miller,R,1,-20,,-16.0,0.15,Midwest,0.182,-33.199999999999996,-30.619999999999994,-33.5985209375,0.00018,0.0,pres_style_D_overstatement
 IL-16,Darin LaHood,R,1,-11,,-16.0,0.15,Midwest,0.182,-15.200000000000001,-15.32,-18.321431796875,0.00825,0.00028,pres_style_D_overstatement
 IL-17,Eric Sorensen,D,1,3,2.9,15.299999999999999,0.3,Midwest,0.182,16.4,16.07,13.0449698828125,0.96401,0.00348,pres_style_D_overstatement
-IN-1,Frank J. Mrvan,D,1,1,2.5,12.5,0.3,Midwest,0.082,12.4,12.43,9.4711587109375,0.91323,0.00791,pres_style_D_overstatement
+IN-1,Frank J. Mrvan,D,1,1,2.5,12.5,0.3,Midwest,0.082,12.4,12.43,9.4711587109375,0.91323,0.00792,pres_style_D_overstatement
 IN-2,Rudy Yakym,R,1,-13,,-16.0,0.15,Midwest,0.082,-19.2,-18.72,-21.692332890625,0.00284,6e-05,pres_style_D_overstatement
 IN-3,Marlin Stutzman,R,1,-16,,-16.0,0.15,Midwest,0.082,-25.2,-23.819999999999997,-26.7990146875,0.00077,3e-05,pres_style_D_overstatement
 IN-4,Jim Baird,R,1,-15,,-16.0,0.15,Midwest,0.082,-23.2,-22.119999999999997,-25.08668578125,0.00118,1e-05,pres_style_D_overstatement
@@ -158,20 +158,20 @@ IN-6,Jefferson Shreve,R,1,-16,,-16.0,0.15,Midwest,0.082,-25.2,-23.81999999999999
 IN-7,André Carson,D,1,21,,16.0,0.15,Midwest,0.082,52.4,46.94,43.93726890625,0.99999,0.0,pres_style_D_overstatement
 IN-8,Mark Messmer,R,1,-18,,-16.0,0.15,Midwest,0.082,-29.2,-27.22,-30.1566153125,0.00033,2e-05,pres_style_D_overstatement
 IN-9,Erin Houchin,R,1,-15,,-16.0,0.15,Midwest,0.082,-23.2,-22.119999999999997,-25.082670078125,0.0011,3e-05,pres_style_D_overstatement
-IA-1,Mariannette Miller-Meeks,R,1,-4,1.35,6.075,0.3,Midwest,0.068,-1.2000000000000004,0.9824999999999998,-1.97806525390625,0.38409,0.01608,pres_style_D_overstatement
-IA-2,Ashley Hinson,R,0,-4,0.25,1.0,0.3,Midwest,0.068,0.5999999999999996,0.7199999999999998,-2.276233955078125,0.36699,0.01503,pres_style_D_overstatement
-IA-3,Zach Nunn,R,1,-2,1.25,5.625,0.3,Midwest,0.068,2.8,3.6475,0.6559376293945313,0.53808,0.01903,pres_style_D_overstatement
+IA-1,Mariannette Miller-Meeks,R,1,-4,1.35,6.075,0.3,Midwest,0.068,-1.2000000000000004,0.9824999999999998,-1.97806525390625,0.38409,0.01607,pres_style_D_overstatement
+IA-2,Ashley Hinson,R,0,-4,0.25,1.0,0.3,Midwest,0.068,0.5999999999999996,0.7199999999999998,-2.276233955078125,0.36699,0.01504,pres_style_D_overstatement
+IA-3,Zach Nunn,R,1,-2,1.25,5.625,0.3,Midwest,0.068,2.8,3.6475,0.6559376293945313,0.53808,0.01902,pres_style_D_overstatement
 IA-4,Randy Feenstra,R,0,-15,,-16.0,0.15,Midwest,0.068,-21.4,-20.589999999999996,-23.556126953125,0.00177,6e-05,pres_style_D_overstatement
 KS-1,Tracey Mann,R,1,-16,,-16.0,0.15,Midwest,0.13,-25.2,-23.819999999999997,-26.79642328125,0.0008,3e-05,pres_style_D_overstatement
 KS-2,Derek Schmidt,R,1,-10,-2.8,-14.599999999999998,0.3,Midwest,0.13,-13.200000000000001,-13.62,-16.61345140625,0.01266,0.00045,pres_style_D_overstatement
-KS-3,Sharice Davids,D,1,2,2.9,15.299999999999999,0.3,Midwest,0.13,14.4,14.67,11.67219671875,0.95088,0.00477,pres_style_D_overstatement
+KS-3,Sharice Davids,D,1,2,2.9,15.299999999999999,0.3,Midwest,0.13,14.4,14.67,11.67219671875,0.95088,0.00478,pres_style_D_overstatement
 KS-4,Ron Estes,R,1,-12,,-16.0,0.15,Midwest,0.13,-17.2,-17.02,-20.007705859375,0.00477,0.00015,pres_style_D_overstatement
 KY-1,James Comer,R,1,-23,,-16.0,0.15,South,0.046,-39.199999999999996,-35.71999999999999,-38.7033509375,6e-05,0.0,pres_style_D_overstatement
 KY-2,Brett Guthrie,R,1,-20,,-16.0,0.15,South,0.046,-33.199999999999996,-30.619999999999994,-33.616075,0.00013,0.0,pres_style_D_overstatement
 KY-3,Morgan McGarvey,D,1,10,,16.0,0.15,South,0.046,30.400000000000002,28.24,25.252004140625,0.99891,9e-05,pres_style_D_overstatement
 KY-4,Thomas Massie,R,0,-18,,-16.0,0.15,South,0.046,-27.4,-25.689999999999998,-28.6867540625,0.00047,1e-05,pres_style_D_overstatement
 KY-5,Hal Rogers,R,1,-32,,-16.0,0.15,South,0.046,-57.199999999999996,-51.019999999999996,-54.0144375,0.0,0.0,pres_style_D_overstatement
-KY-6,Andy Barr,R,0,-7,-1.0,-4.5,0.3,South,0.046,-5.4,-5.13,-8.1163969921875,0.11794,0.00427,pres_style_D_overstatement
+KY-6,Andy Barr,R,0,-7,-1.0,-4.5,0.3,South,0.046,-5.4,-5.13,-8.1163969921875,0.11794,0.00426,pres_style_D_overstatement
 LA-1,Steve Scalise,R,1,-20,,-16.0,0.15,South,0.062,-33.199999999999996,-30.619999999999994,-33.6026771875,0.00011,0.0,pres_style_D_overstatement
 LA-2,Troy Carter,D,1,25,,16.0,0.15,South,0.062,60.4,53.739999999999995,50.72199703125,0.99998,1e-05,pres_style_D_overstatement
 LA-3,Clay Higgins,R,1,-18,,-16.0,0.15,South,0.062,-29.2,-27.22,-30.192775625,0.00041,0.0,pres_style_D_overstatement
@@ -179,7 +179,7 @@ LA-4,Mike Johnson,R,1,-17,,-16.0,0.15,South,0.062,-27.2,-25.519999999999996,-28.
 LA-5,Julia Letlow,R,0,-17,,-16.0,0.15,South,0.062,-25.4,-23.99,-26.999775625,0.00065,2e-05,pres_style_D_overstatement
 LA-6,Cleo Fields,D,0,-16,,-16.0,0.15,South,0.062,-23.4,-22.289999999999996,-25.255239921875,0.00118,3e-05,pres_style_D_overstatement
 ME-1,Chellie Pingree,D,1,11,,16.0,0.15,Northeast,0.02,32.4,29.939999999999998,26.9107096875,0.99915,5e-05,pres_style_D_overstatement
-ME-2,Jared Golden,D,0,-4,-0.6,-2.5,0.3,Northeast,0.02,0.5999999999999996,-0.3300000000000003,-3.326752021484375,0.31004,0.01331,pres_style_D_overstatement
+ME-2,Jared Golden,D,0,-4,-0.6,-2.5,0.3,Northeast,0.02,0.5999999999999996,-0.3300000000000003,-3.326752021484375,0.31004,0.01335,pres_style_D_overstatement
 MD-1,Andy Harris,R,1,-8,-2.9,-15.299999999999999,0.3,South,0.118,-9.200000000000001,-11.030000000000001,-14.010124765625,0.02685,0.0009,pres_style_D_overstatement
 MD-2,Johnny Olszewski,D,1,10,,16.0,0.15,South,0.118,30.400000000000002,28.24,25.259419453125,0.99888,0.0001,pres_style_D_overstatement
 MD-3,Sarah Elfreth,D,1,12,,16.0,0.15,South,0.118,34.4,31.639999999999997,28.6237159375,0.99953,5e-05,pres_style_D_overstatement
@@ -203,14 +203,14 @@ MI-3,Hillary Scholten,D,1,4,2.9,15.299999999999999,0.3,Midwest,0.056,18.40000000
 MI-4,Bill Huizenga,R,1,-3,-0.05,-0.2,0.3,Midwest,0.056,0.7999999999999996,0.4999999999999997,-2.50362056640625,0.35568,0.01523,pres_style_D_overstatement
 MI-5,Tim Walberg,R,1,-13,,-16.0,0.15,Midwest,0.056,-19.2,-18.72,-21.705060703125,0.00277,0.0001,pres_style_D_overstatement
 MI-6,Debbie Dingell,D,1,12,,16.0,0.15,Midwest,0.056,34.4,31.639999999999997,28.6978915625,0.9996,8e-05,pres_style_D_overstatement
-MI-7,Tom Barrett,R,1,0,0.6,2.5,0.3,Midwest,0.056,6.8,5.51,2.497881806640625,0.64555,0.01895,pres_style_D_overstatement
-MI-8,Kristen McDonald Rivet,D,1,-1,2.7,13.900000000000002,0.3,Midwest,0.056,8.4,10.05,7.050657734375,0.84772,0.01243,pres_style_D_overstatement
+MI-7,Tom Barrett,R,1,0,0.6,2.5,0.3,Midwest,0.056,6.8,5.51,2.497881806640625,0.64555,0.01897,pres_style_D_overstatement
+MI-8,Kristen McDonald Rivet,D,1,-1,2.7,13.900000000000002,0.3,Midwest,0.056,8.4,10.05,7.050657734375,0.84772,0.01241,pres_style_D_overstatement
 MI-9,Lisa McClain,R,1,-16,,-16.0,0.15,Midwest,0.056,-25.2,-23.819999999999997,-26.80331421875,0.00066,1e-05,pres_style_D_overstatement
-MI-10,John James,R,0,-3,0.55,2.25,0.3,Midwest,0.056,2.5999999999999996,2.4949999999999997,-0.5125916040039062,0.46848,0.0187,pres_style_D_overstatement
+MI-10,John James,R,0,-3,0.55,2.25,0.3,Midwest,0.056,2.5999999999999996,2.4949999999999997,-0.5125916040039062,0.46848,0.01869,pres_style_D_overstatement
 MI-11,Haley Stevens,D,0,9,,16.0,0.15,Midwest,0.056,26.6,25.009999999999998,22.024191171875,0.99707,0.00023,pres_style_D_overstatement
 MI-12,Rashida Tlaib,D,1,21,,16.0,0.15,Midwest,0.056,52.4,46.94,43.96852140625,1.0,0.0,pres_style_D_overstatement
 MI-13,Shri Thanedar,D,0,22,,16.0,0.15,Midwest,0.056,52.6,47.11,44.13990453125,0.99999,1e-05,pres_style_D_overstatement
-MN-1,Brad Finstad,R,1,-6,-1.5,-6.75,0.3,Midwest,0.061,-5.2,-5.664999999999999,-8.6500891796875,0.1045,0.00436,pres_style_D_overstatement
+MN-1,Brad Finstad,R,1,-6,-1.5,-6.75,0.3,Midwest,0.061,-5.2,-5.664999999999999,-8.6500891796875,0.1045,0.00437,pres_style_D_overstatement
 MN-2,Angie Craig,D,0,3,2.5,12.5,0.3,Midwest,0.061,14.6,13.969999999999999,10.9857269921875,0.93995,0.00522,pres_style_D_overstatement
 MN-3,Kelly Morrison,D,1,11,,16.0,0.15,Midwest,0.061,32.4,29.939999999999998,26.93460625,0.99912,4e-05,pres_style_D_overstatement
 MN-4,Betty McCollum,D,1,18,,16.0,0.15,Midwest,0.061,46.4,41.839999999999996,38.84003609375,0.99994,0.0,pres_style_D_overstatement
@@ -223,7 +223,7 @@ MS-2,Bennie Thompson,D,1,11,,16.0,0.15,South,0.036,32.4,29.939999999999998,26.93
 MS-3,Michael Guest,R,1,-14,,-16.0,0.15,South,0.036,-21.2,-20.419999999999998,-23.417642265625,0.00203,6e-05,pres_style_D_overstatement
 MS-4,Mike Ezell,R,1,-21,,-16.0,0.15,South,0.036,-35.199999999999996,-32.31999999999999,-35.2713840625,8e-05,0.0,pres_style_D_overstatement
 MO-1,Wesley Bell,D,1,29,,16.0,0.15,Midwest,0.049,68.39999999999999,60.53999999999999,57.558918125,1.0,0.0,pres_style_D_overstatement
-MO-2,Ann Wagner,R,1,-4,-1.3,-5.85,0.3,Midwest,0.049,-1.2000000000000004,-2.595,-5.57914830078125,0.2063,0.00904,pres_style_D_overstatement
+MO-2,Ann Wagner,R,1,-4,-1.3,-5.85,0.3,Midwest,0.049,-1.2000000000000004,-2.595,-5.57914830078125,0.2063,0.00903,pres_style_D_overstatement
 MO-3,Bob Onder,R,1,-13,,-16.0,0.15,Midwest,0.049,-19.2,-18.72,-21.715046796875,0.00303,8e-05,pres_style_D_overstatement
 MO-4,Mark Alford,R,1,-21,,-16.0,0.15,Midwest,0.049,-35.199999999999996,-32.31999999999999,-35.36191171875,9e-05,0.0,pres_style_D_overstatement
 MO-5,Emanuel Cleaver,D,1,12,,16.0,0.15,Midwest,0.049,34.4,31.639999999999997,28.644405625,0.99954,5e-05,pres_style_D_overstatement
@@ -232,22 +232,22 @@ MO-7,Eric Burlison,R,1,-21,,-16.0,0.15,Midwest,0.049,-35.199999999999996,-32.319
 MO-8,Jason Smith,R,1,-27,,-16.0,0.15,Midwest,0.049,-47.199999999999996,-42.519999999999996,-45.4994065625,1e-05,0.0,pres_style_D_overstatement
 MT-1,Ryan Zinke,R,0,-5,-0.6,-2.5,0.3,West,0.042,-1.4000000000000004,-1.7300000000000002,-4.75495021484375,0.24144,0.01053,pres_style_D_overstatement
 MT-2,Troy Downing,R,1,-15,,-16.0,0.15,West,0.042,-23.2,-22.119999999999997,-25.1105703125,0.00118,0.0,pres_style_D_overstatement
-NE-1,Mike Flood,R,1,-6,-2.2,-10.400000000000002,0.3,Midwest,0.12,-5.2,-6.76,-9.722851484375,0.0825,0.00309,pres_style_D_overstatement
-NE-2,Don Bacon,R,0,3,2.05,9.349999999999998,0.3,Midwest,0.12,14.6,13.024999999999999,10.030293671875,0.92521,0.00686,pres_style_D_overstatement
+NE-1,Mike Flood,R,1,-6,-2.2,-10.400000000000002,0.3,Midwest,0.12,-5.2,-6.76,-9.722851484375,0.0825,0.00311,pres_style_D_overstatement
+NE-2,Don Bacon,R,0,3,2.05,9.349999999999998,0.3,Midwest,0.12,14.6,13.024999999999999,10.030293671875,0.92521,0.00685,pres_style_D_overstatement
 NE-3,Adrian Smith,R,1,-27,,-16.0,0.15,Midwest,0.12,-47.199999999999996,-42.519999999999996,-45.5206615625,2e-05,0.0,pres_style_D_overstatement
 NV-1,Dina Titus,D,1,2,2.3,11.099999999999998,0.3,West,0.287,14.4,13.41,10.386845234375,0.92659,0.00616,pres_style_D_overstatement
 NV-2,Mark Amodei,R,0,-7,-1.7,-7.65,0.3,West,0.287,-5.4,-6.074999999999999,-9.0730363671875,0.10057,0.00405,pres_style_D_overstatement
-NV-3,Susie Lee,D,1,1,2.1,9.700000000000001,0.3,West,0.287,12.4,11.59,8.5630338671875,0.88442,0.00924,pres_style_D_overstatement
+NV-3,Susie Lee,D,1,1,2.1,9.700000000000001,0.3,West,0.287,12.4,11.59,8.5630338671875,0.88442,0.00929,pres_style_D_overstatement
 NV-4,Steven Horsford,D,1,2,2.4,11.799999999999999,0.3,West,0.287,14.4,13.62,10.63973953125,0.92949,0.0054,pres_style_D_overstatement
-NH-1,Chris Pappas,D,0,2,2.1,9.700000000000001,0.3,Northeast,0.043,12.6,11.729999999999999,8.735917265625,0.89687,0.00948,pres_style_D_overstatement
-NH-2,Maggie Goodlander,D,1,2,2.7,13.900000000000002,0.3,Northeast,0.043,14.4,14.25,11.25984390625,0.94482,0.00512,pres_style_D_overstatement
+NH-1,Chris Pappas,D,0,2,2.1,9.700000000000001,0.3,Northeast,0.043,12.6,11.729999999999999,8.735917265625,0.89687,0.00947,pres_style_D_overstatement
+NH-2,Maggie Goodlander,D,1,2,2.7,13.900000000000002,0.3,Northeast,0.043,14.4,14.25,11.25984390625,0.94482,0.00508,pres_style_D_overstatement
 NJ-1,Donald Norcross,D,1,10,,16.0,0.15,Northeast,0.216,30.400000000000002,28.24,25.229845390625,0.99854,0.0001,pres_style_D_overstatement
-NJ-2,Jeff Van Drew,R,1,-5,-2.1,-9.700000000000001,0.3,Northeast,0.216,-3.2,-5.15,-8.129533828125,0.12287,0.00498,pres_style_D_overstatement
-NJ-3,Herb Conaway,D,1,5,,16.0,0.15,Northeast,0.216,20.400000000000002,19.74,16.77738375,0.98676,0.00124,pres_style_D_overstatement
+NJ-2,Jeff Van Drew,R,1,-5,-2.1,-9.700000000000001,0.3,Northeast,0.216,-3.2,-5.15,-8.129533828125,0.12287,0.00499,pres_style_D_overstatement
+NJ-3,Herb Conaway,D,1,5,,16.0,0.15,Northeast,0.216,20.400000000000002,19.74,16.77738375,0.98676,0.00125,pres_style_D_overstatement
 NJ-4,Chris Smith,R,1,-14,,-16.0,0.15,Northeast,0.216,-21.2,-20.419999999999998,-23.41942296875,0.00183,4e-05,pres_style_D_overstatement
-NJ-5,Josh Gottheimer,D,1,2,,16.0,0.15,Northeast,0.216,14.4,14.64,11.6409452734375,0.9472,0.00477,pres_style_D_overstatement
+NJ-5,Josh Gottheimer,D,1,2,,16.0,0.15,Northeast,0.216,14.4,14.64,11.6409452734375,0.9472,0.00476,pres_style_D_overstatement
 NJ-6,Frank Pallone,D,1,5,,16.0,0.15,Northeast,0.216,20.400000000000002,19.74,16.69884578125,0.98666,0.00098,pres_style_D_overstatement
-NJ-7,Thomas Kean Jr.,R,1,0,1.35,6.075,0.3,Northeast,0.216,6.8,6.5825,3.61476537109375,0.70141,0.01873,pres_style_D_overstatement
+NJ-7,Thomas Kean Jr.,R,1,0,1.35,6.075,0.3,Northeast,0.216,6.8,6.5825,3.61476537109375,0.70141,0.0187,pres_style_D_overstatement
 NJ-8,Rob Menendez,D,1,15,,16.0,0.15,Northeast,0.216,40.4,36.739999999999995,33.74169859375,0.9998,3e-05,pres_style_D_overstatement
 NJ-9,Nellie Pou,D,1,2,2.6,13.200000000000001,0.3,Northeast,0.216,14.4,14.04,11.0700325,0.94106,0.00525,pres_style_D_overstatement
 NJ-10,LaMonica McIver,D,1,27,,16.0,0.15,Northeast,0.216,64.4,57.14,54.1260834375,1.0,0.0,pres_style_D_overstatement
@@ -255,10 +255,10 @@ NJ-11,Analilia Mejia,D,1,5,,16.0,0.15,Northeast,0.216,20.400000000000002,19.74,1
 NJ-12,Bonnie Watson Coleman,D,0,13,,16.0,0.15,Northeast,0.216,34.6,31.81,28.83369109375,0.99955,4e-05,pres_style_D_overstatement
 NM-1,Melanie Stansbury,D,1,7,,16.0,0.15,West,0.477,24.400000000000002,23.14,20.13179578125,0.99326,0.00055,pres_style_D_overstatement
 NM-2,Gabe Vasquez,D,1,0,1.75,7.875,0.3,West,0.477,10.4,9.642499999999998,6.60774462890625,0.81454,0.01299,pres_style_D_overstatement
-NM-3,Teresa Leger Fernandez,D,1,3,,16.0,0.15,West,0.477,16.4,16.339999999999996,13.318272109375,0.95905,0.0031,pres_style_D_overstatement
+NM-3,Teresa Leger Fernandez,D,1,3,,16.0,0.15,West,0.477,16.4,16.339999999999996,13.318272109375,0.95905,0.00309,pres_style_D_overstatement
 NY-1,Nick LaLota,R,1,-4,-1.9,-8.55,0.3,Northeast,0.195,-1.2000000000000004,-3.4050000000000002,-6.34991783203125,0.17897,0.00772,pres_style_D_overstatement
 NY-2,Andrew Garbarino,R,1,-6,-2.4,-11.799999999999999,0.3,Northeast,0.195,-5.2,-7.18,-10.18169734375,0.0745,0.00303,pres_style_D_overstatement
-NY-3,Tom Suozzi,D,1,0,2.2,10.400000000000002,0.3,Northeast,0.195,10.4,10.4,7.4307149609375,0.85671,0.01147,pres_style_D_overstatement
+NY-3,Tom Suozzi,D,1,0,2.2,10.400000000000002,0.3,Northeast,0.195,10.4,10.4,7.4307149609375,0.85671,0.01148,pres_style_D_overstatement
 NY-4,Laura Gillen,D,1,2,2.25,10.75,0.3,Northeast,0.195,14.4,13.305,10.3131051171875,0.92733,0.00629,pres_style_D_overstatement
 NY-5,Gregory Meeks,D,1,24,,16.0,0.15,Northeast,0.195,58.4,52.04,49.01453171875,1.0,0.0,pres_style_D_overstatement
 NY-6,Grace Meng,D,1,6,,16.0,0.15,Northeast,0.195,22.400000000000002,21.44,18.44589890625,0.99185,0.00069,pres_style_D_overstatement
@@ -272,19 +272,19 @@ NY-13,Adriano Espaillat,D,0,32,,16.0,0.15,Northeast,0.195,72.6,64.11,61.10236781
 NY-14,Alexandria Ocasio-Cortez,D,1,19,,16.0,0.15,Northeast,0.195,48.4,43.54,40.53079296875,0.99992,1e-05,pres_style_D_overstatement
 NY-15,Ritchie Torres,D,1,27,,16.0,0.15,Northeast,0.195,64.4,57.14,54.1584275,1.0,0.0,pres_style_D_overstatement
 NY-16,George Latimer,D,1,18,,16.0,0.15,Northeast,0.195,46.4,41.839999999999996,38.85220265625,0.99995,1e-05,pres_style_D_overstatement
-NY-17,Mike Lawler,R,1,1,0.6,2.5,0.3,Northeast,0.195,8.799999999999999,6.909999999999999,3.88701689453125,0.71561,0.01907,pres_style_D_overstatement
-NY-18,Pat Ryan,D,1,2,,16.0,0.15,Northeast,0.195,14.4,14.64,11.60546890625,0.94752,0.00467,pres_style_D_overstatement
-NY-19,Josh Riley,D,1,1,2.6,13.200000000000001,0.3,Northeast,0.195,12.4,12.64,9.630871796875,0.91392,0.00745,pres_style_D_overstatement
+NY-17,Mike Lawler,R,1,1,0.6,2.5,0.3,Northeast,0.195,8.799999999999999,6.909999999999999,3.88701689453125,0.71561,0.01909,pres_style_D_overstatement
+NY-18,Pat Ryan,D,1,2,,16.0,0.15,Northeast,0.195,14.4,14.64,11.60546890625,0.94752,0.00466,pres_style_D_overstatement
+NY-19,Josh Riley,D,1,1,2.6,13.200000000000001,0.3,Northeast,0.195,12.4,12.64,9.630871796875,0.91392,0.00746,pres_style_D_overstatement
 NY-20,Paul Tonko,D,1,8,,16.0,0.15,Northeast,0.195,26.400000000000002,24.84,21.84288203125,0.9969,0.00023,pres_style_D_overstatement
 NY-21,Elise Stefanik,R,0,-10,-2.0,-9.0,0.3,Northeast,0.195,-11.4,-10.68,-13.7045053125,0.02981,0.0011,pres_style_D_overstatement
 NY-22,John Mannion,D,1,4,,16.0,0.15,Northeast,0.195,18.400000000000002,18.04,15.024777421875,0.97972,0.00196,pres_style_D_overstatement
-NY-23,Nick Langworthy,R,1,-10,-3.0,-16.0,0.3,Northeast,0.195,-13.200000000000001,-14.04,-17.033800234375,0.01239,0.00039,pres_style_D_overstatement
+NY-23,Nick Langworthy,R,1,-10,,-16.0,0.15,Northeast,0.195,-13.200000000000001,-13.620000000000001,-16.613804375,0.01377,0.00046,pres_style_D_overstatement
 NY-24,Claudia Tenney,R,1,-11,,-16.0,0.15,Northeast,0.195,-15.200000000000001,-15.32,-18.300145625,0.00846,0.00023,pres_style_D_overstatement
 NY-25,Joseph Morelle,D,1,10,,16.0,0.15,Northeast,0.195,30.400000000000002,28.24,25.241393203125,0.99874,0.00011,pres_style_D_overstatement
 NY-26,Tim Kennedy,D,1,11,,16.0,0.15,Northeast,0.195,32.4,29.939999999999998,26.92950640625,0.99934,6e-05,pres_style_D_overstatement
-NC-1,Don Davis,D,1,-5,0.25,1.0,0.3,South,0.107,0.3999999999999997,0.5799999999999997,-2.4026542578125,0.35979,0.01543,pres_style_D_overstatement
+NC-1,Don Davis,D,1,-5,0.25,1.0,0.3,South,0.107,0.3999999999999997,0.5799999999999997,-2.4026542578125,0.35979,0.01542,pres_style_D_overstatement
 NC-2,Deborah Ross,D,1,17,,16.0,0.15,South,0.107,44.4,40.13999999999999,37.1659978125,0.99992,0.0,pres_style_D_overstatement
-NC-3,Greg Murphy,R,1,-6,-2.4,-11.799999999999999,0.3,South,0.107,-5.2,-7.18,-10.14978515625,0.0734,0.00265,pres_style_D_overstatement
+NC-3,Greg Murphy,R,1,-6,-2.4,-11.799999999999999,0.3,South,0.107,-5.2,-7.18,-10.14978515625,0.0734,0.00266,pres_style_D_overstatement
 NC-4,Valerie Foushee,D,1,23,,16.0,0.15,South,0.107,56.4,50.339999999999996,47.32212859375,1.0,0.0,pres_style_D_overstatement
 NC-5,Virginia Foxx,R,1,-9,-2.6,-13.200000000000001,0.3,South,0.107,-11.200000000000001,-11.8,-14.781609765625,0.02127,0.00077,pres_style_D_overstatement
 NC-6,Addison McDowell,R,1,-9,-2.7,-13.900000000000002,0.3,South,0.107,-11.200000000000001,-12.010000000000002,-14.98423,0.02018,0.00071,pres_style_D_overstatement
@@ -292,12 +292,12 @@ NC-7,David Rouzer,R,1,-7,-2.5,-12.5,0.3,South,0.107,-7.2,-8.79,-11.7700017578125
 NC-8,Mark Harris,R,1,-10,-2.9,-15.299999999999999,0.3,South,0.107,-13.200000000000001,-13.83,-16.79249453125,0.01234,0.00041,pres_style_D_overstatement
 NC-9,Richard Hudson,R,1,-8,-2.4,-11.799999999999999,0.3,South,0.107,-9.200000000000001,-9.98,-12.9818496484375,0.03638,0.00135,pres_style_D_overstatement
 NC-10,Pat Harrigan,R,1,-9,-2.9,-15.299999999999999,0.3,South,0.107,-11.200000000000001,-12.43,-15.44250609375,0.01782,0.0006,pres_style_D_overstatement
-NC-11,Chuck Edwards,R,0,-5,0.0,0.0,0.3,South,0.107,-1.4000000000000004,-0.9800000000000002,-3.947839453125,0.28186,0.01228,pres_style_D_overstatement
+NC-11,Chuck Edwards,R,0,-5,0.0,0.0,0.3,South,0.107,-1.4000000000000004,-0.9800000000000002,-3.947839453125,0.28186,0.01229,pres_style_D_overstatement
 NC-12,Alma Adams,D,1,24,,16.0,0.15,South,0.107,58.4,52.04,49.05959265625,1.0,0.0,pres_style_D_overstatement
-NC-13,Brad Knott,R,1,-8,-2.5,-12.5,0.3,South,0.107,-9.200000000000001,-10.190000000000001,-13.1460885546875,0.0333,0.00123,pres_style_D_overstatement
-NC-14,Tim Moore,R,1,-8,-2.6,-13.200000000000001,0.3,South,0.107,-9.200000000000001,-10.4,-13.38909234375,0.03133,0.00109,pres_style_D_overstatement
+NC-13,Brad Knott,R,1,-8,-2.5,-12.5,0.3,South,0.107,-9.200000000000001,-10.190000000000001,-13.1460885546875,0.0333,0.00122,pres_style_D_overstatement
+NC-14,Tim Moore,R,1,-8,-2.6,-13.200000000000001,0.3,South,0.107,-9.200000000000001,-10.4,-13.38909234375,0.03133,0.0011,pres_style_D_overstatement
 ND-AL,Julie Fedorchak,R,1,-18,,-16.0,0.15,Midwest,0.043,-29.2,-27.22,-30.2303371875,0.00034,2e-05,pres_style_D_overstatement
-OH-1,Greg Landsman,D,1,-1,1.65,7.425,0.3,Midwest,0.044,8.4,8.1075,5.11254328125,0.77429,0.01612,pres_style_D_overstatement
+OH-1,Greg Landsman,D,1,-1,1.65,7.425,0.3,Midwest,0.044,8.4,8.1075,5.11254328125,0.77429,0.01616,pres_style_D_overstatement
 OH-2,David Taylor,R,1,-21,,-16.0,0.15,Midwest,0.044,-35.199999999999996,-32.31999999999999,-35.30785515625,0.00011,0.0,pres_style_D_overstatement
 OH-3,Joyce Beatty,D,1,21,,16.0,0.15,Midwest,0.044,52.4,46.94,43.950985625,0.99996,0.0,pres_style_D_overstatement
 OH-4,Jim Jordan,R,1,-21,,-16.0,0.15,Midwest,0.044,-35.199999999999996,-32.31999999999999,-35.30435984375,0.00013,0.0,pres_style_D_overstatement
@@ -305,11 +305,11 @@ OH-5,Bob Latta,R,1,-12,,-16.0,0.15,Midwest,0.044,-17.2,-17.02,-20.02571140625,0.
 OH-6,Michael Rulli,R,1,-17,,-16.0,0.15,Midwest,0.044,-27.2,-25.519999999999996,-28.5418903125,0.00047,4e-05,pres_style_D_overstatement
 OH-7,Max Miller,R,1,-5,0.2,0.8,0.3,Midwest,0.044,-3.2,-1.9999999999999998,-4.983449296875,0.23218,0.01064,pres_style_D_overstatement
 OH-8,Warren Davidson,R,1,-8,-2.7,-13.900000000000002,0.3,Midwest,0.044,-9.200000000000001,-10.610000000000001,-13.57735296875,0.02978,0.00113,pres_style_D_overstatement
-OH-9,Marcy Kaptur,D,1,-5,0.65,2.75,0.3,Midwest,0.044,0.3999999999999997,1.1049999999999998,-1.899171181640625,0.38713,0.01576,pres_style_D_overstatement
-OH-10,Mike Turner,R,1,-4,-2.1,-9.700000000000001,0.3,Midwest,0.044,-1.2000000000000004,-3.7500000000000004,-6.73465734375,0.1624,0.00682,pres_style_D_overstatement
+OH-9,Marcy Kaptur,D,1,-5,0.65,2.75,0.3,Midwest,0.044,0.3999999999999997,1.1049999999999998,-1.899171181640625,0.38713,0.01573,pres_style_D_overstatement
+OH-10,Mike Turner,R,1,-4,-2.1,-9.700000000000001,0.3,Midwest,0.044,-1.2000000000000004,-3.7500000000000004,-6.73465734375,0.1624,0.00681,pres_style_D_overstatement
 OH-11,Shontel Brown,D,1,28,,16.0,0.15,Midwest,0.044,66.39999999999999,58.83999999999999,55.85181875,0.99999,0.0,pres_style_D_overstatement
 OH-12,Troy Balderson,R,1,-15,,-16.0,0.15,Midwest,0.044,-23.2,-22.119999999999997,-25.122674765625,0.00113,1e-05,pres_style_D_overstatement
-OH-13,Emilia Sykes,D,1,2,2.6,13.200000000000001,0.3,Midwest,0.044,14.4,14.04,11.048961328125,0.94151,0.00541,pres_style_D_overstatement
+OH-13,Emilia Sykes,D,1,2,2.6,13.200000000000001,0.3,Midwest,0.044,14.4,14.04,11.048961328125,0.94151,0.0054,pres_style_D_overstatement
 OH-14,David Joyce,R,1,-10,,-16.0,0.15,Midwest,0.044,-13.200000000000001,-13.620000000000001,-16.645131953125,0.01219,0.00048,pres_style_D_overstatement
 OH-15,Mike Carey,R,1,-5,-1.5,-6.75,0.3,Midwest,0.044,-3.2,-4.265,-7.24705125,0.14681,0.00603,pres_style_D_overstatement
 OK-1,Kevin Hern,R,0,-11,-2.9,-15.299999999999999,0.3,South,0.119,-13.4,-13.969999999999999,-16.95371640625,0.01173,0.0005,pres_style_D_overstatement
@@ -323,27 +323,27 @@ OR-3,Maxine Dexter,D,1,24,,16.0,0.15,West,0.139,58.4,52.04,49.07873515625,0.9999
 OR-4,Val Hoyle,D,1,6,,16.0,0.15,West,0.139,22.400000000000002,21.44,18.47259921875,0.99185,0.00081,pres_style_D_overstatement
 OR-5,Janelle Bynum,D,1,4,2.9,15.299999999999999,0.3,West,0.139,18.400000000000002,17.47,14.50768171875,0.97686,0.00219,pres_style_D_overstatement
 OR-6,Andrea Salinas,D,1,6,,16.0,0.15,West,0.139,22.400000000000002,21.44,18.469103359375,0.99217,0.00069,pres_style_D_overstatement
-PA-1,Brian Fitzpatrick,R,1,1,-0.2,-0.8,0.3,Northeast,0.081,8.799999999999999,5.919999999999999,2.89128162109375,0.66617,0.01853,pres_style_D_overstatement
+PA-1,Brian Fitzpatrick,R,1,1,-0.2,-0.8,0.3,Northeast,0.081,8.799999999999999,5.919999999999999,2.89128162109375,0.66617,0.01856,pres_style_D_overstatement
 PA-2,Brendan Boyle,D,1,19,,16.0,0.15,Northeast,0.081,48.4,43.54,40.5285428125,0.99998,0.0,pres_style_D_overstatement
 PA-3,Dwight Evans,D,0,40,,16.0,0.15,Northeast,0.081,88.6,77.71,74.71040875,1.0,0.0,pres_style_D_overstatement
 PA-4,Madeleine Dean,D,1,8,,16.0,0.15,Northeast,0.081,26.400000000000002,24.84,21.856256328125,0.99672,0.00033,pres_style_D_overstatement
 PA-5,Mary Gay Scanlon,D,1,15,,16.0,0.15,Northeast,0.081,40.4,36.739999999999995,33.7331253125,0.99983,1e-05,pres_style_D_overstatement
-PA-6,Chrissy Houlahan,D,1,6,,16.0,0.15,Northeast,0.081,22.400000000000002,21.44,18.415010703125,0.99246,0.00086,pres_style_D_overstatement
-PA-7,Ryan Mackenzie,R,1,-1,1.1,4.95,0.3,Northeast,0.081,4.8,4.845,1.857887373046875,0.60783,0.01924,pres_style_D_overstatement
-PA-8,Rob Bresnahan,R,1,-4,0.4,1.6,0.3,Northeast,0.081,-1.2000000000000004,-0.3600000000000002,-3.391777451171875,0.30816,0.01384,pres_style_D_overstatement
+PA-6,Chrissy Houlahan,D,1,6,,16.0,0.15,Northeast,0.081,22.400000000000002,21.44,18.415010703125,0.99246,0.00085,pres_style_D_overstatement
+PA-7,Ryan Mackenzie,R,1,-1,1.1,4.95,0.3,Northeast,0.081,4.8,4.845,1.857887373046875,0.60783,0.01923,pres_style_D_overstatement
+PA-8,Rob Bresnahan,R,1,-4,0.4,1.6,0.3,Northeast,0.081,-1.2000000000000004,-0.3600000000000002,-3.391777451171875,0.30816,0.01383,pres_style_D_overstatement
 PA-9,Dan Meuser,R,1,-19,,-16.0,0.15,Northeast,0.081,-31.2,-28.919999999999998,-31.9452859375,0.00028,0.0,pres_style_D_overstatement
-PA-10,Scott Perry,R,1,-3,1.2,5.3999999999999995,0.3,Northeast,0.081,0.7999999999999996,2.1799999999999997,-0.80225873046875,0.45282,0.01755,pres_style_D_overstatement
+PA-10,Scott Perry,R,1,-3,1.2,5.3999999999999995,0.3,Northeast,0.081,0.7999999999999996,2.1799999999999997,-0.80225873046875,0.45282,0.01757,pres_style_D_overstatement
 PA-11,Lloyd Smucker,R,1,-11,-2.9,-15.299999999999999,0.3,Northeast,0.081,-15.200000000000001,-15.23,-18.236114375,0.00813,0.0003,pres_style_D_overstatement
 PA-12,Summer Lee,D,1,10,,16.0,0.15,Northeast,0.081,30.400000000000002,28.24,25.246234609375,0.99894,7e-05,pres_style_D_overstatement
 PA-13,John Joyce,R,1,-23,,-16.0,0.15,Northeast,0.081,-39.199999999999996,-35.71999999999999,-38.718251875,7e-05,0.0,pres_style_D_overstatement
 PA-14,Guy Reschenthaler,R,1,-17,,-16.0,0.15,Northeast,0.081,-27.2,-25.519999999999996,-28.51036046875,0.00052,1e-05,pres_style_D_overstatement
 PA-15,Glenn Thompson,R,1,-19,,-16.0,0.15,Northeast,0.081,-31.2,-28.919999999999998,-31.93930046875,0.00021,0.0,pres_style_D_overstatement
-PA-16,Mike Kelly,R,1,-11,,-16.0,0.15,Northeast,0.081,-15.200000000000001,-15.32,-18.33412609375,0.00761,0.00026,pres_style_D_overstatement
+PA-16,Mike Kelly,R,1,-11,,-16.0,0.15,Northeast,0.081,-15.200000000000001,-15.32,-18.33412609375,0.00761,0.00025,pres_style_D_overstatement
 PA-17,Chris Deluzio,D,1,3,,16.0,0.15,Northeast,0.081,16.4,16.339999999999996,13.3328108203125,0.9682,0.00291,pres_style_D_overstatement
-RI-1,Gabe Amo,D,1,12,,16.0,0.15,Northeast,0.166,34.4,31.639999999999997,28.628518125,0.99953,6e-05,pres_style_D_overstatement
+RI-1,Gabe Amo,D,1,12,,16.0,0.15,Northeast,0.166,34.4,31.639999999999997,28.628518125,0.99953,7e-05,pres_style_D_overstatement
 RI-2,Seth Magaziner,D,1,4,,16.0,0.15,Northeast,0.166,18.400000000000002,18.04,15.031364453125,0.9798,0.0018,pres_style_D_overstatement
-SC-1,Nancy Mace,R,0,-6,-1.4,-6.3,0.3,South,0.069,-3.4000000000000004,-4.27,-7.2833063671875,0.14459,0.00532,pres_style_D_overstatement
-SC-2,Joe Wilson,R,1,-7,-2.7,-13.900000000000002,0.3,South,0.069,-7.2,-9.21,-12.152597890625,0.04371,0.0016,pres_style_D_overstatement
+SC-1,Nancy Mace,R,0,-6,-1.4,-6.3,0.3,South,0.069,-3.4000000000000004,-4.27,-7.2833063671875,0.14459,0.00531,pres_style_D_overstatement
+SC-2,Joe Wilson,R,1,-7,-2.7,-13.900000000000002,0.3,South,0.069,-7.2,-9.21,-12.152597890625,0.04371,0.00159,pres_style_D_overstatement
 SC-3,Sheri Biggs,R,1,-21,,-16.0,0.15,South,0.069,-35.199999999999996,-32.31999999999999,-35.3094084375,0.00014,0.0,pres_style_D_overstatement
 SC-4,William Timmons,R,1,-11,,-16.0,0.15,South,0.069,-15.200000000000001,-15.32,-18.30465546875,0.00807,0.00031,pres_style_D_overstatement
 SC-5,Ralph Norman,R,0,-11,-2.9,-15.299999999999999,0.3,South,0.069,-13.4,-13.969999999999999,-16.970892109375,0.01121,0.00036,pres_style_D_overstatement
@@ -354,13 +354,13 @@ TN-1,Diana Harshbarger,R,1,-29,,-16.0,0.15,South,0.069,-51.199999999999996,-45.9
 TN-2,Tim Burchett,R,1,-17,,-16.0,0.15,South,0.069,-27.2,-25.519999999999996,-28.52932046875,0.0005,1e-05,pres_style_D_overstatement
 TN-3,Chuck Fleischmann,R,1,-18,,-16.0,0.15,South,0.069,-29.2,-27.22,-30.2242365625,0.00027,0.0,pres_style_D_overstatement
 TN-4,Scott DesJarlais,R,1,-11,,-16.0,0.15,South,0.069,-15.200000000000001,-15.32,-18.310962734375,0.00804,0.00035,pres_style_D_overstatement
-TN-5,Andy Ogles,R,0,-10,-2.7,-13.900000000000002,0.3,South,0.069,-11.4,-12.15,-15.145223671875,0.01987,0.00052,pres_style_D_overstatement
+TN-5,Andy Ogles,R,0,-10,-2.7,-13.900000000000002,0.3,South,0.069,-11.4,-12.15,-15.145223671875,0.01987,0.00051,pres_style_D_overstatement
 TN-6,John Rose,R,0,-13,,-16.0,0.15,South,0.069,-17.4,-17.189999999999998,-20.170239296875,0.0048,0.0001,pres_style_D_overstatement
 TN-7,Matt Van Epps,R,1,-11,-2.9,-15.299999999999999,0.3,South,0.069,-15.200000000000001,-15.23,-18.217002734375,0.00877,0.00032,pres_style_D_overstatement
 TN-8,David Kustoff,R,1,-10,,-16.0,0.15,South,0.069,-13.200000000000001,-13.620000000000001,-16.60170796875,0.01247,0.00047,pres_style_D_overstatement
 TN-9,Steve Cohen,D,0,-9,-2.5,-12.5,0.3,South,0.069,-9.4,-10.33,-13.3023784375,0.03208,0.00125,pres_style_D_overstatement
 TX-1,Nathaniel Moran,R,1,-24,,-16.0,0.15,South,0.393,-41.199999999999996,-37.419999999999995,-40.4086459375,6e-05,0.0,pres_style_D_overstatement
-TX-2,Dan Crenshaw,R,0,-11,-2.9,-15.299999999999999,0.3,South,0.393,-13.4,-13.969999999999999,-16.95720921875,0.01331,0.0004,pres_style_D_overstatement
+TX-2,Dan Crenshaw,R,0,-11,-2.9,-15.299999999999999,0.3,South,0.393,-13.4,-13.969999999999999,-16.95720921875,0.01331,0.00041,pres_style_D_overstatement
 TX-3,Keith Self,R,1,-11,,-16.0,0.15,South,0.393,-15.200000000000001,-15.32,-18.319025625,0.00998,0.00037,pres_style_D_overstatement
 TX-4,Pat Fallon,R,1,-12,,-16.0,0.15,South,0.393,-17.2,-17.02,-20.009366640625,0.00608,0.00015,pres_style_D_overstatement
 TX-5,Lance Gooden,R,1,-10,-2.9,-15.299999999999999,0.3,South,0.393,-13.200000000000001,-13.83,-16.8164684375,0.01461,0.00041,pres_style_D_overstatement
@@ -368,32 +368,32 @@ TX-6,Jake Ellzey,R,1,-11,,-16.0,0.15,South,0.393,-15.200000000000001,-15.32,-18.
 TX-7,Lizzie Fletcher,D,1,13,,16.0,0.15,South,0.393,36.4,33.339999999999996,30.35363609375,0.99961,0.0,pres_style_D_overstatement
 TX-8,Morgan Luttrell,R,0,-13,,-16.0,0.15,South,0.393,-17.4,-17.189999999999998,-20.201046328125,0.00593,0.00016,pres_style_D_overstatement
 TX-9,,,0,-9,-2.2,-10.400000000000002,0.3,South,0.393,-9.4,-9.700000000000001,-12.660368359375,0.04464,0.00148,pres_style_D_overstatement
-TX-10,Michael McCaul,R,0,-10,-2.8,-14.599999999999998,0.3,South,0.393,-11.4,-12.36,-15.31294109375,0.02231,0.00063,pres_style_D_overstatement
+TX-10,Michael McCaul,R,0,-10,-2.8,-14.599999999999998,0.3,South,0.393,-11.4,-12.36,-15.31294109375,0.02231,0.00064,pres_style_D_overstatement
 TX-11,August Pfluger,R,1,-17,,-16.0,0.15,South,0.393,-27.2,-25.519999999999996,-28.53713265625,0.00056,3e-05,pres_style_D_overstatement
 TX-12,Craig Goldman,R,1,-11,,-16.0,0.15,South,0.393,-15.200000000000001,-15.32,-18.33278609375,0.00968,0.00022,pres_style_D_overstatement
 TX-13,Ronny Jackson,R,1,-23,,-16.0,0.15,South,0.393,-39.199999999999996,-35.71999999999999,-38.69969078125,5e-05,0.0,pres_style_D_overstatement
 TX-14,Randy Weber,R,1,-12,,-16.0,0.15,South,0.393,-17.2,-17.02,-20.04059734375,0.00543,9e-05,pres_style_D_overstatement
-TX-15,Monica De La Cruz,R,1,-7,-0.05,-0.2,0.3,South,0.393,-7.2,-5.1,-8.1140434375,0.13292,0.00532,pres_style_D_overstatement
+TX-15,Monica De La Cruz,R,1,-7,-0.05,-0.2,0.3,South,0.393,-7.2,-5.1,-8.1140434375,0.13292,0.00534,pres_style_D_overstatement
 TX-16,Veronica Escobar,D,1,11,,16.0,0.15,South,0.393,32.4,29.939999999999998,26.92727015625,0.99919,9e-05,pres_style_D_overstatement
-TX-17,Pete Sessions,R,1,-10,-3.0,-16.0,0.3,South,0.393,-13.200000000000001,-14.04,-17.035143359375,0.01451,0.00044,pres_style_D_overstatement
+TX-17,Pete Sessions,R,1,-10,,-16.0,0.15,South,0.393,-13.200000000000001,-13.620000000000001,-16.61514453125,0.01639,0.00051,pres_style_D_overstatement
 TX-18,Christian Menefee,D,1,29,,16.0,0.15,South,0.393,68.39999999999999,60.53999999999999,57.552255,0.99999,0.0,pres_style_D_overstatement
 TX-19,Jodey Arrington,R,0,-25,,-16.0,0.15,South,0.393,-41.4,-37.589999999999996,-40.59145671875,7e-05,1e-05,pres_style_D_overstatement
 TX-20,Joaquin Castro,D,1,16,,16.0,0.15,South,0.393,42.4,38.44,35.423065625,0.99989,1e-05,pres_style_D_overstatement
 TX-21,Chip Roy,R,0,-10,-2.9,-15.299999999999999,0.3,South,0.393,-11.4,-12.57,-15.546243984375,0.02196,0.00049,pres_style_D_overstatement
 TX-22,Troy Nehls,R,0,-11,-2.9,-15.299999999999999,0.3,South,0.393,-13.4,-13.969999999999999,-16.977202109375,0.01473,0.00045,pres_style_D_overstatement
-TX-23,,,0,-7,-1.3,-5.85,0.3,South,0.393,-5.4,-5.535,-8.5207233203125,0.12181,0.00447,pres_style_D_overstatement
+TX-23,,,0,-7,-1.3,-5.85,0.3,South,0.393,-5.4,-5.535,-8.5207233203125,0.12181,0.00449,pres_style_D_overstatement
 TX-24,Beth Van Duyne,R,1,-8,-2.5,-12.5,0.3,South,0.393,-9.200000000000001,-10.190000000000001,-13.17237828125,0.04026,0.00122,pres_style_D_overstatement
 TX-25,Roger Williams,R,1,-11,,-16.0,0.15,South,0.393,-15.200000000000001,-15.32,-18.307204296875,0.01018,0.0003,pres_style_D_overstatement
 TX-26,Brandon Gill,R,1,-11,,-16.0,0.15,South,0.393,-15.200000000000001,-15.32,-18.30315140625,0.00979,0.00027,pres_style_D_overstatement
 TX-27,Michael Cloud,R,1,-10,-2.9,-15.299999999999999,0.3,South,0.393,-13.200000000000001,-13.83,-16.84336234375,0.01495,0.00036,pres_style_D_overstatement
-TX-28,Henry Cuellar,D,1,-3,1.45,6.525,0.3,South,0.393,4.3999999999999995,5.0375,2.045217197265625,0.612,0.01871,pres_style_D_overstatement
+TX-28,Henry Cuellar,D,1,-3,1.45,6.525,0.3,South,0.393,4.3999999999999995,5.0375,2.045217197265625,0.612,0.01869,pres_style_D_overstatement
 TX-29,Sylvia Garcia,D,1,17,,16.0,0.15,South,0.393,44.4,40.13999999999999,37.160360625,0.99997,0.0,pres_style_D_overstatement
 TX-30,,,0,25,,16.0,0.15,South,0.393,58.6,52.21,49.2096175,0.99998,0.0,pres_style_D_overstatement
-TX-31,John Carter,R,1,-11,-3.0,-16.0,0.3,South,0.393,-15.200000000000001,-15.440000000000001,-18.449646796875,0.00936,0.00022,pres_style_D_overstatement
+TX-31,John Carter,R,1,-11,,-16.0,0.15,South,0.393,-15.200000000000001,-15.32,-18.329642265625,0.00967,0.00021,pres_style_D_overstatement
 TX-32,,,0,-8,-2.5,-12.5,0.3,South,0.393,-7.4,-8.93,-11.904289296875,0.0546,0.00186,pres_style_D_overstatement
 TX-33,Jasmine Crockett,D,0,18,,16.0,0.15,South,0.393,44.6,40.31,37.29656265625,0.99989,1e-05,pres_style_D_overstatement
-TX-34,Vicente Gonzalez,D,1,-3,0.9,4.0,0.3,South,0.393,4.3999999999999995,4.279999999999999,1.2782265185546875,0.57164,0.01889,pres_style_D_overstatement
-TX-35,,,0,-4,-0.4,-1.6,0.3,South,0.393,0.5999999999999996,-0.060000000000000275,-3.068188857421875,0.33185,0.01416,pres_style_D_overstatement
+TX-34,Vicente Gonzalez,D,1,-3,0.9,4.0,0.3,South,0.393,4.3999999999999995,4.279999999999999,1.2782265185546875,0.57164,0.01886,pres_style_D_overstatement
+TX-35,,,0,-4,-0.4,-1.6,0.3,South,0.393,0.5999999999999996,-0.060000000000000275,-3.068188857421875,0.33185,0.01415,pres_style_D_overstatement
 TX-36,Brian Babin,R,1,-12,,-16.0,0.15,South,0.393,-17.2,-17.02,-20.03431296875,0.00555,0.0002,pres_style_D_overstatement
 TX-37,Lloyd Doggett,D,0,30,,16.0,0.15,South,0.393,68.6,60.709999999999994,57.7361471875,0.99999,0.0,pres_style_D_overstatement
 TX-38,Wesley Hunt,R,0,-10,-2.9,-15.299999999999999,0.3,South,0.393,-11.4,-12.57,-15.565862890625,0.02132,0.00063,pres_style_D_overstatement
@@ -402,20 +402,20 @@ UT-2,Blake Moore,R,1,-15,,-16.0,0.15,West,0.151,-23.2,-22.119999999999997,-25.13
 UT-3,Celeste Maloy,R,1,-21,,-16.0,0.15,West,0.151,-35.199999999999996,-32.31999999999999,-35.29763625,0.00015,0.0,pres_style_D_overstatement
 UT-4,Burgess Owens,R,0,-17,,-16.0,0.15,West,0.151,-25.4,-23.99,-26.95465015625,0.00078,3e-05,pres_style_D_overstatement
 VT-AL,Becca Balint,D,1,17,,16.0,0.15,Northeast,0.024,44.4,40.13999999999999,37.12407640625,0.99997,1e-05,pres_style_D_overstatement
-VA-1,Rob Wittman,R,1,-3,0.0,0.0,0.3,South,0.105,0.7999999999999996,0.5599999999999997,-2.42872525390625,0.35913,0.0154,pres_style_D_overstatement
+VA-1,Rob Wittman,R,1,-3,0.0,0.0,0.3,South,0.105,0.7999999999999996,0.5599999999999997,-2.42872525390625,0.35913,0.01539,pres_style_D_overstatement
 VA-2,Jen Kiggans,R,1,0,1.2,5.3999999999999995,0.3,South,0.105,6.8,6.38,3.367686748046875,0.69154,0.0193,pres_style_D_overstatement
 VA-3,Bobby Scott,D,1,18,,16.0,0.15,South,0.105,46.4,41.839999999999996,38.8407925,0.99992,0.0,pres_style_D_overstatement
 VA-4,Jennifer McClellan,D,1,17,,16.0,0.15,South,0.105,44.4,40.13999999999999,37.16906828125,0.99991,1e-05,pres_style_D_overstatement
 VA-5,John McGuire,R,1,-6,-1.5,-6.75,0.3,South,0.105,-5.2,-5.664999999999999,-8.66105796875,0.10556,0.00369,pres_style_D_overstatement
 VA-6,Ben Cline,R,1,-12,,-16.0,0.15,South,0.105,-17.2,-17.02,-20.007151328125,0.00454,0.00015,pres_style_D_overstatement
-VA-7,Eugene Vindman,D,1,2,2.5,12.5,0.3,South,0.105,14.4,13.83,10.8184912109375,0.93749,0.00569,pres_style_D_overstatement
+VA-7,Eugene Vindman,D,1,2,2.5,12.5,0.3,South,0.105,14.4,13.83,10.8184912109375,0.93749,0.00568,pres_style_D_overstatement
 VA-8,Don Beyer,D,1,26,,16.0,0.15,South,0.105,62.4,55.44,52.44262984375,1.0,0.0,pres_style_D_overstatement
 VA-9,Morgan Griffith,R,1,-22,,-16.0,0.15,South,0.105,-37.199999999999996,-34.019999999999996,-37.0336115625,0.00011,0.0,pres_style_D_overstatement
 VA-10,Suhas Subramanyam,D,1,6,,16.0,0.15,South,0.105,22.400000000000002,21.44,18.41491390625,0.99266,0.00077,pres_style_D_overstatement
 VA-11,James Walkinshaw,D,1,18,,16.0,0.15,South,0.105,46.4,41.839999999999996,38.855465,0.99994,0.0,pres_style_D_overstatement
 WA-1,Suzan DelBene,D,1,15,,16.0,0.15,West,0.137,40.4,36.739999999999995,33.72114875,0.99982,1e-05,pres_style_D_overstatement
 WA-2,Rick Larsen,D,1,12,,16.0,0.15,West,0.137,34.4,31.639999999999997,28.59216203125,0.99947,3e-05,pres_style_D_overstatement
-WA-3,Marie Gluesenkamp Perez,D,1,-2,1.4,6.3,0.3,West,0.137,6.3999999999999995,6.369999999999999,3.397634462890625,0.69131,0.0183,pres_style_D_overstatement
+WA-3,Marie Gluesenkamp Perez,D,1,-2,1.4,6.3,0.3,West,0.137,6.3999999999999995,6.369999999999999,3.397634462890625,0.69131,0.01825,pres_style_D_overstatement
 WA-4,Dan Newhouse,R,0,-10,-2.9,-15.299999999999999,0.3,West,0.137,-11.4,-12.57,-15.585850859375,0.01708,0.00063,pres_style_D_overstatement
 WA-5,Michael Baumgartner,R,1,-5,-2.4,-11.799999999999999,0.3,West,0.137,-3.2,-5.779999999999999,-8.7857311328125,0.10363,0.00419,pres_style_D_overstatement
 WA-6,Emily Randall,D,1,10,,16.0,0.15,West,0.137,30.400000000000002,28.24,25.25804625,0.99885,6e-05,pres_style_D_overstatement
@@ -425,9 +425,9 @@ WA-9,Adam Smith,D,1,22,,16.0,0.15,West,0.137,54.4,48.63999999999999,45.624233125
 WA-10,Marilyn Strickland,D,1,9,,16.0,0.15,West,0.137,28.400000000000002,26.54,23.556176484375,0.99819,0.00012,pres_style_D_overstatement
 WV-1,Carol Miller,R,1,-22,,-16.0,0.15,South,0.019,-37.199999999999996,-34.019999999999996,-36.97671578125,0.0001,0.0,pres_style_D_overstatement
 WV-2,Riley Moore,R,1,-20,,-16.0,0.15,South,0.019,-33.199999999999996,-30.619999999999994,-33.63089125,0.00021,2e-05,pres_style_D_overstatement
-WI-1,Bryan Steil,R,1,-2,-0.7,-3.0,0.3,Midwest,0.076,2.8,1.0599999999999998,-1.95288955078125,0.38652,0.01692,pres_style_D_overstatement
+WI-1,Bryan Steil,R,1,-2,-0.7,-3.0,0.3,Midwest,0.076,2.8,1.0599999999999998,-1.95288955078125,0.38652,0.0169,pres_style_D_overstatement
 WI-2,Mark Pocan,D,1,21,,16.0,0.15,Midwest,0.076,52.4,46.94,43.9430365625,0.99999,0.0,pres_style_D_overstatement
-WI-3,Derrick Van&nbsp;Orden,R,1,-3,0.8,3.5,0.3,Midwest,0.076,0.7999999999999996,1.6099999999999999,-1.3924160205078124,0.41711,0.01662,pres_style_D_overstatement
+WI-3,Derrick Van&nbsp;Orden,R,1,-3,0.8,3.5,0.3,Midwest,0.076,0.7999999999999996,1.6099999999999999,-1.3924160205078124,0.41711,0.01664,pres_style_D_overstatement
 WI-4,Gwen Moore,D,1,26,,16.0,0.15,Midwest,0.076,62.4,55.44,52.44581609375,1.0,0.0,pres_style_D_overstatement
 WI-5,Scott Fitzgerald,R,1,-11,,-16.0,0.15,Midwest,0.076,-15.200000000000001,-15.32,-18.3326321875,0.00789,0.00018,pres_style_D_overstatement
 WI-6,Glenn Grothman,R,1,-8,-2.9,-15.299999999999999,0.3,Midwest,0.076,-9.200000000000001,-11.030000000000001,-14.051436015625,0.02663,0.00106,pres_style_D_overstatement

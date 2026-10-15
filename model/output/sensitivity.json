@@ -15,9 +15,9 @@
     "senate_R_p10": 48,
     "senate_R_p90": 55,
     "senate_I_mean": 0.11722,
-    "house_p_D": 0.60323,
-    "house_p_R": 0.39676999999999996,
-    "house_D_mean": 220.82797,
+    "house_p_D": 0.6033,
+    "house_p_R": 0.39670000000000005,
+    "house_D_mean": 220.83083,
     "house_D_median": 220,
     "house_D_p10": 206,
     "house_D_p90": 236,
@@ -53,11 +53,11 @@
         0.02
       ],
       [
-        "TX-34",
+        "PA-1",
         0.019
       ],
       [
-        "PA-1",
+        "TX-34",
         0.019
       ],
       [
@@ -91,7 +91,7 @@
     "senate_I_mean": 0.37962,
     "house_p_D": 0.96051,
     "house_p_R": 0.039490000000000025,
-    "house_D_mean": 241.42694,
+    "house_D_mean": 241.43765,
     "house_D_median": 240,
     "house_D_p10": 224,
     "house_D_p90": 261,

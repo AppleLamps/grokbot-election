@@ -1308,21 +1308,6 @@ The following are the latest published ratings for competitive seats.
 |{{USRaceRating|Likely|R}}
 |{{USRaceRating|Likely|R}}
 |-
-!{{ushr|NY|23|X}}
-|{{Shading PVI|R|10}}
-| {{Party shading/Republican}} |{{sortname|Nick|Langworthy}}
-| {{Party shading/Republican}} data-sort-value="65.8" |65.8% R
-|{{USRaceRating|Solid|R}}
-|{{USRaceRating|Solid|R}}
-|{{USRaceRating|Safe|R}}
-|{{USRaceRating|Safe|R}}
-|{{USRaceRating|Safe|R}}
-|{{USRaceRating|Safe|R}}
-|{{USRaceRating|Safe|R}}
-|{{USRaceRating|Solid|R}}
-|{{USRaceRating|Solid|R}}
-|{{USRaceRating|Solid|R}}
-|-
 !{{ushr|NC|1|X}}
 |{{Shading PVI|R|5}}
 | {{Party shading/Democratic}} |{{sortname|Don|Davis|dab=North Carolina politician}} 
@@ -1878,21 +1863,6 @@ The following are the latest published ratings for competitive seats.
 |{{USRaceRating|Lean|R}}
 |{{USRaceRating|Lean|D|Flip}}
 |-
-!{{ushr|TX|17|X}}
-|{{Shading PVI|R|10}}
-| {{Party shading/Republican}} |{{sortname|Pete|Sessions}}
-| {{Party shading/Republican}} data-sort-value="66.4" |66.4% R
-|{{USRaceRating|Solid|R}}
-|{{USRaceRating|Solid|R}}
-|{{USRaceRating|Safe|R}}
-|{{USRaceRating|Safe|R}}
-|{{USRaceRating|Safe|R}}
-|{{USRaceRating|Safe|R}}
-|{{USRaceRating|Safe|R}}
-|{{USRaceRating|Solid|R}}
-|{{USRaceRating|Solid|R}}
-|{{USRaceRating|Solid|R}}
-|-
 !{{ushr|TX|21|X}}
 |{{Shading PVI|R|10}}
 | {{Party shading/Republican}} |{{sortname|Chip|Roy}}<br>{{small|(retiring)}}
@@ -1982,21 +1952,6 @@ The following are the latest published ratings for competitive seats.
 |{{USRaceRating|Lean|D}}
 |{{USRaceRating|Lean|D}}
 |{{USRaceRating|Lean|D}}
-|-
-!{{ushr|TX|31|X}}
-|{{Shading PVI|R|11}}
-| {{Party shading/Republican}} |{{sortname|John|Carter|dab=Texas politician}}
-| {{Party shading/Republican}} data-sort-value="64.5" |64.5% R
-|{{USRaceRating|Solid|R}}
-|{{USRaceRating|Solid|R}}
-|{{USRaceRating|Safe|R}}
-|{{USRaceRating|Safe|R}}
-|{{USRaceRating|Safe|R}}
-|{{USRaceRating|Safe|R}}
-|{{USRaceRating|Safe|R}}
-|{{USRaceRating|Solid|R}}
-|{{USRaceRating|Solid|R}}
-|{{USRaceRating|Solid|R}}
 |-
 !{{ushr|TX|32|X}}
 |{{Shading PVI|R|8}}
