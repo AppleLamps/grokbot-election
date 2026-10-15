@@ -510,24 +510,23 @@ Formerly a [[swing state]], Florida has shifted increasingly to the Republican P
 |8.0%
 |{{party shading/Republican}} |'''Moody +5.2%'''
 |-
-|[[Decision Desk HQ]]<ref>{{Cite web |title=2026 Florida US Senate |url=https://votes.decisiondeskhq.com/races/2026-11-03/florida-us-senate-special-election-general/polling |access-date=October 2, 2026 |website=[[Decision Desk HQ]]}}</ref>
-|through October 9, 2026
-|October 13, 2026
-|{{party shading/Republican}}|'''49.6%'''
-|42.4%
-|8.0%
-|{{party shading/Republican}}|'''Moody +7.2%'''
+|[[Decision Desk HQ]]<ref>{{Cite web |title=2026 Florida US Senate |url=https://votes.decisiondeskhq.com/races/2026-11-03/florida-us-senate-special-election-general/polling |access-date=October 14, 2026 |website=[[Decision Desk HQ]]}}</ref>
+|through October 10, 2026
+|October 14, 2026
+|{{party shading/Republican}}|'''49.2%'''
+|42.3%
+|8.5%
+|{{party shading/Republican}}|'''Moody +6.9%'''
 |-
-|[[FiftyPlusOne]]<ref>{{cite web|title=Florida General Senate Election
-|url=https://fiftyplusone.news/polls/senate/general/florida|website=[[FiftyPlusOne]]}}</ref>
-|through October 9, 2026
-|October 13, 2026
-|{{party shading/Republican}} |'''49.4%'''
+|[[FiftyPlusOne]]<ref>{{cite web |title=Florida General Senate Election |url=https://fiftyplusone.news/polls/senate/general/florida |website=[[FiftyPlusOne]] |access-date=October 14, 2026}}</ref>
+|through October 10, 2026
+|October 14, 2026
+|{{party shading/Republican}} |'''49.1%'''
 |42.5%
-|7.9%
-|{{party shading/Republican}} |'''Moody +6.9%'''
+|8.4%
+|{{party shading/Republican}} |'''Moody +6.6%'''
 |-
-|[[RealClearPolitics]]<ref>{{cite web|title=2026 Florida Senate Special Election - Moody vs. Nixon |url=https://www.realclearpolling.com/polls/senate/general/2026/florida/moody-vs-nixon|access-date=October 6, 2026|website=[[RealClearPolitics]]}}</ref>
+|[[RealClearPolitics]]<ref>{{cite web|title=2026 Florida Senate Special Election - Moody vs. Nixon |url=https://www.realclearpolling.com/polls/senate/general/2026/florida/moody-vs-nixon|access-date=October 14, 2026|website=[[RealClearPolitics]]}}</ref>
 |September 8 – October 9, 2026
 |October 13, 2026
 |{{party shading/Republican}} |'''49.5%'''
@@ -536,18 +535,18 @@ Formerly a [[swing state]], Florida has shifted increasingly to the Republican P
 |{{party shading/Republican}} |'''Moody +7.0%'''
 |-
 |''[[Silver Bulletin]]''<ref name="Silver" />
-|through October 7, 2026
-|October 13, 2026
-|{{party shading/Republican}} |'''49.5%'''
+|through October 8, 2026
+|October 14, 2026
+|{{party shading/Republican}} |'''49.6%'''
 |42.8%
-|7.7%
-|{{party shading/Republican}} |'''Moody +6.7%'''
+|7.6%
+|{{party shading/Republican}} |'''Moody +6.8%'''
 |-
 |colspan="3"|'''Average'''
-|{{party shading/Republican}}|'''49.3%'''
+|{{party shading/Republican}}|'''49.2%'''
 |42.7%
-|8.0%
-|{{party shading/Republican}}|'''Moody +6.6%'''
+|8.1%
+|{{party shading/Republican}}|'''Moody +6.5%'''
 |}
 
 {| class="wikitable" style="font-size:90%;text-align:center;"
@@ -560,6 +559,15 @@ Formerly a [[swing state]], Florida has shifted increasingly to the Republican P
 ! style="width:100px;"| Angie<br />Nixon (D)
 ! Other
 ! Undecided
+|-
+|style="text-align:left;"|MDW Communications<ref>{{cite web |title=New Florida Statewide Poll |url=https://www.mdwcomm.com/media/florida-statewide-poll-october-2026.html |publisher=MDW Communications |access-date=October 15, 2026 |date=October 14, 2026}}</ref>{{Efn-ua|Poll conducted for EDGE Communications}}
+|October 4–10, 2026
+|2,351 (LV)
+|±{{nbsp}}2.8%
+|{{party shading/Republican}}|'''48%'''
+|42%
+|{{sdash}}
+|10%
 |-
 | style="text-align:left;|[[Stetson University]]<ref>{{cite web |title=Poll: Donalds, Moody Maintain Double-Digit Leads as Florida Amendments Face 60% Threshold |url=https://www.stetson.edu/artsci/cpor/media/cpor-fall-2026-report-wave-2-october.pdf |website=[[Stetson University]] |access-date=13 October 2026 |date=October 13, 2026}}</ref>
 |October 1–9, 2026

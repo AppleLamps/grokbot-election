@@ -5,13 +5,13 @@
     "bias_mean": 0.0,
     "bias_sd": 3.0,
     "sims": 100000,
-    "senate_p_R": 0.37911,
-    "senate_p_D": 0.60862,
-    "senate_p_none": 0.012269999999999892,
-    "senate_D_mean": 51.19398,
+    "senate_p_R": 0.37806,
+    "senate_p_D": 0.60974,
+    "senate_p_none": 0.012199999999999989,
+    "senate_D_mean": 51.21081,
     "senate_D_p10": 48,
     "senate_D_p90": 55,
-    "senate_R_mean": 48.68621,
+    "senate_R_mean": 48.66938,
     "senate_R_p10": 45,
     "senate_R_p90": 52,
     "senate_I_mean": 0.29914,
@@ -24,7 +24,7 @@
     "senate_tipping": [
       [
         "OH",
-        0.123
+        0.122
       ],
       [
         "IA",
@@ -36,7 +36,7 @@
       ],
       [
         "TX",
-        0.105
+        0.104
       ],
       [
         "ME",
@@ -79,14 +79,14 @@
     "bias_mean": 3.0,
     "bias_sd": 3.0,
     "sims": 100000,
-    "senate_p_R": 0.71237,
-    "senate_p_D": 0.27833,
-    "senate_p_none": 0.00930000000000003,
-    "senate_D_mean": 49.0906,
+    "senate_p_R": 0.71129,
+    "senate_p_D": 0.27946,
+    "senate_p_none": 0.009250000000000036,
+    "senate_D_mean": 49.0978,
     "senate_D_p10": 46,
     "senate_D_p90": 52,
-    "senate_R_mean": 50.85039,
-    "senate_R_p10": 48,
+    "senate_R_mean": 50.84319,
+    "senate_R_p10": 47,
     "senate_R_p90": 54,
     "senate_I_mean": 0.14712,
     "house_p_D": 0.70237,
@@ -98,7 +98,7 @@
     "senate_tipping": [
       [
         "OH",
-        0.123
+        0.122
       ],
       [
         "IA",
@@ -110,7 +110,7 @@
       ],
       [
         "TX",
-        0.105
+        0.104
       ],
       [
         "ME",
@@ -153,13 +153,13 @@
     "bias_mean": -6.0,
     "bias_sd": 3.0,
     "sims": 100000,
-    "senate_p_R": 0.0277,
-    "senate_p_D": 0.97014,
-    "senate_p_none": 0.0021600000000000508,
-    "senate_D_mean": 54.92707,
+    "senate_p_R": 0.0275,
+    "senate_p_D": 0.97035,
+    "senate_p_none": 0.0021499999999999853,
+    "senate_D_mean": 54.98964,
     "senate_D_p10": 52,
     "senate_D_p90": 57,
-    "senate_R_mean": 44.77864,
+    "senate_R_mean": 44.71607,
     "senate_R_p10": 42,
     "senate_R_p90": 48,
     "senate_I_mean": 0.73457,
@@ -172,7 +172,7 @@
     "senate_tipping": [
       [
         "OH",
-        0.123
+        0.122
       ],
       [
         "IA",
@@ -184,7 +184,7 @@
       ],
       [
         "TX",
-        0.105
+        0.104
       ],
       [
         "ME",

@@ -1,9 +1,8 @@
-{{pp|small=yes}}<!-- "none" is preferred when the title is already sufficiently detailed; see [[WP:SDNONE]] -->
 {{short description|none}}
 {{for|related races|2026 United States gubernatorial elections}}
+{{protection padlock|small=yes}}<!-- "none" is preferred when the title is already sufficiently detailed; see [[WP:SDNONE]] -->
 {{Use American English|date=January 2025}}
 {{Use mdy dates|date=January 2026}}
-
 {{Infobox election
 | election_name = 2026 Minnesota gubernatorial election
 | country = Minnesota
@@ -35,6 +34,7 @@
 | after_election = 
 | after_party = 
 }}
+
 {{ElectionsMN}}
 The '''2026 Minnesota gubernatorial election''' will be held on November 3, 2026, to elect the [[governor of Minnesota|governor]] and [[Lieutenant Governor of Minnesota|lieutenant governor]] of [[Minnesota]]. [[Minnesota Democratic–Farmer–Labor Party|Democratic]] senator [[Amy Klobuchar]] and [[Republican Party of Minnesota|Republican]] state House speaker [[Lisa Demuth]] are the nominees for their respective parties.
 
@@ -142,7 +142,7 @@ After Walz announced his withdrawal from the race, [[United States Senate|U.S. S
 |$3,543
 |$2,986
 |-
-|{{party shading/DFL}}|Bill Gates, Jr. (DFL)
+|{{party shading/DFL}}|Bill Gates Jr. (DFL)
 |$884
 |$884
 |$0
@@ -410,10 +410,10 @@ On February 3, 2026, Minnesota DFLers held their party caucus.<ref>{{Cite web|la
 |July 29–August 4, 2026
 |458 (LV)
 |±{{nbsp}}5.6%
-|28%	
+|28%
 |–
 |{{party shading/Republican}}|'''34%'''
-|17%	
+|17%
 |–
 |6%
 |16%
@@ -919,7 +919,7 @@ Hashes indicate a tie.
 ! Other
 ! Undecided
 |-
-|style="text-align:left;"|[[KARE 11]]/[[Minnesota Star Tribune]]<ref>{{cite news |last1=Faircloth |first1=Ryan |title=Minnesota Poll: Klobuchar has a commanding lead over Demuth in governor’s race |url=https://www.startribune.com/minnesota-poll-klobuchar-demuth-governor/601887444 |access-date=13 October 2026 |publisher=Minnesota Star Tribune |date=October 13, 2026}}</ref>
+|style="text-align:left;"|[[KARE 11]]/[[Minnesota Star Tribune]]<ref>{{cite news |last1=Faircloth |first1=Ryan |title=Minnesota Poll: Klobuchar has a commanding lead over Demuth in governor's race |url=https://www.startribune.com/minnesota-poll-klobuchar-demuth-governor/601887444 |access-date=13 October 2026 |publisher=Minnesota Star Tribune |date=October 13, 2026}}</ref>
 |October 5–7, 2026
 |800 (LV)
 |±{{nbsp}}3.5%
@@ -1173,7 +1173,6 @@ Hashes indicate a tie.
 |32%
 |19%
 |}
-
 
 '''Amy Klobuchar vs. Kendall Qualls'''
 {| class="wikitable" style="font-size:90%;text-align:center;"

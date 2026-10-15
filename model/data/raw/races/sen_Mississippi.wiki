@@ -23,11 +23,6 @@
 | party2 = Democratic Party (United States)
 | popular_vote2 = 
 | percentage2 = 
-| image3             = 3x4.svg
-| nominee3           = Ty Pinkins
-| party3             = Independent 
-| popular_vote3      = 
-| percentage3        = 
 <!-- Remove this comment tag when Pinkins has reached three polls at 5% or greater. He's at two now.
 | image3 = 3x4.svg
 | nominee3 = Ty Pinkins
@@ -312,7 +307,6 @@ Democrats have not won a Senate election in Mississippi since [[1982 United Stat
 |}
 
 ===Polling===
-'''Cindy Hyde-Smith vs. Scott Colom vs. Ty Pinkins'''<br />
 {| class="wikitable" style="font-size:90%;text-align:center;"
 |- style="vertical-align:bottom"
 ! Poll source
@@ -324,7 +318,16 @@ Democrats have not won a Senate election in Mississippi since [[1982 United Stat
 ! style="width:100px;"| Ty<br />Pinkins (I)
 ! Undecided
 |-
-|style="text-align:left;" rowspan="2"|Data for Progress (D)<ref>{{cite web |title=Data for Progress August poll |url=https://www.filesforprogress.org/datasets/2026/8/dfp_ms_ge26_aug2026_crosstabs.pdf |publisher=Data for Progress |access-date=August 28, 2026}}</ref>{{efn-ua|Poll sponsored by Way to Lead PAC, which supports Democrats}}
+|style="text-align:left;"|Wedgewood Polls<ref>{{Cite web |title=2026 Mississippi General Election: U.S. Senate |url=https://sites.google.com/view/wedgewood-polls/polls |work=Wedgewood Polls |access-date=October 14, 2026}}</ref>
+|October 12–14, 2026
+|511 (LV)
+|±{{nbsp}}4.3%
+|{{party shading/Republican}}|'''52%'''
+|48%
+|{{sdash}}
+|{{sdash}}
+|-
+|style="text-align:left;" rowspan="2"|Data for Progress (D)<ref>{{cite web |title=Data for Progress August poll |url=https://www.filesforprogress.org/datasets/2026/8/dfp_ms_ge26_aug2026_crosstabs.pdf |work=Data for Progress |access-date=August 28, 2026}}</ref>{{efn-ua|Poll sponsored by Way to Lead PAC, which supports Democrats}}
 |rowspan="2"|August 5–15, 2026
 |rowspan="2"|1,018 (LV)
 |rowspan="2"|±&nbsp;3.0%
