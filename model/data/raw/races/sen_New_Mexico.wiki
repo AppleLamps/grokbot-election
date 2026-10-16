@@ -234,7 +234,7 @@ Christopher Heuvel, the only Republican to file for the race, was disqualified f
 ===Fundraising===
 {| class="wikitable sortable"
 |-
-! colspan=4 |Campaign finance reports as of June 30, 2026
+! colspan=4 |Campaign finance reports as of September 30, 2026
 |- style="text-align:center;"
 !Candidate
 !Raised
@@ -242,14 +242,14 @@ Christopher Heuvel, the only Republican to file for the race, was disqualified f
 !Cash on hand
 |-
 |{{party shading/Democratic}}|Ben Ray Luján (D)
-|$8,277,478
-|$3,960,048
-|$4,396,754
+|$9,315,573
+|$5,816,186
+|$3,614,565
 |-
 |{{party shading/Republican}}|Larry Marker (R)
-|$33,525
-|$21,675
-|$11,850
+|$92,011
+|$81,050
+|$1,941
 |-
 ! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC1"/></small>
 |}

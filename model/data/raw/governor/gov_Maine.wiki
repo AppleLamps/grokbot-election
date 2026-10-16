@@ -1475,7 +1475,7 @@ On April 25, 2026, the Maine Republican Party announced the results of a straw p
 |list=
 ;Statewide officials
 *[[Chris Christie]], former [[Governor of New Jersey|governor of New Jersey]] (2010–2018)<ref>{{cite web|url=https://newjerseyglobe.com/presidential-election/christie-stumps-in-maine-for-gop-gubernatorial-candidate/|title=Christie stumps in Maine for GOP gubernatorial candidate|last=Wildstein|first=David|date=September 23, 2026|access-date=September 23, 2026|website=[[New Jersey Globe]]}}</ref>
-*[[Chris Sununu]], former [[Governor of New Hampshire| Governor of New Hampshire]] (2017-2025)<ref>{{cite web|url= https://www.wmtw.com/article/bobby-charles-holds-town-hall-with-former-new-hampshire-governor-chris-sununu/74113686 website=WMTW </ref>
+*[[Chris Sununu]], former [[Governor of New Hampshire| Governor of New Hampshire]] (2017-2025)<ref>{{cite web |first=Ronnie |last=Parrillo |title=Bobby Charles holds town hall with former New Hampshire governor Chris Sununu |url=https://www.wmtw.com/article/bobby-charles-holds-town-hall-with-former-new-hampshire-governor-chris-sununu/74113686 |date=October 12, 2026 |website=WMTW |access-date=October 16, 2026}}</ref>
 }}
 {{Endorsements box
 |title=Rick Bennett (I)

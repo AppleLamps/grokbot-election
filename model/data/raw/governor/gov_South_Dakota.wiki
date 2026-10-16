@@ -520,6 +520,34 @@ As no candidate received 35% of the primary vote, a primary runoff was held betw
 |October 11, 2026
 |}
 
+=== Post-primary endorsements ===
+{{Endorsements box|title= Larry Rhoden (R)|list=
+;Executive branch officials
+*[[Donald Trump]], [[List of presidents of the United States|45th and 47th]] [[president of the United States]] (2017–2021, 2025–present)<ref name="Trump">{{cite web |last1=Arens |first1=Avery |title=President Trump endorses Gov. Rhoden for re-election |url=https://www.ktiv.com/2026/08/27/president-trump-endorses-gov-rhoden-re-election/ |website=KTIV 4 |access-date=16 October 2026 |date=August 27, 2026}}</ref>
+}}
+
+===Polling===
+{| class="wikitable" style="font-size:90%;text-align:center;"
+|- style="vertical-align:bottom"
+! Poll source
+! Date(s)<br/>administered
+! Sample<br/>size{{efn|name="Key"|Key:<br/>A – all adults<br/>RV – registered voters<br/>LV – likely voters<br/>V – unclear}}
+! Margin<br/>of error
+! style="width:100px;"| Larry<br/>Rhoden (R)
+! style="width:100px;"| Dan<br/>Ahlers (D)
+! Other
+! Undecided
+|-
+|style="text-align:left;"|Concord Public Opinion Partners (D)<ref>{{cite web |title=SD-Sen, Gov: Concord Public Opinion Partners (Oct. 2026) |url=https://www.documentcloud.org/documents/28817212-sd-sen-gov-concord-public-opinion-partners-oct-2026/ |website=Concord Public Opinion Partners |access-date=16 October 2026 |date=October 9, 2026}}</ref>{{efn-ua|Poll sponsored by [[Democrats for Education Reform]]}}
+|October 6–8, 2026
+|400 (LV)
+|±{{nbsp}}4.9%
+|{{party shading/Republican}}|'''48%'''
+|38%
+|4%
+|10%
+|}
+
 == Notes ==
 {{reflist|group=n}}
 {{notelist}}

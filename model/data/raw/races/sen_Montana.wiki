@@ -641,7 +641,7 @@ On October 12, [[Shannon O'Brien (Montana politician)|Shannon O'Brien]], the Cha
 ===Fundraising===
 {| class="wikitable sortable"
 |-
-! colspan=4 |Campaign finance reports as of June 30, 2026
+! colspan=4 |Campaign finance reports as of September 30, 2026
 |- style="text-align:center;"
 !Candidate
 !Raised
@@ -649,26 +649,26 @@ On October 12, [[Shannon O'Brien (Montana politician)|Shannon O'Brien]], the Cha
 !Cash on hand
 |-
 |{{party shading/Republican}}|Kurt Alme (R)
-|$1,984,860
-|$534,142
-|$1,450,718
+|$2,865,665
+|$2,025,466
+|$840,199
 |-
 |{{party shading/Democratic}}|Alani Bankhead (D)
-|$58,829
-|$37,011
-|$21,484
+|$172,508
+|$134,311
+|$38,259
 |-
 |{{party shading/Libertarian}}|Kyle Austin (L)
-|$262,194
-|$242,362
-|$19,832
+|$261,825
+|$254,479
+|$7,896
 |-
 |{{party shading/Independent (US)}}|Seth Bodnar (I)
-|$3,238,150
-|$2,260,371
-|$977,779
+|$4,684,134
+|$3,939,029
+|$745,104
 |-
-! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC1">{{cite web |title=2026 Election United States Senate – Montana |url=https://www.fec.gov/data/elections/senate/MT/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=February 6, 2026}}</ref></small>
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC1">{{cite web |title=2026 Election United States Senate – Montana |url=https://www.fec.gov/data/elections/senate/MT/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=October 16, 2026}}</ref></small>
 |}
 
 ===Polling===

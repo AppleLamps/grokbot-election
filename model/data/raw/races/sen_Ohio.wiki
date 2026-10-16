@@ -415,7 +415,7 @@ A September 2026 poll conducted by Bowling Green State University found that 25%
 ===Fundraising===
 {| class="wikitable sortable"
 |-
-! colspan=4 |Campaign finance reports as of June 30, 2026
+! colspan=4 |Campaign finance reports as of September 30, 2026
 |- style="text-align:center;"
 !Candidate
 !Raised
@@ -423,24 +423,24 @@ A September 2026 poll conducted by Bowling Green State University found that 25%
 !Cash on hand
 |-
 |{{party shading/Republican}}|Jon Husted (R)
-|$14,360,028
-|$4,940,716
-|$9,419,311
+|$19,208,763
+|$10,325,469
+|$8,883,293
 |-
 |{{party shading/Democratic}}|Sherrod Brown (D)
-|$38,566,234
-|$22,336,493
-|$16,229,741
+|$56,190,874
+|$56,825,367
+|$4,861,451
 |-
 |{{party shading/Libertarian}}|William Redpath (L)
-|$24,200
-|$23,470
-|$730
+|$49,047
+|$40,930
+|$8,117
 |-
 |{{party shading/Independent}}|Greg Levy (I)
-|$80,348
-|$56,132
-|$25,971
+|$126,776
+|$102,815
+|$23,961
 |-
 ! colspan="4" |<small>Source: [[Federal Election Commission]]<ref>{{cite web |title=2026 Election United States Senate – Ohio |url=https://www.fec.gov/data/elections/senate/OH/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=September 9, 2026}}</ref></small>
 |}
@@ -465,41 +465,41 @@ A September 2026 poll conducted by Bowling Green State University found that 25%
 |{{party shading/Democratic}} |'''Brown +3.0%'''
 |-
 |[[Decision Desk HQ]]<ref>{{cite web |title=Ohio Senate General Ballot Test |url=https://polls.decisiondeskhq.com/averages/general-ballot-test/2026-oh-us-senate/ohio/lv-rv-adults |access-date=October 6, 2026 |website=Decision Desk HQ}}</ref>
-|through October 6, 2026
-|October 8, 2026
-|43.8%
-|{{party shading/Democratic}} |'''46.1%'''
-|10.1%
-|{{party shading/Democratic}} |'''Brown +2.3%'''
+|through October 9, 2026
+|October 16, 2026
+|43.5%
+|{{party shading/Democratic}} |'''46.5%'''
+|10.0%
+|{{party shading/Democratic}} |'''Brown +3.0%'''
 |-
 |[[FiftyPlusOne]]<ref>{{Cite web |title=FiftyPlusOne – Ohio General Senate Election Polls and Average for the 2026 General Election |url=https://fiftyplusone.news/polls/senate/general/ohio |access-date=October 6, 2026 |website=fiftyplusone.news}}</ref>
-|through October 6, 2026
-|October 8, 2026
-|44.0%
-|{{party shading/Democratic}} | '''48.3%'''
-|7.7%
+|through October 9, 2026
+|October 16, 2026
+|43.7%
+|{{party shading/Democratic}} | '''47.9%'''
+|8.4%
 |{{party shading/Democratic}} |'''Brown +4.3%'''
 |-
 |[[RealClearPolitics]]<ref>{{cite web |title=2026 Ohio Senate Special Election – Husted vs. Brown|url=https://www.realclearpolling.com/polls/senate/special-election/2026/ohio/husted-vs-brown |access-date=October 6, 2026 |website=RealClearPolitics.com}}</ref>
-|September 1 – October 6, 2026
-|October 8, 2026
-|44.2%
-|{{party shading/Democratic}} | '''47.3%'''
-|8.5%
-|{{party shading/Democratic}} |'''Brown +3.1%'''
+|September 18 – October 9, 2026
+|October 16, 2026
+|44.1%
+|{{party shading/Democratic}} | '''47.5%'''
+|8.4%
+|{{party shading/Democratic}} |'''Brown +3.4%'''
 |-
 |''[[Silver Bulletin]]''<ref name="Silver"/>
 |through October 5, 2026
-|October 8, 2026
-|44.1%
-|{{party shading/Democratic}} | '''48.5%'''
-|7.4%
-|{{party shading/Democratic}} |'''Brown +4.3%'''
+|October 16, 2026
+|44.3%
+|{{party shading/Democratic}} | '''48.1%'''
+|7.6%
+|{{party shading/Democratic}} |'''Brown +3.8%'''
 |-
 |colspan="3" |'''Average'''
-|44.1%
-|{{party shading/Democratic}} |'''47.6%'''
-|8.3%
+|44.0%
+|{{party shading/Democratic}} |'''47.5%'''
+|8.5%
 |{{party shading/Democratic}} |'''Brown +3.5%'''
 |}
 
@@ -513,6 +513,16 @@ A September 2026 poll conducted by Bowling Green State University found that 25%
 ! style="width:100px;"| Sherrod<br />Brown (D)
 ! Other
 ! Undecided
+|-
+|style="text-align:left;"|[[Bowling Green State University]]/[[YouGov]]<ref>{{Cite web|url=https://scholarworks.bgsu.edu/cgi/viewcontent.cgi?article=1028&context=depo|title=Democracy and Public Policy Network Expert Analysis on October
+2026 Ohio Likely Voters Poll2026 Ohio Likely Voters Poll|first1=Robert|last1=Alexander|website=[[Bowling Green State University]]|date=October 16, 2026|access-date=October 16, 2026}}</ref>
+|September 29 - October 9, 2026
+|1,000 (LV)
+|±&nbsp;4.0%
+|42%
+|{{party shading/Democratic}} |'''48%'''
+|{{TBA}}
+|{{TBA}}
 |-
 |rowspan="2" style="text-align:left;|co/efficient (R)<ref name="coefficient10/8">{{cite web |title=Ohio · U.S. Senate |url=https://battlegrounds.coefficient.org/oh/ |website=co/efficient |access-date=8 October 2026 |date=October 8, 2026}}</ref>
 |rowspan="2"|October 5–6, 2026

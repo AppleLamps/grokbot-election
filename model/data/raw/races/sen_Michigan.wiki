@@ -1490,7 +1490,7 @@ Michigan was considered one of the top Republican senate pickup opportunities fo
 ===Fundraising===
 {| class="wikitable sortable"
 |-
-! colspan=4 |Campaign finance reports as of July 15, 2026
+! colspan=4 |Campaign finance reports as of September 30, 2026
 |- style="text-align:center;"
 !Candidate
 !Raised
@@ -1498,16 +1498,16 @@ Michigan was considered one of the top Republican senate pickup opportunities fo
 !Cash on hand
 |-
 |{{party shading/Democratic}}|Abdul El-Sayed (D)
-|$14,514,335
-|$11,961,573
-|$2,552,762
+|$45,175,288
+|$41,383,363
+|$3,792,203
 |-
 |{{party shading/Republican}}|Mike Rogers (R)
-|$10,898,177
-|$6,680,643
-|$4,473,237
+|$20,565,706
+|$14,293,939
+|$6,527,471
 |-
-! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC">{{cite web |title=2026 Election United States Senate - Michigan |url=https://www.fec.gov/data/elections/senate/MI/2026/ |website=FEC.gov |publisher=[[Federal Election Commission]] |access-date=August 4, 2026}}</ref></small>
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC">{{cite web |title=2026 Election United States Senate - Michigan |url=https://www.fec.gov/data/elections/senate/MI/2026/ |website=FEC.gov |publisher=[[Federal Election Commission]] |access-date=October 16, 2026}}</ref></small>
 |}
 
 ===Polling===
@@ -1602,7 +1602,7 @@ Michigan was considered one of the top Republican senate pickup opportunities fo
 |{{sdash}}
 |{{sdash}}
 |-
-| style="text-align:left;|The Tyson Group<ref>{{cite web|title=Mike Rogers Support for AI Security Measures Gives Him a Lift in Michigan Senate Race|url=https://betterfutureai.org/docs/mike-rogers-support-for-ai-security.pdf |website=The Tyson Group|date=October 16, 2026 |access-date=October 15, 2026}}</ref>
+| style="text-align:left;|The Tyson Group (R)<ref>{{cite web|title=Mike Rogers Support for AI Security Measures Gives Him a Lift in Michigan Senate Race|url=https://betterfutureai.org/docs/mike-rogers-support-for-ai-security.pdf |website=The Tyson Group|date=October 16, 2026 |access-date=October 15, 2026}}</ref>
 |October 6–8, 2026
 |600 (LV)
 |{{sdash}}

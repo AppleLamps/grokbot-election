@@ -679,42 +679,42 @@ On September 6, Acton was attacked at a campaign event at the [[Canfield, Ohio|C
 |{{party shading/Democratic}}|'''Acton +5.5%'''
 |-
 |[[Decision Desk HQ]]<ref>{{cite web |title=Ohio Governor General Ballot Test |url=https://polls.decisiondeskhq.com/averages/general-ballot-test/2026-oh-governor/ohio/lv-rv-adults |access-date=April 4, 2026 |website=Decision Desk HQ}}</ref>
-|through October 6, 2026
-|October 8, 2026
+|through October 9, 2026
+|October 16, 2026
 |43.6%
-|{{party shading/Democratic}}|'''47.8%'''
-|8.6%
-|{{party shading/Democratic}}|'''Acton +4.2%'''
+|{{party shading/Democratic}}|'''48.3%'''
+|8.1%
+|{{party shading/Democratic}}|'''Acton +4.7%'''
 |-
 |[[G. Elliott Morris|FiftyPlusOne]]<ref name="FPOGeneral">{{cite web |title=Ohio General Governor Election |url=https://fiftyplusone.news/polls/governor/general/ohio |website=FiftyPlusOne |access-date=October 7, 2026}}</ref>
-|through October 6, 2026
-|October 8, 2026
-|44.2%
-|{{party shading/Democratic}}|'''48.3%'''
+|through October 9, 2026
+|October 16, 2026
+|43.9%
+|{{party shading/Democratic}}|'''48.6%'''
 |7.5%
-|{{party shading/Democratic}}|'''Acton +4.1%'''
+|{{party shading/Democratic}}|'''Acton +4.7%'''
 |-
 |[[RealClearPolitics]]<ref>{{cite web |title=2026 Ohio Governor – Ramaswamy vs. Acton|url=https://www.realclearpolling.com/polls/governor/general/2026/ohio/ramaswamy-vs-acton |access-date=November 7, 2025 |website=RealClearPolitics.com}}</ref>
-|September 1 – October 6, 2026
-|October 8, 2026
-|44.3%
-|{{party shading/Democratic}} | '''48.1%'''
-|7.6%
-|{{party shading/Democratic}} |'''Acton +3.8%'''
+|September 18 – October 9, 2026
+|October 16, 2026
+|44.1%
+|{{party shading/Democratic}} | '''48.4%'''
+|7.5%
+|{{party shading/Democratic}} |'''Acton +4.3%'''
 |-
 |''[[Silver Bulletin]]''<ref name="Silver"/>
-|through October 5, 2026
-|October 8, 2026
-|44.4%
-|{{party shading/Democratic}}|'''49.5%'''
-|5.3%
-|{{party shading/Democratic}}|'''Acton +5.1%'''
+|through October 6, 2026
+|October 16, 2026
+|44.5%
+|{{party shading/Democratic}}|'''48.5%'''
+|7.0%
+|{{party shading/Democratic}}|'''Acton +4.0%'''
 |-
 |colspan="3"|'''Average'''
-|44.1%
+|44.0%
 |{{party shading/Democratic}}|'''48.6%'''
-|7.3%
-|{{party shading/Democratic}}|'''Acton +4.5%'''
+|7.4%
+|{{party shading/Democratic}}|'''Acton +4.6%'''
 |}
 
 {| class="wikitable" style="font-size:90%;text-align:center;"
@@ -727,6 +727,16 @@ On September 6, Acton was attacked at a campaign event at the [[Canfield, Ohio|C
 ! style="width:100px;"| Amy<br />Acton (D)
 ! Other
 ! Undecided
+|-
+|style="text-align:left;"|[[Bowling Green State University]]/[[YouGov]]<ref>{{Cite web|url=https://scholarworks.bgsu.edu/cgi/viewcontent.cgi?article=1028&context=depo|title=Democracy and Public Policy Network Expert Analysis on October
+2026 Ohio Likely Voters Poll2026 Ohio Likely Voters Poll|first1=Robert|last1=Alexander|website=[[Bowling Green State University]]|date=October 16, 2026|access-date=October 16, 2026}}</ref>
+|September 29 - October 9, 2026
+|1,000 (LV)
+|±&nbsp;4.0%
+|44%
+|{{party shading/Democratic}} |'''50%'''
+|{{TBA}}
+|{{TBA}}
 |-
 | style="text-align:left;|co/efficient (R)<ref name="coefficient10/8">{{cite web |title=Ohio · U.S. Senate |url=https://battlegrounds.coefficient.org/oh/ |website=co/efficient |access-date=October 8, 2026 |date=October 8, 2026}}</ref>
 |October 5–6, 2026

@@ -398,16 +398,16 @@ Nebraska Working People Party organizers submitted completed petitions to form a
 !Cash on hand
 |-
 |{{party shading/Republican}}|Pete Ricketts (R)
-|$11,233,507
-|$4,809,506
-|$6,910,970
+|$13,577,344
+|$13,079,953
+|$1,073,043
 |-
 |{{party shading/Independent}}|Dan Osborn (I)
-|$5,751,951
-|$3,393,630
-|$2,421,487
+|$9,751,486
+|$7,544,184
+|$2,207,302
 |-
-! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC">{{cite web |title=2026 Election United States Senate - Nebraska |url=https://www.fec.gov/data/elections/senate/NE/2026/|publisher=[[Federal Election Commission]] |access-date=May 13, 2026}}</ref></small>
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC">{{cite web |title=2026 Election United States Senate - Nebraska |url=https://www.fec.gov/data/elections/senate/NE/2026/|publisher=[[Federal Election Commission]] |access-date=October 16, 2026}}</ref></small>
 |}
 
 ===Polling===

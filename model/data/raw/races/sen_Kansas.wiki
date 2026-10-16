@@ -390,7 +390,7 @@ One issue raised during the campaign was Roger Marshall's history of suing over 
 ===Fundraising===
 {| class="wikitable sortable"
 |-
-! colspan=4 |Campaign finance reports as of July 15, 2026
+! colspan=4 |Campaign finance reports as of September 30, 2026
 |- style="text-align:center;"
 !Candidate
 !Raised
@@ -398,14 +398,14 @@ One issue raised during the campaign was Roger Marshall's history of suing over 
 !Cash on hand
 |-
 |{{party shading/Republican}}|Roger Marshall (R)
-|$6,205,622
-|$1,027,503
-|$5,388,078
+|$7,006,239
+|$6,294,110
+|$922,088
 |-
 |{{party shading/Democratic}}|Adam Hamilton (D)
-|$4,169,078
-|$2,438,457
-|$1,730,621
+|$13,533,710
+|$10,350,311
+|$3,183,399
 |-
 ! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC1" /></small>
 |}
@@ -507,14 +507,14 @@ One issue raised during the campaign was Roger Marshall's history of suing over 
 ! style="width:100px;" | David<br />Graham (L)
 ! Undecided
 |-
-|style="text-align: left;" |InsiderAdvantage (R)<ref>{{cite web|url=https://insideradvantage.com/insideradvantage-senate-surveys-texas-paxton-49-talarico-48-kansas-marshall-48-hamilton-47-maine-jackson-49-collins-47/|title=InsiderAdvantage Senate Surveys: Texas, Paxton 49, Talarico 48; Kansas, Marshall 48%, Hamilton 47%; Maine, Jackson 49, Collins 47;Update: All Conducted 10/13-14|website=InsiderAdvantage|date=October 15, 2026|access-date=October 15, 2026}}</ref>
+|style="text-align: left;" |InsiderAdvantage (R)<ref>{{cite web|url=https://insideradvantage.com/insideradvantage-senate-surveys-texas-paxton-49-talarico-48-kansas-marshall-48-hamilton-47-maine-jackson-49-collins-47/|title=InsiderAdvantage Senate Surveys: Texas, Paxton 49, Talarico 48; Kansas, Marshall 48%, Hamilton 47%; Maine, Jackson 49, Collins 47;Update: All Conducted 10/13-14|website=InsiderAdvantage|date=October 15, 2026|access-date=October 15, 2026}}</ref><ref>{{Cite tweet |author=InsiderAdvantage |user=InsiderPolling |number=2111096445063528539 |title=Kansas Survey of Likely Voters |date=October 16, 2026 |access-date=October 16, 2026}}</ref>
 |October 13–14, 2026
 |1,200 (LV)
 |±{{nbsp}}2.8%
 |{{Party shading/Republican}} | '''48%'''
 |47%
-|{{TBA}}
-|{{TBA}}
+|3%
+|2%
 |-
 |style="text-align: left;" |InsiderAdvantage (R)<ref>{{cite web|url=https://insideradvantage.com/insideradvantage-u-s-senate-surveys-alaska-ranks-choice-peltola-50-sullivan-48-kansas-hamilton-48-marshall-47-michigan-el-sayed-48-rogers-46/|title=InsiderAdvantage U.S. Senate Surveys: Alaska (Ranks Choice) Peltola 50%, Sullivan 48%; Kansas Hamilton 48%, Marshall, 47%; Michigan El-Sayed 48%, Rogers 46%|date=October 11, 2026|access-date=October 11, 2026}}</ref><ref>{{Cite tweet |author=InsiderAdvantage |user=InsiderPolling |number=2109439147522007169 |title=Kansas Top Line Tabs |date=October 11, 2026 |access-date=October 11, 2026}}</ref>
 |October 9–10, 2026

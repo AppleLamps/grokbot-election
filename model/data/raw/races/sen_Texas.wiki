@@ -2974,7 +2974,7 @@ Talarico has considerably outraised Paxton throughout the campaign. Due to the h
 
 {| class="wikitable sortable"
 |-
-! colspan=4 |Campaign finance reports as of June 30, 2026
+! colspan=4 |Campaign finance reports as of September 30, 2026
 |- style="text-align:center;"
 !Candidate
 !Raised
@@ -2982,21 +2982,21 @@ Talarico has considerably outraised Paxton throughout the campaign. Due to the h
 !Cash on hand
 |-
 |{{party shading/Republican}}|Ken Paxton (R)
-|$9,248,699
-|$7,492,915
-|$1,755,783
+|$19,489,694
+|$14,564,589
+|$4,925,105
 |-
 |{{party shading/Democratic}}|James Talarico (D)
-|$68,560,930
-|$47,012,775
-|$21,548,155
+|$122,837,181
+|$114,178,603
+|$14,594,231
 |-
 |{{party shading/Libertarian}}|Ted Brown (L)
-|$7,460
-|$6,376
-|$1,151
+|$26,661
+|$23,712
+|$2,948
 |-
-! colspan="4" |<small>Source: [[Federal Election Commission]]<ref>{{cite web |title=2026 Election United States Senate – Texas |url=https://www.fec.gov/data/elections/senate/TX/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=September 9, 2026}}</ref></small>
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref>{{cite web |title=2026 Election United States Senate – Texas |url=https://www.fec.gov/data/elections/senate/TX/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=October 16, 2026}}</ref></small>
 |}
 
 === Polling ===
@@ -3081,14 +3081,14 @@ Talarico has considerably outraised Paxton throughout the campaign. Due to the h
 ! Other
 ! Undecided
 |-
-|style="text-align: left;" |InsiderAdvantage (R)<ref>{{cite web|url=https://insideradvantage.com/insideradvantage-senate-surveys-texas-paxton-49-talarico-48-kansas-marshall-48-hamilton-47-maine-jackson-49-collins-47/|title=InsiderAdvantage Senate Surveys: Texas, Paxton 49, Talarico 48; Kansas, Marshall 48%, Hamilton 47%; Maine, Jackson 49, Collins 47;Update: All Conducted 10/13-14|website=InsiderAdvantage|date=October 15, 2026|access-date=October 15, 2026}}</ref>
+|style="text-align: left;" |InsiderAdvantage (R)<ref>{{cite web|url=https://insideradvantage.com/insideradvantage-senate-surveys-texas-paxton-49-talarico-48-kansas-marshall-48-hamilton-47-maine-jackson-49-collins-47/|title=InsiderAdvantage Senate Surveys: Texas, Paxton 49, Talarico 48; Kansas, Marshall 48%, Hamilton 47%; Maine, Jackson 49, Collins 47;Update: All Conducted 10/13-14|website=InsiderAdvantage|date=October 15, 2026|access-date=October 15, 2026}}</ref><ref>{{Cite tweet |author=InsiderAdvantage |user=InsiderPolling |number=2111096358233129297 |title=Texas Survey of Likely Voters |date=October 16, 2026 |access-date=October 16, 2026}}</ref>
 |October 13–14, 2026
 |1,200 (LV)
 |±{{nbsp}}2.8%
-|'''48%'''
-|'''48%'''
+|{{Party shading/Republican}} | '''49%'''
+|48%
+|2%{{efn|name=Brown2}}
 |1%
-|3%
 |-
 | style="text-align: left;"|ActiVote<ref>{{cite web |url=https://www.activote.net/polls/2026/tx-u-s-senate/2026-10-14/ |title=Talarico Leads Paxton in Texas Senate Race |work=ActiVote |date=October 15, 2026 |access-date=October 15, 2026}}</ref>
 |September 30 – October 14, 2026

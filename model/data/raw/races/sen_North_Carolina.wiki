@@ -697,7 +697,7 @@ The [[Senate Leadership Fund]]—first reported by ''[[Semafor (website)|Semafor
 ===Fundraising===
 {| class="wikitable sortable"
 |-
-! colspan=4 |Campaign finance reports as of June 30, 2026
+! colspan=4 |Campaign finance reports as of September 30, 2026
 |- style="text-align:center;"
 !Candidate
 !Raised
@@ -705,26 +705,26 @@ The [[Senate Leadership Fund]]—first reported by ''[[Semafor (website)|Semafor
 !Cash on hand
 |-
 |{{party shading/Democratic}}|Roy Cooper (D)
-|$34,975,789
-|$14,258,222
-|$20,717,567
+|$47,190,466
+|$34,713,071
+|$12,477,394
 |-
 |{{party shading/Republican}}|Michael Whatley (R)
-|$11,272,504
-|$7,810,806
-|$3,461,698
+|$13,415,721
+|$12,499,619
+|$916,101
 |-
 |{{party shading/Green}}|Michael Dublin (G)
-|$25,276
-|$16,990
-|$10,027
+|$28,023
+|$26,038
+|$3,726
 |-
 |{{party shading/Libertarian}}|Shannon Bray (L)
 |$0
 |$0
 |$0
 |-
-! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC">{{cite web |title=2026 Election United States Senate - North Carolina |url=https://www.fec.gov/data/elections/senate/NC/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=April 26, 2026}}</ref></small>
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC">{{cite web |title=2026 Election United States Senate - North Carolina |url=https://www.fec.gov/data/elections/senate/NC/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=October 16, 2026}}</ref></small>
 |}
 
 ===Polling===

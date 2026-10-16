@@ -984,7 +984,7 @@ On August 11, 2026, the [[Associated Press]] and [[NBC News]] called the race fo
 === Fundraising ===
 {| class="wikitable sortable"
 |-
-! colspan=4 |Campaign finance reports as of July 22, 2026
+! colspan=4 |Campaign finance reports as of September 30, 2026
 |- style="text-align:center;"
 !Candidate
 !Raised
@@ -992,14 +992,14 @@ On August 11, 2026, the [[Associated Press]] and [[NBC News]] called the race fo
 !Cash on hand
 |-
 |{{party shading/DFL}}|Peggy Flanagan (DFL)
-|$6,516,273
-|$5,457,669
-|$1,058,604
+|$10,301,879
+|$8,758,552
+|$1,543,327
 |-
 |{{party shading/Republican}}|Michele Tafoya (R)
-|$5,337,942
-|$3,965,545
-|$1,372,728
+|$9,661,154
+|$7,527,317
+|$2,134,167
 |-
 ! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC1"/></small>
 |}

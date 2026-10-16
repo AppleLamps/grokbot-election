@@ -211,7 +211,7 @@ Both Grayson and Leslie expressed concern about the outside spending on their be
 ===Fundraising===
 {| class="wikitable sortable"
 |-
-! colspan=4 |Campaign finance reports as of July 29, 2026
+! colspan=4 |Campaign finance reports as of September 30, 2026
 |- style="text-align:center;"
 !Candidate
 !Raised
@@ -219,16 +219,21 @@ Both Grayson and Leslie expressed concern about the outside spending on their be
 !Cash on hand
 |-
 |{{party shading/Republican}}|Dan S. Sullivan (R)
-|$11,735,898
-|$5,172,572
-|$7,295,069
+|$13,760,054
+|$9,388,080
+|$5,103,717
 |-
 |{{party shading/Democratic}}|Mary Peltola (D)
-|$18,545,132
-|$13,908,377
-|$4,636,755
+|$32,623,721
+|$29,463,904
+|$3,159,817
 |-
-! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC">{{cite web |title=2026 Election United States Senate – Alaska |url=https://www.fec.gov/data/elections/senate/AK/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=May 12, 2026 |archive-date=May 15, 2025 |archive-url=https://web.archive.org/web/20250515170059/https://www.fec.gov/data/elections/senate/AK/2026/ |url-status=live }}</ref></small>
+|{{party shading/Republican}}|Dan J. Sullivan (R)
+|$30,230
+|$26,754
+|$3,476
+|-
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC">{{cite web |title=2026 Election United States Senate – Alaska |url=https://www.fec.gov/data/elections/senate/AK/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=October 16, 2026 |archive-date=May 15, 2025 |archive-url=https://web.archive.org/web/20250515170059/https://www.fec.gov/data/elections/senate/AK/2026/ |url-status=live }}</ref></small>
 |}
 
 ===Polling===
@@ -578,7 +583,7 @@ On September 23, ''[[The New York Times]]'' published allegations from anonymous
 ===Fundraising===
 {| class="wikitable sortable"
 |-
-! colspan=4 |Campaign finance reports as of July 29, 2026
+! colspan=4 |Campaign finance reports as of September 30, 2026
 |- style="text-align:center;"
 !Candidate
 !Raised
@@ -586,19 +591,19 @@ On September 23, ''[[The New York Times]]'' published allegations from anonymous
 !Cash on hand
 |-
 |{{party shading/Republican}}|Dan S. Sullivan (R)
-|$11,735,898
-|$5,172,572
-|$7,295,069
+|$13,760,055
+|$9,388,081
+|$5,103,717
 |-
 |{{party shading/Democratic}}|Mary Peltola (D)
-|$18,545,132
-|$13,908,377
-|$4,636,755
+|$32,623,722
+|$29,463,904
+|$3,159,817
 |-
 |{{party shading/Republican}}|Daniel J. Sullivan Jr. (R)
-|$18,835
-|$10,435
-|$8,400
+|$30,231
+|$26,754
+|$3,477
 |-
 ! colspan="4" |<small>Source: [[Federal Election Commission]]<ref>{{cite web |title=2026 Election United States Senate – Alaska |url=https://www.fec.gov/data/elections/senate/AK/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=September 9, 2026}}</ref></small>
 |}
@@ -835,6 +840,17 @@ On September 23, ''[[The New York Times]]'' published allegations from anonymous
 ! style="width:100px;"| Gerald<br />Heikes (R)
 ! Other
 ! Undecided
+|-
+|style="text-align:left;|[[Public Policy Polling]] (D)<ref>{{cite tweet|user=AndrewSolender|number=2110867168892014803|title=Dem-aligned PPP poll of Alaska circulating among groups and seen by me:|access-date=October 16, 2026}}</ref>
+|October 14–15, 2026
+|578 (RV)
+|–
+|47%
+|{{Party shading/Democratic}} | '''48%'''
+|{{sdash}}
+|{{sdash}}
+|{{sdash}}
+|5%
 |-
 |style="text-align: left;" |InsiderAdvantage (R)<ref name="IAOct2026"/>{{efn|name="First"|First-choice results from a ranked-choice poll}}
 |October 9–10, 2026
