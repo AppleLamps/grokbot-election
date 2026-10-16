@@ -1,6 +1,6 @@
 {{Short description|none}}
 {{Use American English|date=January 2026}}
-{{Use mdy dates|date=August 2026}}
+{{Use mdy dates|date=October 2026}}
 {{for|related races|2026 United States Senate elections}}
 {{Infobox election
 | election_name = 2026 United States Senate election in South Carolina
@@ -1414,7 +1414,7 @@ In ''[[The New York Times]]'', Michael Gold wrote that Trump had two main disput
 ! Other 
 ! Undecided
 |-
-|style="text-align: left;" |[[Rasmussen Reports]] (R)<ref name="Rasmussen10/9">{{cite web |title=Election 2026: South Carolina Senate |url=https://www.rasmussenreports.com/public_content/politics/elections/election_2026/election_2026_south_carolina_senate |website=[[Rasmussen Reports]] |access-date=11 October 2026 |date=October 9, 2026}}</ref>
+|style="text-align: left;" |[[Rasmussen Reports]] (R)<ref name="Rasmussen10/9">{{cite web |title=Election 2026: South Carolina Senate |url=https://www.rasmussenreports.com/public_content/politics/elections/election_2026/election_2026_south_carolina_senate |website=[[Rasmussen Reports]] |access-date=October 11, 2026 |date=October 9, 2026}}</ref>
 |October 5–8, 2026
 |837 (LV)
 |±{{nbsp}}3.0%
@@ -1441,7 +1441,7 @@ In ''[[The New York Times]]'', Michael Gold wrote that Trump had two main disput
 |6%{{efn|"Other" with 6%}}
 |9%
 |-
-|style="text-align: left;" |[[Rasmussen Reports]] (R)<ref name="Rasmussen9/15">{{cite web |title=South Carolina Senate: Graham Leads by 5 Points |url=https://www.rasmussenreports.com/public_content/archive/election_2026/south_carolina_senate_graham_leads_by_5_points |website=[[Rasmussen Reports]] |access-date=11 October 2026 |date=September 15, 2026}}</ref>
+|style="text-align: left;" |[[Rasmussen Reports]] (R)<ref name="Rasmussen9/15">{{cite web |title=South Carolina Senate: Graham Leads by 5 Points |url=https://www.rasmussenreports.com/public_content/archive/election_2026/south_carolina_senate_graham_leads_by_5_points |website=[[Rasmussen Reports]] |access-date=October 11, 2026 |date=September 15, 2026}}</ref>
 |September 14, 2026
 |1,006 (LV)
 |±{{nbsp}}3.0%

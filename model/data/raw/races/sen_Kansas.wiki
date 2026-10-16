@@ -449,7 +449,7 @@ One issue raised during the campaign was Roger Marshall's history of suing over 
 ! style="width:100px;" |Other/<br />Undecided{{Efn|name=calculated|Calculated by taking the difference of 100% and all other candidates combined.}}
 ! Margin
 |-
-|[[270toWin]]<ref>{{cite web |title=2026 Polls: Kansas Senate |url=https://www.270towin.com/2026-senate-polls/kansas |access-date=October 3, 2026 |website=[[270toWin]]}}</ref>
+|[[270toWin]]<ref>{{cite web |title=2026 Polls: Kansas Senate |url=https://www.270towin.com/2026-senate-polls/kansas |access-date=October 15, 2026 |website=[[270toWin]]}}</ref>
 |September 8 – October 1, 2026<!--Remember that dates listed on 270toWin are poll *publication dates*, not the dates when the polls were *administered*-->
 |October 11, 2026
 |{{party shading/Republican}} |'''46.0%'''
@@ -457,7 +457,7 @@ One issue raised during the campaign was Roger Marshall's history of suing over 
 |8.2%
 |{{party shading/Republican}} |'''Marshall +0.2%'''
 |-
-|[[Decision Desk HQ]]<ref>{{cite web |url=https://votes.decisiondeskhq.com/races/2026-11-03/kansas-us-senate-general-election/polling |title=2026 Kansas Senate Polling |website=[[Decision Desk HQ]] |access-date=October 11, 2026}}</ref>
+|[[Decision Desk HQ]]<ref>{{cite web |url=https://votes.decisiondeskhq.com/races/2026-11-03/kansas-us-senate-general-election/polling |title=2026 Kansas Senate Polling |website=[[Decision Desk HQ]] |access-date=October 15, 2026}}</ref>
 |through October 10, 2026
 |October 11, 2026
 |45.5%
@@ -465,35 +465,35 @@ One issue raised during the campaign was Roger Marshall's history of suing over 
 |8.0%
 |{{party shading/Democratic}} |'''Hamilton +1.0%'''
 |-
-|[[FiftyPlusOne]]<ref>{{cite web |url=https://fiftyplusone.news/polls/senate/general/kansas |title=Kansas General Senate Election |website=[[FiftyPlusOne]] |access-date=October 7, 2026}}</ref>
-|through October 4, 2026
-|October 11, 2026
-|45.0%
-|{{party shading/Democratic}} |'''46.5%'''
-|8.5%
-|{{party shading/Democratic}} |'''Hamilton +1.5%'''
+|[[FiftyPlusOne]]<ref>{{cite web |url=https://fiftyplusone.news/polls/senate/general/kansas |title=Kansas General Senate Election |website=[[FiftyPlusOne]] |access-date=October 15, 2026}}</ref>
+|through October 14, 2026
+|October 15, 2026
+|45.5%
+|{{party shading/Democratic}} |'''46.8%'''
+|7.7%
+|{{party shading/Democratic}} |'''Hamilton +1.3%'''
 |-
-|[[RealClearPolitics]]<ref>{{cite web |title=2026 Kansas Senate - Marshall vs. Hamilton |url=https://www.realclearpolling.com/polls/senate/general/2026/kansas/marshall-vs-hamilton |access-date=October 11, 2026 |website=[[RealClearPolitics]]}}</ref>
-|September 8 – October 10, 2026
-|October 11, 2026
-|'''45.8%'''
-|'''45.8%'''
-|8.4%
-|'''Tie'''
+|[[RealClearPolitics]]<ref>{{cite web |title=2026 Kansas Senate - Marshall vs. Hamilton |url=https://www.realclearpolling.com/polls/senate/general/2026/kansas/marshall-vs-hamilton |access-date=October 15, 2026 |website=[[RealClearPolitics]]}}</ref>
+|September 8 – October 14, 2026
+|October 15, 2026
+|{{party shading/Republican}} |'''46.0%'''
+|45.7%
+|8.3%
+|{{party shading/Republican}} |'''Marshall +0.3%'''
 |-
 |''[[Silver Bulletin]]''<ref name="Silver"/>
-|through October 4, 2026
-|October 10, 2026
-|45.1%
-|{{party shading/Democratic}} |'''46.5%'''
-|8.4%
-|{{party shading/Democratic}} |'''Hamilton +1.4%'''
+|through October 10, 2026
+|October 15, 2026
+|45.5%
+|{{party shading/Democratic}} |'''46.8%'''
+|7.7%
+|{{party shading/Democratic}} |'''Hamilton +1.3%'''
 |-
 |colspan="3" |'''Average'''
-|45.5%
-|{{party shading/Democratic}} |'''46.2%'''
-|8.3%
-|{{party shading/Democratic}} |'''Hamilton +0.7%'''
+|45.7%
+|{{party shading/Democratic}} |'''46.3%'''
+|8.0%
+|{{party shading/Democratic}} |'''Hamilton +0.6%'''
 |}
 
 {| class="wikitable" style="font-size:90%;text-align:center;"
@@ -506,6 +506,15 @@ One issue raised during the campaign was Roger Marshall's history of suing over 
 ! style="width:100px;" | Adam<br />Hamilton (D)
 ! style="width:100px;" | David<br />Graham (L)
 ! Undecided
+|-
+|style="text-align: left;" |InsiderAdvantage (R)<ref>{{cite web|url=https://insideradvantage.com/insideradvantage-senate-surveys-texas-paxton-49-talarico-48-kansas-marshall-48-hamilton-47-maine-jackson-49-collins-47/|title=InsiderAdvantage Senate Surveys: Texas, Paxton 49, Talarico 48; Kansas, Marshall 48%, Hamilton 47%; Maine, Jackson 49, Collins 47;Update: All Conducted 10/13-14|website=InsiderAdvantage|date=October 15, 2026|access-date=October 15, 2026}}</ref>
+|October 13–14, 2026
+|1,200 (LV)
+|±{{nbsp}}2.8%
+|{{Party shading/Republican}} | '''48%'''
+|47%
+|{{TBA}}
+|{{TBA}}
 |-
 |style="text-align: left;" |InsiderAdvantage (R)<ref>{{cite web|url=https://insideradvantage.com/insideradvantage-u-s-senate-surveys-alaska-ranks-choice-peltola-50-sullivan-48-kansas-hamilton-48-marshall-47-michigan-el-sayed-48-rogers-46/|title=InsiderAdvantage U.S. Senate Surveys: Alaska (Ranks Choice) Peltola 50%, Sullivan 48%; Kansas Hamilton 48%, Marshall, 47%; Michigan El-Sayed 48%, Rogers 46%|date=October 11, 2026|access-date=October 11, 2026}}</ref><ref>{{Cite tweet |author=InsiderAdvantage |user=InsiderPolling |number=2109439147522007169 |title=Kansas Top Line Tabs |date=October 11, 2026 |access-date=October 11, 2026}}</ref>
 |October 9–10, 2026

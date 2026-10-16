@@ -1332,6 +1332,8 @@ Michigan was considered one of the top Republican senate pickup opportunities fo
 ;U.S. senators
 *[[Al Franken]], former [[Minnesota]] (2009–2018)<ref name="s721">{{cite web |last=Meyer |first=Theodoric |title=Al Franken, other Jewish Americans endorse El-Sayed in Michigan Senate race|work=[[Washington Post]] |date=September 11, 2026 |url=https://www.washingtonpost.com/politics/2026/09/11/al-franken-other-jewish-americans-endorse-el-sayed-michigan-senate-race/ |access-date=September 11, 2026}}</ref>
 *[[Kirsten Gillibrand]], [[New York State|New York]] (2009–present)<ref name="SchumerGillibrandEndorse">{{Cite news |url=https://justthenews.com/politics-policy/schumer-backs-el-sayed-after-progressive-wins-dem-nomination |title=Schumer backs El-Sayed after progressive wins Dem nomination in Michigan Senate primary |last=Whedon |first=Ben |work=[[Just The News]] |date=August 5, 2026 |access-date=August 5, 2026}}</ref>
+*[[Mark Kelly]], [[Arizona]] (2020–present)<ref name="SenDems">{{cite web|url=https://www.cbsnews.com/news/abdul-el-sayed-senate-democrats-meeting/ |title=Senate Democrats meet with Abdul El-Sayed, rallying around Michigan nominee |last=Hubbard |first=Kaia |date=September 16, 2026 |access-date=October 16, 2026 |website=[[CBS News]]}}</ref>
+*[[Chris Murphy]], [[Connecticut]] (2013–present)<ref name="SenDems"/>
 *[[Gary Peters]], [[Michigan]] (2015–present)<ref>{{Cite news |url=https://www.theguardian.com/us-news/2026/aug/05/top-democrats-embrace-abdul-el-sayed |title=Top Democrats set aside qualms and embrace progressive Abdul El-Sayed |last=Stein |first=Chris |work=[[The Guardian]] |date=August 5, 2026 |access-date=August 5, 2026}}</ref>
 *[[Chuck Schumer]], [[Senate minority leader]] (2017–2021, 2025–present) from [[New York State|New York]] (1999–present)<ref name="SchumerGillibrandEndorse"/>
 *[[Elissa Slotkin]], [[Michigan]] (2025–present)<ref name="SlotkinDingellEndorse">{{Cite web |title=Rogers makes early play for El-Sayed's coalition in Michigan after bruising primary |url=https://www.politico.com/news/2026/08/07/rogers-el-sayed-michigan-voters-01028511 |access-date=August 31, 2026 |website=POLITICO |language=en}}</ref>
@@ -1597,6 +1599,15 @@ Michigan was considered one of the top Republican senate pickup opportunities fo
 |±&nbsp;4.0%
 |{{party shading/Democratic}}|'''53%'''
 |47%
+|{{sdash}}
+|{{sdash}}
+|-
+| style="text-align:left;|The Tyson Group<ref>{{cite web|title=Mike Rogers Support for AI Security Measures Gives Him a Lift in Michigan Senate Race|url=https://betterfutureai.org/docs/mike-rogers-support-for-ai-security.pdf |website=The Tyson Group|date=October 16, 2026 |access-date=October 15, 2026}}</ref>
+|October 6–8, 2026
+|600 (LV)
+|{{sdash}}
+|44%
+|{{party shading/Republican}}|'''46%'''
 |{{sdash}}
 |{{sdash}}
 |-

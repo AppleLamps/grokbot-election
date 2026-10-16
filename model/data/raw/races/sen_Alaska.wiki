@@ -543,7 +543,7 @@ On September 23, ''[[The New York Times]]'' published allegations from anonymous
 * [[Dan Sullivan (Anchorage mayor)|Dan Sullivan]], [[List of mayors of Anchorage, Alaska|mayor of Anchorage]] (2009–2015)<ref>{{cite web |last= Coronell Uribe |first= Raquel |title=Dan Sullivan endorses Dan Sullivan to beat Dan Sullivan in perplexing Alaska Senate race |url=https://www.nbcnews.com/politics/2026-election/dan-sullivan-endorses-dan-sullivan-beat-dan-sullivan-perplexing-alaska-rcna594063 |website=[[NBCNews.com]] |date=August 23, 2026 |access-date=September 29, 2026}}</ref>
 
 ;Individuals
-*[[Al Gross (politician)|Al Gross]], orthopedic surgeon ''(co-endorsement with Daniel J. Sullivan Jr.)'' ''(Independent)''<ref name="Gross">{{cite web|url=https://www.adn.com/opinions/2026/10/15/opinion-why-im-crossing-the-aisle-for-either-dan-sullivan/|title=Opinion: Why I’m crossing the aisle for either Dan Sullivan|last=Gross|first=Al|date=October 15, 2026|access-date=October 15, 2026|website=[[Anchorage Daily News]]}}</ref>
+*[[Al Gross (politician)|Al Gross]], orthopedic surgeon and candidate for this seat in [[2020 United States Senate election in Alaska|2020]] ''(co-endorsement with Daniel J. Sullivan Jr.)'' ''(Independent)''<ref name="Gross">{{cite web|url=https://www.adn.com/opinions/2026/10/15/opinion-why-im-crossing-the-aisle-for-either-dan-sullivan/|title=Opinion: Why I’m crossing the aisle for either Dan Sullivan|last=Gross|first=Al|date=October 15, 2026|access-date=October 15, 2026|website=[[Anchorage Daily News]]}}</ref>
 
 ;Labor unions
 * Public Safety Employees Association [[American Federation of State, County and Municipal Employees|AFSCME]] Local 803<ref>{{cite news |last1=Sorrell |first1=Nick |title=Alaska Public Safety Union Endorses Dan Sullivan for U.S. Senate |url=https://radiokenai.com/alaska-public-safety-union-endorses-dan-sullivan-for-u-s-senate/ |access-date=September 2, 2026 |work=[[KSRM]] |date=September 1, 2026}}</ref>
@@ -552,7 +552,7 @@ On September 23, ''[[The New York Times]]'' published allegations from anonymous
 * [[Citizens for Responsible Energy Solutions]]<ref>{{cite web |title=Citizens for Responsible Energy Solutions Announces Second Round of Congressional Endorsements for the 2026 Election Cycle |url=https://cresenergy.com/press-releases/citizens-for-responsible-energy-solutions-announces-second-round-of-congressional-endorsements-for-the-2026-election-cycle/ |website=[[Citizens for Responsible Energy Solutions]] |date=September 22, 2026 |access-date=September 29, 2026}}</ref>
 * [[National Federation of Independent Business]]<ref>{{cite web |title=Alaska Small Businesses Endorse Senator Dan S. Sullivan and Congressman Nick Begich for Reelection |url=https://www.nfib.com/news/press-release/alaska-small-businesses-endorse-senator-dan-s-sullivan-and-congressman-nick-begich-for-reelection/ |website=[[National Federation of Independent Business]] |date=September 10, 2026 |access-date=September 29, 2026}}</ref>
 * [[Safari Club International]]<ref>{{cite web |title=SCI-PAC Endorses Sen. Dan Sullivan for Reelection in Alaska|url=https://safariclub.org/sci-pac-endorses-sen-dan-sullivan-for-reelection-in-alaska/ |website=[[Safari Club International]] |date=September 29, 2026 |access-date=September 29, 2026}}</ref>
-* [[Sealaska Corporation]] (''co-endorsed with Peltola'')<ref>{{cite web |title=Sealaska Board Announces Get Out the Native Vote Campaign and 2026 General Election Endorsements |url=https://www.mysealaska.com/news/item/local/Sealaska-Board-Announces-Get-Out-the-Native-Vote-Campaign-and-2026-General-Election-Endorsements/ |website=[[Sealaska Corporation]] |date=August 28, 2026 |access-date=September 29, 2026}}</ref>
+* [[Sealaska Corporation]] (''co-endorsement with Peltola'')<ref>{{cite web |title=Sealaska Board Announces Get Out the Native Vote Campaign and 2026 General Election Endorsements |url=https://www.mysealaska.com/news/item/local/Sealaska-Board-Announces-Get-Out-the-Native-Vote-Campaign-and-2026-General-Election-Endorsements/ |website=[[Sealaska Corporation]] |date=August 28, 2026 |access-date=September 29, 2026}}</ref>
 }}
 {{Endorsements box
 |title=Mary Peltola (D)
@@ -569,10 +569,10 @@ On September 23, ''[[The New York Times]]'' published allegations from anonymous
 *[[Communications Workers of America]]<ref>{{Cite web |title=Endorsements for Mary Peltola - Alaska Democratic Party Candidate |url=https://bluevoterguide.org/AK/candidate_Mary_Peltola/352697 |access-date=2026-10-02 |website=bluevoterguide.org |language=en}}</ref>
 }}
 {{Endorsements box
-|title=Daniel J. Sullivan Jr. (NPL)
+|title=Daniel J. Sullivan Jr. (R)
 |list=
 ;Individuals
-*[[Al Gross (politician)|Al Gross]], orthopedic surgeon ''(co-endorsement with Dan S. Sullivan)'' ''(Independent)''<ref name="Gross"/>
+*[[Al Gross (politician)|Al Gross]], orthopedic surgeon and candidate for this seat in [[2020 United States Senate election in Alaska|2020]] ''(co-endorsement with Dan S. Sullivan)'' ''(Independent)''<ref name="Gross"/>
 }}
 
 ===Fundraising===

@@ -1383,10 +1383,10 @@ A debate featuring eight of the declared candidates, hosted by [[News Center Mai
 !4<ref name="GenDebates"/>
 | style="white-space:nowrap;" | October 15, 2026
 | style="white-space:nowrap;" | [[News Center Maine]]<br/>[[Portland Press Herald]]<br/>[[Maine Public]]
-| style="white-space:nowrap;" {{TBA}}
-| {{TBA}}
-| {{D-I|'''I'''}}
-| {{D-I|'''I'''}}
+| style="white-space:nowrap;" | Phil Hershkorn<br />Steve Mistler
+| [https://www.youtube.com/watch?v=f5zLhEzW5ts YouTube]
+| {{D-P|'''P'''}}
+| {{D-P|'''P'''}}
 |}
 
 ===Fundraising===
@@ -1405,9 +1405,9 @@ A debate featuring eight of the declared candidates, hosted by [[News Center Mai
 |$5,388,482
 |-
 |{{party shading/Democratic}}| Troy Jackson (D)
-|$0
-|$0
-|$0
+|$20,431,280
+|$16,474,463
+|$3,956,816
 |-
 ! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC">{{cite web |title=2026 Election United States Senate - Maine |url=https://www.fec.gov/data/elections/senate/ME/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=October 15, 2026}}</ref></small>
 |}
@@ -1423,7 +1423,7 @@ A debate featuring eight of the declared candidates, hosted by [[News Center Mai
 ! style="width:100px;" |Other/<wbr/>Undecided
 ! Margin
 |-
-|[[270toWin]]<ref>{{cite web |title=2026 Polls: Maine Senate |url=https://www.270towin.com/2026-senate-polls/maine |website=[[270toWin]] |access-date=October 11, 2026}}</ref>
+|[[270toWin]]<ref>{{cite web |title=2026 Polls: Maine Senate |url=https://www.270towin.com/2026-senate-polls/maine |website=[[270toWin]] |access-date=October 15, 2026}}</ref>
 |September 23 – October 5, 2026<!--Remember that dates listed on 270toWin are poll *publication dates*, not the dates when the polls were *administered*-->
 |October 9, 2026
 |47.2%
@@ -1431,7 +1431,7 @@ A debate featuring eight of the declared candidates, hosted by [[News Center Mai
 |3.6%
 |{{party shading/Democratic}} |'''Jackson +2.0%'''
 |-
-|[[Decision Desk HQ]]<ref>{{Cite web |title=2026 Maine Senate Polling |url=https://votes.decisiondeskhq.com/races/2026-11-03/maine-us-senate-general-election/polling |access-date=October 14, 2026 |website=[[Decision Desk HQ]]}}</ref>
+|[[Decision Desk HQ]]<ref>{{Cite web |title=2026 Maine Senate Polling |url=https://votes.decisiondeskhq.com/races/2026-11-03/maine-us-senate-general-election/polling |access-date=October 15, 2026 |website=[[Decision Desk HQ]]}}</ref>
 |through October 11, 2026
 |October 14, 2026
 |47.4%
@@ -1439,35 +1439,35 @@ A debate featuring eight of the declared candidates, hosted by [[News Center Mai
 |3.0%
 |{{party shading/Democratic}} |'''Jackson +2.2%'''
 |-
-|[[FiftyPlusOne]]<ref>{{Cite web |title=Maine General Senate Election |url=https://fiftyplusone.news/polls/senate/general/maine |access-date=October 14, 2026 |website=[[FiftyPlusOne]]}}</ref>
-|through October 11, 2026
-|October 14, 2026
-|46.8%
-|{{party shading/Democratic}} |'''49.0%'''
-|4.2%
-|{{party shading/Democratic}} |'''Jackson +2.2%'''
+|[[FiftyPlusOne]]<ref>{{Cite web |title=Maine General Senate Election |url=https://fiftyplusone.news/polls/senate/general/maine |access-date=October 15, 2026 |website=[[FiftyPlusOne]]}}</ref>
+|through October 14, 2026
+|October 15, 2026
+|47.0%
+|{{party shading/Democratic}} |'''49.1%'''
+|3.9%
+|{{party shading/Democratic}} |'''Jackson +2.1%'''
 |-
-|[[RealClearPolitics]]<ref>{{cite web |title=2026 Maine Senate - Collins vs. Jackson |url=https://www.realclearpolling.com/polls/senate/general/2026/collins-vs-jackson |website=[[RealClearPolitics]] |access-date=October 14, 2026}}</ref>
-|September 15 – October 11, 2026
-|October 14, 2026
+|[[RealClearPolitics]]<ref>{{cite web |title=2026 Maine Senate - Collins vs. Jackson |url=https://www.realclearpolling.com/polls/senate/general/2026/collins-vs-jackson |website=[[RealClearPolitics]] |access-date=October 15, 2026}}</ref>
+|September 15 – October 14, 2026
+|October 15, 2026
 |47.3%
-|{{party shading/Democratic}} |'''48.6%'''
-|4.1%
-|{{party shading/Democratic}} |'''Jackson +1.3%'''
+|{{party shading/Democratic}} |'''48.8%'''
+|3.9%
+|{{party shading/Democratic}} |'''Jackson +1.5%'''
 |-
 |''[[Silver Bulletin]]''<ref name="Silver"/>
 |through October 11, 2026
-|October 14, 2026
+|October 15, 2026
 |46.7%
-|{{party shading/Democratic}} |'''49.3%'''
-|4.0%
-|{{party shading/Democratic}} |'''Jackson +2.6%'''
+|{{party shading/Democratic}} |'''49.4%'''
+|3.9%
+|{{party shading/Democratic}} |'''Jackson +2.7%'''
 |-
 | colspan="3" |Average
 |47.1%
-|{{party shading/Democratic}} |'''49.1%'''
-|3.8%
-|{{party shading/Democratic}} |'''Jackson +2.0%'''
+|{{party shading/Democratic}} |'''49.2%'''
+|3.7%
+|{{party shading/Democratic}} |'''Jackson +2.1%'''
 |}
 
 {| class="wikitable" style="font-size:90%;text-align:center;"
@@ -1480,6 +1480,15 @@ A debate featuring eight of the declared candidates, hosted by [[News Center Mai
 ! style="width:100px;"| Troy<br />Jackson (D)
 ! Other
 ! Undecided
+|-
+|style="text-align: left;" |InsiderAdvantage (R)<ref>{{cite web|url=https://insideradvantage.com/insideradvantage-senate-surveys-texas-paxton-49-talarico-48-kansas-marshall-48-hamilton-47-maine-jackson-49-collins-47/|title=InsiderAdvantage Senate Surveys: Texas, Paxton 49, Talarico 48; Kansas, Marshall 48%, Hamilton 47%; Maine, Jackson 49, Collins 47;Update: All Conducted 10/13-14|website=InsiderAdvantage|date=October 15, 2026|access-date=October 15, 2026}}</ref>
+|October 13–14, 2026
+|1,200 (LV)
+|±{{nbsp}}2.8%
+|47%
+|{{party shading/Democratic}}|'''49%'''
+|{{TBA}}
+|{{TBA}}
 |-
 |style="text-align:left;" |[[Suffolk University]]<ref>{{Cite web |url=https://www.suffolk.edu/-/media/suffolk/documents/academics/research-at-suffolk/suprc/polls/other-states/2026/10_14_2026_maine_press_release.pdf |title=Suffolk University Statewide and Bellwether Polls Show Democrat Troy Jackson Holds Razor-Thin Edge in Statistically Tied Maine Senate Race |work=[[Suffolk University]] |date=October 14, 2026 |access-date=October 14, 2026}}</ref>
 |October 8–11, 2026

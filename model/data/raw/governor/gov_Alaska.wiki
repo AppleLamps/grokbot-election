@@ -1205,6 +1205,7 @@ title=Bernadette Wilson (R)
 {{hidden end}}
 
 ===Debates and forums===
+<div style="overflow-x:auto;">
 {| class="wikitable" style="text-align:center;"
 |+ 2026 Alaska gubernatorial debates and forums{{efn|Numerous debates and forums featuring various candidates were also held during the primary campaign.}}
 |-
@@ -1428,6 +1429,7 @@ title=Bernadette Wilson (R)
 | {{D-P|'''P'''}}
 |-
 |}
+</div>
 
 === Results ===
 {| class="wikitable sortable" style="text-align:right"
