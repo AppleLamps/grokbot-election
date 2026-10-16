@@ -101,7 +101,7 @@ FL-12,FL,-7,R,1,0,0,Gus Bilirakis,-2.5
 FL-13,FL,-6,R,1,0,0,Anna Paulina Luna,-1.2
 FL-14,FL,-4,D,1,0,0,Kathy Castor,0.9
 FL-15,FL,-9,R,1,0,0,Laurel Lee,-2.8
-FL-16,FL,-6,R,0,0,0,Vern Buchanan,-1.9
+FL-16,FL,-6,R,0,0,0,Vern Buchanan,-1.8
 FL-17,FL,-10,R,1,0,0,Greg Steube,
 FL-18,FL,-8,R,1,0,0,Scott Franklin,-2.8
 FL-19,FL,-14,R,0,0,0,Byron Donalds,
@@ -110,7 +110,7 @@ FL-21,FL,-7,R,1,0,0,Brian Mast,-2.8
 FL-22,FL,-4,,0,1,0,,0.05
 FL-23,FL,9,D,1,0,0,Lois Frankel,
 FL-24,FL,22,D,0,0,0,Frederica Wilson,
-FL-25,FL,-3,D,1,0,0,Jared Moskowitz,1.0
+FL-25,FL,-3,D,1,0,0,Jared Moskowitz,1.1
 FL-26,FL,-7,R,1,0,0,Mario Díaz-Balart,-2.9
 FL-27,FL,-6,R,1,0,0,María Elvira Salazar,-1.3
 FL-28,FL,-10,R,1,0,0,Carlos A. Giménez,
@@ -163,7 +163,7 @@ IA-2,IA,-4,R,0,0,0,Ashley Hinson,0.3
 IA-3,IA,-2,R,1,0,0,Zach Nunn,1.25
 IA-4,IA,-15,R,0,0,0,Randy Feenstra,
 KS-1,KS,-16,R,1,0,0,Tracey Mann,
-KS-2,KS,-10,R,1,0,0,Derek Schmidt,-2.8
+KS-2,KS,-10,R,1,0,0,Derek Schmidt,-2.7
 KS-3,KS,2,D,1,0,0,Sharice Davids,2.9
 KS-4,KS,-12,R,1,0,0,Ron Estes,
 KY-1,KY,-23,R,1,0,0,James Comer,
@@ -210,7 +210,7 @@ MI-10,MI,-3,R,0,0,0,John James,0.55
 MI-11,MI,9,D,0,0,0,Haley Stevens,
 MI-12,MI,21,D,1,0,0,Rashida Tlaib,
 MI-13,MI,22,D,0,0,0,Shri Thanedar,
-MN-1,MN,-6,R,1,0,0,Brad Finstad,-1.5
+MN-1,MN,-6,R,1,0,0,Brad Finstad,-1.4
 MN-2,MN,3,D,0,0,0,Angie Craig,2.5
 MN-3,MN,11,D,1,0,0,Kelly Morrison,
 MN-4,MN,18,D,1,0,0,Betty McCollum,
@@ -230,9 +230,9 @@ MO-5,MO,12,D,1,0,0,Emanuel Cleaver,
 MO-6,MO,-19,R,0,0,0,Sam Graves,
 MO-7,MO,-21,R,1,0,0,Eric Burlison,
 MO-8,MO,-27,R,1,0,0,Jason Smith,
-MT-1,MT,-5,R,0,0,0,Ryan Zinke,-0.55
+MT-1,MT,-5,R,0,0,0,Ryan Zinke,-0.45
 MT-2,MT,-15,R,1,0,0,Troy Downing,
-NE-1,NE,-6,R,1,0,0,Mike Flood,-2.1
+NE-1,NE,-6,R,1,0,0,Mike Flood,-2.0
 NE-2,NE,3,R,0,0,0,Don Bacon,2.1
 NE-3,NE,-27,R,1,0,0,Adrian Smith,
 NV-1,NV,2,D,1,0,0,Dina Titus,2.3
@@ -276,7 +276,7 @@ NY-17,NY,1,R,1,0,0,Mike Lawler,0.6
 NY-18,NY,2,D,1,0,0,Pat Ryan,
 NY-19,NY,1,D,1,0,0,Josh Riley,2.7
 NY-20,NY,8,D,1,0,0,Paul Tonko,
-NY-21,NY,-10,R,0,0,0,Elise Stefanik,-1.9
+NY-21,NY,-10,R,0,0,0,Elise Stefanik,-1.8
 NY-22,NY,4,D,1,0,0,John Mannion,
 NY-23,NY,-10,R,1,0,0,Nick Langworthy,
 NY-24,NY,-11,R,1,0,0,Claudia Tenney,
@@ -297,7 +297,7 @@ NC-12,NC,24,D,1,0,0,Alma Adams,
 NC-13,NC,-8,R,1,0,0,Brad Knott,-2.5
 NC-14,NC,-8,R,1,0,0,Tim Moore,-2.6
 ND-AL,ND,-18,R,1,0,0,Julie Fedorchak,
-OH-1,OH,-1,D,1,0,0,Greg Landsman,1.65
+OH-1,OH,-1,D,1,0,0,Greg Landsman,1.75
 OH-2,OH,-21,R,1,0,0,David Taylor,
 OH-3,OH,21,D,1,0,0,Joyce Beatty,
 OH-4,OH,-21,R,1,0,0,Jim Jordan,
@@ -306,12 +306,12 @@ OH-6,OH,-17,R,1,0,0,Michael Rulli,
 OH-7,OH,-5,R,1,0,0,Max Miller,0.2
 OH-8,OH,-8,R,1,0,0,Warren Davidson,-2.7
 OH-9,OH,-5,D,1,0,0,Marcy Kaptur,0.7
-OH-10,OH,-4,R,1,0,0,Mike Turner,-2.1
+OH-10,OH,-4,R,1,0,0,Mike Turner,-2.0
 OH-11,OH,28,D,1,0,0,Shontel Brown,
 OH-12,OH,-15,R,1,0,0,Troy Balderson,
 OH-13,OH,2,D,1,0,0,Emilia Sykes,2.6
 OH-14,OH,-10,R,1,0,0,David Joyce,
-OH-15,OH,-5,R,1,0,0,Mike Carey,-1.5
+OH-15,OH,-5,R,1,0,0,Mike Carey,-1.4
 OK-1,OK,-11,R,0,0,0,Kevin Hern,-2.9
 OK-2,OK,-28,R,1,0,0,Josh Brecheen,
 OK-3,OK,-23,R,1,0,0,Frank Lucas,
@@ -342,7 +342,7 @@ PA-16,PA,-11,R,1,0,0,Mike Kelly,
 PA-17,PA,3,D,1,0,0,Chris Deluzio,
 RI-1,RI,12,D,1,0,0,Gabe Amo,
 RI-2,RI,4,D,1,0,0,Seth Magaziner,
-SC-1,SC,-6,R,0,0,0,Nancy Mace,-1.3
+SC-1,SC,-6,R,0,0,0,Nancy Mace,-1.2
 SC-2,SC,-7,R,1,0,0,Joe Wilson,-2.7
 SC-3,SC,-21,R,1,0,0,Sheri Biggs,
 SC-4,SC,-11,R,1,0,0,William Timmons,

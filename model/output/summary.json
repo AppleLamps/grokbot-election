@@ -15,9 +15,9 @@
     "senate_R_p10": 45,
     "senate_R_p90": 52,
     "senate_I_mean": 0.29892,
-    "house_p_D": 0.92074,
-    "house_p_R": 0.07926,
-    "house_D_mean": 235.84014,
+    "house_p_D": 0.92122,
+    "house_p_R": 0.07877999999999996,
+    "house_D_mean": 235.90513,
     "house_D_median": 235,
     "house_D_p10": 219,
     "house_D_p90": 254,
@@ -53,11 +53,11 @@
         0.02
       ],
       [
-        "MI-7",
+        "PA-1",
         0.02
       ],
       [
-        "PA-1",
+        "MI-7",
         0.02
       ],
       [
@@ -89,12 +89,12 @@
     "senate_R_p10": 48,
     "senate_R_p90": 54,
     "senate_I_mean": 0.14655,
-    "house_p_D": 0.69879,
-    "house_p_R": 0.30121,
-    "house_D_mean": 223.90172,
+    "house_p_D": 0.70002,
+    "house_p_R": 0.29998,
+    "house_D_mean": 223.94968,
     "house_D_median": 223,
     "house_D_p10": 209,
-    "house_D_p90": 239,
+    "house_D_p90": 240,
     "senate_tipping": [
       [
         "OH",
@@ -123,11 +123,11 @@
         0.02
       ],
       [
-        "TX-28",
-        0.02
+        "TX-34",
+        0.019
       ],
       [
-        "TX-34",
+        "FL-14",
         0.019
       ],
       [
@@ -135,7 +135,7 @@
         0.019
       ],
       [
-        "PA-7",
+        "TX-28",
         0.019
       ]
     ],
@@ -163,12 +163,12 @@
     "senate_R_p10": 42,
     "senate_R_p90": 48,
     "senate_I_mean": 0.74731,
-    "house_p_D": 0.99643,
-    "house_p_R": 0.003569999999999962,
-    "house_D_mean": 265.40994,
+    "house_p_D": 0.99649,
+    "house_p_R": 0.003510000000000013,
+    "house_D_mean": 265.48885,
     "house_D_median": 264,
     "house_D_p10": 243,
-    "house_D_p90": 290,
+    "house_D_p90": 291,
     "senate_tipping": [
       [
         "OH",
@@ -201,15 +201,15 @@
         0.02
       ],
       [
-        "FL-25",
-        0.02
-      ],
-      [
         "MI-7",
         0.02
       ],
       [
         "PA-7",
+        0.019
+      ],
+      [
+        "TX-34",
         0.019
       ]
     ],
