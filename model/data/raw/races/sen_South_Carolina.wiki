@@ -93,7 +93,7 @@ After Graham died, Governor [[Henry McMaster]] was tasked with appointing a succ
 *[[Tim Scott]], [[South Carolina]] (2013–present)<ref name="ScottMcMaster" />
 
 ;Statewide officials
-*[[Henry McMaster]], [[governor of South Carolina]] (2017–present)<ref name="ScottMcMaster">{{cite news |last1=Kinnard |first1=Meg |title=Sen. Tim Scott and South Carolina's governor will chair Lindsey Graham's reelection bid |url=https://apnews.com/article/lindsey-graham-south-carolina-2026-76d123202f5fc959e1891a3268fc0f8d |access-date=February 4, 2025 |work=[[Associated Press News]] |date=February 4, 2025 |language=en}}</ref>
+*[[Henry McMaster]], [[governor of South Carolina]] (2017–present)<ref name="ScottMcMaster">{{cite news |last1=Kinnard |first1=Meg |title=Sen. Tim Scott and South Carolina's governor will chair Lindsey Graham's reelection bid |url=https://apnews.com/article/lindsey-graham-south-carolina-2026-76d123202f5fc959e1891a3268fc0f8d |access-date=February 4, 2025 |work=[[AP News]] |date=February 4, 2025 |language=en}}</ref>
 
 ;Organizations
 * [[AIPAC]]<ref>{{Cite web |title=Thank You for Supporting Pro-Israel Candidates |website=AIPAC Political Portal |url=https://candidates.aipacpac.org/page/featured |access-date=April 28, 2025}}</ref>
@@ -1240,7 +1240,7 @@ In ''[[The New York Times]]'', Michael Gold wrote that Trump had two main disput
 |{{USRaceRating|Lean|R}}
 |October 7, 2026
 |-
-|align="left"|''[[The Economist]]''<ref>{{Cite web|title=2026 Senate Forecast|url=https://www.economist.com/interactive/2026/us-midterms/prediction-model/senate/|access-date=October 7, 2026|website=[[The Economist]]}}</ref>{{efn|''The Economist''{{'}}s prediction model uses unconventional terminology. For the purpose of equivalency, their "Very Likely" ratings are formatted as a "Likely" rating while "Likely" ratings are formatted as a "Lean" rating.}}
+|align="left"|''[[The Economist]]''<ref>{{Cite news|title=2026 Senate Forecast|url=https://www.economist.com/interactive/2026/us-midterms/prediction-model/senate/|access-date=October 7, 2026|newspaper=[[The Economist]]}}</ref>{{efn|''The Economist''{{'}}s prediction model uses unconventional terminology. For the purpose of equivalency, their "Very Likely" ratings are formatted as a "Likely" rating while "Likely" ratings are formatted as a "Lean" rating.}}
 |{{USRaceRating|Lean|R}}
 |October 7, 2026
 |-
@@ -1290,7 +1290,7 @@ In ''[[The New York Times]]'', Michael Gold wrote that Trump had two main disput
 ;Executive branch officials
 *[[Pete Buttigieg]], former [[secretary of transportation]] (2021–2025)<ref name="buttigieg_andrews">{{cite web |last1=Reynolds |first1=Nick |title=Buttigieg endorses Dr. Annie Andrews amid mounting national interest in SC's Senate race |url=https://www.postandcourier.com/politics/sc-buttigieg-andrews-endorsement-2026-senate/article_bfe6b63d-0438-490e-8759-ca1b9423292a.html |website=[[The Post and Courier]] |access-date=August 13, 2026 |date=August 13, 2026}}</ref>
 ;Individuals
-*[[George Will]], journalist ''(Independent)''<ref>{{Cite web|url=https://www.washingtonpost.com/opinions/2026/09/16/south-carolina-senate-race-democrat-annie-andrews-faces-trump-pick/|title=Independence-minded South Carolina has an alternative to Darline Graham|last=Will|first=George|date=September 16, 2026|access-date=September 16, 2026|website=[[The Washington Post]]}}</ref>
+*[[George Will]], journalist ''(Independent)''<ref>{{Cite news|url=https://www.washingtonpost.com/opinions/2026/09/16/south-carolina-senate-race-democrat-annie-andrews-faces-trump-pick/|title=Independence-minded South Carolina has an alternative to Darline Graham|last=Will|first=George|date=September 16, 2026|access-date=September 16, 2026|newspaper=[[The Washington Post]]}}</ref>
 *[[Fred Trump III]], real estate executive and nephew of President Donald Trump<ref>{{Cite instagram |last=Trump |first=Fred III |author-link=Fred Trump III |user=fredtrump_ |postid=DeNgCxNu1Te |title=Have been following Dr. Annie Andrew's seemingly quixotic campaign for Senate in SC for over a year. |date=October 7, 2026 |access-date=October 10, 2026}}</ref>{{independent source needed|date=October 2026|reason=Per the WP:ENDORSE guideline, political endorsements by individuals "should not be sourced solely to a Tweet or Instagram post by the endorser, endorsee, or an affiliated individual or organization".}}
 ;Organizations
 *[[Jewish Democratic Council of America]]<ref>{{cite web |title=Jewish Dems Endorse House, Senate, and Gubernatorial Candidates |url=https://jewishdems.org/press_release/jewish-dems-endorse-house-senate-and-gubernatorial-candidates/ |website=Jewish Democratic Council of America |access-date=September 2, 2026}}</ref>

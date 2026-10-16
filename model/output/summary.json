@@ -66,12 +66,12 @@
       ]
     ],
     "gov_races": 36,
-    "gov_D_wins_mean": 20.53671,
-    "gov_D_total_mean": 26.53671,
+    "gov_D_wins_mean": 20.53412,
+    "gov_D_total_mean": 26.53412,
     "gov_D_total_median": 27,
     "gov_D_total_p10": 23,
     "gov_D_total_p90": 30,
-    "gov_p_D_majority": 0.64477
+    "gov_p_D_majority": 0.64443
   },
   "pres_style_D_overstatement": {
     "scenario": "pres_style_D_overstatement",
@@ -140,12 +140,12 @@
       ]
     ],
     "gov_races": 36,
-    "gov_D_wins_mean": 17.96981,
-    "gov_D_total_mean": 23.96981,
+    "gov_D_wins_mean": 17.96548,
+    "gov_D_total_mean": 23.96548,
     "gov_D_total_median": 24,
     "gov_D_total_p10": 20,
     "gov_D_total_p90": 28,
-    "gov_p_D_majority": 0.31021
+    "gov_p_D_majority": 0.30993
   },
   "r_overstatement_2025": {
     "scenario": "r_overstatement_2025",
@@ -214,11 +214,11 @@
       ]
     ],
     "gov_races": 36,
-    "gov_D_wins_mean": 25.40146,
-    "gov_D_total_mean": 31.40146,
+    "gov_D_wins_mean": 25.40113,
+    "gov_D_total_mean": 31.40113,
     "gov_D_total_median": 31,
     "gov_D_total_p10": 28,
     "gov_D_total_p90": 35,
-    "gov_p_D_majority": 0.97416
+    "gov_p_D_majority": 0.97413
   }
 }
