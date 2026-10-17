@@ -1,5 +1,6 @@
 {{Short description|none}}
 {{for|related races|2026 United States Senate elections}}
+{{Distinguish|2026 New Hampshire Senate election}}
 {{Use American English|date=November 2025}}
 {{Use mdy dates|date=September 2023}}
 {{Infobox election
@@ -870,7 +871,7 @@ Shaheen was first elected in [[2008 United States Senate election in New Hampshi
 *[[Gavin Newsom]], [[governor of California]] (2019–present)<ref>{{cite web|url=https://www.aol.com/articles/gavin-newsom-parachute-back-hampshire-002759000.html|title=Gavin Newsom to parachute back into New Hampshire ahead of midterm elections|last=Keohn|first=Josh|date=October 14, 2026|access-date=October 14, 2026|website=[[AOL]]}}</ref>
 
 ;Individuals
-*[[Don Bolduc]], retired [[Brigadier general|brigadier general]] and Republican [[2022 United States Senate election in New Hampshire|2022 U.S. Senate]] nominee<ref>{{Cite web|url=https://www.unionleader.com/news/politics/bolduc-joins-republicans-independents-backing-pappas-for-senate-10f2fd54|title=Don Bolduc, 2022 GOP Senate nominee, endorses Democrat Chris Pappas over John E. Sununu|last=Landrigan|first=Kevin|date=October 15, 2026|access-date=October 15, 2026|website=New Hampshire Union Leader}}</ref> ''(Republican)''
+*[[Don Bolduc]], retired [[Brigadier general|brigadier general]] and Republican [[2022 United States Senate election in New Hampshire|2022 U.S. Senate]] nominee ''(Republican)''<ref>{{Cite web|url=https://www.unionleader.com/news/politics/bolduc-joins-republicans-independents-backing-pappas-for-senate-10f2fd54|title=Don Bolduc, 2022 GOP Senate nominee, endorses Democrat Chris Pappas over John E. Sununu|last=Landrigan|first=Kevin|date=October 15, 2026|access-date=October 15, 2026|website=New Hampshire Union Leader}}</ref>
 ;Organizations
 *[[J Street]]<ref>{{Cite web |title=Chris Pappas|url=https://jstreetpac.org/candidate/chris-pappas/|access-date=September 22, 2026 |publisher=J Street PAC |language=en-US}}</ref>
 }}{{Endorsements box|title=John E. Sununu (R)|list=;Executive branch officials
@@ -888,7 +889,7 @@ Shaheen was first elected in [[2008 United States Senate election in New Hampshi
 ===Fundraising===
 {| class="wikitable sortable"
 |-
-! colspan=4 |Campaign finance reports as of August 19, 2026
+! colspan=4 |Campaign finance reports as of September 30, 2026
 |- style="text-align:center;"
 !Candidate
 !Raised
@@ -896,14 +897,14 @@ Shaheen was first elected in [[2008 United States Senate election in New Hampshi
 !Cash on hand
 |-
 |{{party shading/Democratic}}|Chris Pappas (D)
-|$15,384,657
-|$11,540,323
-|$4,251,918
+|$21,507,463
+|$18,723,774
+|$3,283,894
 |-
 |{{party shading/Republican}}|John E. Sununu (R)
-|$4,124,582
-|$1,104,788
-|$3,019,794
+|$5,334,886
+|$2,799,104
+|$2,502,771
 |-
 ! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC1" /></small>
 |}

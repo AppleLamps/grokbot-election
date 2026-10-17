@@ -692,25 +692,25 @@ On October 12, [[Shannon O'Brien (Montana politician)|Shannon O'Brien]], the Cha
 |11.7%
 |{{party shading/Republican}} |'''Alme +15.6%'''
 |-
-|[[Decision Desk HQ]]<ref>{{Cite web |title=2026 Montana Senate Polling |url=https://votes.decisiondeskhq.com/polls/general-ballot-test/2026-mt-us-senate/montana |website=[[Decision Desk HQ]] |access-date=October 15, 2026}}</ref>
-|through October 8, 2026
-|October 15, 2026
-|{{party shading/Republican}} |'''39.0%'''
+|[[Decision Desk HQ]]<ref>{{Cite web |title=2026 Montana Senate Polling |url=https://votes.decisiondeskhq.com/polls/general-ballot-test/2026-mt-us-senate/montana |website=[[Decision Desk HQ]] |access-date=October 16, 2026}}</ref>
+|through October 12, 2026
+|October 16, 2026
+|{{party shading/Republican}} |'''40.9%'''
 |15.5%
-|32.5%
+|29.7%
+|13.9%
+|{{party shading/Republican}} |'''Alme +11.2%'''
+|-
+|[[FiftyPlusOne]]<ref>{{Cite web |title=Montana General Senate Election |url=https://fiftyplusone.news/polls/senate/general/montana |website=[[FiftyPlusOne]] |access-date=October 16, 2026}}</ref>
+|through October 12, 2026
+|October 16, 2026
+|{{party shading/Republican}} |'''41.2%'''
+|15.6%
+|30.2%
 |13.0%
-|{{party shading/Republican}} |'''Alme +6.5%'''
+|{{party shading/Republican}} |'''Alme +11.0%'''
 |-
-|[[FiftyPlusOne]]<ref>{{Cite web |title=Montana General Senate Election |url=https://fiftyplusone.news/polls/senate/general/montana |website=[[FiftyPlusOne]] |access-date=October 15, 2026}}</ref>
-|through October 8, 2026
-|October 15, 2026
-|{{party shading/Republican}} |'''41.1%'''
-|17.1%
-|29.8%
-|12.0%
-|{{party shading/Republican}} |'''Alme +11.3%'''
-|-
-|[[RealClearPolitics]]<ref>{{Cite web |title=2026 Montana Senate - Alme vs. Bankhead vs. Bodnar vs. Austin |url=https://www.realclearpolling.com/polls/senate/general/2026/montana/alme-vs-bankhead-vs-bodnar-vs-austin |website=realclearpolling.com |access-date=October 15, 2026}}</ref>
+|[[RealClearPolitics]]<ref>{{Cite web |title=2026 Montana Senate - Alme vs. Bankhead vs. Bodnar vs. Austin |url=https://www.realclearpolling.com/polls/senate/general/2026/montana/alme-vs-bankhead-vs-bodnar-vs-austin |website=realclearpolling.com |access-date=October 16, 2026}}</ref>
 |August 27 – September 15, 2026
 |September 18, 2026
 |{{party shading/Republican}} |'''41.0%'''
@@ -720,20 +720,20 @@ On October 12, [[Shannon O'Brien (Montana politician)|Shannon O'Brien]], the Cha
 |{{party shading/Republican}} |'''Alme +14.0%'''
 |-
 |''[[Silver Bulletin]]''<ref name="Silver"/>
-|through September 24, 2026
-|October 15, 2026
-|{{party shading/Republican}} |'''43.7%'''
-|20.8%
-|26.7%
-|8.8%
-|{{party shading/Republican}} |'''Alme +17.0%'''
+|through October 8, 2026
+|October 16, 2026
+|{{party shading/Republican}} |'''41.3%'''
+|18.6%
+|29.6%
+|10.5%
+|{{party shading/Republican}} |'''Alme +11.7%'''
 |-
 |colspan="3" |'''Average'''
-|{{party shading/Republican}} |'''41.4%'''
-|18.4%
-|28.5%
-|11.7%
-|{{party shading/Republican}} |'''Alme +12.9%'''
+|{{party shading/Republican}} |'''41.3%'''
+|17.7%
+|28.6%
+|12.4%
+|{{party shading/Republican}} |'''Alme +12.7%'''
 |}
 
 {| class="wikitable" style="font-size:90%;text-align:center;"
@@ -747,6 +747,16 @@ On October 12, [[Shannon O'Brien (Montana politician)|Shannon O'Brien]], the Cha
 ! style="width:100px;"| Seth<br />Bodnar (I)
 ! style="width:100px;"| Kyle<br />Austin (L)
 ! Undecided
+|-
+|style="text-align:left;"|Peak Insights (R)<ref>{{cite tweet |last=Everett |first=Burgess |user=burgessev |title=New Peak Insights poll shows Alme up 15 in Montana Senate. Bankhead clearly continuing to crater but split field still a big factor |number=2111155739154882819 |date=October 16, 2026 |access-date=October 16, 2026}}</ref>{{Efn-ua|name=Alme}}
+|October 7–12, 2026
+|500 (LV)
+|±&nbsp;4.0%
+|{{party shading/Republican}}|'''44%'''
+|12%
+|29%
+|3%
+|12%
 |-
 |style="text-align: left;" |Concord Public Opinion Partners<ref>{{Cite web|url=https://static1.squarespace.com/static/6a5ff8e3d194df57f8833369/t/6ad1270faee1a77937e9dbec/1792091919214/CPOP+Montana+Statewide+Findings+Memo_10.10.pdf|title=Montana General Election Findings|work=Concord Public Opinion Partners|date=October 9, 2026|access-date=October 15, 2026}}</ref>{{efn-ua|name=Bodnar|Poll sponsored by Bodnar's campaign}}
 |October 6–8, 2026
@@ -778,7 +788,7 @@ On October 12, [[Shannon O'Brien (Montana politician)|Shannon O'Brien]], the Cha
 |{{sdash}}
 |9%{{Efn|"Someone else" with 2%}}
 |-
-|style="text-align:left;"|Aspect Strategic<ref>{{cite tweet |last1=Everett |first1=Burgess |title=New Montana Senate poll from Aspect Strategic, commissioned by Montana Freedom PAC, shows Democrat Bankhead cratering |user=burgessev|number=2102451722702442813 |access-date=September 23, 2026}}</ref>{{Efn-ua|Poll sponsored by Montana Freedom PAC, which supports Bodnar}}
+|style="text-align:left;"|Aspect Strategic<ref>{{cite tweet |last=Everett |first=Burgess |user=burgessev |title=New Montana Senate poll from Aspect Strategic, commissioned by Montana Freedom PAC, shows Democrat Bankhead cratering |number=2102451722702442813 |date=September 22, 2026 |access-date=September 23, 2026}}</ref>{{Efn-ua|Poll sponsored by Montana Freedom PAC, which supports Bodnar}}
 |September 7–15, 2026
 |715 (LV)
 |{{sdash}}
@@ -798,7 +808,7 @@ On October 12, [[Shannon O'Brien (Montana politician)|Shannon O'Brien]], the Cha
 |5%
 |11%{{Efn|"Someone else" with 6%; "Would not vote" with 5%}}
 |-
-|style="text-align:left;"|Peak Insights (R)<ref>{{cite web |title=Alme Holds Commanding Lead — No Viable Path for Bodnar |url=https://cdn.sanity.io/files/ifn0l6bs/production/72ac898bdf17c5121988f619a81d80fde4e18325.pdf |publisher=Peak Insights |access-date=September 8, 2026 |date=September 4, 2026}}</ref>{{Efn-ua|Poll sponsored by Alme's campaign}}
+|style="text-align:left;"|Peak Insights (R)<ref>{{cite web |title=Alme Holds Commanding Lead — No Viable Path for Bodnar |url=https://cdn.sanity.io/files/ifn0l6bs/production/72ac898bdf17c5121988f619a81d80fde4e18325.pdf |publisher=Peak Insights |access-date=September 8, 2026 |date=September 4, 2026}}</ref>{{Efn-ua|name=Alme|Poll sponsored by Alme's campaign}}
 |August 23–25, 2026
 |600 (LV)
 |±&nbsp;4.0%

@@ -1431,23 +1431,23 @@ A debate featuring eight of the declared candidates, hosted by [[News Center Mai
 |3.6%
 |{{party shading/Democratic}} |'''Jackson +2.0%'''
 |-
-|[[Decision Desk HQ]]<ref>{{Cite web |title=2026 Maine Senate Polling |url=https://votes.decisiondeskhq.com/races/2026-11-03/maine-us-senate-general-election/polling |access-date=October 15, 2026 |website=[[Decision Desk HQ]]}}</ref>
-|through October 11, 2026
-|October 14, 2026
+|[[Decision Desk HQ]]<ref>{{Cite web |title=2026 Maine Senate Polling |url=https://votes.decisiondeskhq.com/races/2026-11-03/maine-us-senate-general-election/polling |access-date=October 16, 2026 |website=[[Decision Desk HQ]]}}</ref>
+|through October 14, 2026
+|October 16, 2026
 |47.4%
-|{{party shading/Democratic}} |'''49.6%'''
-|3.0%
+|{{party shading/Democratic}} |'''49.7%'''
+|2.9%
+|{{party shading/Democratic}} |'''Jackson +2.3%'''
+|-
+|[[FiftyPlusOne]]<ref>{{Cite web |title=Maine General Senate Election |url=https://fiftyplusone.news/polls/senate/general/maine |access-date=October 16, 2026 |website=[[FiftyPlusOne]]}}</ref>
+|through October 14, 2026
+|October 16, 2026
+|46.9%
+|{{party shading/Democratic}} |'''49.1%'''
+|4.0%
 |{{party shading/Democratic}} |'''Jackson +2.2%'''
 |-
-|[[FiftyPlusOne]]<ref>{{Cite web |title=Maine General Senate Election |url=https://fiftyplusone.news/polls/senate/general/maine |access-date=October 15, 2026 |website=[[FiftyPlusOne]]}}</ref>
-|through October 14, 2026
-|October 15, 2026
-|47.0%
-|{{party shading/Democratic}} |'''49.1%'''
-|3.9%
-|{{party shading/Democratic}} |'''Jackson +2.1%'''
-|-
-|[[RealClearPolitics]]<ref>{{cite web |title=2026 Maine Senate - Collins vs. Jackson |url=https://www.realclearpolling.com/polls/senate/general/2026/collins-vs-jackson |website=[[RealClearPolitics]] |access-date=October 15, 2026}}</ref>
+|[[RealClearPolitics]]<ref>{{cite web |title=2026 Maine Senate - Collins vs. Jackson |url=https://www.realclearpolling.com/polls/senate/general/2026/collins-vs-jackson |website=[[RealClearPolitics]] |access-date=October 16, 2026}}</ref>
 |September 15 – October 14, 2026
 |October 15, 2026
 |47.3%
@@ -1456,18 +1456,18 @@ A debate featuring eight of the declared candidates, hosted by [[News Center Mai
 |{{party shading/Democratic}} |'''Jackson +1.5%'''
 |-
 |''[[Silver Bulletin]]''<ref name="Silver"/>
-|through October 11, 2026
-|October 15, 2026
-|46.7%
-|{{party shading/Democratic}} |'''49.4%'''
-|3.9%
+|through October 14, 2026
+|October 16, 2026
+|46.8%
+|{{party shading/Democratic}} |'''49.5%'''
+|3.7%
 |{{party shading/Democratic}} |'''Jackson +2.7%'''
 |-
 | colspan="3" |Average
 |47.1%
-|{{party shading/Democratic}} |'''49.2%'''
-|3.7%
-|{{party shading/Democratic}} |'''Jackson +2.1%'''
+|{{party shading/Democratic}} |'''49.3%'''
+|3.6%
+|{{party shading/Democratic}} |'''Jackson +2.2%'''
 |}
 
 {| class="wikitable" style="font-size:90%;text-align:center;"

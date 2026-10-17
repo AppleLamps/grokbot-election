@@ -1308,7 +1308,7 @@ Cassidy's stance led analysts to view him as vulnerable to a [[Trumpism|pro-Trum
 ===Fundraising===
 {| class="wikitable sortable"
 |-
-! colspan=4 |Campaign finance reports as of July 30, 2026
+! colspan=4 |Campaign finance reports as of June 30, 2026
 |- style="text-align:center;"
 !Candidate
 !Raised

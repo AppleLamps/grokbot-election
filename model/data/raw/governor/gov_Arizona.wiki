@@ -32,9 +32,8 @@
 | popular_vote3 = 
 | percentage3 = 
 -->
-| map_image = 
-| map_size = 
-| map_caption = 
+| map_image          = <!-- Please keep this map hidden until election day. {{switcher |[[File:2026 Arizona gubernatorial election results map by county.svg|220px]] |County results}}-->
+| map_caption        = 
 | title = [[Governor of Arizona|Governor]]
 | before_election = [[Katie Hobbs]]
 | before_party = Democratic Party (United States)

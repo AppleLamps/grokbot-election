@@ -511,18 +511,19 @@ A September 2026 poll conducted by Bowling Green State University found that 25%
 ! Margin<br />of error
 ! style="width:100px;"| Jon<br />Husted (R)
 ! style="width:100px;"| Sherrod<br />Brown (D)
+! style="width:100px;"| Greg<br />Levy (I)
 ! Other
 ! Undecided
 |-
-|style="text-align:left;"|[[Bowling Green State University]]/[[YouGov]]<ref>{{Cite web|url=https://scholarworks.bgsu.edu/cgi/viewcontent.cgi?article=1028&context=depo|title=Democracy and Public Policy Network Expert Analysis on October
-2026 Ohio Likely Voters Poll2026 Ohio Likely Voters Poll|first1=Robert|last1=Alexander|website=[[Bowling Green State University]]|date=October 16, 2026|access-date=October 16, 2026}}</ref>
-|September 29 - October 9, 2026
+|style="text-align:left;"|[[Bowling Green State University]]/[[YouGov]]<ref>{{Cite web|url=https://scholarworks.bgsu.edu/cgi/viewcontent.cgi?article=1028&context=depo|title=Democracy and Public Policy Network Expert Analysis on October 2026 Ohio Likely Voters Poll|first1=Robert|last1=Alexander|website=[[Bowling Green State University]]|date=October 16, 2026|access-date=October 16, 2026}}</ref><ref>{{Cite web|url=https://scholarworks.bgsu.edu/cgi/viewcontent.cgi?article=1030&context=depo|title=Survey of 1000 Ohio Likely Voters, October 2026 Toplines|first1=Robert|last1=Alexander|first2=Melissa K.|last2=Miller|first3=David J.|last3=Jackson|first4=Joshua|last4=Boston|website=[[Bowling Green State University]]|date=October 16, 2026|access-date=October 16, 2026}}</ref>
+|September 29 – October 9, 2026
 |1,000 (LV)
 |±&nbsp;4.0%
 |42%
 |{{party shading/Democratic}} |'''48%'''
-|{{TBA}}
-|{{TBA}}
+|5%
+|5%{{efn|William Redpath (L) with 3%; "Someone else" with 2%}}
+|{{sdash}}
 |-
 |rowspan="2" style="text-align:left;|co/efficient (R)<ref name="coefficient10/8">{{cite web |title=Ohio · U.S. Senate |url=https://battlegrounds.coefficient.org/oh/ |website=co/efficient |access-date=8 October 2026 |date=October 8, 2026}}</ref>
 |rowspan="2"|October 5–6, 2026
@@ -530,12 +531,14 @@ A September 2026 poll conducted by Bowling Green State University found that 25%
 |rowspan="2"|±&nbsp;3.5%
 |{{party shading/Republican}} |'''46%'''{{efn|Top two candidates only}}
 |45%
-|–
+|{{sdash}}
+|{{sdash}}
 |9%
 |-
 |{{party shading/Republican}} |'''44%'''
 |43%
-|4%{{efn|Greg Levy (I) with 3%; William Redpath (L) with 1%}}
+|3%
+|1%{{efn|William Redpath (L) with 1%}}
 |9%
 |-
 | style="text-align:left;|SSRS<ref>{{cite web |title=CNN Ohio Poll Conducted by SSRS |url=https://www.documentcloud.org/documents/28729016-cnn-ohio-poll-conducted-by-ssrs/ |work=SSRS |date=October 8, 2026 |access-date=October 8, 2026 |via=[[DocumentCloud]]}}</ref>{{efn-ua|Poll conducted for [[CNN]]}}
@@ -544,6 +547,7 @@ A September 2026 poll conducted by Bowling Green State University found that 25%
 |±&nbsp;4.5%
 |43%
 |{{party shading/Democratic}} |'''49%'''
+|{{sdash}}
 |7%{{efn|"Neither" with 5%; "Other" with 2%}}
 |1%
 |-
@@ -554,6 +558,7 @@ A September 2026 poll conducted by Bowling Green State University found that 25%
 |46%
 |{{party shading/Democratic}} |'''49%'''
 |{{sdash}}
+|{{sdash}}
 |5%
 |-
 | style="text-align:left;|[[YouGov]]<ref>{{cite web|title=Ohio General Election 2026 – Likely Voters|url=https://d3nkl3psvxxpe9.cloudfront.net/documents/ttw_oh_20260921_lv.pdf |website=[[YouGov]] |date=October 6, 2026 |access-date=October 6, 2026}}</ref>
@@ -562,6 +567,7 @@ A September 2026 poll conducted by Bowling Green State University found that 25%
 |±&nbsp;2.5%
 |45%
 |{{party shading/Democratic}} |'''49%'''
+|{{sdash}}
 |2%
 |4%
 |-
@@ -571,7 +577,8 @@ A September 2026 poll conducted by Bowling Green State University found that 25%
 |±{{nbsp}}2.8%
 |43%
 |{{party shading/Democratic}} |'''44%'''
-|6%{{efn|William Redpath (L) with 4%; Greg Levy (I) with 2%}}
+|2%
+|4%{{efn|William Redpath (L) with 4%}}
 |7%
 |-
 |rowspan="4" style="text-align:left;"|Big Data Poll (R)<ref>{{cite web |title=Buckeye State Poll: Sherrod Brown Leads Jon Husted for U.S. Senate in Ohio |url=https://www.bigdatapoll.com/blog/buckeye-state-poll-sherrod-brown-leads-jon-husted-for-us-senate-in-ohio/ |work=Big Data Poll |date=September 29, 2026 |access-date=September 29, 2026}}</ref>{{Efn-ua|Poll sponsored by the Public Polling Project}}
@@ -582,9 +589,11 @@ A September 2026 poll conducted by Bowling Green State University found that 25%
 |{{party shading/Democratic}}|'''46%'''
 |{{sdash}}
 |{{sdash}}
+|{{sdash}}
 |-
 |41%
 |{{party shading/Democratic}}|'''46%'''
+|{{sdash}}
 |8%{{efn|name="SE8"|"Someone else" with 8%}}
 |6%
 |-
@@ -593,9 +602,11 @@ A September 2026 poll conducted by Bowling Green State University found that 25%
 |{{party shading/Democratic}}|'''45%'''
 |{{sdash}}
 |{{sdash}}
+|{{sdash}}
 |-
 |40%
 |{{party shading/Democratic}}|'''44%'''
+|{{sdash}}
 |8%{{efn|name="SE8"}}
 |8%
 |-
@@ -605,6 +616,7 @@ A September 2026 poll conducted by Bowling Green State University found that 25%
 |±&nbsp;3.8%
 |43%
 |{{party shading/Democratic}}|'''51%'''
+|{{sdash}}
 |1%
 |4%
 |-
@@ -614,7 +626,8 @@ A September 2026 poll conducted by Bowling Green State University found that 25%
 |±&nbsp;4.4%
 |44%
 |{{party shading/Democratic}}|'''47%'''
-|3%{{efn|Bill Redpath (L) with 2%; Greg Levy (I) with 1%}}
+|1%
+|2%{{efn|Bill Redpath (L) with 2%}}
 |6%
 |-
 |style="text-align:left;|[[Rasmussen Reports]] (R)<ref>{{cite web |title=Election 2026: Ohio Senate |url=https://www.rasmussenreports.com/public_content/politics/elections/election_2026/election_2026_ohio_senate |website=[[Rasmussen Reports]] |date=September 25, 2026}}</ref>
@@ -623,7 +636,8 @@ A September 2026 poll conducted by Bowling Green State University found that 25%
 |±&nbsp;3.0%
 |43%
 |{{party shading/Democratic}}|'''46%'''
-|5%{{Efn|Bill Redpath (L) with 3%; Greg Levy (I) with 2%}}
+|2%
+|3%{{Efn|Bill Redpath (L) with 3%}}
 |7%
 |-
 |rowspan=2 style="text-align:left;"|Quantus Insights (R)<ref>{{Cite web |url=https://quantusinsights.org/polling/f/brown-and-husted-deadlocked-in-ohio-senate-race |title=Brown and Husted Deadlocked in Ohio Senate Race |work=Quantus Insights |date=September 24, 2026 |access-date=September 24, 2026}}</ref>
@@ -632,12 +646,14 @@ A September 2026 poll conducted by Bowling Green State University found that 25%
 |rowspan=2|±{{nbsp}}4.2%
 |'''47%'''{{efn|name=lean|With voters who lean towards a given candidate}}
 |'''47%'''
-|4%{{Efn|Greg Levy (I) with 2%; Bill Redpath (L) with 1%}}
+|2%
+|2%{{Efn|name="QuantusRedpath"|Bill Redpath (L) with 1%}}
 |2%
 |-
 |45%
 |{{party shading/Democratic}}|'''46%'''
-|4%{{Efn|Greg Levy (I) with 2%; Bill Redpath (L) with 1%}}
+|2%
+|2%{{Efn|name="QuantusRedpath"}}
 |6%
 |-
 |style="text-align:left;"|[[Trafalgar Group]] (R)<ref>{{Cite web |url=https://www.thetrafalgargroup.org/wp-content/uploads/2026/09/OH-Midterms-Full-Report-0917.pdf |title=Ohio Midterm Statewide Survey |work=[[Trafalgar Group]] |date=September 17, 2026 |access-date=September 17, 2026}}</ref>
@@ -646,6 +662,7 @@ A September 2026 poll conducted by Bowling Green State University found that 25%
 |±{{nbsp}}2.9%
 |42%
 |{{party shading/Democratic}}|'''45%'''
+|{{sdash}}
 |6%
 |6%
 |-
@@ -655,7 +672,8 @@ A September 2026 poll conducted by Bowling Green State University found that 25%
 |±&nbsp;4.0%
 |45%
 |{{party shading/Democratic}}|'''48%'''
-|7%{{efn|Greg Levy (I) with 3%; William Redpath (L) and "Someone else" with 2%}}
+|3%
+|4%{{efn|William Redpath (L) and "Someone else" with 2% each}}
 |{{sdash}}
 |-
 |style="text-align: left;" |InsiderAdvantage (R)<ref>{{Cite web |title=Top Line Tabs Ohio |url=https://insideradvantage.com/top-line-tabs-ohio/ |website=InsiderAdvantage |date=September 10, 2026 |access-date=September 10, 2026}}</ref>
@@ -664,6 +682,7 @@ A September 2026 poll conducted by Bowling Green State University found that 25%
 |±{{nbsp}}2.8%
 |42%
 | {{party shading/Democratic}} |'''47%'''
+|{{sdash}}
 |3%{{efn|name="Another3"}}
 |8%
 |-
@@ -673,6 +692,7 @@ A September 2026 poll conducted by Bowling Green State University found that 25%
 |{{sdash}}
 |46%
 |{{party shading/Democratic}}|'''52%'''
+|{{sdash}}
 |3%{{efn|name="Another3"|"Another candidate" with 3%}}
 |{{sdash}}
 |-
@@ -680,6 +700,7 @@ A September 2026 poll conducted by Bowling Green State University found that 25%
 |±&nbsp;4.4%
 |43%
 |{{party shading/Democratic}}|'''53%'''
+|{{sdash}}
 |5%{{efn|"Another candidate" with 5%}}
 |{{sdash}}
 |-
@@ -690,6 +711,7 @@ A September 2026 poll conducted by Bowling Green State University found that 25%
 |44%
 | {{party shading/Democratic}} |'''48%'''
 |{{sdash}}
+|{{sdash}}
 | 8%
 |-
 |style="text-align:left;"|Beacon Research (D)/<br />Shaw & Co. Research (R)<ref>{{Cite web|url=https://www.foxnews.com/politics/fox-news-poll-economic-anxiety-candidate-concerns-define-ohio-senate-race|title=Fox News Poll: Economic anxiety and candidate concerns define Ohio Senate race|first=Dana|last=Blanton|website=[[Fox News]]|date=August 13, 2026|access-date=August 13, 2026}}</ref>{{efn-ua|name=Fox}}
@@ -699,6 +721,7 @@ A September 2026 poll conducted by Bowling Green State University found that 25%
 |45%
 |{{party shading/Democratic}}|'''53%'''
 |{{sdash}}
+|{{sdash}}
 |2%
 |-
 |style="text-align:left;"|Tulchin Research (D)<ref>{{cite web|url=https://www.documentcloud.org/documents/28549388-oh-sen-gov-ag-tulchin-research-for-john-kulewicz/|title=John Kulewicz Leads Keith Faber in Race for Ohio Attorney General|first=Ben|last=Krompak|work=Tulchin Research|date=August 10, 2026|access-date=August 12, 2026|via=[[DocumentCloud]]}}</ref>{{efn-ua|name=JK}}
@@ -707,7 +730,8 @@ A September 2026 poll conducted by Bowling Green State University found that 25%
 |±&nbsp;4.0%
 |43%
 |{{party shading/Democratic}}|'''47%'''
-|4%{{efn|William Redpath (L) and Greg Levy (I) with 2%}}
+|2%
+|2%{{efn|William Redpath (L) with 2%}}
 |6%
 |-
 | style="text-align:left;|''[[New York Times]]''/[[Siena University (New York)|Siena University]]<ref>{{cite web|title=Toplines: June 2026 Times/Siena Polls of Likely Voters in Battleground Senate Races|url=https://www.nytimes.com/interactive/2026/07/01/polls/times-siena-battleground-poll-toplines.html |website=[[New York Times]] |date=June 30, 2026 |access-date=July 1, 2026}}</ref>
@@ -717,6 +741,7 @@ A September 2026 poll conducted by Bowling Green State University found that 25%
 |{{party shading/Republican}}|'''50%'''
 |47%
 |{{sdash}}
+|{{sdash}}
 |3%
 |-
 |style="text-align:left;"|Fabrizio Ward (R)/<br />Impact Research (D)<ref>{{cite news |title=New AARP Ohio Poll: 50+ Voters Key in Tight Senate, Governor Races |url=https://www.aarp.org/press/releases/2026-06-25-ohio-poll-50-voters-key-tight-senate-governor-races/|website=[[AARP]]|date=25 June 2026|access-date=25 June 2026}}</ref>{{efn-ua|name=AARP|Poll conducted for ''[[AARP]]''}}
@@ -725,6 +750,7 @@ A September 2026 poll conducted by Bowling Green State University found that 25%
 |±&nbsp;3.5%
 |45%
 |{{party shading/Democratic}}|'''48%'''
+|{{sdash}}
 |1%{{efn|name="SE1"|"Someone else" with 1%}}
 |7%
 |-
@@ -734,6 +760,7 @@ A September 2026 poll conducted by Bowling Green State University found that 25%
 |±&nbsp;4.0%
 |42%
 |{{party shading/Democratic}}|'''46%'''
+|{{sdash}}
 |4%{{efn|William Redpath (L) with 4%}}
 |7%
 |-
@@ -744,12 +771,13 @@ A September 2026 poll conducted by Bowling Green State University found that 25%
 |45%
 |{{party shading/Democratic}}|'''53%'''
 |{{sdash}}
+|{{sdash}}
 |2%
 |-
 |- style="background:lightyellow;"
 | style="border-right-style:hidden; background:lightyellow;" |
 | style="border-right-style:hidden; " |May 5, 2026
-| colspan="6" | Primary elections are held 
+| colspan="7" | Primary elections are held
 |-
 |style="text-align:left;"|[[Bowling Green State University]]/[[YouGov]]<ref>{{Cite web|url=https://scholarworks.bgsu.edu/cgi/viewcontent.cgi?article=1021&context=depo|title=Survey of 1000 Ohio Registered Voters, April 2026 Toplines|first1=Robert|last1=Alexander|first2=Melissa K.|last2=Miller|first3=David|last3= Jackson|first4=Joshua|last4=Boston|website=[[Bowling Green State University]]|date=April 20, 2026|access-date=April 20, 2026}}</ref>
 |April 7–14, 2026
@@ -757,6 +785,7 @@ A September 2026 poll conducted by Bowling Green State University found that 25%
 |±&nbsp;4.5%
 |{{party shading/Republican}}|'''50%'''
 |47%
+|{{sdash}}
 |3%{{efn|name="SE3"}}
 |{{sdash}}
 |-
@@ -767,6 +796,7 @@ A September 2026 poll conducted by Bowling Green State University found that 25%
 |{{party shading/Republican}}|'''51%'''
 |45%
 |{{sdash}}
+|{{sdash}}
 |4%
 |-
 | style="text-align: left;"|Quantus Insights (R)<ref>{{Cite web|url=https://quantusinsights.org/f/quantus-insights-ohio-voters-signal-competitive-2026-environment|title=Quantus Insights: Ohio Voters Signal Competitive 2026 Environment|website=Quantus Insights|date=March 16, 2026|access-date=March 16, 2026}}</ref>
@@ -775,6 +805,7 @@ A September 2026 poll conducted by Bowling Green State University found that 25%
 |±&nbsp;3.8%
 |{{party shading/Republican}}|'''46%'''
 |44%
+|{{sdash}}
 |4%{{efn|"Some other candidate" with 4%}}
 |6%
 |-
@@ -785,6 +816,7 @@ A September 2026 poll conducted by Bowling Green State University found that 25%
 |45%
 |{{party shading/Democratic}}|'''47%'''
 |{{sdash}}
+|{{sdash}}
 |8%
 |-
 | style="text-align:left;"|EMC Research (D)<ref>{{cite web |title=Ohio Voter Survey Results|url=https://theoec.org/wp-content/uploads/2026/03/OEC-Ohio-Survey-Results-2026.pdf|access-date=March 12, 2026|work=EMC Research|date=March 10, 2026}}</ref>{{efn-ua|Polling commissioned by [[Ohio Environmental Council]], an environmental organization}}
@@ -793,6 +825,7 @@ A September 2026 poll conducted by Bowling Green State University found that 25%
 |±&nbsp;2.7%
 |47%
 |{{party shading/Democratic}}|'''51%'''
+|{{sdash}}
 |{{sdash}}
 |2%
 |-
@@ -803,6 +836,7 @@ A September 2026 poll conducted by Bowling Green State University found that 25%
 |{{party shading/Republican}}|'''49%'''
 |46%
 |{{sdash}}
+|{{sdash}}
 |5%
 |-
 |style="text-align:left;"|[[Bowling Green State University]]/[[YouGov]]<ref>{{Cite web|url=https://www.bgsu.edu/arts-and-sciences/democracy-and-public-policy-research-network/bgsu-poll.html|title=October 2025 Poll Results|website=BGSU Poll|date=October 19, 2025|access-date=October 19, 2025}}</ref>
@@ -811,6 +845,7 @@ A September 2026 poll conducted by Bowling Green State University found that 25%
 |±&nbsp;4.5%
 |48%
 |{{party shading/Democratic}}|'''49%'''
+|{{sdash}}
 |3%{{efn|name="SE3"|"Someone else" with 3%}}
 |{{sdash}}
 |-
@@ -821,6 +856,7 @@ A September 2026 poll conducted by Bowling Green State University found that 25%
 |45%
 |{{party shading/Democratic}}|'''48%'''
 |{{sdash}}
+|{{sdash}}
 |7%
 |-
 |style="text-align:left;"|[[Emerson College]]<ref>{{Cite web|url=https://emersoncollegepolling.com/ohio-2026/|title=Ohio 2026 Poll: Senator Husted Starts Matchup with Six-point Lead Over Sherrod Brown|website=Emerson College Polling|date=August 21, 2025|access-date=August 21, 2025}}</ref>
@@ -829,6 +865,7 @@ A September 2026 poll conducted by Bowling Green State University found that 25%
 |±&nbsp;3%
 |{{party shading/Republican}}|'''50%'''
 |44%
+|{{sdash}}
 |{{sdash}}
 |7%
 |-
@@ -839,6 +876,7 @@ A September 2026 poll conducted by Bowling Green State University found that 25%
 |±&nbsp;4.1%
 |{{party shading/Republican}}|'''49%'''
 |46%
+|{{sdash}}
 |5%{{efn|"Someone else" with 5%}}
 |{{sdash}}
 |-
@@ -848,6 +886,7 @@ A September 2026 poll conducted by Bowling Green State University found that 25%
 |±&nbsp;4.0%
 |{{party shading/Republican}}|'''47%'''
 |41%
+|{{sdash}}
 |{{sdash}}
 |12%
 |}

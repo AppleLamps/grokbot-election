@@ -276,13 +276,14 @@ Democrats have not won a Senate election in Mississippi since [[1982 United Stat
 *[[Barack Obama]], former [[president of the United States]] (2009–2017)<ref>{{Cite web|url=https://www.semafor.com/article/10/11/2026/obama-cuts-ad-in-mississippi-senate-race|title=Obama cuts ad in Mississippi Senate race|last=Everett|first=Burgess|date=October 12, 2026|access-date=October 12, 2026|website=[[Semafor (website)|Semafor]]}}</ref>
 ;U.S. senators
 *[[Angela Alsobrooks]], [[Maryland]] (2025–present)<ref>{{cite news |last1=Vance |first1=Taylor |title=Maryland Sen. Alsobrooks campaigns for Scott Colom in Jackson, focuses on healthcare |url=https://mississippitoday.org/2026/08/01/scott-colom-angela-alsobrooks-senate/ |access-date=August 11, 2026 |work=[[Mississippi Today]] |date=August 1, 2026}}</ref>
-*[[Raphael Warnock]], [[Georgia (U.S. state)|Georgia]] (2025–present)<ref>{{Cite web |date=2026-10-14 |title=Warnock: Colom can flip Senate seat blue |url=https://mississippitoday.org/2026/10/14/sen-raphael-warnock-says-scott-colom-could-flip-senate-seat-democratic-like-his-georgia-upset/ |access-date=2026-10-15 |website=Mississippi Today |language=en-US}}</ref>
+*[[Cory Booker]], [[New Jersey (U.S. state)|New Jersey]] (2013–present)<ref>{{Cite web |last1=Vance |first1=Taylor |last2=Goldberg |first2=Michael |date=2026-10-13 |title=Warnock: Colom can flip Senate seat blue|url=https://mississippitoday.org/2026/10/14/sen-raphael-warnock-says-scott-colom-could-flip-senate-seat-democratic-like-his-georgia-upset/ |access-date=2026-10-16 |work=[[Mississippi Free Press]]}}</ref>
+*[[Raphael Warnock]], [[Georgia (U.S. state)|Georgia]] (2021–present)<ref>{{Cite web |last1=Schafer |first1=Amy  |date=2026-10-14 |title=Cory Booker Joins Scott Colom to Mobilize Voters as Democrats Eye Mississippi’s Senate Race |url=https://www.mississippifreepress.org/cory-booker-joins-scott-colom-to-mobilize-voters-as-democrats-eye-mississippis-senate-race/ |access-date=2026-10-15 |work=[[Mississippi Today]]}}</ref>
 }}
 
 ===Fundraising===
 {| class="wikitable sortable"
 |-
-! colspan=4 |Campaign finance reports as of June 30, 2026
+! colspan=4 |Campaign finance reports as of September 30, 2026
 |- style="text-align:center;"
 !Candidate
 !Raised
@@ -290,21 +291,21 @@ Democrats have not won a Senate election in Mississippi since [[1982 United Stat
 !Cash on hand
 |-
 |{{party shading/Republican}}| Cindy Hyde-Smith (R)
-|$5,458,311
-|$3,083,958
-|$2,535,895
+|$6,145,797
+|$3,882,055
+|$2,425,284
 |-
 |{{party shading/Democratic}}| Scott Colom (D)
-|$2,384,921
-|$1,537,875
-|$847,045
+|$3,926,796
+|$2,934,688
+|$991,802
 |-
 |{{party shading/Independent}}| Ty Pinkins (I)
-|$98,038
-|$98,301
-|$5,352
+|$104,310
+|$105,063
+|$4,862
 |-
-! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC">{{cite web |title=2026 Election United States Senate - Mississippi |url=https://www.fec.gov/data/elections/senate/MS/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=August 4, 2024}}</ref></small>
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC">{{cite web |title=2026 Election United States Senate - Mississippi |url=https://www.fec.gov/data/elections/senate/MS/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=October 16, 2024}}</ref></small>
 |}
 
 ===Polling===

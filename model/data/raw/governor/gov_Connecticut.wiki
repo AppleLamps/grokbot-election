@@ -10,7 +10,7 @@
 | election_date = {{Start date|2026|11|4}}
 | next_election = 2030 Connecticut gubernatorial election
 | next_year = 2030
-| image1 = File:Governor Ned Lamont of Connecticut, official portrait (cropped).jpg
+| image1 = File:Ned Lamont, 2026 (cropped).jpg
 | image_size = 150x150px
 | nominee1 = [[Ned Lamont]]
 | party1 = Democratic Party (United States)
@@ -475,7 +475,7 @@ In the following months before the convention, [[Erin Stewart]], the former mayo
 |{{sdash}}
 |11%
 |-
-|style="text-align:left;"|[[Quinnipiac University Polling Institute]]<ref>{{cite web |title=CT Governor's Race: Lamont 58%, Fazio 38% In The Final Stretch, Quinnipiac University Connecticut Poll Finds; Fazio Still Unknown To 3 In 10 Likely Voters |url=https://poll.qu.edu/poll-release?releaseid=3971 |publisher=[[Quinnipiac University Polling Institute]] |access-date=October 14, 2026 |date=October 14, 2026}}</ref>
+|style="text-align:left;"|[[Quinnipiac University Polling Institute|Quinnipiac University]]<ref>{{cite web |title=CT Governor's Race: Lamont 58%, Fazio 38% In The Final Stretch, Quinnipiac University Connecticut Poll Finds; Fazio Still Unknown To 3 In 10 Likely Voters |url=https://poll.qu.edu/poll-release?releaseid=3971 |publisher=[[Quinnipiac University Polling Institute]] |access-date=October 14, 2026 |date=October 14, 2026}}</ref>
 |October 8–12, 2026
 |1,225 (LV)
 |±&nbsp;3.8%
@@ -502,7 +502,7 @@ In the following months before the convention, [[Erin Stewart]], the former mayo
 |{{sdash}}
 |11%
 |-
-|style="text-align:left;"|[[Quinnipiac University Polling Institute]]<ref>{{cite web |title=CT Governor's Race: Lamont Holds 17-Point Lead Over Fazio, Quinnipiac University Connecticut Poll Finds; Lamont Ahead On Cost Of Living And Economy |url=https://poll.qu.edu/poll-release?releaseid=3966 |publisher=[[Quinnipiac University Polling Institute]] |access-date=September 16, 2026 |date=September 16, 2026}}</ref>
+|style="text-align:left;"|[[Quinnipiac University Polling Institute|Quinnipiac University]]<ref>{{cite web |title=CT Governor's Race: Lamont Holds 17-Point Lead Over Fazio, Quinnipiac University Connecticut Poll Finds; Lamont Ahead On Cost Of Living And Economy |url=https://poll.qu.edu/poll-release?releaseid=3966 |publisher=[[Quinnipiac University Polling Institute]] |access-date=September 16, 2026 |date=September 16, 2026}}</ref>
 |September 8–14, 2026
 |1,288 (LV)
 |±&nbsp;3.8%
@@ -597,6 +597,58 @@ In the following months before the convention, [[Erin Stewart]], the former mayo
 |8%
 |}
 {{hidden end}}
+
+===Results===
+{{Election box begin
+| title = 2026 Connecticut gubernatorial election}}
+{{Election box candidate with party link
+| candidate = {{ubl|''Ned Lamont''|''Susan Bysiewicz''}}
+| party = Democratic Party (United States)
+| votes = 
+| percentage =
+| change = 
+}}
+{{Election box candidate with party link
+| candidate = {{ubl|''Ned Lamont''|''Susan Bysiewicz''}}
+| party = Connecticut Working Families Party
+| votes = 
+| percentage = 
+| change = 
+}}
+{{Election box candidate
+| candidate = {{ubl|[[Ned Lamont]] (incumbent)|[[Susan Bysiewicz]] (incumbent)}}
+| party = Total
+| votes = 
+| percentage = 
+| change = 
+}}
+{{Election box candidate with party link
+| candidate = {{ubl|''Ryan Fazio''|''Matt Corey''}}
+| party = Republican Party (United States)
+| votes = 
+| percentage =
+| change = 
+}}
+{{Election box candidate with party link
+| candidate = {{ubl|''Ryan Fazio''|''Matt Corey''}}
+| party = Independent Party of Connecticut 
+| votes = 
+| percentage = 
+| change = 
+}}
+{{Election box candidate
+| candidate = {{ubl|[[Ryan Fazio]]|Matt Corey}}
+| party = Total
+| votes = 
+| percentage = 
+| change = 
+}}
+{{Election box total
+| votes = 
+| percentage = 100.0
+| change = 
+}}
+{{Election box end}}
 
 == See also ==
 *[[2026 United States elections]]

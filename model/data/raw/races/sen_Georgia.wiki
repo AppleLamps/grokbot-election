@@ -842,7 +842,7 @@ As one of only two seats up held by a Democrat in a state that voted for Trump i
 ===Fundraising===
 {| class="wikitable sortable"
 |-
-! colspan=4 |Campaign finance reports as of June 30, 2026
+! colspan=4 |Campaign finance reports as of September 30, 2026
 |- style="text-align:center;"
 !Candidate
 !Raised
@@ -850,16 +850,16 @@ As one of only two seats up held by a Democrat in a state that voted for Trump i
 !Cash on hand
 |-
 |{{party shading/Democratic}}| Jon Ossoff (D)
-|$97,986,263
-|$59,730,546
-|$42,587,451
+|$124,720,145
+|$104,199,204
+|$26,269,062
 |-
 |{{party shading/Republican}}|Mike Collins (R)
-|$7,409,350
-|$5,932,539
-|$2,079,981
+|$10,249,716
+|$9,693,572
+|$1,159,314
 |-
-! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC">{{cite web |title=2026 Election United States Senate - Georgia |url=https://www.fec.gov/data/elections/senate/GA/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=May 24, 2026}}</ref></small>
+! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC">{{cite web |title=2026 Election United States Senate - Georgia |url=https://www.fec.gov/data/elections/senate/GA/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=October 16, 2026}}</ref></small>
 |}
 
 ===Polling===

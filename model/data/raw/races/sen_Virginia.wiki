@@ -357,7 +357,7 @@ Two proposed debates were canceled, with the Warner campaign's noncommittal stan
 ===Fundraising===
 {| class="wikitable sortable"
 |-
-! colspan=4 |Campaign finance reports as of July 15, 2026
+! colspan=4 |Campaign finance reports as of September 30, 2026
 |- style="text-align:center;"
 !Candidate
 !Raised
@@ -365,16 +365,16 @@ Two proposed debates were canceled, with the Warner campaign's noncommittal stan
 !Cash on hand
 |-
 |{{party shading/Democratic}}|Mark Warner (D)
-|$25,160,577
-|$9,434,262
-|$16,114,725
+|$27,174,896
+|$20,030,247
+|$7,533,059
 |-
 |{{party shading/Republican}}|Bert Mizusawa (R)
-|$376,213
-|$323,248
-|$52,964
+|$1,034,543
+|$805,376
+|$229,502
 |-
-!colspan="4"|<small>Source: [[Federal Election Commission]]<ref name="FEC">{{cite web|title=2026 Election United States Senate - Virginia|url=https://www.fec.gov/data/elections/senate/VA/2026/|publisher=[[Federal Election Commission]]|access-date=August 5, 2026}}</ref></small>
+!colspan="4"|<small>Source: [[Federal Election Commission]]<ref name="FEC">{{cite web|title=2026 Election United States Senate - Virginia|url=https://www.fec.gov/data/elections/senate/VA/2026/|publisher=[[Federal Election Commission]]|access-date=October 16, 2026}}</ref></small>
 |}
 
 ===Post-primary endorsements===
