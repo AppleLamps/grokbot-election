@@ -2982,18 +2982,18 @@ Talarico has considerably outraised Paxton throughout the campaign. Due to the h
 !Cash on hand
 |-
 |{{party shading/Republican}}|Ken Paxton (R)
-|$19,489,694
-|$14,564,589
+|$19,497,809
+|$14,572,704
 |$4,925,105
 |-
 |{{party shading/Democratic}}|James Talarico (D)
-|$122,837,181
+|$128,772,835
 |$114,178,603
 |$14,594,231
 |-
 |{{party shading/Libertarian}}|Ted Brown (L)
-|$26,661
-|$23,712
+|$12,667
+|$9,787
 |$2,948
 |-
 ! colspan="4" |<small>Source: [[Federal Election Commission]]<ref>{{cite web |title=2026 Election United States Senate – Texas |url=https://www.fec.gov/data/elections/senate/TX/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=October 16, 2026}}</ref></small>
@@ -3031,13 +3031,13 @@ Talarico has considerably outraised Paxton throughout the campaign. Due to the h
 |5.5%
 |{{party shading/Democratic}}|'''Talarico +2.3%'''
 |-
-|[[FiftyPlusOne]]<ref>{{Cite web |title=Texas General Senate Election |url=https://fiftyplusone.news/polls/senate/general/texas |website=[[FiftyPlusOne]] |access-date=October 16, 2026}}</ref>
+|[[FiftyPlusOne]]<ref>{{Cite web |title=Texas General Senate Election |url=https://fiftyplusone.news/polls/senate/general/texas |website=[[FiftyPlusOne]] |access-date=October 17, 2026}}</ref>
 |through October 14, 2026
-|October 16, 2026
+|October 17, 2026
 |45.5%
-|{{party shading/Democratic}} |'''48.4%'''
+|{{party shading/Democratic}} |'''48.5%'''
 |6.1%
-|{{party shading/Democratic}} |'''Talarico +2.9%'''
+|{{party shading/Democratic}} |'''Talarico +3.0%'''
 |-
 |[[RealClearPolitics]]<ref name="RCP19may">{{cite web |title=2026 Texas Senate - Paxton vs. Talarico |url=https://www.realclearpolling.com/polls/senate/general/2026/texas/talarico-vs-paxton |access-date=October 16, 2026 |website=[[RealClearPolitics]]}}</ref>
 |September 24 – October 14, 2026

@@ -40,13 +40,13 @@ The following are the latest published ratings for competitive seats.
 ![[Stuart Rothenberg|IE]]<br>{{small|Oct. 15,<br>2026}}<ref>{{cite web |title=2026 House Ratings |url=https://insideelections.com/ratings/house |publisher=Inside elections |access-date=December 6, 2025 |language=en}}</ref>
 ![[Sabato's Crystal Ball|Sabato]]<br>{{small|Oct. 8,<br>2026}}<ref name=":0">{{cite web |title=2026 House Ratings |url=https://centerforpolitics.org/crystalball/2026-house/ |website=Sabato's Crystal Ball |access-date=December 10, 2025}}</ref>
 ![[The Economist|Econ.]]<br>{{small|Oct. 7,<br>2026}}<ref>{{cite web |title=US Midterms 2026 |url=https://www.economist.com/interactive/2026/us-midterms/prediction-model/house?itm_source=parsely-api |access-date=October 7, 2026 |website=[[The Economist]] |language=en-US}}</ref>{{efn|This forecast uses the terms "Likely" and "Very Likely" the same way the other forecasts use the terms "Lean" and "Likely". To avoid confusion, and for the purposes of equivalency, the terms "Likely" and "Very Likely" will be changed to "Lean" and "Likely" for the purposes of this page. Also, "tossup" is labeled "uncertain", but for the purposes of this page, it will be labelled "tossup".}}
-![[Split Ticket (website)|ST]]<br />{{small|Oct. 8,<br/>2026}}<ref>{{cite web |title=Split Ticket 2026 Midterms Model |url=https://www.theargumentmag.com/p/split-ticket-2026-midterms-model |website=www.theargumentmag.com |publisher=The Argument |access-date=October 8, 2026 |language=en}}</ref>
-![[Decision Desk HQ|DDHQ]]<br />{{small|Oct. 14,<br/>2026}}<ref>{{cite web |title=2026 House Ratings|url=https://votes.decisiondeskhq.com/forecast/2026/house |website=votes.decisiondeskhq.com |publisher=[[Decision Desk HQ]]|access-date=October 14, 2026 |language=en}}
+![[Split Ticket (website)|ST]]<br />{{small|Oct. 17,<br/>2026}}<ref>{{cite web |title=Split Ticket 2026 Midterms Model |url=https://www.theargumentmag.com/p/split-ticket-2026-midterms-model |website=www.theargumentmag.com |publisher=The Argument |access-date=October 17, 2026 |language=en}}</ref>
+![[Decision Desk HQ|DDHQ]]<br />{{small|Oct. 17,<br/>2026}}<ref>{{cite web |title=2026 House Ratings|url=https://votes.decisiondeskhq.com/forecast/2026/house |website=votes.decisiondeskhq.com |publisher=[[Decision Desk HQ]]|access-date=October 17, 2026 |language=en}}
 </ref>
-![[FiftyPlusOne|FPO]]<br />{{Small|Oct. 14,<br />2026}}<ref>{{Cite web |title=2026 Congressional Forecast |url=https://fiftyplusone.news/forecast/house/ |access-date=October 14, 2026 |website=FiftyPlusOne|language=en}}</ref>
+![[FiftyPlusOne|FPO]]<br />{{Small|Oct. 17,<br />2026}}<ref>{{Cite web |title=2026 Congressional Forecast |url=https://fiftyplusone.news/forecast/house/ |access-date=October 17, 2026 |website=FiftyPlusOne|language=en}}</ref>
 ![[Fox News|Fox]]<br />{{Small|Oct. 13,<br />2026}}<ref>{{Cite web |last=Numa |first=Rémy |date=2026-10-13 |title=Fox News Power Rankings: As the House falls, the Senate stays in play |url=https://www.foxnews.com/politics/fox-news-power-rankings-house-falls-senate-stays-play |access-date=2026-10-13 |website=Fox News |publisher=Fox News |language=en-US}}</ref>
 ![[Silver Bulletin|Silver]]<br />{{Small|Sep. 10,<br />2026}}<ref>{{Cite web |last=Silver |first=Nate |date=2026-08-18 |title=FLIPR 2026 midterm election forecast |url=https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model |access-date=2026-08-19 |website=www.natesilver.net |language=en}}</ref>
-![[Real Clear Politics|RCP]]<br />{{Small|Oct. 7,<br />2026}}<ref>{{Cite web |date=2026-10-07 |title=Battle for the House 2026 |url=https://www.realclearpolling.com/maps/house/2026/toss-up}}</ref>
+![[Real Clear Politics|RCP]]<br />{{Small|Oct. 17,<br />2026}}<ref>{{Cite web |date=2026-10-17 |title=Battle for the House 2026 |url=https://www.realclearpolling.com/maps/house/2026/toss-up}}</ref>
 |-
 !{{ushr|AL|2|X}}
 |{{shading PVI|R|7}}
@@ -58,7 +58,7 @@ The following are the latest published ratings for competitive seats.
 |{{USRaceRating|Likely|R|Flip}}
 |{{USRaceRating|Tossup}}
 |{{USRaceRating|Likely|R|Flip}}
-|{{USRaceRating|Lean|R|Flip}}
+|{{USRaceRating|Tossup}}
 |{{USRaceRating|Likely|R|Flip}}
 |{{USRaceRating|Likely|R|Flip}}
 |{{USRaceRating|Lean|R|Flip}}
@@ -313,7 +313,7 @@ The following are the latest published ratings for competitive seats.
 |{{USRaceRating|Lean|R}}
 |{{USRaceRating|Lean|R}}
 |{{USRaceRating|Likely|R}}
-|{{USRaceRating|Tossup}}
+|{{USRaceRating|Lean|D|Flip}}
 |{{USRaceRating|Lean|R}}
 |{{USRaceRating|Lean|R}}
 |{{USRaceRating|Lean|R}}
@@ -566,7 +566,7 @@ The following are the latest published ratings for competitive seats.
 |{{USRaceRating|Tilt|R|Flip}}
 |{{USRaceRating|Tossup}}
 |{{USRaceRating|Tossup}}
-|{{USRaceRating|Lean|R|Flip}}
+|{{USRaceRating|Tossup}}
 |{{USRaceRating|Tossup}}
 |{{USRaceRating|Lean|D}}
 |{{USRaceRating|Tossup}}
@@ -643,7 +643,7 @@ The following are the latest published ratings for competitive seats.
 |{{USRaceRating|Safe|R}}
 |{{USRaceRating|Safe|R}}
 |{{USRaceRating|Likely|R}}
-|{{USRaceRating|Safe|R}}
+|{{USRaceRating|Likely|R}}
 |{{USRaceRating|Solid|R}}
 |{{USRaceRating|Solid|R}}
 |{{USRaceRating|Solid|R}}
@@ -821,9 +821,9 @@ The following are the latest published ratings for competitive seats.
 |{{USRaceRating|Tilt|R}}
 |{{USRaceRating|Lean|R}}
 |{{USRaceRating|Tossup}}
+|{{USRaceRating|Tossup}}
 |{{USRaceRating|Lean|R}}
-|{{USRaceRating|Lean|R}}
-|{{USRaceRating|Lean|R}}
+|{{USRaceRating|Tossup}}
 |{{USRaceRating|Lean|R}}
 |{{USRaceRating|Likely|R}}
 |{{USRaceRating|Lean|R}}
@@ -837,7 +837,7 @@ The following are the latest published ratings for competitive seats.
 |{{USRaceRating|Lean|R|Flip}}
 |{{USRaceRating|Tossup}}
 |{{USRaceRating|Lean|R|Flip}}
-|{{USRaceRating|Lean|R|Flip}}
+|{{USRaceRating|Tossup}}
 |{{USRaceRating|Lean|D}}
 |{{USRaceRating|Tossup}}
 |{{USRaceRating|Lean|R|Flip}}
@@ -852,7 +852,7 @@ The following are the latest published ratings for competitive seats.
 |{{USRaceRating|Safe|R}}
 |{{USRaceRating|Safe|R}}
 |{{USRaceRating|Safe|R}}
-|{{USRaceRating|Safe|R}}
+|{{USRaceRating|Likely|R}}
 |{{USRaceRating|Likely|R}}
 |{{USRaceRating|Solid|R}}
 |{{USRaceRating|Solid|R}}
@@ -912,7 +912,7 @@ The following are the latest published ratings for competitive seats.
 |{{USRaceRating|Tossup}}
 |{{USRaceRating|Tossup}}
 |{{USRaceRating|Lean|D|Flip}}
-|{{USRaceRating|Lean|D|Flip}}
+|{{USRaceRating|Likely|D|Flip}}
 |{{USRaceRating|Likely|D|Flip}}
 |{{USRaceRating|Tossup}}
 |{{USRaceRating|Lean|D|Flip}}
@@ -958,7 +958,7 @@ The following are the latest published ratings for competitive seats.
 |{{USRaceRating|Lean|R}}
 |{{USRaceRating|Likely|R}}
 |{{USRaceRating|Lean|R}}
-|{{USRaceRating|Lean|R}}
+|{{USRaceRating|Tossup}}
 |{{USRaceRating|Likely|R}}
 |{{USRaceRating|Lean|R}}
 |{{USRaceRating|Lean|R}}
@@ -1006,7 +1006,7 @@ The following are the latest published ratings for competitive seats.
 |{{USRaceRating|Tossup}}
 |{{USRaceRating|Lean|R}}
 |{{USRaceRating|Likely|R}}
-|{{USRaceRating|Lean|R}}
+|{{USRaceRating|Tossup}}
 |-
 !{{ushr|MT|1|X}}
 |{{Shading PVI|R|5}}
@@ -1301,12 +1301,27 @@ The following are the latest published ratings for competitive seats.
 |{{USRaceRating|Lean|R}}
 |{{USRaceRating|Likely|R}}
 |{{USRaceRating|Lean|R}}
+|{{USRaceRating|Likely|R}}
+|{{USRaceRating|Likely|R}}
+|{{USRaceRating|Likely|R}}
+|{{USRaceRating|Likely|R}}
+|{{USRaceRating|Likely|R}}
+|{{USRaceRating|Likely|R}}
+|-
+!{{ushr|NY|23|X}}
+|{{Shading PVI|R|10}}
+| {{Party shading/Republican}} |{{sortname|Nick|Langworthy}}
+| {{Party shading/Republican}} data-sort-value="65.8" |65.8% R
+|{{USRaceRating|Solid|R}}
+|{{USRaceRating|Solid|R}}
+|{{USRaceRating|Safe|R}}
+|{{USRaceRating|Safe|R}}
 |{{USRaceRating|Safe|R}}
 |{{USRaceRating|Likely|R}}
-|{{USRaceRating|Likely|R}}
-|{{USRaceRating|Likely|R}}
-|{{USRaceRating|Likely|R}}
-|{{USRaceRating|Likely|R}}
+|{{USRaceRating|Safe|R}}
+|{{USRaceRating|Solid|R}}
+|{{USRaceRating|Solid|R}}
+|{{USRaceRating|Solid|R}}
 |-
 !{{ushr|NC|1|X}}
 |{{Shading PVI|R|5}}
@@ -1423,7 +1438,7 @@ The following are the latest published ratings for competitive seats.
 |{{USRaceRating|Safe|R}}
 |{{USRaceRating|Safe|R}}
 |{{USRaceRating|Likely|R}}
-|{{USRaceRating|Safe|R}}
+|{{USRaceRating|Likely|R}}
 |{{USRaceRating|Solid|R}}
 |{{USRaceRating|Solid|R}}
 |{{USRaceRating|Solid|R}}
@@ -1587,7 +1602,7 @@ The following are the latest published ratings for competitive seats.
 |{{USRaceRating|Safe|R}}
 |{{USRaceRating|Likely|R}}
 |{{USRaceRating|Safe|R}}
-|{{USRaceRating|Safe|R}}
+|{{USRaceRating|Likely|R}}
 |{{USRaceRating|Safe|R}}
 |{{USRaceRating|Solid|R}}
 |{{USRaceRating|Solid|R}}
@@ -1647,7 +1662,7 @@ The following are the latest published ratings for competitive seats.
 |{{USRaceRating|Lean|D|Flip}}
 |{{USRaceRating|Lean|D|Flip}}
 |{{USRaceRating|Likely|D|Flip}}
-|{{USRaceRating|Lean|D|Flip}}
+|{{USRaceRating|Likely|D|Flip}}
 |{{USRaceRating|Likely|D|Flip}}
 |{{USRaceRating|Lean|D|Flip}}
 |{{USRaceRating|Lean|D|Flip}}
@@ -1953,6 +1968,21 @@ The following are the latest published ratings for competitive seats.
 |{{USRaceRating|Lean|D}}
 |{{USRaceRating|Lean|D}}
 |-
+!{{ushr|TX|31|X}}
+|{{Shading PVI|R|11}}
+| {{Party shading/Republican}} |{{sortname|John|Carter|dab=Texas politician}}
+| {{Party shading/Republican}} data-sort-value="64.5" |64.5% R
+|{{USRaceRating|Solid|R}}
+|{{USRaceRating|Solid|R}}
+|{{USRaceRating|Safe|R}}
+|{{USRaceRating|Safe|R}}
+|{{USRaceRating|Safe|R}}
+|{{USRaceRating|Likely|R}}
+|{{USRaceRating|Safe|R}}
+|{{USRaceRating|Solid|R}}
+|{{USRaceRating|Solid|R}}
+|{{USRaceRating|Solid|R}}
+|-
 !{{ushr|TX|32|X}}
 |{{Shading PVI|R|8}}
 | {{party shading/Vacant}} |New seat
@@ -2052,7 +2082,7 @@ The following are the latest published ratings for competitive seats.
 |{{USRaceRating|Lean|R}}
 |{{USRaceRating|Likely|R}}
 |{{USRaceRating|Likely|R}}
-|{{USRaceRating|Likely|R}}
+|{{USRaceRating|Lean|R}}
 |{{USRaceRating|Lean|R}}
 |{{USRaceRating|Lean|R}}
 |{{USRaceRating|Lean|R}}
@@ -2112,7 +2142,7 @@ The following are the latest published ratings for competitive seats.
 |{{USRaceRating|Safe|R}}
 |{{USRaceRating|Safe|R}}
 |{{USRaceRating|Safe|R}}
-|{{USRaceRating|Likely|R}}
+|{{USRaceRating|Safe|R}}
 |{{USRaceRating|Lean|R}}
 |{{USRaceRating|Solid|R}}
 |{{USRaceRating|Likely|R}}

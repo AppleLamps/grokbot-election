@@ -199,6 +199,17 @@ In [[2024 New Hampshire gubernatorial election|2024]], [[Kelly Ayotte]] won the 
 ==General election==
 ===Post-primary endorsements===
 {{Endorsements box
+|title=Kelly Ayotte (R)
+|list=
+;Individuals
+*[[Don Bolduc]], retired [[United States Army|Army]] [[brigadier general]] and nominee for [[United States Senate|senate]] in [[2022 United States Senate election in New Hampshire|2022]]<ref name="Bolduc">{{cite web |last1=Don |first1=Bolduc |title=Donald C. Bolduc: For the good of the nation, look beyond party lines this election |url=https://www.unionleader.com/opinion/op-eds/donald-c-bolduc-choose-candidates-over-party-4fed6f18 |website=[[New Hampshire Union Leader]] |access-date=17 October 2026 |date=October 17, 2026}}</ref>
+
+;Organizations
+*[[Humane World for Animals|Humane World Action Fund]]<ref name="HWAF">{{cite web |title=Humane World Action Fund endorses Kelly Ayotte for Governor of New Hampshire |url=https://humaneaction.org/press-release/2026/10/humane-world-action-fund-endorses-kelly-ayotte-governor-new-hampshire |website=[[Humane World for Animals|Humane World Action Fund]] |access-date=17 October 2026 |date=October 13, 2026}}</ref>
+*[[National Federation of Independent Business]]<ref name="NFIB">{{cite web |title=New Hampshire Small Businesses Back Governor Ayotte for Re-Election |url=https://www.nfib.com/news/press-release/new-hampshire-small-businesses-back-governor-ayotte-for-re-election/ |website=[[National Federation of Independent Business]] |access-date=17 October 2026 |date=October 8, 2026}}</ref>
+}}
+
+{{Endorsements box
 |title=Cinde Warmington (D)
 |list=
 ; Executive branch officials
@@ -256,43 +267,52 @@ In [[2024 New Hampshire gubernatorial election|2024]], [[Kelly Ayotte]] won the 
 |-
 |[[270toWin]]<ref>{{Cite web|title=2026 Polls: New Hampshire Governor
 |url=https://www.270towin.com/2026-governor-polls/new-hampshire|access-date=September 12, 2026|website=[[270toWin]]}}</ref>
-|September 14–24, 2026
-|September 25, 2026
-|{{party shading/Republican}}|'''51.0%'''
-|38.5%
-|10.5%
-|{{party shading/Republican}}|'''Ayotte +12.5%'''
+|September 14–25, 2026
+|October 17, 2026
+|{{party shading/Republican}}|'''51.3%'''
+|39.3%
+|9.4%
+|{{party shading/Republican}}|'''Ayotte +12.0%'''
 |-
-|Race to the WH<ref>{{Cite web|title=2026 Governor Polling
-|url=https://www.racetothewh.com/governor/26polls|access-date=September 2, 2026|website=Race to the WH}}</ref>
-|through October 5, 2026
-|October 6, 2026
-|{{party shading/Republican}}|'''51.0%'''
-|40.9%
-|8.9%
-|{{party shading/Republican}}|'''Ayotte +10.1%'''
+|[[Decision Desk HQ]]<ref>{{Cite web|title=2026 New Hampshire Governor Polling
+|url=https://votes.decisiondeskhq.com/races/2026-11-03/new-hampshire-governor-general-election/polling|access-date=October 17, 2026|website=[[Decision Desk HQ]]}}</ref>
+|through October 12, 2026
+|October 17, 2026
+|{{party shading/Republican}}|'''51.3%'''
+|40.1%
+|8.6%
+|{{party shading/Republican}}|'''Ayotte +11.2%'''
+|-
+|[[FiftyPlusOne]]<ref>{{Cite web|title=New Hampshire General Governor Election
+|url=https://fiftyplusone.news/polls/governor/general/new-hampshire|access-date=October 17, 2026|website=[[FiftyPlusOne]]}}</ref>
+|through October 12, 2026
+|October 17, 2026
+|{{party shading/Republican}}|'''50.9%'''
+|40.6%
+|8.5%
+|{{party shading/Republican}}|'''Ayotte +10.3%'''
 |-
 |[[RealClearPolitics]]<ref>{{Cite web|title=2026 New Hampshire Governor - Ayotte vs. Warmington|url=https://www.realclearpolling.com/polls/governor/general/2026/new-hampshire/ayotte-vs-warmington|access-date=September 2, 2026|website=[[RealClearPolitics]]}}</ref>
-|September 9–29, 2026
-|October 6, 2026
-|{{party shading/Republican}}|'''51.5%'''
-|40.8%
-|7.7%
-|{{party shading/Republican}}|'''Ayotte +10.7%'''
+|September 15 – October 5, 2026
+|October 17, 2026
+|{{party shading/Republican}}|'''51.0%'''
+|42.0%
+|7.0%
+|{{party shading/Republican}}|'''Ayotte +9.0%'''
 |-
 |''[[Silver Bulletin]]''<ref name="Silver"/>
-|August 17 – September 29, 2026
-|October 6, 2026
-|{{party shading/Republican}}|'''52.1%'''
-|41.1%
-|6.8%
-|{{party shading/Republican}}|'''Ayotte +11.0%'''
+|through October 5, 2026
+|October 17, 2026
+|{{party shading/Republican}}|'''51.2%'''
+|41.0%
+|7.8%
+|{{party shading/Republican}}|'''Ayotte +10.2%'''
 |-
 |colspan="3"|'''Average'''
-|{{party shading/Republican}}|'''51.4%'''
-|40.3%
+|{{party shading/Republican}}|'''51.1%'''
+|40.6%
 |8.3%
-|{{party shading/Republican}}|'''Ayotte +11.1%'''
+|{{party shading/Republican}}|'''Ayotte +10.5%'''
 |}
 
 {| class="wikitable" style="font-size:90%;text-align:center;"
@@ -305,6 +325,15 @@ In [[2024 New Hampshire gubernatorial election|2024]], [[Kelly Ayotte]] won the 
 ! style="width:100px;"| Cinde<br/>Warmington (D)
 ! Other
 ! Undecided
+|-
+| style="text-align:left;|National Public Affairs (R)<ref>{{cite web |title=New Hampshire 2026 General Election Survey Results |url=https://backend.natpublicaffairs.com/media/NH_General_Election_Memo_101526.2.pdf |website=National Public Affairs |access-date=17 October 2026 |date=October 16, 2026}}</ref>
+|October 8–12, 2026
+|600 (LV)
+|±&nbsp;4.0%
+|{{party shading/Republican}}|'''54%'''
+|38%
+|3%{{efn|Stephen Villee (L) with 3%}}
+|5%
 |-
 | style="text-align:left;|[[YouGov]]<ref>{{cite web|title=New Hampshire General Election 2026 – Likely Voters|url=https://d3nkl3psvxxpe9.cloudfront.net/documents/ttw_nh_20260921_lv.pdf |website=[[YouGov]] |date=October 6, 2026 |access-date=October 6, 2026}}</ref>
 |September 28 – October 5, 2026

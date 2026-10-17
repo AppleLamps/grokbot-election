@@ -1,6 +1,6 @@
 district,state,pvi_d,inc_party,inc_running,new_seat,vacant,member,consensus_rating_score
 AL-1,AL,-17,,0,1,0,,
-AL-2,AL,-7,D,1,0,0,Shomari Figures,-1.4
+AL-2,AL,-7,D,1,0,0,Shomari Figures,-1.3
 AL-3,AL,-23,R,1,0,0,Mike Rogers,
 AL-4,AL,-33,R,1,0,0,Robert Aderholt,
 AL-5,AL,-15,R,1,0,0,Dale Strong,
@@ -76,7 +76,7 @@ CO-1,CO,29,D,0,0,0,Diana DeGette,
 CO-2,CO,20,D,1,0,0,Joe Neguse,
 CO-3,CO,-5,R,1,0,0,Jeff Hurd,-1.2
 CO-4,CO,-9,R,1,0,0,Lauren Boebert,-1.6
-CO-5,CO,-5,R,1,0,0,Jeff Crank,-0.95
+CO-5,CO,-5,R,1,0,0,Jeff Crank,-0.85
 CO-6,CO,11,D,1,0,0,Jason Crow,
 CO-7,CO,8,D,1,0,0,Brittany Pettersen,
 CO-8,CO,0,R,1,0,0,Gabe Evans,1.0
@@ -107,7 +107,7 @@ FL-18,FL,-8,R,1,0,0,Scott Franklin,-2.8
 FL-19,FL,-14,R,0,0,0,Byron Donalds,
 FL-20,FL,20,,0,0,1,,
 FL-21,FL,-7,R,1,0,0,Brian Mast,-2.8
-FL-22,FL,-4,,0,1,0,,0.05
+FL-22,FL,-4,,0,1,0,,0.15
 FL-23,FL,9,D,1,0,0,Lois Frankel,
 FL-24,FL,22,D,0,0,0,Frederica Wilson,
 FL-25,FL,-3,D,1,0,0,Jared Moskowitz,1.1
@@ -120,7 +120,7 @@ GA-3,GA,-15,R,1,0,0,Brian Jack,
 GA-4,GA,27,D,1,0,0,Hank Johnson,
 GA-5,GA,36,D,1,0,0,Nikema Williams,
 GA-6,GA,25,D,1,0,0,Lucy McBath,
-GA-7,GA,-11,R,1,0,0,Rich McCormick,-2.9
+GA-7,GA,-11,R,1,0,0,Rich McCormick,-2.8
 GA-8,GA,-15,R,1,0,0,Austin Scott,
 GA-9,GA,-17,R,1,0,0,Andrew Clyde,
 GA-10,GA,-11,R,0,0,0,Mike Collins,-2.8
@@ -171,7 +171,7 @@ KY-2,KY,-20,R,1,0,0,Brett Guthrie,
 KY-3,KY,10,D,1,0,0,Morgan McGarvey,
 KY-4,KY,-18,R,0,0,0,Thomas Massie,
 KY-5,KY,-32,R,1,0,0,Hal Rogers,
-KY-6,KY,-7,R,0,0,0,Andy Barr,-0.95
+KY-6,KY,-7,R,0,0,0,Andy Barr,-0.75
 LA-1,LA,-20,R,1,0,0,Steve Scalise,
 LA-2,LA,25,D,1,0,0,Troy Carter,
 LA-3,LA,-18,R,1,0,0,Clay Higgins,
@@ -179,8 +179,8 @@ LA-4,LA,-17,R,1,0,0,Mike Johnson,
 LA-5,LA,-17,R,0,0,0,Julia Letlow,
 LA-6,LA,-16,D,0,0,0,Cleo Fields,
 ME-1,ME,11,D,1,0,0,Chellie Pingree,
-ME-2,ME,-4,D,0,0,0,Jared Golden,-0.5
-MD-1,MD,-8,R,1,0,0,Andy Harris,-2.9
+ME-2,ME,-4,D,0,0,0,Jared Golden,-0.4
+MD-1,MD,-8,R,1,0,0,Andy Harris,-2.8
 MD-2,MD,10,D,1,0,0,Johnny Olszewski,
 MD-3,MD,12,D,1,0,0,Sarah Elfreth,
 MD-4,MD,39,D,1,0,0,Glenn Ivey,
@@ -203,14 +203,14 @@ MI-3,MI,4,D,1,0,0,Hillary Scholten,2.9
 MI-4,MI,-3,R,1,0,0,Bill Huizenga,-0.05
 MI-5,MI,-13,R,1,0,0,Tim Walberg,
 MI-6,MI,12,D,1,0,0,Debbie Dingell,
-MI-7,MI,0,R,1,0,0,Tom Barrett,0.6
+MI-7,MI,0,R,1,0,0,Tom Barrett,0.7
 MI-8,MI,-1,D,1,0,0,Kristen McDonald Rivet,2.7
 MI-9,MI,-16,R,1,0,0,Lisa McClain,
 MI-10,MI,-3,R,0,0,0,John James,0.55
 MI-11,MI,9,D,0,0,0,Haley Stevens,
 MI-12,MI,21,D,1,0,0,Rashida Tlaib,
 MI-13,MI,22,D,0,0,0,Shri Thanedar,
-MN-1,MN,-6,R,1,0,0,Brad Finstad,-1.4
+MN-1,MN,-6,R,1,0,0,Brad Finstad,-1.3
 MN-2,MN,3,D,0,0,0,Angie Craig,2.5
 MN-3,MN,11,D,1,0,0,Kelly Morrison,
 MN-4,MN,18,D,1,0,0,Betty McCollum,
@@ -223,7 +223,7 @@ MS-2,MS,11,D,1,0,0,Bennie Thompson,
 MS-3,MS,-14,R,1,0,0,Michael Guest,
 MS-4,MS,-21,R,1,0,0,Mike Ezell,
 MO-1,MO,29,D,1,0,0,Wesley Bell,
-MO-2,MO,-4,R,1,0,0,Ann Wagner,-1.3
+MO-2,MO,-4,R,1,0,0,Ann Wagner,-1.2
 MO-3,MO,-13,R,1,0,0,Bob Onder,
 MO-4,MO,-21,R,1,0,0,Mark Alford,
 MO-5,MO,12,D,1,0,0,Emanuel Cleaver,
@@ -276,9 +276,9 @@ NY-17,NY,1,R,1,0,0,Mike Lawler,0.6
 NY-18,NY,2,D,1,0,0,Pat Ryan,
 NY-19,NY,1,D,1,0,0,Josh Riley,2.7
 NY-20,NY,8,D,1,0,0,Paul Tonko,
-NY-21,NY,-10,R,0,0,0,Elise Stefanik,-1.8
+NY-21,NY,-10,R,0,0,0,Elise Stefanik,-1.7
 NY-22,NY,4,D,1,0,0,John Mannion,
-NY-23,NY,-10,R,1,0,0,Nick Langworthy,
+NY-23,NY,-10,R,1,0,0,Nick Langworthy,-2.9
 NY-24,NY,-11,R,1,0,0,Claudia Tenney,
 NY-25,NY,10,D,1,0,0,Joseph Morelle,
 NY-26,NY,11,D,1,0,0,Tim Kennedy,
@@ -291,7 +291,7 @@ NC-6,NC,-9,R,1,0,0,Addison McDowell,-2.7
 NC-7,NC,-7,R,1,0,0,David Rouzer,-2.5
 NC-8,NC,-10,R,1,0,0,Mark Harris,-2.9
 NC-9,NC,-8,R,1,0,0,Richard Hudson,-2.4
-NC-10,NC,-9,R,1,0,0,Pat Harrigan,-2.9
+NC-10,NC,-9,R,1,0,0,Pat Harrigan,-2.8
 NC-11,NC,-5,R,0,0,0,Chuck Edwards,0.1
 NC-12,NC,24,D,1,0,0,Alma Adams,
 NC-13,NC,-8,R,1,0,0,Brad Knott,-2.5
@@ -312,7 +312,7 @@ OH-12,OH,-15,R,1,0,0,Troy Balderson,
 OH-13,OH,2,D,1,0,0,Emilia Sykes,2.6
 OH-14,OH,-10,R,1,0,0,David Joyce,
 OH-15,OH,-5,R,1,0,0,Mike Carey,-1.4
-OK-1,OK,-11,R,0,0,0,Kevin Hern,-2.9
+OK-1,OK,-11,R,0,0,0,Kevin Hern,-2.8
 OK-2,OK,-28,R,1,0,0,Josh Brecheen,
 OK-3,OK,-23,R,1,0,0,Frank Lucas,
 OK-4,OK,-17,R,1,0,0,Tom Cole,
@@ -329,7 +329,7 @@ PA-3,PA,40,D,0,0,0,Dwight Evans,
 PA-4,PA,8,D,1,0,0,Madeleine Dean,
 PA-5,PA,15,D,1,0,0,Mary Gay Scanlon,
 PA-6,PA,6,D,1,0,0,Chrissy Houlahan,
-PA-7,PA,-1,R,1,0,0,Ryan Mackenzie,1.15
+PA-7,PA,-1,R,1,0,0,Ryan Mackenzie,1.25
 PA-8,PA,-4,R,1,0,0,Rob Bresnahan,0.45
 PA-9,PA,-19,R,1,0,0,Dan Meuser,
 PA-10,PA,-3,R,1,0,0,Scott Perry,1.2
@@ -389,7 +389,7 @@ TX-27,TX,-10,R,1,0,0,Michael Cloud,-2.9
 TX-28,TX,-3,D,1,0,0,Henry Cuellar,1.45
 TX-29,TX,17,D,1,0,0,Sylvia Garcia,
 TX-30,TX,25,,0,1,0,,
-TX-31,TX,-11,R,1,0,0,John Carter,
+TX-31,TX,-11,R,1,0,0,John Carter,-2.9
 TX-32,TX,-8,,0,1,0,,-2.5
 TX-33,TX,18,D,0,0,0,Jasmine Crockett,
 TX-34,TX,-3,D,1,0,0,Vicente Gonzalez,0.9
@@ -406,7 +406,7 @@ VA-1,VA,-3,R,1,0,0,Rob Wittman,0.0
 VA-2,VA,0,R,1,0,0,Jen Kiggans,1.2
 VA-3,VA,18,D,1,0,0,Bobby Scott,
 VA-4,VA,17,D,1,0,0,Jennifer McClellan,
-VA-5,VA,-6,R,1,0,0,John McGuire,-1.5
+VA-5,VA,-6,R,1,0,0,John McGuire,-1.4
 VA-6,VA,-12,R,1,0,0,Ben Cline,
 VA-7,VA,2,D,1,0,0,Eugene Vindman,2.5
 VA-8,VA,26,D,1,0,0,Don Beyer,
@@ -417,7 +417,7 @@ WA-1,WA,15,D,1,0,0,Suzan DelBene,
 WA-2,WA,12,D,1,0,0,Rick Larsen,
 WA-3,WA,-2,D,1,0,0,Marie Gluesenkamp Perez,1.4
 WA-4,WA,-10,R,0,0,0,Dan Newhouse,-2.9
-WA-5,WA,-5,R,1,0,0,Michael Baumgartner,-2.4
+WA-5,WA,-5,R,1,0,0,Michael Baumgartner,-2.5
 WA-6,WA,10,D,1,0,0,Emily Randall,
 WA-7,WA,39,D,1,0,0,Pramila Jayapal,
 WA-8,WA,3,D,1,0,0,Kim Schrier,

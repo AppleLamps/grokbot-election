@@ -4199,6 +4199,15 @@ File:2026 California Gov Primary Chad Bianco counties.svg|Vote share of Bianco b
 ! Other
 ! Undecided
 |-
+|style="text-align:left;"|ActiVote<ref>{{cite web |title=Becerra Leads Hilton in California Governor Race |url=https://www.activote.net/polls/2026/ca-governor/2026-10-16/ |publisher=ActiVote |access-date=October 17, 2026 |date=October 16, 2026}}</ref>
+|September 24 – October 16, 2026
+|400 (LV)
+|±&nbsp;4.9%
+|{{party shading/Democratic}}|'''63%'''
+|37%
+|–
+|–
+|-
 |style="text-align:left;"|[[Manhattan Institute for Policy Research|Manhattan Institute]] (R)<ref>{{cite web |last1=Arm |first1=Jesse |last2=Shor |first2=Matthew |last3=Abramson |first3=Karl |title=California’s Contradictions: Survey Analysis of 2026 Voter Preferences Statewide and in Los Angeles |url=https://manhattan.institute/article/californias-contradictions-survey-analysis-of-2026-voter-preferences-statewide-and-in-los-angeles |website=[[Manhattan Institute for Policy Research]] |date=October 9, 2026}}</ref>
 |September 24 – October 1, 2026
 |1,000 (LV)

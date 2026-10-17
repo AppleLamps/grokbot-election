@@ -407,7 +407,7 @@ In early September, ''[[The Des Moines Register]]'' reported that the [[Black Ha
 |-
 |align=left|''[[Inside Elections]]''<ref>{{Cite web|title=Gubernatorial Ratings|url=https://insideelections.com/ratings/governor|access-date=October 11, 2026|website=[[Inside Elections]]}}</ref>
 |{{USRaceRating|Tilt|D|Flip}}
-|October 1, 2026
+|October 15, 2026
 |-
 |align="left"|[[RealClearPolitics]]<ref>{{Cite web|url=https://www.realclearpolling.com/maps/governor/2026/toss-up |title=2026 Governor Races |website=[[RealClearPolitics]] |access-date=October 11, 2026}}</ref>
 |{{USRaceRating|Lean|D|Flip}}

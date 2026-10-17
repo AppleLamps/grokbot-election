@@ -1276,10 +1276,20 @@ Tom Tiffany, a member of the [[House Freedom Caucus]], was expected to obtain th
 ;State legislators
 *[[Francesca Hong]], [[Wisconsin's 76th Assembly district|AD-76]] (2021–present) and primary candidate for governor in 2026<ref>{{cite web|url=https://www.wpr.org/news/wisconsin-democrats-preach-unity-hong-endorses-crowley|title=Francesca Hong endorses Crowley after primary defeat|date=August 12, 2026|access-date=August 13, 2026|website=Wisconsin Public Radio}}</ref>
 
+;Labor unions
+*Wisconsin [[AFL-CIO]]<ref>{{cite web |title=Wisconsin AFL-CIO Endorses David Crowley for Governor |url=https://wisaflcio.org/news/wisconsin-afl-cio-endorses-david-crowley-governor |website=Wisconsin [[AFL-CIO]] |access-date=17 October 2026 |date=August 12, 2026}}</ref>
+
 ;Organizations
 *[[Everytown for Gun Safety]]<ref>{{cite web |title=Everytown for Gun Safety Action Fund Announces New Round of Statewide Endorsements, Backing 40 Statewide Candidates in 15 States |url=https://momsdemandaction.org/press/everytown-for-gun-safety-action-fund-announces-new-round-of-statewide-endorsements-backing-40-statewide-candidates-in-15-states/ |website=Moms Demand Action |access-date=September 15, 2026 |language=en-us}}</ref>
+*[[Fair Wisconsin]]<ref>{{cite web |title=Fair Wisconsin PAC: Endorses LGBTQ+ champions: David Crowley for governor, key legislative races |url=https://www.wispolitics.com/2026/fair-wisconsin-pac-endorses-lgbtq-champions-david-crowley-for-governor-key-legislative-races/ |website=WisPolitics |access-date=17 October 2026 |date=September 23, 2026}}</ref>
 *[[Human Rights Campaign]]<ref name="HRCAugust">{{cite web |title=Human Rights Campaign PAC Endorses Slate of Pro-Equality Candidates |url=https://www.hrc.org/press-releases/human-rights-campaign-pac-endorses-slate-of-pro-equality-candidates-for-governor-in-key-states |website=HRC |access-date=30 August 2026 |date=27 August 2026}}</ref>
+
+;Newspapers
+*''[[The Badger Herald]]''<ref>{{cite web |title=The Badger Herald Editorial Board: Midterm election guide, endorsements |url=https://badgerherald.com/opinion/editorial/2026/10/16/the-badger-herald-editorial-board-midterm-election-guide-and-endorsements/ |website=[[The Badger Herald]] |access-date=17 October 2026 |date=October 16, 2026}}</ref>
+*''[[Milwaukee Courier]]''<ref>{{cite web |title=The Milwaukee Courier, Wisconsin’s oldest Black newspaper, makes the following endorsements in 2026 midterms |url=https://milwaukeecourier.com/news/2026/10/14/the-milwaukee-courier-wisconsins-oldest-black-newspaper-makes-the-following-endorsements-in-2026-midterms |website=[[Milwaukee Courier]] |access-date=17 October 2026 |date=October 14, 2026}}</ref>
+*''[[The Shepherd Express]]''<ref>{{cite web |title=The Shepherd Express Enthusiastically Endorses Milwaukee County Executive David Crowley for Governor of Wisconsin |url=https://shepherdexpress.com/news/features/the-shepherd-express-enthusiastically-endorses-milwaukee-county-executive-david-crowley-for-governor-of-wisconsin/ |website=[[The Shepherd Express]] |access-date=17 October 2026 |date=October 15, 2026}}</ref>
 }}
+
 {{Endorsements box
 | title = Tom Tiffany (R)
 | colwidth=
@@ -1287,6 +1297,10 @@ Tom Tiffany, a member of the [[House Freedom Caucus]], was expected to obtain th
 | list =
 ;Individuals
 *[[Ted Nugent]], musician and political activist<ref>{{cite news |last1=Smith |first1=Matt |title=Wes Moore campaigns for Crowley, Ted Nugent for Tiffany as governor's race heats up |url=https://www.wisn.com/article/wes-moore-campaigns-for-crowley-ted-nugent-for-tiffany-as-governors-race-heats-up/74095047 |access-date=October 10, 2026 |work=[[WISN-TV]] |date=October 9, 2026 |language=en}}</ref>
+
+;Organizations
+*[[National Right to Life Committee|Wisconsin Right to Life]]<ref>{{cite web |title=A Better Wisconsin Together: New endorsement from radical anti-abortion group deals major blow to Tom Tiffany’s effort to run from his record |url=https://www.wispolitics.com/2026/a-better-wisconsin-together-new-endorsement-from-radical-anti-abortion-group-deals-major-blow-to-tom-tiffanys-effort-to-run-from-his-record/ |website=WisPolitics |access-date=17 October 2026 |date=October 15, 2026}}</ref>
+*[[National Fraternal Order of Police|Wisconsin Fraternal Order of Police]]<ref>{{cite web |last1=Hoffman |first1=Mark |title=Republican candidate for governor Tom Tiffany talks to reporters |url=https://www.jsonline.com/videos/news/politics/2026/10/06/tom-tiffany-gets-wisconsin-police-endorsement/92118600007/ |website=[[Milwaukee Journal Sentinel]] |access-date=17 October 2026 |date=October 6, 2026}}</ref>
 }}
 
 ===Polling===
@@ -1302,27 +1316,43 @@ Tom Tiffany, a member of the [[House Freedom Caucus]], was expected to obtain th
 |-
 <!---[[270toWin]]<ref>{{Cite web|title=2026 Polls: Wisconsin Governor
 |url=https://www.270towin.com/2026-governor-polls/wisconsin|publisher=[[270toWin]]|access-date=August 21, 2026}}</ref>--->
+|[[Decision Desk HQ]]<ref>{{cite web |title=2026 Wisconsin Governor Polling |url=https://votes.decisiondeskhq.com/races/2026-11-03/wisconsin-governor-general-election/polling|publisher=[[Decision Desk HQ]]|access-date=October 17, 2026}}</ref>
+|through October 9, 2026
+|October 17, 2026
+|{{party shading/Democratic}}|'''46.8%'''
+|43.2%
+|10.0%
+|{{party shading/Democratic}}|'''Crowley +3.6%'''
+|-
+|[[FiftyPlusOne]]<ref>{{cite web |title=Wisconsin General Governor Election |url=https://fiftyplusone.news/polls/governor/general/wisconsin|publisher=[[FiftyPlusOne]]|access-date=October 17, 2026}}</ref>
+|through October 9, 2026
+|October 17, 2026
+|{{party shading/Democratic}}|'''47.4%'''
+|43.8%
+|8.8%
+|{{party shading/Democratic}}|'''Crowley +3.6%'''
+|-
 |[[RealClearPolitics]]<ref>{{cite web |title=2026 Wisconsin Governor - Tiffany vs. Crowley |url=https://www.realclearpolling.com/polls/governor/general/2026/wisconsin/crowley-vs-tiffany|publisher=[[RealClearPolitics]]|access-date=August 21, 2026}}</ref>
-|July 20 – August 20, 2026
-|September 13, 2026
+|July 20 – September 23, 2026
+|October 17, 2026
 |{{party shading/Democratic}}|'''47.5%'''
 |44.0%
 |8.5%
 |{{party shading/Democratic}}|'''Crowley +3.5%'''
 |-
 |''[[Silver Bulletin]]''<ref name="Silver"/>
-|July 20 – August 20, 2026
-|September 13, 2026
+|through October 9, 2026
+|October 17, 2026
 |{{party shading/Democratic}}|'''48.6%'''
-|44.6%
-|6.8%
-|{{party shading/Democratic}}|'''Crowley +4.0%'''
+|45.0%
+|6.4%
+|{{party shading/Democratic}}|'''Crowley +3.6%'''
 |-
 |colspan="3"|'''Average'''
-|{{party shading/Democratic}}|'''48.1%'''
-|44.3%
-|7.6%
-|{{party shading/Democratic}}|'''Crowley +3.8%'''
+|{{party shading/Democratic}}|'''47.6%'''
+|44.0%
+|8.4%
+|{{party shading/Democratic}}|'''Crowley +3.6%'''
 |}
 {|class="wikitable"style="font-size:90%;text-align:center;"
 |-valign=bottom
@@ -1334,6 +1364,15 @@ Tom Tiffany, a member of the [[House Freedom Caucus]], was expected to obtain th
 !style="width:100px"|Tom<br/>Tiffany (R)
 !Other
 !Undecided
+|-
+|style="text-align:left;"|[[YouGov]]<ref>{{cite web |title=New Wisconsin Poll: Wisconsinites Back Public School Options and Equal Accountability |url=https://cityforwardcollective.org/new-wisconsin-poll-wisconsinites-back-public-school-options-and-equal-accountability/ |website=City Forward Collective |access-date=17 October 2026 |date=October 16, 2026}}</ref>{{Efn-ua|Poll sponsored by City Forward Collective and CFC Action Fund, which supports Democrats}}
+|September 22 – October 9, 2026
+|1,715 (A)
+|–
+|{{party shading/Democratic}}|'''46%'''
+|42%
+|–
+|9%
 |-
 |style="text-align:left;"|Z to A Research (D)<ref>{{cite web |title=NEW: @nzdunk  Z to A Research & Rust Belt Rising poll finds Democrats leading in the top races in Wisconsin, Michigan & Pennsylvania.  This is a cost-of-living election—gas, groceries & health care. Voters hold Trump responsible for price rises. 1,430-voter poll from 9/28-10/1. 🧵 |url=https://x.com/rbrtraining/status/2108302504446337272 |publisher=[[Twitter]] |access-date=October 9, 2026 |date=October 8, 2026}}</ref>{{Efn-ua|Poll sponsored by Rust Belt Rising, which supports Democrats}}
 |September 28 – October 1, 2026

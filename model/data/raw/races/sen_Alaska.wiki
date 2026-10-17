@@ -638,10 +638,10 @@ On September 23, ''[[The New York Times]]'' published allegations from anonymous
 |[[RealClearPolitics]]<ref name="RCPGeneral">{{cite web |title=2026 Alaska Senate - Sullivan vs. Peltola |url=https://www.realclearpolling.com/polls/senate/general/2026/alaska/peltola-vs-sullivan |website=[[RealClearPolitics]] |access-date=17 August 2026}}</ref>
 |September 14 – October 10, 2026
 |October 12, 2026
-|47.3%
-|{{party shading/Democratic}}|'''48.8%'''
-|3.9%
-|{{party shading/Democratic}}|'''Peltola +1.5%'''
+|47.0%
+|{{party shading/Democratic}}|'''49.5%'''
+|3.5%
+|{{party shading/Democratic}}|'''Peltola +2.5%'''
 |-
 |''[[Silver Bulletin]]''<ref name="Silver"/>
 |through October 3, 2026
@@ -655,7 +655,7 @@ On September 23, ''[[The New York Times]]'' published allegations from anonymous
 |46.2%
 |{{party shading/Democratic}} |'''48.6%'''
 |5.2%
-|{{party shading/Democratic}} |'''Peltola +2.4%'''
+|{{party shading/Democratic}} |'''Peltola +2.6%'''
 |}
 
 ====Ranked-choice polls====

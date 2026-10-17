@@ -45,7 +45,7 @@ This will be the first open Senate election in New Hampshire since [[2010 United
 == Background ==
 New Hampshire is considered to be a [[Red states and blue states|slightly to moderately blue]] state at the federal level, with [[Kamala Harris]] carrying the state by roughly 3 percentage points in the [[2024 United States presidential election in New Hampshire|2024 presidential election]]. The state's congressional delegation has been entirely Democratic since 2017. However, Republicans control the [[Governor of New Hampshire|governorship]], both state legislative chambers, and a majority in the [[Executive Council of New Hampshire|executive council]].<ref>{{Cite web |date=2024-11-05 |title=New Hampshire keeps all-Democratic delegation with Pappas, Goodlander wins in US House races |url=https://apnews.com/article/new-hampshire-congress-election-2024-b9a8e05a7847c3ba93c424c2094a49a7 |access-date=2024-12-10 |website=AP News |language=en}}</ref><ref>{{Cite web |date=2024-11-06 |title=NH Republicans claim big State House wins and strengthen majorities in House and Senate |url=https://www.nhpr.org/nh-news/2024-11-06/nh-republicans-claim-big-state-house-wins-and-strengthen-majorities-in-house-and-senate |access-date=2024-12-10 |website=New Hampshire Public Radio |language=en}}</ref>
 
-Shaheen was first elected in [[2008 United States Senate election in New Hampshire|2008]], defeating incumbent [[John E. Sununu|John Sununu]] in a rematch of [[2002 United States Senate election in New Hampshire|2002]], and was reelected in [[2014 United States Senate election in New Hampshire|2014]] and [[2020 United States Senate election in New Hampshire|2020]].<ref>{{Cite web |last=Castronuovo |first=Celine |date=2020-11-04 |title=Shaheen wins reelection in New Hampshire |url=https://thehill.com/homenews/senate/523894-shaheen-wins-reelection-in-new-hampshire/ |access-date=2024-12-10 |website=The Hill |language=en-US}}</ref> Republicans have not won a U.S. Senate race in New Hampshire since [[2010 United States Senate election in New Hampshire|2010]].<ref>https://rollcall.com/2025/10/22/new-hampshire-john-sununu-race-rating/</ref>
+Shaheen was first elected in [[2008 United States Senate election in New Hampshire|2008]], defeating incumbent [[John E. Sununu|John Sununu]] in a rematch of [[2002 United States Senate election in New Hampshire|2002]], and was reelected in [[2014 United States Senate election in New Hampshire|2014]] and [[2020 United States Senate election in New Hampshire|2020]].<ref>{{Cite web |last=Castronuovo |first=Celine |date=2020-11-04 |title=Shaheen wins reelection in New Hampshire |url=https://thehill.com/homenews/senate/523894-shaheen-wins-reelection-in-new-hampshire/ |access-date=2024-12-10 |website=The Hill |language=en-US}}</ref> Republicans have not won a U.S. Senate race in New Hampshire since [[2010 United States Senate election in New Hampshire|2010]].<ref>{{cite web | title=Rating change: Sununu's entry boosts Republican chances in New Hampshire | date=October 22, 2025 | url=https://rollcall.com/2025/10/22/new-hampshire-john-sununu-race-rating/ }}</ref>
 
 ==Democratic primary==
 ===Candidates===
@@ -98,8 +98,8 @@ Shaheen was first elected in [[2008 United States Senate election in New Hampshi
 
 ;U.S. senators
 *[[Maggie Hassan]], [[New Hampshire]] (2017–present)<ref>{{cite web | title=Hassan backs Pappas as Dems unite in N.H. | url=https://punchbowl.news/article/campaigns/hassan-pappas-democrats-unite-new-hampshire/ }}</ref>
-*[[Mark Kelly]], [[Arizona]] (2020–present)<ref name="auto">https://www.wmur.com/article/mark-kelly-gabby-giffords-new-hampshire/70733249</ref>
-*[[Amy Klobuchar]], [[Minnesota]] (2007–present)<ref>{{Cite web |url=https://nhjournal.com/a-frustrated-and-feisty-dem-base-will-greet-klobuchar-in-nh-friday |title=A frustrated and feisty Dem base will greet Klobuchar in NH, Friday |access-date=January 1, 2026}}</ref>
+*[[Mark Kelly]], [[Arizona]] (2020–present)<ref name="auto">{{cite web | title=First on WMUR: Sen. Mark Kelly, former Rep. Gabby GIffords to visit New Hampshire next week | date=March 13, 2026 | url=https://www.wmur.com/article/mark-kelly-gabby-giffords-new-hampshire/70733249 }}</ref>
+*[[Amy Klobuchar]], [[Minnesota]] (2007–present)<ref>{{Cite web |url=https://nhjournal.com/a-frustrated-and-feisty-dem-base-will-greet-klobuchar-in-nh-friday |title=A frustrated and feisty Dem base will greet Klobuchar in NH, Friday |date=July 11, 2025 |access-date=January 1, 2026}}</ref>
 *[[Jeanne Shaheen]], [[New Hampshire]] (2009–present)<ref name=ShaheenPappas>{{cite web|url=https://www.wmur.com/article/jeanne-shaheen-endorses-chris-pappas-senate-42425/64582798|title=Shaheen endorses Pappas to replace her in Senate|last=Sexton|first=Adam|date=April 24, 2025|access-date=April 24, 2025|website=[[WMUR-TV]]}}</ref>
 *[[Elizabeth Warren]], [[Massachusetts]] (2013–present)<ref name="Commanding">{{cite web|url=https://www.semafor.com/article/08/28/2026/poll-pappas-holds-commanding-lead-in-nh-democratic-primary|title=Poll: Pappas holds commanding lead in N.H. Democratic primary|last=Everett|first=Burgess|date=August 28, 2026|access-date=August 28, 2026|website=[[Semafor (website)|Semafor]]}}</ref>
 
@@ -826,7 +826,7 @@ Shaheen was first elected in [[2008 United States Senate election in New Hampshi
 |{{USRaceRating|Likely|D}}
 |October 7, 2026
 |-
-|align="left"|''[[The Economist]]''<ref>{{Cite web|title=2026 Senate Forecast|url=https://www.economist.com/interactive/2026/us-midterms/prediction-model/senate/|access-date=October 7, 2026|website=[[The Economist]]}}</ref>{{efn|''The Economist''{{'}}s prediction model uses unconventional terminology. For the purpose of equivalency, their "Very Likely" ratings are formatted as a "Likely" rating while "Likely" ratings are formatted as a "Lean" rating.}}
+|align="left"|''[[The Economist]]''<ref>{{Cite news|title=2026 Senate Forecast|url=https://www.economist.com/interactive/2026/us-midterms/prediction-model/senate/|access-date=October 7, 2026|newspaper=[[The Economist]]}}</ref>{{efn|''The Economist''{{'}}s prediction model uses unconventional terminology. For the purpose of equivalency, their "Very Likely" ratings are formatted as a "Likely" rating while "Likely" ratings are formatted as a "Lean" rating.}}
 |{{USRaceRating|Likely|D}}
 |October 7, 2026
 |-
@@ -929,42 +929,42 @@ Shaheen was first elected in [[2008 United States Senate election in New Hampshi
 |{{party shading/Democratic}}|'''Pappas +5.4%'''
 |-
 |[[Decision Desk HQ]]<ref>{{cite web|title=2026 New Hampshire Senate Polling|url=https://votes.decisiondeskhq.com/races/2026-11-03/new-hampshire-us-senate-general-election/polling|publisher=[[Decision Desk HQ]]|access-date=September 15, 2026}}</ref>
-|through October 5, 2026
-|October 6, 2026
-|{{party shading/Democratic}}|'''50.2%'''
-|43.0%
-|6.8%
+|through October 12, 2026
+|October 17, 2026
+|{{party shading/Democratic}}|'''50.9%'''
+|43.7%
+|5.4%
 |{{party shading/Democratic}}|'''Pappas +7.2%'''
 |-
 |[[FiftyPlusOne]]<ref>{{cite web|title=New Hampshire General Senate Election|url=https://fiftyplusone.news/polls/senate/general/new-hampshire|publisher=[[FiftyPlusOne]]|access-date=September 18, 2026}}</ref>
-|through October 5, 2026
-|October 6, 2026
-|{{party shading/Democratic}}|'''49.4%'''
-|42.8%
-|7.8%
-|{{party shading/Democratic}}|'''Pappas +6.6%'''
+|through October 12, 2026
+|October 17, 2026
+|{{party shading/Democratic}}|'''49.9%'''
+|43.0%
+|7.1%
+|{{party shading/Democratic}}|'''Pappas +6.9%'''
 |-
 |[[RealClearPolitics]]<ref>{{cite web|title=2026 New Hampshire Senate - Pappas vs. Sununu|url=https://www.realclearpolling.com/polls/senate/general/2026/new-hampshire/pappas-vs-sununu|publisher=[[RealClearPolitics]]|access-date=November 13, 2025}}</ref>
-|September 9 – October 5, 2026
-|October 6, 2026
-|{{party shading/Democratic}}|'''49.0%'''
-|43.1%
-|7.9%
-|{{party shading/Democratic}}|'''Pappas +5.9%'''
+|September 15 – October 5, 2026
+|October 17, 2026
+|{{party shading/Democratic}}|'''49.7%'''
+|43.2%
+|7.1%
+|{{party shading/Democratic}}|'''Pappas +6.5%'''
 |-
 |''[[Silver Bulletin]]''<ref name="Silver"/>
 |through October 5, 2026
-|October 6, 2026
-|{{party shading/Democratic}}|'''48.7%'''
-|41.4%
-|9.9%
-|{{party shading/Democratic}}|'''Pappas +7.3%'''
+|October 17, 2026
+|{{party shading/Democratic}}|'''49.1%'''
+|42.0%
+|8.9%
+|{{party shading/Democratic}}|'''Pappas +7.1%'''
 |-
 |colspan="3"|'''Average'''
-|{{party shading/Democratic}}|'''49.1%'''
-|42.6%
-|8.3%
-|{{party shading/Democratic}}|'''Pappas +6.5%'''
+|{{party shading/Democratic}}|'''49.6%'''
+|42.9%
+|7.5%
+|{{party shading/Democratic}}|'''Pappas +6.7%'''
 |}
 
 {| class="wikitable" style="font-size:90%;text-align:center;"
@@ -977,6 +977,20 @@ Shaheen was first elected in [[2008 United States Senate election in New Hampshi
 ! style="width:100px;"| John E.<br/>Sununu (R)
 ! Other
 ! Undecided
+|-
+|rowspan=2  style="text-align:left;|National Public Affairs (R)<ref>{{cite web |title=New Hampshire 2026 General Election Survey Results |url=https://backend.natpublicaffairs.com/media/NH_General_Election_Memo_101526.2.pdf |website=National Public Affairs |access-date=17 October 2026 |date=October 16, 2026}}</ref>
+|rowspan=2 |October 8–12, 2026
+|rowspan=2 |600 (LV)
+|rowspan=2 |±&nbsp;4.0%
+|{{party shading/Democratic}}|'''50%'''
+|45%
+|{{sdash}}
+|5%
+|-
+|{{party shading/Democratic}}|'''50%'''
+|43%
+|4%{{efn|Edmond Laplante (C) with 4%}}
+|3%
 |-
 | style="text-align:left;|[[YouGov]]<ref>{{cite web|title=New Hampshire General Election 2026 – Likely Voters|url=https://d3nkl3psvxxpe9.cloudfront.net/documents/ttw_nh_20260921_lv.pdf |website=[[YouGov]] |date=October 6, 2026 |access-date=October 6, 2026}}</ref>
 |September 28 – October 5, 2026

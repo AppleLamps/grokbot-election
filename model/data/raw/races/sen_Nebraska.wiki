@@ -390,7 +390,7 @@ Nebraska Working People Party organizers submitted completed petitions to form a
 ===Fundraising===
 {| class="wikitable sortable"
 |-
-! colspan=4 |Campaign finance reports as of June 30, 2026
+! colspan=4 |Campaign finance reports as of September 30, 2026
 |- style="text-align:center;"
 !Candidate
 !Raised

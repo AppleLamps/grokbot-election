@@ -10,7 +10,7 @@
 | election_date = {{Start date|2026|11|4}}
 | next_election = 2030 Connecticut gubernatorial election
 | next_year = 2030
-| image1 = File:Ned Lamont, 2026 (cropped).jpg
+| image1 = File:Governor Ned Lamont of Connecticut, official portrait (cropped).jpg
 | image_size = 150x150px
 | nominee1 = [[Ned Lamont]]
 | party1 = Democratic Party (United States)
@@ -483,6 +483,22 @@ In the following months before the convention, [[Erin Stewart]], the former mayo
 |38%
 |2%{{Efn|"Refuse to respond" with 2%}}
 |1%
+|-
+|rowspan="2" style="text-align:left;"|[[Wesleyan University]]/[[YouGov]]<ref>{{cite web |title=Wesleyan SurveyLab CT Poll on behalf of The CT Mirror and The Connecticut Project |url=https://surveylab.wescreates.wesleyan.edu/wp-content/uploads/2026/10/ToplinesforWeb.pdf |publisher=[[Wesleyan University|Wesleyan Survey Lab]] |access-date=October 17, 2026}}</ref>{{Efn-ua|Poll conducted in partnership with The Connecticut Project and ''[[The Connecticut Mirror]]''}}
+|rowspan="2"|October 8–12, 2026
+|1,000 (RV)
+|±&nbsp;4.54%
+|{{party shading/Democratic}}|'''53%'''
+|32%
+|4%{{Efn|"I would not vote in this race" with 4%; "Other" with 0%}}
+|11%
+|-
+|(LV)
+|–
+|{{party shading/Democratic}}|'''57%'''
+|34%
+|0%{{Efn|"I would not vote in this race" & "Other with 0%}}
+|8%
 |-
 |style="text-align:left;"|[[University of New Hampshire]]<ref>{{cite web|url=https://scholars.unh.edu/cgi/viewcontent.cgi?article=2009&context=survey_center_polls|title=Lamont Leads in Re-Election Bid for Connecticut Governor; Residents Favor "No Excuse" Absentee Voting|first1=Sean P.|last1=McKinley|first2=Andrew E.|last2=Smith|first3=Zachary S.|last3=Azem|first4=Tracy|last4=Keirns|website=[[University of New Hampshire]]|date=September 24, 2026|access-date=September 24, 2026}}</ref>
 |September 17–21, 2026
