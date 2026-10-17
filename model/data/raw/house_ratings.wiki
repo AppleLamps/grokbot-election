@@ -1430,7 +1430,7 @@ The following are the latest published ratings for competitive seats.
 |-
 !{{ushr|NC|11|X}}
 |{{Shading PVI|R|5}}
-| {{Party shading/Republican}} |{{sortname|Chuck|Edwards}}<br>{{small|(retiring)}}
+| {{Party shading/Republican}} |{{sortname|Chuck|Edwards}}<br>{{small|(withdrew)}}
 | {{Party shading/Republican}} data-sort-value="56.8" |56.8% R
 |{{USRaceRating|Tossup}}
 |{{USRaceRating|Tossup}}
@@ -2290,7 +2290,6 @@ On April 8, 2025, the [[Democratic Congressional Campaign Committee]] released t
 #[[Wisconsin's 3rd congressional district|Wisconsin 3]]: [[Derrick Van Orden]]
 {{div col end}}
 
-
 ===Democratic-held seats===
 On March 17, 2025, the [[National Republican Congressional Committee]] released their target seat list which included Democratic-held seats and open seats.<ref>{{cite web |last=Marinella |first=Mike |date=2025-03-17 |title=NRCC Targets 26 Offensive Seats to Expand House Majority |url=https://www.nrcc.org/2025/03/17/nrcc-targets-26-offensive-seats-to-expand-house-majority/ |access-date=2025-08-25 |website=NRCC |language=en-US}}</ref> On September 18, 2025, this list was revised adding three districts (TX-9, TX-32, and TX-35).<ref>{{Cite web |last=Marinella |first=Mike |date=2025-09-18 |title=NRCC Expands Target List with Three Texas Opportunities to Grow GOP Majority |url=https://www.nrcc.org/2025/09/18/nrcc-expands-target-list-with-three-texas-opportunities-to-grow-gop-majority/ |access-date=2026-05-31 |website=NRCC |language=en-US}}</ref>  It was revised again on July 20, 2026, where eight more districts (AL-2, FL-14, FL-22, FL-25, LA-6, MO-5, OH-1, and TN-9) were added and one district (FL-23) was removed.<ref>{{Cite web |last=Marinella |first=Mike |date=2026-07-20 |title=NRCC Expands Offensive Target List to Grow GOP Majority |url=https://www.nrcc.org/2026/07/20/nrcc-expands-offensive-target-list-to-grow-gop-majority/ |access-date=2026-07-22 |website=NRCC |language=en-US}}</ref> The [[Democratic Congressional Campaign Committee]] also released its frontline members, which are bolded below, and the ones not bolded are seats targeted by the Republican committee but not in the Democratic committee frontline program:
 
@@ -2309,7 +2308,7 @@ On March 17, 2025, the [[National Republican Congressional Committee]] released 
 #[[Louisiana's 6th congressional district|Louisiana 6]]: Open seat
 #[[Maine's 2nd congressional district|Maine 2]]: Open seat
 #'''[[Michigan's 8th congressional district|Michigan 8]]: [[Kristen McDonald Rivet]]'''
-#[[Missouri's 5th congressional district|Missouri 5]]: [[Emmanuel Cleaver]]
+#[[Missouri's 5th congressional district|Missouri 5]]: [[Emanuel Cleaver]]
 #'''[[North Carolina's 1st congressional district|North Carolina 1]]: [[Don Davis (North Carolina politician)|Don Davis]]''' 
 #[[New Hampshire's 1st congressional district|New Hampshire 1]]: Open seat
 #'''[[New Jersey's 9th congressional district|New Jersey 9]]: [[Nellie Pou]]'''

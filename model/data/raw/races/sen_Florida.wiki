@@ -449,10 +449,26 @@ Formerly a [[swing state]], Florida has shifted increasingly to the Republican P
 *[[Bill Nelson]], former [[Florida]] (2001–2019)<ref>{{cite web |last1=Leonard |first1=Kimberly |title=Weekend with Bernie (Florida Playbook) |url=https://www.politico.com/newsletters/florida-playbook/2026/10/14/weekend-with-bernie-01117758 |website=[[POLITICO]] |access-date=October 15, 2026 |date=October 14, 2026}}</ref>
 *[[Bernie Sanders]], [[Vermont]] (2007–present) ''(Independent)''<ref>{{cite web|last=Pantazi|first=Andrew|date=August 20, 2026|title=Bernie Sanders endorses Florida's Angie Nixon for Senate|url=https://www.axios.com/2026/08/20/bernie-sanders-endorses-floridas-angie-nixon-for-senate|website=[[Axios (website)|Axios]]|access-date=August 20, 2026}}</ref>
 *[[Elizabeth Warren]], [[Massachusetts]] (2013–present)<ref>{{cite web |last1=Byington |first1=Lilliana |title=Progressive Candidates Eschew Labels as GOP Targets Democrats |url=https://news.bgov.com/bloomberg-government-news/progressive-candidates-eschew-labels-as-gop-targets-democrats |website=[[Bloomberg Government]] |access-date=September 27, 2026 |date=September 1, 2026 |quote=Nixon expanded her support to top progressive senators since the primary, including endorsements from Sens. Elizabeth Warren and Bernie Sanders.}}</ref>
+* [[Angela Alsobrooks]], [[Maryland]] (2025–present){{cite web |title=Endorsements |url=https://angienixon.com/endorsements/ |website=Angie Nixon for U.S. Senate }}
+* [[Chris Van Hollen]], [[Maryland]] (2017–present)
+* [[Ed Markey]], [[Massachusetts]] (2013–present)
+* [[Lisa Blunt Rochester]], [[Delaware]] (2025–present)
+* [[Peter Welch]], [[Vermont]] (2023–present)
+* [[Tim Kaine]], [[Virginia]] (2013–present)
 
 ;U.S. representatives
 *[[Pramila Jayapal]], {{ushr|WA|7|WA-7}} (2017–present)<ref>{{cite news |last=Johnson |first=Bob |date=October 8, 2026 |title=Deegan won't back Nixon, saying it's 'federal' despite endorsing Kamala Harris in 2024 |url=https://flvoicenews.com/deegan-wont-back-nixon-saying-its-federal-despite-endorsing-kamala-harris-in-2024/ |website=Florida Voice News |access-date=October 11, 2026}}</ref>
 *[[Alexandria Ocasio-Cortez]], {{ushr|NY|14|NY-14}} (2019–present)<ref>{{cite news|last=Davis|first=Sarah|date=September 2, 2026|title=Ocasio-Cortez backs Nixon in Florida Senate race|url=https://thehill.com/homenews/campaign/6066299-aoc-endorses-angie-nixon/|website=[[The Hill (newspaper)|The Hill]]|access-date=September 2, 2026}}</ref>
+* [[Becca Balint]], [[Vermont's at-large congressional district|VT-AL]] (2023–present)<ref name="NixonHouse">{{cite web |title=Endorsements |url=https://angienixon.com/endorsements/ |website=Angie Nixon for U.S. Senate}}</ref>
+* [[Bonnie Watson Coleman]], [[New Jersey's 12th congressional district|NJ-12]] (2015–present)<ref name="NixonHouse" />
+* [[Ilhan Omar]], [[Minnesota's 5th congressional district|MN-05]] (2019–present)<ref>{{cite news |title=Ilhan Omar endorses Angie Nixon's run for U.S. Senate |url=https://floridapolitics.com/archives/807418-ilhan-omar-endorses-angie-nixons-run-for-us-senate/ |work=Florida Politics}}</ref>
+* [[Lateefah Simon]], [[California's 12th congressional district|CA-12]] (2025–present)<ref name="NixonHouse" />
+* [[Maxwell Frost]], [[Florida's 10th congressional district|FL-10]] (2023–present)<ref>{{cite news |title=Angie Nixon gains endorsements at Orlando rally ahead of Florida Senate primary |url=https://www.wesh.com/article/angie-nixon-gains-endorsements-at-orlando-rally-ahead-of-florida-senate-primary/73259926 |work=WESH |date=24 July 2026}}</ref>
+* [[Nydia Velázquez]], [[New York's 7th congressional district|NY-07]] (1993–present)<ref name="NixonHouse" />
+* [[Pramila Jayapal]], [[Washington's 7th congressional district|WA-07]] (2017–present)<ref name="NixonHouse" />
+* [[Rashida Tlaib]], [[Michigan's 12th congressional district|MI-12]] (2019–present)<ref name="NixonHouse" />
+* [[Ro Khanna]], [[California's 17th congressional district|CA-17]] (2017–present)<ref name="NixonHouse" />
+* [[Yvette Clarke]], [[New York's 9th congressional district|NY-09]] (2007–present)<ref name="NixonHouse" />
 
 ;Local officials
 *[[Alvin Brown]], former mayor of [[Jacksonville, Florida|Jacksonville]] (2011–2015)<ref>{{cite news |last=Johnson |first=Bob |date=October 8, 2026 |title=Deegan won't back Nixon, saying it's 'federal' despite endorsing Kamala Harris in 2024 |url=https://flvoicenews.com/deegan-wont-back-nixon-saying-its-federal-despite-endorsing-kamala-harris-in-2024/ |website=Florida Voice News |access-date=October 11, 2026}}</ref>
@@ -490,6 +506,7 @@ Formerly a [[swing state]], Florida has shifted increasingly to the Republican P
 {{Endorsements box|title=Declined to endorse|list=;Local officials
 *[[Donna Deegan]], mayor of [[Jacksonville, Florida|Jacksonville]] (2023–present) ''(Democratic)''<ref>{{cite news |last=Johnson |first=Bob |date=October 8, 2026 |title=Deegan won't back Nixon, saying it's 'federal' despite endorsing Kamala Harris in 2024 |url=https://flvoicenews.com/deegan-wont-back-nixon-saying-its-federal-despite-endorsing-kamala-harris-in-2024/ |website=Florida Voice News |access-date=October 11, 2026}}</ref>
 }}
+
 === Polling ===
 ;Aggregate polls
 {| class="wikitable sortable" style="text-align:center;font-size:90%;line-height:17px"

@@ -550,7 +550,7 @@ See [[Template:USRaceRating]] for how to apply rating.
 |- class="sortbottom"
 ! colspan=4 | Overall
 <!--Cook-->      |  | D - 24<br />R - 22<br />4 tossups
-<!--DDHQ-->      |  | D - 25<br />R - 22<br />3 tossups
+<!--DDHQ-->      |  | D - 24<br />R - 22<br />4 tossups
 <!--Fox-->       |  | D - 23<br />R - 22<br />5 tossups
 <!--IE-->        |  | D - 23<br />R - 23<br />4 tossups
 <!--RCP-->       |  | D - 23<br />R - 19<br />8 tossups
