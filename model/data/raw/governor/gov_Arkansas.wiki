@@ -30,6 +30,8 @@
 | party3 = Libertarian Party (United States)
 | popular_vote3 = 
 | percentage3 = 
+| map_image          = <!-- Please keep this map hidden until election day. {{switcher |[[File:2026 Arkansas gubernatorial election results map by county.svg|210px]] |County results}}-->
+| map_caption        = 
 | title = [[Governor of Arkansas|Governor]]
 | before_election = [[Sarah Huckabee Sanders]]
 | before_party = Republican Party (United States)

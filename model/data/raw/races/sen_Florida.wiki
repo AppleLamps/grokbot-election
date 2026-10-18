@@ -561,6 +561,15 @@ Formerly a [[swing state]], Florida has shifted increasingly to the Republican P
 ! Other
 ! Undecided
 |-
+|style="text-align:left;"|ActiVote<ref>{{cite web |title=Moody Leads Nixon in Florida Senate Race |url=https://www.activote.net/polls/2026/fl-u-s-senate/ |publisher=ActiVote |access-date=October 18, 2026 |date=October 15, 2026}}</ref>
+|September 27 – October 15, 2026
+|400 (LV)
+|±{{nbsp}}4.9%
+|{{party shading/Republican}}|'''53%'''
+|47%
+|{{sdash}}
+|{{sdash}}
+|-
 |style="text-align:left;"|MDW Communications<ref>{{cite web |title=New Florida Statewide Poll |url=https://www.mdwcomm.com/media/florida-statewide-poll-october-2026.html |publisher=MDW Communications |access-date=October 15, 2026 |date=October 14, 2026}}</ref>{{Efn-ua|Poll conducted for EDGE Communications}}
 |October 4–10, 2026
 |2,351 (LV)

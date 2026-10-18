@@ -1308,7 +1308,7 @@ Cassidy's stance led analysts to view him as vulnerable to a [[Trumpism|pro-Trum
 ===Fundraising===
 {| class="wikitable sortable"
 |-
-! colspan=4 |Campaign finance reports as of June 30, 2026
+! colspan=4 |Campaign finance reports as of September 30, 2026
 |- style="text-align:center;"
 !Candidate
 !Raised
@@ -1316,14 +1316,14 @@ Cassidy's stance led analysts to view him as vulnerable to a [[Trumpism|pro-Trum
 !Cash on hand
 |-
 |{{party shading/Republican}}|Julia Letlow (R)
-|$6,210,122
-|$4,783,049
-|$1,427,072
+|$6,979,082
+|$5,560,319
+|$1,418,763
 |-
 |{{party shading/Democratic}}|Jamie Davis (D)
-|$1,983,548
-|$1,504,444
-|$479,104
+|$4,015,530
+|$3,072,701
+|$942,253
 |-
 ! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC1"/></small>
 |}

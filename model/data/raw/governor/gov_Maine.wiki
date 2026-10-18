@@ -1451,14 +1451,15 @@ On April 25, 2026, the Maine Republican Party announced the results of a straw p
 {{Endorsements box
 |title=Hannah Pingree (D)
 |list=
-;U.S. Senators
+;U.S. senators
 *[[Angus King]], Maine (2013–present) ''(Independent)''<ref>{{Cite web |last=Mundry |first=Jackie |date=2026-09-20 |title="Vote for Hannah" {{!}} Sen. Angus King endorses Hannah Pingree for governor |url=https://www.wmtw.com/article/vote-for-hannah-sen-angus-king-endorses-hannah-pingree-for-governor/73810867 |access-date=2026-09-20 |website=WMTW |language=en}}</ref>
 
 ;State legislators
-*[[W. Edward Crockett|Ed Crockett]], [[Maine House of Representatives|state representative]] for the 43rd (2018–2022) and 115th (2022–present) districts, 2026 candidate for governor ''(Independent)''<ref name="GOPforPingree" />
-*[[Roger Katz]], [[Maine Senate|state senator]] for the 24th (2010–2014) and 15th (2014–2018) districts ''(Republican)''<ref name="GOPforPingree">{{Cite web |last=Cover |first=Susan |date=September 17, 2026 |title=Hannah Pingree touts bipartisan support |url=https://spectrumlocalnews.com/me/maine/politics/2026/09/17/hannah-pingree-touts-bipartisan-support-in-maine-governor-s-race |access-date=2026-09-18 |website=spectrumlocalnews.com |language=en}}</ref>
-*[[William Pluecker]], state representative for the 44th district (2018–present) ''(Independent)''<ref name="GOPforPingree" />
-*[[Chris Rector]], state senator for the 22nd district (2008–2012) ''(Republican)''<ref>{{Cite web|url=https://www.midcoastvillager.com/news/a-small-islands-influence-shaped-hannah-pingree/article_b10a34e6-c31c-4323-884b-a58965356a9b.html|work=Midcoast Villager|last=Betts|first=Stephen|date=June 27, 2026|title=A Small Island's Influence Shaped Hannah Pingree}}</ref>
+*[[William Bridgeo]], [[Maine House of Representatives|state representative]] from then 60th district (2022–present)<ref>{{Cite web |last=Bridgeo |first=Bill |date=2026-10-05 |title=Why Hannah Pingree has my vote {{!}} Letter |url=https://www.centralmaine.com/2026/10/05/why-hannah-pingree-has-my-vote-letter/ |access-date=2026-10-18 |website=Centralmaine.com |language=en-US}}</ref>
+*[[W. Edward Crockett|Ed Crockett]], [[Maine House of Representatives|state representative]] from the 43rd district (2018–2022) and 115th district (2022–present) and former gubernatorial candidate ''(Independent)''<ref name="GOPforPingree" />
+*[[Roger Katz]], [[Maine Senate|state senator]] from the 24th district (2010–2014) and 15th district (2014–2018) ''(Republican)''<ref name="GOPforPingree">{{Cite web |last=Cover |first=Susan |date=September 17, 2026 |title=Hannah Pingree touts bipartisan support |url=https://spectrumlocalnews.com/me/maine/politics/2026/09/17/hannah-pingree-touts-bipartisan-support-in-maine-governor-s-race |access-date=2026-09-18 |website=spectrumlocalnews.com |language=en}}</ref>
+*[[William Pluecker]], state representative from the 44th district (2018–present) ''(Independent)''<ref name="GOPforPingree" />
+*[[Chris Rector]], state senator from the 22nd district (2008–2012) ''(Republican)''<ref>{{Cite web|url=https://www.midcoastvillager.com/news/a-small-islands-influence-shaped-hannah-pingree/article_b10a34e6-c31c-4323-884b-a58965356a9b.html|work=Midcoast Villager|last=Betts|first=Stephen|date=June 27, 2026|title=A Small Island's Influence Shaped Hannah Pingree}}</ref>
 
 ;Labor unions
 *[[National Education Association|Maine Education Association]]<ref>{{Cite web |url=https://www.pressherald.com/2026/08/06/maine-teachers-union-endorses-hannah-pingree-for-governor/ |title=Maine teachers union endorses Hannah Pingree for governor |last=Ohm |first=Rachel |date= August 6, 2026 |website=[[Portland Press Herald]] |access-date= August 15, 2026}}</ref>
@@ -1474,15 +1475,15 @@ On April 25, 2026, the Maine Republican Party announced the results of a straw p
 |title=Bobby Charles (R)
 |list=
 ;Statewide officials
-*[[Chris Christie]], former [[Governor of New Jersey|governor of New Jersey]] (2010–2018)<ref>{{cite web|url=https://newjerseyglobe.com/presidential-election/christie-stumps-in-maine-for-gop-gubernatorial-candidate/|title=Christie stumps in Maine for GOP gubernatorial candidate|last=Wildstein|first=David|date=September 23, 2026|access-date=September 23, 2026|website=[[New Jersey Globe]]}}</ref>
-*[[Chris Sununu]], former [[Governor of New Hampshire| Governor of New Hampshire]] (2017–2025)<ref>{{cite web |first=Ronnie |last=Parrillo |title=Bobby Charles holds town hall with former New Hampshire governor Chris Sununu |url=https://www.wmtw.com/article/bobby-charles-holds-town-hall-with-former-new-hampshire-governor-chris-sununu/74113686 |date=October 12, 2026 |website=WMTW |access-date=October 16, 2026}}</ref>
+*[[Chris Christie]], former [[governor of New Jersey]] (2010–2018)<ref>{{cite web|url=https://newjerseyglobe.com/presidential-election/christie-stumps-in-maine-for-gop-gubernatorial-candidate/|title=Christie stumps in Maine for GOP gubernatorial candidate|last=Wildstein|first=David|date=September 23, 2026|access-date=September 23, 2026|website=[[New Jersey Globe]]}}</ref>
+*[[Chris Sununu]], former [[governor of New Hampshire]] (2017–2025)<ref>{{cite web |first=Ronnie |last=Parrillo |title=Bobby Charles holds town hall with former New Hampshire governor Chris Sununu |url=https://www.wmtw.com/article/bobby-charles-holds-town-hall-with-former-new-hampshire-governor-chris-sununu/74113686 |date=October 12, 2026 |website=WMTW |access-date=October 16, 2026}}</ref>
 }}
 {{Endorsements box
 |title=Rick Bennett (I)
 |list=
 ;Executive branch officials
 *[[Christine Todd Whitman]], former [[administrator of the Environmental Protection Agency]] (2001–2003) and governor of [[New Jersey]] (1994–2001) ''([[Forward Party (United States)|Forward]]; elected as a Republican)''<ref name="Forward">{{cite web |last1=Mundry |first1=Jackie |title=Former New Jersey governor campaigns in Maine for Rick Bennett |url=https://www.wmtw.com/article/former-new-jersey-governor-campaigns-rick-bennett/69501281 |access-date=November 20, 2025 |work=[[WMTW (TV)|WMTW]] |date=November 20, 2025}}</ref>
-*[[William Cohen]], former [[United States Secretary of Defense]] (1997–2001), [[United States senator]] (1979–1997), and [[United States representative]] (1973–1979) from [[Maine]] ''(Republican)''<ref name="Cohen">{{cite web |title=Bill Cohen endorses Rick Bennett for Maine governor |url=https://www.wabi.tv/2026/09/21/bill-cohen-endorses-rick-bennett-maine-governor/ |access-date=September 21, 2026 |work=[[WABI-TV|WABI]] |date=September 21, 2026}}</ref>
+*[[William Cohen]], former [[United States Secretary of Defense|secretary of defense]] (1997–2001) and [[United States senator]] (1979–1997) from [[Maine]] ''(Republican)''<ref name="Cohen">{{cite web |title=Bill Cohen endorses Rick Bennett for Maine governor |url=https://www.wabi.tv/2026/09/21/bill-cohen-endorses-rick-bennett-maine-governor/ |access-date=September 21, 2026 |work=[[WABI-TV|WABI]] |date=September 21, 2026}}</ref>
 
 ;State legislators
 *[[Lydia Crafts]], [[Maine House of Representatives|state representative]] from the 90th district (2020–present) ''(Democratic)''<ref name="StateLaw">{{cite web |title=State lawmakers endorse independent Rick Bennett for governor |url=https://www.newscentermaine.com/video/news/politics/maine-politics/watch-full-state-lawmakers-endorse-independent-rick-bennett-for-governor/97-3ec3f313-b26e-4299-847c-696c9c407408 |website=News Center Maine |access-date=20 June 2026}}</ref>

@@ -37,7 +37,7 @@
 
 The '''2026 United States Senate election in Texas''' will be held on November 3, 2026, to elect a member of the [[United States Senate]] to represent the state of [[Texas]]. [[Republican Party (United States)|Republican]] state attorney general [[Ken Paxton]] and [[Democratic Party (United States)|Democratic]] state representative [[James Talarico]] are the nominees for their respective parties.
 
-Four-term Republican incumbent [[John Cornyn]] sought re-election, but was challenged for the party's nomination by Paxton. After no candidate received a majority in the March 3 primary, Paxton, aided by a late endorsement from President [[Donald Trump]], defeated Cornyn with 63.8% of the vote in a [[two-round system|runoff]] on May 26. Cornyn became the first incumbent senator from Texas to lose renomination since Democrat [[Ralph Yarborough]] in [[1970 United States Senate election in Texas|1970]]. In the Democratic primary, Talarico won the nomination with 52.4% of the vote over congresswoman [[Jasmine Crockett]] at 46.2%.
+Four-term Republican incumbent [[John Cornyn]] sought re-election, but was challenged for the party's nomination by Paxton. After no candidate received a majority in the March 3 primary, Paxton, aided by a late endorsement from President [[Donald Trump]], defeated Cornyn with 63.8% of the vote in a [[two-round system|runoff]] on May 26. Cornyn became the first incumbent senator from Texas to lose renomination since Democrat [[Ralph Yarborough]] in [[1970 United States Senate election in Texas|1970]]. In the Democratic primary, Talarico won the nomination with 52.4% of the vote over congresswoman [[Jasmine Crockett]].
 
 Democrats have not won a Senate election in Texas since [[1988 United States Senate election in Texas|1988]].
 
@@ -94,13 +94,13 @@ All three candidates competed for the endorsement of Donald Trump, having made s
 | title=John Cornyn
 | colwidth=60
 | list=
-'''Executive branch officials'''
+;Executive branch officials
 * [[Susan Combs]], former [[United States Secretary of the Interior|U.S. assistant secretary of the interior]] (2019–2020) and [[Texas Comptroller of Public Accounts|comptroller of Texas]] (2007–2015)<ref name="Odessa130"/>
 * [[Donald Evans]], former [[United States Secretary of Commerce|U.S. secretary of commerce]] (2001–2005)<ref name=odessaoaoa>{{Cite web |url=https://www.oaoa.com/local-news/more-than-60-west-texas-republicans-endorse-cornyn-for-reelection/ |title=More than 60 West Texas Republicans endorse Cornyn for reelection |date=January 21, 2025 |access-date=January 26, 2026 |language=en-US |work=[[Odessa American]]}}</ref>
 * [[Kay Bailey Hutchison]], former [[List of United States permanent representatives to NATO|U.S. ambassador to NATO]] (2017–2021) and [[List of United States Senators from Texas|U.S. senator from Texas]] (1993–2013)<ref>{{cite web |title=We served Texas in the Senate. Now we're backing John Cornyn |url=https://www.houstonchronicle.com/opinion/outlook/article/cornyn-gramm-hutchison-texas-senate-gop-primary-21112932.php|access-date=February 25, 2026 |language=en |date=October 22, 2025|last1=Gramm|first1=Phil|last2=Bailey Hutchison|first2=Kay|website=Houston Chronicle}}</ref>
 * [[Rick Perry]], former [[United States Secretary of Energy|U.S. secretary of energy]] (2017–2019) and [[governor of Texas]] (2000–2015)<ref name="Perry">{{cite web |last1=Perry |first1=Rick |title=Rick Perry: Why I am supporting John Cornyn in the U.S. Senate primary |url=https://www.houstonchronicle.com/opinion/outlook/article/rick-perry-endorses-john-cornyn-2025-gop-primary-20796894.php |website=[[Houston Chronicle]] |access-date=August 5, 2025 |date=August 4, 2025}}</ref>
 * [[Pamela Willeford]], former [[List of ambassadors of the United States to Switzerland and Liechtenstein|U.S. ambassador to Switzerland and Liechtenstein]] (2003–2006)<ref name="Odessa130"/>
-'''U.S. senators'''
+;U.S. senators
 * [[John Barrasso]], [[Senate majority whip]] (2025–present) from [[Wyoming]] (2007–present)<ref name=TXendorse>{{cite web |title=John who? Texas GOP skirts Cornyn endorsement|url=https://punchbowl.news/article/campaigns/no-texas-gop-endorsement-cornyn/ |website=[[Punchbowl News]] |last1=Mutnick|first1=Ally |last2=Soellner|first2=Mica |access-date=June 27, 2025 |language=en |date=June 27, 2025}}</ref>
 * [[Marsha Blackburn]], [[Tennessee]] (2019–present)<ref name="TXendorse" />
 * [[Katie Britt]], [[Alabama]] (2023–present)<ref name="KindOfNervous">{{cite web |title=Nervous Republicans rally behind Cornyn as they wait on Trump's Texas pick |url=https://www.politico.com/news/2026/03/04/trump-endorsement-texas-cornyn-paxton-00813475 |website=Politico |access-date=March 5, 2026 |language=en |date=March 4, 2026}}</ref>
@@ -118,7 +118,7 @@ All three candidates competed for the endorsement of Donald Trump, having made s
 * [[Tim Sheehy]], [[Montana]] (2025–present)<ref name="ScottCornyn"/>
 * [[John Thune]], [[Senate majority leader]] (2025–present) from [[South Dakota]] (2005–present)<ref>{{cite web |title=Thune endorses Cornyn ahead of what could be a thorny primary |url=https://www.politico.com/live-updates/2025/03/26/congress/john-cornyn-senate-primary-00004720 |website=[[Politico]] |access-date=April 10, 2025 |language=en |date=March 26, 2025}}</ref>
 * [[Tommy Tuberville]], [[Alabama]] (2021–present)<ref name="TXendorse" />
-'''U.S. representatives'''
+;U.S. representatives
 * [[Bill Archer]], former [[Texas's 7th congressional district|TX-07]] (1971–2001)<ref name="Cornyn 15">{{cite web|url=https://www.texastribune.org/2025/09/24/john-cornyn-congress-endorsements-gop-senate-primary-paxton/|title=Cornyn nabs endorsements from 15 former GOP members of Congress in primary vs. Paxton|last=Friedman|first=Marijke|date=September 24, 2025|access-date=September 24, 2025|website=[[The Texas Tribune]]}}</ref>
 * [[Joe Barton]], former [[TX-06]] (1985–2019)<ref name="Klick"/>
 * [[Henry Bonilla]], former [[Texas's 23rd congressional district|TX-23]] (1993–2007)<ref name="Cornyn 15"/>
@@ -139,10 +139,10 @@ All three candidates competed for the endorsement of Donald Trump, having made s
 * [[Ted Poe]], former [[Texas's 2nd congressional district|TX-02]] (2005–2019)<ref name="Cornyn 15"/>
 * [[Lamar Smith]], former [[Texas's 21st congressional district|TX-21]] (1987–2019)<ref name="Cornyn 15"/>
 * [[Mac Thornberry]], former [[Texas's 13th congressional district|TX-13]] (1995–2021)<ref name="Cornyn 15"/>
-'''Statewide officials'''
+;Statewide officials
 * [[Jeffrey S. Boyd]], former justice of the [[Texas Supreme Court]] (2012–2025)<ref name="Odessa130"/>
 * [[Harriet O'Neill]], former justice of the [[Texas Supreme Court]] (1999–2010)<ref name="Odessa130"/>
-'''State legislators'''
+;State legislators
 * [[Dade Phelan]], former [[Speaker of the Texas House of Representatives|speaker of the House]] (2021–2025) from [[Texas's 21st House of Representatives district|HD-21]] (2015–present)<ref name="Klick"/>
 * 6 other current [[Texas House of Representatives|state representatives]]{{efn|
 * [[Giovanni Capriglione]], [[Texas's 98th House of Representatives district|HD-98]] (2013–present)<ref name="CBS4"/>
@@ -163,7 +163,7 @@ All three candidates competed for the endorsement of Donald Trump, having made s
 * [[John N. Raney]], former [[Texas's 14th House of Representatives district|HD-14]] (2011–2025)<ref name="Odessa130"/>
 }}
 
-'''Local officials'''
+;Local officials
 * [[Jim Darling]], former [[List of mayors of McAllen, Texas|mayor of McAllen]] (2013–2021) ''(Democratic)''<ref name="BorderLeaders"/>
 * [[J.E. "Eddie" Guerra]], [[Hidalgo County Sheriff's Office (Texas)|sheriff]] of [[Hidalgo County, Texas|Hidalgo County]] (2014–present) ''(Democratic)''<ref name="TXSheriffs">{{cite web |last1=Blankleu |first1=Bethany |title=Texas sheriffs: Without Cornyn, 'thousands of people would have died' in Texas |url=https://www.thecentersquare.com/texas/article_f3336855-ab96-4fa8-af86-46d03cbda0aa.html |website=The Center Square |access-date=February 21, 2026 |language=en |date=February 20, 2026}}</ref>
 * [[Mattie Parker]], [[List of mayors of Fort Worth, Texas|mayor of Fort Worth]] (2021–present)<ref name="FW Mayors">{{cite web|url=https://www.star-telegram.com/news/politics-government/state-politics/article312446119.html|title=Fort Worth Mayor Mattie Parker makes endorsement in Texas' U.S. Senate race
@@ -173,17 +173,17 @@ All three candidates competed for the endorsement of Donald Trump, having made s
 * [[Pete Saenz]], former [[List of mayors of Laredo, Texas|mayor of Laredo]] (2014–2022) ''(Democratic)''<ref name="BorderLeaders"/>
 * [[Javier Villalobos]], [[List of mayors of McAllen, Texas|mayor of McAllen]] (2021–present)<ref name="BorderLeaders">{{cite web |last1=Whitlock |first1=Ron |title=More than 200 border leaders announce their endorsement of Sen. Cornyn |url=https://riograndeguardian.com/stories/more-than-200-border-leaders-announce-their-endorsement-of-sen-cornyn,48754 |website=Rio Grande Guardian |access-date=December 6, 2025 |language=en |date=December 4, 2025}}</ref>
 
-'''Individuals'''
+;Individuals
 * [[Ayaan Hirsi Ali]], conservative activist and former member of the [[House of Representatives of the Netherlands|Dutch House of Representatives]] (2003–2006)<ref name="FX00">{{cite web |last1=Henry |first1=John |title=John Cornyn, Fort Worth Allies Take Aim at Ken Paxton |url=https://fwtx.com/news/john-cornyn-fort-worth-allies-take-aim-at-ken-paxton/ |website=Fort Worth Magazine |access-date=February 20, 2026 |language=en-us |date=February 19, 2026}}</ref>
 * [[Max Lucado]], pastor<ref>{{cite web |last1=Foley |first1=Ryan |title=Max Lucado backs John Cornyn for re-election to US Senate, praises his 'remarkable integrity' |url=https://www.christianpost.com/news/max-lucado-backs-john-cornyn-for-re-election-to-us-senate.html |website=Christian Post |access-date=February 18, 2026 |language=en |date=February 17, 2026}}</ref>
 * [[Jim McIngvale]], businessman<ref>{{cite web |title=Paxton racks up Texas endorsements as bitter Cornyn runoff hits fever pitch |url=https://www.aol.com/articles/paxton-racks-texas-endorsements-bitter-141155426.html |website=AOL.com |access-date=March 27, 2026 |date=March 19, 2026}}</ref>
 
-'''Labor unions'''
+;Labor unions
 * [[Combined Law Enforcement Associations of Texas]]<ref>{{cite web |title=CLEAT Political Action Committee |url=https://www.cleat.org/services/public-affairs/cleat-pac/ |website=CLEAT |access-date=December 3, 2025}}</ref>
 * [[Dallas Police Association]]<ref name="Klick"/>
 * [[National Border Patrol Council]]<ref name="CruzNoEndorsement"/>
 
-'''Organizations'''
+;Organizations
 * [[AIPAC]] ''(co-endorsed with Hunt)''<ref>{{Cite web |title=- AIPAC Political Portal |url=https://candidates.aipacpac.org/page/featured |access-date=April 28, 2025 |website=candidates.aipacpac.org}}</ref>
 * [[American Academy of Orthopaedic Surgeons]]<ref name="ambulance"/>
 * [[American Ambulance Association]]<ref name="ambulance">{{cite web |last1=Powell |first1=Adam |title=John Cornyn gets key healthcare endorsements for Texas Senate |url=https://www.elpasotimes.com/story/news/politics/elections/2026/04/02/texas-senate-runoff-election-cornyn-gaining-steam-in-showdown-with-paxton/89435749007/ |website=El Paso Times |access-date=April 3, 2026}}</ref>
@@ -205,7 +205,7 @@ All three candidates competed for the endorsement of Donald Trump, having made s
 * [[Texas Medical Association]]<ref name="wealthof">{{cite web |last1=Powell |first1=Adam |title=Texas Senate race: Cornyn nets TEXPAC endorsement as Talarico surges |url=https://www.elpasotimes.com/story/news/politics/elections/2026/02/12/texas-senate-race-john-cornyn-gains-medical-backing-james-talarico-expands-donor-base/88642384007/ |website=El Paso Times |access-date=February 13, 2026}}</ref>
 * [[United States Chamber of Commerce]]<ref name="flexcom">{{cite web |last1=Powell |first1=Adam |title=Texas Senate race: Cornyn lands Chamber nod as Paxton touts TPUSA support |url=https://www.elpasotimes.com/story/news/politics/elections/2026/02/10/texas-senate-race-john-cornyn-ken-paxton-endorsements-chamber-turning-point-republican-primary/88605907007/ |website=El Paso Times |access-date=February 10, 2026}}</ref>
 
-'''Newspapers'''
+;Newspapers
 * ''[[Austin American-Statesman]]''<ref name="auto2">{{cite web |title=Cornyn remains the GOP's most responsible choice for U.S. Senate |url=https://www.statesman.com/opinion/editorials/article/cornyn-remains-gop-s-responsible-choice-u-s-21339983.php |website=Austin American-Statesman |access-date=February 15, 2026 |language=en |date=February 11, 2026}}</ref>
 * ''[[Dallas Morning News]]''<ref name="auto4">{{Cite web|url=https://www.dallasnews.com/opinion/we-recommend/2026/02/15/us-senate-texas-republican-primary-election/|title=We recommend for U.S. Senate, Republican primary|date=February 15, 2026|website=Dallas News}}</ref>
 * ''[[Fort Worth Star-Telegram]]''<ref name="auto3">{{cite web |title=Star-Telegram endorsement: Republicans' choice between Cornyn, Paxton for Senate |url=https://www.star-telegram.com/opinion/election-recommendations/article314703295.html |website=Fort Worth Star-Telegram |access-date=February 17, 2026}}</ref>
@@ -215,22 +215,22 @@ All three candidates competed for the endorsement of Donald Trump, having made s
 {{Endorsements box
 | title=Ken Paxton
 | list=
-'''Executive branch officials'''
+;Executive branch officials
 * [[Steve Bannon]], former [[Counselor to the President|senior counselor to the president]] (2017)<ref name="Loomer1"/>
 * [[John Rich]], [[United States special envoy]] for [[Land tenure|American landowners]] (2026–present)<ref>{{cite news |last=Nasir |first=Leena |title=John Rich Makes Endorsement In Texas Republican Senate Primary |url=https://www.aol.com/john-rich-makes-endorsement-texas-163502821.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAIfChus1uIV8AoIyeZf5veilc9OaTgtS6xPsH029sotfM1odeVJ3bY0XfG5lNUSMknKO210wNyMOFJ2FCNa8q0xkzgEVPkfmzX_Kjr7_XWOMRleCk_1QfWFieFDXu1CqtopEK4dsFoNs5FJxvkR4M1tdPo5y3sLEsbxZ8hD1hp9M |website=AOL |access-date= May 12, 2025}}</ref>
 
-'''U.S. representatives'''
+;U.S. representatives
 * [[Lance Gooden]], [[Texas's 5th congressional district|TX-05]] (2019–present)<ref name=twotexas>{{cite web |title=Two Texas Republicans throw support behind Paxton in brewing Senate fight |url=https://www.politico.com/live-updates/2025/04/10/congress/ken-paxton-john-cornyn-senate-endorsements-00007743 |first=Amanda | last=Friedman| website=[[Politico]] |access-date=April 10, 2025 |language=en |date=April 10, 2025}}</ref>
 * [[Troy Nehls]], [[Texas's 22nd congressional district|TX-22]] (2021–present)<ref name=twotexas/>
 
-'''State legislators'''
+;State legislators
 * [[Anthony Kern]], former [[Arizona]]'s [[Arizona's 27th legislative district|SD-27]] (2023–2025)<ref>{{cite web |title=Turning Point Action endorsing Ken Paxton sparks backlash online |url=https://www.newsweek.com/turning-point-action-endorsing-ken-paxton-sparks-backlash-online-11493994 |website=Newsweek |access-date=February 10, 2026 |language=en |date=February 9, 2026}}</ref>
 
-'''Individuals'''
+;Individuals
 * [[Ted Nugent]], guitarist and singer<ref name="Nugent1">{{cite web |title=Voting begins in Texas as a Republican senator clings to Trump to keep his job |url=https://www.independent.co.uk/news/world/americas/us-politics/trump-cornyn-voting-texas-primary-b2922357.html |website=The Independent |access-date=February 18, 2026 |language=en |date=February 17, 2026}}</ref>
 * [[Randy Quaid]], actor<ref name="magabeast">{{cite web |last1=Ewall-Wice |first1=Sarah |title=MAGA Civil War Breaks Out in America's Wildest Primary |url=https://www.thedailybeast.com/maga-civil-war-breaks-out-in-americas-wildest-primary/ |website=The Daily Beast |access-date=February 18, 2026 |language=en |date=February 17, 2026}}</ref>
 
-'''Organizations'''
+;Organizations
 * [[Gun Owners of America]]<ref>{{Cite web|url=https://www.gunowners.org/gun-owners-of-america-endorses-ken-paxton-for-u-s-senate/|title=Gun Owners of America Endorses Ken Paxton for U.S. Senate|website=[[Gun Owners of America]]|date= May 21, 2025}}</ref>
 * [[Republicans for National Renewal]]<ref>{{cite web |title=Republicans for National Renewal Endorses Ken Paxton for U.S. Senate |url=https://rnrenewal.org/statements/republicans-for-national-renewal-endorses-ken-paxton-for-u-s-senate/ |website=Republicans for National Renewal |access-date=November 25, 2025 |date=June 18, 2025}}</ref>
 * [[National Association for Gun Rights|Texas Gun Rights]]<ref>{{cite web |title=Texas Gun Rights – One Big Beautiful Ballot – 2026 Republican Primary|url=https://txgunrights.org/texas-gun-rights-one-big-beautiful-ballot-2026-republican-primary/|access-date=January 21, 2026 |language=en |date=January 14, 2026}}</ref>
@@ -239,30 +239,30 @@ All three candidates competed for the endorsement of Donald Trump, having made s
 {{Endorsements box
 |title=Wesley Hunt
 |list=
-'''U.S. representatives'''
+;U.S. representatives
 * [[Eli Crane]], [[Arizona's 2nd congressional district|AZ-02]] (2023–present)<ref name="Crane11"/> ''(endorsed Paxton in the runoff)''<ref name="RunoffEndorsementsB">{{cite web |title=United States Senate election in Texas, 2026 (May 26 Republican primary runoff) |url=https://ballotpedia.org/United_States_Senate_election_in_Texas,_2026_(May_26_Republican_primary_runoff)#Endorsements |website=Ballotpedia |access-date=April 17, 2026 |language=en |date=April 11, 2026}}</ref>
-'''Organizations'''
+;Organizations
 * [[AIPAC]] ''(co-endorsed with Cornyn)''<ref>{{cite web|url=https://candidates.aipacpac.org/page/featured/|title=Thank You for Supporting Pro-Israel Candidates|access-date=January 26, 2026}}</ref>
 * Austin [[Republican Liberty Caucus]]<ref>{{Cite tweet |author=Austin RFC |user=ATXRLC |number=1983559903697653950 |date=October 30, 2025 |title= If @JohnCornyn is attacking @HuntforSenate for votes missed due to family committments, he's shamefully scraping barrel's bottom. Vote for Wesley Hunt, Vote for individual liberty, individual responsibility, and Texas values! @WesleyHuntTX @RLCofTX}}</ref>
 }}
 {{Endorsements box
 | title=Declined to endorse
 | list=
-'''U.S. senators'''
+;U.S. senators
 * [[Ted Cruz]], [[Texas]] (2013–present)<ref name="CruzNoEndorsement">{{cite news |last1=Sivak |first1=David |last2=Green |first2=Lauren |title=Cruz won't back Senate colleague Cornyn in preview of Texas primary divisions |url=https://www.washingtonexaminer.com/news/campaigns/congressional/3375719/ted-cruz-no-support-senate-colleague-john-cornyn-texas-primary-divisions/ |access-date=April 10, 2025 |work=[[Washington Examiner]] |date=April 9, 2025}}</ref>
 
-'''U.S. representatives'''
+;U.S. representatives
 * [[Brian Babin]], [[Texas's 36th congressional district|TX-36]] (2015–present)<ref name="TXendorse" />
 * [[Keith Self]], [[Texas's 3rd congressional district|TX-03]] (2023–present)<ref name="TXendorse" />
 
-'''Statewide officials'''
+;Statewide officials
 * [[Greg Abbott]], [[governor of Texas]] (2015–present)<ref>{{cite web |last1=Rosiles |first1=Mateo |title=Greg Abbott rules out endorsement in Cornyn vs. Paxton Senate runoff |url=https://www.usatoday.com/story/news/politics/elections/2026/05/15/abbott-wont-endorse-cornyn-or-paxton-in-texas-senate-runoff/90095973007/ |website=USA TODAY |access-date=May 16, 2026}}</ref>
 * [[Dan Patrick (politician)|Dan Patrick]], [[lieutenant governor of Texas]] (2015–present)<ref name="PatrickDecline">{{cite web |last1=Birenbaum |first1=Gabby |title=Ken Paxton defeats John Cornyn for U.S. Senate GOP nomination |url=https://www.texastribune.org/2026/05/26/texas-john-cornyn-ken-paxton-us-senate-republican-primary-runoff/ |website=[[The Texas Tribune]] |language=en |date=May 26, 2026 |quote=Texas' top statewide elected officials, including Sen. Ted Cruz, Gov. Greg Abbott and Lt. Gov. Dan Patrick, stayed mum on the race.}}</ref>
 
-'''State legislators'''
+;State legislators
 * [[Angela Paxton]], former majority leader of the [[Texas Senate]] (2023–2025) from the [[Texas's 8th Senate district|8th district]] (2019–present)<ref>{{cite web |last1=Swai |first1=Finya |title=Paxton's estranged wife doesn't endorse in Texas Senate race |url=https://thehill.com/homenews/campaign/5895724-ken-paxton-texas-senate-race-wife/ |website=[[The Hill (newspaper)|The Hill]] |date=May 26, 2026 |access-date=May 26, 2026}}</ref>
 
-'''Labor unions'''
+;Labor unions
 * Texas [[AFL-CIO]]<ref name="aflciodecline"/>{{#tag:ref|Endorsement only applicable for the primary election.|group=n|name=Prim1}}
 }}
 
@@ -2804,6 +2804,7 @@ The election is taking place amidst a broader push by the Trump administration t
 | list =
 '''Executive branch officials'''
 * [[Kristi Noem]], former [[United States Secretary of Homeland Security|secretary of homeland security]] (2025–2026)<ref name="Noem">{{cite web |last=Gardner |first=Chris |title=Kacey Musgraves Claps Back at Kristi Noem With Dig About Killing Her Dog |url=https://www.hollywoodreporter.com/news/politics-news/kacey-musgraves-kristi-noem-feud-james-talarico-texas-1236728299/ |website=[[The Hollywood Reporter]] |date=October 12, 2026 |access-date=October 12, 2026}}</ref>
+* [[Brooke Rollins]],  [[United States Secretary of Agriculture]] (2025–present)<ref>{{cite web |last= Meyer|first= Leeza |title=At Tyler rally, JD Vance backs Paxton for Senate, shows support for Texas industries |url=https://tylerpaper.com/2026/10/14/u-s-vice-president-jd-vance-backs-paxton-for-senate-shows-support-for-texas-industries/ |website=[[Tyler Morning Telegraph]] |date=October 14, 2026 |access-date=October 18, 2026}}</ref>
 
 '''U.S. senators'''
 * [[Jim Banks]], [[List of United States senators from Indiana|Indiana]] (2025–present)<ref>{{cite web |last=Howey |first=Brian |title=Jim Banks' 'shared values' test comes home to Indiana |url=https://pro.stateaffairs.com/in/columns/paxton-cornyn-trump-republican-decline |website=[[State Affairs]] |date=May 29, 2026 |access-date=September 17, 2026}}</ref>
@@ -2849,7 +2850,9 @@ The election is taking place amidst a broader push by the Trump administration t
 * [[Cody Vasut]], [[Texas's 25th House of Representatives district|HD-25]] (2021–present)<ref name= "cainandvasut"/>
 
 '''Individuals'''
+* [[Jack Brewer]], former [[National Football League|NFL]] player<ref>{{cite web |last= Volmert|first= Isabella |title=Dozens of pastors back Ken Paxton as candidates compete for religious high ground |url=https://www.dallasnews.com/news/faith/article/paxton-pastors-coalition-22479007.php |website=[[The Dallas Morning News]] |date=October 16, 2026 |access-date=October 18, 2026}}</ref>
 * [[Tony Buzbee]], lawyer<ref>{{cite web |last=Dearman |first=Eleanor |title=Ken Paxton's impeachment defense attorney endorses James Talarico for Senate |url=https://www.star-telegram.com/news/politics-government/state-politics/article316046053.html |website=[[Fort Worth Star-Telegram]] |date=June 8, 2026 |access-date=September 17, 2026}}</ref>
+* [[Riley Gaines]], political activist and former swimmer<ref>{{cite web |last= Morton|first= Joseph |title=Trump, a Cowboy and a Science Guy: Who’s taking sides in Texas’ Senate race |url=https://www.dallasnews.com/news/politics/article/texas-senate-candidates-backed-by-big-names-22466034.php |website=[[The Dallas Morning News]] |date=October 8, 2026 |access-date=October 18, 2026}}</ref>
 * [[Zachary Levi]], actor<ref>{{Cite news |url=https://www.dailywire.com/news/exclusive-actor-zachary-levi-makes-big-endorsement-ahead-of-midterms |title=EXCLUSIVE: Actor Zachary Levi Makes Big Endorsement Ahead Of Midterms |last=Prestigiacomo |first=Amanda |work=[[The Daily Wire]] |date=October 13, 2026 |access-date=October 15, 2026}}</ref>
 * [[Randy White (American football)|Randy White]], former professional football player<ref>{{cite web |last=Pugh |first=Chris |title=A Cowboys legend just jumped into one of America's closest Senate races |url=https://www.cleveland.com/news/2026/10/a-cowboys-legend-just-jumped-into-one-of-americas-closest-senate-races.html |website=[[The Plain Dealer]] |date=October 5, 2026 |access-date=October 5, 2026}}</ref>
 
@@ -2923,7 +2926,8 @@ The election is taking place amidst a broader push by the Trump administration t
 '''Individuals'''
 * [[Jack Antonoff]], singer and producer<ref>{{Cite news |url=https://www.statesman.com/entertainment/music/article/jack-antonoff-talarico-acl-fest-bleachers-22472305.php |title=Jack Antonoff wears 'Talarico for Texas' shirt at ACL Fest |last=Psencik |first=Katey |work=[[Austin American-Statesman]] |date=October 12, 2026 |access-date=October 12, 2026}}</ref>
 * [[Beck Bennett]], actor and comedian<ref name="Celebrity"/>
-* [[Mark Cuban]], businessman<ref name="Celebrity"/>
+* [[Barbara Bush (born 1981)|Barbara Bush]], daughter of [[President of the United States|President]] [[George W. Bush]] ''(Independent)''<ref name="celebrity"/>
+* [[Mark Cuban]], businessman ''(Independent)''<ref name="Celebrity"/>
 * [[Matthew DeSarno]], former FBI special agent<ref>{{Cite web |last=Powell |first=Adam |title=Cornyn's Dr. Seuss-inspired ad attacks Paxton in Texas US Senate race |url=https://www.elpasotimes.com/story/news/politics/elections/2026/05/06/cornyn-ramps-up-attacks-on-paxton-weeks-before-texas-us-senate-runoff/89950368007/ |access-date=May 12, 2026 |website=El Paso Times |language=en-US}}</ref>
 * [[Don Henley]], singer and musician<ref name="Celebrity"/>
 * [[Luci Baines Johnson]], daughter of former president [[Lyndon B. Johnson]]<ref>{{cite AV media |url=https://www.youtube.com/watch?v=ws-38U--VZg |title=Luci Baines Johnson Backs His Senate Campaign |website=[[The Financial Express (India)|The Financial Express]] |via=[[YouTube]] |type=Video |date=March 6, 2024 |access-date=September 11, 2026}}</ref>

@@ -34,9 +34,9 @@
 }}
 {{ElectionsNH}}
 
-The '''2026 United States Senate election in New Hampshire''' will be held on November 3, 2026, to elect a member of the [[United States Senate]] to represent the state of [[New Hampshire]]. [[Democratic Party (United States)|Democratic]] congressman [[Chris Pappas (American politician)|Chris Pappas]] and [[Republican Party (United States)|Republican]] former senator [[John E. Sununu|John Sununu]] are the nominees for their respective parties. Democratic incumbent [[Jeanne Shaheen]] is not seeking re-election to a fourth term.
+The '''2026 United States Senate election in New Hampshire''' will be held on November 3, 2026, to elect a member of the [[United States Senate]] to represent the state of [[New Hampshire]]. [[Democratic Party (United States)|Democratic]] Congressman [[Chris Pappas (American politician)|Chris Pappas]] and [[Republican Party (United States)|Republican]] former Senator [[John E. Sununu|John Sununu]] are the nominees for their respective parties. Democratic incumbent [[Jeanne Shaheen]] is not seeking re-election to a fourth term.
 
-[[Primary elections]] were held on September 8. Pappas won the Democratic nomination with 65% of the vote against medical scientist Karishma Manzur. Sununu, who held the seat for one term until he was defeated by Shaheen in [[2008 United States Senate election in New Hampshire|2008]], won the Republican nomination with 68.5% of the vote against former Massachusetts senator [[Scott Brown (politician)|Scott Brown]].
+[[Primary elections]] were held on September 8. Pappas won the Democratic nomination with 65% of the vote against medical scientist Karishma Manzur. Sununu, who held the seat for one term until he was defeated by Shaheen in [[2008 United States Senate election in New Hampshire|2008]], won the Republican nomination with 68.5% of the vote against former Massachusetts Senator [[Scott Brown (politician)|Scott Brown]].
 
 This will be the first open Senate election in New Hampshire since [[2010 United States Senate election in New Hampshire|2010]]. Republicans have not won a Senate election in New Hampshire since that race.
 
@@ -64,8 +64,8 @@ Shaheen was first elected in [[2008 United States Senate election in New Hampshi
 ====Declined====
 *[[Maggie Goodlander]], [[U.S. representative]] for {{ushr|NH|2}} (2025–present) ''([[2026 United States House of Representatives elections in New Hampshire#District 2|running for re-election]], endorsed Pappas)''<ref name="Decline">{{Cite web |last=Sexton |first=Adam |date=April 17, 2025 |title=US Rep. Maggie Goodlander decides against run for US Senate in 2026 |url=https://www.wmur.com/article/maggie-goodlander-senate-run-decision-41725/64514504 |access-date=April 17, 2025 |website=[[WMUR-TV]] |language=en}}</ref>
 *[[Annie Kuster]], former [[U.S. representative]] for {{ushr|NH|2}} (2013–2025) ''(endorsed Pappas)''<ref name="eyes">{{Cite web |last=Solender |first=Andrew |date=2025-03-12 |title=Scoop: Rep. Chris Pappas eyes Jeanne Shaheen's newly open N.H. Senate seat |url=https://www.axios.com/2025/03/12/chris-pappas-jeanne-shaheen-senate-new-hampshire |access-date=2025-03-12 |website=[[Axios (website)|Axios]] |quote=Former Rep. Annie Kuster (D-N.H.), who retired from Congress this year, told Axios she 'will take a serious look if Pappas does not run.' |language=en}}</ref>
-*[[Jeanne Shaheen]], incumbent U.S. Senator (2009–present)<ref name="shaheen">{{cite news |last=Belman |first=Felice |title=Senator Jeanne Shaheen, New Hampshire Democrat, Won't Run Again in 2026 |url=https://www.nytimes.com/2025/03/12/us/politics/jeanne-shaheen-new-hampshire-senate-2026.html |access-date=March 12, 2025 |work=[[The New York Times]] |date=March 12, 2025}}</ref> ''(endorsed Pappas)''<ref name=ShaheenPappas/>
-*[[Andru Volinsky]], former [[Executive Council of New Hampshire|Executive Councilor]] (2017–2021) and candidate for governor in [[2020 New Hampshire gubernatorial election|2020]]<ref>{{Cite AV media |url=https://www.wmur.com/article/andru-volinsky-closeup-new-book-school-funding/64331862 |title=Andru Volinsky debuts new book on fight for education funding |date=2025-03-30 |last=Sexton |first=Adam |language=en |access-date=2025-03-30 |work=[[WMUR-TV]] |quote=[Adam Sexton]: Are you interested in running for U.S. Senate at all in 2026? [Andru Volinsky]: My focus is the book.}}</ref>
+*[[Jeanne Shaheen]], incumbent U.S. senator (2009–present)<ref name="shaheen">{{cite news |last=Belman |first=Felice |title=Senator Jeanne Shaheen, New Hampshire Democrat, Won't Run Again in 2026 |url=https://www.nytimes.com/2025/03/12/us/politics/jeanne-shaheen-new-hampshire-senate-2026.html |access-date=March 12, 2025 |work=[[The New York Times]] |date=March 12, 2025}}</ref> ''(endorsed Pappas)''<ref name=ShaheenPappas/>
+*[[Andru Volinsky]], former [[Executive Council of New Hampshire|executive councilor]] (2017–2021) and candidate for governor in [[2020 New Hampshire gubernatorial election|2020]]<ref>{{Cite AV media |url=https://www.wmur.com/article/andru-volinsky-closeup-new-book-school-funding/64331862 |title=Andru Volinsky debuts new book on fight for education funding |date=2025-03-30 |last=Sexton |first=Adam |language=en |access-date=2025-03-30 |work=[[WMUR-TV]] |quote=[Adam Sexton]: Are you interested in running for U.S. Senate at all in 2026? [Andru Volinsky]: My focus is the book.}}</ref>
 
 ===Endorsements===
 {{Endorsements box
@@ -119,11 +119,11 @@ Shaheen was first elected in [[2008 United States Senate election in New Hampshi
 *[[Susan Lynch (pediatrician)|Susan Lynch]], former [[first lady]] of New Hampshire (2005–2013)<ref name="Lynch"/>
 
 ;Labor unions
-*New Hampshire [[AFL-CIO]]<ref>{{cite web |title= NH AFL-CIO backing Pappas in Democratic Senate primary |url= https://www.unionleader.com/news/politics/voters/nh-afl-cio-backing-pappas-in-democratic-senate-primary/article_a2a25674-b2a7-4920-b58e-2e879002abb2.html |website=www.unionleader.com |publisher=New Hampshire Union Leader |access-date=September 3, 2026 |language=en |date=September 2, 2026}}</ref>
 *[[American Federation of Government Employees]]<ref>{{cite web |title=Largest Federal Employee Union Endorses Rep. Chris Pappas for Senate |url=https://www.afge.org/publication/largest-federal-employee-union-endorses-rep-chris-pappas-for-senate/ |website=www.afge.org |publisher=American Federation of Government Employees |access-date=May 6, 2025 |language=en |date=May 6, 2025}}</ref>
 *[[American Federation of Teachers]]–New Hampshire<ref name="AFT">{{cite web |last1=Splaine |first1=Dan |title=At Nashua event, AFT–New Hampshire backs Pappas for Senate |url=https://www.nashuaindependent.com/at-nashua-event-aft-new-hampshire-backs-pappas-for-senate/ |website=Nashua Independent |access-date=9 August 2026 |date=August 7, 2026}}</ref>
 *[[International Brotherhood of Teamsters]] Local 633<ref name="Lynch" />
 *[[International Union of Painters and Allied Trades]] District Council 35<ref name="IUPAT">{{cite web |last1=Booth |first1=Colin |title=Exclusive: 500+ member NH union backs Congressman Chris Pappas for US Senate |url=https://granitepostnews.com/news/politics/exclusive-500-member-nh-union-backs-congressman-chris-pappas-for-us-senate/ |website=Granite Post |access-date=17 August 2026 |date=May 22, 2025}}</ref> 
+*New Hampshire [[AFL-CIO]]<ref>{{cite web |title= NH AFL-CIO backing Pappas in Democratic Senate primary |url= https://www.unionleader.com/news/politics/voters/nh-afl-cio-backing-pappas-in-democratic-senate-primary/article_a2a25674-b2a7-4920-b58e-2e879002abb2.html |website=www.unionleader.com |publisher=New Hampshire Union Leader |access-date=September 3, 2026 |language=en |date=September 2, 2026}}</ref>
 *[[North America's Building Trades Unions|New Hampshire Building and Construction Trades Council]]<ref name="SEIU" />
 *[[SEIU]] Local 1984<ref name="SEIU">{{cite web |last1=Sexton |first1=Adam |title=Pappas picks up Employees' Association endorsement in NH Senate race |url=https://www.wmur.com/article/pappas-picks-up-employees-association-endorsement-in-nh-senate-race/73489813 |website=WMUR 9 |access-date=20 August 2026 |date=August 20, 2026}}</ref>
 
@@ -438,7 +438,7 @@ Shaheen was first elected in [[2008 United States Senate election in New Hampshi
 *[[Donald Trump]], [[president of the United States]] (2017–2021, 2025–present)<ref>{{cite web |last=Manchester |first=Julia |title=Trump backs John Sununu in New Hampshire Senate race |url=https://thehill.com/homenews/5717664-trump-endorses-sununu-nh-senate/ |website=The Hill |date=February 1, 2026 |access-date=February 1, 2026}}</ref>
 ;U.S. senators 
 *[[Jim Banks]], [[Indiana]] (2025–present)<ref name="NabsGroup">{{cite web |last1=Vakil |first1=Caroline |title=John Sununu nabs endorsements from group of GOP senators in New Hampshire Senate race |url=https://thehill.com/homenews/campaign/5574367-sununu-gop-endorsements-senate/ |access-date=October 27, 2025 |work=[[The Hill (newspaper)|The Hill]] |date=October 27, 2025}}</ref>
-*[[John Barrasso]], [[Senate Majority Whip]] (2025–present) from [[Wyoming]] (2007–present)<ref name="NabsGroup"/>
+*[[John Barrasso]], [[Senate majority whip]] (2025–present) from [[Wyoming]] (2007–present)<ref name="NabsGroup"/>
 *[[Marsha Blackburn]], [[Tennessee]] (2019–present)<ref name="NabsGroup"/>
 *[[Katie Britt]], [[Alabama]] (2023–present)<ref name="NabsGroup"/>
 *[[Shelley Moore Capito]], [[West Virginia]] (2015–present)<ref name="NabsGroup"/>
@@ -475,13 +475,13 @@ Shaheen was first elected in [[2008 United States Senate election in New Hampshi
 *[[Janet Stevens]], [[New Hampshire Executive Council|New Hampshire executive councilor]] from the 3rd district (2021–present)<ref name=reacts/>
 
 ;State legislators
+*[[Joe Alexander Jr.]], [[New Hampshire House of Representatives|state representative]] from the [[Hillsborough County, New Hampshire|Hillsborough]] 29th district (2022–present)<ref name="HouseDome"/>
 *[[Sharon Carson]], [[president of the New Hampshire Senate]] (2024–present) from the [[New Hampshire's 14th State Senate district|14th district]] (2008–present)<ref name="Flip">{{cite web|url=https://www.foxnews.com/politics/former-gop-senator-running-flip-key-swing-state-seat-says-he-wants-work-president-trump.amp|title=Former GOP senator running to flip key swing state seat says he wants to 'work with President Trump'|last=Steinhauser|first=Paul|date=October 25, 2025|access-date=November 17, 2025|website=[[Fox News]]}}</ref>
+*[[Sam Farrington]], [[New Hampshire House of Representatives|state representative]] from the [[Strafford County, New Hampshire|Strafford]] 8th district (2024–present)<ref name="HouseDome"/>
 *[[Dan Innis]], [[New Hampshire Senate|state senator]] from the [[New Hampshire's 7th State Senate district|7th district]] (2016–2018, 2022–present)<ref name=innis/>
 *[[Jason Osborne (politician)|Jason Osborne]], [[New Hampshire House of Representatives|state representative]] from the [[Rockingham County, New Hampshire|Rockingham]] 2nd district (2014–present)<ref name="HouseDome"/>
 *[[Joseph Sweeney (American politician)|Joe Sweeney]], [[New Hampshire House of Representatives|state representative]] from the [[Rockingham County, New Hampshire|Rockingham]] 25th district (2012–present)<ref name="HouseDome"/>
-*[[Joe Alexander Jr.]], [[New Hampshire House of Representatives|state representative]] from the [[Hillsborough County, New Hampshire|Hillsborough]] 29th district (2022–present)<ref name="HouseDome"/>
 *[[Peter Varney]], [[New Hampshire House of Representatives|state representative]] from the [[Belknap County, New Hampshire|Belknap]] 5th district (2014–present)<ref name="HouseDome"/>
-*[[Sam Farrington]], [[New Hampshire House of Representatives|state representative]] from the [[Strafford County, New Hampshire|Strafford]] 8th district (2024–present)<ref name="HouseDome"/>
 
 ;Party officials
 *[[Stephen Stepanek]], former chair of the [[New Hampshire Republican Party]] (2019–2023)<ref name="Flip"/>
