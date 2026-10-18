@@ -28,7 +28,7 @@ FACTORS = [
     ("candidate_quality", "Candidate quality",
      "Fundamentals-only adjustments: Paxton (TX) +2.0 toward D; Brown (OH) +1.5 D; Cooper (NC) +1.5 D; Sununu (NH) 1.5 toward R. On top of the existing Collins, Osborn and Peltola terms."),
     ("poll_cleanup", "Poll cleanup",
-     "Generic ballot nudged D+8.4 to D+8.8 for likely voters; Democratic-sponsored polls (LA, MS) shifted 4 pts toward R at half weight; stale polls lose half their weight every 45 days after 2 weeks (VA's June poll now barely counts)."),
+     "Generic ballot nudged by a likely-voter assumption (the polling average and the +adjustment are read from config.yaml; see the generic-ballot note); Democratic-sponsored polls (LA, MS) shifted 4 pts toward R at half weight; stale polls lose half their weight every 45 days after 2 weeks (VA's June poll now barely counts)."),
     ("incumbency_reweight", "Incumbency reweight",
      "House incumbency edge cut from 3.0 to 1.8 pts; appointed senators (Husted, Moody, Graham) treated as open seats (was 1.5)."),
     ("fat_tails", "Fat tails",
@@ -42,6 +42,30 @@ STATES = {"AL":"Alabama","AK":"Alaska","AR":"Arkansas","CO":"Colorado","DE":"Del
  "MI":"Michigan","MN":"Minnesota","MS":"Mississippi","MT":"Montana","NE":"Nebraska","NH":"New Hampshire","NJ":"New Jersey",
  "NM":"New Mexico","NC":"North Carolina","OH":"Ohio","OK":"Oklahoma","OR":"Oregon","RI":"Rhode Island","SC":"South Carolina",
  "SD":"South Dakota","TN":"Tennessee","TX":"Texas","VA":"Virginia","WV":"West Virginia","WY":"Wyoming"}
+
+def generic_ballot_info():
+    """Generic-ballot figures read from the model's actual inputs, not hard-coded.
+    raw  = generic_ballot_margin in config.yaml (Wikipedia aggregate average)
+    adj  = generic_ballot_lv_adjustment, applied only when factors.poll_cleanup is on (a model assumption)
+    as_of / wiki_avg = date and margin on the 'Average' row of the Wikipedia generic-ballot table (data/raw)."""
+    cfg = open(os.path.join(MODEL, "config.yaml")).read()
+    raw = float(re.search(r"^generic_ballot_margin:\s*([-0-9.]+)", cfg, re.M).group(1))
+    m_adj = re.search(r"^generic_ballot_lv_adjustment:\s*([-0-9.]+)", cfg, re.M)
+    m_on = re.search(r"^\s*poll_cleanup:\s*(true|false)", cfg, re.M)
+    adj = float(m_adj.group(1)) if (m_adj and m_on and m_on.group(1) == "true") else 0.0
+    as_of, wiki_avg = None, None
+    wiki = os.path.join(MODEL, "data", "raw", "2026_United_States_House_of_Representatives_elections.wiki")
+    if os.path.exists(wiki):
+        t = open(wiki, encoding="utf-8").read()
+        m = re.search(r"'''Average'''\s*\n\|([A-Z][a-z]+ \d{1,2}, \d{4})(.*?)Democrats \+([0-9.]+)%", t, re.S)
+        if m:
+            import datetime
+            as_of = datetime.datetime.strptime(m.group(1), "%B %d, %Y").strftime("%Y-%m-%d")
+            wiki_avg = float(m.group(3))
+    if wiki_avg is not None and abs(wiki_avg - raw) > 0.05:
+        print("WARNING: config generic_ballot_margin %.1f != Wikipedia average D+%.1f" % (raw, wiki_avg))
+    return raw, adj, round(raw + adj, 2), as_of, wiki_avg
+
 
 def num(x):
     try:
@@ -186,12 +210,16 @@ def main():
                 g[k]["p_dem"][r["scenario"]] = num(r["p_dem"])
         gov_list = sorted(g.values(), key=lambda x: -x["p_dem"]["unbiased"])
 
+    gb_raw, gb_adj, gb_model, gb_asof, gb_wiki = generic_ballot_info()
+    gb_note = ("D+%.1f Wikipedia generic-ballot polling average (DDHQ, FiftyPlusOne, NBC, RCP, Silver Bulletin), as of %s" % (gb_raw, gb_asof or "n/a")
+               + ("; the model adds a +%.1f likely-voter adjustment (an assumption in config.yaml, not refreshed daily) for D+%.1f" % (gb_adj, gb_model) if gb_adj else ""))
     out = {
         "title": "Apple Lamps Grok Bot Election Analysis and Prediction",
         "as_of": "2026-10-10",
         "model_version": "v2 (eight additional factors)",
-        "generic_ballot_d": 8.8, "generic_ballot_raw_d": 8.4, "generic_ballot_as_of": "2026-10-09",
-        "generic_ballot_note": "D+8.4 polling average, +0.4 likely-voter adjustment (Silver Bulletin LV vs RV gap)",
+        "generic_ballot_d": gb_model, "generic_ballot_raw_d": gb_raw, "generic_ballot_lv_adj": gb_adj,
+        "generic_ballot_as_of": gb_asof,
+        "generic_ballot_note": gb_note,
         "baseline": {"senate": {"R": 53, "D": 45, "I": 2, "up": len(race_list)}, "house": {"R": 218, "D": 214}},
         "scenarios": scenarios,
         "senate_races": race_list,

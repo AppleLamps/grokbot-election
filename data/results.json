@@ -2,10 +2,11 @@
  "title": "Apple Lamps Grok Bot Election Analysis and Prediction",
  "as_of": "2026-10-10",
  "model_version": "v2 (eight additional factors)",
- "generic_ballot_d": 8.8,
- "generic_ballot_raw_d": 8.4,
- "generic_ballot_as_of": "2026-10-09",
- "generic_ballot_note": "D+8.4 polling average, +0.4 likely-voter adjustment (Silver Bulletin LV vs RV gap)",
+ "generic_ballot_d": 8.7,
+ "generic_ballot_raw_d": 8.3,
+ "generic_ballot_lv_adj": 0.4,
+ "generic_ballot_as_of": "2026-10-18",
+ "generic_ballot_note": "D+8.3 Wikipedia generic-ballot polling average (DDHQ, FiftyPlusOne, NBC, RCP, Silver Bulletin), as of 2026-10-18; the model adds a +0.4 likely-voter adjustment (an assumption in config.yaml, not refreshed daily) for D+8.7",
  "baseline": {
   "senate": {
    "R": 53,
@@ -2305,7 +2306,7 @@
   {
    "key": "poll_cleanup",
    "title": "Poll cleanup",
-   "detail": "Generic ballot nudged D+8.4 to D+8.8 for likely voters; Democratic-sponsored polls (LA, MS) shifted 4 pts toward R at half weight; stale polls lose half their weight every 45 days after 2 weeks (VA's June poll now barely counts).",
+   "detail": "Generic ballot nudged by a likely-voter assumption (the polling average and the +adjustment are read from config.yaml; see the generic-ballot note); Democratic-sponsored polls (LA, MS) shifted 4 pts toward R at half weight; stale polls lose half their weight every 45 days after 2 weeks (VA's June poll now barely counts).",
    "effect": {
     "unbiased": {
      "senate_p_D": 0.0145,

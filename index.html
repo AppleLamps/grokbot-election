@@ -37,7 +37,7 @@
             <p>
               If the polls are roughly right, Democrats are favored to win <strong>both</strong> chambers:
               about a <strong class="d" data-field="hero-senate-pD">68%</strong> chance of a Senate majority and <strong class="d" data-field="hero-house-pD">93%</strong> for the House,
-              riding a likely-voter generic-ballot lead of <span data-field="generic-ballot">D+8.8</span>. Republicans' realistic path to holding both chambers requires the polls to be
+              riding a generic-ballot polling lead of <span data-field="generic-ballot">D+8.3</span> (average as of <span data-field="generic-ballot-asof">Oct 18</span>). Republicans' realistic path to holding both chambers requires the polls to be
               <em>understating</em> Republicans, as they did in 2016, 2020 and 2024. In that scenario, Republicans become
               Senate favorites (about <strong class="r" data-field="hero-miss-senate-pR">65%</strong>), but Democrats still win the House roughly
               <strong class="d" data-field="hero-miss-house-pD">70%</strong> of the time. If polls instead miss in Democrats' favor, as in the 2025 off-year
@@ -66,7 +66,7 @@
           <div><dt>Senate today</dt><dd><span class="r">53 R</span> &middot; <span class="d">45 D</span> &middot; <span class="i">2 I</span></dd></div>
           <div><dt>Senate seats up</dt><dd>35</dd></div>
           <div><dt>House today</dt><dd><span class="r">218 R</span> &middot; <span class="d">214 D</span></dd></div>
-          <div><dt>Generic ballot (Oct 9, LV-adj.)</dt><dd class="d" data-field="generic-ballot">D+8.4</dd></div>
+          <div><dt>Generic ballot (poll avg, <span data-field="generic-ballot-asof">Oct 18</span>)</dt><dd class="d" data-field="generic-ballot">D+8.3</dd></div>
           <div><dt>Simulations per scenario</dt><dd id="sims">100,000</dd></div>
         </dl>
       </div>
@@ -275,7 +275,7 @@
         <div>
           <h2 class="section-title">How the model works</h2>
           <ol class="method-list">
-            <li><strong>Estimate each race.</strong> Senate: a weighted blend of the race's polling average and a fundamentals estimate (Cook PVI &times; 2 + the D+8.8 likely-voter generic ballot + incumbency + candidate adjustments). Poll weight is cut for stale, partisan-sponsored, or herding-suspect polls. House: fundamentals (PVI + generic ballot + a 1.8-pt incumbency edge) blended with expert race ratings, across all 435 districts on the 2026 maps.</li>
+            <li><strong>Estimate each race.</strong> Senate: a weighted blend of the race's polling average and a fundamentals estimate (Cook PVI &times; 2 + the generic ballot (<span data-field="generic-ballot">D+8.3</span> polling average as of <span data-field="generic-ballot-asof">Oct 18</span>, plus a +0.4 likely-voter adjustment that is a model assumption, <span data-field="generic-ballot-model">D+8.7</span> in total) + incumbency + candidate adjustments). Poll weight is cut for stale, partisan-sponsored, or herding-suspect polls. House: fundamentals (PVI + generic ballot + a 1.8-pt incumbency edge) blended with expert race ratings, across all 435 districts on the 2026 maps.</li>
             <li><strong>Add correlated polling error.</strong> In every simulation, a fat-tailed national polling-error term shifts every race the same direction, plus shared errors by state, by Census region, and among Hispanic voters, on top of independent race-level noise. That is why polling misses tend to sweep the board instead of cancelling out.</li>
             <li><strong>Simulate <span data-field="sims">100,000</span> elections</strong> per scenario and count who controls each chamber, including how independents caucus.</li>
             <li><strong>Vary the polling-error assumption</strong>: centered at zero, a 3-point pro-Democratic polling miss (the 2016/2020/2024 pattern), or a 6-point pro-Republican miss (the 2025 pattern).</li>

@@ -68,6 +68,11 @@
   }
   function $(sel, root) { return (root || document).querySelector(sel); }
   function $all(sel, root) { return Array.prototype.slice.call((root || document).querySelectorAll(sel)); }
+  function fmtGbDate(iso) {
+    if (!iso) return "";
+    var p = iso.split("-"), mo = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];
+    return mo[parseInt(p[1], 10) - 1] + " " + parseInt(p[2], 10);
+  }
   function setField(name, html) { $all('[data-field="' + name + '"]').forEach(function (el) { el.innerHTML = html; }); }
   function setWidth(el, frac) { if (el) el.style.width = Math.max(0, Math.min(1, frac)) * 100 + "%"; }
   function setBar(name, frac) { setWidth($('[data-bar="' + name + '"]'), frac); }
@@ -315,7 +320,10 @@
     setField("hero-house-pD", pct0(s.house.p_D));
     setField("hero-miss-senate-pR", pct0(m.senate.p_R));
     setField("hero-miss-house-pD", pct0(m.house.p_D));
-    setField("generic-ballot", "D+" + state.data.generic_ballot_d);
+    var gbRaw = state.data.generic_ballot_raw_d != null ? state.data.generic_ballot_raw_d : state.data.generic_ballot_d;
+    setField("generic-ballot", "D+" + gbRaw);
+    setField("generic-ballot-model", "D+" + state.data.generic_ballot_d);
+    setField("generic-ballot-asof", fmtGbDate(state.data.generic_ballot_as_of));
     setField("sims", s.sims.toLocaleString("en-US"));
     $('[data-glance="senate-pD"]').textContent = pct0(g.senate.p_D);
     $('[data-glance="senate-pR"]').textContent = pct0(g.senate.p_R);
@@ -618,7 +626,7 @@
       dds[0].innerHTML = '<span class="r">' + b.senate.R + ' R</span> &middot; <span class="d">' + b.senate.D + ' D</span> &middot; <span class="i">' + b.senate.I + " I</span>";
       dds[1].textContent = b.senate.up;
       dds[2].innerHTML = '<span class="r">' + b.house.R + ' R</span> &middot; <span class="d">' + b.house.D + " D</span>";
-      dds[3].textContent = "D+" + d.generic_ballot_d;
+      dds[3].textContent = "D+" + (d.generic_ballot_raw_d != null ? d.generic_ballot_raw_d : d.generic_ballot_d);
       dds[4].textContent = d.scenarios[0].sims.toLocaleString("en-US");
     }
   }
