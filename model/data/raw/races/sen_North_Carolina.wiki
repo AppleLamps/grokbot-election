@@ -639,9 +639,9 @@ The [[Senate Leadership Fund]]—first reported by ''[[Semafor (website)|Semafor
 |{{USRaceRating|Solid|D|flip}}
 |October 7, 2026
 |-
-|align="left"|[[Split Ticket (website)|Split Ticket]]<ref>{{Cite magazine |title=Split Ticket 2026 Midterms Model |url=https://www.theargumentmag.com/p/split-ticket-2026-midterms-model |magazine=[[The Argument (magazine)|The Argument]] |via=[[Substack]] |access-date=October 13, 2026}}</ref>
-|{{USRaceRating|Safe|D|flip}}
-|October 13, 2026
+|align="left"|[[Split Ticket (website)|Split Ticket]]<ref>{{Cite magazine |title=Split Ticket 2026 Midterms Model |url=https://www.theargumentmag.com/p/split-ticket-2026-midterms-model |magazine=[[The Argument (magazine)|The Argument]] |via=[[Substack]] |access-date=October 18, 2026}}</ref>
+|{{USRaceRating|Likely|D|flip}}
+|October 18, 2026
 |}
 
 ===Post-primary endorsements===

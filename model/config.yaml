@@ -26,8 +26,8 @@ factors:
 
 # ---- National environment -----------------------------------
 # Generic congressional ballot average (D minus R). Wikipedia aggregate of
-# DDHQ / FiftyPlusOne / NBC / RCP / Silver Bulletin, updated Oct 14 2026: D+8.2.
-generic_ballot_margin: 8.2
+# DDHQ / FiftyPlusOne / NBC / RCP / Silver Bulletin, updated Oct 18 2026: D+8.3.
+generic_ballot_margin: 8.3
 # Factor 5a: likely-voter adjustment. Silver Bulletin (Sep 23 2026): LV-adjusted generic
 # ballot D+8.8 vs D+8.1 unadjusted, i.e. LV versions run ~0.4-0.7 better for Democrats.
 # We add +0.4 to the mixed-population D+8.4 average -> D+8.8. (Assumption.)

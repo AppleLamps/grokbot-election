@@ -400,7 +400,8 @@ A September 2026 poll conducted by Bowling Green State University found that 25%
 *[[American Association of University Professors]]<ref name="AAUP">{{cite web |title=AAUP Endorses Midterm Election Candidates |url=https://www.aaup.org/news/aaup-endorses-midterm-election-candidates |website=[[American Association of University Professors]] |access-date=13 October 2026 |date=October 13, 2026}}</ref>
 
 ;Newspapers
-*[[The Columbus Dispatch]]<ref>{{cite web |last1=Board |first1=Columbus Dispatch Editorial |title=This career politician has failed Ohioans. That's why The Dispatch endorses his rival for Senate |url=https://dispatch.com/story/opinion/editorials/2026/10/15/columbus-dispatch-endorsement-sherrod-brown-jon-husted-ohio-senate-race/92218789007/ |website=The Columbus Dispatch}}</ref>
+*''[[Akron Beacon Journal]]''<ref>{{Cite web |last=Board |first=Akron Beacon Journal Editorial |title=Beacon Journal endorses in U.S. Senate race {{!}} Opinion |url=https://www.usatoday.com/story/opinion/editorials/2026/10/16/beacon-journal-endorsement-senate-race-jon-husted-sherrod-brown/92254928007/ |access-date=2026-10-18 |website=USA TODAY |language=en-US}}</ref>
+*''[[The Columbus Dispatch]]''<ref>{{cite web |last1=Board |first1=Columbus Dispatch Editorial |title=This career politician has failed Ohioans. That's why The Dispatch endorses his rival for Senate |url=https://dispatch.com/story/opinion/editorials/2026/10/15/columbus-dispatch-endorsement-sherrod-brown-jon-husted-ohio-senate-race/92218789007/ |website=The Columbus Dispatch}}</ref>
 }}
 
 {{Endorsements box
@@ -465,42 +466,42 @@ A September 2026 poll conducted by Bowling Green State University found that 25%
 |{{party shading/Democratic}} |'''Brown +3.0%'''
 |-
 |[[Decision Desk HQ]]<ref>{{cite web |title=Ohio Senate General Ballot Test |url=https://polls.decisiondeskhq.com/averages/general-ballot-test/2026-oh-us-senate/ohio/lv-rv-adults |access-date=October 6, 2026 |website=Decision Desk HQ}}</ref>
-|through October 9, 2026
-|October 16, 2026
-|43.5%
-|{{party shading/Democratic}} |'''46.5%'''
-|10.0%
-|{{party shading/Democratic}} |'''Brown +3.0%'''
+|through October 18, 2026
+|October 18, 2026
+|46.3%
+|{{party shading/Democratic}} |'''47.8%'''
+|5.9%
+|{{party shading/Democratic}} |'''Brown +1.5%'''
 |-
 |[[FiftyPlusOne]]<ref>{{Cite web |title=FiftyPlusOne – Ohio General Senate Election Polls and Average for the 2026 General Election |url=https://fiftyplusone.news/polls/senate/general/ohio |access-date=October 6, 2026 |website=fiftyplusone.news}}</ref>
-|through October 9, 2026
-|October 16, 2026
-|43.7%
-|{{party shading/Democratic}} | '''47.9%'''
-|8.4%
-|{{party shading/Democratic}} |'''Brown +4.3%'''
-|-
-|[[RealClearPolitics]]<ref>{{cite web |title=2026 Ohio Senate Special Election – Husted vs. Brown|url=https://www.realclearpolling.com/polls/senate/special-election/2026/ohio/husted-vs-brown |access-date=October 6, 2026 |website=RealClearPolitics.com}}</ref>
-|September 18 – October 9, 2026
-|October 16, 2026
-|44.1%
-|{{party shading/Democratic}} | '''47.5%'''
-|8.4%
-|{{party shading/Democratic}} |'''Brown +3.4%'''
-|-
-|''[[Silver Bulletin]]''<ref name="Silver"/>
-|through October 5, 2026
-|October 16, 2026
-|44.3%
-|{{party shading/Democratic}} | '''48.1%'''
-|7.6%
+|through October 18, 2026
+|October 18, 2026
+|44.4%
+|{{party shading/Democratic}} | '''48.2%'''
+|7.4%
 |{{party shading/Democratic}} |'''Brown +3.8%'''
 |-
-|colspan="3" |'''Average'''
+|[[RealClearPolitics]]<ref>{{cite web |title=2026 Ohio Senate Special Election – Husted vs. Brown|url=https://www.realclearpolling.com/polls/senate/special-election/2026/ohio/husted-vs-brown |access-date=October 6, 2026 |website=RealClearPolitics.com}}</ref>
+|September 21 – October 9, 2026
+|October 18, 2026
 |44.0%
-|{{party shading/Democratic}} |'''47.5%'''
-|8.5%
-|{{party shading/Democratic}} |'''Brown +3.5%'''
+|{{party shading/Democratic}} | '''47.3%'''
+|8.7%
+|{{party shading/Democratic}} |'''Brown +3.3%'''
+|-
+|''[[Silver Bulletin]]''<ref name="Silver"/>
+|through October 9, 2026
+|October 18, 2026
+|44.0%
+|{{party shading/Democratic}} | '''48.1%'''
+|7.9%
+|{{party shading/Democratic}} |'''Brown +4.1%'''
+|-
+|colspan="3" |'''Average'''
+|44.7%
+|{{party shading/Democratic}} |'''47.8%'''
+|7.5%
+|{{party shading/Democratic}} |'''Brown +3.1%'''
 |}
 
 {| class="wikitable" style="font-size:90%;text-align:center;"
@@ -514,6 +515,16 @@ A September 2026 poll conducted by Bowling Green State University found that 25%
 ! style="width:100px;"| Greg<br />Levy (I)
 ! Other
 ! Undecided
+|-
+|style="text-align:left;"|ActiVote<ref>{{Cite web|url=https://www.activote.net/polls/2026/oh-u-s-senate/|title=Husted Narrowly Ahead in Ohio Senate Race|website=ActiVote|date=October 18, 2026|access-date=October 18, 2026}}</ref>
+|September 26 – October 18, 2026
+|400 (LV)
+|±&nbsp;4.9%
+|'''50%'''
+|'''50%'''
+|{{sdash}}
+|{{sdash}}
+|{{sdash}}
 |-
 |style="text-align:left;"|[[Bowling Green State University]]/[[YouGov]]<ref>{{Cite web|url=https://scholarworks.bgsu.edu/cgi/viewcontent.cgi?article=1028&context=depo|title=Democracy and Public Policy Network Expert Analysis on October 2026 Ohio Likely Voters Poll|first1=Robert|last1=Alexander|website=[[Bowling Green State University]]|date=October 16, 2026|access-date=October 16, 2026}}</ref><ref>{{Cite web|url=https://scholarworks.bgsu.edu/cgi/viewcontent.cgi?article=1030&context=depo|title=Survey of 1000 Ohio Likely Voters, October 2026 Toplines|first1=Robert|last1=Alexander|first2=Melissa K.|last2=Miller|first3=David J.|last3=Jackson|first4=Joshua|last4=Boston|website=[[Bowling Green State University]]|date=October 16, 2026|access-date=October 16, 2026}}</ref>
 |September 29 – October 9, 2026

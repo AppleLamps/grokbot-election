@@ -25,6 +25,8 @@
 | party2 = [[Republican Party (United States)|Republican]]
 | popular_vote2 = 
 | percentage2 = 
+| map_image          = <!-- Please keep this map hidden until election day. {{switcher |[[File:2026 California gubernatorial election results map by county.svg|300px]] |County results}}-->
+| map_caption        = 
 | title = [[Governor of California|Governor]]
 | before_election = [[Gavin Newsom]]
 | before_party = Democratic Party (United States)

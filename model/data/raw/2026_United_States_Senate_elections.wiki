@@ -732,7 +732,7 @@ See [[Template:USRaceRating]] for how to apply rating.
 ! [[RealClearPolitics|RCP]]<br />{{small|Oct 12,<br />2026}}<ref>{{Cite web |title=Battle for the Senate 2026 |url=https://www.realclearpolling.com/maps/senate/2026/toss-up |access-date=October 12, 2026 |website=realclearpolling.com |language=en}}</ref>
 ! [[Sabato's Crystal Ball|Sabato]]<br />{{small|Oct 14,<br />2026}}<ref name="sr">{{cite web |title=2026 Senate ratings |url=https://centerforpolitics.org/crystalball/2026-senate/ |website=[[Sabato's Crystal Ball]] |access-date=October 15, 2026}}</ref>
 ! [[Silver Bulletin|Silver]]<br />{{Small|Oct 15,<br />2026}}<ref>{{Cite web |url=https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model |title=FLIPR 2026 midterm election forecast |last1=Silver |first1=Nate |author1-link=Nate Silver |last2=McKown-Dawson |first2=Eli |website=[[Silver Bulletin]] |via=[[Substack]] |date=October 15, 2026 |orig-date=August 11, 2026 |access-date=October 15, 2026 |url-access=subscription}}</ref>
-! [[Split Ticket (website)|ST]]<br />{{Small|Oct 14,<br />2026}}<ref>{{Cite magazine |title=Split Ticket 2026 Midterms Model |url=https://www.theargumentmag.com/p/split-ticket-2026-midterms-model |access-date=October 14, 2026 |magazine=[[The Argument (magazine)|The Argument]] |language=en}}</ref>
+! [[Split Ticket (website)|ST]]<br />{{Small|Oct 18,<br />2026}}<ref>{{Cite magazine |title=Split Ticket 2026 Midterms Model |url=https://www.theargumentmag.com/p/split-ticket-2026-midterms-model |access-date=October 18, 2026 |magazine=[[The Argument (magazine)|The Argument]] |language=en}}</ref>
 |-
 ! [[2026 United States Senate election in Alabama|Alabama]]
 | {{Shading PVI|R|15}}
@@ -1092,7 +1092,7 @@ See [[Template:USRaceRating]] for how to apply rating.
 <!--RCP-->       | {{USRaceRating|Likely|D|flip}}
 <!--Sabato-->    | {{USRaceRating|Lean|D|flip|}}
 <!--SB-->        | {{USRaceRating|Solid|D|flip}}
-<!--ST-->        | {{USRaceRating|Safe|D|flip}}
+<!--ST-->        | {{USRaceRating|Likely|D|flip}}
 |-
 ! [[2026 United States Senate special election in Ohio|Ohio]]<br />{{small|(special)}}
 | {{Shading PVI|R|5}}

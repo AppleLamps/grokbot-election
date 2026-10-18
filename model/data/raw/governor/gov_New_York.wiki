@@ -1014,6 +1014,10 @@ The [[New York State Board of Elections]] rejected all petitions for non-qualifi
 |41%
 |–
 |12%
+|- style="background:lightyellow;"
+| style="border-right-style:hidden; background:lightyellow;" |
+| style="border-right-style:hidden; " | June 23, 2026
+| colspan="16"| Primary elections
 |-
 |style="text-align:left;"|[[Siena College Research Institute|Siena College]]<ref>{{Cite web|url=https://sri.siena.edu/2026/06/25/hochul-favorability-approval-ratings-edge-up-as-does-her-general-election-lead-over-blakeman-now-52-32-from-49-33/|title=Hochul Favorability & Approval Ratings Edge Up, As Does Her General Election Lead over Blakeman, Now 52-32%, from 49-33%|website=[[Siena College Research Institute|Siena College]]|date=June 25, 2026|access-date=June 25, 2026}}</ref>
 |June 17–23, 2026

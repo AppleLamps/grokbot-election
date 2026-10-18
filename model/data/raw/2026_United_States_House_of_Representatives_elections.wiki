@@ -180,23 +180,23 @@ Four Republicans lost renomination.
 |-
 |[[Decision Desk HQ]]<ref>{{cite web |url=https://votes.decisiondeskhq.com/polls/generic-ballot/national/lv-rv-adults|title=Generic Congressional Ballot|website=[[Decision Desk HQ]]|access-date=October 21, 2025}}</ref>
 |January 9, 2025 – October 13, 2026
-|October 16, 2026
-|42.1%
-|{{Party shading/Democratic}} |'''49.8%'''
-|8.1%
-|{{Party shading/Democratic}} |'''Democrats +7.7%'''
+|October 18, 2026
+|42.4%
+|{{Party shading/Democratic}} |'''50.2%'''
+|7.4%
+|{{Party shading/Democratic}} |'''Democrats +7.8%'''
 |-
 |[[FiftyPlusOne]]<ref>{{cite web |url=https://fiftyplusone.news/polls/generic-ballot/generic-ballot|title=Generic Ballot|website=FiftyPlusOne|access-date=October 20, 2025}}</ref>
 |January 9, 2025 – October 13, 2026
-|October 16, 2026
-|43.1%
-|{{Party shading/Democratic}} |'''51.2%'''
-|5.7%
-|{{Party shading/Democratic}} |'''Democrats +8.1%'''
+|October 18, 2026
+|43.2%
+|{{Party shading/Democratic}} |'''51.7%'''
+|5.1%
+|{{Party shading/Democratic}} |'''Democrats +8.5%'''
 |-
 |[[NBC News]]<ref>{{cite web |url=https://www.nbcnews.com/politics/2026-elections/house-control-polls|title=Which party should control Congress?: Latest polls|website=NBC News|access-date=October 20, 2025}}</ref>
 |January 9, 2025 – October 13, 2026
-|October 16, 2026
+|October 18, 2026
 |43.0%
 |{{Party shading/Democratic}} |'''51.0%'''
 |6.0%
@@ -204,26 +204,26 @@ Four Republicans lost renomination.
 |-
 |[[RealClearPolitics]]<ref>{{cite web|url=https://www.realclearpolling.com/polls/state-of-the-union/generic-congressional-vote|title=2026 Generic Congressional Vote|website=[[RealClearPolitics]]|access-date=October 21, 2025|archive-url=https://web.archive.org/web/20251114164647/https://www.realclearpolling.com/polls/state-of-the-union/generic-congressional-vote|archive-date=November 14, 2025|url-status=dead}}</ref>
 |September 24 – October 13, 2026
-|October 16, 2026
-|42.0%
-|{{Party shading/Democratic}} |'''50.0%'''
-|8.0%
-|{{Party shading/Democratic}} |'''Democrats +8.0%'''
+|October 18, 2026
+|42.6%
+|{{Party shading/Democratic}} |'''50.8%'''
+|6.6%
+|{{Party shading/Democratic}} |'''Democrats +8.2%'''
 |-
 |[[Nate Silver|Silver Bulletin]]<ref>{{cite web |url=https://www.natesilver.net/p/generic-ballot-average-2026-nate-silver-bulletin-congress-polls|title=Who's ahead on the generic congressional ballot?|website=Silver Bulletin|access-date=October 21, 2025}}</ref>
 |January 9, 2025 – October 13, 2026
-|October 16, 2026
+|October 18, 2026
 |41.1%
 |{{Party shading/Democratic}} |'''50.1%'''
 |8.8%
 |{{Party shading/Democratic}} |'''Democrats +9.0%'''
 |-
 |colspan=2 |'''Average'''
-|October 16, 2026
-|42.3%
-|{{Party shading/Democratic}} |'''50.5%'''
-|7.2%
-|{{Party shading/Democratic}} |'''Democrats +8.2%'''
+|October 18, 2026
+|42.5%
+|{{Party shading/Democratic}} |'''50.8%'''
+|6.7%
+|{{Party shading/Democratic}} |'''Democrats +8.3%'''
 |-
 |}<section end="GenericBallotAgg" />
 
@@ -4772,6 +4772,7 @@ There were six special elections held in 2026 to the [[119th United States Congr
 |nowrap |{{plainlist}}
 *{{Party stripe|Republican Party (US)}}Eugene Douglass (Republican)
 *{{Party stripe|Libertarian Party (US)}}Matthew Laszacs (Libertarian)
+*{{Party stripe|Independent}}[[Brian McGinnis]] (Write-in)
 *{{Party stripe|Democratic Party (US)}}[[Deborah Ross (politician)|Deborah Ross]] (Democratic)
 {{endplainlist}}
 |-

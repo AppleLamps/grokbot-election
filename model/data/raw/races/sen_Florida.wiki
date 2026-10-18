@@ -433,8 +433,8 @@ Formerly a [[swing state]], Florida has shifted increasingly to the Republican P
 |$2,820,079
 |-
 |{{party shading/Democratic}}|Angie Nixon (D)
-|$8,076,813
-|$715,036
+|$8,177,944
+|$4,052,942
 |$4,113,082
 |-
 ! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC1" /></small>
@@ -480,6 +480,7 @@ Formerly a [[swing state]], Florida has shifted increasingly to the Republican P
 *[[Leaders We Deserve]]<ref>{{cite web |last1=Leonard |first1=Kimberly |title=9/11: Where they were (Florida Playbook) |url=https://www.politico.com/newsletters/florida-playbook/2026/09/11/9-11-where-they-were-01071999 |website=[[POLITICO]] |access-date=September 27, 2026 |date=September 11, 2026}}</ref>
 *[[MoveOn]]<ref>{{cite web |last1=Leonard |first1=Kimberly |title=Democrat's 'lightning in a bottle' scenario (Florida Playbook) |url=https://www.politico.com/newsletters/florida-playbook/2026/09/25/democrats-lightning-in-a-bottle-scenario-01093105 |website=[[POLITICO]] |access-date=September 27, 2026 |date=September 25, 2026}}</ref>
 *[[National Women's Political Caucus]]<ref>{{cite web |title=2026 Federal Endorsements |url=https://nwpc.org/endorsed-candidates/ |publisher=National Women's Political Caucus |access-date=September 16, 2026}}</ref>
+*[[Our Revolution]]<ref>{{cite web |url=https://ourrevolution.com/angie-nixon-for-u-s-senate-in-florida/ |title=Angie Nixon for U.S. Senate in Florida |website=Our Revolution |access-date=28 August 2026}}</ref>
 *[[Planned Parenthood Action Fund]]<ref>{{cite web |last1=Leonard |first1=Kimberly |title=Worrell gets a warning (Florida Playbook) |url=https://www.politico.com/newsletters/florida-playbook/2026/09/02/worrell-gets-a-warning-01061323 |website=[[POLITICO]] |access-date=September 27, 2026 |date=September 2, 2026}}</ref>
 *[[Sierra Club]]<ref>{{cite web |title=Sierra Club Endorses Angie Nixon for U.S. Senator |url=https://www.sierraclub.org/florida/blog/2026/10/sierra-club-endorses-angie-nixon-us-senator |publisher=[[Sierra Club]] |access-date=October 15, 2026 |date=October 14, 2026}}</ref>
 *[[Voters of Tomorrow]]<ref>{{cite web |last1=Gaynor |first1=Gerren Keith |title=Exclusive: Major youth voting group backs 3 progressive Black candidates ahead of election day |url=https://thegrio.com/2026/10/05/exclusive-voters-of-tomorrow-endorsements-black-candidates/ |website=[[TheGrio]] |access-date=October 8, 2026 |date=October 5, 2026}}</ref>
@@ -511,21 +512,21 @@ Formerly a [[swing state]], Florida has shifted increasingly to the Republican P
 |8.0%
 |{{party shading/Republican}} |'''Moody +5.2%'''
 |-
-|[[Decision Desk HQ]]<ref>{{Cite web |title=2026 Florida US Senate |url=https://votes.decisiondeskhq.com/races/2026-11-03/florida-us-senate-special-election-general/polling |access-date=October 14, 2026 |website=[[Decision Desk HQ]]}}</ref>
-|through October 10, 2026
-|October 14, 2026
-|{{party shading/Republican}}|'''49.2%'''
-|42.3%
+|[[Decision Desk HQ]]<ref>{{Cite web |title=2026 Florida US Senate |url=https://votes.decisiondeskhq.com/races/2026-11-03/florida-us-senate-special-election-general/polling |access-date=October 18, 2026 |website=[[Decision Desk HQ]]}}</ref>
+|through October 15, 2026
+|October 18, 2026
+|{{party shading/Republican}}|'''50.4%'''
+|43.3%
 |8.5%
-|{{party shading/Republican}}|'''Moody +6.9%'''
+|{{party shading/Republican}}|'''Moody +7.1%'''
 |-
-|[[FiftyPlusOne]]<ref>{{cite web |title=Florida General Senate Election |url=https://fiftyplusone.news/polls/senate/general/florida |website=[[FiftyPlusOne]] |access-date=October 14, 2026}}</ref>
-|through October 10, 2026
-|October 14, 2026
-|{{party shading/Republican}} |'''49.1%'''
-|42.5%
+|[[FiftyPlusOne]]<ref>{{cite web |title=Florida General Senate Election |url=https://fiftyplusone.news/polls/senate/general/florida |website=[[FiftyPlusOne]] |access-date=October 18, 2026}}</ref>
+|through October 15, 2026
+|October 18, 2026
+|{{party shading/Republican}} |'''49.5%'''
+|43.1%
 |8.4%
-|{{party shading/Republican}} |'''Moody +6.6%'''
+|{{party shading/Republican}} |'''Moody +6.4%'''
 |-
 |[[RealClearPolitics]]<ref>{{cite web|title=2026 Florida Senate Special Election - Moody vs. Nixon |url=https://www.realclearpolling.com/polls/senate/general/2026/florida/moody-vs-nixon|access-date=October 14, 2026|website=[[RealClearPolitics]]}}</ref>
 |September 8 – October 9, 2026
@@ -544,8 +545,8 @@ Formerly a [[swing state]], Florida has shifted increasingly to the Republican P
 |{{party shading/Republican}} |'''Moody +6.8%'''
 |-
 |colspan="3"|'''Average'''
-|{{party shading/Republican}}|'''49.2%'''
-|42.7%
+|{{party shading/Republican}}|'''49.5%'''
+|43.0%
 |8.1%
 |{{party shading/Republican}}|'''Moody +6.5%'''
 |}

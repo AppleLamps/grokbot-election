@@ -180,7 +180,7 @@ Incumbent Republican [[Larry Rhoden]], who ascended to the office of governor in
 |- style="vertical-align:bottom"
 ! Poll source
 ! Date(s)<br>administered
-! Sample<br />size{{efn|name=Key|Key:<br />A – all adults<br />RV – registered voters<br />LV – likely voters<br />V – unclear}}
+! Sample<br />size{{efn|name="Key"}}
 ! Margin<br>of error
 ! style="width:70px;"| Toby<br>Doeden
 ! style="width:70px;"| Jon<br>Hansen
@@ -266,7 +266,7 @@ Incumbent Republican [[Larry Rhoden]], who ascended to the office of governor in
 |- style="vertical-align:bottom"
 ! Poll source
 ! Date(s)<br>administered
-! Sample<br>size{{efn|name=Key}}
+! Sample<br>size{{efn|name="Key"}}
 ! Margin<br>of error
 ! style="width:75px;"| Larry<br/>Rhoden
 ! style="width:75px;"| Dusty<br>Johnson
@@ -286,7 +286,7 @@ Incumbent Republican [[Larry Rhoden]], who ascended to the office of governor in
 |- style="vertical-align:bottom"
 ! Poll source
 ! Date(s)<br>administered
-! Sample<br />size{{efn|name=Key|Key:<br />A – all adults<br />RV – registered voters<br />LV – likely voters<br />V – unclear}}
+! Sample<br />size{{efn|name="Key"}}
 ! Margin<br>of error
 ! style="width:60px;"| Toby<br>Doeden
 ! style="width:60px;"| Jon<br>Hansen
@@ -312,7 +312,7 @@ Incumbent Republican [[Larry Rhoden]], who ascended to the office of governor in
 |- style="vertical-align:bottom"
 ! Poll source
 ! Date(s)<br>administered
-! Sample<br>size{{efn|name=Key}}
+! Sample<br>size{{efn|name="Key"}}
 ! Margin<br>of error
 ! style="width:75px;"| Mike<br/>Rounds
 ! style="width:75px;"| Dusty<br>Johnson
@@ -412,7 +412,7 @@ As no candidate received 35% of the primary vote, a primary runoff was held betw
 |- style="vertical-align:bottom"
 ! Poll source
 ! Date(s)<br>administered
-! Sample<br />size{{efn|name=Key|Key:<br />A – all adults<br />RV – registered voters<br />LV – likely voters<br />V – unclear}}
+! Sample<br />size{{efn|name="Key"}}
 ! Margin<br>of error
 ! style="width:70px;"| Toby<br>Doeden
 ! style="width:70px;"| Larry<br>Rhoden

@@ -38,13 +38,13 @@ The '''2026 United States Senate election in Georgia''' will be held on November
 
 [[Primary election]]s were held on May 19, with Ossoff running unopposed for the Democratic nomination. No candidate obtained a majority in the first round of the Republican primary between Collins, former football coach [[Derek Dooley (American football)|Derek Dooley]], and congressman [[Buddy Carter]], leading to a runoff between Collins and Dooley on June 16. After receiving an endorsement from President [[Donald Trump]], Collins was nominated with 55.5% of the vote.
 
-This will be one of two Democratic-held Senate seats up for election in 2026 in a state won by Trump in [[2024 United States presidential election|2024]], along with [[2026 United States Senate election in Michigan|Michigan]].
+This is one of two Democratic-held Senate seats up for election in 2026 in a state won by Trump in [[2024 United States presidential election|2024]], along with [[2026 United States Senate election in Michigan|Michigan]].
 {{TOC limit|3}}
 
 == Background ==
 Georgia is considered to be a [[Purple state|purple or swing state]] at the federal level. It was a top battleground state in the [[2020 United States presidential election in Georgia|2020]] and [[2024 United States presidential election in Georgia|2024]] presidential elections.<ref>{{cite news |title=The 2024 Swing States: Why Georgia Could Sway the Presidential Election |url=https://www.usnews.com/news/elections/articles/the-2024-swing-states-why-georgia-could-sway-the-presidential-election |access-date=February 7, 2026 |publisher=US News |date=November 5, 2024}}</ref><ref>{{cite news |title=Georgia emerges as a major 2020 battleground state |url=https://www.politico.com/news/2020/07/23/georgia-2020-democrats-bottoms-stacey-abrams-biden-379372 |access-date=February 7, 2026 |publisher=Politico |date=July 23, 2020}}</ref>
 
-Both parties have seen success in the state in recent years. The state backed Joe Biden by 0.24% and Donald Trump by 2.2%, respectively in 2020 and 2024. Democrats hold both of Georgia's [[List of United States senators from Georgia|U.S. Senate seats]]. Republicans control all statewide executive offices,{{efn|While Democrats did flip 2 seats in the [[2025 Georgia Public Service Commission special election]], Republicans still hold a 3–2 majority.}} control both chambers of the legislature, and hold a majority in Georgia's [[United States House of Representatives|U.S. House]] delegation.<ref>{{Cite web |date=2024-11-06 |title=2 Republican incumbents lose in Georgia House, but overall Democratic gains are limited |url=https://apnews.com/article/georgia-house-senate-legislature-democrats-republicans-296a4233e0b360ec60f1adc2f4174925 |access-date=2024-12-07 |website=AP News |language=en}}</ref>
+Both parties have seen success in the state in recent years. The state backed Joe Biden by 0.24% and Donald Trump by 2.2%, respectively, in 2020 and 2024. Democrats hold both of Georgia's [[List of United States senators from Georgia|U.S. Senate seats]]. Republicans control all statewide executive offices,{{efn|While Democrats did flip 2 seats in the [[2025 Georgia Public Service Commission special election]], Republicans still hold a 3–2 majority.}} control both chambers of the legislature, and hold a majority in Georgia's [[United States House of Representatives|U.S. House]] delegation.<ref>{{Cite web |date=2024-11-06 |title=2 Republican incumbents lose in Georgia House, but overall Democratic gains are limited |url=https://apnews.com/article/georgia-house-senate-legislature-democrats-republicans-296a4233e0b360ec60f1adc2f4174925 |access-date=2024-12-07 |website=AP News |language=en}}</ref>
 
 As one of only two seats up held by a Democrat in a state that voted for Trump in 2024, the race is expected to be competitive.<ref>{{Cite web |title=Democrats Rush to Regroup in the Southern Battlegrounds |website=[[The New York Times]] |date=November 25, 2024 |url=https://www.nytimes.com/2024/11/25/us/politics/democrats-georgia-north-carolina-trump-harris-campaign.html}}</ref>
 
@@ -63,8 +63,8 @@ As one of only two seats up held by a Democrat in a state that voted for Trump i
 
 ;Organizations
 *[[Black Economic Alliance]] PAC<ref name="BEA PAC">{{cite web |title=Candidates |url=https://pac.blackeconomicalliance.org/candidates/ |website=Black Economic Alliance PAC |access-date=April 23, 2026}}</ref>
-*[[Council on American-Islamic Relations]]<ref>{{cite web |title=Georgia Primary Election Voter Guide 2026 |url=https://cairaction.org/wp-content/uploads/2026/05/Georgia-Voter-Guide.pdf |website=CAIR Action |access-date=June 17, 2026}}</ref>
 *[[Council for a Livable World]]<ref>{{cite web |title=Senate Candidates |url=https://livableworld.org/meet-the-candidates/senate-candidates/ |website=Council for a Livable World |access-date=November 23, 2025}}</ref>
+*[[Council on American-Islamic Relations]]<ref>{{cite web |title=Georgia Primary Election Voter Guide 2026 |url=https://cairaction.org/wp-content/uploads/2026/05/Georgia-Voter-Guide.pdf |website=CAIR Action |access-date=June 17, 2026}}</ref>
 *[[End Citizens United]]<ref>{{cite web |title=End Citizens United Endorses Senator Jon Ossoff For Reelection |url=https://www.endcitizensunited.org/ecu-endorses-sen-jon-ossoff-for-reelection |website=endcitizensunited.org |date=July 8, 2025 |access-date=September 8, 2025}}</ref>
 *[[Giffords]]<ref>{{cite web|date=July 30, 2025|title=GIFFORDS PAC endorses Sen. Jon Ossoff for reelection in Georgia|url=https://giffords.org/press-release/2025/07/giffords-pac-endorses-sen-jon-ossoff-for-reelection-in-georgia/|website=Giffords|language=en-US}}</ref>
 *[[Human Rights Campaign]]<ref>{{cite web |title=Human Rights Campaign PAC Endorses Georgia Sen.‌ Jon Ossoff for… |url=https://www.hrc.org/press-releases/human-rights-campaign-pac-endorses-georgia-sen-jon-ossoff-for-reelection |website=HRC |access-date=November 23, 2025 |date=October 21, 2025}}</ref>
@@ -533,7 +533,8 @@ As one of only two seats up held by a Democrat in a state that voted for Trump i
 }}
 ]]
 {{Election box begin no change
- | title=Republican primary results<ref>{{cite web|date=May 19, 2026|title=State Election Results {{!}} 2026 Georgia Primary|url=https://results.sos.ga.gov/results/public/Georgia/elections/GeneralPrimary51926?party=REP|access-date=May 23, 2026|website=[[Secretary of State of Georgia]]}}</ref>}}{{Election box winning candidate with party link no change
+ | title=Republican primary results<ref>{{cite web|date=May 19, 2026|title=State Election Results {{!}} 2026 Georgia Primary|url=https://results.sos.ga.gov/results/public/Georgia/elections/GeneralPrimary51926?party=REP|access-date=May 23, 2026|website=[[Secretary of State of Georgia]]}}</ref>}}
+{{Election box winning candidate with party link no change
  | party=Republican Party (United States)
  | candidate=[[Mike Collins (politician)|Mike Collins]]
  | votes=369,642
@@ -684,7 +685,8 @@ As one of only two seats up held by a Democrat in a state that voted for Trump i
 }}
 ]]
 {{Election box begin no change
- | title=Republican primary runoff results<ref>{{cite web |title=June 16th, 2026 General Primary Runoff |url=https://results.sos.ga.gov/results/public/Georgia/elections/06162026GeneralPrimaryRunoff |website=Georgia Secretary of State}}</ref>}}{{Election box winning candidate with party link no change
+ | title=Republican primary runoff results<ref>{{cite web |title=June 16th, 2026 General Primary Runoff |url=https://results.sos.ga.gov/results/public/Georgia/elections/06162026GeneralPrimaryRunoff |website=Georgia Secretary of State}}</ref>}}
+{{Election box winning candidate with party link no change
  | party=Republican Party (United States)
  | candidate=[[Mike Collins (politician)|Mike Collins]]
  | votes=390,174
@@ -757,9 +759,10 @@ As one of only two seats up held by a Democrat in a state that voted for Trump i
 
 ===Post-primary endorsements===
 {{Endorsements box|title=Jon Ossoff (D)|list=;Executive branch officials
-*[[Keisha Lance Bottoms]], former [[Senior Advisor to the President|senior advisor to the president]] (2022–2023), [[mayor of Atlanta]] (2018–2022), and [[2026 Georgia gubernatorial election|2026 Georgia gubernatorial nominee]]<ref name="bottoms_ossoff">{{cite web |last1=Nelson |first1=Craig |title=Ossoff, Bottoms declare 'United for Georgia' at joint campaign rally in Savannah |url=https://georgiarecorder.com/2026/06/28/ossoff-bottoms-declare-united-for-georgia-at-joint-campaign-rally-in-savannah/ |website=[[Georgia Recorder]] |access-date=2026-08-04 |date=2026-06-28}}</ref>
-*[[Kamala Harris]], former [[vice president of the United States]] (2021–2025)<ref>{{Cite news |last=Epstein |first=Reid J. |date=2026-10-14 |title=Kamala Harris to Campaign for Democrats in Mississippi, New Hampshire and Wisconsin Ahead of Midterms |url=https://www.nytimes.com/2026/10/14/us/politics/kamala-harris-midterms-democrats-campaign.html |access-date=2026-10-14 |work=The New York Times |language=en-US |issn=0362-4331}}</ref>
 *[[Jeff Flake]], former [[United States Ambassador to Turkey|ambassador to Turkey]] (2022–2024) and U.S. senator from [[Arizona]] (2013–2019) ''(Republican)''<ref name="flake_ossoff">{{cite web |last1=Bluestein |first1=Greg |title=Former GOP Sen. Jeff Flake backs Jon Ossoff, saying 'character matters' |url=https://www.ajc.com/politics/2026/08/former-gop-sen-jeff-flake-backs-jon-ossoff-saying-character-matters/ |website=[[The Atlanta Journal-Constitution]] |access-date=2026-08-04 |date=2026-08-04}}</ref>
+*[[Kamala Harris]], former [[vice president of the United States]] (2021–2025)<ref>{{Cite news |last=Epstein |first=Reid J. |date=2026-10-14 |title=Kamala Harris to Campaign for Democrats in Mississippi, New Hampshire and Wisconsin Ahead of Midterms |url=https://www.nytimes.com/2026/10/14/us/politics/kamala-harris-midterms-democrats-campaign.html |access-date=2026-10-14 |work=The New York Times |language=en-US |issn=0362-4331}}</ref>
+*[[Keisha Lance Bottoms]], former [[Senior Advisor to the President|senior advisor to the president]] (2022–2023), [[mayor of Atlanta]] (2018–2022), and [[2026 Georgia gubernatorial election|2026 Georgia gubernatorial nominee]]<ref name="bottoms_ossoff">{{cite web |last1=Nelson |first1=Craig |title=Ossoff, Bottoms declare 'United for Georgia' at joint campaign rally in Savannah |url=https://georgiarecorder.com/2026/06/28/ossoff-bottoms-declare-united-for-georgia-at-joint-campaign-rally-in-savannah/ |website=[[Georgia Recorder]] |access-date=2026-08-04 |date=2026-06-28}}</ref>
+
 ;Statewide officials
 *[[Wes Moore]], [[governor of Maryland]] (2023–present)<ref>{{cite news |last1=Bluestein |first1=Greg |last2=Mitchell |first2=Tia |last3=Murphy |first3=Patricia |last4=Beam |first4=Adam |title=Jon Ossoff targets Mike Collins over Epstein files in new ad |url=https://www.ajc.com/politics/2026/07/jon-ossoff-targets-mike-collins-over-epstein-files-in-new-ad/ |access-date=July 14, 2026 |work=[[The Atlanta Journal-Constitution]] |date=July 14, 2026 |language=en}}</ref>
 ;State legislators
@@ -779,7 +782,7 @@ As one of only two seats up held by a Democrat in a state that voted for Trump i
 |list=
 ;U.S. senators
 *[[Rick Scott]], [[Florida]] (2019–present)<ref name="scottandharper">{{cite web |last=Swafford |first=James |title=Rick Scott, Tyler J Harper Endorse Mike Collins for U.S. Senate |url=https://domepolitics.com/2026/08/rick-scott-tyler-j-harper-endorse-mike-collins/ |website=Dome Politics|date=August 14, 2026 |access-date=September 30, 2026}}</ref>
-*[[John Thune]], [[Senate Majority Leader]] from [[South Dakota]] (2005–present)<ref>{{cite web |last= Kallis |first= Sarah |title=Senate Majority Leader John Thune campaigns for Mike Collins |url=https://www.gpb.org/news/2026/09/25/senate-majority-leader-john-thune-campaigns-for-mike-collins |website=[[Georgia Public Broadcasting]] |date=September 25, 2026 |access-date=September 27, 2026}}</ref>
+*[[John Thune]], [[Senate majority leader]] from [[South Dakota]] (2005–present)<ref>{{cite web |last= Kallis |first= Sarah |title=Senate Majority Leader John Thune campaigns for Mike Collins |url=https://www.gpb.org/news/2026/09/25/senate-majority-leader-john-thune-campaigns-for-mike-collins |website=[[Georgia Public Broadcasting]] |date=September 25, 2026 |access-date=September 27, 2026}}</ref>
 
 '''U.S. representatives'''
 * [[Rick Allen (politician)|Rick Allen]], {{ushr|GA|12|GA-12}} (2015–present)<ref name="augustarally">{{cite web |last= Legoas |first= Miguel |title=Mike Collins visits Augusta for Georgia senate campaign. See the scenes |url=https://www.elpasotimes.com/story/news/politics/elections/2026/05/26/trump-texas-republican-leaders-react-to-paxtons-win-in-texas-senate-race/90267003007/ |website=[[The Augusta Chronicle]] |date=August 11, 2026 |access-date=August 18, 2026}}</ref>
@@ -796,14 +799,15 @@ As one of only two seats up held by a Democrat in a state that voted for Trump i
 * [[Joshua McKoon]], chair of the [[Georgia Republican Party]] (2023–present)<ref>{{cite web |last=Murphy |first=Patricia |title=Josh McKoon, Georgia GOP chair, is betting on the Republican base in 2026 |url=https://www.ajc.com/politics/2026/09/opinion-georgia-gop-chair-josh-mckoon-is-betting-on-the-republican-base/ |website=[[The Atlanta Journal-Constitution]] |date=September 9, 2026 |access-date=September 30, 2026}}</ref>
 
 '''Individuals'''
-* [[CJ Pearson]], conservative activist<ref name="augustarally"/>
 * [[Rick Jackson (businessman)|Rick Jackson]], CEO of Jackson Healthcare<ref>{{cite web |last1=Bluestein |first1=Greg |last2=Mitchell |first2=Tia |last3=Murphy |first3=Patricia |last4=Beam |first4=Adam |title=With millions banked, Jon Ossoff's general election campaign roars to life |url=https://www.ajc.com/politics/2026/06/with-millions-banked-jon-ossoffs-general-election-campaign-roars-to-life/|website=[[The Atlanta Journal-Constitution]] |date=June 19, 2026 |access-date=September 30, 2026}}</ref>
+* [[CJ Pearson]], conservative activist<ref name="augustarally"/>
 
 '''Organizations'''
 * [[National Republican Senatorial Committee]]<ref>{{cite web |title=Mike Collins (R) Georgia |url=https://www.nrsc.org/mike-collins/ |website=[[National Republican Senatorial Committee]] |access-date=September 28, 2026}}</ref>
 * [[National Rifle Association]]<ref>{{cite web |title=Georgia |url=https://www.nrapvf.org/grades/georgia/ |website=[[NRA Political Victory Fund]] |access-date=September 28, 2026}}</ref>
 * [[Senate Conservatives Fund]]<ref>{{cite web |title=2026 Senate Candidates |url=https://secure.senateconservatives.com/lwm32/d |website=[[Senate Conservatives Fund]] |access-date=August 18, 2026}}</ref>
-}}{{Endorsements box
+}}
+{{Endorsements box
 |title=Declined to endorse
 |list=
 

@@ -21,9 +21,9 @@
 | popular_vote1 = 
 | percentage1 = 
 | image2 = 3x4.svg
-| nominee2 = Michael Minogue
+| nominee2 = Mike Minogue
 | party2 = Republican Party (United States)
-| running_mate2 = Shawn Oliver
+| running_mate2 = Shawn Oliver{{efn|name=Oliver|Minogue asked Oliver to drop out of the race after he was arrested on charges of [[driving under the influence]], saying that he would ask Oliver to immediately resign if elected.<ref name="wbz1" />}}
 | popular_vote2 = 
 | percentage2 = 
 | map_image = 
@@ -495,6 +495,9 @@ Anne Brensley did not officially become the running mate to a candidate for gove
 *Muhammed Kokonezis-Hanino ''(Independent)''<ref name=":1">{{Cite web |last=Markos |first=Roberto Scalese |date=2025-10-17 |title=Here's who's running for Mass. governor in 2026 |url=https://www.wbur.org/news/2025/10/17/2026-massachusetts-governor-candidates |access-date=2025-10-17 |website=[[WBUR]] |language=en-US}}</ref>
 
 == General election ==
+===Shawn Oliver arrest===
+Around 11:40 p.m. [[Eastern Standard Time|EST]] on October 17, 2026, Minogue's running mate Shawn Oliver crashed into multiple parked cars after his SUV [[Vehicle rollover|rolled over]] on Dartmouth Street in [[New Bedford, Massachusetts|New Bedford]]. He was taken to [[St. Luke's Hospital (New Bedford, Massachusetts)|St. Luke's Hospital]] and subsequently arrested on charges of [[driving under the influence]], negligent operation of a motor vehicle, a lane violation, and speeding. Minogue said he was "extremely disappointed" and asked Oliver to suspend his campaign, saying that he would immediately ask him to resign if elected.<ref name="wbz1">{{Cite news |last=Schooley |first=Matt |date=October 18, 2026 |title=Shawn Oliver, Republican candidate for Massachusetts Lt. Gov., arrested after alleged drunk driving crash |url=https://www.cbsnews.com/boston/news/shawn-oliver-republican-lieutenant-governor-arrest-massachusetts/ |access-date=October 18, 2026 |work=[[WBZ-TV]]}}</ref> Oliver suspended his campaign on October 18.<ref>{{cite web |title=Massachusetts Republican lieutenant governor candidate suspends campaign after OUI arrest |url=https://www.nbcnews.com/politics/politics-news/massachusetts-shawn-oliver-lt-governor-suspends-campaign-drunk-driving-rcna604183 |website=NBC News |publisher=NBC Boston |access-date=October 18, 2026 |date=October 18, 2026}}</ref>
+
 ===Predictions===
 {| class="wikitable" style=text-align:center
 !Source
@@ -928,7 +931,7 @@ Anne Brensley did not officially become the running mate to a candidate for gove
   |votes      = 
   |percentage =
   |change     =
-}}{{Election box candidate with party link|party=Massachusetts Republican Party|candidate={{ubl|Michael Minogue|Shawn Oliver}}|votes=|percentage=|change=}}{{Election box candidate with party link|party=Independent politician|candidate={{ubl|[[Andrea C. James]]|Kayla Kittredge}}|votes=|percentage=|change=}}{{Election box write-in with party link
+}}{{Election box candidate with party link|party=Massachusetts Republican Party|candidate={{ubl|Michael Minogue|Shawn Oliver{{efn|name=Oliver}}}}|votes=|percentage=|change=}}{{Election box candidate with party link|party=Independent politician|candidate={{ubl|[[Andrea C. James]]|Kayla Kittredge}}|votes=|percentage=|change=}}{{Election box write-in with party link
   |votes      =
   |percentage =
   |change     = 

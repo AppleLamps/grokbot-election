@@ -621,6 +621,15 @@ If Abbott is re-elected and serves out his fourth term, he will become the state
 ! Other
 ! Undecided
 |-
+|style="text-align:left;"|[[CBS News]]/[[YouGov]]<ref>{{Cite web|url=https://www.cbsnews.com/news/texas-senate-talarico-paxton-poll/|title=CBS News poll shows a Texas toss-up with Talarico, Paxton in tight Senate race|first1=Anthony|last1=Salvanto|first2=Jennifer|last2=De Pinto|first3=Fred|last3=Backus|website=[[CBS News]] |date=October 18, 2026 |access-date=October 18, 2026}}</ref>
+|October 8-16, 2026
+|1,492 (LV)
+|±{{nbsp}}3.5%
+|{{Party shading/Republican}}|'''52%'''
+|48%
+|{{sdash}}
+|{{sdash}}
+|-
 | style="text-align: left;"|ActiVote<ref>{{cite web |url=https://www.activote.net/polls/2026/tx-governor/ |title=Abbott Narrowly Ahead in Texas Governor Race |work=ActiVote |date=October 15, 2026 |access-date=October 15, 2026}}</ref>
 |September 30 – October 14, 2026
 |400 (LV)
