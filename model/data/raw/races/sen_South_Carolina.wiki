@@ -1413,6 +1413,15 @@ In ''[[The New York Times]]'', Michael Gold wrote that Trump had two main disput
 ! Other 
 ! Undecided
 |-
+|style="text-align:left;"|[[Trafalgar Group]] (R)<ref>{{Cite web |url=https://www.thetrafalgargroup.org/wp-content/uploads/2026/10/SC-Midterms-Survey-Report-1019.pdf |title=South Carolina General Election Poll |work=[[Trafalgar Group]] |date=October 18, 2026 |access-date=October 18, 2026}}</ref>
+|October 16–18, 2026
+|1,095 (LV)
+|±{{nbsp}}2.9%
+|{{party shading/Republican}}|'''49%'''
+|46%
+|5%{{efn|Kasie Whitner (L) with 4%, Mark Hackett (C) with 1%}}
+|1%
+|-
 |style="text-align: left;" |[[Rasmussen Reports]] (R)<ref name="Rasmussen10/9">{{cite web |title=Election 2026: South Carolina Senate |url=https://www.rasmussenreports.com/public_content/politics/elections/election_2026/election_2026_south_carolina_senate |website=[[Rasmussen Reports]] |access-date=October 11, 2026 |date=October 9, 2026}}</ref>
 |October 5–8, 2026
 |837 (LV)

@@ -22,6 +22,8 @@
 | image2 = Victor Marx (52125665777) (cropped).jpg
 | nominee2 = [[Victor Marx]]
 | running_mate2 = George Markert
+| map_image          = <!-- Please keep this map hidden until election day. {{switcher |[[File:2026 Colorado gubernatorial election results map by county.svg|250px]] |County results}}-->
+| map_caption        =
 | title = [[Governor of Colorado|Governor]]
 | before_election = [[Jared Polis]]
 | before_party = Democratic Party (United States)

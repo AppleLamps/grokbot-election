@@ -113,6 +113,7 @@ Incumbent U.S. senator [[Susan Collins]] officially announced her re-election bi
 |-
 ! colspan="4" |<small>Source: [[Federal Election Commission]]<ref name="FEC1">{{cite web |title=2026 Election United States Senate – Maine |url=https://www.fec.gov/data/elections/senate/ME/2026/ |website=fec.gov |publisher=[[Federal Election Commission]] |access-date=April 23, 2025}}</ref></small>
 |}
+According to [[Federal Election Commission|Federal Election Commission (FEC)]] records, as of October 2026, Collins has received $4,525,846 from [[Political action committee|political action committees]] (PACs) affiliated with pro-Israel lobbies; of this amount, $3,670,038 is attributed to the 2026 election cycle.<ref>{{Cite web |last=WhoFundsMyRep |title=Does Susan Collins Take AIPAC Money? FEC Filings (2026) — AIPAC Tracker {{!}} Who Funds My Rep? |url=https://whofundsmyrep.com/rep/susan-m-collins |access-date=2026-10-19 |website=WhoFundsMyRep |language=en}}</ref>
 
 ===Polling===
 {| class="wikitable" style="font-size:90%;text-align:center;"
@@ -1275,6 +1276,7 @@ A debate featuring eight of the declared candidates, hosted by [[News Center Mai
 *[[Barack Obama]], former [[president of the United States]] (2009–2017)<ref>{{cite news |last1=Merica |first1=Dan |title=Obama endorses Troy Jackson in Maine Senate race |url=https://www.washingtonpost.com/politics/2026/10/08/obama-endorses-troy-jackson-maine-senate-race/ |access-date=October 8, 2026 |newspaper=[[The Washington Post]] |date=October 8, 2026}}</ref>
 
 ;U.S. senators
+*[[Mark Kelly]], Arizona (2020–present)<ref>{{cite web|url=https://politicalwire.com/2026/10/18/mark-kelly-stays-on-the-campaign-trail/|title=Mark Kelly Stays on the Campaign Trail|date=October 18, 2026|work=Political Wire}}</ref>
 *[[Bernie Sanders]], Vermont (2007–present) ''(Independent)''<ref>{{cite web|url=https://www.politico.com/live-updates/2026/10/02/congress/sanders-maine-jackson-rallies-01105437|title=Sanders to rally for Troy Jackson in Maine|date=October 2, 2026|work=Politico}}</ref>
 *[[Elizabeth Warren]], Massachusetts (2013–present)<ref>{{cite web|url=https://www.bostonglobe.com/2026/10/13/metro/elizabeth-warren-troy-jackson-maine-senate-race/|last=Garrity|first=Kelly|work=Boston Globe|date=October 13, 2026|title=Elizabeth Warren to return to Maine — this time, to campaign with Troy Jackson}}</ref>
 

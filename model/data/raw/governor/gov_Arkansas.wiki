@@ -3,7 +3,6 @@
 {{Use American English|date=January 2025}}
 {{for|related races|2026 United States gubernatorial elections}}
 <!-- "none" is preferred when the title alone is adequate; see [[WP:SDNONE]] -->
-
 {{Use mdy dates|date=September 2023}}
 {{Infobox election
 | election_name = 2026 Arkansas gubernatorial election
@@ -32,7 +31,7 @@
 | percentage3 = 
 | map_image          = <!-- Please keep this map hidden until election day. {{switcher |[[File:2026 Arkansas gubernatorial election results map by county.svg|210px]] |County results}}-->
 | map_caption        = 
-| title = [[Governor of Arkansas|Governor]]
+| title = governor
 | before_election = [[Sarah Huckabee Sanders]]
 | before_party = Republican Party (United States)
 | after_election = 
@@ -89,693 +88,6 @@ The '''2026 Arkansas gubernatorial election''' will be held on November 3, 2026,
 | percentage = 100.0
 }}
 {{Election box end}}
-====Results by county====
-{| class="wikitable"
-! County<ref name=":1"/>
-! style="text-align:center;" colspan="2"| Love
-! style="text-align:center;" colspan="2"| Xayprasith-Mays
-! style="text-align:center;" colspan="2"| Margin
-! style="text-align:center;" colspan="2"| Total
-|-
-|- style="text-align:center;"
-| {{party shading/Democratic}} |[[Arkansas County, Arkansas|Arkansas]]
-| {{party shading/Democratic}} |355
-| {{party shading/Democratic}} |90.10%
-| 39 
-| 8.90% 
-| {{party shading/Democratic}} |316
-| {{party shading/Democratic}} |81.20%
-| {{party shading/Democratic}} |394
-|- style="text-align:center;"
-| {{party shading/Democratic}} |[[Ashley County, Arkansas|Ashley]]
-| {{party shading/Democratic}} |299
-| {{party shading/Democratic}} |69.37%
-| 132
-| 30.63% 
-| {{party shading/Democratic}} |167
-| {{party shading/Democratic}} |38.74%
-| {{party shading/Democratic}} |431
-|- style="text-align:center;"
-| {{party shading/Democratic}} |[[Baxter County, Arkansas|Baxter]]
-| {{party shading/Democratic}} |406
-| {{party shading/Democratic}} |75.89%
-| 129 
-| 24.11% 
-| {{party shading/Democratic}} |277
-| {{party shading/Democratic}} |51.78%
-| {{party shading/Democratic}} |535
-|- style="text-align:center;"
-| {{party shading/Democratic}} |[[Benton County, Arkansas|Benton]]
-| {{party shading/Democratic}} |7,414
-| {{party shading/Democratic}} |74.24%
-| 2,573
-| 25.76% 
-| {{party shading/Democratic}} |4,841
-| {{party shading/Democratic}} |48.48%
-| {{party shading/Democratic}} |9,987
-|- style="text-align:center;"
-| {{party shading/Democratic}} |[[Boone County, Arkansas|Boone]]
-| {{party shading/Democratic}} |325
-| {{party shading/Democratic}} |69.89%
-| 140 
-| 30.11% 
-| {{party shading/Democratic}} |185
-| {{party shading/Democratic}} |39.78%
-| {{party shading/Democratic}} |465
-|- style="text-align:center;"
-| {{party shading/Democratic}} |[[Bradley County, Arkansas|Bradley]]
-| {{party shading/Democratic}} |199
-| {{party shading/Democratic}} |73.16%
-| 73 
-| 26.84% 
-| {{party shading/Democratic}} |126
-| {{party shading/Democratic}} |46.32%
-| {{party shading/Democratic}} |272
-|- style="text-align:center;"
-| {{party shading/Democratic}} |[[Calhoun County, Arkansas|Calhoun]]
-| {{party shading/Democratic}} |81
-| {{party shading/Democratic}} |68.07%
-| 38
-| 31.93% 
-| {{party shading/Democratic}} |43
-| {{party shading/Democratic}} |36.14%
-| {{party shading/Democratic}} |119
-|- style="text-align:center;"
-| {{party shading/Democratic}} |[[Carroll County, Arkansas|Carroll]]
-| {{party shading/Democratic}} |595
-| {{party shading/Democratic}} |70.33%
-| 251 
-| 29.67% 
-| {{party shading/Democratic}} |344
-| {{party shading/Democratic}} |40.66%
-| {{party shading/Democratic}} |846
-|- style="text-align:center;"
-| {{party shading/Democratic}} |[[Chicot County, Arkansas|Chicot]]
-| {{party shading/Democratic}} |1,093
-| {{party shading/Democratic}} |76.27%
-| 340 
-| 23.73% 
-| {{party shading/Democratic}} |753
-| {{party shading/Democratic}} |52.54%
-| {{party shading/Democratic}} |1,433
-|- style="text-align:center;"
-| {{party shading/Democratic}} |[[Clark County, Arkansas|Clark]]
-| {{party shading/Democratic}} |843
-| {{party shading/Democratic}} |84.64%
-| 153 
-| 15.36% 
-| {{party shading/Democratic}} |690
-| {{party shading/Democratic}} |69.28%
-| {{party shading/Democratic}} |996
-|- style="text-align:center;"
-| {{party shading/Democratic}} |[[Clay County, Arkansas|Clay]]
-| {{party shading/Democratic}} |90
-| {{party shading/Democratic}} |84.91%
-| 16 
-| 15.09% 
-| {{party shading/Democratic}} |74
-| {{party shading/Democratic}} |69.82%
-| {{party shading/Democratic}} |106
-|- style="text-align:center;"
-| {{party shading/Democratic}} |[[Cleburne County, Arkansas|Cleburne]]
-| {{party shading/Democratic}} |433
-| {{party shading/Democratic}} |82.48%
-| 92 
-| 17.52% 
-| {{party shading/Democratic}} |341
-| {{party shading/Democratic}} |64.96%
-| {{party shading/Democratic}} |525
-|- style="text-align:center;"
-| {{party shading/Democratic}} |[[Cleveland County, Arkansas|Cleveland]]
-| {{party shading/Democratic}} |57
-| {{party shading/Democratic}} |72.15%
-| 22 
-| 27.85% 
-| {{party shading/Democratic}} |35
-| {{party shading/Democratic}} |44.30%
-| {{party shading/Democratic}} |79
-|- style="text-align:center;"
-| {{party shading/Democratic}} |[[Columbia County, Arkansas|Columbia]]
-| {{party shading/Democratic}} |546
-| {{party shading/Democratic}} |87.78%
-| 76 
-| 12.22% 
-| {{party shading/Democratic}} |470
-| {{party shading/Democratic}} |76.56%
-| {{party shading/Democratic}} |622
-|- style="text-align:center;"
-| {{party shading/Democratic}} |[[Conway County, Arkansas|Conway]]
-| {{party shading/Democratic}} |687
-| {{party shading/Democratic}} |81.11%
-| 160 
-| 18.89% 
-| {{party shading/Democratic}} |527
-| {{party shading/Democratic}} |62.22%
-| {{party shading/Democratic}} |847
-|- style="text-align:center;"
-| {{party shading/Democratic}} |[[Craighead County, Arkansas|Craighead]]
-| {{party shading/Democratic}} |2,223
-| {{party shading/Democratic}} |77.59%
-| 642 
-| 22.41% 
-| {{party shading/Democratic}} |1,581
-| {{party shading/Democratic}} |55.18%
-| {{party shading/Democratic}} |2,865
-|- style="text-align:center;"
-| {{party shading/Democratic}} |[[Crawford County, Arkansas|Crawford]]
-| {{party shading/Democratic}} |804
-| {{party shading/Democratic}} |76.50%
-| 247 
-| 23.50% 
-| {{party shading/Democratic}} |557
-| {{party shading/Democratic}} |53.00%
-| {{party shading/Democratic}} |1,051
-|- style="text-align:center;"
-| {{party shading/Democratic}} |[[Crittenden County, Arkansas|Crittenden]]
-| {{party shading/Democratic}} |1,864
-| {{party shading/Democratic}} |83.51%
-| 368 
-| 16.49% 
-| {{party shading/Democratic}} |1,496
-| {{party shading/Democratic}} |67.02%
-| {{party shading/Democratic}} |2,232
-|- style="text-align:center;"
-| {{party shading/Democratic}} |[[Cross County, Arkansas|Cross]]
-| {{party shading/Democratic}} |245
-| {{party shading/Democratic}} |80.59%
-| 59 
-| 19.41% 
-| {{party shading/Democratic}} |186
-| {{party shading/Democratic}} |61.18%
-| {{party shading/Democratic}} |304
-|- style="text-align:center;"
-| {{party shading/Democratic}} |[[Dallas County, Arkansas|Dallas]]
-| {{party shading/Democratic}} |86
-| {{party shading/Democratic}} |73.50%
-| 31
-| 26.50% 
-| {{party shading/Democratic}} |55
-| {{party shading/Democratic}} |47.00%
-| {{party shading/Democratic}} |117
-|- style="text-align:center;"
-| {{party shading/Democratic}} |[[Desha County, Arkansas|Desha]]
-| {{party shading/Democratic}} |1,041
-| {{party shading/Democratic}} |78.51%
-| 285 
-| 21.49% 
-| {{party shading/Democratic}} |756
-| {{party shading/Democratic}} |57.02%
-| {{party shading/Democratic}} |1,326
-|- style="text-align:center;"
-| {{party shading/Democratic}} |[[Drew County, Arkansas|Drew]]
-| {{party shading/Democratic}} |462
-| {{party shading/Democratic}} |74.52%
-| 158 
-| 25.48% 
-| {{party shading/Democratic}} |304
-| {{party shading/Democratic}} |49.04%
-| {{party shading/Democratic}} |620
-|- style="text-align:center;"
-| {{party shading/Democratic}} |[[Faulkner County, Arkansas|Faulkner]]
-| {{party shading/Democratic}} |4,286
-| {{party shading/Democratic}} |81.04%
-| 1,003 
-| 18.96% 
-| {{party shading/Democratic}} |3,283
-| {{party shading/Democratic}} |62.08%
-| {{party shading/Democratic}} |5,289
-|- style="text-align:center;"
-| {{party shading/Democratic}} |[[Franklin County, Arkansas|Franklin]]
-| {{party shading/Democratic}} |292
-| {{party shading/Democratic}} |80.89%
-| 69 
-| 19.11% 
-| {{party shading/Democratic}} |223
-| {{party shading/Democratic}} |61.78%
-| {{party shading/Democratic}} |361
-|- style="text-align:center;"
-| {{party shading/Democratic}} |[[Fulton County, Arkansas|Fulton]]
-| {{party shading/Democratic}} |119
-| {{party shading/Democratic}} |73.46%
-| 43 
-| 26.54% 
-| {{party shading/Democratic}} |76
-| {{party shading/Democratic}} |46.92%
-| {{party shading/Democratic}} |162
-|- style="text-align:center;"
-| {{party shading/Democratic}} |[[Garland County, Arkansas|Garland]]
-| {{party shading/Democratic}} |2,840
-| {{party shading/Democratic}} |76.53%
-| 871 
-| 23.47% 
-| {{party shading/Democratic}} |1,969
-| {{party shading/Democratic}} |53.06%
-| {{party shading/Democratic}} |3,711
-|- style="text-align:center;"
-| {{party shading/Democratic}} |[[Grant County, Arkansas|Grant]]
-| {{party shading/Democratic}} |248
-| {{party shading/Democratic}} |83.22%
-| 50 
-| 16.84% 
-| {{party shading/Democratic}} |197
-| {{party shading/Democratic}} |66.38%
-| {{party shading/Democratic}} |298
-|- style="text-align:center;"
-| {{party shading/Democratic}} |[[Greene County, Arkansas|Greene]]
-| {{party shading/Democratic}} |547
-| {{party shading/Democratic}} |79.51%
-| 141 
-| 20.49% 
-| {{party shading/Democratic}} |406
-| {{party shading/Democratic}} |59.02%
-| {{party shading/Democratic}} |688
-|- style="text-align:center;"
-| {{party shading/Democratic}} |[[Hempstead County, Arkansas|Hempstead]]
-| {{party shading/Democratic}} |374
-| {{party shading/Democratic}} |89.26%
-| 45 
-| 10.74% 
-| {{party shading/Democratic}} |329
-| {{party shading/Democratic}} |78.52%
-| {{party shading/Democratic}} |419
-|- style="text-align:center;"
-| {{party shading/Democratic}} |[[Hot Spring County, Arkansas|Hot Spring]]
-| {{party shading/Democratic}} |670
-| {{party shading/Democratic}} |79.38%
-| 174 
-| 20.62% 
-| {{party shading/Democratic}} |496
-| {{party shading/Democratic}} |58.76%
-| {{party shading/Democratic}} |844
-|- style="text-align:center;"
-| {{party shading/Democratic}} |[[Howard County, Arkansas|Howard]]
-| {{party shading/Democratic}} |268
-| {{party shading/Democratic}} |81.46%
-| 61 
-| 18.54% 
-| {{party shading/Democratic}} |207
-| {{party shading/Democratic}} |62.92%
-| {{party shading/Democratic}} |329
-|- style="text-align:center;"
-| {{party shading/Democratic}} |[[Independence County, Arkansas|Independence]]
-| {{party shading/Democratic}} |517
-| {{party shading/Democratic}} |79.66%
-| 132 
-| 20.34% 
-| {{party shading/Democratic}} |385
-| {{party shading/Democratic}} |59.32%
-| {{party shading/Democratic}} |649
-|- style="text-align:center;"
-| {{party shading/Democratic}} |[[Izard County, Arkansas|Izard]]
-| {{party shading/Democratic}} |185
-| {{party shading/Democratic}} |76.13%
-| 58 
-| 23.87% 
-| {{party shading/Democratic}} |127
-| {{party shading/Democratic}} |52.26%
-| {{party shading/Democratic}} |243
-|- style="text-align:center;"
-| {{party shading/Democratic}} |[[Jackson County, Arkansas|Jackson]]
-| {{party shading/Democratic}} |234
-| {{party shading/Democratic}} |75.97%
-| 74 
-| 24.03% 
-| {{party shading/Democratic}} |160
-| {{party shading/Democratic}} |51.94%
-| {{party shading/Democratic}} |308
-|- style="text-align:center;"
-| {{party shading/Democratic}} |[[Jefferson County, Arkansas|Jefferson]]
-| {{party shading/Democratic}} |5,594
-| {{party shading/Democratic}} |80.22%
-| 1,379 
-| 19.78% 
-| {{party shading/Democratic}} |4,215
-| {{party shading/Democratic}} |60.44%
-| {{party shading/Democratic}} |6,973
-|- style="text-align:center;"
-| {{party shading/Democratic}} |[[Johnson County, Arkansas|Johnson]]
-| {{party shading/Democratic}} |293
-| {{party shading/Democratic}} |76.10%
-| 92 
-| 23.90% 
-| {{party shading/Democratic}} |201
-| {{party shading/Democratic}} |52.20%
-| {{party shading/Democratic}} |385
-|- style="text-align:center;"
-| {{party shading/Democratic}} |[[Lafayette County, Arkansas|Lafayette]]
-| {{party shading/Democratic}} |211
-| {{party shading/Democratic}} |81.15%
-| 49 
-| 18.85% 
-| {{party shading/Democratic}} |162
-| {{party shading/Democratic}} |62.30%
-| {{party shading/Democratic}} |260
-|- style="text-align:center;"
-| {{party shading/Democratic}} |[[Lawrence County, Arkansas|Lawrence]]
-| {{party shading/Democratic}} |222
-| {{party shading/Democratic}} |86.38%
-| 35 
-| 13.62% 
-| {{party shading/Democratic}} |187
-| {{party shading/Democratic}} |72.76%
-| {{party shading/Democratic}} |257
-|- style="text-align:center;"
-| {{party shading/Democratic}} |[[Lee County, Arkansas|Lee]]
-| {{party shading/Democratic}} |1,572
-| {{party shading/Democratic}} |86.61%
-| 243 
-| 13.39% 
-| {{party shading/Democratic}} |1,329
-| {{party shading/Democratic}} |73.22%
-| {{party shading/Democratic}} |1,815
-|- style="text-align:center;"
-| {{party shading/Democratic}} |[[Lincoln County, Arkansas|Lincoln]]
-| {{party shading/Democratic}} |128
-| {{party shading/Democratic}} |73.14%
-| 47 
-| 26.86% 
-| {{party shading/Democratic}} |81
-| {{party shading/Democratic}} |46.28%
-| {{party shading/Democratic}} |175
-|- style="text-align:center;"
-| {{party shading/Democratic}} |[[Little River County, Arkansas|Little River]]
-| {{party shading/Democratic}} |175
-| {{party shading/Democratic}} |71.72%
-| 69 
-| 28.28% 
-| {{party shading/Democratic}} |106
-| {{party shading/Democratic}} |43.44%
-| {{party shading/Democratic}} |244
-|- style="text-align:center;"
-| {{party shading/Democratic}} |[[Logan County, Arkansas|Logan]]
-| {{party shading/Democratic}} |239
-| {{party shading/Democratic}} |77.60%
-| 69 
-| 22.40% 
-| {{party shading/Democratic}} |170
-| {{party shading/Democratic}} |55.20%
-| {{party shading/Democratic}} |308
-|- style="text-align:center;"
-| {{party shading/Democratic}} |[[Lonoke County, Arkansas|Lonoke]]
-| {{party shading/Democratic}} |1,273
-| {{party shading/Democratic}} |80.01%
-| 318 
-| 19.99% 
-| {{party shading/Democratic}} |955
-| {{party shading/Democratic}} |60.02%
-| {{party shading/Democratic}} |1,591
-|- style="text-align:center;"
-| {{party shading/Democratic}} |[[Madison County, Arkansas|Madison]]
-| {{party shading/Democratic}} |165
-| {{party shading/Democratic}} |79.71%
-| 42 
-| 20.29% 
-| {{party shading/Democratic}} |123
-| {{party shading/Democratic}} |59.42%
-| {{party shading/Democratic}} |207
-|- style="text-align:center;"
-| {{party shading/Democratic}} |[[Marion County, Arkansas|Marion]]
-| {{party shading/Democratic}} |281
-| {{party shading/Democratic}} |75.13%
-| 93 
-| 24.87% 
-| {{party shading/Democratic}} |188
-| {{party shading/Democratic}} |50.26%
-| {{party shading/Democratic}} |374
-|- style="text-align:center;"
-| {{party shading/Democratic}} |[[Miller County, Arkansas|Miller]]
-| {{party shading/Democratic}} |786
-| {{party shading/Democratic}} |79.64%
-| 201 
-| 20.36% 
-| {{party shading/Democratic}} |585
-| {{party shading/Democratic}} |59.28%
-| {{party shading/Democratic}} |987
-|- style="text-align:center;"
-| {{party shading/Democratic}} |[[Mississippi County, Arkansas|Mississippi]]
-| {{party shading/Democratic}} |515
-| {{party shading/Democratic}} |80.47%
-| 125 
-| 19.53% 
-| {{party shading/Democratic}} |390
-| {{party shading/Democratic}} |60.94%
-| {{party shading/Democratic}} |640
-|- style="text-align:center;"
-| {{party shading/Democratic}} |[[Monroe County, Arkansas|Monroe]]
-| {{party shading/Democratic}} |313
-| {{party shading/Democratic}} |84.14%
-| 59 
-| 15.86% 
-| {{party shading/Democratic}} |254
-| {{party shading/Democratic}} |68.28%
-| {{party shading/Democratic}} |372
-|- style="text-align:center;"
-| {{party shading/Democratic}} |[[Montgomery County, Arkansas|Montgomery]]
-| {{party shading/Democratic}} |58
-| {{party shading/Democratic}} |67.44%
-| 28 
-| 32.56% 
-| {{party shading/Democratic}} |30
-| {{party shading/Democratic}} |34.88%
-| {{party shading/Democratic}} |86
-|- style="text-align:center;"
-| {{party shading/Democratic}} |[[Nevada County, Arkansas|Nevada]]
-| {{party shading/Democratic}} |282
-| {{party shading/Democratic}} |81.27%
-| 65 
-| 18.73% 
-| {{party shading/Democratic}} |217
-| {{party shading/Democratic}} |62.54%
-| {{party shading/Democratic}} |347
-|- style="text-align:center;"
-| {{party shading/Democratic}} |[[Newton County, Arkansas|Newton]]
-| {{party shading/Democratic}} |119
-| {{party shading/Democratic}} |80.95%
-| 28 
-| 19.05% 
-| {{party shading/Democratic}} |91
-| {{party shading/Democratic}} |61.90%
-| {{party shading/Democratic}} |147
-|- style="text-align:center;"
-| {{party shading/Democratic}} |[[Ouachita County, Arkansas|Ouachita]]
-| {{party shading/Democratic}} |728
-| {{party shading/Democratic}} |79.30%
-| 190 
-| 20.70% 
-| {{party shading/Democratic}} |538
-| {{party shading/Democratic}} |58.60%
-| {{party shading/Democratic}} |918
-|- style="text-align:center;"
-| {{party shading/Democratic}} |[[Perry County, Arkansas|Perry]]
-| {{party shading/Democratic}} |225
-| {{party shading/Democratic}} |86.54%
-| 35 
-| 13.46% 
-| {{party shading/Democratic}} |190
-| {{party shading/Democratic}} |73.08%
-| {{party shading/Democratic}} |260
-|- style="text-align:center;"
-| {{party shading/Democratic}} |[[Phillips County, Arkansas|Phillips]]
-| {{party shading/Democratic}} |1,948
-| {{party shading/Democratic}} |83.50%
-| 385 
-| 16.50% 
-| {{party shading/Democratic}} |1,563
-| {{party shading/Democratic}} |67.00%
-| {{party shading/Democratic}} |2,333
-|- style="text-align:center;"
-| {{party shading/Democratic}} |[[Pike County, Arkansas|Pike]]
-| {{party shading/Democratic}} |138
-| {{party shading/Democratic}} |85.71%
-| 23 
-| 14.29% 
-| {{party shading/Democratic}} |115
-| {{party shading/Democratic}} |71.42%
-| {{party shading/Democratic}} |161
-|- style="text-align:center;"
-| {{party shading/Democratic}} |[[Poinsett County, Arkansas|Poinsett]]
-| {{party shading/Democratic}} |211
-| {{party shading/Democratic}} |83.40%
-| 42 
-| 16.60% 
-| {{party shading/Democratic}} |168
-| {{party shading/Democratic}} |66.80%
-| {{party shading/Democratic}} |253
-|- style="text-align:center;"
-| {{party shading/Democratic}} |[[Polk County, Arkansas|Polk]]
-| {{party shading/Democratic}} |185
-| {{party shading/Democratic}} |73.12%
-| 68 
-| 26.88% 
-| {{party shading/Democratic}} |117
-| {{party shading/Democratic}} |46.24%
-| {{party shading/Democratic}} |253
-|- style="text-align:center;"
-| {{party shading/Democratic}} |[[Pope County, Arkansas|Pope]]
-| {{party shading/Democratic}} |927
-| {{party shading/Democratic}} |75.06%
-| 308 
-| 24.94% 
-| {{party shading/Democratic}} |619
-| {{party shading/Democratic}} |50.12%
-| {{party shading/Democratic}} |1,235
-|- style="text-align:center;"
-| {{party shading/Democratic}} |[[Prairie County, Arkansas|Prairie]]
-| {{party shading/Democratic}} |51
-| {{party shading/Democratic}} |80.95%
-| 12 
-| 19.05% 
-| {{party shading/Democratic}} |39
-| {{party shading/Democratic}} |61.90%
-| {{party shading/Democratic}} |63
-|- style="text-align:center;"
-| {{party shading/Democratic}} |[[Pulaski County, Arkansas|Pulaski]]
-| {{party shading/Democratic}} |33,841
-| {{party shading/Democratic}} |84.07%
-| 6,411 
-| 15.93% 
-| {{party shading/Democratic}} |27,430
-| {{party shading/Democratic}} |68.14%
-| {{party shading/Democratic}} |40,252
-|- style="text-align:center;"
-| {{party shading/Democratic}} |[[Randolph County, Arkansas|Randolph]]
-| {{party shading/Democratic}} |229
-| {{party shading/Democratic}} |83.27%
-| 46 
-| 16.73% 
-| {{party shading/Democratic}} |183
-| {{party shading/Democratic}} |66.54%
-| {{party shading/Democratic}} |275
-|- style="text-align:center;"
-| {{party shading/Democratic}} |[[Saline County, Arkansas|Saline]]
-| {{party shading/Democratic}} |3,924
-| {{party shading/Democratic}} |82.58%
-| 828 
-| 17.42% 
-| {{party shading/Democratic}} |3,096
-| {{party shading/Democratic}} |65.16%
-| {{party shading/Democratic}} |4,752
-|- style="text-align:center;"
-| {{party shading/Democratic}} |[[Scott County, Arkansas|Scott]]
-| {{party shading/Democratic}} |54
-| {{party shading/Democratic}} |73.97%
-| 19 
-| 26.03% 
-| {{party shading/Democratic}} |35
-| {{party shading/Democratic}} |47.94%
-| {{party shading/Democratic}} |73
-|- style="text-align:center;"
-| {{party shading/Democratic}} |[[Searcy County, Arkansas|Searcy]]
-| {{party shading/Democratic}} |83
-| {{party shading/Democratic}} |81.37%
-| 19 
-| 18.63% 
-| {{party shading/Democratic}} |64
-| {{party shading/Democratic}} |62.74%
-| {{party shading/Democratic}} |102
-|- style="text-align:center;"
-| {{party shading/Democratic}} |[[Sebastian County, Arkansas|Sebastian]]
-| {{party shading/Democratic}} |2,475
-| {{party shading/Democratic}} |73.79%
-| 879 
-| 26.21% 
-| {{party shading/Democratic}} |1,596
-| {{party shading/Democratic}} |47.58%
-| {{party shading/Democratic}} |3,354
-|- style="text-align:center;"
-| {{party shading/Democratic}} |[[Sevier County, Arkansas|Sevier]]
-| {{party shading/Democratic}} |28
-| {{party shading/Democratic}} |77.78%
-| 8 
-| 22.22% 
-| {{party shading/Democratic}} |20
-| {{party shading/Democratic}} |55.56%
-| {{party shading/Democratic}} |36
-|- style="text-align:center;"
-| {{party shading/Democratic}} |[[Sharp County, Arkansas|Sharp]]
-| {{party shading/Democratic}} |217
-| {{party shading/Democratic}} |73.81%
-| 77 
-| 26.19% 
-| {{party shading/Democratic}} |140
-| {{party shading/Democratic}} |47.62%
-| {{party shading/Democratic}} |294
-|- style="text-align:center;"
-| {{party shading/Democratic}} |[[St. Francis County, Arkansas|St. Francis]]
-| {{party shading/Democratic}} |771
-| {{party shading/Democratic}} |87.22%
-| 113 
-| 12.78% 
-| {{party shading/Democratic}} |658
-| {{party shading/Democratic}} |74.44%
-| {{party shading/Democratic}} |884
-|- style="text-align:center;"
-| {{party shading/Democratic}} |[[Stone County, Arkansas|Stone]]
-| {{party shading/Democratic}} |157
-| {{party shading/Democratic}} |75.12%
-| 52 
-| 24.88% 
-| {{party shading/Democratic}} |105
-| {{party shading/Democratic}} |50.24%
-| {{party shading/Democratic}} |209
-|- style="text-align:center;"
-| {{party shading/Democratic}} |[[Union County, Arkansas|Union]]
-| {{party shading/Democratic}} |928
-| {{party shading/Democratic}} |80.14%
-| 230 
-| 19.86% 
-| {{party shading/Democratic}} |698
-| {{party shading/Democratic}} |60.28%
-| {{party shading/Democratic}} |1,158
-|- style="text-align:center;"
-| {{party shading/Democratic}} |[[Van Buren County, Arkansas|Van Buren]]
-| {{party shading/Democratic}} |300
-| {{party shading/Democratic}} |77.92%
-| 85 
-| 22.08% 
-| {{party shading/Democratic}} |215
-| {{party shading/Democratic}} |55.84%
-| {{party shading/Democratic}} |385
-|- style="text-align:center;"
-| {{party shading/Democratic}} |[[Washington County, Arkansas|Washington]]
-| {{party shading/Democratic}} |12,879
-| {{party shading/Democratic}} |82.96%
-| 2,646
-| 17.04% 
-| {{party shading/Democratic}} |10,233
-| {{party shading/Democratic}} |65.92%
-| {{party shading/Democratic}} |15,525
-|- style="text-align:center;"
-| {{party shading/Democratic}} |[[White County, Arkansas|White]]
-| {{party shading/Democratic}} |1,094
-| {{party shading/Democratic}} |80.26%
-| 269
-| 19.74% 
-| {{party shading/Democratic}} |825
-| {{party shading/Democratic}} |60.52%
-| {{party shading/Democratic}} |1,363
-|- style="text-align:center;"
-| {{party shading/Democratic}} |[[Woodruff County, Arkansas|Woodruff]]
-| {{party shading/Democratic}} |209
-| {{party shading/Democratic}} |84.96%
-| 37 
-| 15.04% 
-| {{party shading/Democratic}} |172
-| {{party shading/Democratic}} |69.92%
-| {{party shading/Democratic}} |246
-|- style="text-align:center;"
-| {{party shading/Democratic}} |[[Yell County, Arkansas|Yell]]
-| {{party shading/Democratic}} |169
-| {{party shading/Democratic}} |76.82%
-| 51 
-| 23.18% 
-| {{party shading/Democratic}} |118
-| {{party shading/Democratic}} |53.64%
-| {{party shading/Democratic}} |220
-|-
-!Totals!!104,725!!81.03%!!24,520!!18.97%!!80,205!!62.06%!!129,245
-|}
-
 ==Libertarian primary==
 ===Candidates===
 ====Nominee====
@@ -783,53 +95,62 @@ The '''2026 Arkansas gubernatorial election''' will be held on November 3, 2026,
 
 ==General election==
 ===Predictions===
-{|class="wikitable" style=text-align:center
+{|class="wikitable"style=text-align:center
 !Source
 !Ranking
 !As of
 |-
-|align=left|''[[The Cook Political Report]]''<ref>{{cite web|title=2026 CPR Governor Race ratings|url=https://www.cookpolitical.com/ratings/governor-race-ratings|website=[[The Cook Political Report]]|access-date=October 11, 2026}}</ref>
+|align=left|''[[The Cook Political Report]]''<ref>{{cite web|title=2026 CPR Governor Race ratings|url=https://www.cookpolitical.com/ratings/governor-race-ratings|work=[[The Cook Political Report]]|access-date=October 11, 2026}}</ref>
 |{{USRaceRating|Solid|R}}
 |October 1, 2026
 |-
-|align=left|[[Decision Desk HQ]]<ref name="DDHQ">{{cite web |title=2026 Governor Forecast |url=https://votes.decisiondeskhq.com/forecast/2026/governor |website=[[Decision Desk HQ]] |access-date=October 11, 2026}}</ref>
+|align=left|[[Decision Desk HQ]]<ref>{{cite web|title=2026 Governor Forecast|url=https://votes.decisiondeskhq.com/forecast/2026/governor|publisher=[[Decision Desk HQ]]|access-date=October 11, 2026}}</ref>
 |{{USRaceRating|Safe|R}}
 |October 11, 2026
 |-
-|align=left|[[Fox News]]<ref>{{Cite news |last=Numa |first=Rémy |title=Fox News Power Rankings: The biggest surprises come after October |url=https://www.foxnews.com/politics/fox-news-power-rankings-the-biggest-surprises-come-after-october |work=[[Fox News]] |date=October 6, 2026 |access-date=October 11, 2026}}</ref>
+|align=left|[[Fox News]]<ref>{{Cite news|last=Numa|first=Rémy|date=October 6, 2026|title=Fox News Power Rankings: The biggest surprises come after October|url=https://www.foxnews.com/politics/fox-news-power-rankings-the-biggest-surprises-come-after-october|publisher=[[Fox News]]|access-date=October 11, 2026}}</ref>
 |{{USRaceRating|Solid|R}}
 |October 6, 2026
 |-
-|align=left|''[[Inside Elections]]''<ref>{{Cite web|title=Gubernatorial Ratings|url=https://insideelections.com/ratings/governor|access-date=October 11, 2026|website=[[Inside Elections]]}}</ref>
+|align=left|''[[Inside Elections]]''<ref>{{Cite web|title=Gubernatorial Ratings|url=https://insideelections.com/ratings/governor|access-date=October 11, 2026|work=[[Inside Elections]]}}</ref>
 |{{USRaceRating|Solid|R}}
 |October 1, 2026
 |-
-|align="left"|[[RealClearPolitics]]<ref>{{Cite web|url=https://www.realclearpolling.com/maps/governor/2026/toss-up |title=2026 Governor Races |website=[[RealClearPolitics]] |access-date=October 11, 2026}}</ref>
+|align="left"|[[RealClearPolitics]]<ref>{{Cite web|title=2026 Governor Races|url=https://www.realclearpolling.com/maps/governor/2026/toss-up|publisher=[[RealClearPolitics]]|access-date=October 11, 2026}}</ref>
 |{{USRaceRating|Solid|R}}
 |October 5, 2026
 |-
-|align=left|''[[Sabato's Crystal Ball]]''<ref>{{cite web|title=2026 Governor|url=https://centerforpolitics.org/crystalball/2026-governor/|website=[[Sabato's Crystal Ball]]|access-date=October 11, 2026}}</ref>
+|align=left|''[[Sabato's Crystal Ball]]''<ref>{{cite web|title=2026 Governor|url=https://centerforpolitics.org/crystalball/2026-governor/|work=[[Sabato's Crystal Ball]]|access-date=October 11, 2026}}</ref>
 |{{USRaceRating|Safe|R}}
 |October 6, 2026
 |-
-|align="left"|[[Silver Bulletin]]<ref name="Silver">{{Cite web |url=https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model |title=FLIPR 2026 midterm election forecast |last1=Silver |first1=Nate |author1-link=Nate Silver |last2=McKown-Dawson |first2=Eli |website=[[Silver Bulletin]] |via=[[Substack]] |date=October 11, 2026 |orig-date=August 11, 2026 |access-date=October 11, 2026 |url-access=subscription}}</ref>
+|align="left"|[[Silver Bulletin]]<ref>{{Cite web|last1=Silver|first1=Nate|author1-link=Nate Silver|last2=McKown-Dawson|first2=Eli|date=October 11, 2026|orig-date=August 11, 2026|title=FLIPR 2026 midterm election forecast|url=https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model|url-access=subscription|work=[[Silver Bulletin]]|access-date=October 11, 2026|via=[[Substack]]}}</ref>
 |{{USRaceRating|Solid|R}}
 |October 11, 2026
 |}
 
 ===Polling===
-{| class="wikitable" style="font-size:90%;text-align:center;"
-|- valign=bottom
-! Poll source
-! Date(s)<br />administered
-! Sample<br />size{{efn|name=Key|Key:<br />A – all adults<br />RV – registered voters<br />LV – likely voters<br />V – unclear}}
-! Margin<br />{{nowrap|of error}}
-! style="width:100px"| Sarah<br />Huckabee Sanders (R)
-! style="width:100px"| Fredrick<br />Love (D)
-! style="width:100px"| Colt<br />Shelby (L)
-! Undecided
+{|class="wikitable"style="font-size:90%;text-align:center;"
+|-valign=bottom
+!Poll source
+!Date(s)<br/>administered
+!Sample<br/>size{{efn|Key:<br />A – all adults<br />RV – registered voters<br />LV – likely voters<br />V – unclear}}
+!Margin<br/>of error
+!style="width:100px"|Sarah<br/>Huckabee Sanders (R)
+!style="width:100px"|Fredrick<br/>Love (D)
+!style="width:100px"|Colt<br/>Shelby (L)
+!Undecided
 |-
-|style="text-align:left;"|[[Hendrix College]]<ref>{{Cite web|url=https://talkbusiness.net/2026/08/poll-gov-sanders-holds-lead-over-two-opponents/|title=Poll: Gov. Sanders holds lead over two opponents|website=Talk Business & Politics|date=August 18, 2026|access-date=August 19, 2026}}</ref>{{efn-ua|Poll sponsored by Talk Business & Politics}}
+|style="text-align:left;"|[[Hendrix College]]<ref>{{Cite web|title=Poll: Gov. Sanders stretches lead over two opponents; Shelby support grows|url=https://talkbusiness.net/2026/10/poll-gov-sanders-stretches-lead-over-two-opponents-shelby-support-grows/|url-status=live|archive-url=https://web.archive.org/web/20261018154425/https://talkbusiness.net/2026/10/poll-gov-sanders-stretches-lead-over-two-opponents-shelby-support-grows/|archive-date=October 18, 2026|work=Talk Business & Politics|date=October 18, 2026|access-date=October 18, 2026}}</ref>{{efn-ua|name=A|Poll sponsored by ''Talk Business & Politics''}}
+|October 8–13, 2026
+|709 (LV)
+|±&nbsp;5.0%
+|{{party shading/Republican}}|'''51%'''
+|32%
+|11%
+|6%
+|-
+|style="text-align:left;"|[[Hendrix College]]<ref>{{Cite web|title=Poll: Gov. Sanders holds lead over two opponents|url=https://talkbusiness.net/2026/08/poll-gov-sanders-holds-lead-over-two-opponents/|url-status=live|archive-url=https://web.archive.org/web/20261011190614/https://talkbusiness.net/2026/08/poll-gov-sanders-holds-lead-over-two-opponents/|archive-date=October 11, 2026|work=Talk Business & Politics|date=August 18, 2026|access-date=August 19, 2026}}</ref>{{efn-ua|name=A}}
 |August 11–12, 2026
 |1,217 (LV)
 |±&nbsp;4.7%
@@ -840,7 +161,7 @@ The '''2026 Arkansas gubernatorial election''' will be held on November 3, 2026,
 |-
 |}
 
-== See also ==
+==See also==
 *[[2026 United States elections]]
 *[[2026 Arkansas elections]]
 *[[2026 United States Senate election in Arkansas]]
@@ -849,7 +170,7 @@ The '''2026 Arkansas gubernatorial election''' will be held on November 3, 2026,
 
 ==Notes==
 {{notelist}}
-'''Partisan clients'''<br />
+'''Partisan clients'''<br/>
 {{notelist-ua}}
 
 ==References==
@@ -863,7 +184,6 @@ The '''2026 Arkansas gubernatorial election''' will be held on November 3, 2026,
 
 {{Arkansas elections}}
 {{2026 United States elections}}
-
 [[Category:Arkansas gubernatorial elections]]
 [[Category:2026 Arkansas elections|Gubernatorial]]
 [[Category:2026 United States gubernatorial elections|Arkansas]]

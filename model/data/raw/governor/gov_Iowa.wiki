@@ -12,16 +12,16 @@
 | next_election = 2030 Iowa gubernatorial election
 | next_year = 2030
 | election_date = November 3, 2026
-| image1 = Rob Sand campaign headshot (cropped 2).jpg
-| nominee1 = Rob Sand
-| party1 = Democratic  Party of Iowa
-| running_mate1 = Dave Muhlbauee
+| image1 = Zach Lahn IA State Fair 2026.jog (cropped).jpg
+| nominee1 = Zach Lahn
+| party1 = Republican Party of Iowa
+| running_mate1 = [[Derek Wulf]]
 | popular_vote1 = 
 | percentage1 = 
-| image2 = Zach Lahn IA State Fair 2026.jog (cropped).jpg
-| nominee2 = [[Zach Lahn]]
-| running_mate2 = Derek Wulf
-| party2 = Iowa Republican Party
+| image2 = Rob Sand campaign headshot (cropped 1).jpg
+| nominee2 = [[Rob Sand]]
+| running_mate2 = Dave Muhlbauer
+| party2 = Iowa Democratic Party
 | popular_vote2 = 
 | percentage2 = 
 | title = [[Governor of Iowa|governor]]
@@ -503,7 +503,6 @@ In early September, ''[[The Des Moines Register]]'' reported that the [[Black Ha
 
 ;Newspapers
 *''[[The Des Moines Register]]''<ref>{{cite web|date=October 11, 2026|title=Register editorial board endorses Rob Sand for Iowa Governor |url=https://www.desmoinesregister.com/story/opinion/editorials/2026/10/11/rob-sand-iowa-governor-race-election-2026/91760644007/?gnt-cfr=1&gca-cat=p&gca-uir=true&gca-epti=z11xx01p119050l115750c119050e116075v11xx01d--48--b--48--&gca-ft=217&gca-ds=sophi |website=[[The Des Moines Register]]|access-date=October 11, 2026}}</ref>
-
 *''[[The Gazette (Cedar Rapids, Iowa)|The Gazette]]<ref>{{Cite web |date=2026-10-14 |title=Gazette Editorial: Rob Sand is the best choice for governor |url=https://www.thegazette.com/opinion/gazette-editorial-rob-sand-is-best-choice-for-iowa-governor/article_cf1330f6-f243-4362-9301-2ed4e9033de0.html |access-date=2026-10-18 |website=The Gazette |language=en}}</ref>
 
 ;Political parties
